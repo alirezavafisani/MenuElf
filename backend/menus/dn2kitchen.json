@@ -1,0 +1,488 @@
+{
+  "restaurant": "dn2kitchen",
+  "parsed_at": "2026-02-06T02:01:05.401326",
+  "item_count": 41,
+  "items": [
+    {
+      "name": "Ogbono Soup",
+      "price": 130.0,
+      "description": "Ogbono Soup",
+      "category": "FOOD",
+      "simplified_description": "A traditional Nigerian thick soup made with ogbono seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oha Soup",
+      "price": 130.0,
+      "description": "Oha Soup",
+      "category": "FOOD",
+      "simplified_description": "A Nigerian soup made with Oha leaves and assorted meats.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Afang Soup",
+      "price": 130.0,
+      "description": "Afang Soup",
+      "category": "FOOD",
+      "simplified_description": "A rich Nigerian vegetable soup made with Afang leaves and meats.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepper Soup",
+      "price": 100.0,
+      "description": "Pepper Soup",
+      "category": "FOOD",
+      "simplified_description": "A spicy Nigerian broth with meat and pepper spices.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Ofe Nsala",
+      "price": 130.0,
+      "description": "Ofe Nsala",
+      "category": "FOOD",
+      "simplified_description": "A Nigerian white soup made with catfish and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gbegiri",
+      "price": 80.0,
+      "description": "Gbegiri",
+      "category": "FOOD",
+      "simplified_description": "A Nigerian soup made from pureed beans.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Okro",
+      "price": 40.0,
+      "description": "Plain Okro",
+      "category": "FOOD",
+      "simplified_description": "A simple dish of cooked okra without added ingredients.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya",
+      "price": 80.0,
+      "description": "Thinly sliced beef cuts marinated in our authentic suya spice mix and grilled. Nutty, moist and savoury.",
+      "category": "FOOD",
+      "simplified_description": "Grilled spicy marinated beef slices with a nutty flavor.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moi Moi",
+      "price": 70.0,
+      "description": "10 Packs. Steamed black eyed beans. a blend of onions, red peppers and habanero. Garnished with shredded boiled mackerel fish and eggs . ( Can be tailored for vegetarians)",
+      "category": "FOOD",
+      "simplified_description": "Steamed black-eyed bean pudding with peppers, fish, and eggs.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": "Can be tailored for vegetarians"
+    },
+    {
+      "name": "Gizdodo",
+      "price": 70.0,
+      "description": "1/4 Tray",
+      "category": "FOOD",
+      "simplified_description": "A Nigerian dish usually made with gizzard and dodo (fried plantain).",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sharwarma",
+      "price": 75.0,
+      "description": "5wraps",
+      "category": "FOOD",
+      "simplified_description": "Five wraps filled with seasoned meat and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kebab",
+      "price": 60.0,
+      "description": "10sticks",
+      "category": "FOOD",
+      "simplified_description": "Ten skewers of grilled seasoned beef.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled/BBQ Fish",
+      "price": 30.0,
+      "description": "Grilled/BBQ Fish",
+      "category": "FOOD",
+      "simplified_description": "Fish grilled or barbecued to perfection.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Asun",
+      "price": 125.0,
+      "description": "Goatmeat smothered in a blend of red pepper sauce and onions. Tender and juicy. Perfect Friday night treat .😊",
+      "category": "FOOD",
+      "simplified_description": "Spicy grilled goat meat with red pepper sauce and onions.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Perfect Friday night treat"
+    },
+    {
+      "name": "Salad",
+      "price": 70.0,
+      "description": "Salad",
+      "category": "FOOD",
+      "simplified_description": "A fresh mix of raw vegetables.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plantain",
+      "price": 50.0,
+      "description": "Plantain",
+      "category": "FOOD",
+      "simplified_description": "Fried or cooked plantain slices.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Amala",
+      "price": 25.0,
+      "description": "5 wraps",
+      "category": "FOOD",
+      "simplified_description": "Five wraps of amala, a Nigerian yam flour dish.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Poundo yam",
+      "price": 25.0,
+      "description": "Fine smooth yam flour cooked and molded into poundo yam.",
+      "category": "FOOD",
+      "simplified_description": "Smooth yam flour cooked and shaped into poundo yam.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty BBQ wings",
+      "price": 45.0,
+      "description": "20 pcs",
+      "category": "FOOD",
+      "simplified_description": "Twenty pieces of specialty BBQ chicken wings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peppered Chicken",
+      "price": 50.0,
+      "description": "Peppered Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Beef",
+      "price": 85.0,
+      "description": "1/4 Tray",
+      "category": "FOOD",
+      "simplified_description": "Quarter tray of beef cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Fish (Whiting or Croaker)",
+      "price": 60.0,
+      "description": "Croaker Fish 10pcs",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of croaker fish cooked with pepper seasoning.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Gizzards",
+      "price": 80.0,
+      "description": "1/4 tray",
+      "category": "FOOD",
+      "simplified_description": "Quarter tray of gizzards cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Goatmeat",
+      "price": 120.0,
+      "description": "1/4 Tray",
+      "category": "FOOD",
+      "simplified_description": "Quarter tray of goat meat cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Snails",
+      "price": 160.0,
+      "description": "10 Pieces",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of snails cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Pomo",
+      "price": 80.0,
+      "description": "1/4 Tray",
+      "category": "FOOD",
+      "simplified_description": "Quarter tray of cow skin cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Turkey",
+      "price": 60.0,
+      "description": "10 Pieces",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of turkey cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Peppered Assorted Meats",
+      "price": 80.0,
+      "description": "1/4 tray",
+      "category": "FOOD",
+      "simplified_description": "Quarter tray of assorted meats cooked with pepper seasoning.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Valentine's Day Package",
+      "price": 140.0,
+      "description": "( Only for Feb 14 2026) ($140) Please put your item preference in the notes section. Thank you. Box Content: Whole grilled Tilapia or Grilled Turkey wings Jollof rice or Vermicilli noodles Plantain or Sweet potato fries with sauce Fruit salad Chocolate Cookies Non Alcoholic wine (Sweet Red wine on request at an extra cost)",
+      "category": "FOOD",
+      "simplified_description": "Special Valentine's Day meal box with grilled fish or turkey and sides.",
+      "dietary_info": [],
+      "other_info": "Seasonal item, available only on Feb 14, 2026"
+    },
+    {
+      "name": "Asun Rice",
+      "price": 100.0,
+      "description": "A mix of long grain rice and gently cooked goatmeat in our authentic traditional spicy sauce bursting with flavor.",
+      "category": "FOOD",
+      "simplified_description": "Long grain rice with spicy cooked goat meat.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jollof Rice",
+      "price": 65.0,
+      "description": "Sure one of the most popular dishes in our kitchen. Takes you right back to memory lane of Nigerian party rice with bursting flavors and smokiness. Made with long grain rice and cooked in a blend of roma tomatoes, bell peppers, onions and habanero.",
+      "category": "FOOD",
+      "simplified_description": "Spicy Nigerian party rice cooked with tomatoes, peppers, onions, and habanero.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice",
+      "price": 75.0,
+      "description": "Perfectly cooked, herbs infused stir-fry rice. Filled with diced liver , shrimps and mixed vegetables.",
+      "category": "FOOD",
+      "simplified_description": "Herb-infused stir-fried rice with liver, shrimp, and mixed vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 80.0,
+      "description": "Coconut Rice",
+      "category": "FOOD",
+      "simplified_description": "Rice cooked with coconut flavors.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palmoil/Native Rice",
+      "price": 85.0,
+      "description": "Palmoil/Native Rice",
+      "category": "FOOD",
+      "simplified_description": "Rice cooked with palm oil in a traditional style.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ewa Agoyin",
+      "price": 70.0,
+      "description": "Cooked mashed black eyed beans.",
+      "category": "FOOD",
+      "simplified_description": "Mashed black-eyed beans cooked to softness.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jollof Spaghetti",
+      "price": 75.0,
+      "description": "Jollof Spaghetti",
+      "category": "FOOD",
+      "simplified_description": "Spaghetti cooked in spicy Jollof sauce.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Porridge",
+      "price": 90.0,
+      "description": "Fresh yam cooked in a blend of bell peppers, onion and habanero pepper.",
+      "category": "FOOD",
+      "simplified_description": "Yam cooked with bell peppers, onions, and spicy habanero.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "White Rice",
+      "price": 40.0,
+      "description": "White Rice",
+      "category": "FOOD",
+      "simplified_description": "Plain cooked white rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ofada Rice",
+      "price": 70.0,
+      "description": "Ofada Rice",
+      "category": "FOOD",
+      "simplified_description": "Traditional Nigerian brown rice called Ofada rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beans Porridge",
+      "price": 75.0,
+      "description": "Beans Porridge",
+      "category": "FOOD",
+      "simplified_description": "Cooked beans in a porridge style.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Noodles",
+      "price": 100.0,
+      "description": "Freshly prepared with chicken bits, prawns ,veggies, Thai chilies and perfectly seasoned with soy sauce",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with chicken, prawns, veggies, Thai chilies, and soy sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    }
+  ]
+}

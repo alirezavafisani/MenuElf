@@ -1,0 +1,732 @@
+{
+  "restaurant": "greenchilidelight",
+  "parsed_at": "2026-02-06T02:25:08.605414",
+  "item_count": 57,
+  "items": [
+    {
+      "name": "Chicken Tikka",
+      "price": 16.0,
+      "description": "Tendered boneless chicken pieces marinated in yogurt with dry herbs and spices.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken marinated in yogurt and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka",
+      "price": 16.0,
+      "description": "Boneless Basa fish fillet marinated in yogurt and spices, cooked in clay oven.",
+      "category": "FOOD",
+      "simplified_description": "Marinated Basa fish fillet cooked in a clay oven.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 17.0,
+      "description": "Dried homemade cottage cheese, marinated in yogurt, lemon juice and traditional spices, cooked in Tandoor oven.",
+      "category": "FOOD",
+      "simplified_description": "Marinated cottage cheese cooked in a Tandoor oven.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Murg Malai Tikka (Creamy Chicken)",
+      "price": 16.0,
+      "description": "Overnight Marinated tender chicken with exotic spices, Cheese and cashew paste.",
+      "category": "FOOD",
+      "simplified_description": "Marinated chicken with cheese and cashew paste.",
+      "dietary_info": [
+        "halal",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Prawn",
+      "price": 17.0,
+      "description": "Jumbo size garlic prawns, marinated in turmeric, saffron spices and yogurt, cooked in clay oven.",
+      "category": "FOOD",
+      "simplified_description": "Garlic prawns marinated with spices and yogurt, cooked in clay oven.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sheek Kabab (beef)",
+      "price": 16.0,
+      "description": "Seasoned ground beef and spices cooked on skewers.",
+      "category": "FOOD",
+      "simplified_description": "Spiced ground beef cooked on skewers.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Haryali Kabab",
+      "price": 16.0,
+      "description": "Overnight marinated Chicken cooked with our homemade mint sauce and exotic spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken marinated with mint sauce and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 16.0,
+      "description": "Walk toasted fried noodles with fresh vegetables and homemade schezwan sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fried noodles with vegetables and spicy schezwan sauce.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "price": 17.0,
+      "description": "Walk toasted fried noodles with chicken & egg and schezwan sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fried noodles with chicken, egg, and spicy schezwan sauce.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Chicken",
+      "price": 17.0,
+      "description": "Chicken cubes toasted in bell pepper and onion, finished with inhouse sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken with bell pepper, onion, and special sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chilly Fish",
+      "price": 17.0,
+      "description": "Crispy deep-fry fish toasted with bell pepper and onion finished with inhouse sauce and spring onion.",
+      "category": "FOOD",
+      "simplified_description": "Crispy fish with bell pepper, onion, and special sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 13.0,
+      "description": "Aromatic rice stir fried with vegetable, soya sauce and spring onion.",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with vegetables and soy sauce.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 14.0,
+      "description": "Aromatic rice stir fried with egg, chicken, soya sauce and spring onion.",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with chicken, egg, and soy sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Prawn",
+      "price": 18.0,
+      "description": "Prawns toasted in bell pepper and onion, finished with inhouse sauce.",
+      "category": "FOOD",
+      "simplified_description": "Prawns with bell pepper, onion, and special sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sweet & Sour Chicken",
+      "price": 16.0,
+      "description": "Chicken cubes toasted with bell pepper, onion. finished with ginger lemon honey garlic sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken with bell pepper, onion, and sweet sour sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vege Manchurian",
+      "price": 16.0,
+      "description": "Vegetable dumpling cooked with Indochinese spices and Manchurian sauce.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable dumplings in spicy Manchurian sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey garlic cauliflower",
+      "price": 17.0,
+      "description": "Crispy cauliflower toasted with sweet and sour honey garlic sauce.",
+      "category": "FOOD",
+      "simplified_description": "Crispy cauliflower with sweet honey garlic sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chole bhature",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Puri",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 17.0,
+      "description": "Freshly marinated vegetables cooked with Basmati rice and Indian aromatic spices.",
+      "category": "FOOD",
+      "simplified_description": "Vegetables and Basmati rice cooked with Indian spices.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 17.0,
+      "description": "Cooked with Basmati rice, spices and steamed in the oven.",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked with Basmati rice and spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Biryani",
+      "price": 17.0,
+      "description": "Chunks of meat cooked with Basmati rice with Aroma spices.",
+      "category": "FOOD",
+      "simplified_description": "Lamb cooked with Basmati rice and aromatic spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Biryani",
+      "price": 17.0,
+      "description": "Chunks of meat cooked with Basmati rice with Aroma spices.",
+      "category": "FOOD",
+      "simplified_description": "Beef cooked with Basmati rice and aromatic spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Saffron Rice",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Peas Pulao",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Rice",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 3.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 4.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.5,
+      "description": "Plain flour bread with garlic.",
+      "category": "FOOD",
+      "simplified_description": "Plain flour bread flavored with garlic.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Naan",
+      "price": 5.0,
+      "description": "Stuffed onion and spices.",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with onions and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Naan",
+      "price": 6.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "Naan bread filled with cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peshawari Naan",
+      "price": 6.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "Sweet naan with nuts and dried fruits.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 3.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "Whole wheat flatbread baked in a tandoor.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Laccha Paratha",
+      "price": 4.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "Layered flaky flatbread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Potato (Aloo) Naan",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "Naan stuffed with spiced mashed potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Naan",
+      "price": 6.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "Naan filled with Indian cottage cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Gulab Jamun (2 Pcs)",
+      "price": 4.0,
+      "description": "Milk pastry balls with crushed nuts in warm sweet syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Warm milk balls soaked in sweet syrup with nuts.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rasmalai (2 Pcs)",
+      "price": 4.0,
+      "description": "Chilled homemade cheese patties in sweet cream sauce.",
+      "category": "DESSERT",
+      "simplified_description": "Soft cheese patties in sweet creamy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Chilled"
+    },
+    {
+      "name": "Rice Pudding / Kheer",
+      "price": 4.0,
+      "description": "Mouth watering pudding made with rice and milk.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet rice pudding made with milk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Sweet yogurt-based drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Mango-flavored yogurt drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Savory yogurt-based drink with salt.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coke",
+      "price": 2.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Carbonated cola soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Diet Coke",
+      "price": 2.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Sugar-free carbonated cola drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite",
+      "price": 2.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "A lemon-lime flavored carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger ale",
+      "price": 2.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "A sweet, carbonated ginger-flavored soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 2.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Plain bottled water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mineral Water",
+      "price": 3.0,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "Bottled mineral water with natural minerals.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Salad Mix Green",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "A fresh mix of green salad leaves.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Raita",
+      "price": 4.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "Yogurt mixed with vegetables and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mint Sauce",
+      "price": 3.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "A tangy sauce made from fresh mint leaves.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tamarind Sauce",
+      "price": 3.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "A sweet and sour sauce made from tamarind.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Chutney",
+      "price": 4.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "A sweet and spicy mango condiment.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "Crispy deep-fried potato sticks.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Poutine",
+      "price": 10.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "Fries topped with butter chicken and cheese curds.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips (6 pcs)",
+      "price": 12.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "Six pieces of breaded and fried chicken strips.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

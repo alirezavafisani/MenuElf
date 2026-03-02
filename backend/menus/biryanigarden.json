@@ -1,0 +1,36 @@
+{
+  "restaurant": "biryanigarden",
+  "parsed_at": "2025-12-25T02:24:01.494142",
+  "item_count": 3,
+  "items": [
+    {
+      "name": "Mutton Biryani",
+      "price": 17.99,
+      "description": "a fragrant and flavorful rice dish, is slow-cooked to perfection with tender, marinated mutton, aromatic basmati rice, and a blend of traditional South Indian spices. Each bite bursts with rich, savory flavors, enhanced by saffron, caramelized onions, and fresh herbs. Garnished with fried onions, fresh cilantro, and a hint of lemon.",
+      "simplified_description": "A flavorful rice dish with marinated mutton and spices, garnished with herbs and fried onions.",
+      "category": "Our Best Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken 65 Biryani",
+      "price": 16.99,
+      "description": "Our signature tandoori chicken is marinated in a blend of traditional spices and yogurt, then grilled to perfection in a clay oven. This dish delivers a smoky, charred flavor with a perfect balance of tenderness and spice.",
+      "simplified_description": "Grilled tandoori chicken marinated in spices, served with rice.",
+      "category": "Our Best Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Chicken Fried Rice",
+      "price": 14.5,
+      "description": "spicy and savory Indo-Chinese favorite, made with fragrant rice stir-fried in bold Schezwan sauce, tender chicken, and crisp vegetables. Packed with vibrant flavors and just the right amount of heat, it's a satisfying dish perfect for spice lovers looking for a flavorful twist.",
+      "simplified_description": "Spicy fried rice with chicken and vegetables in Schezwan sauce.",
+      "category": "Our Best Dishes",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    }
+  ]
+}

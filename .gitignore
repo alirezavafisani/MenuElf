@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+myenv/
+.venv/
+*.egg-info/
+
+# Environment
+.env
+backend/.env
+
+# Logs
+backend/chat_logs/
+
+# Node
+MenuElfApp/node_modules/
+MenuElfApp/.expo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+BS_and_Crawl4ai_combined_menu_JSONS/

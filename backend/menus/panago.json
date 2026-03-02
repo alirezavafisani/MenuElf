@@ -1,0 +1,196 @@
+{
+  "restaurant": "panago",
+  "parsed_at": "2026-02-06T03:39:02.452098",
+  "item_count": 21,
+  "items": [
+    {
+      "name": "Salt + Pepper Wings",
+      "price": 11.15,
+      "description": "Cracked black pepper with coarse ground salt for the savoury fan in all of us.",
+      "category": "FOOD",
+      "simplified_description": "Cracked black pepper with coarse ground salt for the savoury fan in all of us.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deliciously Simple Wings",
+      "price": 11.15,
+      "description": "Lightly seasoned, juicy wings straight off the grill!",
+      "category": "FOOD",
+      "simplified_description": "Lightly seasoned, juicy wings straight off the grill!",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Wings",
+      "price": 20.65,
+      "description": "Real honey with a sweet garlic undertone. Kids will love them!",
+      "category": "FOOD",
+      "simplified_description": "Real honey with a sweet garlic undertone. Kids will love them!",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot + Spicy Wings",
+      "price": 20.65,
+      "description": "Perfectly spicy. These wings are dry-rubbed with cayenne + pepper to give them their kick.",
+      "category": "FOOD",
+      "simplified_description": "Perfectly spicy. These wings are dry-rubbed with cayenne + pepper to give them t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt + Pepper Wings",
+      "price": 20.65,
+      "description": "Cracked black pepper with coarse ground salt for the savoury fan in all of us.",
+      "category": "FOOD",
+      "simplified_description": "Cracked black pepper with coarse ground salt for the savoury fan in all of us.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deliciously Simple Wings",
+      "price": 20.65,
+      "description": "Lightly seasoned, juicy wings straight off the grill!",
+      "category": "FOOD",
+      "simplified_description": "Lightly seasoned, juicy wings straight off the grill!",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain",
+      "price": 10.75,
+      "description": "Made from whole chicken, lightly breaded and perfectly seasoned.",
+      "category": "FOOD",
+      "simplified_description": "Made from whole chicken, lightly breaded and perfectly seasoned.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Honey",
+      "price": 11.25,
+      "description": "Breaded Chicken Bites topped with a Hot and Spicy seasoning blend and finished with a hot honey drizzle (includes dip).",
+      "category": "FOOD",
+      "simplified_description": "Breaded Chicken Bites topped with a Hot and Spicy seasoning blend and finished w",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ",
+      "price": 11.25,
+      "description": "Lightly breaded Chicken Bites with a Tex-mex seasoning and finished with a BBQ sauce drizzle.",
+      "category": "FOOD",
+      "simplified_description": "Lightly breaded Chicken Bites with a Tex-mex seasoning and finished with a BBQ s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain",
+      "price": 10.5,
+      "description": "10 pc lightly breaded nuggets made from plant-based proteins with a blend of herbs and seasonings (includes dip).",
+      "category": "FOOD",
+      "simplified_description": "10 pc lightly breaded nuggets made from plant-based proteins with a blend of her",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Honey",
+      "price": 11.0,
+      "description": "Impossible Nuggets with a hot and spicy seasoning blend and finished with a hot honey drizzle.",
+      "category": "FOOD",
+      "simplified_description": "Impossible Nuggets with a hot and spicy seasoning blend and finished with a hot ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ",
+      "price": 11.0,
+      "description": "Impossible Nuggets with a Tex-mex seasoning and finished with a BBQ sauce drizzle.",
+      "category": "FOOD",
+      "simplified_description": "Impossible Nuggets with a Tex-mex seasoning and finished with a BBQ sauce drizzl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic",
+      "price": 7.5,
+      "description": "Fresh baked dough, smothered in garlic spread and topped with mozzarella + cheddar.",
+      "category": "FOOD",
+      "simplified_description": "Fresh baked dough, smothered in garlic spread and topped with mozzarella + chedd",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Super Cheezy",
+      "price": 7.5,
+      "description": "Fresh baked dough, smothered in cheezy cheddar sauce and topped with mozzarella + cheddar.",
+      "category": "FOOD",
+      "simplified_description": "Fresh baked dough, smothered in cheezy cheddar sauce and topped with mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plant-based",
+      "price": 7.5,
+      "description": "Fresh baked dough, topped with vegan garlic spread and finished with plant-based cheeze.",
+      "category": "FOOD",
+      "simplified_description": "Fresh baked dough, topped with vegan garlic spread and finished with plant-based",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini New York Cheesecake",
+      "price": 5.35,
+      "description": "This smooth, rich cheesecake is made with cage-free eggs, contains no artificial colours or flavours and is non-GMO. The perfect individual indulgence.",
+      "category": "DESSERT",
+      "simplified_description": "This smooth, rich cheesecake is made with cage-free eggs, contains no artificial",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Chocolate Brownie",
+      "price": 5.55,
+      "description": "The new Triple Chocolate Brownie is chewy on the outside with a rich and fudgy centre. It is topped with pieces of chocolate cake, raspberry sauce and finished with a dark chocolate ganache.",
+      "category": "DESSERT",
+      "simplified_description": "The new Triple Chocolate Brownie is chewy on the outside with a rich and fudgy c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churro Bites",
+      "price": 6.85,
+      "description": "Bite-sized Churros rolled in cinnamon and sugar with sweet caramel filling.",
+      "category": "DESSERT",
+      "simplified_description": "Bite-sized Churros rolled in cinnamon and sugar with sweet caramel filling.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini New York Cheesecake",
+      "price": 5.35,
+      "description": "This smooth, rich cheesecake is made with cage-free eggs, contains no artificial colours or flavours and is non-GMO. The perfect individual indulgence.",
+      "category": "DESSERT",
+      "simplified_description": "This smooth, rich cheesecake is made with cage-free eggs, contains no artificial",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churro Bites",
+      "price": 6.85,
+      "description": "Bite-sized Churros rolled in cinnamon and sugar with sweet caramel filling.",
+      "category": "DESSERT",
+      "simplified_description": "Bite-sized Churros rolled in cinnamon and sugar with sweet caramel filling.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Chocolate Brownie",
+      "price": 5.55,
+      "description": "The new Triple Chocolate Brownie is chewy on the outside with a rich and fudgy centre. It is topped with pieces of chocolate cake, raspberry sauce and finished with a dark chocolate ganache.",
+      "category": "DESSERT",
+      "simplified_description": "The new Triple Chocolate Brownie is chewy on the outside with a rich and fudgy c",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

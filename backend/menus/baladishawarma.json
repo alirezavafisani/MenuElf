@@ -1,0 +1,690 @@
+{
+  "restaurant": "baladishawarma",
+  "parsed_at": "2026-02-06T00:51:59.557967",
+  "item_count": 53,
+  "items": [
+    {
+      "name": "Shawarma Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A plate of seasoned meat served with sides.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Plate",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A plate featuring spiced meat served with accompaniments.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair & Chicken Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A plate combining donair meat and chicken with sides.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Plate",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A plate of fried chickpea patties served with sides.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawouk Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled marinated chicken cubes served with sides.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab & Shish Tawouk Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A plate with beef kabab and grilled chicken with sides.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled beef kababs served with side dishes.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wrap",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken wrapped in flatbread with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Wrap",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Seasoned beef wrapped in flatbread with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Wrap",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spiced donair meat wrapped in flatbread with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Beef Wrap",
+      "price": 13.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A wrap combining grilled chicken and beef with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Wrap",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried chickpea patties wrapped in flatbread with toppings.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair & Chicken Wrap",
+      "price": 13.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A wrap with donair meat and grilled chicken with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawouk Wrap",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled marinated chicken wrapped in flatbread with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab Wrap",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled beef kabab wrapped in flatbread with toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Make it Combo (M) Fries & POP Can",
+      "price": 5.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Medium fries and a canned soda combo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Rice Bowl",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl topped with seasoned chicken shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Rice Bowl",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl topped with seasoned beef shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Rice Bowl",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl with spiced donair meat.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Beef Shawarma Rice Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl with both chicken and beef shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Rice Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl topped with fried falafel balls.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair & Chicken Shawarma Rice Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl with donair meat and chicken shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawouk Rice Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl with grilled marinated chicken cubes.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab & Shish Tawouk Rice Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl with beef kabab and grilled chicken cubes.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab Rice Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Rice bowl topped with grilled beef kabab.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Salad Bowl",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl with seasoned chicken shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Salad Bowl",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl with seasoned beef shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Salad Bowl",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl topped with spiced donair meat.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Beef Shawarma Salad Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl with both chicken and beef shawarma.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Salad Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl topped with fried falafel balls.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair & Chicken Shawarma Salad Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl with donair and chicken shawarma meats.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawouk Salad Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl featuring grilled marinated chicken skewers.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab & Shish Tawouk Salad Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl with beef kabab and grilled chicken skewers.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab Salad Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad bowl topped with seasoned grilled beef kabab.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 7.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fresh salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fatouch Salad",
+      "price": 7.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Mixed greens salad with toasted pita and tangy dressing.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice",
+      "price": 5.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Steamed plain white rice side dish.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Sauce",
+      "price": 5.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Creamy garlic-flavored sauce for dipping or topping.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus",
+      "price": 5.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Smooth chickpea dip blended with tahini and lemon.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafels",
+      "price": 6.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Deep-fried chickpea patties seasoned with herbs and spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava",
+      "price": 6.95,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Sweet layered pastry with nuts and honey syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 4.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy fried potato sticks.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Potatoes",
+      "price": 5.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Potatoes cooked with garlic and seasonings.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Meat (100g)",
+      "price": 4.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Additional 100 grams of meat.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Skewer",
+      "price": 5.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Additional grilled meat skewer.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POP Can",
+      "price": 2.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A canned carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle",
+      "price": 2.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A bottle of plain drinking water.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ayran Yogurt Drink",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A cold yogurt-based savory drink.",
+      "dietary_info": [
+        "halal",
+        "kosher",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POP Bottle",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A bottled carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Juice Bottle",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A bottle of fruit juice.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Barbican",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A non-alcoholic malt beverage.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Milk2Go (Chocolate)",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A ready-to-drink chocolate milk beverage.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vimto",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A sweet fruit-flavored soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

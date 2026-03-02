@@ -1,0 +1,115 @@
+{
+  "restaurant": "lloydspattydistro",
+  "parsed_at": "2026-02-06T03:08:27.760784",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "AB Jamaican Beef Patties",
+      "price": null,
+      "description": "Lloyd's Patties spicy beef patty, is a people's favorite with just the right amount of Alberta Beef, pastry and spice, for your mouth to enjoy life. Patties are sold by the box $43 or individually.",
+      "category": "FOOD",
+      "simplified_description": "Lloyd's Patties spicy beef patty, is a people's favorite with just the right amo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AB Jamaican chicken Patties",
+      "price": null,
+      "description": "These Lloyd's Chicken Patties are made from Canadian raised chickens, are seasoned to perfection, and have a very unique mouth-watering taste, these patties are sold for $43 a box or individually. Great for chicken lovers.",
+      "category": "FOOD",
+      "simplified_description": "These Lloyd's Chicken Patties are made from Canadian raised chickens, are season",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AB Jamaican Vegetable Patties",
+      "price": null,
+      "description": "Lloyd's Jamaican Vegetable Patties are great tasting, Canadian grown, and a great alternative for those who do not eat meat, or would like a change from meat. Sold in boxes for $43 or individually.",
+      "category": "FOOD",
+      "simplified_description": "Lloyd's Jamaican Vegetable Patties are great tasting, Canadian grown, and a grea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lloyd's Authentic Jerk Chicken",
+      "price": null,
+      "description": "Chicken goes through full jerk and marinating process, and is baked to perfection. Chicken is sold by the pound for $8.50 a pound, or in a combo with Jamaican style rice and a salad. Sold only on Friday & Saturday. Great meal for those who appreciate spice and flavour throughout each bite.",
+      "category": "FOOD",
+      "simplified_description": "Chicken goes through full jerk and marinating process, and is baked to perfectio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LLOYDS DISTRO JERK CHICKEN",
+      "price": 16.8,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DISTRO JERK PATTY",
+      "price": 8.0,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN/BEEF/VEGGIE LLOYDS DISTRO PATTY",
+      "price": 5.0,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LLOYDS COCO BREAD",
+      "price": 4.0,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LLOYDS DISTRO BOX OF PATTIES (10pcs)",
+      "price": 40.0,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LLOYD'S DISTRO CHEESE PATTY",
+      "price": 8.0,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JAMAICAN SORREL",
+      "price": 5.0,
+      "description": "(no description available)",
+      "category": "DRINK",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LLOYDS DISTRO COCO JERK PANINI",
+      "price": 9.2,
+      "description": "(no description available)",
+      "category": "FOOD",
+      "simplified_description": "(no description available)",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "restaurant": "bvrrestaurant",
+  "parsed_at": "2026-02-06T01:19:29.948769",
+  "item_count": 43,
+  "items": [
+    {
+      "name": "Fresh Shucked East Coast Oysters",
+      "price": null,
+      "description": "Mignonette, Fresh Grated Horseradish, Hot Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Fresh oysters served with mignonette, horseradish, and hot sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Galimax Living Greens",
+      "price": 17.0,
+      "description": "Comte, Hazelnuts, Honey Vinaigrette, Radish",
+      "category": "APPETIZER",
+      "simplified_description": "Mixed greens with cheese, hazelnuts, honey vinaigrette, and radish.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yellowfin Tuna Crudo",
+      "price": 23.0,
+      "description": "Salsa Verde, Fingerling Potato, Pearl Onion, Crispy Capers",
+      "category": "APPETIZER",
+      "simplified_description": "Raw yellowfin tuna with salsa verde, potatoes, onions, and capers.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moules & Frites",
+      "price": 29.0,
+      "description": "Coconut Broth, Shaved Fennel, Thai Basil, Fries",
+      "category": "APPETIZER",
+      "simplified_description": "Mussels cooked in coconut broth with fennel, basil, and fries.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese & Charcuterie",
+      "price": 31.0,
+      "description": "Pickles, Red Pepper Jelly, Fig Jam",
+      "category": "APPETIZER",
+      "simplified_description": "Assorted cheeses and meats served with pickles and jams.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beetroot Salad",
+      "price": 18.0,
+      "description": "Sudo Farms Organic Beets, Whipped Feta, Roasted Pistachio, Dill, Orange",
+      "category": "APPETIZER",
+      "simplified_description": "Organic beet salad with whipped feta, pistachios, dill, and orange.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Soup",
+      "price": 14.0,
+      "description": "Ask Your Server",
+      "category": "APPETIZER",
+      "simplified_description": "Soup of the day, please ask your server for details.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bison Tartare",
+      "price": 26.0,
+      "description": "Sourdough Crostini, Smoked Gouda Aioli, Crispy Shallots, Radish",
+      "category": "APPETIZER",
+      "simplified_description": "Raw bison with crostini, smoked gouda aioli, shallots, and radish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burrata Cheese",
+      "price": 27.0,
+      "description": "San Daniele Prosciutto. Pistachio, Cherry Tomatoes, Vin Cotto, Grilled Sourdough",
+      "category": "APPETIZER",
+      "simplified_description": "Burrata cheese with prosciutto, pistachios, tomatoes, and grilled bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Cocktail",
+      "price": 25.0,
+      "description": "Old Bay, Fresh Horseradish, Calabrian Chili",
+      "category": "APPETIZER",
+      "simplified_description": "Prawns served with Old Bay seasoning, horseradish, and chili sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "BVR Burger",
+      "price": 24.0,
+      "description": "Aged Cheddar, Garlic Aioli, Pickled Onion, Bacon – Served with Fries or Mixed Greens *Vegan option available",
+      "category": "FOOD",
+      "simplified_description": "Burger with cheddar, garlic aioli, pickled onion, bacon, and fries or greens.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Vegan option available"
+    },
+    {
+      "name": "Pan Seared Rainbow Trout Almondine",
+      "price": 36.0,
+      "description": "Fingerling Potatoes, Capers, Almonds, Almond Puree, Lemon",
+      "category": "FOOD",
+      "simplified_description": "Pan-seared trout with potatoes, capers, almonds, and lemon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": 25.0,
+      "description": "Savoy Cabbage, Pickles, Spicy Mayo",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken sandwich with cabbage, pickles, and spicy mayo.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Butternut Squash Risotto",
+      "price": 30.0,
+      "description": "Walnut Pesto, Bocconcini Cheese, Pumpkin Seed",
+      "category": "FOOD",
+      "simplified_description": "Creamy risotto with butternut squash, walnut pesto, cheese, and pumpkin seeds.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Angus Striploin",
+      "price": 45.0,
+      "description": "Frites, Peppercorn Sauce, Compound Butter",
+      "category": "FOOD",
+      "simplified_description": "Grilled Angus striploin served with fries, peppercorn sauce, and butter.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Chicken",
+      "price": 36.0,
+      "description": "Braised Kale, Carrot Puree, Beluga Lentils, Carrot Chips",
+      "category": "FOOD",
+      "simplified_description": "Roasted chicken served with kale, carrot puree, lentils, and carrot chips.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gigli",
+      "price": 32.0,
+      "description": "Soffritto Gigli, Mushroom, Grana Padano, Burrata Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pasta with mushrooms, cheese, and creamy burrata.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Basket Service",
+      "price": null,
+      "description": "_Sourdough Bread Baked Fresh In-House Daily, Served with Whipped Butter_",
+      "category": "SIDE",
+      "simplified_description": "Freshly baked sourdough bread served with whipped butter.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beetroot Salad",
+      "price": 18.0,
+      "description": "Sudo Farms Organic Beets, Whipped Feta, Roasted Pistachio, Orange, Dill, Beet Chips",
+      "category": "SALAD",
+      "simplified_description": "Beet salad with feta, pistachios, orange, dill, and beet chips.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Galimax Living Greens",
+      "price": 17.0,
+      "description": "Comte, Hazelnuts, Honey Vinaigrette, Radish",
+      "category": "SALAD",
+      "simplified_description": "Mixed greens with cheese, hazelnuts, honey vinaigrette, and radish.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "East Coast Oysters",
+      "price": null,
+      "description": "Mignonette, Fresh Horseradish, Lemon, Hot Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Fresh oysters served with mignonette, horseradish, lemon, and hot sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Daily Soup",
+      "price": 14.0,
+      "description": "Ask Your Server",
+      "category": "APPETIZER",
+      "simplified_description": "Soup of the day, please ask your server for details.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yellowfin Tuna Crudo",
+      "price": 23.0,
+      "description": "Salsa Verde, Fingerling Potato, Pearl Onion, Capers",
+      "category": "APPETIZER",
+      "simplified_description": "Raw yellowfin tuna with salsa verde, potatoes, onions, and capers.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled B.C Octopus",
+      "price": 30.0,
+      "description": "Roasted Garlic Hummus, Ras El Hanout, Pickled Onion, Cilantro Pistou, Potato Crumb",
+      "category": "APPETIZER",
+      "simplified_description": "Grilled octopus with garlic hummus, spices, pickled onion, and potato crumb.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salt Spring Island Mussels",
+      "price": 29.0,
+      "description": "Coconut Broth, Shaved Fennel, Grilled Sourdough, Thai Basil",
+      "category": "APPETIZER",
+      "simplified_description": "Mussels cooked in coconut broth with fennel, basil, and grilled sourdough.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese & Charcuterie",
+      "price": 31.0,
+      "description": "Pickles, Red Pepper Jelly, Fig Jam",
+      "category": "APPETIZER",
+      "simplified_description": "Cheese and cured meats served with pickles, pepper jelly, and fig jam.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bison Tartare",
+      "price": 26.0,
+      "description": "Sourdough Crisps, Smoked Gouda Aioli, Fried Shallots, Radish",
+      "category": "APPETIZER",
+      "simplified_description": "Raw bison with sourdough crisps, smoked cheese aioli, shallots, and radish.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Burrata Cheese",
+      "price": 27.0,
+      "description": "San Daniele Prosciutto, Pistachio, Vin Cotto, Cherry Tomato, Grilled Sourdough",
+      "category": "APPETIZER",
+      "simplified_description": "Burrata with prosciutto, pistachio, cherry tomato, and grilled sourdough.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Cocktail",
+      "price": 25.0,
+      "description": "Old Bay, Horseradish, Calabrian Chili",
+      "category": "APPETIZER",
+      "simplified_description": "Prawns served with spicy Old Bay, horseradish, and Calabrian chili sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Alberta Beef Tenderloin",
+      "price": 66.0,
+      "description": "Glazed Broccolini, Yukon Gold Potato Pave, Roasted Turnips, Onion Soubise",
+      "category": "FOOD",
+      "simplified_description": "Beef tenderloin with broccolini, potato pave, turnips, and onion sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Angus Beef Striploin",
+      "price": 54.0,
+      "description": "Yukon Gold Potato Pave, Oyster Mushrooms, Onion Soubise, Shishito Peppers",
+      "category": "FOOD",
+      "simplified_description": "Beef striploin served with potatoes, mushrooms, onion sauce, and peppers.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seared Hokkaido Scallops",
+      "price": 47.0,
+      "description": "Sauteed White Beans, Walnut, Gailan, Chorizo",
+      "category": "FOOD",
+      "simplified_description": "Scallops with white beans, walnut, Chinese broccoli, and spicy sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Surf & Turf",
+      "price": 118.0,
+      "description": "Bison Striploin, Bone Marrow, Hokkaido Scallops, Tiger Prawns serves two",
+      "category": "FOOD",
+      "simplified_description": "Bison, scallops, prawns, and bone marrow dish for two people.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Roasted Lamb Shank",
+      "price": 45.0,
+      "description": "Buttermilk Polenta, Brussels Sprouts, Leffers Baby Carrots, Pistachio Mint Pesto",
+      "category": "FOOD",
+      "simplified_description": "Lamb shank with creamy polenta, vegetables, and pistachio mint pesto.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Icelandic Cod",
+      "price": 42.0,
+      "description": "Double Smoked Bacon, Hokkaido Scallop Chowder, Baby Potato",
+      "category": "FOOD",
+      "simplified_description": "Cod with smoked bacon, scallop chowder, and baby potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Chicken",
+      "price": 42.0,
+      "description": "Braised Kale, Carrot Puree, Beluga Lentils, Carrot Chips",
+      "category": "FOOD",
+      "simplified_description": "Roasted chicken with kale, carrot puree, lentils, and carrot chips.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gigli",
+      "price": 32.0,
+      "description": "Soffritto Gigli, Mushroom, Grana Padano, Burrata Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pasta with mushrooms, Grana Padano, and creamy burrata cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bone in Alberta Pork Chop",
+      "price": 48.0,
+      "description": "Braised Savoy Cabbage, Whipped Potatoes, Gochujang Gastrique, Parsnip Chips",
+      "category": "FOOD",
+      "simplified_description": "Pork chop with cabbage, potatoes, spicy sauce, and parsnip chips.",
+      "dietary_info": [
+        "nut-free",
+        "gluten-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Eggplant",
+      "price": 29.0,
+      "description": "Miso Glaze, Hummus, Leffers Carrots, Tofu, Sesame Zaatar",
+      "category": "FOOD",
+      "simplified_description": "Roasted eggplant with miso, hummus, carrots, tofu, and sesame zaatar.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tiger Prawns – 3pc",
+      "price": 15.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Three pieces of tiger prawns.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hokkaido Scallops – 1pc",
+      "price": 11.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "One piece of Hokkaido scallop.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Compound Butter",
+      "price": 3.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A serving of compound butter.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Market Vegetables",
+      "price": 8.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A serving of seasonal market vegetables.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    }
+  ]
+}

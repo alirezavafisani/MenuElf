@@ -1,0 +1,97 @@
+{
+  "restaurant": "mrsinghspizza",
+  "parsed_at": "2026-02-06T03:27:20.708827",
+  "item_count": 10,
+  "items": [
+    {
+      "name": "Large Pizza Deal – $19.99",
+      "price": 19.99,
+      "description": "Build your own large pizza with 4 toppings + 2 dips or 2 pops. Perfect for vegetarian pizza lovers and desi pizza fans. Available for delivery or order pickup at your local pizza store.",
+      "category": "FOOD",
+      "simplified_description": "Build your own large pizza with 4 toppings + 2 dips or 2 pops. Perfect for veget",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer & Chaap Pizza – $24.99",
+      "price": 24.99,
+      "description": "Any Large Paneer or Chaap Pizza (with onion & green pepper) comes with 6 pieces of garlic bread, wedges, or 4 pops. Ideal for veg pizza lovers, or those looking for vegetarian pizza delivery.",
+      "category": "FOOD",
+      "simplified_description": "Any Large Paneer or Chaap Pizza (with onion & green pepper) comes with 6 pieces ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Large Combo – $34.99",
+      "price": 34.99,
+      "description": "Get 2 Large Pizzas with 8 toppings combined for parties, family nights, or gatherings. Share the flavor with everyone and enjoy vegetarian pizza toppings your way.",
+      "category": "FOOD",
+      "simplified_description": "Get 2 Large Pizzas with 8 toppings combined for parties, family nights, or gathe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate Cheese Pizza – $7.99",
+      "price": 7.99,
+      "description": "Ultimate Cheese Pizza, admired by our all Cheese Lover, only at $7 and you can grab these pizza deals. Available for delivery or order pickup at your local pizza store.",
+      "category": "FOOD",
+      "simplified_description": "Ultimate Cheese Pizza, admired by our all Cheese Lover, only at $7 and you can g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate Pepperoni Pizza – $8.99",
+      "price": 8.99,
+      "description": "Loaded with ultimate pepperoni which makes our Ultimate Pepperoni Pizza perfect for delivery, and best pizza deals for party. Grab it from your local pizza store.",
+      "category": "FOOD",
+      "simplified_description": "Loaded with ultimate pepperoni which makes our Ultimate Pepperoni Pizza perfect ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Pizzas 2 Toppings 1 + Dip",
+      "price": 22.49,
+      "description": "2 Toppings 1 + Dip",
+      "category": "FOOD",
+      "simplified_description": "2 Toppings 1 + Dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Medium Pizza 3 Toppings (Garlic Bread/Fries/Wedges) + 2 Pops + 2 Dips",
+      "price": 27.49,
+      "description": "3 Toppings (Garlic Bread/Fries/Wedges) + 2 Pops + 2 Dips",
+      "category": "FOOD",
+      "simplified_description": "3 Toppings (Garlic Bread/Fries/Wedges) + 2 Pops + 2 Dips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Pizza 4 Toppings 5 PCS Plant Based Bites",
+      "price": 21.89,
+      "description": "4 Toppings 5 PCS Plant Based Bites",
+      "category": "FOOD",
+      "simplified_description": "4 Toppings 5 PCS Plant Based Bites",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Pizza 4 Toppings",
+      "price": 24.79,
+      "description": "4 Toppings",
+      "category": "FOOD",
+      "simplified_description": "4 Toppings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Large Pizza (5 Toppings) Comes with 2 Dips + 1 Pop",
+      "price": 25.74,
+      "description": "(5 Toppings) Comes with 2 Dips + 1 Pop",
+      "category": "FOOD",
+      "simplified_description": "(5 Toppings) Comes with 2 Dips + 1 Pop",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

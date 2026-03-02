@@ -1,0 +1,556 @@
+{
+  "restaurant": "appnatiffin",
+  "parsed_at": "2025-12-25T02:35:28.512933",
+  "item_count": 61,
+  "items": [
+    {
+      "name": "Small Tiffin (8oz)",
+      "price": 220,
+      "description": "4 Roti, One Dal, One Sabzi",
+      "simplified_description": "A small meal with 4 flatbreads, one lentil dish, and one vegetable dish",
+      "category": "Monthly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Tiffin (8oz)",
+      "price": 240,
+      "description": "6 Roti, One Dal, One Sabzi",
+      "simplified_description": "A small meal with 6 flatbreads, one lentil dish, and one vegetable dish",
+      "category": "Monthly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Tiffin (12OZ)",
+      "price": 260,
+      "description": "6 Roti, One Dal, One Sabzi",
+      "simplified_description": "A medium meal with 6 flatbreads, one lentil dish, and one vegetable dish",
+      "category": "Monthly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Tiffin (12OZ)",
+      "price": 280,
+      "description": "8 Roti, One Dal, One Sabzi",
+      "simplified_description": "A medium meal with 8 flatbreads, one lentil dish, and one vegetable dish",
+      "category": "Monthly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Tiffin (16OZ)",
+      "price": 300,
+      "description": "8 Roti, One Dal, One Sabzi",
+      "simplified_description": "A large meal with 8 flatbreads, one lentil dish, and one vegetable dish",
+      "category": "Monthly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Tiffin (16OZ)",
+      "price": 320,
+      "description": "10 Roti, One Dal, One Sabzi",
+      "simplified_description": "A large meal with 10 flatbreads, one lentil dish, and one vegetable dish",
+      "category": "Monthly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4 Roti, One Dal, One Sabzi (8oz)",
+      "price": 70,
+      "description": "",
+      "simplified_description": "A small meal with 4 flatbreads and one lentil dish and one vegetable dish",
+      "category": "Weekly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Roti, One Dal, One Sabzi (12oz)",
+      "price": 80,
+      "description": "",
+      "simplified_description": "A medium meal with 6 flatbreads and one lentil dish and one vegetable dish",
+      "category": "Weekly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8 Roti, One Dal, One Sabzi (16oz)",
+      "price": 90,
+      "description": "",
+      "simplified_description": "A large meal with 8 flatbreads and one lentil dish and one vegetable dish",
+      "category": "Weekly Package",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20 Roti, 24oz One Dal, One Sabzi, Salad and Sweet",
+      "price": 40,
+      "description": "",
+      "simplified_description": "A large meal with 20 flatbreads, one lentil dish, one vegetable dish, salad, and a sweet",
+      "category": "Truck Meal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 Roti, 16oz One Dal, One Sabzi, Salad and Sweet",
+      "price": 25,
+      "description": "",
+      "simplified_description": "A medium meal with 10 flatbreads, one lentil dish, one vegetable dish, salad, and a sweet",
+      "category": "Truck Meal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Thali",
+      "price": 12.99,
+      "description": "2 Roti or Rice, One Dal, One Sabzi, Salad, Dahi and Sweet Dish",
+      "simplified_description": "A traditional meal with 2 flatbreads or rice, one lentil dish, one vegetable dish, salad, yogurt, and a sweet dish",
+      "category": "Punjabi Thali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DESI SAAG Thali",
+      "price": 16.99,
+      "description": "2 Makki Roti, Saag, Sabzi, Salad, Dahi and Sweet Dish",
+      "simplified_description": "A traditional meal with 2 corn flatbreads, mustard greens, one vegetable dish, salad, yogurt, and a sweet dish",
+      "category": "Desi Saag Thali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal (8 oz)",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A small serving of daily vegetable or lentil dish",
+      "category": "Daily Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal (12 oz)",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A medium serving of daily vegetable or lentil dish",
+      "category": "Daily Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal (16 oz)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "A large serving of daily vegetable or lentil dish",
+      "category": "Daily Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal (24 oz)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "An extra-large serving of daily vegetable or lentil dish",
+      "category": "Daily Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal (8 oz)",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A small serving of saag (mustard greens) vegetable or lentil dish",
+      "category": "Saag Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal (12 oz)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "A medium serving of saag (mustard greens) vegetable or lentil dish",
+      "category": "Saag Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal (16 oz)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "A large serving of saag (mustard greens) vegetable or lentil dish",
+      "category": "Saag Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal (24 oz)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "An extra-large serving of saag (mustard greens) vegetable or lentil dish",
+      "category": "Saag Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal (8 oz)",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A small serving of paneer (Indian cheese) vegetable or lentil dish",
+      "category": "Paneer Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal (12 oz)",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "A medium serving of paneer (Indian cheese) vegetable or lentil dish",
+      "category": "Paneer Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal (16 oz)",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "A large serving of paneer (Indian cheese) vegetable or lentil dish",
+      "category": "Paneer Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal (24 oz)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "An extra-large serving of paneer (Indian cheese) vegetable or lentil dish",
+      "category": "Paneer Sabzi/Dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Tiffin (Small)",
+      "price": 12.99,
+      "description": "4 Roti, One Sabzi, One Daal and Dahi",
+      "simplified_description": "A small meal with 4 flatbreads, one vegetable dish, one lentil dish, and yogurt",
+      "category": "Daily Tiffin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Tiffin (Medium)",
+      "price": 17.99,
+      "description": "6 Roti, One Sabzi, One Dal and Dahi",
+      "simplified_description": "A medium meal with 6 flatbreads, one vegetable dish, one lentil dish, and yogurt",
+      "category": "Daily Tiffin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Tiffin (Large)",
+      "price": 23.99,
+      "description": "8 Roti, One Sabzi, One Daal and Dahi",
+      "simplified_description": "A large meal with 8 flatbreads, one vegetable dish, one lentil dish, and yogurt",
+      "category": "Daily Tiffin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tawa Roti",
+      "price": 0.79,
+      "description": "",
+      "simplified_description": "A flatbread cooked on a griddle",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Makki Di Roti",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "A flatbread made from corn flour",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Parantha",
+      "price": 1.99,
+      "description": "",
+      "simplified_description": "A plain flaky flatbread",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Parantha",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A flatbread stuffed with spiced potatoes",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gobhi Parantha",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A flatbread stuffed with spiced cauliflower",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Parantha",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A flatbread stuffed with spiced onions",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mooli Parantha",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A flatbread stuffed with spiced radish",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Parantha",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A flatbread stuffed with spiced paneer (Indian cheese)",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Parantha",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A flatbread stuffed with a mix of vegetables",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Besan Chilla (1 piece)",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A savory pancake made from chickpea flour",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lacha Parantha",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A layered flaky flatbread",
+      "category": "Appni Roti/Paranthe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appni Special Chai",
+      "price": 2.99,
+      "description": "",
+      "simplified_description": "A special tea",
+      "category": "Appna Swaad Chaa Da",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gur Chai",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "Tea made with jaggery",
+      "category": "Appna Swaad Chaa Da",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sugar free Chai",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "Tea without sugar",
+      "category": "Appna Swaad Chaa Da",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A sweet yogurt drink",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A salted yogurt drink",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A mango-flavored yogurt drink",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pudina (mint) Lassi",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A mint-flavored yogurt drink",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nimbu Pani",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "Lemonade",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "Chilled coffee drink",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A chocolate-flavored milkshake",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A strawberry-flavored milkshake",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "A mango-flavored milkshake",
+      "category": "Cold Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Pakoda",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "A mix of fried snacks",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pakoda",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "Fried snacks made with paneer (Indian cheese)",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": null,
+      "description": "2 each",
+      "simplified_description": "Fried bread snacks",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": "Sold in pairs"
+    },
+    {
+      "name": "Bread Roll",
+      "price": 2.5,
+      "description": "each",
+      "simplified_description": "Fried bread roll",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": "Sold individually"
+    },
+    {
+      "name": "Papdi Chaat",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "A savory snack made with crispy dough and toppings",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chana Chaat",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "A savory snack with samosas and chickpeas",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tikki Chana Chaat",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "A savory snack with potato patties and chickpeas",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dhai Bhalla",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "A savory snack made with lentil dumplings and yogurt",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kachori Chaat",
+      "price": 10,
+      "description": "",
+      "simplified_description": "A savory snack made with kachoris and toppings",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 2,
+      "description": "",
+      "simplified_description": "A fried pastry filled with spiced potatoes",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

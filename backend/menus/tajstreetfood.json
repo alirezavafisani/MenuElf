@@ -1,0 +1,214 @@
+{
+  "restaurant": "tajstreetfood",
+  "parsed_at": "2026-02-06T04:24:17.451176",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "PAN FRIED FISH PLATE",
+      "price": 19.5,
+      "description": "Pan fried fish served over rice, fresh salad, naan and a side of your choice of a house sauce",
+      "category": "FOOD",
+      "simplified_description": "Pan fried fish served over rice, fresh salad, naan and a side of your choice of ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KABOB SALAD",
+      "price": 14.99,
+      "description": "Fresh salad served with your choice of 2 kabobs on top of our house salad with our creamy lemon dressing",
+      "category": "FOOD",
+      "simplified_description": "Fresh salad served with your choice of 2 kabobs on top of our house salad with o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KABOB WRAP",
+      "price": 10.99,
+      "description": "Delicious kabob wrapped with fresh onions, tomato, spinach, masala fries, and sauced with our house-made garlic aioli.",
+      "category": "FOOD",
+      "simplified_description": "Delicious kabob wrapped with fresh onions, tomato, spinach, masala fries, and sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KABOB WRAP COMBO",
+      "price": 16.5,
+      "description": "Make it a combo with your choice of a side street fries or our house salad. Combos also includes drink.",
+      "category": "FOOD",
+      "simplified_description": "Make it a combo with your choice of a side street fries or our house salad. Comb",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KABOB BOWL",
+      "price": 14.99,
+      "description": "Our kabob bowls are served with fresh rice, grilled veggies, naan, potatoes with our house garlic aioli and your choice of a side sauce.",
+      "category": "FOOD",
+      "simplified_description": "Our kabob bowls are served with fresh rice, grilled veggies, naan, potatoes with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 6 people",
+      "price": null,
+      "description": "Indulge in our delectable Family Kabob Platter, perfect for six! Enjoy your choice of 14 succulent kabobs, paired with fragrant Afghan rice, a fresh house salad with creamy lemon dressing, and our homemade spicy chutney. The platter also includes crispy fries and our signature tomato korma sauce, making it a delightful feast for the entire family.",
+      "category": "FOOD",
+      "simplified_description": "Indulge in our delectable Family Kabob Platter, perfect for six! Enjoy your choi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 4 people",
+      "price": null,
+      "description": "Enjoy our Family Platter that is perfect for four! Your choice of 9 succulent kabobs, complemented by fragrant Afghan rice, a fresh house salad with creamy lemon dressing, and our homemade spicy chutney. The platter also includes crispy fries and our signature tomato korma sauce for the rice, a memorable meal for your family.",
+      "category": "FOOD",
+      "simplified_description": "Enjoy our Family Platter that is perfect for four! Your choice of 9 succulent ka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mantu",
+      "price": 15.5,
+      "description": "10 pieces filled with ground beef and spices then steamed to perfection and drizzled with garlic yogurt and garnished with crushed mint leaves.",
+      "category": "SHARABLES",
+      "simplified_description": "10 pieces filled with ground beef and spices then steamed to perfection and driz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ashak",
+      "price": 15.5,
+      "description": "10 pieces filled with mixed vegies and spices then steamed to perfection and drizzled with garlic yogurt and garnished with crushed mint leaves.",
+      "category": "SHARABLES",
+      "simplified_description": "10 pieces filled with mixed vegies and spices then steamed to perfection and dri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Samosa",
+      "price": 9.5,
+      "description": "3 Samosas served with a side of our house made chutney",
+      "category": "SHARABLES",
+      "simplified_description": "3 Samosas served with a side of our house made chutney",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Samosa",
+      "price": 9.5,
+      "description": "vegetable samosa and a side of our house made chutney.",
+      "category": "SHARABLES",
+      "simplified_description": "vegetable samosa and a side of our house made chutney.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Naan",
+      "price": 2.5,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Street Fries",
+      "price": 6.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side House Salad",
+      "price": 4.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Rice",
+      "price": 6.0,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Kabuli Rice",
+      "price": 6.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Sauces",
+      "price": 1.0,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can of Soda",
+      "price": 2.25,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle of water",
+      "price": 2.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle of Juice",
+      "price": 3.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Mango Smoothie",
+      "price": 6.95,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled House Dogh/Ayran",
+      "price": 4.0,
+      "description": "(A house made salty and tangy yogurt drink)",
+      "category": "DRINK",
+      "simplified_description": "(A house made salty and tangy yogurt drink)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kulfi Ice Cream",
+      "price": 6.0,
+      "description": "A classic Afghan style ice cream that is infused with cardamoms",
+      "category": "DESSERT",
+      "simplified_description": "A classic Afghan style ice cream that is infused with cardamoms",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

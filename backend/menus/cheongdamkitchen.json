@@ -1,0 +1,92 @@
+{
+  "restaurant": "cheongdamkitchen",
+  "parsed_at": "2025-12-24T23:50:45.674369",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "Shrimp tempura",
+      "price": 6.0,
+      "description": "Deep-fried shrimp in a crispy batter.",
+      "simplified_description": "Crispy fried shrimp.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-fried squid legs",
+      "price": 6.0,
+      "description": "Deliciously battered and fried squid legs.",
+      "simplified_description": "Crispy fried squid legs.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-fried vegetable dumplings",
+      "price": 6.0,
+      "description": "Crispy dumplings filled with mixed vegetables.",
+      "simplified_description": "Crispy dumplings with vegetables.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch Sizzling Plate",
+      "price": 17.0,
+      "description": "Bulgogi/ Spicy chicken/ LA Kalbi w/ vegetables, corn and rice.",
+      "simplified_description": "Grilled meat with vegetables, corn, and rice.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": "Serving of sizzling grilled meat"
+    },
+    {
+      "name": "King Kalbi Steak",
+      "price": null,
+      "description": "Premium King-Size beef short rib, seared for a tender and juicy flavor. Served with individual grill so you can cook in the way you want! Enough to serve 2 people.",
+      "simplified_description": "Large beef short rib that you can grill yourself.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": "Serves 2 people"
+    },
+    {
+      "name": "SEOUL STYLE Bulgogi",
+      "price": null,
+      "description": "A brothy variation of the classic Korean marinated beef dish, simmered with vegetables and glass noodles in a sweet, savory soy-based sauce in our special pot.",
+      "simplified_description": "Korean beef dish with vegetables and noodles in broth.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dak Kalbi",
+      "price": null,
+      "description": "Diced chicken stir-fried with vegetables in our homemade spicy sauce. Enough to serve 2 people.",
+      "simplified_description": "Spicy stir-fried chicken with vegetables.",
+      "category": "Entrees",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves 2 people"
+    },
+    {
+      "name": "Suntory High Ball",
+      "price": null,
+      "description": "1.5oz Suntory Whisky (43% alc.), Club soda, Lemon.",
+      "simplified_description": "Whisky mixed with soda and lemon.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo; Korean-style Chinese food",
+      "price": null,
+      "description": "Comes with signature dishes like Jjajangmyeon, Jjamppong, and Kkanpunggi.",
+      "simplified_description": "A combo of popular Korean-Chinese dishes.",
+      "category": "Additional Items",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,673 @@
+{
+  "restaurant": "ourhouseyyc",
+  "parsed_at": "2026-02-06T03:38:12.458483",
+  "item_count": 74,
+  "items": [
+    {
+      "name": "Patron Silver",
+      "price": 11.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patron Reposado",
+      "price": 12.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patron Anejo",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantera Negra Café",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Herradura Ultra Anejo",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Komos Reposado Rosa",
+      "price": 28.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patron El Alto",
+      "price": 42.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Solmano",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Casamigos",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Metaxa 7",
+      "price": 10.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Remy Martin",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hennessy",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgan’s White",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgan’s Black",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgan’s Spiced",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bumbu",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kraken Black Spiced",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Admiral Rodney HMS Princessa",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zaya Gran Reserva",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eau Claire Stampede Rye",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eau Claire Rupert’s Canadian Whiskey",
+      "price": 7.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crown Royal",
+      "price": 7.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bearface",
+      "price": 7.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Redemption",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masterson’s 10",
+      "price": 22.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Maker’s Mark",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Knob Creek",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Woodford Reserve Kentucky",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Michter’s Small Batch",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Angel’s Envy",
+      "price": 13.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bib & Tucker Double Char",
+      "price": 15.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bulleit 10",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenlivet 12",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenmorangie 10",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Auchenstoshan 12",
+      "price": 11.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oban 14",
+      "price": 16.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lagavulin 8",
+      "price": 16.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dalmore Cigar Malt Reserve",
+      "price": 32.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ancnoc",
+      "price": 15.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dalwhinnie 15",
+      "price": 16.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Johnnie Walker Black",
+      "price": 11.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kilchoman",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jamesons",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jack Daniels",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jack Daniels Honey",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Suntory World",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Forest",
+      "price": 12.0,
+      "description": "Classic, house-made, layered chocolate, raspberry compote, whipped cream",
+      "category": "DESSERT",
+      "simplified_description": "Classic, house-made, layered chocolate, raspberry compote, whipped cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Pie",
+      "price": 9.0,
+      "description": "Bourbon sauce, vanilla ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Bourbon sauce, vanilla ice cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Cheesecake",
+      "price": 9.0,
+      "description": "Chilled no bake, infused pineapple",
+      "category": "DESSERT",
+      "simplified_description": "Chilled no bake, infused pineapple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flourless Brownie",
+      "price": 11.0,
+      "description": "Vanilla ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla ice cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brewed Cup",
+      "price": 3.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cafe Latte",
+      "price": 5.25,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": 4.75,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 3.75,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": 3.75,
+      "description": "Earl Grey | English Breakfast | Chai | Mint",
+      "category": "DRINK",
+      "simplified_description": "Earl Grey | English Breakfast | Chai | Mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Martini",
+      "price": 14.0,
+      "description": "Grey Goose, Kahlua, Amaro Averno, Espresso, Salt Pinch",
+      "category": "DRINK",
+      "simplified_description": "Grey Goose, Kahlua, Amaro Averno, Espresso, Salt Pinch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Café Negroni",
+      "price": 14.0,
+      "description": "Bombay Sapphire, Campari, Coffee-infused Cocchi",
+      "category": "DRINK",
+      "simplified_description": "Bombay Sapphire, Campari, Coffee-infused Cocchi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Truffle Parm Fries",
+      "price": 6.0,
+      "description": "Served with lemon dill aioli",
+      "category": "FOOD",
+      "simplified_description": "Served with lemon dill aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": 10.0,
+      "description": "With buttermilk ranch - choose from: Salt & Pepper, Buffalo Hot, BBQ, or Memphis Rub",
+      "category": "FOOD",
+      "simplified_description": "With buttermilk ranch - choose from: Salt & Pepper, Buffalo Hot, BBQ, or Memphis",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Burger Slider",
+      "price": 6.0,
+      "description": "Cheddar cheese, 4th Street sauce, pickle",
+      "category": "FOOD",
+      "simplified_description": "Cheddar cheese, 4th Street sauce, pickle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Ribs",
+      "price": 10.0,
+      "description": "Lemon Pepper or Memphis Rub",
+      "category": "FOOD",
+      "simplified_description": "Lemon Pepper or Memphis Rub",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Feta Honey Focaccia",
+      "price": 12.0,
+      "description": "Whipped feta, Greek honey, toasted pistachio, focaccia",
+      "category": "FOOD",
+      "simplified_description": "Whipped feta, Greek honey, toasted pistachio, focaccia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": 14.0,
+      "description": "Mozzarella, parmesan, basil, pomodoro",
+      "category": "FOOD",
+      "simplified_description": "Mozzarella, parmesan, basil, pomodoro",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Pepperoni",
+      "price": 15.0,
+      "description": "Dry-cured pepperoni, mozzarella, parmesan, pomodoro",
+      "category": "FOOD",
+      "simplified_description": "Dry-cured pepperoni, mozzarella, parmesan, pomodoro",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Heat Pizza",
+      "price": 15.0,
+      "description": "Pineapple, capocollo, mozzarella, banana peppers, parmesan, pomodoro, hot honey",
+      "category": "FOOD",
+      "simplified_description": "Pineapple, capocollo, mozzarella, banana peppers, parmesan, pomodoro, hot honey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Fish & Chips",
+      "price": 14.0,
+      "description": "Battered cod, fries, tartar sauce",
+      "category": "FOOD",
+      "simplified_description": "Battered cod, fries, tartar sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Burger and Fries",
+      "price": 13.0,
+      "description": "Smashed patty, brioche bun, 4th Street sauce, American cheese",
+      "category": "FOOD",
+      "simplified_description": "Smashed patty, brioche bun, 4th Street sauce, American cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Pasta",
+      "price": 12.0,
+      "description": "Linguini, butter, parmesan",
+      "category": "FOOD",
+      "simplified_description": "Linguini, butter, parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Pizza",
+      "price": 15.0,
+      "description": "Pomodoro Sauce, mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Pomodoro Sauce, mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Milk",
+      "price": 4.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shirley Temple",
+      "price": 4.0,
+      "description": "Orange Juice, Sprite, Grenadine",
+      "category": "DRINK",
+      "simplified_description": "Orange Juice, Sprite, Grenadine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roy Rogers",
+      "price": 4.0,
+      "description": "Coke, Grenadine",
+      "category": "DRINK",
+      "simplified_description": "Coke, Grenadine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 4.0,
+      "description": "Orange, Apple, Pineapple, Grapefruit, Passion Fruit, Peach",
+      "category": "DRINK",
+      "simplified_description": "Orange, Apple, Pineapple, Grapefruit, Passion Fruit, Peach",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": 3.0,
+      "description": "Coke, Diet, Sprite, Ginger Ale, Ice Tea",
+      "category": "DRINK",
+      "simplified_description": "Coke, Diet, Sprite, Ginger Ale, Ice Tea",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

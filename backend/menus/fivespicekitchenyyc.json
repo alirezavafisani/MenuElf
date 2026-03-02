@@ -1,0 +1,303 @@
+{
+  "restaurant": "fivespicekitchenyyc",
+  "parsed_at": "2026-02-06T02:14:33.782424",
+  "item_count": 26,
+  "items": [
+    {
+      "name": "Teriyaki Beef Sub",
+      "price": 11.5,
+      "description": "Subs - A fresh and toasted baguette with mayonnaise and cheese. All subs include the following toppings: cucumber, cilantro, white onion, pickled carrot, hot pepper, hot sauce, and sweet soy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Toasted baguette with teriyaki beef, mayo, cheese, and fresh vegetable toppings.",
+      "dietary_info": [
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken Sub",
+      "price": 11.5,
+      "description": "Subs - A fresh and toasted baguette with mayonnaise and cheese. All subs include the following toppings: cucumber, cilantro, white onion, pickled carrot, hot pepper, hot sauce, and sweet soy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Toasted baguette with teriyaki chicken, mayo, cheese, and fresh vegetable toppings.",
+      "dietary_info": [
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Sub",
+      "price": 11.5,
+      "description": "Subs - A fresh and toasted baguette with mayonnaise and cheese. All subs include the following toppings: cucumber, cilantro, white onion, pickled carrot, hot pepper, hot sauce, and sweet soy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Toasted baguette with grilled pork, mayo, cheese, and fresh vegetable toppings.",
+      "dietary_info": [
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Bowl",
+      "price": 15.75,
+      "description": "Rice & Noodles - Two homemade spring rolls and vegetables with your choice of grilled beef, grill pork, grilled chicken, lemongrass chicken, or tiger prawns on a bed of rice vermicelli or steamed rice",
+      "category": "FOOD",
+      "simplified_description": "Rice or vermicelli bowl with two spring rolls, vegetables, and choice of grilled meat or prawns.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Fried Rice",
+      "price": 17.95,
+      "description": "Rice & Noodles - Seasoned grilled chicken with fresh season vegetables fried rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with seasoned grilled chicken and fresh vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Fried Rice",
+      "price": 17.95,
+      "description": "Rice & Noodles - Homemade barbecue pork with fresh vegetables fried rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with homemade BBQ pork and fresh vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Stir-fry",
+      "price": 17.95,
+      "description": "Rice & Noodles - Marinated beef or grilled chicken stir-fried with fresh vegetables in our homemade teriyaki sauce on a bed of jasmine rice",
+      "category": "FOOD",
+      "simplified_description": "Beef or chicken stir-fried with vegetables in teriyaki sauce over jasmine rice.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pad Thai",
+      "price": 18.95,
+      "description": "Rice & Noodles - Rice noodles stir-fried with chicken, tiger prawns, tofu, vegetables, and egg in the chef's homemade tomato and tamarind sauce",
+      "category": "FOOD",
+      "simplified_description": "Rice noodles stir-fried with chicken, prawns, tofu, vegetables, and egg in tamarind sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Peppercorn Stir-fry",
+      "price": 17.95,
+      "description": "Rice & Noodles - Marinated beef, grilled chicken, or pork stir-fried with fresh vegetables in our creation of black peppercorn sauce on a bed of pan-fried crispy egg noodles or steamed rice",
+      "category": "FOOD",
+      "simplified_description": "Beef, chicken, or pork stir-fried with vegetables in black peppercorn sauce over noodles or rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade Vegetarian Spring Rolls",
+      "price": 9.95,
+      "description": "Four pieces of hand wrapped vegetarian spring rolls, with a side of house made fish sauce",
+      "category": "FOOD",
+      "simplified_description": "Four vegetarian spring rolls served with house-made fish sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Non-GMO Tofu Salad Rolls",
+      "price": 9.95,
+      "description": "Fresh crispy lettuce, vermicelli noodles, and tofu wrapped in rice paper - complemented with our homemade peanut sauce",
+      "category": "FOOD",
+      "simplified_description": "Rice paper rolls with tofu, lettuce, vermicelli, served with peanut sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade Vegetarian Dumplings",
+      "price": 14.95,
+      "description": "Hand-wrapped dumplings made with a blend of various vegetables, served with our special sweet soy sauce",
+      "category": "FOOD",
+      "simplified_description": "Vegetable dumplings served with sweet soy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade Hot & Sour Soup",
+      "price": 13.5,
+      "description": "Five Spice Kitchen's special vegan recipe",
+      "category": "FOOD",
+      "simplified_description": "Vegan hot and sour soup with a special house recipe.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Non-GMO Tofu Veggie Sub",
+      "price": 11.5,
+      "description": "Succulent ingredients served with a fresh and toasted baguette",
+      "category": "FOOD",
+      "simplified_description": "Toasted baguette filled with tofu and fresh vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Grilled Bowl",
+      "price": 15.75,
+      "description": "Two homemade vegetarian spring rolls with our seasoned tofu on a bed of vermicelli noodles or rice, topped with crispy lettuce, bean sprouts, and pickled carrots with a side of fish sauce",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli or rice bowl with tofu, vegetarian spring rolls, and fresh vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Tofu Stir-fry",
+      "price": 17.95,
+      "description": "Tofu stir-fried with fresh vegetables in our homemade teriyaki sauce on a bed of jasmine rice",
+      "category": "FOOD",
+      "simplified_description": "Tofu and vegetables stir-fried in teriyaki sauce served with jasmine rice.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Fried Rice",
+      "price": 17.95,
+      "description": "Tofu and egg with mixed vegetables fried rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with tofu, egg, and mixed vegetables.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Noodle Soup",
+      "price": 16.95,
+      "description": "Rice vermicelli topped with fresh vegetables in our vegetarian broth",
+      "category": "FOOD",
+      "simplified_description": "Rice vermicelli soup with fresh vegetables in vegetarian broth.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Pad Thai",
+      "price": 18.95,
+      "description": "Rice noodles with tofu and vegetables fried in our homemade tomato and tamarind sauce",
+      "category": "FOOD",
+      "simplified_description": "Rice noodles with tofu and vegetables in tomato tamarind sauce.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smoothie",
+      "price": 7.95,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "A blended fruit drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Iced Coffee with Condensed Milk",
+      "price": 6.75,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Iced coffee sweetened with condensed milk.",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Freshly Squeezed Lemonade",
+      "price": 7.95,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Freshly squeezed lemonade drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wor Won Ton Soup - Frozen",
+      "price": 16.5,
+      "description": "Ten pieces of homemade pork wontons with egg noodles and fresh vegetables includes our signature broth",
+      "category": "FOOD",
+      "simplified_description": "Soup with pork wontons, egg noodles, vegetables, and signature broth.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20 Won Tons - Frozen",
+      "price": 19.5,
+      "description": "Twenty pieces of hand-wrapped pork wontons (includes our signature broth) - allows you to add your own favourite noodles and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Twenty pork wontons with broth, add your own noodles and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade Dumplings - Frozen",
+      "price": 18.75,
+      "description": "Our famous hand-wrapped dumplings, served with our special sweet soy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Hand-wrapped dumplings served with sweet soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade Hot & Sour Soup - Frozen",
+      "price": 17.95,
+      "description": "1 litre of Five Spice Kitchen’s special vegan recipe",
+      "category": "FOOD",
+      "simplified_description": "One litre of vegan hot and sour soup.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}
