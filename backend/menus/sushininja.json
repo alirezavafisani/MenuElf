@@ -1,0 +1,1304 @@
+{
+  "restaurant": "sushininja",
+  "parsed_at": "2025-12-25T00:27:15.998912",
+  "item_count": 136,
+  "items": [
+    {
+      "name": "Vegetable Spring Roll",
+      "price": 7.79,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Dumpling",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gold Sweet Bun",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wing",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Takoyaki",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Chicken",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Shrimp",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Katsu",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Katsu",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Sesame Ball",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Cake",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Scallop",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ikayaki",
+      "price": 13.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Karaage",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deep Fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Sushi",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Sushi",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Snapper Sushi",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ebi Sushi",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mackerel (Saba)",
+      "price": 4.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tamago Egg",
+      "price": 3.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Inari (Bean Cake)",
+      "price": 3.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Eel (Unagi)",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Scallop",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun Prawn",
+      "price": 4.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masago",
+      "price": 4.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tobiko",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toro Sushi",
+      "price": 5.5,
+      "description": "*Limited Item*",
+      "simplified_description": "Limited availability sushi",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seared Salmon Sushi",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seared Tuna Sushi",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Tuna Sushi",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tako Sushi",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sushi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Sashimi",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Sashimi",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Surf Clam Sashimi",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Snapper Sashimi",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Tuna Sashimi",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Ebi Sashimi",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tako Sashimi",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Scallop Sashimi",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Sashimi",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kimchi Sashimi",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mackerel Sashimi",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sashimi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AAA BBQ Beef Short Rib",
+      "price": 10.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grill Mackerel",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Whole Squid",
+      "price": 13.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Skewer",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Skewer",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grill Salmon",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Skewer",
+      "price": 8.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sirloin Steak",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Mussel",
+      "price": 10.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Kama",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Grills",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Tempura",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Tempura",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Tempura",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Tempura",
+      "price": 9.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu Tempura",
+      "price": 6.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ika Tempura (Calamari)",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broccoli Tempura",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crab Stick Tempura",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tempura",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 12.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Rice",
+      "price": 12.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Fried Rice",
+      "price": 13.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Fried Rice",
+      "price": 11.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Yaki Udon",
+      "price": 13.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Yaki Udon",
+      "price": 13.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Yaki Udon",
+      "price": 14.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Udon Soup",
+      "price": 13.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Udon Soup",
+      "price": 13.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Udon Soup",
+      "price": 14.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Don",
+      "price": 19.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Don",
+      "price": 19.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Don",
+      "price": 19.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chirashi Don",
+      "price": 24.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Noodle & Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seaweed Salad",
+      "price": 5.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Salad",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Salad",
+      "price": 5.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Salad",
+      "price": 5.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kimchi",
+      "price": 5.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Miso Soup",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Sunomono",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tako Sunomono",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Edamame",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tataki",
+      "price": 12.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Tataki",
+      "price": 10.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tako Wasabi",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steam Rice",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sushi Rice",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizer",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "California Roll",
+      "price": 6.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dynamite Roll",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Roll",
+      "price": 6.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Roll",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Roll",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Avocado Roll",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Avocado Roll",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Tempura Roll",
+      "price": 6.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Skin Roll (BC)",
+      "price": 6.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cucumber Maki",
+      "price": 4.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Maki",
+      "price": 5.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Maki",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Maki",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Cucumber Roll",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Philadelphia Roll",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Roll",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Roll",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Volcano Roll",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Regular Roll",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "California Cone",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Cone",
+      "price": 5.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Cone",
+      "price": 5.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Skin Cone",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Avocado Cone",
+      "price": 5.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Avocado Cone",
+      "price": 5.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chop Scallop Cone",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Shrimp Cone",
+      "price": 5.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hand Cone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rainbow Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dragon Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Female Dragon Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ninja House Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Oshizushi",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy California Roll",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Las Vegas Roll",
+      "price": 13.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Roll",
+      "price": 12.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Ninja Roll",
+      "price": 14.35,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seared Salmon Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spider Roll",
+      "price": 14.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caterpillar Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ninja Signature Roll",
+      "price": 14.35,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Spicy Roll",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Special Roll",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Ice Cream",
+      "price": 1.0,
+      "description": "1 dish",
+      "simplified_description": "One dish of mango ice cream",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "price": 1.0,
+      "description": "1 dish",
+      "simplified_description": "One dish of strawberry ice cream",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 1.0,
+      "description": "1 dish",
+      "simplified_description": "One dish of vanilla ice cream",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Mousse Cake",
+      "price": 1.0,
+      "description": "1 pc",
+      "simplified_description": "One piece of mango mousse cake",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cake Tiramisu",
+      "price": 1.0,
+      "description": "1 pc",
+      "simplified_description": "One piece of tiramisu cake",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Milk",
+      "price": 1.0,
+      "description": "1 bowl",
+      "simplified_description": "One bowl of coconut milk",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "restaurant": "subsnsuchcalgary",
+  "parsed_at": "2026-02-06T04:15:53.212981",
+  "item_count": 16,
+  "items": [
+    {
+      "name": "Platter",
+      "price": 70.0,
+      "description": "(each platter feeds 5-6)(required) Each platter comes with multiple donair, assorted, turkey and roast beef subs",
+      "category": "OTHER",
+      "simplified_description": "(each platter feeds 5-6)(required) Each platter comes with multiple donair, asso",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peanut Butter Mashmellow Squares",
+      "price": null,
+      "description": "Peanut Butter Mashmellow Squares - $4.00ea",
+      "category": "DESSERT",
+      "simplified_description": "Peanut Butter Mashmellow Squares - $4.00ea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cans, Water, Bubly",
+      "price": null,
+      "description": "Cans, Water, Bubly - $2.75ea",
+      "category": "DRINK",
+      "simplified_description": "Cans, Water, Bubly - $2.75ea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottles",
+      "price": null,
+      "description": "Bottles $3.25ea",
+      "category": "DRINK",
+      "simplified_description": "Bottles $3.25ea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips",
+      "price": null,
+      "description": "Chips - $2.50ea",
+      "category": "SIDE",
+      "simplified_description": "Chips - $2.50ea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Subs 8\"",
+      "price": 8.5,
+      "description": "Original Subs 8\" - $8.50 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Original Subs 8\" - $8.50 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (add",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Subs 12\"",
+      "price": 12.0,
+      "description": "Original Subs 12\" - $12.00 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Original Subs 12\" - $12.00 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Subs Super",
+      "price": 14.0,
+      "description": "Original Subs Super - $14.00 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Original Subs Super - $14.00 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Subs 8\"",
+      "price": 9.5,
+      "description": "Premium Subs 8\" - $9.50 Roast Beef, Turkey, Club, Meatball, Chicken, Tuna (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Premium Subs 8\" - $9.50 Roast Beef, Turkey, Club, Meatball, Chicken, Tuna (add B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Subs 12\"",
+      "price": 13.0,
+      "description": "Premium Subs 12\" - $13.00 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Premium Subs 12\" - $13.00 Assorted, Beef Salami, Pizza, Veggie & Cheese, Ham (ad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Subs 8\"",
+      "price": 11.0,
+      "description": "Deluxe Subs 8\" - $11.00 Donair, BBQ Rib, Corned Beef, Super Pizza w/ Ham, Chicken & Bacon (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Deluxe Subs 8\" - $11.00 Donair, BBQ Rib, Corned Beef, Super Pizza w/ Ham, Chicke",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Subs 12\"",
+      "price": 15.0,
+      "description": "Deluxe Subs 12\" - $15.00 Donair, BBQ Rib, Corned Beef, Super Pizza w/ Ham, Chicken & Bacon (add Bacon $3.50)",
+      "category": "FOOD",
+      "simplified_description": "Deluxe Subs 12\" - $15.00 Donair, BBQ Rib, Corned Beef, Super Pizza w/ Ham, Chick",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Johnny Boy",
+      "price": 19.5,
+      "description": "The Johnny Boy - $19.50 Double Donair Meat, Double Cheese, 6 slices of Bacon",
+      "category": "FOOD",
+      "simplified_description": "The Johnny Boy - $19.50 Double Donair Meat, Double Cheese, 6 slices of Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crazy Donair Sub #1",
+      "price": 17.0,
+      "description": "Crazy Donair Sub #1 - $17.00 Double Donair Meat, Double Cheese",
+      "category": "FOOD",
+      "simplified_description": "Crazy Donair Sub #1 - $17.00 Double Donair Meat, Double Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crazy Donair Sub #2",
+      "price": 17.0,
+      "description": "Crazy Donair Sub #2 - $17.00 Donair Meat, Double Cheese, Double Bacon",
+      "category": "FOOD",
+      "simplified_description": "Crazy Donair Sub #2 - $17.00 Donair Meat, Double Cheese, Double Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crazy Donair Sub #3",
+      "price": 17.0,
+      "description": "Crazy Donair Sub #3 - $17.00 Super Assorted w/ Donair Meat",
+      "category": "FOOD",
+      "simplified_description": "Crazy Donair Sub #3 - $17.00 Super Assorted w/ Donair Meat",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

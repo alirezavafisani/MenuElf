@@ -1,0 +1,520 @@
+{
+  "restaurant": "tianci",
+  "parsed_at": "2026-02-06T04:34:05.686794",
+  "item_count": 57,
+  "items": [
+    {
+      "name": "虾仁滑蛋",
+      "price": 24.95,
+      "description": "Stir-Fried Egg w/ Shrimp",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Egg w/ Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "糖醋鱼片",
+      "price": 24.95,
+      "description": "Sweet Sour Fish Fillet",
+      "category": "OTHER",
+      "simplified_description": "Sweet Sour Fish Fillet",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "豆花鱼片",
+      "price": 22.95,
+      "description": "Spicy Fish Fillet w/ Tofu",
+      "category": "OTHER",
+      "simplified_description": "Spicy Fish Fillet w/ Tofu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "松鼠鱼(预定）",
+      "price": 38.95,
+      "description": "Sweet and Sour Special Cooked Fish",
+      "category": "OTHER",
+      "simplified_description": "Sweet and Sour Special Cooked Fish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "香炒鸡蛋",
+      "price": 19.95,
+      "description": "Stir-Fried Egg w/ Vegs",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Egg w/ Vegs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "香炒土豆丝",
+      "price": 18.95,
+      "description": "Stir-Fried Shredded Potato",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Shredded Potato",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "香辣肉丝",
+      "price": 22.95,
+      "description": "Stir-Fried Shredded Pork w/Vegs",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Shredded Pork w/Vegs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "香西皮蛋鱼片汤",
+      "price": 14.95,
+      "description": "Fish Fillet w/ Preserved Egg Soup",
+      "category": "OTHER",
+      "simplified_description": "Fish Fillet w/ Preserved Egg Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "宋嫂鱼羹",
+      "price": 14.95,
+      "description": "Fish w/ Shredded Ginger Stew",
+      "category": "OTHER",
+      "simplified_description": "Fish w/ Shredded Ginger Stew",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "西红柿鸡蛋汤",
+      "price": 11.95,
+      "description": "Egg Tomato Soup",
+      "category": "OTHER",
+      "simplified_description": "Egg Tomato Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "西湖牛肉羹",
+      "price": 14.95,
+      "description": "Parsley Beef Soup",
+      "category": "OTHER",
+      "simplified_description": "Parsley Beef Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蟹肉鱼肚羹",
+      "price": 16.95,
+      "description": "Fish Mew w/ Crab Meat Stew",
+      "category": "OTHER",
+      "simplified_description": "Fish Mew w/ Crab Meat Stew",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "海鲜豆腐羹",
+      "price": 14.95,
+      "description": "Seafood & Tofu Soup",
+      "category": "OTHER",
+      "simplified_description": "Seafood & Tofu Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "紫菜蛋花汤",
+      "price": 11.95,
+      "description": "Seaweed Egg Drop Soup",
+      "category": "OTHER",
+      "simplified_description": "Seaweed Egg Drop Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "家常水饺（20个）",
+      "price": 21.95,
+      "description": "Boiled Dumplings (20 pieces)",
+      "category": "OTHER",
+      "simplified_description": "Boiled Dumplings (20 pieces)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "玉米面大饼子",
+      "price": 14.95,
+      "description": "Corn Bread",
+      "category": "OTHER",
+      "simplified_description": "Corn Bread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "小玉米并(4个）",
+      "price": 9.95,
+      "description": "Corn Bread （4 pieces)",
+      "category": "OTHER",
+      "simplified_description": "Corn Bread （4 pieces)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "韭菜盒子(2个）",
+      "price": 8.95,
+      "description": "Pan Fried Chives Cake (2 pieces)",
+      "category": "OTHER",
+      "simplified_description": "Pan Fried Chives Cake (2 pieces)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "葱油饼（2个）",
+      "price": 8.95,
+      "description": "Thin Pancake w/ Green Onion (2 pieces)",
+      "category": "OTHER",
+      "simplified_description": "Thin Pancake w/ Green Onion (2 pieces)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "白米饭",
+      "price": 2.5,
+      "description": "Steamed Rice",
+      "category": "OTHER",
+      "simplified_description": "Steamed Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "五饼二鱼",
+      "price": 36.95,
+      "description": "Five Loaves & Two Fishes",
+      "category": "OTHER",
+      "simplified_description": "Five Loaves & Two Fishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "东北大拉皮",
+      "price": 19.95,
+      "description": "Sliced Green Bean Flour Starch Sheet w/ Cucumber & Carrots",
+      "category": "OTHER",
+      "simplified_description": "Sliced Green Bean Flour Starch Sheet w/ Cucumber & Carrots",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "松花鸡腿",
+      "price": 19.95,
+      "description": "Smoked Chicken Leg Wrapped in Preserved Egg",
+      "category": "OTHER",
+      "simplified_description": "Smoked Chicken Leg Wrapped in Preserved Egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "夫妻肺片",
+      "price": 22.95,
+      "description": "Spicy Sliced Beef Tripe & Beef",
+      "category": "OTHER",
+      "simplified_description": "Spicy Sliced Beef Tripe & Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "皮蛋豆腐",
+      "price": 14.95,
+      "description": "Fresh Tofu w/ Preserved Egg",
+      "category": "OTHER",
+      "simplified_description": "Fresh Tofu w/ Preserved Egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "凉拌干豆腐丝",
+      "price": 17.95,
+      "description": "Shredded Dried Tofu",
+      "category": "OTHER",
+      "simplified_description": "Shredded Dried Tofu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "手撕大拌菜",
+      "price": 18.95,
+      "description": "Chinese Mixed Vegs Salad",
+      "category": "OTHER",
+      "simplified_description": "Chinese Mixed Vegs Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "小鸡炖蘑菇",
+      "price": 24.95,
+      "description": "Stewed Chicken w/ Mushroom",
+      "category": "OTHER",
+      "simplified_description": "Stewed Chicken w/ Mushroom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "酱大骨棒",
+      "price": 22.95,
+      "description": "Spiced Pork Bones w/ Soy Sauce",
+      "category": "OTHER",
+      "simplified_description": "Spiced Pork Bones w/ Soy Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "东北乱炖",
+      "price": 22.95,
+      "description": "Special Stewed Pot",
+      "category": "OTHER",
+      "simplified_description": "Special Stewed Pot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "薄饼羊肉",
+      "price": 26.95,
+      "description": "Stir-Fried Sliced Lamb w/ Thin Pancake",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Sliced Lamb w/ Thin Pancake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "烤猪手",
+      "price": 24.95,
+      "description": "Toasted Pig Feet",
+      "category": "OTHER",
+      "simplified_description": "Toasted Pig Feet",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "带鱼扒白菜",
+      "price": 23.95,
+      "description": "Stewed Hairtail Fish w/ Chinese Cabbage",
+      "category": "OTHER",
+      "simplified_description": "Stewed Hairtail Fish w/ Chinese Cabbage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蛋黄南瓜",
+      "price": 20.95,
+      "description": "Deep Fried Pumpkin w/ Salt Egg Yolk",
+      "category": "OTHER",
+      "simplified_description": "Deep Fried Pumpkin w/ Salt Egg Yolk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "孜然烤羊排",
+      "price": 39.95,
+      "description": "Toasted Lamb Ribs w/ Cumin",
+      "category": "OTHER",
+      "simplified_description": "Toasted Lamb Ribs w/ Cumin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "过桥大牌",
+      "price": 35.95,
+      "description": "Deep Fried & Toasted Special Pork Rib",
+      "category": "OTHER",
+      "simplified_description": "Deep Fried & Toasted Special Pork Rib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "锅包肉",
+      "price": 22.95,
+      "description": "Deep Fried Pork",
+      "category": "OTHER",
+      "simplified_description": "Deep Fried Pork",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "金沙虾球",
+      "price": 24.95,
+      "description": "Deep Fried Shrimp Breaded w/ Egg Yolk",
+      "category": "OTHER",
+      "simplified_description": "Deep Fried Shrimp Breaded w/ Egg Yolk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板三杯鸡",
+      "price": 25.95,
+      "description": "Top Pan Chicken",
+      "category": "OTHER",
+      "simplified_description": "Top Pan Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "拔丝地瓜",
+      "price": 22.95,
+      "description": "Sweet Potato in Hot Toffee",
+      "category": "OTHER",
+      "simplified_description": "Sweet Potato in Hot Toffee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "溜肉段",
+      "price": 22.95,
+      "description": "Deep Fried Pork (Salty)",
+      "category": "OTHER",
+      "simplified_description": "Deep Fried Pork (Salty)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "酸菜五花肉炖粉条",
+      "price": 24.95,
+      "description": "Stewed Pickled Chinese Cabbage w/ Sliced Pork & Potato Noodles Soup",
+      "category": "OTHER",
+      "simplified_description": "Stewed Pickled Chinese Cabbage w/ Sliced Pork & Potato Noodles Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "溜肝尖",
+      "price": 20.95,
+      "description": "Stir-Fried Pig Liver",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Pig Liver",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "孜然黄喉",
+      "price": 26.95,
+      "description": "Fried Pork or Beef Blood Vessels w/ Cumin",
+      "category": "OTHER",
+      "simplified_description": "Fried Pork or Beef Blood Vessels w/ Cumin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "尖椒大肠",
+      "price": 24.95,
+      "description": "Stir Fried Intestine w/ Green Pepper",
+      "category": "OTHER",
+      "simplified_description": "Stir Fried Intestine w/ Green Pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "哈尔滨烧鸡",
+      "price": 19.95,
+      "description": "Harbin Special Roasted & Smoked Chicken",
+      "category": "OTHER",
+      "simplified_description": "Harbin Special Roasted & Smoked Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "火爆腰花",
+      "price": 24.95,
+      "description": "Stir Fired Pig Kindney",
+      "category": "OTHER",
+      "simplified_description": "Stir Fired Pig Kindney",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "京酱肉丝（薄饼）",
+      "price": 23.95,
+      "description": "Beijing Style Shredded Pork w/Thin Pan Cake",
+      "category": "OTHER",
+      "simplified_description": "Beijing Style Shredded Pork w/Thin Pan Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鱼香肉丝",
+      "price": 22.95,
+      "description": "Stir-Fried Shredded Pork",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Shredded Pork",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "红烧肉炖干豆腐",
+      "price": 22.95,
+      "description": "Stewed Pork w/Bean Curd",
+      "category": "OTHER",
+      "simplified_description": "Stewed Pork w/Bean Curd",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "红烧肉炖粉条",
+      "price": 22.95,
+      "description": "Stewed Pork w/Sweet Potato Noodles",
+      "category": "OTHER",
+      "simplified_description": "Stewed Pork w/Sweet Potato Noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "白菜猪肉炖粉条",
+      "price": 22.95,
+      "description": "Stewed Chinese Cabbage w/Pork & Potato Noodles",
+      "category": "OTHER",
+      "simplified_description": "Stewed Chinese Cabbage w/Pork & Potato Noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "木须肉（薄饼）",
+      "price": 22.95,
+      "description": "Stir-Fried Shredded Pork w/Mix Vegs",
+      "category": "OTHER",
+      "simplified_description": "Stir-Fried Shredded Pork w/Mix Vegs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "红烧肘子",
+      "price": 29.95,
+      "description": "Braised Pork Shoulder",
+      "category": "OTHER",
+      "simplified_description": "Braised Pork Shoulder",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "孜然烤猪排",
+      "price": 28.95,
+      "description": "Toasted Pork Ribs w/Cumin",
+      "category": "OTHER",
+      "simplified_description": "Toasted Pork Ribs w/Cumin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "咕咾肉",
+      "price": 22.95,
+      "description": "Sour Sweet Pork",
+      "category": "OTHER",
+      "simplified_description": "Sour Sweet Pork",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "麻婆豆腐",
+      "price": 19.95,
+      "description": "Stewed Spicy Tofu w/Minced Pork",
+      "category": "OTHER",
+      "simplified_description": "Stewed Spicy Tofu w/Minced Pork",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

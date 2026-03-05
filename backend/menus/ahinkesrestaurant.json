@@ -1,0 +1,544 @@
+{
+  "restaurant": "ahinkesrestaurant",
+  "parsed_at": "2026-02-06T00:34:17.805557",
+  "item_count": 46,
+  "items": [
+    {
+      "name": "Suya spiced fried chicken",
+      "price": null,
+      "description": "Suya spiced fried chicken, buttermilk waffles, poached egg, and hollandaise served wth tropical bliss garden salad.",
+      "category": "OTHER",
+      "simplified_description": "Spicy fried chicken with waffles, poached egg, hollandaise, and garden salad.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya BBQ Seasoning",
+      "price": 7.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A seasoning blend for Suya BBQ dishes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grandma's Remedy",
+      "price": 7.0,
+      "description": "A comforting blend of herbs and spices that brings a touch of nostalgia to your dishes. This is a family recipe for all to enjoy. Can be used for fried rice, pepper soup, and tea.",
+      "category": "OTHER",
+      "simplified_description": "Herb and spice blend for fried rice, pepper soup, and tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jollof Rice Seasoning",
+      "price": 7.0,
+      "description": "A must-have for creating the iconic African dish \"Jollof Rice\", with a harmonious blend of tomatoes, peppers, and spices.",
+      "category": "OTHER",
+      "simplified_description": "Seasoning blend for making Jollof Rice with tomatoes and peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Seasoning",
+      "price": 7.0,
+      "description": "Elevate your poultry dishes with a savory blend of herbs and spices that add depth and flavor.",
+      "category": "OTHER",
+      "simplified_description": "Herb and spice blend to enhance chicken dishes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pounded Yam",
+      "price": 7.0,
+      "description": "Poundo flour is a fine grinded flour of yam that can be easily cooked and turned into pounded yam.",
+      "category": "FOOD",
+      "simplified_description": "Cooked yam flour that turns into soft pounded yam.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Amala",
+      "price": 6.0,
+      "description": "Àmàlà is a local indigenous Yoruba food, native to the Yoruba ethnic group. It is made out of dried yam flour.",
+      "category": "FOOD",
+      "simplified_description": "Traditional Yoruba dish made from dried yam flour.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Eba",
+      "price": 6.0,
+      "description": "Èbà / Utara (in Nigeria) as it's commonly known or Pinon (in Togo, Benin, and southern Ghana) is a staple swallow from Nigeria, also eaten in the West African sub-region and other African countries.[1][2] The term èbà originates from the Yoruba people of southwest Nigeria. It is also called Utara by the Igbo People of Southeast Nigeria. It is a cooked starchy vegetable food made from dried grated cassava (manioc) flour commonly known as garri. It is often eaten with rich soups and stews, with beef,. The dish is often described as having a slightly sour, sharp taste • Èbà/ Utara is eaten with the fingers, rolled into a small ball, and dipped into thick soups such as okra soup, bitter leaf soup or with either okro, ọ̀gbọnọ̀ (Igbo)/ apọn (Yorùbá), or ewédú, meat or fish, stewed vegetables or other sauces such as gbẹ̀gẹ̀rì, Amiedi (banga soup) or egusi soup • In West Africa, there two types of garri, the white and yellow; the yellow garri is prepared by frying with the addition of palm oil to give it a yellow colour, white garri is fried without palm oil.",
+      "category": "FOOD",
+      "simplified_description": "Staple swallow made from dried grated cassava flour called garri.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "White Rice",
+      "price": 6.0,
+      "description": "Long grain parboiled white rice.",
+      "category": "FOOD",
+      "simplified_description": "Long grain parboiled white rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jollof Rice and Chicken Only",
+      "price": null,
+      "description": "7 oz Jollof Rice and protein.",
+      "category": "KIDS",
+      "simplified_description": "7 oz serving of Jollof Rice with chicken protein.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice and Chicken",
+      "price": null,
+      "description": "",
+      "category": "KIDS",
+      "simplified_description": "Fried rice served with chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Toast",
+      "price": null,
+      "description": "",
+      "category": "KIDS",
+      "simplified_description": "Classic French toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Puff puff Waffles",
+      "price": null,
+      "description": "",
+      "category": "KIDS",
+      "simplified_description": "Waffles made with puff puff batter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ahinke's Breakfast",
+      "price": 18.0,
+      "description": "Choose Your Eggs | Choose Your Bread | Choose Your Protein | Choose Your Side",
+      "category": "OTHER",
+      "simplified_description": "Customizable breakfast with eggs, bread, protein, and side options.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plantain Paradise French Toast",
+      "price": 19.0,
+      "description": "Thick-cut French toast, candied plantains, rum caramel sauce, and coconut ice cream.",
+      "category": "DESSERT",
+      "simplified_description": "French toast with candied plantains, rum caramel, and coconut ice cream.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cinnamon Sugar Puff Puff Waffles",
+      "price": 17.0,
+      "description": "Sweet puff puff waffles, cinnamon sugar, fruit compote, and whipped cream.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet waffles with cinnamon sugar, fruit compote, and whipped cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya Chicken & Waffles",
+      "price": 23.0,
+      "description": "Suya spiced fried chicken, buttermilk waffles, pepper soup gravy, poached eggs, hollandaise, and tropical bliss garden salad.",
+      "category": "OTHER",
+      "simplified_description": "Spicy fried chicken with waffles, poached eggs, gravy, and salad.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Meat Pie Poutine with Peppersoup Gravy",
+      "price": 19.0,
+      "description": "Fried plantain hash, house potatoes, meat ple stuffing, melted cheese curds, pepper soup gravy topped with onion, tomato, and red bell peppers | Extra Protein +$4.00",
+      "category": "OTHER",
+      "simplified_description": "Potatoes and plantain with meat pie stuffing, cheese curds, and pepper soup gravy.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya Bacon Eggs Benedict",
+      "price": 21.0,
+      "description": "Suya spiced bacon, poached eggs, and hollandaise, served on toasted english muffins with a side of Tropical Garden Salad or Potatoes.",
+      "category": "OTHER",
+      "simplified_description": "Spicy bacon and poached eggs on muffins with salad or potatoes.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Efo Riro Eggs Benedict",
+      "price": 19.0,
+      "description": "Spinach and bell pepper sauce, poached eggs, and hollandaise served on toasted English muffins with a side of Tropical Garden Salad or Potatoes.",
+      "category": "OTHER",
+      "simplified_description": "Poached eggs with spinach-pepper sauce on muffins with salad or potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya Beef Benedict",
+      "price": 24.0,
+      "description": "Suya-infused beef shank, poached eggs, and hollandaise served on toasted english muffins with a side of garden salad and potatoes.",
+      "category": "OTHER",
+      "simplified_description": "Spicy beef shank and poached eggs on muffins with salad and potatoes.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Moi Moi Eggs Benedict",
+      "price": 18.0,
+      "description": "A steamed bean pudding served on toasted english muffins with a side of Tropical Garden Salad or Potatoes.",
+      "category": "OTHER",
+      "simplified_description": "Steamed bean pudding on muffins with salad or potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jollof Rice Arancini",
+      "price": 15.0,
+      "description": "Mozzarella, spicy aioli | Staff recommendation.",
+      "category": "OTHER",
+      "simplified_description": "Fried rice balls with mozzarella and spicy aioli.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Staff recommendation, Spicy"
+    },
+    {
+      "name": "Puff Puff",
+      "price": 9.5,
+      "description": "Crispy fried sweet dough balls, icing sugar, and habiscus syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet fried dough balls with icing sugar and hibiscus syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Plantain",
+      "price": 7.5,
+      "description": "A Nigerian favorite.",
+      "category": "SIDE",
+      "simplified_description": "Fried ripe plantain slices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Nigerian favorite"
+    },
+    {
+      "name": "Meat Pies",
+      "price": 10.0,
+      "description": "Crisp flakey crust stuffed with carrots, beef, and potatoes.",
+      "category": "OTHER",
+      "simplified_description": "Flaky crust pies filled with beef, carrots, and potatoes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya Beef",
+      "price": 12.0,
+      "description": "Spicy grilled beef seasoned with chef's special blend of spices, topped with suya powder.",
+      "category": "OTHER",
+      "simplified_description": "Spicy grilled beef with special suya seasoning.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jollof Rice with Chicken",
+      "price": 26.0,
+      "description": "Long grain rice cooked in tomatoes, herbs, and spices. Served with chicken and plantain.",
+      "category": "FOOD",
+      "simplified_description": "Tomato rice with chicken and fried plantain.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nigerian Shawarma",
+      "price": 18.0,
+      "description": "Spicy grilled chicken seasoned with chef's special blend of spices, coleslaw, and sausages with a side of potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Spicy grilled chicken with coleslaw, sausages, and potatoes.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shrimp Fried Rice/ Chicken",
+      "price": 28.0,
+      "description": "Stir-fried rice with juicy shrimp, colorful veggies, and a blend of spices for a flavorful, aromatic dish.",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with shrimp, vegetables, and spices.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moi Moi with Salad",
+      "price": 18.0,
+      "description": "A steamed bean pudding made from blended black-eyed peas, peppers, and spices, with a smooth, savory flavor.",
+      "category": "FOOD",
+      "simplified_description": "Steamed black-eyed pea pudding with peppers and spices.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Efo Riro with Poundo Yam",
+      "price": 26.0,
+      "description": "Flavorful spinach stew with peppers, onions, palm oil, and tender meats, dried fish infused with rich Nigerian spices. Choice of Beef, Fish, or Chicken.",
+      "category": "FOOD",
+      "simplified_description": "Spinach stew with peppers, onions, palm oil, and choice of meat.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "White Rice & Ofada",
+      "price": 26.0,
+      "description": "A rich, spicy Nigerian stew made with ofada peppers, palm oil, and assorted meats. Choice of Beef, Chicken, or Boiled Egg.",
+      "category": "FOOD",
+      "simplified_description": "Spicy Nigerian stew with ofada peppers and choice of meat or egg.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egusi with Poundo Yam",
+      "price": 26.0,
+      "description": "A hearty, nutty melon seed stew, cooked with leafy greens, spicy peppers, and tender meats, and dried fish, rich in Nigerian flavors. Choice of Beef, Fish, or Chicken.",
+      "category": "FOOD",
+      "simplified_description": "Melon seed stew with greens, spicy peppers, and choice of meat.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Contains nuts; Spicy"
+    },
+    {
+      "name": "Abula with Beef, Fish or Chicken",
+      "price": 32.0,
+      "description": "A traditional dish combining Amala, Gbegiri (bean soup), Ewedu (jute leaves), and rich, spicy meat stew.",
+      "category": "FOOD",
+      "simplified_description": "Traditional dish with yam flour, bean soup, jute leaves, and spicy meat stew.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 50.0,
+      "description": "Our fried rice contains shrimp and sausages so delicious you can't resist",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with shrimp and sausages.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peppered Beef",
+      "price": 168.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Peppered beef dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ak Seasoned Chicken",
+      "price": 70.0,
+      "description": "Grilled Chicken seasoned with our chefs created seasoned • Small Tray: 25-30 pieces | Full Tray: 55- 60 pieces",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken with special seasoning, available in small or full tray.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple; Tray sizes available"
+    },
+    {
+      "name": "Peppered Assorted Meat",
+      "price": 150.0,
+      "description": "Peppered assorted meat you can choose 3 choices of meat from our list: Shaki | Beef | Kidney | Chicken | Fish",
+      "category": "FOOD",
+      "simplified_description": "Peppered assorted meats with choice of three types.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Puff Puff",
+      "price": 64.8,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried dough balls, a popular Nigerian snack.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Pie",
+      "price": 63.6,
+      "description": "Meat Pie filled with carrot, potatoes, and Alberta ground beef seasoned to perfection.",
+      "category": "FOOD",
+      "simplified_description": "Pastry filled with seasoned ground beef, carrots, and potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plantain",
+      "price": 78.0,
+      "description": "Fried plantain.",
+      "category": "FOOD",
+      "simplified_description": "Fried ripe plantain slices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya with Veggies on The Side",
+      "price": 44.0,
+      "description": "Alberta AA Beef in chefs special suya spice with vegetables on the side to cool down the heat contains peanut.",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef suya with side vegetables; contains peanuts.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Contains peanuts; Spicy"
+    },
+    {
+      "name": "Ewa Agoyin & Sauce",
+      "price": 60.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Mashed beans served with spicy sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Assorted Meat Stew",
+      "price": 70.0,
+      "description": "Made with tomato, bell peppers, hot peppers, onions, meat stock, spices, and assorted meat: Beef, Shaki, Kidney, Chicken, Fish , Kpomo. This soup will come in bigger bowls and you have the choice of choosing 3 proteins from our list (add a note to the instruction if you want a specific protein).",
+      "category": "FOOD",
+      "simplified_description": "Spicy stew with tomato, peppers, onions, and choice of three meats.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Spicy; Choice of 3 proteins"
+    },
+    {
+      "name": "Jollof Rice",
+      "price": 40.0,
+      "description": "Long-grained rice cooked in tomato stew vanished with herbs and spices to give it color and a unique Nigerian jollof rice taste.",
+      "category": "FOOD",
+      "simplified_description": "Spiced tomato rice with herbs, a classic Nigerian dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

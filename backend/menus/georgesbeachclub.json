@@ -1,0 +1,165 @@
+{
+  "restaurant": "georgesbeachclub",
+  "parsed_at": "2026-02-06T02:19:45.272356",
+  "item_count": 16,
+  "items": [
+    {
+      "name": "10-INCH PIZZA",
+      "price": 16.0,
+      "description": "Delicious local pizza perfect for 1-2 people. Crispy crust and incredible toppings!",
+      "category": "FOOD",
+      "simplified_description": "A crispy 10-inch pizza with tasty toppings for 1-2 people.",
+      "dietary_info": [],
+      "other_info": "Serves 1-2"
+    },
+    {
+      "name": "Pepperoni",
+      "price": 16.0,
+      "description": "The Go To, Tomato Sauce, Mozzarella, and Pepperoni. You cant go wrong with a Classic.",
+      "category": "FOOD",
+      "simplified_description": "Classic pizza with tomato sauce, mozzarella cheese, and pepperoni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian",
+      "price": 16.0,
+      "description": "The Polarizer. Tomato Sauce, Mozzarella, Bacon and Pineapple. Why not Ham? Because Bacon. That's Why.",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with tomato sauce, mozzarella, bacon, and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Cheese",
+      "price": 15.0,
+      "description": "So Cheesy Its got dad jokes. Cheddar, Provolone, Gouda, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Cheesy pizza with cheddar, provolone, gouda, and mozzarella cheeses.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Lovers",
+      "price": 16.0,
+      "description": "Carnivores Dream. Tomato sauce, Mozzarella, Bacon, Pepperoni, Genoa Salami, Calabrese, Italian Sausage. Approved by Raptors.",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with tomato sauce, mozzarella, and various meats.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken ranch",
+      "price": 16.0,
+      "description": "Tomato Sauce, Mozzarella, Cheddar, Onions, Red Pepper, Buffalo Hot Sauce and Ranch. No Buffalo were Harmed in the process of making this pizza.",
+      "category": "FOOD",
+      "simplified_description": "Spicy pizza with chicken, cheeses, onions, red pepper, buffalo sauce, and ranch.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "BAKED CHICKEN WINGS",
+      "price": 11.0,
+      "description": "whole cornmeal coated",
+      "category": "FOOD",
+      "simplified_description": "Cornmeal-coated baked chicken wings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "salt & pepper",
+      "price": 11.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings with salt and pepper seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "buffalo hot",
+      "price": 11.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Spicy buffalo hot chicken wings.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "sweet chili",
+      "price": 11.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings with sweet chili sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "greek",
+      "price": 11.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Greek style chicken wings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ",
+      "price": 11.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings with BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers and Tator Tots",
+      "price": 12.0,
+      "description": "Fresh crispy tenders with a side of tots, ketchup and tangy dipping sauce",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken tenders served with tater tots, ketchup, and dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Dijon Chickpea Salad",
+      "price": 13.0,
+      "description": "Chickpeas, Cucumber, Tomato, Onion, Red Pepper, Honey Dijon Dressing",
+      "category": "FOOD",
+      "simplified_description": "Salad with chickpeas, vegetables, and honey Dijon dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh made Crispy Potato Chips",
+      "price": 3.0,
+      "description": "$3",
+      "category": "FOOD",
+      "simplified_description": "Freshly made crispy potato chips.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "pickled beet and feta",
+      "price": 13.0,
+      "description": "Chicken, Pickled Daikon and Carrot, Onion, Cucumber, Cilantro, Crushed Peanuts Sweet and Savory Char sui BBQ Sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken salad with pickled vegetables, peanuts, and sweet-savory BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

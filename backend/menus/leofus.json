@@ -1,0 +1,925 @@
+{
+  "restaurant": "leofus",
+  "parsed_at": "2026-02-06T03:05:41.554298",
+  "item_count": 102,
+  "items": [
+    {
+      "name": "酥炸大虾 (柠檬汁) Deep Fried Shrimp with Lemon Sauce on the side",
+      "price": 18.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "宫保虾 Shrimp King-Pao",
+      "price": 18.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "油爆虾菇兰 Shrimp with Broccoli",
+      "price": 18.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板黑椒鸡 Sliced Chicken with Black Pepper Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鼓汁鸡片 Sliced Chicken with Black Bean Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板咖喱鸡 Sliced Chicken with Curry Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板四川鸡 Sliced Chicken with Szechuan Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板黑椒牛片 Beef with Black Pepper Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鼓汁牛片 Beef with Black Bean Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板咖喱牛片 Sliced Chicken with Curry Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鱼香牛片 Beef with Szechuan Sauce on Hot Plate",
+      "price": 17.5,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鼓汁虾 Shrimp with Black Bean Sauce on Hot Plate",
+      "price": 18.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板咖喱虾 Shrimp with Curry Sauce on Hot Plate",
+      "price": 18.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鱼香虾 Shrimp with Szechuan Sauce on Hot Plate",
+      "price": 18.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板皇宫虾 Palace Style Shrimp",
+      "price": 18.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鼓汁双鲜 Shrimp & Squid with Black Bean Sauce on Hot Plate",
+      "price": 20.45,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鼓汁鱼 Bass Fillet with Black Bean Sauce on Hot Plate",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "铁板鱼香鱼 Bass Fillet with Szechuan Sauce on Hot Plate",
+      "price": 17.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "姜葱牛肉煲 Beef with Ginger and Green Onion Hot Pot",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "姜葱鸡肉煲 Chicken with Ginger and Green Onion Hot Pot",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "杂菜豆腐煲 Mix Vegetable with Bean Curd Hot Pot",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "八珍豆腐煲 Shrimp and Meat with Tofu Hot Pot",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "干牛丝 Ginger Beef",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "牛肉炒四蔬 Beef with Four kind of Vegetables in Oyster Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "牛肉炒杂菜 Beef with Mixed Vegetables",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "百加利牛片 Beef with Broccoli",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "双姑牛片 Beef with Two Kind of Mushrooms",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "湖南牛 Beef Hunan Style",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "雪豆牛片 Beef with Snow Peas",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "干鸡丝 Ginger Chicken",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "脆香椒盐鸡丝 Crispy Salt and Pepper Chicken",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "油爆西兰鸡片 Chicken Broccoli",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "杂菜鸡片 Chicken with Mixed Vegetable",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蘑菇鸡片 Chicken with Mushroom",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "腰果鸡丁 Chicken with Cashew Nuts",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "宫保鸡丁 Kung-Pao Chicken",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "酱爆鸡丁 Diced Chicken & Cashew Nut in Yellow Bean Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "双菇鸡片 Chicken with Two Kinds of Mushrooms",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "咕噜鸡 Sweet and Sour Chicken",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "甜酸鸡波 Sweet and Sour Chicken Balls",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蚝油四蔬鸡片 Chicken with Four Kinds of Vegetables in Oyster Sauce",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "雪豆鸡片 Chicken Snow Peas",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "柠檬鸡 Lemon Chicken",
+      "price": 18.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "咕噜肉 Sweet and Sour Pork",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "咕噜骨 Sweet and Sour Ribs",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蒜子蜜骨 Honey Garlic Ribs",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "椒盐骨 Salt and Pepper Ribs",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鱼香肉丝 Shredded Pork with Szechuan Sauce",
+      "price": 15.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "叉烧杂菜 BBQ with Pork with Mixed Vegetables",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "叉烧雪豆 BBQ Pork with Snow Peas",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "甜酸猪扒 Leo Fu’s Pork Chop",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "椒盐猪扒 Salt and Pepper Pork Chop",
+      "price": 16.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "上素杂菜 Stir Fried Mixed Vegetables",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "腰果杂菜 Mixed Vegetables with Cashew Nuts",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蚝油杂菜 Mixed Vegetables in Oyster Sauce",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鼓汁杂菜 Mixed Vegetables in Black Bean Sauce",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "辣杂菜 Mixed Vegetables with Sweet and Chili Sauce",
+      "price": 13.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蚝油四蔬 Four Kinds of Vegetables in Oyster Sauce",
+      "price": 14.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鱼香茄子 Egg Plant Szechuan Style",
+      "price": null,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "干扁四季豆 String Beans Szechuan Style",
+      "price": null,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鱼香百加利 Broccoli Szechuan Style",
+      "price": 13.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蒜容百加利 Broccoli Garlic Sauce",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "本楼豆腐 Deep Fried Bean Curd and Mixed Vegetables",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "麻婆豆腐 Ma-Po Tofu",
+      "price": 13.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "红烧豆腐 Tofu with Chinese Mushroom & Suey Choy(Napa)",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "虾杂碎 Shrimp Chop Suey",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鸡杂碎 Chicken Chop Suey",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "叉烧杂碎 BBQ Pork Chop Suey",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蘑菇杂碎 Mushroom Chop Suey",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "木须虾 Moo-Shu Shrimp",
+      "price": 18.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "木须鸡 Moo-Shu Chicken",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "木须肉 Moo-Shu Pork",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "虾芙蓉 Shrimp Foo Young",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鸡芙蓉 Chicken Foo Young",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "叉烧芙蓉 BBQ Pork Foo Young",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蘑菇芙蓉 Mushroom Foo Young",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "杨洲炒饭 House Special Fried Rice",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "虾炒饭 Shrimp Fried Rice",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鸡炒饭 Chicken Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "叉烧炒饭 BBQ Pork Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "牛肉炒饭 Beef Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "蘑菇炒饭 Mushroom Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "杂菜炒饭 Mixed Vegetables Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "净炒饭 Plain Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "湖南辣炒饭 Spicy Hunan Fried Rice",
+      "price": 14.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "丝苗白米饭 Steam Rice (Per Person)",
+      "price": 3.25,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "招牌炒幼面 Cantonese Special Chow Mein (Thin)",
+      "price": 16.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "海鲜面 Seafood Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鼓油皇炒幼面 Stir Fried Thin Noodle with Chicken & Bean Sprout (Soft)",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "星洲炒米粉 Singapore Fried Noodle (Rice Noodle)",
+      "price": 14.95,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "牛片炒面 (粗 幼) Beef Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "鸡片炒面 (粗 幼) Chicken Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "叉烧炒面 (粗 幼) BBQ Pork Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "杂菜炒面 (粗 幼) Mixed Vegetables Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "沙爹牛片炒面 (粗 幼) Satay Beef Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "沙爹鸡片炒面 (粗 幼) Satay Chicken Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "四川炒面 (粗 幼) Szechuan Fried Noodle",
+      "price": null,
+      "description": "Spicy",
+      "category": "FOOD",
+      "simplified_description": "Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "上海炒面 (粗 幼) Shanghai Fried Noodle",
+      "price": null,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "干炒牛河 Beef with Flat Rice Noodle",
+      "price": 16.5,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": null,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet and Sour sauce",
+      "price": 2.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechwan sauce",
+      "price": 4.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

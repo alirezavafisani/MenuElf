@@ -1,0 +1,340 @@
+{
+  "restaurant": "sidewalkcitizenbakery",
+  "parsed_at": "2026-02-06T04:06:59.142344",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "BREAKFAST SANDWICH",
+      "price": 14.0,
+      "description": "choose: chicken and apple sausage, bacon or avocado (2 toppings add $4) fried egg, garlic mayo, arugula, tomato jam, brioche bun or sourdough bread",
+      "category": "FOOD",
+      "simplified_description": "choose: chicken and apple sausage, bacon or avocado (2 toppings add $4) fried eg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SALMON SANDWICH",
+      "price": 16.0,
+      "description": "cured chinook salmon, labneh, dill, fried egg, shaved cucumber, pickled onion, arugula, brioche bun or sourdough",
+      "category": "FOOD",
+      "simplified_description": "cured chinook salmon, labneh, dill, fried egg, shaved cucumber, pickled onion, a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVOCADO TOAST",
+      "price": 10.0,
+      "description": "grape tomatoes, za’atar, pomegranate molasses, micro greens",
+      "category": "FOOD",
+      "simplified_description": "grape tomatoes, za’atar, pomegranate molasses, micro greens",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRANOLA BOWL",
+      "price": 9.5,
+      "description": "coconut and cardamom granola, maple syrup, local greek yogurt & berries",
+      "category": "FOOD",
+      "simplified_description": "coconut and cardamom granola, maple syrup, local greek yogurt & berries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "QUICHE",
+      "price": 11.0,
+      "description": "rotating meat or veggie, add side daily soup",
+      "category": "FOOD",
+      "simplified_description": "rotating meat or veggie, add side daily soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRILLED CHEESE",
+      "price": 15.0,
+      "description": "aged cheddar, fior di latte, gouda, local honey (add bacon $4)",
+      "category": "FOOD",
+      "simplified_description": "aged cheddar, fior di latte, gouda, local honey (add bacon $4)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVOCADO",
+      "price": 4.5,
+      "description": "1/2 avo with olive oil and za’atar",
+      "category": "SIDE",
+      "simplified_description": "1/2 avo with olive oil and za’atar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACON",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CURED SALMON",
+      "price": 5.0,
+      "description": "fresh lemon & dill",
+      "category": "SIDE",
+      "simplified_description": "fresh lemon & dill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRESH SOURDOUGH",
+      "price": 3.0,
+      "description": "two pieces",
+      "category": "SIDE",
+      "simplified_description": "two pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRIED EGG",
+      "price": 3.5,
+      "description": "dried chillies, olive oil",
+      "category": "SIDE",
+      "simplified_description": "dried chillies, olive oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOUSE PICKLES",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HUMMUS",
+      "price": 4.0,
+      "description": "olive oil drizzle",
+      "category": "SIDE",
+      "simplified_description": "olive oil drizzle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LABNEH",
+      "price": 4.5,
+      "description": "sumac & olive oil",
+      "category": "SIDE",
+      "simplified_description": "sumac & olive oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken + Apple Sausage",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALMOND CROISSANT",
+      "price": 7.5,
+      "description": "with frangipane and slivered almonds",
+      "category": "PASTRIES",
+      "simplified_description": "with frangipane and slivered almonds",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEASONAL GF CAKE*",
+      "price": 5.5,
+      "description": "gluten free",
+      "category": "PASTRIES",
+      "simplified_description": "gluten free",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BANANA CHOCOLATE LOAF",
+      "price": 5.0,
+      "description": "vegan",
+      "category": "PASTRIES",
+      "simplified_description": "vegan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BROWNIE",
+      "price": 7.5,
+      "description": "dark chocolate",
+      "category": "PASTRIES",
+      "simplified_description": "dark chocolate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE SCONE",
+      "price": 5.5,
+      "description": "feta, cheddar and old bay seasoning",
+      "category": "PASTRIES",
+      "simplified_description": "feta, cheddar and old bay seasoning",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE BUN",
+      "price": 6.5,
+      "description": "cream cheese filling topped with black and white sesame seeds",
+      "category": "PASTRIES",
+      "simplified_description": "cream cheese filling topped with black and white sesame seeds",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOCOLATE CHIP COOKIE",
+      "price": 3.5,
+      "description": "with nutmeg and seas salt",
+      "category": "PASTRIES",
+      "simplified_description": "with nutmeg and seas salt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HAM + CHEESE CROISSANT",
+      "price": 7.0,
+      "description": "with ham, aged cheddar, and mustard mornay",
+      "category": "PASTRIES",
+      "simplified_description": "with ham, aged cheddar, and mustard mornay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OAT COOKIE",
+      "price": 4.0,
+      "description": "white + dark chocolate, pumpkin seeds, craisins, corn flakes",
+      "category": "PASTRIES",
+      "simplified_description": "white + dark chocolate, pumpkin seeds, craisins, corn flakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OAT FUDGE BAR",
+      "price": 5.5,
+      "description": "gluten free and vegan",
+      "category": "PASTRIES",
+      "simplified_description": "gluten free and vegan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PAIN au chocolat",
+      "price": 6.5,
+      "description": "with 54% dark chocolate",
+      "category": "PASTRIES",
+      "simplified_description": "with 54% dark chocolate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOURDOUGH CROISSANT",
+      "price": 4.75,
+      "description": "an elevated butter croissant",
+      "category": "PASTRIES",
+      "simplified_description": "an elevated butter croissant",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STICKY BUN",
+      "price": 5.75,
+      "description": "brioche dough and cinnamon goo",
+      "category": "PASTRIES",
+      "simplified_description": "brioche dough and cinnamon goo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SWEET DANISH",
+      "price": 8.0,
+      "description": "seasonal flavours",
+      "category": "PASTRIES",
+      "simplified_description": "seasonal flavours",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SWEET SCONE",
+      "price": 5.5,
+      "description": "with buttermilk and seasonal fruits",
+      "category": "PASTRIES",
+      "simplified_description": "with buttermilk and seasonal fruits",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHOLE WHEAT",
+      "price": 8.0,
+      "description": "organic red fife flour, grey sea salt - Available Daily",
+      "category": "OTHER",
+      "simplified_description": "organic red fife flour, grey sea salt - Available Daily",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "100% WHOLE WHEAT",
+      "price": 9.0,
+      "description": "available Tuesday",
+      "category": "OTHER",
+      "simplified_description": "available Tuesday",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEEDED CRUST",
+      "price": 9.0,
+      "description": "available Monday and Friday",
+      "category": "OTHER",
+      "simplified_description": "available Monday and Friday",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEEDED INSIDE",
+      "price": 9.0,
+      "description": "available Sunday",
+      "category": "OTHER",
+      "simplified_description": "available Sunday",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MULTIGRAIN",
+      "price": 9.0,
+      "description": "available Thursday",
+      "category": "OTHER",
+      "simplified_description": "available Thursday",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RYE",
+      "price": 9.0,
+      "description": "available Friday",
+      "category": "OTHER",
+      "simplified_description": "available Friday",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chardonnay With a Cube of Ice",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

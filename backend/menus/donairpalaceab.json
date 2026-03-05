@@ -1,0 +1,240 @@
+{
+  "restaurant": "donairpalaceab",
+  "parsed_at": "2026-02-06T02:02:58.072367",
+  "item_count": 19,
+  "items": [
+    {
+      "name": "Chicken Shawarma (Small )",
+      "price": 16.99,
+      "description": "Tender chicken wrapped in a soft flatbread with fresh veggies and a blend of spices for a delightful taste.",
+      "category": "FOOD",
+      "simplified_description": "Chicken wrapped in flatbread with veggies and spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Special Wrap",
+      "price": 16.99,
+      "description": "Crispy falafel wrapped with fresh ingredients.",
+      "category": "FOOD",
+      "simplified_description": "Crispy falafel wrapped with fresh veggies.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Beef & Chicken Donair (Small)",
+      "price": 18.99,
+      "description": "Beef and chicken wrapped in a flavorful donair.",
+      "category": "FOOD",
+      "simplified_description": "Beef and chicken wrapped in donair bread.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair (Small)",
+      "price": 16.5,
+      "description": "Thinly sliced beef wrapped in a warm pita bread.",
+      "category": "FOOD",
+      "simplified_description": "Thin beef slices wrapped in pita bread.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Platter (Chicken & Beef)",
+      "price": 26.99,
+      "description": "Tender chicken and beef, served together in a platter.",
+      "category": "FOOD",
+      "simplified_description": "Platter with tender chicken and beef.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Platter",
+      "price": 24.99,
+      "description": "Juicy chicken served with a side of shawarma spices and accompaniments.",
+      "category": "FOOD",
+      "simplified_description": "Juicy chicken with shawarma spices and sides.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Platters",
+      "price": 23.99,
+      "description": "Tender beef served with a side of donair sauce.",
+      "category": "FOOD",
+      "simplified_description": "Tender beef served with donair sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shawarma Poutine (Small )",
+      "price": 19.99,
+      "description": "Served with Meat",
+      "category": "FOOD",
+      "simplified_description": "Poutine topped with meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme Fries (Small )",
+      "price": 19.99,
+      "description": "Served with your choice of meats, veggies & sauces",
+      "category": "FOOD",
+      "simplified_description": "Fries with choice of meats, veggies, and sauces.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 12.5,
+      "description": "Regular fries.",
+      "category": "FOOD",
+      "simplified_description": "Simple regular fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine (Small )",
+      "price": 11.5,
+      "description": "French fries topped with cheese curds.",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with cheese curds.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Poutine",
+      "price": 17.99,
+      "description": "Crispy French fries topped with roasted butter chicken, creating a fusion of flavors in every bite.",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with roasted butter chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Vegetable Soup",
+      "price": 9.99,
+      "description": "Savory soup with beef, green beans, carrots, sweet corn, and green peas for a comforting meal.",
+      "category": "FOOD",
+      "simplified_description": "Beef soup with mixed vegetables.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Panini",
+      "price": 22.99,
+      "description": "Savor a panini with beef, pickles, mozzarella, and garlic mustard sauce for a tangy, cheesy delight.",
+      "category": "FOOD",
+      "simplified_description": "Panini with beef, pickles, cheese, and mustard sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Pizza 8in Small",
+      "price": 16.0,
+      "description": "Tomato sauce, mozzarella cheese, baked, donair meat",
+      "category": "FOOD",
+      "simplified_description": "Small pizza with tomato sauce, cheese, and donair meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Pizza 8in",
+      "price": 16.0,
+      "description": "Donair meat, minced beef and chicken",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with donair meat, minced beef, and chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Pizza Large 16in",
+      "price": 21.0,
+      "description": "Onion, Chicken and BBQ Sauce",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with onion, chicken, and BBQ sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Palace Special Veg, Pizza Large 16in",
+      "price": 21.0,
+      "description": "Tomato, turnip, banana pepper, pickle, onion, Olive.",
+      "category": "FOOD",
+      "simplified_description": "Large vegetarian pizza with tomato, turnip, banana pepper, pickle, onion, and olives.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pepsi",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

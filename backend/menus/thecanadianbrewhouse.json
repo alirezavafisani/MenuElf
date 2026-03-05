@@ -1,0 +1,88 @@
+{
+  "restaurant": "thecanadianbrewhouse",
+  "parsed_at": "2026-02-06T04:29:32.529915",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "Queen Charlotte Caesar Salad",
+      "price": 17.99,
+      "description": "Crisp romaine, fresh Parmesan, real bacon bits, fried capers, homemade croutons, creamy Caesar dressing and a lemon wedge. Served with garlic toast.",
+      "category": "SALAD",
+      "simplified_description": "Crisp romaine, fresh Parmesan, real bacon bits, fried capers, homemade croutons,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Turkey Half Club with Soup",
+      "price": 17.99,
+      "description": "Like a warm hug in sandwich form! Shaved turkey breast, maple peppered bacon, brie cheese, garlic mayo, iceberg lettuce, tomato, avocado, on garlic buttered toasted sourdough. Served with the soup of the day.",
+      "category": "SANDWICH",
+      "simplified_description": "Like a warm hug in sandwich form! Shaved turkey breast, maple peppered bacon, br",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Poke Rice Bowl",
+      "price": 24.99,
+      "description": "Sushi-grade ahi tuna marinated in spicy Sriracha mayo. Served over warm garlic rice with fresh avocado, green onion, cucumbers, pickled carrots, and edamame beans. Garnished to perfection with cilantro, nori, and a lime cheek.",
+      "category": "BOWL",
+      "simplified_description": "Sushi-grade ahi tuna marinated in spicy Sriracha mayo. Served over warm garlic r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tender Benders",
+      "price": 21.99,
+      "description": "Come on, you know what chicken tenders are! We serve ours with your choice of Asian ginger or plum sauce. This dish comes with your choice of fries, rice, soup or tossed salad. I want someone to look at me the way I look at chicken tenders.",
+      "category": "OTHER",
+      "simplified_description": "Come on, you know what chicken tenders are! We serve ours with your choice of As",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brewhouse Half Dip",
+      "price": 17.99,
+      "description": "Classic favourite! Thinly sliced roast beef served on a baguette bun with horseradish mayo and served with au jus with your choice of side.",
+      "category": "SANDWICH",
+      "simplified_description": "Classic favourite! Thinly sliced roast beef served on a baguette bun with horser",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Wagyu Ravioli",
+      "price": 24.99,
+      "description": "Saddle up for a taste of Alberta with Brant Lake Wagyu ravioli, smothered in a rich rosé sauce and topped with a sprinkle of MVP (Most Valuable Parmesan).",
+      "category": "PASTA",
+      "simplified_description": "Saddle up for a taste of Alberta with Brant Lake Wagyu ravioli, smothered in a r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8\" R-C-M-Pizza",
+      "price": 13.99,
+      "description": "RCMP Toppings: Pepperoni, ham, ground beef, bacon, black olives, mushrooms, spicy sausage, onions, green peppers, fresh jalapeños, pineapple, cheddar cheese and fresh tomatoes.",
+      "category": "PIZZA",
+      "simplified_description": "RCMP Toppings: Pepperoni, ham, ground beef, bacon, black olives, mushrooms, spic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ribeye's Smash Burger",
+      "price": 16.99,
+      "description": "Crafted with premium cuts of beef, the Ribeye Butcher Shop's smash burger is a meat lover's dream, guaranteed to satisfy even the heartiest burger cravings, and topped perfectly with lettuce, pickles, secret sauce, and American cheddar with your choice of side.",
+      "category": "BURGER",
+      "simplified_description": "Crafted with premium cuts of beef, the Ribeye Butcher Shop's smash burger is a m",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tesoro's Chicken Parmesan",
+      "price": 22.99,
+      "description": "Tesoro's famous crispy, golden chicken parmesan made with tender, breaded chicken, melted mozzarella, San Marzano tomato sauce, basil pesto, and a perfect sprinkle of parmesan on a bed arugula salad. Just like Nonna used to make.",
+      "category": "ENTRÉE",
+      "simplified_description": "Tesoro's famous crispy, golden chicken parmesan made with tender, breaded chicke",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

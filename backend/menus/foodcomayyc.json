@@ -1,0 +1,329 @@
+{
+  "restaurant": "foodcomayyc",
+  "parsed_at": "2026-02-06T02:15:43.480964",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "Surf and Turf",
+      "price": 18.0,
+      "description": "Mixed vegetable patty, cheese, cinnamon pickled onion, chipotle, Korean BBQ sauce, brioche.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable patty burger with cheese, pickled onion, chipotle, and BBQ sauce on brioche.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Coma Burger",
+      "price": 18.0,
+      "description": "Mixed vegetable patty, cheese, cinnamon pickled onion, chipotle, Korean BBQ sauce, brioche.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable patty burger with cheese, pickled onion, chipotle, and BBQ sauce on brioche.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fricken Burger",
+      "price": 18.0,
+      "description": "Fresh chicken thigh dredge, Korean BBQ sauce, chipotle, lettuce, tomato, brioche, cinnamon pickled onion, pickle.",
+      "category": "FOOD",
+      "simplified_description": "Chicken thigh burger with BBQ sauce, chipotle, lettuce, tomato, and pickled onion on brioche.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "To Die For Burger",
+      "price": 18.0,
+      "description": "Grass fed beef patty, fried chicken, cheddar cheese, lettuce, tomato, cinnamon pickled onion, chipotle, korean BBQ sauce, brioche.",
+      "category": "FOOD",
+      "simplified_description": "Beef and fried chicken burger with cheddar, lettuce, tomato, and BBQ sauce on brioche.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coma Burger",
+      "price": 18.0,
+      "description": "Grass fed double beef patty, double cheese, lettuce, tomato, cinnamon pickled onion, chipotle, brioche, Korean BBQ sauce.",
+      "category": "FOOD",
+      "simplified_description": "Double beef and cheese burger with lettuce, tomato, pickled onion, chipotle, and BBQ sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic fried potato fries.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Brisket Poutine",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Poutine topped with smoked brisket.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nashville Chicken Poutine",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Poutine topped with Nashville-style fried chicken.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "House Poutine",
+      "price": 11.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Classic poutine with fries, cheese curds, and gravy.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Poutine",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Poutine topped with butter chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Fried Chicken Poutine",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Poutine topped with Korean fried chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Brisket Sandwich",
+      "price": 18.0,
+      "description": "Smoked meat on a brioche bun, remoulade sauce, blue sauce, pickled onion.",
+      "category": "FOOD",
+      "simplified_description": "Smoked meat sandwich with remoulade, blue sauce, and pickled onion on brioche.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Brisket Sandwich",
+      "price": 18.0,
+      "description": "Hot sauce, smoked meat on a brioche bun, remoulade sauce, blue sauce, pickled onion.",
+      "category": "FOOD",
+      "simplified_description": "Spicy smoked meat sandwich with remoulade, blue sauce, and pickled onion on brioche.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Nashville Chicken Sandwich",
+      "price": 18.0,
+      "description": "With candied jalapeños and remoulade on a brioche, pickles, blue sauce, pickled onion.",
+      "category": "FOOD",
+      "simplified_description": "Spicy Nashville chicken sandwich with candied jalapeños, remoulade, and pickles on brioche.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Fricken Meal",
+      "price": 24.0,
+      "description": "2-4pcs Fresh chicken thigh dredge, chicken gravy, sweet potato doughnuts, fries. 2pcs for $16.",
+      "category": "FOOD",
+      "simplified_description": "Meal with 2-4 chicken thighs, gravy, sweet potato doughnuts, and fries.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "2pcs option for $16"
+    },
+    {
+      "name": "Coma Hot Dog",
+      "price": 11.0,
+      "description": "Beef sausage, bun, ketchup, mustard, fries.",
+      "category": "FOOD",
+      "simplified_description": "Beef hot dog served with fries and classic condiments.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Finger Licking Chicken Waffle",
+      "price": 18.0,
+      "description": "Fresh chicken thigh dredge, waffle, chicken gravy, Korean BBQ sauce, finished with parsley, green onion, and cinnamon pickled onion.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken thigh on a waffle with gravy and Korean BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Drunken Fish",
+      "price": 18.0,
+      "description": "Fish and chips, beer bettered fresh basa, tartare sauce, and fries.",
+      "category": "FOOD",
+      "simplified_description": "Beer-battered basa fish with fries and tartare sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Waffle with Chocolate and Caramel",
+      "price": 5.0,
+      "description": "1 PCS $5, 2 PCS $10 (Add vanilla village ice cream $4)",
+      "category": "DESSERT",
+      "simplified_description": "Waffle served with chocolate and caramel toppings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Add vanilla ice cream for extra cost"
+    },
+    {
+      "name": "Cinnamon Sugar Waffle",
+      "price": 5.0,
+      "description": "1 PCS $5, 2 PCS $10 (Add vanilla village ice cream $4)",
+      "category": "DESSERT",
+      "simplified_description": "Waffle topped with cinnamon sugar.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Add vanilla ice cream for extra cost"
+    },
+    {
+      "name": "Just Waffle",
+      "price": 5.0,
+      "description": "1 PCS $5, 2 PCS $10 (Add vanilla village ice cream $4)",
+      "category": "DESSERT",
+      "simplified_description": "Plain waffle served as is.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Add vanilla ice cream for extra cost"
+    },
+    {
+      "name": "Sweet Potato Doughnuts",
+      "price": null,
+      "description": "With honey chipotle.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet potato doughnuts served with honey chipotle sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nashville chicken sandwich",
+      "price": 18.0,
+      "description": "With candied jalapeños and remoulade on a brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Spicy Nashville chicken sandwich with candied jalapeños and remoulade.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot brisket sandwich",
+      "price": 18.0,
+      "description": "Smoked meat on a brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Smoked brisket served hot on a brioche bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked brisket sandwich",
+      "price": 18.0,
+      "description": "Smoked meat on a brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Smoked brisket sandwich on a brioche bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tacos",
+      "price": 16.0,
+      "description": "Nashville chicken or hot smoked brisket with candied jalapeños, pickled onions and our house blue sauce.",
+      "category": "FOOD",
+      "simplified_description": "Tacos with choice of Nashville chicken or brisket and toppings.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Poutines",
+      "price": 16.0,
+      "description": "Nashville chicken or hot smoked brisket & all the fixings.",
+      "category": "FOOD",
+      "simplified_description": "Poutine with choice of Nashville chicken or smoked brisket.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Totchos",
+      "price": 16.0,
+      "description": "Nashville chicken or hot smoked brisket, crispy tots with house veggies and blue sauce.",
+      "category": "FOOD",
+      "simplified_description": "Crispy tots topped with Nashville chicken or brisket and veggies.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet potato doughnuts with honey chipotle 15PC",
+      "price": 12.0,
+      "description": "Fluffy sweet potato doughnuts drizzled with a smoky-sweet honey chipotle glaze.",
+      "category": "FOOD",
+      "simplified_description": "Fluffy sweet potato doughnuts with smoky honey chipotle glaze.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

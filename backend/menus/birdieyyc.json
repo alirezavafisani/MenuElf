@@ -1,0 +1,534 @@
+{
+  "restaurant": "birdieyyc",
+  "parsed_at": "2026-02-06T01:04:49.033642",
+  "item_count": 48,
+  "items": [
+    {
+      "name": "Plain Jane",
+      "price": 10.95,
+      "description": "Plain Jane",
+      "category": "FOOD",
+      "simplified_description": "A simple, classic chicken sandwich.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NASHVILLE",
+      "price": 11.95,
+      "description": "NASHVILLE",
+      "category": "FOOD",
+      "simplified_description": "Spicy Nashville-style fried chicken sandwich.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Hot Honey",
+      "price": 12.75,
+      "description": "Hot Honey",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with sweet and spicy hot honey sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Buffalo Ranch",
+      "price": 11.95,
+      "description": "Buffalo Ranch",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with buffalo sauce and ranch dressing.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Tandoori",
+      "price": 12.75,
+      "description": "Tandoori",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with tandoori spices.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CAJUN",
+      "price": 11.75,
+      "description": "CAJUN",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with Cajun seasoning.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CHIPOTLE",
+      "price": 11.75,
+      "description": "CHIPOTLE",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with smoky chipotle sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "MEDITERRANEAN",
+      "price": 11.95,
+      "description": "MEDITERRANEAN",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with Mediterranean flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ",
+      "price": 11.95,
+      "description": "BBQ",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with barbecue sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TERIYAKI",
+      "price": 12.75,
+      "description": "TERIYAKI",
+      "category": "FOOD",
+      "simplified_description": "Chicken sandwich with teriyaki sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE VEGGIE BIRDIE",
+      "price": 10.95,
+      "description": "THE VEGGIE BIRDIE",
+      "category": "FOOD",
+      "simplified_description": "A vegetarian sandwich option.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "5 Chicken Nuggets",
+      "price": 5.0,
+      "description": "5 Chicken Nuggets",
+      "category": "FOOD",
+      "simplified_description": "Five pieces of fried chicken nuggets.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "5 Chicken Nuggets Meal",
+      "price": 7.5,
+      "description": "5 Chicken Nuggets Meal",
+      "category": "FOOD",
+      "simplified_description": "Meal with five chicken nuggets and sides.",
+      "dietary_info": [],
+      "other_info": "Meal includes sides"
+    },
+    {
+      "name": "Chicken Slider",
+      "price": 4.25,
+      "description": "Chicken Slider",
+      "category": "FOOD",
+      "simplified_description": "Small chicken sandwich slider.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flight of Sliders",
+      "price": 12.0,
+      "description": "Flight of Sliders",
+      "category": "FOOD",
+      "simplified_description": "A selection of various chicken sliders.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "SMASHED CHICKEN SANDWICH",
+      "price": 8.0,
+      "description": "SMASHED CHICKEN SANDWICH",
+      "category": "FOOD",
+      "simplified_description": "A sandwich with smashed chicken meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIDE SAUCE",
+      "price": 1.0,
+      "description": "(Birdie Hot, Mayo, BBQ, Tandoori, Cajun, Chipotle, Garlic, Mint Plum, Ranch, Ketchup, Buffalo)",
+      "category": "SIDE",
+      "simplified_description": "Various side sauces including spicy and savory options.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 4.25,
+      "description": "Fries",
+      "category": "SIDE",
+      "simplified_description": "Classic fried potato fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "WAFFLE FRIES",
+      "price": 5.0,
+      "description": "WAFFLE FRIES",
+      "category": "SIDE",
+      "simplified_description": "Crispy waffle-cut fried potatoes.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ONION RINGS",
+      "price": 5.0,
+      "description": "ONION RINGS",
+      "category": "SIDE",
+      "simplified_description": "Battered and fried onion rings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MACARONI SALAD",
+      "price": 5.0,
+      "description": "MACARONI SALAD",
+      "category": "SIDE",
+      "simplified_description": "Cold salad with macaroni pasta and dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "COLESLAW",
+      "price": 4.0,
+      "description": "COLESLAW",
+      "category": "SIDE",
+      "simplified_description": "Shredded cabbage salad with creamy dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 8.5,
+      "description": "Poutine",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with cheese curds and gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BUTTER CHICKEN POUTINE",
+      "price": 9.0,
+      "description": "BUTTER CHICKEN POUTINE",
+      "category": "SIDE",
+      "simplified_description": "Poutine with butter chicken topping.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRAVY",
+      "price": 4.0,
+      "description": "GRAVY",
+      "category": "SIDE",
+      "simplified_description": "Savory brown gravy sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TENDERS (3pc)",
+      "price": 9.5,
+      "description": "CHICKEN TENDERS (3pc)",
+      "category": "FOOD",
+      "simplified_description": "Three pieces of breaded fried chicken tenders.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TENDERS AND FRIES",
+      "price": 12.95,
+      "description": "CHICKEN TENDERS AND FRIES",
+      "category": "FOOD",
+      "simplified_description": "Chicken tenders served with fries.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN & WAFFLES",
+      "price": 12.95,
+      "description": "CHICKEN & WAFFLES",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken served with waffles.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla",
+      "price": 6.5,
+      "description": "Vanilla",
+      "category": "DRINK",
+      "simplified_description": "Vanilla flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate",
+      "price": 6.5,
+      "description": "Chocolate",
+      "category": "DRINK",
+      "simplified_description": "Chocolate flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 6.5,
+      "description": "Coffee",
+      "category": "DRINK",
+      "simplified_description": "A hot brewed coffee beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Oreo",
+      "price": 6.5,
+      "description": "Oreo",
+      "category": "DRINK",
+      "simplified_description": "A drink flavored with Oreo cookies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Biscoff",
+      "price": 6.5,
+      "description": "Biscoff",
+      "category": "DRINK",
+      "simplified_description": "A drink flavored with Biscoff cookies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry",
+      "price": 6.5,
+      "description": "Strawberry",
+      "category": "DRINK",
+      "simplified_description": "A strawberry-flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": 6.5,
+      "description": "Mango",
+      "category": "DRINK",
+      "simplified_description": "A mango-flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peach",
+      "price": 6.5,
+      "description": "Peach",
+      "category": "DRINK",
+      "simplified_description": "A peach-flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Neapolitan shake",
+      "price": 6.5,
+      "description": "Neapolitan shake",
+      "category": "DRINK",
+      "simplified_description": "A shake with chocolate, vanilla, and strawberry flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Garden “Cakeface”",
+      "price": 9.5,
+      "description": "Cold Garden “Cakeface”",
+      "category": "DRINK",
+      "simplified_description": "A Cold Garden brand drink called Cakeface.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Garden “Inglewood Iced Tea”",
+      "price": 9.5,
+      "description": "Cold Garden “Inglewood Iced Tea”",
+      "category": "DRINK",
+      "simplified_description": "A Cold Garden brand iced tea called Inglewood Iced Tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Garden “Dandelion’s Blonde”",
+      "price": 9.5,
+      "description": "Cold Garden “Dandelion’s Blonde”",
+      "category": "DRINK",
+      "simplified_description": "A Cold Garden brand blonde ale called Dandelion’s Blonde.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Garden “THIS MUST BE THE IPA”",
+      "price": 9.5,
+      "description": "Cold Garden “THIS MUST BE THE IPA”",
+      "category": "DRINK",
+      "simplified_description": "A Cold Garden brand IPA beer called THIS MUST BE THE IPA.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANNED POP",
+      "price": 2.25,
+      "description": "CANNED POP",
+      "category": "DRINK",
+      "simplified_description": "A canned carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BOTTLED POP",
+      "price": 3.75,
+      "description": "BOTTLED POP",
+      "category": "DRINK",
+      "simplified_description": "A bottled carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FOUNTAIN POP",
+      "price": 3.5,
+      "description": "FOUNTAIN POP",
+      "category": "DRINK",
+      "simplified_description": "A fountain-served carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BOTTLED WATER",
+      "price": 2.0,
+      "description": "BOTTLED WATER",
+      "category": "DRINK",
+      "simplified_description": "A bottle of plain water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PEACE TEA",
+      "price": 3.5,
+      "description": "PEACE TEA",
+      "category": "DRINK",
+      "simplified_description": "A refreshing canned tea beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Birdie Cooler",
+      "price": 5.0,
+      "description": "Strawberry, Mango, & Peach",
+      "category": "DRINK",
+      "simplified_description": "A fruity drink with strawberry, mango, and peach flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ICE CREAM FLOAT",
+      "price": 6.5,
+      "description": "Coke, Root Beer, & Fanta",
+      "category": "DRINK",
+      "simplified_description": "Soda float made with Coke, Root Beer, and Fanta.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

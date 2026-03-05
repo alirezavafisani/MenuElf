@@ -1,0 +1,502 @@
+{
+  "restaurant": "wakhraswad",
+  "parsed_at": "2026-02-06T04:45:42.858651",
+  "item_count": 55,
+  "items": [
+    {
+      "name": "Veg Jaipuri",
+      "price": 13.98,
+      "description": "Colorful medley of vegetables & pappad in rich Rajasthani-style curry.",
+      "category": "FOOD",
+      "simplified_description": "Colorful medley of vegetables & pappad in rich Rajasthani-style curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kaju Malai Methi",
+      "price": 14.98,
+      "description": "Creamy cashew curry with fenugreek & mild spices.",
+      "category": "FOOD",
+      "simplified_description": "Creamy cashew curry with fenugreek & mild spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhindi Masala",
+      "price": 11.98,
+      "description": "Tender okra sautéed with onions, tomatoes, ginger-garlic, and spices.",
+      "category": "FOOD",
+      "simplified_description": "Tender okra sautéed with onions, tomatoes, ginger-garlic, and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Lababdar",
+      "price": 14.98,
+      "description": "Paneer in rich, creamy tomato-onion gravy, lightly sweetened and indulgent.",
+      "category": "FOOD",
+      "simplified_description": "Paneer in rich, creamy tomato-onion gravy, lightly sweetened and indulgent.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Soya Chaap",
+      "price": 14.98,
+      "description": "Soya chaap with onions, peppers, and signature kadai masala.",
+      "category": "FOOD",
+      "simplified_description": "Soya chaap with onions, peppers, and signature kadai masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg",
+      "price": 13.98,
+      "description": "Blend of fresh veggies in fragrant spice mix.",
+      "category": "FOOD",
+      "simplified_description": "Blend of fresh veggies in fragrant spice mix.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Mushrooms",
+      "price": 13.98,
+      "description": "Button mushrooms stir-fried with onions, peppers, tomatoes in kadai spices.",
+      "category": "FOOD",
+      "simplified_description": "Button mushrooms stir-fried with onions, peppers, tomatoes in kadai spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Methi Malai",
+      "price": 13.98,
+      "description": "Paneer in creamy gravy with fenugreek, cream, cashews—mildly sweet and rich.",
+      "category": "FOOD",
+      "simplified_description": "Paneer in creamy gravy with fenugreek, cream, cashews—mildly sweet and rich.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Bhurji",
+      "price": 15.98,
+      "description": "Crumbled paneer sautéed with onions, tomatoes, and North Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Crumbled paneer sautéed with onions, tomatoes, and North Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 15.98,
+      "description": "Signature creamy, tangy tomato chicken curry.",
+      "category": "FOOD",
+      "simplified_description": "Signature creamy, tangy tomato chicken curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 15.98,
+      "description": "Marinated chicken with peppers & onions in rich onion-tomato gravy.",
+      "category": "FOOD",
+      "simplified_description": "Marinated chicken with peppers & onions in rich onion-tomato gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 15.98,
+      "description": "Roasted chicken with bell peppers in bold kadai masala.",
+      "category": "FOOD",
+      "simplified_description": "Roasted chicken with bell peppers in bold kadai masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kali Mirch",
+      "price": 15.98,
+      "description": "Creamy yogurt gravy with cracked black pepper spices.",
+      "category": "FOOD",
+      "simplified_description": "Creamy yogurt gravy with cracked black pepper spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Methi Malai Chicken",
+      "price": 15.98,
+      "description": "Cream-based malai chicken curry with dried fenugreek leaves.",
+      "category": "FOOD",
+      "simplified_description": "Cream-based malai chicken curry with dried fenugreek leaves.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Saag",
+      "price": 15.98,
+      "description": "Tender chicken in creamy seasoned spinach purée.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken in creamy seasoned spinach purée.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 14.98,
+      "description": "Tender chicken in spiced tomato-onion gravy—a comforting classic.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken in spiced tomato-onion gravy—a comforting classic.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lababdar",
+      "price": 15.98,
+      "description": "Chicken simmered in creamy, buttery tomato-onion gravy, delicately spiced.",
+      "category": "FOOD",
+      "simplified_description": "Chicken simmered in creamy, buttery tomato-onion gravy, delicately spiced.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wakhra Swad Chicken Balti",
+      "price": 15.98,
+      "description": "Chicken with green peppers and mixed homemade masalas.",
+      "category": "FOOD",
+      "simplified_description": "Chicken with green peppers and mixed homemade masalas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 15.98,
+      "description": "Fiery Goan-style curry with tender chicken in bold, tangy spices.",
+      "category": "FOOD",
+      "simplified_description": "Fiery Goan-style curry with tender chicken in bold, tangy spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Rogan Josh",
+      "price": 18.98,
+      "description": "Kashmiri classic with tender goat in spiced gravy.",
+      "category": "FOOD",
+      "simplified_description": "Kashmiri classic with tender goat in spiced gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Vindaloo",
+      "price": 18.98,
+      "description": "Tangy, spicy vinegar-based goat & potato curry from Goa.",
+      "category": "FOOD",
+      "simplified_description": "Tangy, spicy vinegar-based goat & potato curry from Goa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saag Goat",
+      "price": 18.98,
+      "description": "Goat simmered in creamy spinach sauce.",
+      "category": "FOOD",
+      "simplified_description": "Goat simmered in creamy spinach sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Curry",
+      "price": 18.98,
+      "description": "Tender goat in rich aromatic sauce of tomatoes, onions, and spices.",
+      "category": "FOOD",
+      "simplified_description": "Tender goat in rich aromatic sauce of tomatoes, onions, and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wakhra Swad Goat Balti",
+      "price": 18.98,
+      "description": "Goat in rich aromatic sauce with tomatoes, onions, homemade spices.",
+      "category": "FOOD",
+      "simplified_description": "Goat in rich aromatic sauce with tomatoes, onions, homemade spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Goat",
+      "price": 18.98,
+      "description": "Goat cooked with onions, peppers, tomatoes, bold kadai spices.",
+      "category": "FOOD",
+      "simplified_description": "Goat cooked with onions, peppers, tomatoes, bold kadai spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Tikka Masala",
+      "price": 18.98,
+      "description": "Marinated goat tikka in creamy, lightly spiced tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Marinated goat tikka in creamy, lightly spiced tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhuna Gosht (Goat)",
+      "price": 19.98,
+      "description": "Tender goat slow-cooked with onions, tomatoes, ginger, garlic, and aromatic spices. Semi-gravy.",
+      "category": "FOOD",
+      "simplified_description": "Tender goat slow-cooked with onions, tomatoes, ginger, garlic, and aromatic spic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Curry",
+      "price": 16.98,
+      "description": "Tender fish in robust North Indian-style onion-tomato gravy.",
+      "category": "FOOD",
+      "simplified_description": "Tender fish in robust North Indian-style onion-tomato gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn (Shrimp) Curry",
+      "price": 17.98,
+      "description": "Juicy prawns simmered in spiced onion-tomato gravy with garlic, ginger, North Indian masalas.",
+      "category": "FOOD",
+      "simplified_description": "Juicy prawns simmered in spiced onion-tomato gravy with garlic, ginger, North In",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Basmati Rice",
+      "price": 3.48,
+      "description": "Steamed long-grain rice.",
+      "category": "SIDE",
+      "simplified_description": "Steamed long-grain rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Pulao",
+      "price": 4.98,
+      "description": "Cumin-scented basmati rice.",
+      "category": "SIDE",
+      "simplified_description": "Cumin-scented basmati rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peas Pulao",
+      "price": 4.98,
+      "description": "Lightly spiced rice with green peas.",
+      "category": "SIDE",
+      "simplified_description": "Lightly spiced rice with green peas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 13.98,
+      "description": "Aromatic rice layered with spiced veggies & herbs.",
+      "category": "FOOD",
+      "simplified_description": "Aromatic rice layered with spiced veggies & herbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 15.98,
+      "description": "Traditional dum biryani with marinated chicken & rice.",
+      "category": "FOOD",
+      "simplified_description": "Traditional dum biryani with marinated chicken & rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Biryani",
+      "price": 17.98,
+      "description": "Royal biryani with tender goat meat, rich spices, and rice.",
+      "category": "FOOD",
+      "simplified_description": "Royal biryani with tender goat meat, rich spices, and rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 12.98,
+      "description": "Basmati rice stir-fried with mixed vegetables, soy sauce, garlic.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice stir-fried with mixed vegetables, soy sauce, garlic.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 14.98,
+      "description": "Basmati rice with chicken, vegetables, soy sauce, and Indo-Chinese spices.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice with chicken, vegetables, soy sauce, and Indo-Chinese spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.48,
+      "description": "Rustic clay-oven roti with or without butter.",
+      "category": "BREAD",
+      "simplified_description": "Rustic clay-oven roti with or without butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 2.48,
+      "description": "Soft fluffy clay-oven bread.",
+      "category": "BREAD",
+      "simplified_description": "Soft fluffy clay-oven bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.98,
+      "description": "Naan brushed with creamy butter.",
+      "category": "BREAD",
+      "simplified_description": "Naan brushed with creamy butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.48,
+      "description": "Naan topped with garlic & cilantro.",
+      "category": "BREAD",
+      "simplified_description": "Naan topped with garlic & cilantro.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Naan",
+      "price": 3.48,
+      "description": "Bread topped with green chilies & cilantro.",
+      "category": "BREAD",
+      "simplified_description": "Bread topped with green chilies & cilantro.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 4.98,
+      "description": "Stuffed with seasoned mashed potatoes.",
+      "category": "BREAD",
+      "simplified_description": "Stuffed with seasoned mashed potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wakhra Swad Naan",
+      "price": 3.98,
+      "description": "Crispy naan topped with butter & methi flavours.",
+      "category": "BREAD",
+      "simplified_description": "Crispy naan topped with butter & methi flavours.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lachha Paratha",
+      "price": 3.98,
+      "description": "Flaky, layered paratha with crispy texture and buttery finish.",
+      "category": "BREAD",
+      "simplified_description": "Flaky, layered paratha with crispy texture and buttery finish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Naan",
+      "price": 5.48,
+      "description": "Stuffed with melted cheese-creamy and indulgent.",
+      "category": "BREAD",
+      "simplified_description": "Stuffed with melted cheese-creamy and indulgent.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 4.98,
+      "description": "Milk dumplings in rose-cardamom syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Milk dumplings in rose-cardamom syrup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun With Ice Cream",
+      "price": 5.98,
+      "description": "Warm gulab jamun with chilled vanilla ice cream.",
+      "category": "DESSERT",
+      "simplified_description": "Warm gulab jamun with chilled vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gajar Halwa",
+      "price": 5.98,
+      "description": "Carrot pudding with ghee & nuts.",
+      "category": "DESSERT",
+      "simplified_description": "Carrot pudding with ghee & nuts.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gajar Halwa With Ice Cream",
+      "price": 6.98,
+      "description": "Warm carrot pudding with chilled vanilla ice cream.",
+      "category": "DESSERT",
+      "simplified_description": "Warm carrot pudding with chilled vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasmalai",
+      "price": 5.98,
+      "description": "Soft cheese patties in saffron milk.",
+      "category": "DESSERT",
+      "simplified_description": "Soft cheese patties in saffron milk.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasgulla",
+      "price": 4.98,
+      "description": "Spongy syrup-soaked cheese dumplings.",
+      "category": "DESSERT",
+      "simplified_description": "Spongy syrup-soaked cheese dumplings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream",
+      "price": 3.98,
+      "description": "Vanilla, Chocolate or Strawberry.",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla, Chocolate or Strawberry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad",
+      "price": 4.48,
+      "description": "Onion, chili, lemon, cucumbers, tomatoes.",
+      "category": "OTHER",
+      "simplified_description": "Onion, chili, lemon, cucumbers, tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Raita",
+      "price": 3.98,
+      "description": "Whipped yogurt with cucumber & spices.",
+      "category": "OTHER",
+      "simplified_description": "Whipped yogurt with cucumber & spices.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "restaurant": "peppinosmahogany",
+  "parsed_at": "2025-12-25T03:57:18.095132",
+  "item_count": 51,
+  "items": [
+    {
+      "name": "Breakfast Sandwich",
+      "price": 6,
+      "description": "Spiced fresh egg, Italian cappicollo, house hot sauce, tomato and mozzarella cheese. Served on a toasted ciabatta bun.",
+      "simplified_description": "A sandwich with spiced egg, Italian ham, hot sauce, tomato, and cheese on ciabatta.",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Joe's Special",
+      "price": 13.75,
+      "description": "Three fine Italian meats. Mortadella, Capicollo, and Calabrese Salami, along with cheese, lettuce, and our house dressing.",
+      "simplified_description": "A sandwich with three types of Italian meats, cheese, lettuce, and dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Artichoke Turkey",
+      "price": 13.75,
+      "description": "Artichoke hearts, roasted turkey breast, our house dressing, lettuce, and cheese. Major heart friendly Italian food.",
+      "simplified_description": "A sandwich with artichokes, turkey, dressing, lettuce, and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Meatloaf",
+      "price": 13.25,
+      "description": "A thick slice of seasoned oven roasted lean meatloaf, with Peppino’s fresh tomato sauce, mozzarella, and parmesan cheese.",
+      "simplified_description": "A slice of meatloaf with tomato sauce and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLT with Cheese",
+      "price": 10.75,
+      "description": "Bacon, lettuce, tomato, and cheese, all served on a Peppino baguette with our house dressing.",
+      "simplified_description": "A BLT sandwich with cheese on a baguette.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese Delight",
+      "price": 13,
+      "description": "Spicy calabrese salami, hot banana peppers, cheese, and tomatoes. No lettuce here, have it southern Italian style.",
+      "simplified_description": "A spicy sandwich with salami, hot peppers, cheese, and tomatoes.",
+      "category": "Sandwiches",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Capicollo",
+      "price": 11,
+      "description": "Lean capicollo ham, cheese, and lettuce served on a Peppino baguette with our house dressing.",
+      "simplified_description": "A sandwich with capicollo ham, cheese, and lettuce on a baguette.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alla Parmigiana",
+      "price": 13.5,
+      "description": "Two tender chicken breasts, marinated in tomato sauce, and smothered in mozzarella and parmesan cheese.",
+      "simplified_description": "Chicken breasts in tomato sauce with mozzarella and parmesan.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alla Parmiagana - Cacciatore Style",
+      "price": 14.5,
+      "description": "Take the chicken Parmigiana, and make it magnifico by adding roasted red peppers.",
+      "simplified_description": "Chicken Parmigiana with added roasted red peppers.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic",
+      "price": 12.75,
+      "description": "Mild genoa salami, mortadella, our house dressing, lettuce, and cheese.",
+      "simplified_description": "A classic sandwich with salami, mortadella, dressing, lettuce, and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crantastic Turkey",
+      "price": 12,
+      "description": "Roasted turkey breast, lettuce, cheese, and a special blend of fresh cranberries and mayo dressing.",
+      "simplified_description": "Turkey sandwich with lettuce, cheese, cranberries, and mayo.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Da Nico's",
+      "price": 14.75,
+      "description": "Capicollo, calabrese salami, mortadella, meatballs, hot peppers, cheese, and lettuce. Sure to fill any appetite.",
+      "simplified_description": "A hearty sandwich with multiple meats, cheese, and hot peppers.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham and Cheese",
+      "price": 10.5,
+      "description": "Ham, cheese, lettuce, and our house dressing. Simple but so goooood!",
+      "simplified_description": "A simple ham and cheese sandwich with lettuce.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hoe Down Hogie",
+      "price": 14,
+      "description": "Ham, capicollo, genoa salami topped with fresh onions, hot peppers, lettuce, cheese, and spiced olive oil dressing.",
+      "simplified_description": "A hoagie with ham, salami, onions, hot peppers, lettuce, and dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Home Sweet Home",
+      "price": 12.75,
+      "description": "The meat Albertan’s know and love. Roast beef, lettuce, cheese, and our house dressing.",
+      "simplified_description": "A roast beef sandwich with lettuce and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Beef N' Onion",
+      "price": 13.75,
+      "description": "Thin slices of roast beef topped with cheese, our house dressing, and caramelized onions. Served hot.",
+      "simplified_description": "Hot roast beef sandwich with cheese and onions.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Italian Meatball",
+      "price": 13,
+      "description": "No surprises here, just like it sounds. Meatballs, sauce, and parmigiano cheese. MMMMMmmm meatballs!",
+      "simplified_description": "A meatball sandwich with sauce and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Perfection Club",
+      "price": 13.75,
+      "description": "Roasted turkey breast, ham, and roast beef, all served with our house dressing, cheese, and lettuce.",
+      "simplified_description": "A club sandwich with turkey, ham, roast beef, dressing, cheese, and lettuce.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Just Genoa",
+      "price": 12.25,
+      "description": "Mild Genoa salami served on a Peppino baguette with lettuce, cheese, and our house dressing.",
+      "simplified_description": "A Genoa salami sandwich on a baguette with lettuce and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean",
+      "price": 13.75,
+      "description": "Roasted turkey breast complemented with roasted red pepper, lettuce, cheese, and our house dressing.",
+      "simplified_description": "Turkey sandwich with roasted red pepper, lettuce, and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Montreal's Choice",
+      "price": 12.75,
+      "description": "Montreal’s finest smoked meat with lettuce, mustard, and cheese. Have it hot or cold, your choice.",
+      "simplified_description": "A smoked meat sandwich with lettuce and mustard.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pollo Al Pesto",
+      "price": 13.5,
+      "description": "Two tender chicken breasts topped with lettuce, tomato, cheese, and a special pesto dressing.",
+      "simplified_description": "Chicken breasts with lettuce, tomato, cheese, and pesto dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosciutto Bocconccini",
+      "price": 14.75,
+      "description": "Cured prosciutto ham, fresh bocconccini, lettuce and our signature spiced olive oil dressing.",
+      "simplified_description": "A sandwich with prosciutto, bocconccini cheese, lettuce, and dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosciutto Caccitore",
+      "price": 14.75,
+      "description": "Cured prosciutto ham, served with lettuce, roasted red peppers, cheese, and a light olive oil dressing.",
+      "simplified_description": "A sandwich with prosciutto, lettuce, roasted peppers, cheese, and dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ragin' Turkey",
+      "price": 14,
+      "description": "Hot banana peppers, spicy capicollo ham and roasted turkey breast, lettuce, cheese, and our house dressing.",
+      "simplified_description": "A spicy turkey sandwich with hot peppers and dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Riches of Italy",
+      "price": 13,
+      "description": "Cured prosciutto ham, served with lettuce, cheese, and a light olive oil dressing.",
+      "simplified_description": "A sandwich with prosciutto, lettuce, cheese, and dressing.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Simple Southern",
+      "price": 11,
+      "description": "Savour the taste. Mortadella is a mild and delicious meat accompanied by lettuce, cheese, and our house dressing.",
+      "simplified_description": "A sandwich with mild mortadella, lettuce, and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Vesuvius",
+      "price": 13.5,
+      "description": "Calabrese salami, capicollo, and banana peppers. Served on a Peppino baguette, with lettuce, cheese, and our house dressing.",
+      "simplified_description": "A sandwich with salami, capicollo, and banana peppers on a baguette.",
+      "category": "Sandwiches",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuscany Turkey",
+      "price": 11.75,
+      "description": "Roasted turkey breast topped with lettuce, cheese, and our house dressing.",
+      "simplified_description": "A turkey sandwich with lettuce and cheese.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Surprise",
+      "price": 13.75,
+      "description": "Can't decide, have a surprise. Just tell us if you like it spicy or mild and we will make up something delicious.",
+      "simplified_description": "A surprise sandwich made to your spice preference.",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Pizza Sub",
+      "price": 13.75,
+      "description": "Our fresh tomato sauce, parmesan cheese, spicy Calabrese salami, capicollo, hot peppers, lettuce and cheese. Served hot.",
+      "simplified_description": "A hot sub with tomato sauce, cheese, salami, capicollo, hot peppers, lettuce.",
+      "category": "Sandwiches",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bocconcini Sandwich",
+      "price": 13,
+      "description": "Fresh mozzarella cheese, a thick layer of tomato, lettuce, and our spiced olive oil dressing.",
+      "simplified_description": "A sandwich with mozzarella, tomato, lettuce, and dressing.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Eden's Garden - The Ultimate Vegetarian Sandwich",
+      "price": 14.25,
+      "description": "Roasted eggplant, tomato, artichoke hearts, lettuce, served with bocconcini cheese and our spiced olive oil dressing.",
+      "simplified_description": "A vegetarian sandwich with eggplant, tomato, artichokes, lettuce, and cheese.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Eggplant Parmigiana",
+      "price": 14,
+      "description": "Thick slices of breaded eggplant smothered with fresh tomato sauce, topped with mozzarella and parmesan cheese.",
+      "simplified_description": "Breaded eggplant with tomato sauce and cheese.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Combo",
+      "price": 14,
+      "description": "Roasted red pepper and eggplant, marinated in spiced olive oil, topped with lettuce, cheese, and tomato.",
+      "simplified_description": "A sandwich with roasted red pepper, eggplant, lettuce, cheese, and tomato.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Eggplant",
+      "price": 12.75,
+      "description": "Grilled eggplant marinated in a spiced olive oil, served on a Peppino baguette with lettuce, tomato and cheese.",
+      "simplified_description": "A grilled eggplant sandwich with lettuce, tomato, and cheese.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "price": 12.75,
+      "description": "Grilled red pepper marinated in a spiced olive oil, served on a Peppino baguette with lettuce, tomato, and cheese.",
+      "simplified_description": "A grilled red pepper sandwich with lettuce, tomato, and cheese.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Sinner",
+      "price": 13,
+      "description": "Take the Vatican Vegetarian and add your choice of one of the following meats: ham, beef, turkey, or capicollo.",
+      "simplified_description": "A vegetarian sandwich with an option to add meat.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Vatican Vegetarian - Basic but Heavenly",
+      "price": 11,
+      "description": "A generous amount of lettuce, tomato, cheese, and cucumbers, on a Peppino baguette with our delicious olive oil dressing.",
+      "simplified_description": "A simple vegetarian sandwich with lettuce, tomato, cheese, and cucumbers.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Vegetarian Supreme",
+      "price": 12.25,
+      "description": "A perfect veggie with artichoke hearts, massive amounts of lettuce, cheese, tomatoes, and our spiced olive oil dressing.",
+      "simplified_description": "A veggie sandwich with artichokes, lettuce, cheese, and dressing.",
+      "category": "Vegetarian Sandwiches",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Pasta Special",
+      "price": null,
+      "description": "Daily pasta special changes daily with one of our homemade sauces.",
+      "simplified_description": "A daily changing pasta dish with homemade sauce.",
+      "category": "Pasta & Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bocconcini Salad",
+      "price": 10.5,
+      "description": "Fresh mozzarella cheese, tomato and spiced olive oil dressing.",
+      "simplified_description": "A salad with mozzarella, tomato, and dressing.",
+      "category": "Pasta & Salad",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chef Salad",
+      "price": 12.75,
+      "description": "Fresh greens, egg, turkey, ham, and beef, garnished with cucumbers, tomatoes, and carrots.",
+      "simplified_description": "A salad with greens, egg, turkey, ham, beef, and vegetables.",
+      "category": "Pasta & Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Salad",
+      "price": 11.75,
+      "description": "Fresh greens, roasted red peppers, roasted eggplant, and artichokes, garnished with cucumbers, tomatoes, and carrots.",
+      "simplified_description": "A salad with greens, roasted vegetables, and garnishes.",
+      "category": "Pasta & Salad",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Green Salad",
+      "price": 10.5,
+      "description": "Fresh greens, tomatoes, cucumbers, and carrots.",
+      "simplified_description": "A simple salad with greens and vegetables.",
+      "category": "Pasta & Salad",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Side Pasta Salad",
+      "price": 4.5,
+      "description": "Peppino's tangy and delicious homemade pasta salad.",
+      "simplified_description": "A side of homemade pasta salad.",
+      "category": "Sides & More",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Green Salad",
+      "price": 4.75,
+      "description": "Fresh greens, tomatoes, cucumbers, and carrots.",
+      "simplified_description": "A small salad with greens and vegetables.",
+      "category": "Sides & More",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chips",
+      "price": 2,
+      "description": "",
+      "simplified_description": "A side of chips.",
+      "category": "Sides & More",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Tray with Bruschetta",
+      "price": 22.95,
+      "description": "Famous bruschetta is served with fresh Italian baguette slices for you to share and enjoy with others.",
+      "simplified_description": "A tray of bruschetta with baguette slices.",
+      "category": "Sides & More",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta 1/2 Litre Container",
+      "price": 8.95,
+      "description": "",
+      "simplified_description": "A half-litre container of bruschetta.",
+      "category": "Sides & More",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookies",
+      "price": 3,
+      "description": "A gourmet mixture of our most popular varieties of freshly made cookies. ENJOY!",
+      "simplified_description": "A mix of popular freshly made cookies.",
+      "category": "Cookies",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

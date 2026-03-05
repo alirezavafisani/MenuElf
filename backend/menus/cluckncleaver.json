@@ -1,0 +1,76 @@
+{
+  "restaurant": "cluckncleaver",
+  "parsed_at": "2026-02-06T01:49:43.433141",
+  "item_count": 7,
+  "items": [
+    {
+      "name": "Monday Crispy Pub Wings",
+      "price": 10.0,
+      "description": "10 crispy split wings – buttermilk brined hand breaded. Choice of house-made dipping sauce.",
+      "category": "FOOD",
+      "simplified_description": "Ten crispy hand-breaded chicken wings with dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuesday 2 FOR 1 Chicken Tenders",
+      "price": null,
+      "description": "2 Orders of 1/3 pound crispy fried chicken tenders. Choice of 2 housemade dipping sauces.",
+      "category": "FOOD",
+      "simplified_description": "Two orders of crispy fried chicken tenders with dipping sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOTHER CLUCKER SNACK PACK",
+      "price": 9.0,
+      "description": "Crispy fried chicken tender snack pack with a choice of small fries or coleslaw.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken tenders served with small fries or coleslaw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOTHA CLUCKER",
+      "price": null,
+      "description": "MOTHA CLUCKIN’ HOT 1/3 POUND CRISPY FRIED BREAST, TOSSED IN HONEY HOT SAUCE & BLUE CHEESE MAYO, COLESLAW, PICKLES ON A HANDMADE BUN",
+      "category": "FOOD",
+      "simplified_description": "Spicy crispy chicken breast sandwich with blue cheese mayo and coleslaw.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "POLLO LOCO",
+      "price": null,
+      "description": "NEW!! SPICY MEXICAN CRISPY CHICKEN SANDWICH, TAJIN MAYO, LIME SLAW",
+      "category": "FOOD",
+      "simplified_description": "Spicy Mexican crispy chicken sandwich with tajin mayo and lime slaw.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CRISPY FAMILY PACK",
+      "price": null,
+      "description": "PERFECT FOR 4. 8 PCS CRIPSY FRIED CHICKEN, 4 HANDMADE BISCUITS, LARGE GRAVY, CHOICE OF A LARGE COLESLAW OR FRIES.",
+      "category": "FOOD",
+      "simplified_description": "Family pack with 8 fried chicken pieces, biscuits, gravy, and sides.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "BONELESS BITES",
+      "price": null,
+      "description": "1/3 POUND CRISPY FRIED DARK MEAT CHICKEN BITES TOSSED IN HOT SAUCE OR CRISPY WITH SIDE DIPPING SAUCE.",
+      "category": "FOOD",
+      "simplified_description": "Crispy fried dark meat chicken bites with hot sauce or dipping sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy option available"
+    }
+  ]
+}

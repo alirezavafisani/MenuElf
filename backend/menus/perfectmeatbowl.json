@@ -1,0 +1,457 @@
+{
+  "restaurant": "perfectmeatbowl",
+  "parsed_at": "2026-02-06T03:40:42.398058",
+  "item_count": 50,
+  "items": [
+    {
+      "name": "Classic Boiled Beef Slices (Perfect Meat Bowl)",
+      "price": 3.29,
+      "description": "Choose from nearly 40 types of fresh ingredients prepared fresh daily for $3.29 per 100g (minimum 400g). For an additional $2.99 per person, you can receive unlimited refills of rice and plum juice. A hearty bowl of boiled meat slices can tackle three bowls of rice, providing a satisfying and budget-friendly meal!",
+      "category": "FOOD",
+      "simplified_description": "Choose from nearly 40 types of fresh ingredients prepared fresh daily for $3.29 ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Fried Skewers",
+      "price": null,
+      "description": "Our signature offering includes an array of fried skewers, with over 50 selections such as the large squid skewer, beef skewers, chicken skewers, and more, all accompanied by our specially developed house dipping sauces for the ultimate fried skewer pairing.",
+      "category": "FOOD",
+      "simplified_description": "Our signature offering includes an array of fried skewers, with over 50 selectio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef Skewers (4pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Lamb Skewers (4pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Skewers (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Squid Skewer",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Chicken",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popcorn Chicken",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Cheese Sausage",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggplant",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Soup Base",
+      "price": null,
+      "description": "Mild / Medium / Extra",
+      "category": "OTHER",
+      "simplified_description": "Mild / Medium / Extra",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Soup Base",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy & Sour Soup Base",
+      "price": null,
+      "description": "Mild / Medium / Extra",
+      "category": "OTHER",
+      "simplified_description": "Mild / Medium / Extra",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Braised Soup Base",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Pork",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orleans Chicken Leg",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Snakehead Fish Fillet",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Fillet",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Crispy Chicken Wings (2 skewers，4pcs)",
+      "price": null,
+      "description": "Original / Spicy",
+      "category": "FOOD",
+      "simplified_description": "Original / Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Chicken Stripe (200g)",
+      "price": null,
+      "description": "Original / Spicy",
+      "category": "FOOD",
+      "simplified_description": "Original / Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Handmade Chicken Cutlet",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Cartilage (5pc)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New Orleans Chicken Wings (2 Skewers, 4pcs)",
+      "price": null,
+      "description": "Original / Spicy",
+      "category": "FOOD",
+      "simplified_description": "Original / Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Chicken Bone",
+      "price": null,
+      "description": "Salt & Spicy / Sweet & Sour",
+      "category": "FOOD",
+      "simplified_description": "Salt & Spicy / Sweet & Sour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Skewer (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Gizzard Mini Skewer (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popcorn Chicken",
+      "price": null,
+      "description": "Original / Spicy",
+      "category": "FOOD",
+      "simplified_description": "Original / Spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Skin (5pcs)",
+      "price": null,
+      "description": "Salt & Spicy / Sweet & Sour",
+      "category": "FOOD",
+      "simplified_description": "Salt & Spicy / Sweet & Sour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Heart Mini Skewer (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Steak (1pc)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Electric Grilled Beef Skewer (4pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spare Rib Skewer (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Cheese Sausage",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Butterfly Shrimp Skewer (3PCS)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef Skewer (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Electric Grilled Lamb Skewer (4pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Sausage (2pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Squid Tentacles (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tendon Skewer (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Pork in Scoop (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Sausage (5pcs)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Squid Skewer",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Chicken",
+      "price": null,
+      "description": "Original / Sweet & Spicy / Spicy / Plum",
+      "category": "FOOD",
+      "simplified_description": "Original / Sweet & Spicy / Spicy / Plum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New Orleans Chicken",
+      "price": null,
+      "description": "Original / Sweet & Spicy / Spicy / Plum",
+      "category": "FOOD",
+      "simplified_description": "Original / Sweet & Spicy / Spicy / Plum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Chicken",
+      "price": null,
+      "description": "Original / Sweet & Spicy / Spicy / Plum",
+      "category": "FOOD",
+      "simplified_description": "Original / Sweet & Spicy / Spicy / Plum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggplant",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Chips (2pc)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cabbage (2pc)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "restaurant": "bamburgersandmore",
+  "parsed_at": "2026-02-06T00:54:55.119631",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "BAMwich",
+      "price": null,
+      "description": "none",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAM Rodeo",
+      "price": null,
+      "description": "none",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAM Luxe",
+      "price": null,
+      "description": "none",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAM Thunder",
+      "price": null,
+      "description": "none",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAM Roadhouse ",
+      "price": null,
+      "description": "none",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAM Knockout ",
+      "price": null,
+      "description": "none",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": null,
+      "description": "Thick-cut, battered, and fried ‘til golden brown our onion rings bring the bam with every bite. Crispy on the outside, sweet and tender on the inside, they’re the perfect upgrade to any meal… or just a snack worthy of its own spotlight.",
+      "category": "SIDE",
+      "simplified_description": "Thick battered and fried onion rings, crispy outside and tender inside.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mozarella Sticks (4)",
+      "price": null,
+      "description": "Cheese Pull Champions. Crispy on the outside, gooey on the inside these golden-fried mozzarella sticks are pure stretchy, melty magic. Cheesy goodness that deserves a standing ovation.",
+      "category": "SIDE",
+      "simplified_description": "Golden-fried mozzarella sticks with a crispy outside and gooey inside.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Fries",
+      "price": null,
+      "description": "Golden. Crispy. Legendary. Crispy on the outside, fluffy on the inside. They're the real sidekick every hero (aka burger) needs.",
+      "category": "SIDE",
+      "simplified_description": "Crispy golden fries with a fluffy inside, perfect as a side.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

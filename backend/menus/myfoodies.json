@@ -1,0 +1,61 @@
+{
+  "restaurant": "myfoodies",
+  "parsed_at": "2026-02-06T03:28:34.708920",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "Chicken Dum Biryani",
+      "price": 13.99,
+      "description": "Chicken Dum Biryani",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dum Biryani",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 14.99,
+      "description": "Chicken Noodles",
+      "category": "FOOD",
+      "simplified_description": "Chicken Noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Boti Platter",
+      "price": 17.99,
+      "description": "Malai Boti Platter",
+      "category": "FOOD",
+      "simplified_description": "Malai Boti Platter",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Nihari",
+      "price": 15.99,
+      "description": "Beef Nihari",
+      "category": "FOOD",
+      "simplified_description": "Beef Nihari",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": null,
+      "description": "Veggie Pizza",
+      "category": "FOOD",
+      "simplified_description": "Veggie Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 12.99,
+      "description": "Chicken Shawarma",
+      "category": "FOOD",
+      "simplified_description": "Chicken Shawarma",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

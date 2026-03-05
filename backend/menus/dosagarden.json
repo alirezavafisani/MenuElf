@@ -1,0 +1,96 @@
+{
+  "restaurant": "dosagarden",
+  "parsed_at": "2025-12-25T02:41:24.762318",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "Vegetable Biryani",
+      "price": 14.99,
+      "description": "A fragrant masterpiece of aromatic basmati rice layered with fresh seasonal vegetables, saffron, and our signature blend of biryani spices. Each portion is dum-cooked to perfection, allowing the flavors to meld beautifully.\nServed with raita and salan gravy, this royal dish offers a perfect balance of flavors and textures that vegetarian food lovers swear by.",
+      "simplified_description": "A flavorful rice dish with vegetables and spices, served with yogurt and gravy.",
+      "category": "Our Best Dishes",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 16.5,
+      "description": "Stir-fried egg noodles tossed with tender chicken pieces, crunchy vegetables, and our special Indo-Chinese sauce. This fusion dish combines the best of Chinese cooking techniques with Indian spices.\nA popular street food favorite, garnished with spring onions and served with spicy schezwan sauce on the side.",
+      "simplified_description": "Stir-fried noodles with chicken and vegetables in a spicy sauce.",
+      "category": "Our Best Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kheema Dosa",
+      "price": 16.99,
+      "description": "A unique fusion of South and North Indian cuisines featuring our crispy dosa filled with spiced minced chicken, onions, and aromatic herbs. The kheema is slow-cooked to achieve perfect texture and flavor.\nServed with our signature coconut chutney and sambar, this protein-rich dish offers a delightful twist on the traditional dosa.",
+      "simplified_description": "A crispy crepe filled with spiced minced chicken and served with chutney.",
+      "category": "Our Best Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": null,
+      "description": "Tender chicken pieces cooked in a rich, creamy tomato-based sauce with aromatic spices and butter. This beloved dish perfectly balances sweet, tangy, and mildly spiced flavors, served with naan bread or rice.",
+      "simplified_description": "Chicken in a creamy tomato sauce, served with bread or rice.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken 65",
+      "price": null,
+      "description": "A spicy, deep-fried chicken dish from South India, marinated with red chilies, ginger, garlic, and unique spices. Garnished with curry leaves and served with a zesty sauce, it's perfect as an appetizer or side dish.",
+      "simplified_description": "Spicy fried chicken, served with a tangy sauce.",
+      "category": "Popular Dishes",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chettinad",
+      "price": null,
+      "description": "A fiery curry from Tamil Nadu, featuring chicken cooked with freshly ground spices, black peppercorns, red chilies, and coconut. Known for its intense flavor profile and aromatic spice blend that creates a rich, complex taste.",
+      "simplified_description": "Spicy chicken curry with a rich blend of spices.",
+      "category": "Popular Dishes",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Biryani",
+      "price": null,
+      "description": "Fragrant basmati rice layered with tender, marinated goat meat, caramelized onions, and aromatic spices. Slow-cooked to perfection, this classic dish offers a harmonious blend of flavors in every bite.",
+      "simplified_description": "A rice dish with marinated lamb and spices, slow-cooked for flavor.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": null,
+      "description": "A South Indian delicacy featuring a crispy rice and lentil crepe spread with spicy red chutney and filled with seasoned potato mixture. Served with coconut chutney and sambar, it offers a perfect blend of crispy texture and bold flavors.",
+      "simplified_description": "Crispy crepe with spicy potato filling, served with chutney.",
+      "category": "Popular Dishes",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pomfret Pollichathu",
+      "price": null,
+      "description": "A Kerala specialty where pomfret fish is marinated in spices, wrapped in banana leaves, and slow-cooked to perfection. The banana leaves impart a unique flavor while keeping the fish moist and tender.",
+      "simplified_description": "Fish marinated in spices and cooked in banana leaves for flavor.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

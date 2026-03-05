@@ -1,0 +1,459 @@
+{
+  "restaurant": "alvinsjazzclub",
+  "parsed_at": "2026-02-06T00:37:16.327121",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "ED SHORTRIB & MUSHROOM PENNE GF*",
+      "price": 36.0,
+      "description": "Baby Tomatoes , Sundried Tomato Pesto , Parmesan Crisp.",
+      "category": "FOOD",
+      "simplified_description": "Penne pasta with short rib, mushrooms, tomatoes, pesto, and parmesan crisp.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "40oz BONE-IN RIBEYE",
+      "price": 149.0,
+      "description": "Comes with Grana Padano Baked Baguette & Choice of 2 Percussion Plates.",
+      "category": "FOOD",
+      "simplified_description": "Large bone-in ribeye steak served with baked baguette and two sides.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEASONED FRIES",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy seasoned French fries.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ROASTED FINGERLING POTATO",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Roasted fingerling potatoes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POMME PUREE",
+      "price": 12.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Smooth mashed potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHIMICHURRI CARROTS",
+      "price": 11.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Carrots tossed in chimichurri sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MILK CHOCOLATE VELVET GF*, V",
+      "price": 14.0,
+      "description": "BERRY COULIS , BERRY PEARLS , CHOCOLATE CAKE CROUTON.",
+      "category": "DESSERT",
+      "simplified_description": "Milk chocolate dessert with berry coulis, pearls, and chocolate crouton.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LEMON CURD PARFAIT V",
+      "price": 10.0,
+      "description": "Chantilly Cream , Berry Gelee , Vanilla & Pecan Crumble.",
+      "category": "DESSERT",
+      "simplified_description": "Lemon parfait with cream, berry jelly, vanilla, and pecan crumble.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SALT CARAMEL GELATO GF, V",
+      "price": 11.0,
+      "description": "GALLIANO , CRÈME DE CACAO & KAHLUA LIQUEURS.",
+      "category": "DESSERT",
+      "simplified_description": "Salted caramel gelato with liqueurs.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BASQUE CHEESECAKE V",
+      "price": 13.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Creamy Basque-style cheesecake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALVIN’S TIRAMISU V",
+      "price": 15.0,
+      "description": "VANILLA SPONGE , RUM CARAMEL , MASCARPONE CREAM , DARK CHOCOLATE.",
+      "category": "DESSERT",
+      "simplified_description": "Tiramisu with vanilla sponge, rum caramel, mascarpone, and dark chocolate.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MORNING ON BROADWAY",
+      "price": 11.0,
+      "description": "SPICED RUM , AMARETTO , HOT COFFEE , WHIPPED CREAM , CINNAMON.",
+      "category": "DRINK",
+      "simplified_description": "Hot coffee cocktail with spiced rum, amaretto, whipped cream, and cinnamon.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CONTE COLD BREW",
+      "price": 11.0,
+      "description": "COFFEE LIQUEUR , AVERNA , ESPRESSO , MAPLE WALNUT FOAM.",
+      "category": "DRINK",
+      "simplified_description": "Cold brew coffee cocktail with coffee liqueur, Averna, and walnut foam.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SANDY’S COFFEE",
+      "price": 9.0,
+      "description": "FRESH BREWED COFFEE WITH GALLLIANO, BAILEYS IRISH CREAM WITH CRÈME DE CACAO. TOPPED WITH WHIPPED CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Coffee with liqueurs and whipped cream topping.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LA VIE EN ROSE",
+      "price": 15.0,
+      "description": "ROSE INFUSED GIN , HONEY LIQUEUR , PROSECCO SYRUP , SICILIAN LEMONADE , MINT.",
+      "category": "DRINK",
+      "simplified_description": "Gin cocktail with honey liqueur, prosecco syrup, lemonade, and mint.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH ROYALTY",
+      "price": 11.0,
+      "description": "GRAPEFRUIT LIQUEUR , CRÈME DE CASSIS , PINEAPPLE , PROSECCO.",
+      "category": "DRINK",
+      "simplified_description": "A fruity cocktail with grapefruit liqueur, crème de cassis, pineapple, and prosecco.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COFFEE",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A hot brewed coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TEA",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A hot brewed tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ESPRESSO",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A strong shot of espresso coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LATTE",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Espresso with steamed milk.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAPPUCCINO",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Espresso with steamed and frothed milk.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "AMERICANO",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Espresso diluted with hot water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THE CLASSIC GF*",
+      "price": 19.0,
+      "description": "THICK CUT CANADIAN BACON , HOLLANDAISE.",
+      "category": "FOOD",
+      "simplified_description": "Dish with thick Canadian bacon and hollandaise sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SLOW BRAISED SHORT RIB GF*",
+      "price": 23.0,
+      "description": "FRIED ONIONS , HOLLANDAISE.",
+      "category": "FOOD",
+      "simplified_description": "Slow braised short rib served with fried onions and hollandaise.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MUSHROOM, SPINACH & TOMATO v",
+      "price": 18.0,
+      "description": "HOLLANDAISE , CHIMICHURRI.",
+      "category": "FOOD",
+      "simplified_description": "Mushroom, spinach, and tomato with hollandaise and chimichurri sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SALMON GRAVLAX & AVOCADO TOAST GF*",
+      "price": 21.0,
+      "description": "SOURDOUGH TOAST , SCRAMBLED EGGS , TOMATO SALSA , PETITE SALAD.",
+      "category": "FOOD",
+      "simplified_description": "Salmon gravlax with avocado toast, scrambled eggs, tomato salsa, and salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BREAKFAST LASAGNA V",
+      "price": 23.0,
+      "description": "SCRAMBLED EGGS , TOMATO SALSA , PETITE GREENS. (LIMITED QUANTITIES)",
+      "category": "FOOD",
+      "simplified_description": "Breakfast lasagna with scrambled eggs, tomato salsa, and greens.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Limited quantities"
+    },
+    {
+      "name": "CARAMEL BANANA WAFFLE V",
+      "price": 15.0,
+      "description": "MIXED BERRIES , WHIPPED CREAM , CHOCOLATE SAUCE.",
+      "category": "FOOD",
+      "simplified_description": "Waffle topped with caramelized banana, berries, whipped cream, and chocolate sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "COCONUT YOGURT PARFAIT GF*, V",
+      "price": 14.0,
+      "description": "FRESH BERRY COMPOTE , CHIA SEEDS , BUCKWHEAT CRUMBLE.",
+      "category": "FOOD",
+      "simplified_description": "Coconut yogurt parfait with berries, chia seeds, and buckwheat crumble.",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THE JAZZ STANDARD GF*",
+      "price": 19.0,
+      "description": "TWO EGGS ANY STYLE , SMASH BROWNS , BACON OR CHICKEN SAUSAGE.",
+      "category": "FOOD",
+      "simplified_description": "Two eggs with smashed potatoes and choice of bacon or chicken sausage.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHAIRMAN’S CUT STEAK & EGGS GF*",
+      "price": 35.0,
+      "description": "6oz PRIME STRIPLOIN , TWO SUNNY SIDE EGGS , PESTO , SMASH BROWN.",
+      "category": "FOOD",
+      "simplified_description": "Steak with two eggs, pesto, and smashed potatoes.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAPLE GLAZED GRILLED CHICKEN & WAFFLE",
+      "price": 26.0,
+      "description": "HOLLANDAISE , LEMON AIOLI , COLESLAW.",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken with maple glaze, waffle, and sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TWO BACON STRIPS GF",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Two strips of gluten-free bacon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ONE EGG GV, V",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "One egg, suitable for vegetarians.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TWO CHICKEN SAUSAGES GF",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Two gluten-free chicken sausages.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "AVOCADO GV, V",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fresh avocado, suitable for vegetarians and vegans.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

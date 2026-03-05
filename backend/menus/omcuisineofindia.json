@@ -1,0 +1,448 @@
+{
+  "restaurant": "omcuisineofindia",
+  "parsed_at": "2026-02-06T03:33:42.375158",
+  "item_count": 49,
+  "items": [
+    {
+      "name": "Stuffed Paneer Pakora",
+      "price": 35.0,
+      "description": "Homemade cottage cheese stuffed with mint chutney, dipped in chickpea batter, and fried to a golden brown.",
+      "category": "APPETIZER",
+      "simplified_description": "Homemade cottage cheese stuffed with mint chutney, dipped in chickpea batter, an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki",
+      "price": null,
+      "description": "Potato patties filled with herbs and spices, topped with chickpea curry.",
+      "category": "APPETIZER",
+      "simplified_description": "Potato patties filled with herbs and spices, topped with chickpea curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Papdi Chaat",
+      "price": 30.0,
+      "description": "Homemade crispy chips topped with potatoes, onions, cilantro, and smothered with sweet tamarind chutney, mint chutney, and yogurt.",
+      "category": "APPETIZER",
+      "simplified_description": "Homemade crispy chips topped with potatoes, onions, cilantro, and smothered with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Fish Pakora",
+      "price": 40.0,
+      "description": "Succulent fish marinated in mild spices and fried to a crisp.",
+      "category": "APPETIZER",
+      "simplified_description": "Succulent fish marinated in mild spices and fried to a crisp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Bhature",
+      "price": 100.0,
+      "description": "Chickpea curry served with deep-fried bread.",
+      "category": "OTHER",
+      "simplified_description": "Chickpea curry served with deep-fried bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Chap Tikka",
+      "price": 55.0,
+      "description": "Juicy soya marinated in masala and cooked in a clay oven | Approx 30 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Juicy soya marinated in masala and cooked in a clay oven | Approx 30 pcs in half",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 55.0,
+      "description": "Juicy cubes of cottage cheese marinated in masala and roasted in a clay oven | Approx 30 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Juicy cubes of cottage cheese marinated in masala and roasted in a clay oven | A",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 60.0,
+      "description": "Succulent chicken pieces marinated in masala and roasted in a clay oven | Approx 30 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Succulent chicken pieces marinated in masala and roasted in a clay oven | Approx",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Reshmi Kabab",
+      "price": 60.0,
+      "description": "Soft and silky chicken pieces simmered in butter cream and cashew nut, skewered and baked in a clay oven | Approx 30 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Soft and silky chicken pieces simmered in butter cream and cashew nut, skewered ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Hariyali Tikka",
+      "price": 60.0,
+      "description": "Chicken pieces marinated in a blend of mint, cilantro, and spinach and roasted in a clay oven | Approx 30 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Chicken pieces marinated in a blend of mint, cilantro, and spinach and roasted i",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 60.0,
+      "description": "Chicken marinated in yogurt and colorful Indian spices then roasted in a clay oven | Approx 15 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Chicken marinated in yogurt and colorful Indian spices then roasted in a clay ov",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Seekh Kabab",
+      "price": 60.0,
+      "description": "Minced lamb marinated in our signature combination of herbs and spices. Skewered and roasted in a clay oven | Approx 40 pcs in a half tray.",
+      "category": "OTHER",
+      "simplified_description": "Minced lamb marinated in our signature combination of herbs and spices. Skewered",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka",
+      "price": 60.0,
+      "description": "Barbecued pieces of seasoned fish with a blend of herbs and spices | Approx 30 pcs in half tray.",
+      "category": "OTHER",
+      "simplified_description": "Barbecued pieces of seasoned fish with a blend of herbs and spices | Approx 30 p",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 40.0,
+      "description": "An aromatic blend of black lentils simmered in cream on a slow fire until tender, tempered with ginger, garlic, and tomatoes.",
+      "category": "OTHER",
+      "simplified_description": "An aromatic blend of black lentils simmered in cream on a slow fire until tender",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yellow Dal Tadka",
+      "price": 40.0,
+      "description": "Yellow lentils cooked to perfection in a traditional Indian wok with rare herbs and spices.",
+      "category": "OTHER",
+      "simplified_description": "Yellow lentils cooked to perfection in a traditional Indian wok with rare herbs ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Channa Masala",
+      "price": 40.0,
+      "description": "Delicious chickpea curry cooked in an exotic blend of north Indian spices.",
+      "category": "OTHER",
+      "simplified_description": "Delicious chickpea curry cooked in an exotic blend of north Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 45.0,
+      "description": "Fresh cottage cheese folded into a creamy tomato sauce.",
+      "category": "OTHER",
+      "simplified_description": "Fresh cottage cheese folded into a creamy tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mattar Paneer",
+      "price": 45.0,
+      "description": "Fresh cottage cheese cubes prepared with green peas.",
+      "category": "OTHER",
+      "simplified_description": "Fresh cottage cheese cubes prepared with green peas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Paneer",
+      "price": 45.0,
+      "description": "Cubes of cottage cheese cooked with green pepper and onion in a tangy gravy.",
+      "category": "OTHER",
+      "simplified_description": "Cubes of cottage cheese cooked with green pepper and onion in a tangy gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 45.0,
+      "description": "Cubes of fresh cottage cheese in a spicy spinach gravy.",
+      "category": "OTHER",
+      "simplified_description": "Cubes of fresh cottage cheese in a spicy spinach gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 45.0,
+      "description": "Paneer kofta cooked in a creamy sauce with fragrant herbs and spices.",
+      "category": "OTHER",
+      "simplified_description": "Paneer kofta cooked in a creamy sauce with fragrant herbs and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baingan Bharta",
+      "price": 40.0,
+      "description": "Eggplant roasted in a tandoor, mashed, and marinated in a rich blend of Mughlai spices.",
+      "category": "OTHER",
+      "simplified_description": "Eggplant roasted in a tandoor, mashed, and marinated in a rich blend of Mughlai ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 40.0,
+      "description": "Cauliflower and potatoes cooked with mild spices, ginger, tomatoes, onion, and herbs.",
+      "category": "OTHER",
+      "simplified_description": "Cauliflower and potatoes cooked with mild spices, ginger, tomatoes, onion, and h",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Zeera",
+      "price": 40.0,
+      "description": "Fresh potatoes cooked with cumin seeds, garnished with cilantro and ginger.",
+      "category": "OTHER",
+      "simplified_description": "Fresh potatoes cooked with cumin seeds, garnished with cilantro and ginger.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable",
+      "price": 40.0,
+      "description": "An aromatic blend of vegetables simmered on a slow fire until tender, tempered with onions, ginger, garlic, and tomatoes",
+      "category": "OTHER",
+      "simplified_description": "An aromatic blend of vegetables simmered on a slow fire until tender, tempered w",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Navrattan Korma",
+      "price": 40.0,
+      "description": "A royal delicacy made of fresh vegetables cooked in a creamy sauce.",
+      "category": "OTHER",
+      "simplified_description": "A royal delicacy made of fresh vegetables cooked in a creamy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 20.0,
+      "description": "Plain basmati rice.",
+      "category": "OTHER",
+      "simplified_description": "Plain basmati rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 25.0,
+      "description": "Basmati rice cooked in coconut milk and garnished with dry fruits.",
+      "category": "OTHER",
+      "simplified_description": "Basmati rice cooked in coconut milk and garnished with dry fruits.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 45.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Biryani",
+      "price": 55.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Biryani",
+      "price": 55.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Biryani",
+      "price": 40.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Paneer",
+      "price": 55.0,
+      "description": "Cottage cheese marinated in Indo-Chinese spices and sautéed in a chili gravy.",
+      "category": "OTHER",
+      "simplified_description": "Cottage cheese marinated in Indo-Chinese spices and sautéed in a chili gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Chili Cauliflower",
+      "price": 40.0,
+      "description": "Crispy cauliflower fritters served in honey Manchurian sauce.",
+      "category": "OTHER",
+      "simplified_description": "Crispy cauliflower fritters served in honey Manchurian sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Manchurian",
+      "price": 40.0,
+      "description": "Crispy vegetables fritters served in a hot and sour Manchurian sauce.",
+      "category": "OTHER",
+      "simplified_description": "Crispy vegetables fritters served in a hot and sour Manchurian sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Chicken",
+      "price": 55.0,
+      "description": "Chicken marinated in a blend of Indo-Chinese spices and sautéed in a chili gravy.",
+      "category": "OTHER",
+      "simplified_description": "Chicken marinated in a blend of Indo-Chinese spices and sautéed in a chili gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Fish",
+      "price": 55.0,
+      "description": "Fish marinated in a blend of Indo-Chinese spices and sautéed in a chili gravy.",
+      "category": "OTHER",
+      "simplified_description": "Fish marinated in a blend of Indo-Chinese spices and sautéed in a chili gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetables Chow Mein",
+      "price": 40.0,
+      "description": "Noodles sautéed with finely chopped vegetables and a special house sauce.",
+      "category": "OTHER",
+      "simplified_description": "Noodles sautéed with finely chopped vegetables and a special house sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Fried Rice",
+      "price": 40.0,
+      "description": "Fresh diced vegetables fried with rice and Chinese spices.",
+      "category": "OTHER",
+      "simplified_description": "Fresh diced vegetables fried with rice and Chinese spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Fried Rice",
+      "price": 45.0,
+      "description": "Scrambled eggs in fried rice.",
+      "category": "OTHER",
+      "simplified_description": "Scrambled eggs in fried rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 50.0,
+      "description": "Chicken mixed with fried rice.",
+      "category": "OTHER",
+      "simplified_description": "Chicken mixed with fried rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Naan",
+      "price": null,
+      "description": "Fresh leavened bread baked on the wall lining of the tandoor oven.",
+      "category": "BREAD",
+      "simplified_description": "Fresh leavened bread baked on the wall lining of the tandoor oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": null,
+      "description": "Indian bread topped with garlic.",
+      "category": "BREAD",
+      "simplified_description": "Indian bread topped with garlic.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lachha Parantha",
+      "price": null,
+      "description": "Whole wheat bread layered with butter.",
+      "category": "BREAD",
+      "simplified_description": "Whole wheat bread layered with butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": null,
+      "description": "Whole wheat bread baked in a clay oven.",
+      "category": "BREAD",
+      "simplified_description": "Whole wheat bread baked in a clay oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Raita",
+      "price": 20.0,
+      "description": "Chilled yogurt mixed with shredded carrots and cucumbers.",
+      "category": "SIDE",
+      "simplified_description": "Chilled yogurt mixed with shredded carrots and cucumbers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kheer - Nuts",
+      "price": 35.0,
+      "description": "Fragrant rice pudding cooked with sweetened milk, raisins, and almonds.",
+      "category": "DESSERT",
+      "simplified_description": "Fragrant rice pudding cooked with sweetened milk, raisins, and almonds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ras Malai - Nuts",
+      "price": null,
+      "description": "Two pieces of homemade cottage cheese patties poached in sweet cream and served with pistachio.",
+      "category": "DESSERT",
+      "simplified_description": "Two pieces of homemade cottage cheese patties poached in sweet cream and served ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": null,
+      "description": "Two pieces of golden milk balls soaked in sweet saffron syrup and served hot.",
+      "category": "DESSERT",
+      "simplified_description": "Two pieces of golden milk balls soaked in sweet saffron syrup and served hot.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

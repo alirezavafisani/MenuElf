@@ -1,0 +1,989 @@
+{
+  "restaurant": "jollygoodfood",
+  "parsed_at": "2026-02-06T02:50:17.173438",
+  "item_count": 91,
+  "items": [
+    {
+      "name": "Chicken in Lemon Sauce",
+      "price": 15.95,
+      "description": "Chicken in Lemon Sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in a tangy lemon sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Broccoli or Mixed Vegetables",
+      "price": 15.95,
+      "description": "Chicken with Broccoli or Mixed Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Chicken served with broccoli or mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moo Goo Guy Pan (Chicken with Mushroom)",
+      "price": 16.95,
+      "description": "Moo Goo Guy Pan (Chicken with Mushroom)",
+      "category": "FOOD",
+      "simplified_description": "Chicken stir-fried with mushrooms in a light sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chop Suey (Bean Sprout)",
+      "price": 14.95,
+      "description": "Chicken Chop Suey (Bean Sprout)",
+      "category": "FOOD",
+      "simplified_description": "Chicken with bean sprouts and mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Veggies with Cashew Nuts or Almonds",
+      "price": 16.95,
+      "description": "Chicken & Veggies with Cashew Nuts or Almonds",
+      "category": "FOOD",
+      "simplified_description": "Chicken and vegetables with cashew nuts or almonds.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken",
+      "price": 15.95,
+      "description": "Satay Chicken",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken served with a peanut satay sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken in Black Bean Sauce",
+      "price": 15.95,
+      "description": "Chicken in Black Bean Sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in a savory black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Black Pepper Sauce",
+      "price": 15.95,
+      "description": "Chicken with Black Pepper Sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken served with a spicy black pepper sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Yellow or Red or Green Curry Chicken",
+      "price": 16.95,
+      "description": "Thai Yellow or Red or Green Curry Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in your choice of Thai curry sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Chili Chicken",
+      "price": 15.95,
+      "description": "Thai Chili Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked with spicy Thai chili sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Sweet Chili Chicken",
+      "price": 15.95,
+      "description": "Thai Sweet Chili Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken in a sweet and mildly spicy chili sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef",
+      "price": 16.95,
+      "description": "Ginger Beef",
+      "category": "FOOD",
+      "simplified_description": "Beef stir-fried with ginger flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Broccoli or Mixed Vegetables",
+      "price": 16.95,
+      "description": "Beef with Broccoli or Mixed Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Beef served with broccoli or mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Chop Suey (Bean Sprout)",
+      "price": 15.95,
+      "description": "Beef Chop Suey (Bean Sprout)",
+      "category": "FOOD",
+      "simplified_description": "Beef with bean sprouts and mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Beef with 2 Kinds of Mushrooms & Broccoli",
+      "price": 17.5,
+      "description": "Teriyaki Beef with 2 Kinds of Mushrooms & Broccoli",
+      "category": "FOOD",
+      "simplified_description": "Beef with two types of mushrooms and broccoli in teriyaki sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Beef",
+      "price": 16.95,
+      "description": "Szechuan Beef",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef dish with Szechuan flavors.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Sweet and Sour Ribs or Boneless Pork",
+      "price": 15.95,
+      "description": "Pineapple Sweet and Sour Ribs or Boneless Pork",
+      "category": "FOOD",
+      "simplified_description": "Sweet and sour pork or ribs with pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt and Pepper Ribs or Boneless Pork",
+      "price": 15.95,
+      "description": "Salt and Pepper Ribs or Boneless Pork",
+      "category": "FOOD",
+      "simplified_description": "Salt and pepper seasoned pork ribs or boneless pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Ribs or Boneless Pork",
+      "price": 15.95,
+      "description": "Honey Garlic Ribs or Boneless Pork",
+      "category": "FOOD",
+      "simplified_description": "Honey garlic flavored pork ribs or boneless pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Slices",
+      "price": 16.95,
+      "description": "BBQ Pork Slices",
+      "category": "FOOD",
+      "simplified_description": "Slices of barbecued pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Slices With Mixed Vegetables",
+      "price": 15.95,
+      "description": "BBQ Pork Slices With Mixed Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Barbecued pork slices served with mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Chop Suey (bean Sprout)",
+      "price": 14.95,
+      "description": "BBQ Pork Chop Suey (bean Sprout)",
+      "category": "FOOD",
+      "simplified_description": "Barbecued pork with bean sprout chop suey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breaded Shrimps (Sweet and Sour Sauce on Side)",
+      "price": 17.95,
+      "description": "Breaded Shrimps\n(Sweet and Sour Sauce on Side)",
+      "category": "FOOD",
+      "simplified_description": "Breaded shrimp served with sweet and sour sauce on the side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Sweet and Sour Shrimps",
+      "price": 17.95,
+      "description": "Pineapple Sweet and Sour Shrimps",
+      "category": "FOOD",
+      "simplified_description": "Shrimp in sweet and sour sauce with pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt and Pepper Shrimps or Squid or Fish Fillet",
+      "price": 17.95,
+      "description": "Salt and Pepper Shrimps or Squid or Fish Fillet",
+      "category": "FOOD",
+      "simplified_description": "Salt and pepper seasoned shrimp, squid, or fish fillet.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt and Pepper Scallops",
+      "price": 20.95,
+      "description": "Salt and Pepper Scallops",
+      "category": "FOOD",
+      "simplified_description": "Salt and pepper seasoned scallops.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt and Pepper Mixed Seafood (Shrimps, Scallop, Fish Fillet and Squid)",
+      "price": 21.95,
+      "description": "Salt and Pepper Mixed Seafood\n(Shrimps, Scallop, Fish Fillet and Squid)",
+      "category": "FOOD",
+      "simplified_description": "Mixed seafood with salt and pepper seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kung Po Shrimps with Peanut",
+      "price": 17.95,
+      "description": "Kung Po Shrimps with Peanut",
+      "category": "FOOD",
+      "simplified_description": "Spicy shrimp dish with peanuts.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Shrimps and Cashew Nut",
+      "price": 18.95,
+      "description": "Diced Shrimps and Cashew Nut",
+      "category": "FOOD",
+      "simplified_description": "Shrimp pieces cooked with cashew nuts.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "General Tao's Shrimp",
+      "price": 17.95,
+      "description": "General Tao's Shrimp",
+      "category": "FOOD",
+      "simplified_description": "Sweet and spicy battered shrimp dish.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimps with Mixed Vegetables",
+      "price": 17.95,
+      "description": "Shrimps with Mixed Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Shrimps cooked with a variety of mixed vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Seafood with Mixed Vegetables (Shrimp, Scallop and Squid)",
+      "price": 18.95,
+      "description": "Mixed Seafood with Mixed Vegetables.\n(Shrimp, Scallop and Squid)",
+      "category": "FOOD",
+      "simplified_description": "Shrimp, scallop, and squid served with mixed vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Meats and Shrimp with Mixed Vegetables. (Chicken, BBQ Pork and Shrimp)",
+      "price": 17.95,
+      "description": "Mixed Meats and Shrimp with Mixed Vegetables.\n(Chicken, BBQ Pork and Shrimp)",
+      "category": "FOOD",
+      "simplified_description": "Chicken, BBQ pork, and shrimp with mixed vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Chop Suey (Bean Sprout)",
+      "price": 16.95,
+      "description": "Shrimp Chop Suey (Bean Sprout)",
+      "category": "FOOD",
+      "simplified_description": "Shrimp stir-fried with bean sprouts and vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Shrimp or Fish Fillet",
+      "price": 17.95,
+      "description": "Szechuan Shrimp or Fish Fillet",
+      "category": "FOOD",
+      "simplified_description": "Spicy Szechuan style shrimp or fish fillet.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Satay Shrimp or Fish Fillet",
+      "price": 17.95,
+      "description": "Satay Shrimp or Fish Fillet",
+      "category": "FOOD",
+      "simplified_description": "Shrimp or fish fillet cooked in satay sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Seafood",
+      "price": 21.95,
+      "description": "Satay Seafood",
+      "category": "FOOD",
+      "simplified_description": "Mixed seafood cooked in satay sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Shrimp or Fish Filet",
+      "price": 17.95,
+      "description": "Palace Style Shrimp or Fish Filet",
+      "category": "FOOD",
+      "simplified_description": "Shrimp or fish fillet prepared in palace style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp or Fish Fillet in Black Bean Sauce",
+      "price": 17.95,
+      "description": "Shrimp or Fish Fillet in Black Bean Sauce",
+      "category": "FOOD",
+      "simplified_description": "Shrimp or fish fillet cooked in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood in Black Bean Sauce",
+      "price": 21.95,
+      "description": "Seafood in Black Bean Sauce",
+      "category": "FOOD",
+      "simplified_description": "Mixed seafood cooked in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Yellow or Red or Green Curry Shrimp or Fish Fillet",
+      "price": 18.95,
+      "description": "Thai Yellow or Red or Green Curry Shrimp or Fish Fillet",
+      "category": "FOOD",
+      "simplified_description": "Shrimp or fish fillet in Thai yellow, red, or green curry.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Thai Sweet Chili Shrimp or Fish Fillet",
+      "price": 17.95,
+      "description": "Thai Sweet Chili Shrimp or Fish Fillet",
+      "category": "FOOD",
+      "simplified_description": "Shrimp or fish fillet with sweet chili sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Chili Shrimp or Fish Fillet",
+      "price": 17.95,
+      "description": "Thai Chili Shrimp or Fish Fillet",
+      "category": "FOOD",
+      "simplified_description": "Shrimp or fish fillet cooked with Thai chili sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mixed Vegetables in Garlic Sauce or Black Bean Sauce",
+      "price": 12.95,
+      "description": "Mixed Vegetables in Garlic Sauce or Black Bean Sauce",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in garlic or black bean sauce.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sauteed Broccoli in Garlic Sauce",
+      "price": 13.95,
+      "description": "Sauteed Broccoli in Garlic Sauce",
+      "category": "FOOD",
+      "simplified_description": "Broccoli sautéed in garlic sauce.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Tofu",
+      "price": 14.5,
+      "description": "Szechuan Tofu",
+      "category": "FOOD",
+      "simplified_description": "Spicy tofu dish with Szechuan flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Teriyaki Tofu with 2 Kinds of Mushrooms & Broccoli",
+      "price": 16.95,
+      "description": "Teriyaki Tofu with 2 Kinds of Mushrooms & Broccoli",
+      "category": "FOOD",
+      "simplified_description": "Tofu with teriyaki sauce, mushrooms, and broccoli.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Tofu",
+      "price": 14.5,
+      "description": "Ginger Tofu",
+      "category": "FOOD",
+      "simplified_description": "Tofu cooked with ginger flavor.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Tofu",
+      "price": 14.5,
+      "description": "Salt & Pepper Tofu",
+      "category": "FOOD",
+      "simplified_description": "Tofu seasoned with salt and pepper.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Chop Suey (Bean Sprout)",
+      "price": 11.95,
+      "description": "Vegetable Chop Suey (Bean Sprout)",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables and bean sprouts stir-fried.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Tofu with Mixed Vegetable in Coconut Sauce",
+      "price": 15.95,
+      "description": "Thai Tofu with Mixed Vegetable in Coconut Sauce",
+      "category": "FOOD",
+      "simplified_description": "Tofu and vegetables in creamy coconut sauce.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Yellow Red or Green Curry Tofu with Mixed Vegetables",
+      "price": 16.95,
+      "description": "Thai Yellow Red or Green Curry Tofu with Mixed Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Tofu and vegetables in Thai curry sauce.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Foo Yung",
+      "price": 15.25,
+      "description": "Chicken, Beef or BBQ Pork Foo Yung",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung with choice of chicken, beef, or pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp or House Special Foo Yung",
+      "price": 16.25,
+      "description": "Shrimp or House Special Foo Yung",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung with shrimp or house special ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Foo Yung (Shrimps, Scallop and Squid)",
+      "price": 18.95,
+      "description": "Seafood Foo Yung\n(Shrimps, Scallop and Squid)",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung with shrimp, scallop, and squid.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Foo Yung",
+      "price": 15.25,
+      "description": "Vegetable Foo Yung",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung made with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Foo Yung",
+      "price": 15.25,
+      "description": "Mushroom Foo Yung",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung with mushrooms.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Fried Rice",
+      "price": 13.5,
+      "description": "Chicken, Beef or BBQ Pork Fried Rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with chicken, beef, or BBQ pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yong Chow Fried Rice (Chicken, BBQ Pork and Shrimps)",
+      "price": 14.5,
+      "description": "Yong Chow Fried Rice\n(Chicken, BBQ Pork and Shrimps)",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with chicken, BBQ pork, and shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp or Scallop Fried Rice",
+      "price": 15.5,
+      "description": "Shrimp or Scallop Fried Rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with shrimp or scallops.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs, Vegetable or Mushroom Fried Rice",
+      "price": 13.5,
+      "description": "Eggs, Vegetable or Mushroom Fried Rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with eggs and your choice of vegetables or mushrooms.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Pineapple Fried Rice (Chicken and Shrimps)",
+      "price": 14.5,
+      "description": "Thai Pineapple Fried Rice\n(Chicken and Shrimps)",
+      "category": "FOOD",
+      "simplified_description": "Thai fried rice with pineapple, chicken, and shrimp.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Chicken Fried Rice",
+      "price": 14.95,
+      "description": "Thai Chicken Fried Rice",
+      "category": "FOOD",
+      "simplified_description": "Thai style fried rice with chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Seafood Fried Rice (Shrimps, Scallop and Squid)",
+      "price": 17.95,
+      "description": "Thai Seafood Fried Rice\n(Shrimps, Scallop and Squid)",
+      "category": "FOOD",
+      "simplified_description": "Thai fried rice with shrimp, scallops, and squid.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 2.95,
+      "description": "Steamed Rice",
+      "category": "SIDE",
+      "simplified_description": "Plain steamed white rice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 3.95,
+      "description": "Coconut Rice",
+      "category": "SIDE",
+      "simplified_description": "Rice cooked with coconut milk for a creamy flavor.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Chicken, Beef or BBQ Pork Chow Mein",
+      "price": 14.95,
+      "description": "Cantonese Chicken, Beef or BBQ Pork Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with chicken, beef, or BBQ pork.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Chow Mein (Chicken, BBQ Pork and Shrimp)",
+      "price": 15.5,
+      "description": "Cantonese Chow Mein\n(Chicken, BBQ Pork and Shrimp)",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with chicken, BBQ pork, and shrimp.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Shrimp Chow Mein",
+      "price": 17.5,
+      "description": "Cantonese Shrimp Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with shrimp.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Scallop or Seafood Chow Mein",
+      "price": 19.5,
+      "description": "Cantonese Scallop or Seafood Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with scallops or mixed seafood.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Mushroom Chow Mein",
+      "price": 14.95,
+      "description": "Cantonese Mushroom Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with mushrooms.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Chow Mein with Soya Sauce",
+      "price": 13.95,
+      "description": "Chicken, Beef or BBQ Pork Chow Mein with Soya Sauce",
+      "category": "FOOD",
+      "simplified_description": "Noodles with chicken, beef, or BBQ pork in soya sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Vegetable Chow Mein",
+      "price": 14.95,
+      "description": "Cantonese Vegetable Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Chow Mein with Soya Sauce",
+      "price": 16.95,
+      "description": "Shrimp Chow Mein with Soya Sauce",
+      "category": "FOOD",
+      "simplified_description": "Noodles with shrimp in soya sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Seafood or Scallops Chow Mein with Soya Sauce",
+      "price": 18.95,
+      "description": "Mixed Seafood or Scallops Chow Mein with Soya Sauce",
+      "category": "FOOD",
+      "simplified_description": "Noodles with mixed seafood or scallops in soya sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Special Chow Mein with Soya Sauce (Shrimps, BBQ Pork and Chicken)",
+      "price": 14.95,
+      "description": "House Special Chow Mein with Soya Sauce\n(Shrimps, BBQ Pork and Chicken)",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with shrimp, BBQ pork, chicken, and soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Singapore Curry Rice Noodle (BBQ Pork and Shrimps)",
+      "price": 14.95,
+      "description": "Singapore Curry Rice Noodle\n(BBQ Pork and Shrimps)",
+      "category": "FOOD",
+      "simplified_description": "Rice noodles with BBQ pork, shrimp, and curry sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Home Style Rice Noodle (BBQ Pork and Shrimps)",
+      "price": 14.95,
+      "description": "Home Style Rice Noodle\n(BBQ Pork and Shrimps)",
+      "category": "FOOD",
+      "simplified_description": "Rice noodles cooked with BBQ pork and shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Fried Thick Noodle (BBQ Pork and Shrimps)",
+      "price": 14.95,
+      "description": "Shanghai Fried Thick Noodle\n(BBQ Pork and Shrimps)",
+      "category": "FOOD",
+      "simplified_description": "Thick fried noodles with BBQ pork and shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Fried Thick Noodle (Shrimps and Chicken)",
+      "price": 14.95,
+      "description": "Szechuan Fried Thick Noodle\n(Shrimps and Chicken)",
+      "category": "FOOD",
+      "simplified_description": "Spicy fried thick noodles with shrimp and chicken.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Thick Noodle in Satay Sauce",
+      "price": 14.95,
+      "description": "Chicken, Beef or BBQ Pork Thick Noodle in Satay Sauce",
+      "category": "FOOD",
+      "simplified_description": "Thick noodles with choice of meat in satay sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Thick Noodle in Black Bean Sauce",
+      "price": 14.95,
+      "description": "Chicken, Beef or BBQ Pork Thick Noodle in Black Bean Sauce",
+      "category": "FOOD",
+      "simplified_description": "Thick noodles with choice of meat in black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pad Thai (Shrimps and Chicken)",
+      "price": 14.95,
+      "description": "Pad Thai\n(Shrimps and Chicken)",
+      "category": "FOOD",
+      "simplified_description": "Thai-style stir-fried noodles with shrimp and chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Sauce / Lemon Sauce",
+      "price": 1.25,
+      "description": "Sweet & Sour Sauce / Lemon Sauce",
+      "category": "OTHER",
+      "simplified_description": "Choice of sweet & sour or lemon sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Sauce / Chili Oil",
+      "price": 1.25,
+      "description": "Hot Sauce / Chili Oil",
+      "category": "OTHER",
+      "simplified_description": "Spicy hot sauce or chili oil.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Can Pop",
+      "price": 1.95,
+      "description": "Can Pop",
+      "category": "DRINK",
+      "simplified_description": "Canned soft drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner For Three - $68.95",
+      "price": 68.95,
+      "description": "Three spring rolls, Wonton Soup OR Hot & Sour Soup Or 3 Cans of Pop, Chicken Fried Rice, Plus Three Entree Selections.",
+      "category": "OTHER",
+      "simplified_description": "Meal for three with appetizers, soup, rice, drinks, and entrees.",
+      "dietary_info": [],
+      "other_info": "Serves three"
+    },
+    {
+      "name": "Dinner For Four - $88.95",
+      "price": 88.95,
+      "description": "Four spring rolls, Wonton Soup OR Hot & Sour Soup Or 4 Cans of Pop, Chicken Fried Rice, Plus Four Entree Selections.",
+      "category": "OTHER",
+      "simplified_description": "Meal for four with appetizers, soup, rice, drinks, and entrees.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "Dinner For Six - $128.95",
+      "price": 128.95,
+      "description": "Six spring rolls, Wonton Soup OR Hot & Sour Soup Or 6 Cans of Pop, Chicken Fried Rice, Plus Six Entree Selections.",
+      "category": "OTHER",
+      "simplified_description": "Meal for six with appetizers, soup, rice, drinks, and entrees.",
+      "dietary_info": [],
+      "other_info": "Serves six"
+    },
+    {
+      "name": "Dinner For Eight - $178.95",
+      "price": 178.95,
+      "description": "Eight spring rolls, Wonton Soup OR Hot & Sour Soup Or 8 Cans of Pop, Chicken Fried Rice, Plus Six Entree Selections.",
+      "category": "OTHER",
+      "simplified_description": "Meal for eight with appetizers, soup, rice, drinks, and entrees.",
+      "dietary_info": [],
+      "other_info": "Serves eight"
+    },
+    {
+      "name": "Dinner For Ten - $218.95",
+      "price": 218.95,
+      "description": "Ten spring rolls, Wonton Soup OR Hot & Sour Soup Or 10 Cans of Pop, Chicken Fried Rice, Plus Eight Entree Selections.",
+      "category": "OTHER",
+      "simplified_description": "A large meal set with spring rolls, soup, fried rice, and eight entrees for ten people.",
+      "dietary_info": [],
+      "other_info": "Serves ten"
+    }
+  ]
+}

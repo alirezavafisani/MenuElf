@@ -1,0 +1,216 @@
+{
+  "restaurant": "canadianpizzaunlimited",
+  "parsed_at": "2025-12-25T00:39:14.326355",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "Unlimited Pizza",
+      "price": null,
+      "description": "Pepperoni, Ham, Sausage, Beef, Mushroom, Onions, Green Peppers, Black Olives & Cheese",
+      "simplified_description": "A pizza with various meats and vegetables",
+      "category": "House Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Pizza",
+      "price": null,
+      "description": "Onions, Green Peppers, Beef, Black Olives, Banana Peppers & Cheese",
+      "simplified_description": "A pizza with beef and Mexican-style toppings",
+      "category": "House Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Pizza",
+      "price": null,
+      "description": "Pepperoni, Mushroom, Bacon & Cheese",
+      "simplified_description": "A pizza with Canadian-style toppings",
+      "category": "House Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Pizza",
+      "price": null,
+      "description": "Pepperoni, Mushrooms, Onions, Green Peppers, Sausage & Cheese",
+      "simplified_description": "A pizza with a variety of toppings",
+      "category": "House Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Delight Pizza",
+      "price": null,
+      "description": "Onions, Tandoori Chicken, Jalapeno Peppers & Cheese",
+      "simplified_description": "A pizza with spicy chicken and onions",
+      "category": "Chicken Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barbeque Chicken Pizza",
+      "price": null,
+      "description": "Barbeque Sauce, Barbeque Chicken, Onions, Green Peppers & Cheese",
+      "simplified_description": "A pizza with barbeque chicken and vegetables",
+      "category": "Chicken Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": null,
+      "description": "Butter Chicken Sauce, Onions, Green Peppers, Tandoori Chicken",
+      "simplified_description": "A pizza with butter chicken sauce and chicken",
+      "category": "Chicken Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chipotle Pizza",
+      "price": null,
+      "description": "Chipotle Sauce, Onions, Green Peppers, Chicken, Jalapeno & Cheese",
+      "simplified_description": "A spicy pizza with chipotle sauce and chicken",
+      "category": "Chicken Specials",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pizza",
+      "price": null,
+      "description": "Extra Mozzarella Cheese",
+      "simplified_description": "A pizza with extra cheese",
+      "category": "Veggie Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": null,
+      "description": "Mushrooms, Onions, Green Peppers, Tomatoes & Cheese",
+      "simplified_description": "A pizza with various vegetables",
+      "category": "Veggie Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Greek Pizza",
+      "price": null,
+      "description": "Onions, Green Peppers, Black Olives, Tomatoes, Feta Cheese",
+      "simplified_description": "A pizza with Greek-style toppings",
+      "category": "Veggie Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Mexican Pizza",
+      "price": null,
+      "description": "Onions, Green Peppers, Banana Peppers, Black Olive & Cheese",
+      "simplified_description": "A pizza with Mexican-style vegetables",
+      "category": "Veggie Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": null,
+      "description": "Romaine Lettuce, Bacon Bits, Croutons & Caesar dressing",
+      "simplified_description": "A salad with romaine lettuce and Caesar dressing",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": null,
+      "description": "Red Onion, Romaine Lettuce, Olives, Tomatoes, Feta Cheese & Greek Dressing",
+      "simplified_description": "A salad with Greek-style ingredients",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tasty Bread",
+      "price": null,
+      "description": "Served with Free Dipping Sauce",
+      "simplified_description": "Bread served with dipping sauce",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CPU Combo – 14 Inch",
+      "price": null,
+      "description": "Get One Unlimited Pizza, One Side & Two Cans of Pop",
+      "simplified_description": "A combo meal with pizza, a side, and drinks",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CPU Combo – 12 Inch",
+      "price": null,
+      "description": "Get One Unlimited Pizza, One Side & Two Cans of Pop",
+      "simplified_description": "A combo meal with pizza, a side, and drinks",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Freedom of Choice – 14 inch",
+      "price": null,
+      "description": "Get Two Unlimited Pizzas, 12 Chicken Wings & 2L Pop",
+      "simplified_description": "A combo meal with two pizzas, wings, and drinks",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Freedom of Choice – 12 inch",
+      "price": null,
+      "description": "Get Two Unlimited Pizzas, 12 Chicken Wings & 2L Pop",
+      "simplified_description": "A combo meal with two pizzas, wings, and drinks",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vitamin Water",
+      "price": null,
+      "description": "Pack of 6 Cans",
+      "simplified_description": "A pack of vitamin water cans",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "restaurant": "bori korean",
+  "parsed_at": "2025-12-24T23:36:29.440733",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "Jap Chae",
+      "price": 17.5,
+      "description": "Sweet potato (glass noodles) stir-fried with vegetables and beef.",
+      "simplified_description": "Stir-fried sweet potato noodles with vegetables and beef.",
+      "category": "Best Sellers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Pancake",
+      "price": 18.0,
+      "description": "Batter of eggs, wheat flour, muscle, shrimp, squid, and green onion.",
+      "simplified_description": "A pancake made with eggs, flour, seafood, and green onions.",
+      "category": "Best Sellers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Chicken",
+      "price": 9.0,
+      "description": "Korean style sweet and crispy chicken served with five pieces of rice cake.",
+      "simplified_description": "Crispy sweet Korean fried chicken with rice cakes.",
+      "category": "Best Sellers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pork Bone Soup (Gamja-Tang)",
+      "price": 18.0,
+      "description": "Spicy Korean soup made from the spine or neck bones. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Spicy soup made with pork bones, served with a side dish and rice.",
+      "category": "Best Sellers",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bulgogi (450 g)",
+      "price": 25.0,
+      "description": "Beef marinated mixture with Korean special soy sauce, sesame oil, and garlic. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Marinated beef with soy sauce and sesame oil, served with a side dish and rice.",
+      "category": "Best Sellers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bibimbap",
+      "price": 17.0,
+      "description": "Rice, vegetables, and beef with sesame oil and special spicy bean paste. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Rice mixed with vegetables and beef, served with a side dish and rice.",
+      "category": "Best Sellers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gyoza Dumpling (7 pcs)",
+      "price": 9.0,
+      "description": "Pork and vegetables with teriyaki sauce.",
+      "simplified_description": "Dumplings filled with pork and vegetables, served with teriyaki sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice",
+      "price": 2.5,
+      "description": "One bowl of rice.",
+      "simplified_description": "A bowl of plain rice.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bibim Dumplings (7 pcs)",
+      "price": 9.0,
+      "description": "Pork and vegetables, fried dumpling, and vegetable with Korean special hot sauce.",
+      "simplified_description": "Fried dumplings filled with pork and vegetables, served with hot sauce.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ddukbokki",
+      "price": 9.0,
+      "description": "Rice cake, fish cake, and egg with hot pepper paste.",
+      "simplified_description": "Spicy dish made with rice cakes, fish cakes, and egg.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Ddukbokki",
+      "price": 12.5,
+      "description": "Ddukbokki with mozzarella cheese on top.",
+      "simplified_description": "Spicy rice cakes topped with mozzarella cheese.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dumpling Ddukbokki (6 pcs)",
+      "price": 13.5,
+      "description": "One order comes with six pieces of ddukbokki dumpling.",
+      "simplified_description": "Six dumplings made with ddukbokki.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Style Sausage (Sundae)",
+      "price": 15.5,
+      "description": "Sundae is a type of blood sausage in Korean cuisine.",
+      "simplified_description": "Korean blood sausage.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bean Sprouts (16 oz)",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bulgogi (450 g)",
+      "price": 25.0,
+      "description": "Beef marinated mixture with Korean special soy sauce, sesame oil, and garlic. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Marinated beef with soy sauce and sesame oil, served with a side dish and rice.",
+      "category": "Korean BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L.A. Galbi (4 Strips)",
+      "price": 28.0,
+      "description": "LA style grilled beef short rib with Korean special soy sauce. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Grilled beef short ribs with soy sauce, served with a side dish and rice.",
+      "category": "Korean BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pork (400 g)",
+      "price": 25.0,
+      "description": "Marinated pork comes with Korean spicy sauce and vegetables. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Marinated pork with spicy sauce, served with a side dish and rice.",
+      "category": "Korean BBQ",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Belly with Three Strips (400 g)",
+      "price": 25.0,
+      "description": "Grilled seasoned pork belly with vegetables. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Grilled pork belly with vegetables, served with a side dish and rice.",
+      "category": "Korean BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Bulgogi (Soy Sauce) (400 g)",
+      "price": 25.0,
+      "description": "Chicken marinated mixture with Korean special soy sauce. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Marinated chicken with soy sauce, served with a side dish and rice.",
+      "category": "Korean BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bibimbap",
+      "price": 17.0,
+      "description": "Rice, vegetables, and beef with sesame oil and special spicy bean paste. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Rice mixed with vegetables and beef, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pork Bone Soup (Gamja-Tang)",
+      "price": 18.0,
+      "description": "Spicy Korean soup made from the spine or neck bones.",
+      "simplified_description": "Spicy soup made with pork bones.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Tofu Soup with Beef (Sundubu-Jjigae)",
+      "price": 18.0,
+      "description": "Soft tofu soup - soft tofu, vegetables, mushrooms, onion, and zucchini. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Soft tofu soup with vegetables and beef, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Tofu Soup with Seafood (Sundubu-Jjigae)",
+      "price": 18.0,
+      "description": "Soft tofu soup - soft tofu, vegetables, mushrooms, onion, and zucchini. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Soft tofu soup with vegetables and seafood, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soy Sauce Pork Bone Soup (Gamja-Tang)",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Short Rib Soup (Galbi-Tang)",
+      "price": 19.0,
+      "description": "Beef soup - shredded beef with scallions. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Beef soup with shredded beef and scallions, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marinated Beef Bulgogi Soup",
+      "price": 18.0,
+      "description": "Marinated beef stew in bowl - beef, carrot, egg, mushroom, garlic, green onion, tofu, noodle, and special Korean style soy sauce. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Beef stew with vegetables and noodles, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Kimchi Soup (Kimchi-Jjigae)",
+      "price": 18.0,
+      "description": "Kimchi and other ingredients, such as scallions, onions, diced tofu, and pork stew. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Spicy stew made with kimchi, tofu, and pork, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Beef Soup (YukGaeJang)",
+      "price": 18.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Tofu Soup with Pork (Sundubu-Jjigae)",
+      "price": 18.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Bibimbap",
+      "price": 17.0,
+      "description": "Rice, vegetables, and chicken with sesame oil and special spicy bean paste. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Rice mixed with vegetables and chicken, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Bibimbap",
+      "price": 17.0,
+      "description": "Rice, vegetables, and pork with sesame oil and special spicy bean paste. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Rice mixed with vegetables and pork, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sundae Guk (Not Spicy)",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu Bibimbap",
+      "price": 17.0,
+      "description": "Rice, vegetables, and tofu with sesame oil and special spicy bean paste. Comes with a side dish with one rice bowl.",
+      "simplified_description": "Rice mixed with vegetables and tofu, served with a side dish and rice.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Crab Soup",
+      "price": 20.0,
+      "description": "Crab, tofu, and vegetables with spicy soup.",
+      "simplified_description": "Spicy soup made with crab, tofu, and vegetables.",
+      "category": "Bori Korean Cuisine",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bull",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milkis",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

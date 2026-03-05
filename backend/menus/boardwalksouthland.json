@@ -1,0 +1,689 @@
+{
+  "restaurant": "boardwalksouthland",
+  "parsed_at": "2026-02-06T01:06:39.128651",
+  "item_count": 62,
+  "items": [
+    {
+      "name": "O Ring Crispy Chicken Burger",
+      "price": 8.99,
+      "description": "Brioche bun, crispy chicken patty, 2 onion rings, Chipotle BBQ, Garlic Aioli, pickles.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken burger with onion rings, BBQ sauce, garlic aioli, and pickles on brioche bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Swiss Burger Combo",
+      "price": 11.99,
+      "description": "Swiss cheese, grilled onions, sauteed mushrooms, and mayo.",
+      "category": "FOOD",
+      "simplified_description": "Burger with Swiss cheese, grilled onions, mushrooms, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boardwalk Classic Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, cheddar cheese, and secret sauce.",
+      "category": "FOOD",
+      "simplified_description": "Classic burger with lettuce, tomatoes, cheddar cheese, and secret sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, Pepper Jack cheese, onions, and chipotle sauce.",
+      "category": "FOOD",
+      "simplified_description": "Burger with lettuce, tomatoes, Pepper Jack cheese, onions, and chipotle sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "BBQ Bacon Cheddar Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, cheddar, bacon, and barbeque sauce.",
+      "category": "FOOD",
+      "simplified_description": "Burger with lettuce, tomatoes, cheddar cheese, bacon, and BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, mayo, teriyaki, grilled pineapple, and cheddar.",
+      "category": "FOOD",
+      "simplified_description": "Burger with lettuce, tomatoes, mayo, teriyaki, grilled pineapple, and cheddar cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sriracha Burger Combo",
+      "price": 11.99,
+      "description": "Crispy onions, sriracha sauce, and Pepper Jack cheese.",
+      "category": "FOOD",
+      "simplified_description": "Burger with crispy onions, sriracha sauce, and Pepper Jack cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese Burger Combo",
+      "price": 11.99,
+      "description": "Ketchup, mustard, pickles, onions, and cheddar cheese.",
+      "category": "FOOD",
+      "simplified_description": "Burger with ketchup, mustard, pickles, onions, and cheddar cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, and secret sauce.",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken burger with lettuce, tomatoes, and secret sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, and Boardwalk sauce.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken burger with lettuce, tomatoes, and Boardwalk sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Organic Veggie Burger Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, onions, and mayonnaise.",
+      "category": "FOOD",
+      "simplified_description": "Organic veggie burger with lettuce, tomatoes, onions, and mayo.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Crispy Chicken Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, sriracha sauce, jalapeno, and Pepper Jack cheese.",
+      "category": "FOOD",
+      "simplified_description": "Spicy crispy chicken burger with lettuce, tomatoes, sriracha, jalapeno, and cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Spicy Grilled Chicken Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, sriracha sauce, jalapeno, and Pepper Jack cheese.",
+      "category": "FOOD",
+      "simplified_description": "Spicy grilled chicken burger with lettuce, tomatoes, sriracha, jalapeno, and cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Hawaiian Crispy Chicken Combo",
+      "price": 11.99,
+      "description": "Lettuce, tomatoes, chipotle sauce, grilled pineapple, Swiss cheese.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken burger with lettuce, tomatoes, chipotle sauce, pineapple, and Swiss cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beyond Burger Combo",
+      "price": 11.99,
+      "description": "Plant-based & gluten-free patty, lettuce, onions, tomatoes, and mayo.",
+      "category": "FOOD",
+      "simplified_description": "Plant-based gluten-free burger with lettuce, onions, tomatoes, and mayo.",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "O Ring Beef Burger Combo",
+      "price": 11.99,
+      "description": "O Ring Burger, 8 oz fries and drink of your choice.",
+      "category": "FOOD",
+      "simplified_description": "Beef burger with fries and a drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "O Ring Crispy Chicken Combo",
+      "price": 11.99,
+      "description": "O Ring Crispy Chicken Burger, 8 oz fries and drink of your choice.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken burger with fries and a drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tender Platter",
+      "price": 11.79,
+      "description": "Includes four strips of chicken, a boat of fries, and one free sauce.",
+      "category": "FOOD",
+      "simplified_description": "Four chicken strips with fries and a sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tender Platter Combo",
+      "price": 13.79,
+      "description": "Includes four strips of chicken, a boat of fries, one free sauce, and a drink.",
+      "category": "FOOD",
+      "simplified_description": "Four chicken strips with fries, sauce, and a drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Cheese Fries",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with chili and cheese.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 8.49,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with melted cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Fries",
+      "price": 8.49,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with chili.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Poutine",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with cheese curds and gravy.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Parmesan Fries",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries seasoned with garlic and parmesan cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeno Cheddar Fries",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with jalapenos and cheddar cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bacon Cheddar Ranch Fries",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with bacon, cheddar, and ranch dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Bacon Fries",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with chipotle sauce and bacon.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bacon Cheddar Taters",
+      "price": 10.49,
+      "description": "16 oz taters, cheese sauce, sour cream, beef bacon, chopped green onions",
+      "category": "SIDE",
+      "simplified_description": "Potatoes with cheese sauce, sour cream, bacon, and green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boardwalk Fries",
+      "price": 5.29,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic seasoned fries.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Potato Fries (Medium)",
+      "price": 6.79,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Medium portion of sweet potato fries.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings (Medium)",
+      "price": 6.79,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy fried onion rings served as a side.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili (3 oz)",
+      "price": 1.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Small serving of chili.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese (3 oz)",
+      "price": 1.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Three ounces of cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy (3 oz)",
+      "price": 1.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Three ounces of gravy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauce",
+      "price": 0.75,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A side of dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tater Tots",
+      "price": 6.29,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy fried potato tots served as a side.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kids' Chicken Tenders",
+      "price": 7.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Breaded chicken tenders for kids.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids' Cheese Burger",
+      "price": 7.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Cheeseburger sized for kids.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids' Grilled Cheese",
+      "price": 7.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled cheese sandwich for kids.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kids' Hot Dog",
+      "price": 7.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Hot dog served in a bun for kids.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Milkshake",
+      "price": 6.29,
+      "description": "Whip Cream and Cherry",
+      "category": "DRINK",
+      "simplified_description": "Milkshake topped with whipped cream and a cherry.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Milkshake",
+      "price": 7.79,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Creamy milkshake drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fountain Drink",
+      "price": 3.29,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Carbonated fountain soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vitamin Water",
+      "price": 3.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Flavored vitamin-enhanced water drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monster Energy Drink",
+      "price": 4.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Caffeinated energy drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Water (Bottled)",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Bottled water to keep you hydrated.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle Pop",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A sweet bottled soda pop drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Brownie Shake",
+      "price": 8.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A creamy shake with chocolate brownie flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Cheesecake Shake",
+      "price": 8.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A creamy shake with strawberry cheesecake flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WINGS",
+      "price": 8.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Classic chicken wings served plain.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Wings",
+      "price": 13.99,
+      "description": "8 pcs of chicken wings flavoured with BBQ sauce.",
+      "category": "FOOD",
+      "simplified_description": "Eight chicken wings with BBQ sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Wings Combo",
+      "price": 19.24,
+      "description": "8 pcs of BBQ wings, 8 oz fries and a fountain drink.",
+      "category": "FOOD",
+      "simplified_description": "BBQ wings with fries and a fountain drink.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chicken Wings",
+      "price": 13.99,
+      "description": "8 pcs of chicken wings flavoured with hot sauce.",
+      "category": "FOOD",
+      "simplified_description": "Eight spicy chicken wings with hot sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Hot Chicken Wings Combo",
+      "price": 19.24,
+      "description": "8 pcs of hot chicken wings, 8 oz fries and a fountain drink.",
+      "category": "FOOD",
+      "simplified_description": "Spicy hot wings with fries and a drink.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salt N Pepper Chicken Wings",
+      "price": 13.99,
+      "description": "8 pcs of chicken wings flavoured with salt & pepper.",
+      "category": "FOOD",
+      "simplified_description": "Eight chicken wings seasoned with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt N Pepper Chicken Wings Combo",
+      "price": 19.24,
+      "description": "8 pcs of salt & pepper wings, 8 oz fries and a fountain drink.",
+      "category": "FOOD",
+      "simplified_description": "Salt and pepper wings with fries and a drink.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Family Pack for 2",
+      "price": 26.99,
+      "description": "2 sandwiches (any 2 beef sandwiches), 1 large fries and 2 fountain drinks.",
+      "category": "OTHER",
+      "simplified_description": "Two beef sandwiches, large fries, and two drinks.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Family Pack for 4",
+      "price": 52.99,
+      "description": "4 sandwiches (any 4 beef sandwiches), 2 large fries and 4 fountain drinks.",
+      "category": "OTHER",
+      "simplified_description": "Four beef sandwiches, two large fries, and four drinks.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "16 CHICKEN WINGS",
+      "price": 26.99,
+      "description": "BBQ, HOT OR SALT & PEPPER",
+      "category": "FOOD",
+      "simplified_description": "Sixteen chicken wings with BBQ, hot, or salt & pepper flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake",
+      "price": 6.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Classic creamy cheesecake dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Brownie",
+      "price": 5.49,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "A rich and fudgy chocolate brownie dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lava Cake—",
+      "price": null,
+      "description": "ORDER ONLINE",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate cake with a gooey molten center.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Order online"
+    }
+  ]
+}

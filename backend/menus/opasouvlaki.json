@@ -1,0 +1,181 @@
+{
+  "restaurant": "opasouvlaki",
+  "parsed_at": "2025-12-25T00:36:27.305207",
+  "item_count": 18,
+  "items": [
+    {
+      "name": "Mega OPA! Platter",
+      "price": null,
+      "description": "Your choice of two tender souvlaki skewers, grilled to perfection and served with rice, an oven-roasted potato, your choice of Greek, Caesar, or Santorini salad, pita wedges, and our famous OPA! tzatziki.",
+      "simplified_description": "A large platter with two grilled souvlaki skewers, rice, potato, salad, pita, and tzatziki.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OPA! Platter",
+      "price": null,
+      "description": "Your choice of tender souvlaki skewer grilled to perfection, served with rice, oven-roasted potato, Greek, Caesar or Santorini salad, pita wedges and our famous OPA! tzatziki.",
+      "simplified_description": "A platter with one grilled souvlaki skewer, rice, potato, salad, pita, and tzatziki.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Souvlaki & Salad",
+      "price": null,
+      "description": "Choose one of our tender souvlaki skewers alongside your choice of salad and seasoned pita wedges ready to dip in our famous OPA! tzatziki.",
+      "simplified_description": "A souvlaki skewer with a salad and seasoned pita for dipping in tzatziki.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OPA! Fries",
+      "price": null,
+      "description": "Our crispy, golden fries tossed in herbs and lemon juice, served with our famous OPA! tzatziki.",
+      "simplified_description": "Crispy fries with herbs and lemon, served with tzatziki.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari",
+      "price": null,
+      "description": "Crispy fried calamari piled high, battered in our own special seasoning, topped with red onions and served with our famous OPA! tzatziki.",
+      "simplified_description": "Fried calamari with seasoning and red onions, served with tzatziki.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pita Wraps",
+      "price": null,
+      "description": "Tender souvlaki or gyro wrapped in a warm pita, drizzled in our famous OPA! tzatziki and topped with your choice of onions, tomatoes, lettuce, fresh jalapeno peppers and feta cheese.",
+      "simplified_description": "Souvlaki or gyro in a warm pita with tzatziki and your choice of toppings.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Snack Bites",
+      "price": null,
+      "description": "Freshly ground chickpeas blended with Mediterranean spices, lightly fried until crispy, served with our famous OPA! tzatziki. Five snack bites per order.",
+      "simplified_description": "Crispy falafel bites made from chickpeas, served with tzatziki.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": "Five pieces per order"
+    },
+    {
+      "name": "Tzatziki & Pita",
+      "price": null,
+      "description": "Our soft, chewy pita wedges fresh off the grill, perfect for dipping in our famous OPA! tzatziki.",
+      "simplified_description": "Warm pita wedges for dipping in tzatziki.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus & Pita",
+      "price": null,
+      "description": "Our soft, chewy pita wedges fresh off the grill and ready to be dipped in our signature hummus.",
+      "simplified_description": "Warm pita wedges for dipping in hummus.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava",
+      "price": null,
+      "description": "Our thin, flaky dessert pastry filled with crushed almonds, walnuts and honey.",
+      "simplified_description": "A sweet pastry with nuts and honey.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari & Salad",
+      "price": null,
+      "description": "Crispy fried calamari piled high, battered in our own special seasoning, topped with red onions and served with your choice of salad and our famous OPA! tzatziki.",
+      "simplified_description": "Fried calamari with seasoning and red onions, served with a salad and tzatziki.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Meal",
+      "price": null,
+      "description": "Tender chicken souvlaki served with rice, a half order of pita wedges, our famous OPA! tzatziki and a juice box or fountain drink.",
+      "simplified_description": "A kids meal with chicken souvlaki, rice, pita, tzatziki, and a drink.",
+      "category": "Kids",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": null,
+      "description": "Crisp romaine lettuce tossed in a creamy Caesar dressing and topped with croutons, Parmesan cheese and optional bacon bits.",
+      "simplified_description": "A salad with romaine, Caesar dressing, croutons, and Parmesan.",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": null,
+      "description": "Vine-ripened tomatoes, cucumbers, sweet peppers and red onions tossed in our own Greek dressing and topped with crumbled feta cheese and Kalamata olives.",
+      "simplified_description": "A salad with tomatoes, cucumbers, peppers, onions, feta, and olives.",
+      "category": "Salads",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Santorini Salad",
+      "price": null,
+      "description": "Our Santorini Salad is a plant-based, dairy free, fresh and delicious meal option for vegetarians and vegans! This salad features chick peas, tomatoes, red onions, dill and capers tossed in our signature Greek dressing.",
+      "simplified_description": "A plant-based salad with chickpeas, tomatoes, onions, dill, and capers.",
+      "category": "Salads",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Side Skewer",
+      "price": null,
+      "description": "Add an extra skewer of our tender souvlaki, grilled to perfection.",
+      "simplified_description": "An extra grilled souvlaki skewer.",
+      "category": "Extras",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spanakopita",
+      "price": null,
+      "description": "Flaky phyllo pastry filled with a blend of spinach, feta and fresh herbs, served with our famous OPA! tzatziki.",
+      "simplified_description": "A pastry with spinach and feta, served with tzatziki.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Pilaf",
+      "price": null,
+      "description": "Our delicious, fluffy rice goes great with everything.",
+      "simplified_description": "Fluffy rice that pairs well with any dish.",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

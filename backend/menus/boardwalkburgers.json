@@ -1,0 +1,79 @@
+{
+  "restaurant": "boardwalkburgers",
+  "parsed_at": "2026-02-06T01:05:53.924893",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Crispy Chicken Burgers",
+      "price": 94.99,
+      "description": "**SERVES 10  **\n**SERVES 15  **\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Serves multiple people with crispy chicken burgers.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Grilled Chicken Burgers",
+      "price": 94.99,
+      "description": "**SERVES 10  **\n**SERVES 15  **\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Serves multiple people with grilled chicken burgers.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Boardwalk Chicken Burgers",
+      "price": 89.99,
+      "description": "**SERVES 10  **\n**SERVES 15  **\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Serves multiple people with Boardwalk style chicken burgers.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Crispy Chicken Bundle",
+      "price": null,
+      "description": "**SERVES 10  **\n**SERVES 15**\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Bundle serving multiple people with crispy chicken items.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Grilled Chicken Bundle",
+      "price": null,
+      "description": "**SERVES 10  **\n**SERVES 15**\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Bundle serving multiple people with grilled chicken items.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Boardwalk Classic Bundle",
+      "price": null,
+      "description": "**SERVES 10  **\n**SERVES 15**\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Bundle serving multiple people with classic Boardwalk items.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "CheeseBurger Bundle",
+      "price": null,
+      "description": "**SERVES 10  **\n**SERVES 15**\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Bundle serving multiple people with cheeseburgers.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Add A Combo",
+      "price": null,
+      "description": "**SERVES 10  **\n**SERVES 15**\n**SERVES 20  **\n**SERVES 25  **",
+      "category": "FOOD",
+      "simplified_description": "Add a combo meal serving multiple people.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    }
+  ]
+}

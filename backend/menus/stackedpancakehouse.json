@@ -1,0 +1,538 @@
+{
+  "restaurant": "stackedpancakehouse",
+  "parsed_at": "2026-02-06T04:12:39.335163",
+  "item_count": 59,
+  "items": [
+    {
+      "name": "Holly Up Your Homefries",
+      "price": 2.99,
+      "description": "Topped with hollandaise & cheddar.",
+      "category": "SIDE",
+      "simplified_description": "Topped with hollandaise & cheddar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crisp Up Your Homefries",
+      "price": 1.69,
+      "description": "Fried homefries tossed with parmesan & topped with green onions. ",
+      "category": "SIDE",
+      "simplified_description": "Fried homefries tossed with parmesan & topped with green onions. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homefries Out, Fruit In",
+      "price": 2.99,
+      "description": "Sub homefries for a large fresh cut fruit bowl. ",
+      "category": "SIDE",
+      "simplified_description": "Sub homefries for a large fresh cut fruit bowl. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon",
+      "price": 3.99,
+      "description": "Calories: 380",
+      "category": "SIDE",
+      "simplified_description": "Calories: 380",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham",
+      "price": 3.99,
+      "description": "Calories: 110",
+      "category": "SIDE",
+      "simplified_description": "Calories: 110",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage",
+      "price": 3.99,
+      "description": "Calories: 460",
+      "category": "SIDE",
+      "simplified_description": "Calories: 460",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peameal",
+      "price": 4.99,
+      "description": "Calories: 230",
+      "category": "SIDE",
+      "simplified_description": "Calories: 230",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Bacon",
+      "price": 4.99,
+      "description": "Calories: 180",
+      "category": "SIDE",
+      "simplified_description": "Calories: 180",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Egg",
+      "price": 1.99,
+      "description": "Calories: 70",
+      "category": "SIDE",
+      "simplified_description": "Calories: 70",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit",
+      "price": 5.99,
+      "description": "Calories: 220",
+      "category": "SIDE",
+      "simplified_description": "Calories: 220",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homefries",
+      "price": 4.99,
+      "description": "Calories: 430",
+      "category": "SIDE",
+      "simplified_description": "Calories: 430",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.99,
+      "description": "Calories: 390",
+      "category": "SIDE",
+      "simplified_description": "Calories: 390",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 1.99,
+      "description": "Calories: 50",
+      "category": "SIDE",
+      "simplified_description": "Calories: 50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hollandaise",
+      "price": 3.99,
+      "description": "Calories: 160",
+      "category": "SIDE",
+      "simplified_description": "Calories: 160",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pure Canadian Maple Syrup",
+      "price": 1.99,
+      "description": "Calories: 90",
+      "category": "SIDE",
+      "simplified_description": "Calories: 90",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Homemade Soup",
+      "price": 4.99,
+      "description": "Calories: 110-250",
+      "category": "SIDE",
+      "simplified_description": "Calories: 110-250",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single French Toast",
+      "price": 3.99,
+      "description": "Calories: 360",
+      "category": "SIDE",
+      "simplified_description": "Calories: 360",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Pancake",
+      "price": 3.99,
+      "description": "Calories: 260",
+      "category": "SIDE",
+      "simplified_description": "Calories: 260",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toast n’ Jam",
+      "price": 2.99,
+      "description": "Calories: 200-260",
+      "category": "SIDE",
+      "simplified_description": "Calories: 200-260",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauces",
+      "price": 0.49,
+      "description": "Calories: 60-240",
+      "category": "SIDE",
+      "simplified_description": "Calories: 60-240",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Yogurt",
+      "price": 3.49,
+      "description": "Calories: 100",
+      "category": "SIDE",
+      "simplified_description": "Calories: 100",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": 4.99,
+      "description": "Sweetened or unsweetened.",
+      "category": "DRINK",
+      "simplified_description": "Sweetened or unsweetened.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Macchiato",
+      "price": 5.49,
+      "description": "Topped with whip & caramel drizzle",
+      "category": "DRINK",
+      "simplified_description": "Topped with whip & caramel drizzle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Cupcake Latte",
+      "price": 5.99,
+      "description": "Topped with whip & rainbow sprinkles",
+      "category": "DRINK",
+      "simplified_description": "Topped with whip & rainbow sprinkles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Chai Latte",
+      "price": 5.49,
+      "description": "Espresso based topped with whipped topping & cinnamon sprinkle.",
+      "category": "DRINK",
+      "simplified_description": "Espresso based topped with whipped topping & cinnamon sprinkle.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Cookie Butter Crunch Iced Latte",
+      "price": 5.99,
+      "description": "Topped with whip & Biscoff® cookie crumble",
+      "category": "DRINK",
+      "simplified_description": "Topped with whip & Biscoff® cookie crumble",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Tiramisu Latte",
+      "price": 5.99,
+      "description": "Topped with whip caramel sauce & cinnamon sprinkle",
+      "category": "DRINK",
+      "simplified_description": "Topped with whip caramel sauce & cinnamon sprinkle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Vanilla Latte",
+      "price": 5.49,
+      "description": "Topped with whip",
+      "category": "DRINK",
+      "simplified_description": "Topped with whip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Vanilla Iced Latte",
+      "price": 5.49,
+      "description": "Topped with whip",
+      "category": "DRINK",
+      "simplified_description": "Topped with whip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee/Tea",
+      "price": 2.99,
+      "description": "Calories: 0",
+      "category": "DRINK",
+      "simplified_description": "Calories: 0",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 2.99,
+      "description": "Calories: 0",
+      "category": "DRINK",
+      "simplified_description": "Calories: 0",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty Tea",
+      "price": 3.19,
+      "description": "Earl Grey | Green | Apple Cinnamon | Chamomile | Decaf | Peppermint",
+      "category": "DRINK",
+      "simplified_description": "Earl Grey | Green | Apple Cinnamon | Chamomile | Decaf | Peppermint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Café Mocha",
+      "price": 3.99,
+      "description": "Hot chocolate & espresso topped with whip & chocolate drizzle",
+      "category": "DRINK",
+      "simplified_description": "Hot chocolate & espresso topped with whip & chocolate drizzle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": 3.99,
+      "description": "Sweetened or unsweetened",
+      "category": "DRINK",
+      "simplified_description": "Sweetened or unsweetened",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drinks",
+      "price": 2.49,
+      "description": "Pepsi | Diet Pepsi | 7UP | Ginger Ale | Iced Tea",
+      "category": "DRINK",
+      "simplified_description": "Pepsi | Diet Pepsi | 7UP | Ginger Ale | Iced Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 3.99,
+      "description": "Apple, Orange, Cranberry, Grapefruit & Lemonade",
+      "category": "DRINK",
+      "simplified_description": "Apple, Orange, Cranberry, Grapefruit & Lemonade",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milk",
+      "price": 3.99,
+      "description": "White or Chocolate",
+      "category": "DRINK",
+      "simplified_description": "White or Chocolate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Latte",
+      "price": 4.99,
+      "description": "Sweetened or unsweetened",
+      "category": "DRINK",
+      "simplified_description": "Sweetened or unsweetened",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Chai Iced Latte",
+      "price": 5.49,
+      "description": "Espresso based topped with whip & cinnamon sprinkle",
+      "category": "DRINK",
+      "simplified_description": "Espresso based topped with whip & cinnamon sprinkle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Grape Lemonade",
+      "price": 4.99,
+      "description": "Calories: 160",
+      "category": "DRINK",
+      "simplified_description": "Calories: 160",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Citrus Lemonade",
+      "price": 4.99,
+      "description": "Calories: 170",
+      "category": "DRINK",
+      "simplified_description": "Calories: 170",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Watermelon Splash Lemonade",
+      "price": 4.99,
+      "description": "Calories: 140",
+      "category": "DRINK",
+      "simplified_description": "Calories: 140",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rise & Berry Smoothie",
+      "price": 5.99,
+      "description": "Raspberry, strawberry, blueberry, blackberry, banana & apple. ",
+      "category": "DRINK",
+      "simplified_description": "Raspberry, strawberry, blueberry, blackberry, banana & apple. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wake up Smoothie",
+      "price": 6.99,
+      "description": "Banana, cocoa, coffee & oat milk. ",
+      "category": "DRINK",
+      "simplified_description": "Banana, cocoa, coffee & oat milk. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Morning Matcha Smoothie",
+      "price": 6.99,
+      "description": "Spinach, banana, matcha, flax, vanilla, apple & oat milk. ",
+      "category": "DRINK",
+      "simplified_description": "Spinach, banana, matcha, flax, vanilla, apple & oat milk. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tropical Sunrise Smoothie",
+      "price": 5.99,
+      "description": "Mango, pineapple, passion fruit, chia seeds, apple, oat & coconut milk. ",
+      "category": "DRINK",
+      "simplified_description": "Mango, pineapple, passion fruit, chia seeds, apple, oat & coconut milk. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Breakfast",
+      "price": 8.99,
+      "description": "One egg, 1 bacon, 1 sausage, homefries & toast",
+      "category": "OTHER",
+      "simplified_description": "One egg, 1 bacon, 1 sausage, homefries & toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Birthday Cake Combo",
+      "price": 9.99,
+      "description": "One scrambled egg, 1 bacon, 1 sausage & a birthday cake pancake",
+      "category": "OTHER",
+      "simplified_description": "One scrambled egg, 1 bacon, 1 sausage & a birthday cake pancake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Pancakes",
+      "price": 8.49,
+      "description": "Add bacon or sausage",
+      "category": "OTHER",
+      "simplified_description": "Add bacon or sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Blueberry Pancakes",
+      "price": 9.49,
+      "description": "2 pancakes.",
+      "category": "OTHER",
+      "simplified_description": "2 pancakes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Birthday Cake Pancakes",
+      "price": 9.99,
+      "description": "2 pancakes.",
+      "category": "OTHER",
+      "simplified_description": "2 pancakes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Chocolate Chip Pancakes",
+      "price": 8.99,
+      "description": "2 pancakes.",
+      "category": "OTHER",
+      "simplified_description": "2 pancakes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Cookies & Cream Pancakes",
+      "price": 9.99,
+      "description": "2 pancakes. ",
+      "category": "OTHER",
+      "simplified_description": "2 pancakes. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids French Toast",
+      "price": 8.49,
+      "description": "Add bacon or sausage",
+      "category": "OTHER",
+      "simplified_description": "Add bacon or sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Chicken Fingers with Fries",
+      "price": 10.99,
+      "description": "Calories: 730",
+      "category": "OTHER",
+      "simplified_description": "Calories: 730",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Add Meat",
+      "price": 2.49,
+      "description": "Calories: 190-230",
+      "category": "OTHER",
+      "simplified_description": "Calories: 190-230",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Confetti Waffle Bites",
+      "price": 10.99,
+      "description": "Filled & topped with rainbow sprinkles, crushed cookies & vanilla icing.",
+      "category": "OTHER",
+      "simplified_description": "Filled & topped with rainbow sprinkles, crushed cookies & vanilla icing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Morning Start",
+      "price": 10.99,
+      "description": "One egg, vanilla yogurt, fresh berries & banana served with toast. ",
+      "category": "OTHER",
+      "simplified_description": "One egg, vanilla yogurt, fresh berries & banana served with toast. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Grilled Cheese with Fries",
+      "price": 8.99,
+      "description": "Calories: 1020",
+      "category": "OTHER",
+      "simplified_description": "Calories: 1020",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

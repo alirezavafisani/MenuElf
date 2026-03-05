@@ -1,0 +1,140 @@
+{
+  "restaurant": "indiantales",
+  "parsed_at": "2026-02-06T02:42:06.041122",
+  "item_count": 10,
+  "items": [
+    {
+      "name": "ALO GOBI",
+      "price": null,
+      "description": "Regular price $14.99 CAD Regular price Sale price $14.99 CAD Unit price / per",
+      "category": "FOOD",
+      "simplified_description": "A classic Indian dish with potatoes and cauliflower cooked with spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MIX VEG.",
+      "price": null,
+      "description": "Regular price $14.99 CAD Regular price Sale price $14.99 CAD Unit price / per",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in Indian spices and herbs.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DAL MAKHANI",
+      "price": null,
+      "description": "Regular price $14.99 CAD Regular price Sale price $14.99 CAD Unit price / per",
+      "category": "FOOD",
+      "simplified_description": "Creamy lentil curry made with black lentils and butter.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DAL TADKA",
+      "price": null,
+      "description": "Regular price $14.99 CAD Regular price Sale price $14.99 CAD Unit price / per",
+      "category": "FOOD",
+      "simplified_description": "Yellow lentils cooked with tempered spices and herbs.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "KADI PAKORA",
+      "price": null,
+      "description": "Regular price $14.99 CAD Regular price Sale price $14.99 CAD Unit price / per",
+      "category": "FOOD",
+      "simplified_description": "Yogurt-based curry with gram flour fritters.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALO TIKKI (2PCS)",
+      "price": null,
+      "description": "Regular price $3.99 CAD Regular price Sale price $3.99 CAD Unit price / per",
+      "category": "APPETIZER",
+      "simplified_description": "Two spiced potato patties fried until crispy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALO TIKKI CHAAT (2PCS)",
+      "price": null,
+      "description": "Regular price $10.99 CAD Regular price Sale price $10.99 CAD Unit price / per",
+      "category": "APPETIZER",
+      "simplified_description": "Two potato patties topped with chutneys and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "SAMOSA (2PCS)",
+      "price": null,
+      "description": "Regular price $3.99 CAD Regular price Sale price $3.99 CAD Unit price / per",
+      "category": "APPETIZER",
+      "simplified_description": "Two fried pastry pockets filled with spiced potatoes and peas.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PAV BHAJI (3PCS)",
+      "price": null,
+      "description": "Regular price $12.99 CAD Regular price Sale price $12.99 CAD Unit price / per",
+      "category": "FOOD",
+      "simplified_description": "Spiced vegetable mash served with three bread rolls.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PAPRI CHAAT",
+      "price": null,
+      "description": "Regular price $10.99 CAD Regular price Sale price $10.99 CAD Unit price / per",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy dough wafers topped with yogurt, chutneys, and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    }
+  ]
+}

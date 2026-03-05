@@ -1,0 +1,556 @@
+{
+  "restaurant": "subsnmore",
+  "parsed_at": "2026-02-06T04:15:29.984780",
+  "item_count": 61,
+  "items": [
+    {
+      "name": "Meatball Sub",
+      "price": 7.99,
+      "description": "$7.99",
+      "category": "FOOD",
+      "simplified_description": "$7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Sub",
+      "price": 7.99,
+      "description": "$7.99",
+      "category": "FOOD",
+      "simplified_description": "$7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Rib Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Club (Bacon) Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLT Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corned Beef Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Beef Sub",
+      "price": 8.49,
+      "description": "$8.49",
+      "category": "FOOD",
+      "simplified_description": "$8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie N’ Cheese",
+      "price": 7.25,
+      "description": "$7.25",
+      "category": "FOOD",
+      "simplified_description": "$7.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham Sub",
+      "price": 7.99,
+      "description": "$7.99",
+      "category": "FOOD",
+      "simplified_description": "$7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salami Sub",
+      "price": 7.99,
+      "description": "$7.99",
+      "category": "FOOD",
+      "simplified_description": "$7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted (ham, salami, turkey)",
+      "price": 7.99,
+      "description": "$7.99",
+      "category": "FOOD",
+      "simplified_description": "$7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 9.49,
+      "description": "$9.49",
+      "category": "FOOD",
+      "simplified_description": "$9.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Falafel",
+      "price": 15.0,
+      "description": "$15.00",
+      "category": "FOOD",
+      "simplified_description": "$15.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Falafel",
+      "price": 12.49,
+      "description": "$12.49",
+      "category": "FOOD",
+      "simplified_description": "$12.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Falafel",
+      "price": 9.49,
+      "description": "$9.49",
+      "category": "FOOD",
+      "simplified_description": "$9.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Donair",
+      "price": 14.99,
+      "description": "$14.99",
+      "category": "FOOD",
+      "simplified_description": "$14.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Donair",
+      "price": 12.49,
+      "description": "$12.49",
+      "category": "FOOD",
+      "simplified_description": "$12.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Small Donair",
+      "price": 9.49,
+      "description": "$9.49",
+      "category": "FOOD",
+      "simplified_description": "$9.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "FOOD",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Pizza",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "FOOD",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat Pizza",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "FOOD",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Cheese Pizza",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "FOOD",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Make your own Pizza",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "FOOD",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Salad",
+      "price": 10.5,
+      "description": "$10.50",
+      "category": "SIDE",
+      "simplified_description": "$10.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Salad",
+      "price": 10.5,
+      "description": "$10.50",
+      "category": "SIDE",
+      "simplified_description": "$10.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Salad",
+      "price": 10.5,
+      "description": "$10.50",
+      "category": "SIDE",
+      "simplified_description": "$10.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Salad",
+      "price": 8.5,
+      "description": "$8.50",
+      "category": "SIDE",
+      "simplified_description": "$8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Wedges",
+      "price": 4.99,
+      "description": "$4.99",
+      "category": "SIDE",
+      "simplified_description": "$4.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings (8 pieces)",
+      "price": 8.99,
+      "description": "$8.99",
+      "category": "MEAL",
+      "simplified_description": "$8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Lasagna",
+      "price": 11.49,
+      "description": "$11.49",
+      "category": "MEAL",
+      "simplified_description": "$11.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet sauce cup",
+      "price": 0.5,
+      "description": "$0.50",
+      "category": "SIDE",
+      "simplified_description": "$0.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips",
+      "price": 1.75,
+      "description": "$1.75",
+      "category": "SIDE",
+      "simplified_description": "$1.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava (1 pc)",
+      "price": 1.5,
+      "description": "$1.50",
+      "category": "SIDE",
+      "simplified_description": "$1.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate milk",
+      "price": 2.75,
+      "description": "$2.75",
+      "category": "DRINK",
+      "simplified_description": "$2.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monster Energy Drink",
+      "price": 3.75,
+      "description": "$3.75",
+      "category": "DRINK",
+      "simplified_description": "$3.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Drink",
+      "price": 3.0,
+      "description": "$3.00",
+      "category": "DRINK",
+      "simplified_description": "$3.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Drink",
+      "price": 2.85,
+      "description": "$2.85",
+      "category": "DRINK",
+      "simplified_description": "$2.85",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.0,
+      "description": "$2.00",
+      "category": "DRINK",
+      "simplified_description": "$2.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 2.0,
+      "description": "$2.00",
+      "category": "DRINK",
+      "simplified_description": "$2.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Taco",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Beef",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tourtiere",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak and Kidney",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Swiss Chicken and Mushroom",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jamaican Beef Curry Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham Cheese & Potato Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef and Onion Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brocolli and Cheese Quiche",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach and Feta Quiche",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon and Cheese Quiche",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sheperd’s pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shepherd’s pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken pot pie",
+      "price": 5.5,
+      "description": "$5.50",
+      "category": "OTHER",
+      "simplified_description": "$5.50",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "restaurant": "hellcrustpizza",
+  "parsed_at": "2026-02-06T02:36:00.655278",
+  "item_count": 13,
+  "items": [
+    {
+      "name": "Unlimited toppings Large Pizza",
+      "price": 18.99,
+      "description": "Unlimited toppings Large Pizza",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with unlimited toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Up to 3 toppings large pizza",
+      "price": 13.99,
+      "description": "Up to 3 toppings large pizza",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with up to three toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 medium signature pizzas + 10 boneless bites + 2 dips + 2 litre pop",
+      "price": 40.0,
+      "description": "2 medium signature pizzas + 10 boneless bites + 2 dips + 2 litre pop",
+      "category": "FOOD",
+      "simplified_description": "Combo with 2 medium pizzas, boneless bites, dips, and 2L pop.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "1 Large Pizza, 8 Pieces Wings, 1 Pizza Slideout, 2 Litre pop",
+      "price": 32.99,
+      "description": "1 Large Pizza, 8 Pieces Wings, 1 Pizza Slideout, 2 Litre pop",
+      "category": "FOOD",
+      "simplified_description": "Meal with large pizza, wings, slideout, and 2L pop.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Extra Large Pizza Upto 3 toppings + 2 Litre pop",
+      "price": 20.0,
+      "description": "Extra Large Pizza Upto 3 toppings + 2 Litre pop",
+      "category": "FOOD",
+      "simplified_description": "Extra large pizza with up to three toppings and 2L pop.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 small pizza + bries",
+      "price": 10.0,
+      "description": "1 small pizza + bries",
+      "category": "FOOD",
+      "simplified_description": "Small pizza served with bries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any 2 Pastas",
+      "price": 20.0,
+      "description": "Any 2 Pastas",
+      "category": "FOOD",
+      "simplified_description": "Choice of any two pasta dishes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Large Pizza upto 3 toppings + 2 Litre POP + 2 Dips",
+      "price": 30.0,
+      "description": "Extra Large Pizza upto 3 toppings + 2 Litre POP + 2 Dips",
+      "category": "FOOD",
+      "simplified_description": "Extra large pizza with up to three toppings, 2L pop, and two dips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 medium pizzas upto 2 toppings each",
+      "price": 20.0,
+      "description": "2 medium pizzas upto 2 toppings each",
+      "category": "FOOD",
+      "simplified_description": "Two medium pizzas with up to two toppings each.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 small pizzas upto 3 toppings each + 2 dips",
+      "price": 20.0,
+      "description": "2 small pizzas upto 3 toppings each + 2 dips",
+      "category": "FOOD",
+      "simplified_description": "Two small pizzas with up to three toppings each and two dips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4 Small signature pizzas",
+      "price": 40.0,
+      "description": "4 Small signature pizzas",
+      "category": "FOOD",
+      "simplified_description": "Four small signature pizzas.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "2 medium signature pizzas",
+      "price": 30.0,
+      "description": "2 medium signature pizzas",
+      "category": "FOOD",
+      "simplified_description": "Two medium signature pizzas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 litre pop",
+      "price": null,
+      "description": "2 litre pop",
+      "category": "DRINK",
+      "simplified_description": "Two liter bottle of soda.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

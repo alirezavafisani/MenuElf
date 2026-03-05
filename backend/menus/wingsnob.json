@@ -1,0 +1,61 @@
+{
+  "restaurant": "wingsnob",
+  "parsed_at": "2026-02-06T04:51:24.248369",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "TRADITIONAL CHICKEN WINGS",
+      "price": null,
+      "description": "10PC | 15PC | 30PC | 50PC | 100PC",
+      "category": "FOOD",
+      "simplified_description": "10PC | 15PC | 30PC | 50PC | 100PC",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BONELESS CHICKEN WINGS",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TENDERS",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAULI WINGS",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIGNATURE FRIES",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRISPY CHICKEN MINI",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

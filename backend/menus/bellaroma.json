@@ -1,0 +1,538 @@
+{
+  "restaurant": "bellaroma",
+  "parsed_at": "2025-12-24T23:55:28.932768",
+  "item_count": 59,
+  "items": [
+    {
+      "name": "Focaccia",
+      "price": 7,
+      "description": "baked in-house",
+      "simplified_description": "Homemade flatbread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Olives",
+      "price": 10,
+      "description": "mixed olives, orange, lemon, rosemary",
+      "simplified_description": "A mix of olives with citrus and herbs",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mussels",
+      "price": 24,
+      "description": "leeks, tomatoes, lobster cream sauce, choice of fries or grilled focaccia",
+      "simplified_description": "Mussels in a creamy sauce with leeks and tomatoes, served with fries or bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zucchini Chips",
+      "price": 11,
+      "description": "panko, parmesan, marinara sauce",
+      "simplified_description": "Crispy zucchini slices with cheese and sauce",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Bruschetta",
+      "price": 17,
+      "description": "mushroom ragu, whipped goat cheese, truffle oil, Grana Padano",
+      "simplified_description": "Toasted bread topped with mushroom mix and cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Arancini",
+      "price": 18,
+      "description": "white tail shrimp, pecorino, fennel, marinara sauce",
+      "simplified_description": "Fried rice balls with shrimp and cheese, served with sauce",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari",
+      "price": 18,
+      "description": "crispy calamari, onions, tomato, tzatziki sauce",
+      "simplified_description": "Fried squid served with onions and sauce",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatballs",
+      "price": 18,
+      "description": "beef, basil, marinara sauce, parmesan",
+      "simplified_description": "Beef meatballs in tomato sauce with cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 16,
+      "description": "choice of suicide, hot, medium, mild, BBQ, honey garlic, hot honey, salt & pepper, dill pickle, gochujang",
+      "simplified_description": "Fried chicken wings with various sauces",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kettle Chips",
+      "price": 14,
+      "description": "crispy chips, spinach and artichoke dip",
+      "simplified_description": "Chips served with a creamy dip",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tater Tots",
+      "price": 11,
+      "description": "BBQ ranch sauce",
+      "simplified_description": "Crispy potato bites with BBQ sauce",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nachos",
+      "price": 20,
+      "description": "tomatoes, green onions, peppers, olives, jalapenos, sour cream, salsa",
+      "simplified_description": "Tortilla chips topped with various toppings and sauces",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 18,
+      "description": "buttermilk marinated, plum sauce",
+      "simplified_description": "Fried chicken strips served with sauce",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Skins",
+      "price": 17,
+      "description": "bacon, sour cream, jalapenos, tomatoes, chives",
+      "simplified_description": "Potato halves topped with bacon and toppings",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Chili Chicken",
+      "price": 15,
+      "description": "with sweet chili sauce",
+      "simplified_description": "Chicken served with a sweet sauce",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Pork Ribs",
+      "price": 14,
+      "description": "teriyaki sauce",
+      "simplified_description": "Pork ribs served with a sweet sauce",
+      "category": "Bar Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Waldorf Salad",
+      "price": 20,
+      "description": "roasted chicken, grapes, celery, apples, candied walnuts, blue cheese, creamy red wine dressing",
+      "simplified_description": "Salad with chicken, fruits, nuts, and cheese",
+      "category": "Garden Party",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak and Salad",
+      "price": 21,
+      "description": "6oz sirloin, avocado, cherry tomato, cucumber, radish, gouda, grilled focaccia, balsamic dressing",
+      "simplified_description": "Steak served with a fresh salad and bread",
+      "category": "Garden Party",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 18,
+      "description": "romaine lettuce, tomatoes, cucumbers, onions, green peppers, feta, homemade dressing",
+      "simplified_description": "Salad with vegetables and feta cheese",
+      "category": "Garden Party",
+      "dietary_info": [],
+      "other_info": "Small available for $11"
+    },
+    {
+      "name": "Roasted Beet Salad",
+      "price": 19,
+      "description": "roasted beets, poached pears, arugula, feta cheese, hazelnut vinaigrette",
+      "simplified_description": "Salad with beets, pears, and cheese",
+      "category": "Garden Party",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 18,
+      "description": "romaine, croutons, dressing, parmesan",
+      "simplified_description": "Salad with romaine and Caesar dressing",
+      "category": "Garden Party",
+      "dietary_info": [],
+      "other_info": "Small available for $11\nAdd Chicken or Baby Shrimp - $7"
+    },
+    {
+      "name": "Orecchiette",
+      "price": 21,
+      "description": "ear-shaped pasta, chicken, mushroom, peas, parmesan cream sauce",
+      "simplified_description": "Pasta with chicken and vegetables in cream sauce",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti and Meat Balls",
+      "price": 24,
+      "description": "house-made meatballs, parmesan, tomato sauce",
+      "simplified_description": "Spaghetti with homemade meatballs and sauce",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Italian Carbonara",
+      "price": 21,
+      "description": "bacon, cracked pepper, farm-fresh eggs, parmesan",
+      "simplified_description": "Pasta with bacon and eggs in a creamy sauce",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Other Lasagna",
+      "price": 24,
+      "description": "traditional beef lasagna - fresh pasta, bolognese, bechamel, grilled focaccia",
+      "simplified_description": "Lasagna with beef and cheese, served with bread",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Risotto Primavera",
+      "price": 21,
+      "description": "asparagus, red peppers, zucchini, spring peas",
+      "simplified_description": "Creamy rice dish with vegetables",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Gnocchi",
+      "price": 22,
+      "description": "Italian sausage, mushrooms, red pepper, spinach, rose sauce",
+      "simplified_description": "Potato pasta with sausage and sauce",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Avocado Sandwich",
+      "price": 20,
+      "description": "grilled chicken, bacon, cucumber, tomato, avocado, arugula, fontina, honey Dijon",
+      "simplified_description": "Sandwich with grilled chicken and avocado",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": "All sandwiches include a choice of soup, fries, or house salad"
+    },
+    {
+      "name": "Bella Burger",
+      "price": 20,
+      "description": "bacon, mushrooms, cheese, lettuce, tomatoes, aioli",
+      "simplified_description": "Burger with bacon and mushrooms",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": "All sandwiches include a choice of soup, fries, or house salad"
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 22,
+      "description": "6oz sirloin, mushroom and rosemary ragu, focaccia",
+      "simplified_description": "Steak sandwich with mushroom sauce",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": "All sandwiches include a choice of soup, fries, or house salad"
+    },
+    {
+      "name": "Beef Dip",
+      "price": 24,
+      "description": "beef short rib, caramelized onion, horseradish Dijon aioli, baguette",
+      "simplified_description": "Beef sandwich with onions and sauce",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": "All sandwiches include a choice of soup, fries, or house salad"
+    },
+    {
+      "name": "Braised Lamb Shank",
+      "price": 32,
+      "description": "sweet pea risotto, honey roasted beets, goat cheese, orange",
+      "simplified_description": "Lamb shank served with risotto and beets",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cioppino",
+      "price": 29,
+      "description": "fish, mussels, clams, shrimp, scallops, lobster broth, fennel, baby potatoes, grilled focaccia",
+      "simplified_description": "Seafood stew with various shellfish and bread",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Parmigiana",
+      "price": 28,
+      "description": "breaded chicken breast, mozzarella, tomato sauce, fettuccine Alfredo, Caesar salad",
+      "simplified_description": "Breaded chicken with cheese and pasta",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "7oz Butcher Steak",
+      "price": 29,
+      "description": "lemon rosemary potatoes, green beans, arugula, cherry tomatoes, Grana Padano, balsamic reduction",
+      "simplified_description": "Steak served with potatoes and vegetables",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10oz Striploin",
+      "price": 44,
+      "description": "broccoli gratin, baked potato, sour cream, chives, bacon jam",
+      "simplified_description": "Striploin steak with sides",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 22,
+      "description": "beer batter, coleslaw, lemon caper aioli, french fries",
+      "simplified_description": "Fried fish with fries and coleslaw",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon",
+      "price": 32,
+      "description": "shrimp ravioli, spinach, lobster cream sauce, cherry tomato, zucchini, grilled lemon",
+      "simplified_description": "Salmon served with ravioli and vegetables",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mashed Potatoes",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seasonal Vegetables",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Mac & Cheese",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 2,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Village Greek Salad",
+      "price": 18,
+      "description": "the authentic Greek salad with no lettuce",
+      "simplified_description": "Traditional Greek salad without lettuce",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Spaghetti or Lasagna",
+      "price": 20,
+      "description": "rich meat sauce, mozzarella, garlic toast",
+      "simplified_description": "Baked pasta with meat sauce and cheese",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Souvlaki",
+      "price": 24,
+      "description": "marinated chicken, beef, or lamb, rice, market vegetables, Greek salad, pita, house-made tzatziki",
+      "simplified_description": "Grilled meat served with rice and salad",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Cordon Bleu",
+      "price": 24,
+      "description": "chicken breast, ham, swiss cheese, gourmet sauce, market vegetables",
+      "simplified_description": "Chicken with ham and cheese, served with vegetables",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Swiss Veal Mushroom",
+      "price": 23,
+      "description": "breaded veal, gourmet sauce, mushrooms, swiss cheese, market vegetables, choice of side dish",
+      "simplified_description": "Breaded veal with mushrooms and sauce",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Seafood Lasagna",
+      "price": 24,
+      "description": "shrimp, scallops, Ric's world-famous white sauce",
+      "simplified_description": "Lasagna with seafood and creamy sauce",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bella Roma Poutine",
+      "price": 15,
+      "description": "rich meat sauce, gravy, cheese, crispy fries",
+      "simplified_description": "Fries topped with meat sauce and cheese",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak & Spaghetti",
+      "price": 23,
+      "description": "6 oz sirloin, spaghetti & meat sauce, garlic toast",
+      "simplified_description": "Steak served with spaghetti and sauce",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak, Spaghetti, & Caesar Salad",
+      "price": 29,
+      "description": "6 oz sirloin, spaghetti & meat sauce, Caesar salad, garlic toast",
+      "simplified_description": "Steak with spaghetti and Caesar salad",
+      "category": "Bella Roma Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Pizza",
+      "price": 10,
+      "description": "choice of cheese, pepperoni, ham, or Hawaiian",
+      "simplified_description": "Pizza with various toppings for kids",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": "Available to children 12 years old and under and includes kids drink and ice cream when dining in"
+    },
+    {
+      "name": "Kids Chicken Fingers",
+      "price": 10,
+      "description": "house-made, plum sauce, choice of soup, salad, or fries",
+      "simplified_description": "Kids' chicken strips with sauce",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": "Available to children 12 years old and under and includes kids drink and ice cream when dining in"
+    },
+    {
+      "name": "Kids Fish & Chips",
+      "price": 10,
+      "description": "one piece, coleslaw, fries, lemon caper aioli",
+      "simplified_description": "Kids' fish with fries and coleslaw",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": "Available to children 12 years old and under and includes kids drink and ice cream when dining in"
+    },
+    {
+      "name": "Kids Spaghetti",
+      "price": 10,
+      "description": "with choice of meatballs, Alfredo cream sauce, or plain with butter",
+      "simplified_description": "Kids' spaghetti with options",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": "Available to children 12 years old and under and includes kids drink and ice cream when dining in"
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": 10,
+      "description": "elbow noodles, rich and creamy sauce",
+      "simplified_description": "Creamy pasta for kids",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": "Available to children 12 years old and under and includes kids drink and ice cream when dining in"
+    },
+    {
+      "name": "Mini Burgers",
+      "price": 10,
+      "description": "two baby burgers, cheese, ketchup, choice of fries, soup, or salad",
+      "simplified_description": "Two small burgers for kids",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": "Available to children 12 years old and under and includes kids drink and ice cream when dining in"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "restaurant": "lolasfilipinokitchen",
+  "total_items": 9,
+  "text_items": 9,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "Heritage Platter",
+      "price": "$95",
+      "description": "Chicken Inasal\n4 Pork BBQ\nFried Milk Fish\nLumpia Gulay\nLumpia Shanghai\nChicken Pancit\nSteamed Rice\nFried Plantains\nMango Slaw\nSalted Duck Eggs \nSalted shrimp fry (Bagaoong)\nTomatoes\n\nTray Dimensions \n21\" x 13 top \n1.5 \" Deep\n\nKamayan Feast for 4 ppl\n(or grazing platter for 6-8ppl)",
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Sapin Sapin",
+      "price": null,
+      "description": "3 layered glutinous rice. It's as tasty a s it is pretty",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Lumpia Gulay",
+      "price": "$2.50/each",
+      "description": "1 Lumpia gulay\n1 x 4 oz scoop steam rice\n1 x 4 oz scoop pancit\n1 x 4 oz scoop Stew",
+      "category": "APPETIZER",
+      "source": "text"
+    },
+    {
+      "name": "Beef Caldareta",
+      "price": "$140",
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Pineapple Chicken",
+      "price": "$120",
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Adobo",
+      "price": "$120",
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Chop Suey (Veg)",
+      "price": "$120",
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Pancit",
+      "price": "$120",
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Steam rice",
+      "price": "$120",
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    }
+  ]
+}

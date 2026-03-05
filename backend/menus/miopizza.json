@@ -1,0 +1,331 @@
+{
+  "restaurant": "miopizza",
+  "parsed_at": "2026-02-06T03:22:32.764192",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "MIO SPECIAL",
+      "price": 20.8,
+      "description": "Ground Beef, Ham, Salami, Pepperoni, Mushrooms, Onions, Green Peppers, Pineapples, Back Bacon",
+      "category": "FOOD",
+      "simplified_description": "Ground Beef, Ham, Salami, Pepperoni, Mushrooms, Onions, Green Peppers, Pineapple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE CLUB",
+      "price": 20.8,
+      "description": "Ground Beef, Mushrooms, Onions, Cheddar Cheese and Crispy Bacon",
+      "category": "FOOD",
+      "simplified_description": "Ground Beef, Mushrooms, Onions, Cheddar Cheese and Crispy Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO SPECIAL",
+      "price": 20.8,
+      "description": "Ground Beef, Pepperoni, Mushrooms, Onions, Green Peppers and Cheddar Cheese",
+      "category": "FOOD",
+      "simplified_description": "Ground Beef, Pepperoni, Mushrooms, Onions, Green Peppers and Cheddar Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEAFOOD DELUXE",
+      "price": 20.8,
+      "description": "Shrimps, Crab Pollocks, Onions, Mushrooms (choice of Cream Sauce or Homemade Pizza Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Shrimps, Crab Pollocks, Onions, Mushrooms (choice of Cream Sauce or Homemade Piz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HAWAIIAN DELUXE",
+      "price": 18.8,
+      "description": "Extra Ham, Extra Pineapples and Back Bacon",
+      "category": "FOOD",
+      "simplified_description": "Extra Ham, Extra Pineapples and Back Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAT LOVER",
+      "price": 18.8,
+      "description": "Pepperoni, Salami, Ground Beef, Ham and Back Bacon",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Salami, Ground Beef, Ham and Back Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIZZLING HOT",
+      "price": 18.8,
+      "description": "Italian Sausages, Hot Banana Peppers, Jalapenos Peppers and Onions with Spicy Pizza Sauce",
+      "category": "FOOD",
+      "simplified_description": "Italian Sausages, Hot Banana Peppers, Jalapenos Peppers and Onions with Spicy Pi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CLUB",
+      "price": 18.8,
+      "description": "Chicken Strip, Mushrooms, Pineapples, Green Peppers and Onions",
+      "category": "FOOD",
+      "simplified_description": "Chicken Strip, Mushrooms, Pineapples, Green Peppers and Onions",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SPECIAL",
+      "price": 18.8,
+      "description": "Spinach, Feta Cheese, Black Olives, Onions, Mushrooms, Fresh or Cooked Tomatoes",
+      "category": "FOOD",
+      "simplified_description": "Spinach, Feta Cheese, Black Olives, Onions, Mushrooms, Fresh or Cooked Tomatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN",
+      "price": 18.8,
+      "description": "Green Peppers, Pineapples, Black Olives, Onions, Mushrooms, Fresh or Cooked Tomatoes",
+      "category": "FOOD",
+      "simplified_description": "Green Peppers, Pineapples, Black Olives, Onions, Mushrooms, Fresh or Cooked Toma",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE LOVER",
+      "price": 18.8,
+      "description": "Extra Mozzarella, Cheddar Cheese and Feta Cheese",
+      "category": "FOOD",
+      "simplified_description": "Extra Mozzarella, Cheddar Cheese and Feta Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ CHICKEN",
+      "price": 18.8,
+      "description": "Chicken Strip, Mushrooms, Onions drizzle with Smoky BBQ Sauce on top",
+      "category": "FOOD",
+      "simplified_description": "Chicken Strip, Mushrooms, Onions drizzle with Smoky BBQ Sauce on top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUFFALO CHICKEN",
+      "price": 18.8,
+      "description": "Chicken Strip, Mushrooms, Hot Banana Peppers with Spicy Pizza Sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken Strip, Mushrooms, Hot Banana Peppers with Spicy Pizza Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Sauce Lasagna",
+      "price": 13.2,
+      "description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated with a golden layer of crispy mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Sauce Spaghetti",
+      "price": 13.2,
+      "description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated with a golden layer of crispy mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Lasagna",
+      "price": 13.9,
+      "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
+      "category": "FOOD",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Spaghetti",
+      "price": 13.9,
+      "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
+      "category": "FOOD",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Lasagna",
+      "price": 14.9,
+      "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
+      "category": "FOOD",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Spaghetti",
+      "price": 14.9,
+      "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
+      "category": "FOOD",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add Meatballs",
+      "price": 3.1,
+      "description": "Extra Cheese",
+      "category": "OTHER",
+      "simplified_description": "Extra Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 2.2,
+      "description": "Garlic Toast",
+      "category": "OTHER",
+      "simplified_description": "Garlic Toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 2.6,
+      "description": "2 Slices",
+      "category": "OTHER",
+      "simplified_description": "2 Slices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese or Pizza Toast",
+      "price": 3.9,
+      "description": "2 Slices",
+      "category": "OTHER",
+      "simplified_description": "2 Slices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 7.95,
+      "description": "romaine lettuce, croutons, parmesan cheese, bacon bits and grandma receipe salad dressing",
+      "category": "FOOD",
+      "simplified_description": "romaine lettuce, croutons, parmesan cheese, bacon bits and grandma receipe salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 12.95,
+      "description": "romaine lettuce, croutons, parmesan cheese, bacon bits and grandma receipe salad dressing",
+      "category": "FOOD",
+      "simplified_description": "romaine lettuce, croutons, parmesan cheese, bacon bits and grandma receipe salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 8.35,
+      "description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Greek dressing.",
+      "category": "FOOD",
+      "simplified_description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Gree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 13.3,
+      "description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Greek dressing.",
+      "category": "FOOD",
+      "simplified_description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Gree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add protein",
+      "price": 2.6,
+      "description": "Grill Chicken Strip  Shrimp",
+      "category": "OTHER",
+      "simplified_description": "Grill Chicken Strip  Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add protein",
+      "price": 4.8,
+      "description": "Grill Chicken Strip  Shrimp",
+      "category": "OTHER",
+      "simplified_description": "Grill Chicken Strip  Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": 16.5,
+      "description": "Hot & Spicy, BBQ, Salt & Pepper, Lemon Pepper, Honey Garlic",
+      "category": "FOOD",
+      "simplified_description": "Hot & Spicy, BBQ, Salt & Pepper, Lemon Pepper, Honey Garlic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dips",
+      "price": 1.5,
+      "description": "Ranch or Hot Sauce",
+      "category": "OTHER",
+      "simplified_description": "Ranch or Hot Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "300ml",
+      "price": 2.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 pack of 300ml",
+      "price": 9.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 litre",
+      "price": 4.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coca-cola, Diet Coca-cola, Ginger Ale, Root Beer, Orange, Spirit, Pepsi",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle Water",
+      "price": 2.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

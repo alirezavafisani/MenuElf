@@ -1,0 +1,214 @@
+{
+  "restaurant": "tastyhalalstore",
+  "parsed_at": "2026-02-06T04:25:54.513301",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "Tandoor Bread",
+      "price": 6.99,
+      "description": "Tandoor Bread",
+      "category": "BREAD",
+      "simplified_description": "Tandoor Bread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawook",
+      "price": 9.99,
+      "description": "Shish Tawook",
+      "category": "HALAL POULTRY",
+      "simplified_description": "Shish Tawook",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samoon",
+      "price": 5.99,
+      "description": "Samoon",
+      "category": "UNCATEGORIZED",
+      "simplified_description": "Samoon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saj Bread",
+      "price": 6.99,
+      "description": "Saj Bread",
+      "category": "BREAD",
+      "simplified_description": "Saj Bread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rohu Fish",
+      "price": 59.99,
+      "description": "Rohu Fish",
+      "category": "FISH",
+      "simplified_description": "Rohu Fish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ribeye Steaks Beef Halal",
+      "price": 17.99,
+      "description": "Ribeye Steaks Beef Halal",
+      "category": "HALAL MEAT",
+      "simplified_description": "Ribeye Steaks Beef Halal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pita Bread Whole Wheat",
+      "price": 3.99,
+      "description": "Pita Bread Whole Wheat",
+      "category": "BREAD",
+      "simplified_description": "Pita Bread Whole Wheat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pita Bread White",
+      "price": 3.99,
+      "description": "Pita Bread White",
+      "category": "BREAD",
+      "simplified_description": "Pita Bread White",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasterma Halal",
+      "price": 19.0,
+      "description": "Pasterma Halal",
+      "category": "HALAL MEAT",
+      "simplified_description": "Pasterma Halal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Muhamara Pie (Vegan)",
+      "price": 7.0,
+      "description": "Muhamara Pie (Vegan)",
+      "category": "BAKERY",
+      "simplified_description": "Muhamara Pie (Vegan)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Pie",
+      "price": 8.99,
+      "description": "Meat Pie",
+      "category": "BAKERY",
+      "simplified_description": "Meat Pie",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Short Ribs",
+      "price": 14.99,
+      "description": "Beef Short Ribs",
+      "category": "HALAL MEAT",
+      "simplified_description": "Beef Short Ribs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Stew Halal",
+      "price": 9.99,
+      "description": "Beef Stew Halal",
+      "category": "HALAL MEAT",
+      "simplified_description": "Beef Stew Halal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burger",
+      "price": 20.99,
+      "description": "Burger",
+      "category": "HALAL MEAT",
+      "simplified_description": "Burger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charcoal Coconut Cubes",
+      "price": 17.99,
+      "description": "Charcoal Coconut Cubes",
+      "category": "SHISHA ACCESSORIES",
+      "simplified_description": "Charcoal Coconut Cubes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charcoal Starlight Tablet",
+      "price": 17.99,
+      "description": "Charcoal Starlight Tablet",
+      "category": "SHISHA ACCESSORIES",
+      "simplified_description": "Charcoal Starlight Tablet",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charcoal Three Kings Red",
+      "price": 19.0,
+      "description": "Charcoal Three Kings Red",
+      "category": "SHISHA ACCESSORIES",
+      "simplified_description": "Charcoal Three Kings Red",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pie",
+      "price": 9.99,
+      "description": "Cheese Pie",
+      "category": "BAKERY",
+      "simplified_description": "Cheese Pie",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Breast Boneless Halal",
+      "price": 8.99,
+      "description": "Chicken Breast Boneless Halal",
+      "category": "HALAL POULTRY",
+      "simplified_description": "Chicken Breast Boneless Halal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Drumsticks Halal",
+      "price": 4.99,
+      "description": "Chicken Drumsticks Halal",
+      "category": "HALAL POULTRY",
+      "simplified_description": "Chicken Drumsticks Halal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Drumsticks Marinated",
+      "price": 9.99,
+      "description": "Chicken Drumsticks Marinated",
+      "category": "HALAL POULTRY",
+      "simplified_description": "Chicken Drumsticks Marinated",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Legs Halal",
+      "price": 6.99,
+      "description": "Chicken Legs Halal",
+      "category": "HALAL POULTRY",
+      "simplified_description": "Chicken Legs Halal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings Halal",
+      "price": 5.99,
+      "description": "Chicken Wings Halal",
+      "category": "HALAL POULTRY",
+      "simplified_description": "Chicken Wings Halal",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

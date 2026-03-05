@@ -1,0 +1,711 @@
+{
+  "restaurant": "annabelleskitchen",
+  "parsed_at": "2026-02-06T00:38:33.941767",
+  "item_count": 55,
+  "items": [
+    {
+      "name": "arancini",
+      "price": 16.0,
+      "description": "winter squash, fontina, balsamic, fig, sage",
+      "category": "ANTIPASTI",
+      "simplified_description": "Fried rice balls with winter squash, cheese, fig, and sage.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "whipped ricotta",
+      "price": 17.0,
+      "description": "truffle honey, grilled focaccia",
+      "category": "ANTIPASTI",
+      "simplified_description": "Creamy ricotta with truffle honey served with grilled bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "nonna’s meatballs",
+      "price": 18.0,
+      "description": "beef meatballs, tomato sauce, parmesan, polenta",
+      "category": "ANTIPASTI",
+      "simplified_description": "Beef meatballs in tomato sauce with parmesan and polenta.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "caesar insalata",
+      "price": 17.0,
+      "description": "romaine, baby gem lettuce, anchovy dressing, crispy artichokes, focaccia croutons",
+      "category": "ANTIPASTI",
+      "simplified_description": "Caesar salad with anchovy dressing, artichokes, and croutons.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "mussels",
+      "price": 23.0,
+      "description": "\"arrabbiata\", calabrian chili, bacon, kale, tomato sauce, focaccia",
+      "category": "ANTIPASTI",
+      "simplified_description": "Spicy mussels cooked with bacon, kale, and tomato sauce.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "bruschetta",
+      "price": 15.0,
+      "description": "roasted red peppers, arugula, parmesan, balsamic, grilled focaccia",
+      "category": "ANTIPASTI",
+      "simplified_description": "Grilled bread topped with roasted peppers, arugula, and parmesan.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "grilled organic carrots",
+      "price": 16.0,
+      "description": "aged balsamic, burrata, pinenuts",
+      "category": "ANTIPASTI",
+      "simplified_description": "Grilled carrots served with burrata cheese and pine nuts.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "panzanella insalata",
+      "price": 17.0,
+      "description": "tomatoes, cucumbers, baby bell peppers, olives, crispy capers, pickled onion, asiago, focaccia croutons, arugula, \"italian dressing\"",
+      "category": "ANTIPASTI",
+      "simplified_description": "Italian bread salad with vegetables, olives, cheese, and dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "beet insalata",
+      "price": 17.0,
+      "description": "whipped goat cheese, citrus, pistachio, white balsamic dressing",
+      "category": "ANTIPASTI",
+      "simplified_description": "Beet salad with goat cheese, pistachios, and citrus dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "eggpant parmesan",
+      "price": 18.0,
+      "description": "tomato sauce, mozzarella, parmesan, basil",
+      "category": "ANTIPASTI",
+      "simplified_description": "Eggplant baked with tomato sauce and cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "rigatoni",
+      "price": 27.0,
+      "description": "silver sage beef bolognese, parmesan",
+      "category": "PASTA",
+      "simplified_description": "Pasta with beef bolognese sauce and parmesan cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "squid ink linguini",
+      "price": 28.0,
+      "description": "prawns, crushed tomatoes, white wine, olive oil",
+      "category": "PASTA",
+      "simplified_description": "Black linguini with prawns in tomato and white wine sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "raditore",
+      "price": 25.0,
+      "description": "vodka sauce, tomatoes, chili, asiago, ricotta",
+      "category": "PASTA",
+      "simplified_description": "Pasta with vodka sauce, chili, and creamy cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "campanelle",
+      "price": 25.0,
+      "description": "basil pistou, new potatoes, green beans, pisatchio crumb, parmesan cream",
+      "category": "PASTA",
+      "simplified_description": "Pasta with basil sauce, potatoes, green beans, and pistachio crumb.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "linguine",
+      "price": 24.0,
+      "description": "\"aglio e olio, chili, parsley, parmesan bread crumbs",
+      "category": "PASTA",
+      "simplified_description": "Linguine with garlic, chili, parsley, and parmesan breadcrumbs.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "strozzapreti",
+      "price": 26.0,
+      "description": "silver sage pork sugo, 'ndja, kaleparmesan cream",
+      "category": "PASTA",
+      "simplified_description": "Pasta with pork sauce, spicy sausage, kale, and parmesan cream.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "everybody knows",
+      "price": 21.0,
+      "description": "fior di latte, basil pistou, tomato sauce",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with mozzarella, basil sauce, and tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "about today",
+      "price": 24.0,
+      "description": "mushrooms, caramelized onions, goat cheese, truffle honey, garlic confit, arugula, fior di latte, parmesan cream sauce",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with mushrooms, onions, goat cheese, honey, and arugula.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "mind your manners",
+      "price": 25.0,
+      "description": "pepperoni, mushrooms, fior di latte, chili honey, tomato sauce",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with pepperoni, mushrooms, mozzarella, and spicy chili honey.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "ventura highway",
+      "price": 25.0,
+      "description": "bell peppers, pickled red onion, kale, cherry tomatoes, chili crisp, goat cheese, fior di latte, tomato sauce",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with vegetables, chili crisp, goat cheese, and mozzarella.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "night fever",
+      "price": 26.0,
+      "description": "beef bresaola, spanish olives, artichokes, oregano, roasted garlic, provelone, fior di latte, tomato sauce",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with cured beef, olives, artichokes, garlic, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "this is it",
+      "price": 26.0,
+      "description": "mortadella, italian pork sausage, pepperoncoini, pistachio, fior di latte, goat cheese, tomato sauce",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with pork meats, spicy peppers, pistachios, and cheeses.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "cheese pizza",
+      "price": 16.0,
+      "description": "tomato sauce, mozzarella",
+      "category": "KIDS MENU",
+      "simplified_description": "Simple pizza with tomato sauce and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "spaghetti & meatballs",
+      "price": 16.0,
+      "description": "tomato sauce, parmesan",
+      "category": "KIDS MENU",
+      "simplified_description": "Spaghetti with meatballs, tomato sauce, and parmesan cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "kids mac & cheese",
+      "price": 16.0,
+      "description": "parmesan cream",
+      "category": "KIDS MENU",
+      "simplified_description": "Macaroni pasta in a creamy parmesan cheese sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "tiramisu",
+      "price": 13.0,
+      "description": "mascarpone, espresso, amaretto",
+      "category": "DESSERT",
+      "simplified_description": "Coffee-flavored dessert with mascarpone cheese and amaretto.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "apple tart",
+      "price": 13.0,
+      "description": "almond crust, vanilla ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Apple tart with almond crust served with vanilla ice cream.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ricotta cheesecake",
+      "price": 13.0,
+      "description": "limoncello, berry coulis",
+      "category": "DESSERT",
+      "simplified_description": "Cheesecake with ricotta, limoncello, and berry sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "affogato",
+      "price": 9.0,
+      "description": "vanilla gelato, espresso, cookie",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla gelato topped with espresso and a cookie.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "coconut pannacotta",
+      "price": 13.0,
+      "description": "rhubarb coulis",
+      "category": "DESSERT",
+      "simplified_description": "Coconut panna cotta served with rhubarb sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "pizza kit",
+      "price": 30.0,
+      "description": "*choice of one: margherita or pepperoni",
+      "category": "TAKE & BAKE FOR 2",
+      "simplified_description": "Kit includes either margherita or pepperoni pizza for two.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "negroni classic",
+      "price": null,
+      "description": "tanqueray gin, campari, petroni red vermouth, orange",
+      "category": "COCKTAILS",
+      "simplified_description": "Classic cocktail with gin, campari, vermouth, and orange.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "negroni bianco",
+      "price": null,
+      "description": "malfy rosa gin, bitter bianco, petroni sweet white vermouth, grapefruit",
+      "category": "COCKTAILS",
+      "simplified_description": "White negroni with gin, bitter bianco, vermouth, and grapefruit.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "randy",
+      "price": null,
+      "description": "tequila bianco, campari, grapefruit juice, lime juice",
+      "category": "COCKTAILS",
+      "simplified_description": "Cocktail with tequila, campari, grapefruit, and lime juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "maple old fashioned",
+      "price": null,
+      "description": "old grandad bourbon, maple syrup, bitters",
+      "category": "COCKTAILS",
+      "simplified_description": "Old fashioned cocktail with bourbon, maple syrup, and bitters.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "lucy",
+      "price": null,
+      "description": "flor de cana white rum, marashino, lime",
+      "category": "COCKTAILS",
+      "simplified_description": "Cocktail with white rum, maraschino, and lime.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "sole spritz",
+      "price": null,
+      "description": "limoncello, prosecco, soda, lemon",
+      "category": "COCKTAILS",
+      "simplified_description": "Refreshing spritz with limoncello, prosecco, soda, and lemon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "aperol spritz",
+      "price": null,
+      "description": "aperol, prosecco, soda, orange",
+      "category": "COCKTAILS",
+      "simplified_description": "Classic spritz with aperol, prosecco, soda, and orange.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "hugo spritz",
+      "price": null,
+      "description": "elderflower liquor, prosecco, soda, lime, mint",
+      "category": "COCKTAILS",
+      "simplified_description": "Floral spritz with elderflower, prosecco, soda, lime, and mint.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "espresso martini",
+      "price": null,
+      "description": "three olives espresso vodka, coole swan, kahlua, espresso",
+      "category": "COCKTAILS",
+      "simplified_description": "Cocktail with espresso vodka, coole swan, kahlua, and espresso.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "trolley 5 turntable lager",
+      "price": null,
+      "description": "4.9% - 355ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "Lager beer with 4.9% alcohol, 355ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ol' beautiful, okami kasu, japanese ale",
+      "price": null,
+      "description": "5% - 355ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "Japanese ale beer with 5% alcohol, 355ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "last best, IPA",
+      "price": null,
+      "description": "6.5% - 355ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "India Pale Ale beer with 6.5% alcohol, 355ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "fahr, copper",
+      "price": null,
+      "description": "5.3% - 355ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "Copper ale beer with 5.3% alcohol, 355ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "33 acres of sunshine, french blanche",
+      "price": null,
+      "description": "5% - 355ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "French blanche beer with 5% alcohol, 355ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "peroni, lager",
+      "price": null,
+      "description": "5% - 500ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "A 5% alcohol lager beer served in a 500ml bottle.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "menabrea, bionda lager",
+      "price": null,
+      "description": "4.8% - 330ml",
+      "category": "NOT DRAUGHT BEER",
+      "simplified_description": "A 4.8% alcohol lager beer served in a 330ml bottle.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "annex craft soda",
+      "price": null,
+      "description": "ginger beer, saskatoon lemonade, root beer, cola",
+      "category": "ZERO PROOF",
+      "simplified_description": "A selection of craft sodas including ginger beer and cola.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "phony negroni",
+      "price": null,
+      "description": "undone not gin, undone not white vermouth, undone not bitter",
+      "category": "ZERO PROOF",
+      "simplified_description": "A non-alcoholic version of a Negroni cocktail.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "phony aperol spritz",
+      "price": null,
+      "description": "undone not white vermouth, colibri spumante, orange",
+      "category": "ZERO PROOF",
+      "simplified_description": "A non-alcoholic Aperol Spritz with spumante and orange.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "phone hugo spritz",
+      "price": null,
+      "description": "1885 giffard elderflower 0.0%, colibri spumante, lime, mint",
+      "category": "ZERO PROOF",
+      "simplified_description": "A non-alcoholic Hugo Spritz with elderflower, lime, and mint.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "colibri",
+      "price": null,
+      "description": "0.0% spumante, italy",
+      "category": "ZERO PROOF",
+      "simplified_description": "A 0.0% alcohol sparkling spumante from Italy.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "peroni",
+      "price": null,
+      "description": "0.0% - 330ml",
+      "category": "ZERO PROOF",
+      "simplified_description": "A 0.0% alcohol beer served in a 330ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "tuesday, pale ale",
+      "price": null,
+      "description": "0.5% - 355ml",
+      "category": "ZERO PROOF",
+      "simplified_description": "A pale ale with 0.5% alcohol in a 355ml bottle.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "bibi bitter aperitivo soda",
+      "price": null,
+      "description": "",
+      "category": "ZERO PROOF",
+      "simplified_description": "A bitter aperitivo style soda with zero alcohol.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

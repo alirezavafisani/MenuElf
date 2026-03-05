@@ -1,0 +1,167 @@
+{
+  "restaurant": "deluxedhabayyc",
+  "parsed_at": "2026-02-06T01:56:38.165786",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "MASALA PAPAD",
+      "price": 4.99,
+      "description": "Fried/Baked papad with flavorful masala.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy fried or baked papad topped with spicy masala.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE SPRING ROLL (8pcs)",
+      "price": 9.99,
+      "description": "Spiced stir-fried vegetables wrapped in Indian phyllo pastry fried till crisp, served with our special sweet chili sauce.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy fried vegetable spring rolls served with sweet chili sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "VEGETABLE PAKODA",
+      "price": 7.99,
+      "description": "Seasonal assorted Indian vegetables coated with chickpea flour batter and fried till golden brown served with house made chutneys.",
+      "category": "APPETIZER",
+      "simplified_description": "Fried assorted vegetables in chickpea batter served with chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALOO TIKKI CHAAT",
+      "price": 7.99,
+      "description": "Delicately spiced and shallow fried potato patty cutlets served with chickpea curry smothered with in house chutneys and condiments.",
+      "category": "APPETIZER",
+      "simplified_description": "Spiced fried potato patties with chickpea curry and chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER PAKORA",
+      "price": 10.99,
+      "description": "Stuffed pressed cottage cheese dipped in gram flour batter and deep fried, served with in house chutneys.",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried cottage cheese fritters served with chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAMOSA CHANA CHAAT",
+      "price": 7.99,
+      "description": "Our Savoury Fried pastry stuffed with chef special spice tempered potato and pea served with chickpea curry smothered with in house chutneys and condiments.",
+      "category": "APPETIZER",
+      "simplified_description": "Fried pastry stuffed with spiced potatoes and peas, served with chickpea curry.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DAL MAKHNI",
+      "price": 13.99,
+      "description": "Black urad lentil simmered overnight with butter, dry fenugreek leaves and vine ripe fresh tomato paste.",
+      "category": "MAIN DISH",
+      "simplified_description": "Slow-cooked black lentils in buttery tomato sauce with fenugreek.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHANA MASALA",
+      "price": 13.99,
+      "description": "Amritsari style choley, tempered with ancient punjabi spices mix, browned onion and slow roasted crushed tomato",
+      "category": "MAIN DISH",
+      "simplified_description": "Spiced chickpea curry with browned onions and roasted tomatoes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DAL TADKA",
+      "price": 13.99,
+      "description": "Trio lentils gently boiled and tempered with cumin seeds in hot ghee & whole red chilies",
+      "category": "MAIN DISH",
+      "simplified_description": "Mixed lentils tempered with cumin, ghee, and whole red chilies.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "ALOO GOBHI",
+      "price": 13.99,
+      "description": "Juicy and flavorful ribeye steak cooked to your liking, served with mashed potatoes and grilled vegetables",
+      "category": "MAIN DISH",
+      "simplified_description": "Steak served with mashed potatoes and grilled vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TIKKA MASALA",
+      "price": 15.99,
+      "description": "Chicken cooked in tomato base gravy with cream and other spices.",
+      "category": "MAIN DISH",
+      "simplified_description": "Chicken in creamy tomato-based spiced gravy.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 14.99,
+      "description": "Overnight marinated chicken, layered with perfumed basmati rice sealed and cooked on a slow fire using age old dum method of cooking.",
+      "category": "MAIN DISH",
+      "simplified_description": "Slow-cooked marinated chicken layered with fragrant basmati rice.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "restaurant": "johnchinese",
+  "parsed_at": "2026-02-06T02:48:01.474021",
+  "item_count": 10,
+  "items": [
+    {
+      "name": "Beef with Broccoli 百加利牛",
+      "price": 17.95,
+      "description": "Beef with Broccoli 百加利牛",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried beef with fresh broccoli in a savory sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll (1 pc) 春卷",
+      "price": 2.5,
+      "description": "Spring Roll (1 pc) 春卷",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy fried roll filled with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork with Pineapple 咕嚕咕嚕肉",
+      "price": 17.95,
+      "description": "Sweet & Sour Pork with Pineapple 咕嚕咕嚕肉",
+      "category": "FOOD",
+      "simplified_description": "Pork cooked in sweet and sour sauce with pineapple chunks.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Roll (1 pc) 春卷",
+      "price": 3.0,
+      "description": "Egg Roll (1 pc) 春卷",
+      "category": "APPETIZER",
+      "simplified_description": "Fried roll filled with meat and vegetables.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chow Mein 雞炒麵",
+      "price": 16.95,
+      "description": "Chicken Chow Mein 雞炒麵",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with chicken and vegetables.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef 牛辣",
+      "price": 19.95,
+      "description": "Ginger Beef 牛辣",
+      "category": "FOOD",
+      "simplified_description": "Beef stir-fried with ginger and spicy sauce.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shanghai Noodles",
+      "price": null,
+      "description": "Free Shanghai Noodles with orders of $60+",
+      "category": "OTHER",
+      "simplified_description": "Free Shanghai Noodles with qualifying orders.",
+      "dietary_info": [],
+      "other_info": "Free with orders of $60+"
+    },
+    {
+      "name": "Sweet & Sour Chicken Ball",
+      "price": null,
+      "description": "Free Sweet & Sour Chicken Ball with orders of $70+",
+      "category": "OTHER",
+      "simplified_description": "Free sweet and sour chicken ball with qualifying orders.",
+      "dietary_info": [],
+      "other_info": "Free with orders of $70+"
+    },
+    {
+      "name": "Ginger Beef",
+      "price": null,
+      "description": "Free Ginger Beef with orders of $80+",
+      "category": "OTHER",
+      "simplified_description": "Free ginger beef with qualifying orders.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Free with orders of $80+"
+    },
+    {
+      "name": "Salt & Pepper Squid",
+      "price": null,
+      "description": "Free Salt & Pepper Squid with orders of $100+ (before GST).",
+      "category": "OTHER",
+      "simplified_description": "Free salt and pepper squid with qualifying orders.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Free with orders of $100+ (before GST)"
+    }
+  ]
+}

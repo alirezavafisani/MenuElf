@@ -1,0 +1,533 @@
+{
+  "restaurant": "casacatrina",
+  "parsed_at": "2026-02-06T01:39:09.358221",
+  "item_count": 47,
+  "items": [
+    {
+      "name": "MARGARITAS (1oz)",
+      "price": 6.0,
+      "description": "$6 MARGARITAS (1oz)",
+      "category": "DRINK",
+      "simplified_description": "A small 1oz margarita cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGARITAS (2oz)",
+      "price": 9.0,
+      "description": "$9 MARGARITAS (2oz)",
+      "category": "DRINK",
+      "simplified_description": "A larger 2oz margarita cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEZCALITAS (2oz)",
+      "price": 9.0,
+      "description": "$9 MEZCALITAS (2oz)",
+      "category": "DRINK",
+      "simplified_description": "A 2oz mezcal-based cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ENCHILADAS",
+      "price": 16.0,
+      "description": "$16 ENCHILADAS",
+      "category": "FOOD",
+      "simplified_description": "Traditional Mexican enchiladas dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA",
+      "price": 6.0,
+      "description": "$6 CORONA",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Corona beer.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NACHOS",
+      "price": 10.5,
+      "description": "$10.5 NACHOS",
+      "category": "FOOD",
+      "simplified_description": "Classic nachos with toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NACHOS FIESTA",
+      "price": 23.5,
+      "description": "$23.5 NACHOS FIESTA",
+      "category": "FOOD",
+      "simplified_description": "Large nachos platter with fiesta toppings.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "DOS EQUIS LAGER",
+      "price": 6.5,
+      "description": "$6.5 DOS EQUIS LAGER",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Dos Equis Lager beer.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tortas",
+      "price": 10.0,
+      "description": "$10 Tortas",
+      "category": "FOOD",
+      "simplified_description": "Mexican sandwich called torta.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MODELO ESPECIAL",
+      "price": 6.5,
+      "description": "$6.5 MODELO ESPECIAL",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Modelo Especial beer.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NEGRA MODELO",
+      "price": 6.5,
+      "description": "$6.5 NEGRA MODELO",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Negra Modelo beer.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE WINE(5OZ)",
+      "price": 5.0,
+      "description": "$5 WHITE WINE(5OZ)",
+      "category": "DRINK",
+      "simplified_description": "A 5oz glass of white wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RED WINE(5OZ)",
+      "price": 5.5,
+      "description": "$5.5 RED WINE(5OZ)",
+      "category": "DRINK",
+      "simplified_description": "A 5oz glass of red wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOJITOS",
+      "price": 10.0,
+      "description": "$10 MOJITOS",
+      "category": "DRINK",
+      "simplified_description": "Classic mojito cocktail with mint and lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RUMCHATA",
+      "price": 9.0,
+      "description": "$9 RUMCHATA",
+      "category": "DRINK",
+      "simplified_description": "RumChata cream liqueur drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CUBA LIBRE",
+      "price": 8.0,
+      "description": "$8 CUBA LIBRE",
+      "category": "DRINK",
+      "simplified_description": "Classic rum and cola cocktail with lime.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHARRO NEGRO",
+      "price": 9.0,
+      "description": "$9 CHARRO NEGRO",
+      "category": "DRINK",
+      "simplified_description": "Rum and cola cocktail with lime and a salted rim.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PALOMA",
+      "price": 8.0,
+      "description": "$8 PALOMA",
+      "category": "DRINK",
+      "simplified_description": "Tequila mixed with grapefruit soda and lime.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MOCKIN BIRD",
+      "price": 10.0,
+      "description": "$10 MOCKIN BIRD",
+      "category": "DRINK",
+      "simplified_description": "Non-alcoholic cocktail with citrus and sweet flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESARS",
+      "price": 9.0,
+      "description": "$9 CAESARS",
+      "category": "DRINK",
+      "simplified_description": "Spicy tomato-based cocktail with clamato and vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "MICHELADA MIX + BEER OF CHOICE",
+      "price": 1.5,
+      "description": "$1.5 MICHELADA MIX + BEER OF CHOICE",
+      "category": "DRINK",
+      "simplified_description": "Spicy and tangy michelada mix served with your beer choice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "MICHELADA CHAMOY MIX + BEER OF CHOICE",
+      "price": 2.0,
+      "description": "$2 MICHELADA CHAMOY MIX + BEER OF CHOICE",
+      "category": "DRINK",
+      "simplified_description": "Tangy and spicy chamoy michelada mix served with your beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "DON JULIO BLANCO",
+      "price": 11.0,
+      "description": "DON JULIO BLANCO . . . . . . 11",
+      "category": "OTHER",
+      "simplified_description": "Premium blanco tequila served neat or on the rocks.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DON JULIO REPOSADO",
+      "price": 12.0,
+      "description": "DON JULIO REPOSADO . . . . 12",
+      "category": "OTHER",
+      "simplified_description": "Aged reposado tequila with smooth, rich flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DON JULIO AÑEJO",
+      "price": 13.0,
+      "description": "DON JULIO AÑEJO . . . . . . . . 13",
+      "category": "OTHER",
+      "simplified_description": "Añejo tequila aged for a rich and complex taste.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HUIZAR REPOSADO",
+      "price": 12.0,
+      "description": "HUIZAR REPOSADO . . . . . . 12",
+      "category": "OTHER",
+      "simplified_description": "Reposado tequila with balanced oak and agave flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HUIZAR CRISTALINO",
+      "price": 13.0,
+      "description": "HUIZAR CRISTALINO . . . . . 13",
+      "category": "OTHER",
+      "simplified_description": "Filtered aged tequila with a smooth, clear finish.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HUIZAR AÑEJO",
+      "price": 14.0,
+      "description": "HUIZAR AÑEJO . . . . . . . . 14",
+      "category": "OTHER",
+      "simplified_description": "Añejo tequila aged for a rich and smooth flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DON JULIO 1942",
+      "price": 25.0,
+      "description": "DON JULIO 1942 . . . . . . . . 25",
+      "category": "OTHER",
+      "simplified_description": "Luxury añejo tequila with deep, complex flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CENTENARIO PLATA",
+      "price": 11.0,
+      "description": "CENTENARIO PLATA . . . . . . 11",
+      "category": "OTHER",
+      "simplified_description": "Silver tequila with fresh and crisp agave taste.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CENTENARIO REPOSADO",
+      "price": 12.0,
+      "description": "CENTENARIO REPOSADO . . . . 12",
+      "category": "OTHER",
+      "simplified_description": "A type of reposado tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CENTENARIO AÑEJO",
+      "price": 13.0,
+      "description": "CENTENARIO AÑEJO . . . . . . . . 13",
+      "category": "OTHER",
+      "simplified_description": "A type of añejo tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MALA VIDA BLANCO",
+      "price": 11.0,
+      "description": "MALA VIDA BLANCO . . . . 11",
+      "category": "OTHER",
+      "simplified_description": "A type of blanco tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MALA VIDA REPOSADO",
+      "price": 12.0,
+      "description": "MALA VIDA REPOSADO . . . . 12",
+      "category": "OTHER",
+      "simplified_description": "A type of reposado tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MI FAMILIA REPOSADO",
+      "price": 12.0,
+      "description": "MI FAMILIA REPOSADO . . . . 12",
+      "category": "OTHER",
+      "simplified_description": "A type of reposado tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MI FAMILIA AÑEJO",
+      "price": 13.0,
+      "description": "MI FAMILIA AÑEJO . . . . . . . . . . 13",
+      "category": "OTHER",
+      "simplified_description": "A type of añejo tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MI FAMILIA REPOSADO CRISTALINO",
+      "price": 14.0,
+      "description": "MI FAMILIA REPOSADO CRISTALINO . . 14",
+      "category": "OTHER",
+      "simplified_description": "A clear reposado tequila called cristalino.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MI FAMILIA AÑEJO CRISTALINO",
+      "price": 16.0,
+      "description": "MI FAMILIA AÑEJO CRISTALINO . . . . . 16",
+      "category": "OTHER",
+      "simplified_description": "A clear añejo tequila called cristalino.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MI FAMILIA AÑEJO SUPREMO",
+      "price": 20.0,
+      "description": "MI FAMILIA AÑEJO SUPREMO . . . . 20",
+      "category": "OTHER",
+      "simplified_description": "A premium añejo tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HERRADURA GRAN RESERVA",
+      "price": 50.0,
+      "description": "HERRADURA GRAN RESERVA . . . . . . . 50",
+      "category": "OTHER",
+      "simplified_description": "A high-end gran reserva tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRAND LOVE BLANCO",
+      "price": 14.0,
+      "description": "GRAND LOVE BLANCO . . . . . . 14",
+      "category": "OTHER",
+      "simplified_description": "A blanco style tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRAND LOVE REPOSADO",
+      "price": 15.0,
+      "description": "GRAND LOVE REPOSADO . . . . 15",
+      "category": "OTHER",
+      "simplified_description": "A reposado style tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOSE CUERVO SILVER",
+      "price": 8.0,
+      "description": "JOSE CUERVO SILVER . . . . . 8",
+      "category": "OTHER",
+      "simplified_description": "A silver (blanco) tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOSE CUERVO GOLD",
+      "price": 7.0,
+      "description": "JOSE CUERVO GOLD . . . . . . . 7",
+      "category": "OTHER",
+      "simplified_description": "A gold tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TERAMANA BLANCO",
+      "price": 8.0,
+      "description": "TERAMANA BLANCO . . . . . 8",
+      "category": "OTHER",
+      "simplified_description": "A blanco tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TERAMANA REPOSADO",
+      "price": 9.0,
+      "description": "TERAMANA REPOSADO . . . . 9",
+      "category": "OTHER",
+      "simplified_description": "A type of reposado tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CINCORO AÑEJO",
+      "price": 15.0,
+      "description": "CINCORO AÑEJO . . . . . . . . . . 15",
+      "category": "OTHER",
+      "simplified_description": "Añejo tequila from Cincoro.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

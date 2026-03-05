@@ -1,0 +1,313 @@
+{
+  "restaurant": "sunislandeatery",
+  "parsed_at": "2026-02-06T04:16:29.710404",
+  "item_count": 34,
+  "items": [
+    {
+      "name": "Chicken Fried Rice",
+      "price": 13.95,
+      "description": "$13.95",
+      "category": "FOOD",
+      "simplified_description": "$13.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Chicken ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Chicken",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Pepper Chicken & Prawns in Honey Garlic Sauce (Hot Plate) ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with 3 Kinds of Mushroom",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fried Rice",
+      "price": 14.95,
+      "description": "$14.95",
+      "category": "FOOD",
+      "simplified_description": "$14.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 14.95,
+      "description": "$14.95",
+      "category": "FOOD",
+      "simplified_description": "$14.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Beef Fried Rice ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 13.95,
+      "description": "$13.95",
+      "category": "FOOD",
+      "simplified_description": "$13.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Snow Peas",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork",
+      "price": 16.25,
+      "description": "$16.25",
+      "category": "FOOD",
+      "simplified_description": "$16.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Pork",
+      "price": 16.25,
+      "description": "$16.25",
+      "category": "FOOD",
+      "simplified_description": "$16.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 16.25,
+      "description": "$16.25",
+      "category": "FOOD",
+      "simplified_description": "$16.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Chop Suey",
+      "price": 15.5,
+      "description": "$15.50",
+      "category": "FOOD",
+      "simplified_description": "$15.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Vegetables Chow Mein",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef Fried Noodle ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood & Meat with Mixed Vegetables Fried Noodle",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Chow Mein",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns & Broccoli",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peking Style Pork",
+      "price": 16.25,
+      "description": "$16.25",
+      "category": "FOOD",
+      "simplified_description": "$16.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Chicken ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns in Black Bean Sauce",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Almond Chicken",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Kinds of Seafood with Snow Peas",
+      "price": 23.95,
+      "description": "$23.95",
+      "category": "FOOD",
+      "simplified_description": "$23.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Prawns ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Style Chow Mein ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables Fried Noodle",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Ribs",
+      "price": 16.25,
+      "description": "$16.25",
+      "category": "FOOD",
+      "simplified_description": "$16.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Squid ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Tomato Fried Noodle",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey & Black Pepper Beef (Hot Plate) ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 17.95,
+      "description": "$17.95",
+      "category": "FOOD",
+      "simplified_description": "$17.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Squid",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken Fried Rice ![🌶](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f336.svg)",
+      "price": 13.95,
+      "description": "$13.95",
+      "category": "FOOD",
+      "simplified_description": "$13.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns with SNOW PEAS",
+      "price": 19.95,
+      "description": "$19.95",
+      "category": "FOOD",
+      "simplified_description": "$19.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sun Island Beef (Hot Plate)",
+      "price": 17.95,
+      "description": "$17.95",
+      "category": "FOOD",
+      "simplified_description": "$17.95",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "restaurant": "restaurants",
+  "parsed_at": "2026-02-06T03:53:38.850021",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "6-inch sub",
+      "price": null,
+      "description": "Daily 6-inch sub, drink & side. Upgrade for $3. Fountain beverages not available at all locations. Bottled beverages extra.",
+      "category": "FOOD",
+      "simplified_description": "Daily 6-inch sub, drink & side. Upgrade for $3. Fountain beverages not available",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cookies",
+      "price": null,
+      "description": "Buy a $25 Subway® Gift Card and we’ll sweeten the deal with 6 free cookies. A little gift for them. A little gift for you.",
+      "category": "DESSERT",
+      "simplified_description": "Buy a $25 Subway® Gift Card and we’ll sweeten the deal with 6 free cookies. A li",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Subway® Snackwich",
+      "price": 3.99,
+      "description": "Try a Subway® Snackwich. It’s everything you want for just $3.99 each. Choose from Honey Mustard Ham, Turkey Ranch and BLT.",
+      "category": "SNACKS",
+      "simplified_description": "Try a Subway® Snackwich. It’s everything you want for just $3.99 each. Choose fr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6” Cold Cut Combo",
+      "price": 4.99,
+      "description": "6\" Cold Cut Combo or Veggie Delite® for $4.99. Use code: CCCVEGGIE499",
+      "category": "FOOD",
+      "simplified_description": "6\" Cold Cut Combo or Veggie Delite® for $4.99. Use code: CCCVEGGIE499",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6-inch sub",
+      "price": 1.99,
+      "description": "Buy any Footlong sub, get a 6-inch sub for $1.99. Use code: 6INCH199",
+      "category": "FOOD",
+      "simplified_description": "Buy any Footlong sub, get a 6-inch sub for $1.99. Use code: 6INCH199",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Footlong sub",
+      "price": null,
+      "description": "Buy any 2 Footlong subs, get any Footlong sub for free. Use code: 3SUB",
+      "category": "FOOD",
+      "simplified_description": "Buy any 2 Footlong subs, get any Footlong sub for free. Use code: 3SUB",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

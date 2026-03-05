@@ -1,0 +1,835 @@
+{
+  "restaurant": "sunshinevietnamese",
+  "parsed_at": "2026-02-06T04:17:57.337887",
+  "item_count": 92,
+  "items": [
+    {
+      "name": "apore Sling",
+      "price": 6.95,
+      "description": "(3/4oz Gin & 3/4oz Brandy)",
+      "category": "DRINK",
+      "simplified_description": "(3/4oz Gin & 3/4oz Brandy)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine (White or Red)",
+      "price": 6.95,
+      "description": "Glass(5oz)",
+      "category": "DRINK",
+      "simplified_description": "Glass(5oz)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine (White or Red)",
+      "price": 16.95,
+      "description": "Half Litre",
+      "category": "DRINK",
+      "simplified_description": "Half Litre",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Salad Rolls",
+      "price": 6.75,
+      "description": "Goi Cuon Bo",
+      "category": "APPETIZER",
+      "simplified_description": "Goi Cuon Bo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Salad Rolls",
+      "price": 12.75,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad Rolls",
+      "price": 6.75,
+      "description": "Goi Cuon Ga",
+      "category": "APPETIZER",
+      "simplified_description": "Goi Cuon Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad Rolls",
+      "price": 12.75,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Spring Rolls",
+      "price": 4.95,
+      "description": "Pork/Carrot/Onion - Cha Gio",
+      "category": "APPETIZER",
+      "simplified_description": "Pork/Carrot/Onion - Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Spring Rolls",
+      "price": 9.5,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Vegetarian Spring Rolls",
+      "price": 5.25,
+      "description": "Cha Gio Chay",
+      "category": "APPETIZER",
+      "simplified_description": "Cha Gio Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Vegetarian Spring Rolls",
+      "price": 9.95,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Pork Salad Rolls",
+      "price": 5.95,
+      "description": "Bi Cuon",
+      "category": "APPETIZER",
+      "simplified_description": "Bi Cuon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Pork Salad Rolls",
+      "price": 11.5,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Salad Rolls",
+      "price": 5.95,
+      "description": "Goi Cuon Tom",
+      "category": "APPETIZER",
+      "simplified_description": "Goi Cuon Tom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Salad Rolls",
+      "price": 11.5,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Salad Rolls",
+      "price": 5.25,
+      "description": "Goi Cuon Chay",
+      "category": "APPETIZER",
+      "simplified_description": "Goi Cuon Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Salad Rolls",
+      "price": 9.95,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "4 Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Prawn, Beef & Chicken Skewers - 3 Skewers",
+      "price": 15.95,
+      "description": "Tom/Bo/Ga Lui",
+      "category": "APPETIZER",
+      "simplified_description": "Tom/Bo/Ga Lui",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Prawn - 3 Skewers",
+      "price": 17.95,
+      "description": "Tom Lui",
+      "category": "APPETIZER",
+      "simplified_description": "Tom Lui",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Chicken Wings Served w/Plum Sauce - 10pcs",
+      "price": 13.95,
+      "description": "Canh Ga Chien",
+      "category": "APPETIZER",
+      "simplified_description": "Canh Ga Chien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Wontons Served w/ Plum Sauce",
+      "price": 12.95,
+      "description": "Hoanh Thanh Chien",
+      "category": "APPETIZER",
+      "simplified_description": "Hoanh Thanh Chien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Beef Noodle Soup",
+      "price": 17.25,
+      "description": "Rare&Well-Done Beef/Beef Ball/Brisket/Tendon&Tripe - Pho Dac Biet",
+      "category": "FOOD",
+      "simplified_description": "Rare&Well-Done Beef/Beef Ball/Brisket/Tendon&Tripe - Pho Dac Biet",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rare Beef Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Tai",
+      "category": "FOOD",
+      "simplified_description": "Pho Tai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rare Beef & Brisket Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Tai/Nam",
+      "category": "FOOD",
+      "simplified_description": "Pho Tai/Nam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rare Beef & Tendon Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Tai/Gan",
+      "category": "FOOD",
+      "simplified_description": "Pho Tai/Gan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rare Beef & Tripe Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Tai/Sach",
+      "category": "FOOD",
+      "simplified_description": "Pho Tai/Sach",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Ball Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Bo Vien",
+      "category": "FOOD",
+      "simplified_description": "Pho Bo Vien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Rau Cai",
+      "category": "FOOD",
+      "simplified_description": "Pho Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "price": 14.95,
+      "description": "Pho Ga",
+      "category": "FOOD",
+      "simplified_description": "Pho Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef Noodle Soup",
+      "price": 15.75,
+      "description": "Pho Sate Bo",
+      "category": "FOOD",
+      "simplified_description": "Pho Sate Bo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken Noodle Soup",
+      "price": 15.75,
+      "description": "Pho Sate Ga",
+      "category": "FOOD",
+      "simplified_description": "Pho Sate Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Seafood Noodle Soup",
+      "price": 16.95,
+      "description": "Shrimps/Crabmeat Roll & Squid - Pho Sate Do Bien",
+      "category": "FOOD",
+      "simplified_description": "Shrimps/Crabmeat Roll & Squid - Pho Sate Do Bien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Rice Noodle Soup",
+      "price": 15.5,
+      "description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Hu Tieu Dac Biet Nuoc",
+      "category": "FOOD",
+      "simplified_description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Hu Tieu Dac Biet Nuoc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Noodle (with soup on the Side)",
+      "price": 15.95,
+      "description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Hu Tieu Kho",
+      "category": "FOOD",
+      "simplified_description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Hu Tieu Kho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Rice Noodle Soup",
+      "price": 16.75,
+      "description": "Shrimps/Crabmeat Rolls & Squid - Hu Tieu Do Bien",
+      "category": "FOOD",
+      "simplified_description": "Shrimps/Crabmeat Rolls & Squid - Hu Tieu Do Bien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Egg Noodle Soup",
+      "price": 15.5,
+      "description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Mi Nuoc",
+      "category": "FOOD",
+      "simplified_description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Mi Nuoc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Egg Noodle (with soup on the Side)",
+      "price": 15.95,
+      "description": "Sliced Pork/Shrimps/Crabmeat rolls & squid - Mi Kho",
+      "category": "FOOD",
+      "simplified_description": "Sliced Pork/Shrimps/Crabmeat rolls & squid - Mi Kho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wor Wonton Soup",
+      "price": 15.95,
+      "description": "Wonton/Veggies/Squid/Shrimps & Crabmeat - Hoanh Thanh Soup",
+      "category": "FOOD",
+      "simplified_description": "Wonton/Veggies/Squid/Shrimps & Crabmeat - Hoanh Thanh Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special Thick Rice Noodle Soup",
+      "price": 15.75,
+      "description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Banh Canh",
+      "category": "FOOD",
+      "simplified_description": "Sliced Pork/Shrimps/Crabmeat Rolls & Squid - Banh Canh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork, Shredded Pork & Spring Rolls on Vermicelli",
+      "price": 16.95,
+      "description": "Bun Bi/Thit Nuong/Cha Gio",
+      "category": "FOOD",
+      "simplified_description": "Bun Bi/Thit Nuong/Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Meat Ball & Spring Rolls on Vermicelli",
+      "price": 15.95,
+      "description": "Bun Nem Nuong & Cha Gio",
+      "category": "FOOD",
+      "simplified_description": "Bun Nem Nuong & Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls on Vermicelli",
+      "price": 15.25,
+      "description": "Bun Cha Gio",
+      "category": "FOOD",
+      "simplified_description": "Bun Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork & Spring Rolls on Vermicelli",
+      "price": 15.95,
+      "description": "Bun Thit Nuong & Cha Gio",
+      "category": "FOOD",
+      "simplified_description": "Bun Thit Nuong & Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken & Spring Rolls on Vermicelli",
+      "price": 15.95,
+      "description": "Bun Ga Nuong & Cha Gio",
+      "category": "FOOD",
+      "simplified_description": "Bun Ga Nuong & Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Spring Rolls on Vermicelli",
+      "price": 15.95,
+      "description": "Bun Bo Nuong & Cha Gio",
+      "category": "FOOD",
+      "simplified_description": "Bun Bo Nuong & Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken, Beef & Shrimps Skewers on Vermicelli",
+      "price": 17.95,
+      "description": "Bun Ga/Bo/Tom Lui",
+      "category": "FOOD",
+      "simplified_description": "Bun Ga/Bo/Tom Lui",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Lemon Grass Beef on Vermicelli",
+      "price": 16.75,
+      "description": "Bun Bo Xao Sa",
+      "category": "FOOD",
+      "simplified_description": "Bun Bo Xao Sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Curry on Vermicelli",
+      "price": 16.95,
+      "description": "Bun Bo Xao Cari",
+      "category": "FOOD",
+      "simplified_description": "Bun Bo Xao Cari",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Satay Beef on Vermicelli",
+      "price": 16.95,
+      "description": "Bun Bo Xao Sate",
+      "category": "FOOD",
+      "simplified_description": "Bun Bo Xao Sate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Lemon Grass Chicken on Vermicelli",
+      "price": 16.75,
+      "description": "Bun Ga Xao Sa",
+      "category": "FOOD",
+      "simplified_description": "Bun Ga Xao Sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Curry Chicken on Vermicelli",
+      "price": 16.95,
+      "description": "Bun Ga Xao Cari",
+      "category": "FOOD",
+      "simplified_description": "Bun Ga Xao Cari",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Satay Chicken on Vermicelli",
+      "price": 16.95,
+      "description": "Bun Ga Xao Sate",
+      "category": "FOOD",
+      "simplified_description": "Bun Ga Xao Sate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Lemon Grass Praw on Vermicelli",
+      "price": 16.95,
+      "description": "Bun Tom Xao Sa",
+      "category": "FOOD",
+      "simplified_description": "Bun Tom Xao Sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Paste on Sugar Cane & Pork Meat Ball on Vermicelli",
+      "price": 17.95,
+      "description": "Bun Chao Tom & Nem Nuong",
+      "category": "FOOD",
+      "simplified_description": "Bun Chao Tom & Nem Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Lemon Grass Prawn, Chicken & Beef on Vermicelli",
+      "price": 17.95,
+      "description": "Bun Tom/Ga/Bo Xao Sa",
+      "category": "FOOD",
+      "simplified_description": "Bun Tom/Ga/Bo Xao Sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled SpareRibs & Spring Rolls on Steamed Rice",
+      "price": 18.25,
+      "description": "Cơm Sườn Bò & Chả Giò",
+      "category": "FOOD",
+      "simplified_description": "Cơm Sườn Bò & Chả Giò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chops (2pcs) on Steamed Rice",
+      "price": 16.95,
+      "description": "Com Suon Nuong",
+      "category": "FOOD",
+      "simplified_description": "Com Suon Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Pork & Grilled Pork Chop on Steamed Rice",
+      "price": 15.95,
+      "description": "Com Bi & Suong Nuong",
+      "category": "FOOD",
+      "simplified_description": "Com Bi & Suong Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Pork, Fried Egg & Grilled Pork Chop on Steamed Rice",
+      "price": 17.25,
+      "description": "Com Bi/Trung Chien/Suon Nuong",
+      "category": "FOOD",
+      "simplified_description": "Com Bi/Trung Chien/Suon Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Diced Beef on Steamed Rice",
+      "price": 16.95,
+      "description": "Com Bo Luc Lac",
+      "category": "FOOD",
+      "simplified_description": "Com Bo Luc Lac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Assorted Meat & Seafood with Mixed Veg. Bedded on Steamed Rice",
+      "price": 17.5,
+      "description": "Com Xao Thap Cam (Thit/Do Bien/Rau Cai)",
+      "category": "FOOD",
+      "simplified_description": "Com Xao Thap Cam (Thit/Do Bien/Rau Cai)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 16.95,
+      "description": "Com Chien Ga",
+      "category": "FOOD",
+      "simplified_description": "Com Chien Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken Fried Rice",
+      "price": 17.25,
+      "description": "Com Chien Cari Ga",
+      "category": "FOOD",
+      "simplified_description": "Com Chien Cari Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special Fried Rice",
+      "price": 18.25,
+      "description": "BBQ Pork/Chicken/Shrimps/Peas/Green Onion - Com Chien Duong Chau",
+      "category": "FOOD",
+      "simplified_description": "BBQ Pork/Chicken/Shrimps/Peas/Green Onion - Com Chien Duong Chau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chilli & Lemon Grass Prawns",
+      "price": 18.95,
+      "description": "Tom Xao Sa Ot",
+      "category": "FOOD",
+      "simplified_description": "Tom Xao Sa Ot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Prawns With Snow Peas",
+      "price": 18.95,
+      "description": "Tom Xao Dau Hoa Lan",
+      "category": "FOOD",
+      "simplified_description": "Tom Xao Dau Hoa Lan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Prawns With Mixed Vegetables",
+      "price": 18.95,
+      "description": "Tom Xao Rau Cai Thap Cam",
+      "category": "FOOD",
+      "simplified_description": "Tom Xao Rau Cai Thap Cam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Prawns With Cashew Nut, Celery and Carrot",
+      "price": 18.95,
+      "description": "Tom Xao Cai Can/Hot Dieu/Ca Rot",
+      "category": "FOOD",
+      "simplified_description": "Tom Xao Cai Can/Hot Dieu/Ca Rot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Prawns With Black Pepper",
+      "price": 18.95,
+      "description": "Tom Xao Man voi Tieu Den",
+      "category": "FOOD",
+      "simplified_description": "Tom Xao Man voi Tieu Den",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Prawns With Curry Sauce",
+      "price": 18.95,
+      "description": "Tom Xao Cari",
+      "category": "FOOD",
+      "simplified_description": "Tom Xao Cari",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Seafood & Mixed Vegetables",
+      "price": 18.95,
+      "description": "Do Bien Xao Rau Cai Thap Cam",
+      "category": "FOOD",
+      "simplified_description": "Do Bien Xao Rau Cai Thap Cam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chilli & Lemon Grass Beef",
+      "price": 17.75,
+      "description": "Bo Xao Sa Ot",
+      "category": "FOOD",
+      "simplified_description": "Bo Xao Sa Ot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Beef With Black Pepper",
+      "price": 17.75,
+      "description": "Bo Xao Man voi Tieu Den",
+      "category": "FOOD",
+      "simplified_description": "Bo Xao Man voi Tieu Den",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Beef With Broccoli",
+      "price": 17.75,
+      "description": "Bo Xao Bong Cai Xanh",
+      "category": "FOOD",
+      "simplified_description": "Bo Xao Bong Cai Xanh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Beef with Mixed Vegetables",
+      "price": 17.75,
+      "description": "Bo Xao Rau Cai Thap Cam",
+      "category": "FOOD",
+      "simplified_description": "Bo Xao Rau Cai Thap Cam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Beef With Satay Sauce",
+      "price": 18.25,
+      "description": "Bo Xao Sate",
+      "category": "FOOD",
+      "simplified_description": "Bo Xao Sate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chilli & Lemon Grass Chicken",
+      "price": 18.25,
+      "description": "Ga Xao Sa Ot",
+      "category": "FOOD",
+      "simplified_description": "Ga Xao Sa Ot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chicken with Cashew Nut, Celery & Carrot",
+      "price": 18.25,
+      "description": "Ga Xao Cai Can/Hot Dieu/Ca Rot",
+      "category": "FOOD",
+      "simplified_description": "Ga Xao Cai Can/Hot Dieu/Ca Rot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chicken with Mixed Vegetables",
+      "price": 18.25,
+      "description": "Ga Xao Rau Cai Thap Cam",
+      "category": "FOOD",
+      "simplified_description": "Ga Xao Rau Cai Thap Cam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chicken with Curry Sauce",
+      "price": 18.25,
+      "description": "Ga Xao Cari",
+      "category": "FOOD",
+      "simplified_description": "Ga Xao Cari",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Chicken with Mixed Vegetables",
+      "price": 17.25,
+      "description": "Mi Xao Ga & Rau Cai (Mem hoac Don)",
+      "category": "FOOD",
+      "simplified_description": "Mi Xao Ga & Rau Cai (Mem hoac Don)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Beef with Mixed Vegetables",
+      "price": 17.25,
+      "description": "Mi Xao Bo & Rau Cai (Mem hoac Don)",
+      "category": "FOOD",
+      "simplified_description": "Mi Xao Bo & Rau Cai (Mem hoac Don)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Prawns with Mixed Vegetables",
+      "price": 18.75,
+      "description": "Mi Xao Tom & Rau Cai (Mem hoac Don)",
+      "category": "FOOD",
+      "simplified_description": "Mi Xao Tom & Rau Cai (Mem hoac Don)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combination of Prawns, Beef & Chicken Stir Fried with Mixed Vegetables",
+      "price": 19.5,
+      "description": "Mi Xao Tom/Bo/Ga/Rau Cai (Mem hoac don)",
+      "category": "FOOD",
+      "simplified_description": "Mi Xao Tom/Bo/Ga/Rau Cai (Mem hoac don)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu Sub",
+      "price": 11.95,
+      "description": "Banh Mi Dau Hu",
+      "category": "FOOD",
+      "simplified_description": "Banh Mi Dau Hu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef Sub",
+      "price": 12.95,
+      "description": "Banh Mi Bo Sate",
+      "category": "FOOD",
+      "simplified_description": "Banh Mi Bo Sate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken Sub",
+      "price": 12.95,
+      "description": "Banh Mi Ga Sate",
+      "category": "FOOD",
+      "simplified_description": "Banh Mi Ga Sate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Sub",
+      "price": 12.95,
+      "description": "Banh Mi Thit Nuong",
+      "category": "FOOD",
+      "simplified_description": "Banh Mi Thit Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Spring Rolls on Rice Vermicelli",
+      "price": 15.75,
+      "description": "Bun Cha Gio Chay",
+      "category": "FOOD",
+      "simplified_description": "Bun Cha Gio Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Tofu & Mixed Vegetables on Soft or Crispy Egg Noodle",
+      "price": 16.5,
+      "description": "Mi Xao Chay (Mem hoac Don)",
+      "category": "FOOD",
+      "simplified_description": "Mi Xao Chay (Mem hoac Don)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Tofu & Mixed Vegetables on Rice Vermicelli",
+      "price": 16.5,
+      "description": "Bun Xao Chay",
+      "category": "FOOD",
+      "simplified_description": "Bun Xao Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fry Tofu & Mixed Vegetables Served with steamed Rice on the Side",
+      "price": 16.5,
+      "description": "Dau Hu Xao Rau Cai Chay (dung voi Com Trang)",
+      "category": "FOOD",
+      "simplified_description": "Dau Hu Xao Rau Cai Chay (dung voi Com Trang)",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

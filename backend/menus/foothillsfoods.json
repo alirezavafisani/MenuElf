@@ -1,0 +1,242 @@
+{
+  "restaurant": "foothillsfoods",
+  "parsed_at": "2026-02-06T02:17:46.719902",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "Crispy Chicken Wings",
+      "price": null,
+      "description": "Premium chicken wings fried to crispy perfection with your choice of seasoning options including garlic aioli, sweet soy, miso lime, or gochujang glaze. Each wing features the same quality brining process as all our chicken for maximum flavor and juiciness.",
+      "category": "FOOD",
+      "simplified_description": "Crispy fried chicken wings with various seasoning options.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ZFC Feast",
+      "price": null,
+      "description": "Our signature feast featuring four juicy chicken thighs fried to golden perfection with our 12-hour brine process. Served with house-made slaw and sweet pickles, plus your choice of sides. Generous portions perfect for sharing or satisfying a hearty appetite.",
+      "category": "FOOD",
+      "simplified_description": "Four fried chicken thighs served with slaw, pickles, and sides.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Small Fries",
+      "price": 3.81,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Small portion of fried potato fries.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Fries",
+      "price": 4.76,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Large portion of fried potato fries.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 1.53,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Savory sauce typically served with fries or chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 piece snack pack with fries",
+      "price": 10.48,
+      "description": "",
+      "category": "CHICKEN PACK",
+      "simplified_description": "Two pieces of chicken served with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 piece dinner pack with fries",
+      "price": 13.33,
+      "description": "",
+      "category": "CHICKEN PACK",
+      "simplified_description": "Three pieces of chicken served with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 piece family pack with fries and gravy",
+      "price": 38.08,
+      "description": "",
+      "category": "CHICKEN PACK",
+      "simplified_description": "Ten pieces of chicken with fries and gravy, ideal for families.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Drumstick or wing",
+      "price": 2.86,
+      "description": "",
+      "category": "CHICKEN SINGLES",
+      "simplified_description": "Single chicken drumstick or wing piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thigh or Rib",
+      "price": 3.33,
+      "description": "",
+      "category": "CHICKEN SINGLES",
+      "simplified_description": "Single chicken thigh or rib piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Breast",
+      "price": 3.33,
+      "description": "",
+      "category": "CHICKEN SINGLES",
+      "simplified_description": "Small-sized chicken breast piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Breast",
+      "price": 4.29,
+      "description": "",
+      "category": "CHICKEN SINGLES",
+      "simplified_description": "Medium-sized chicken breast piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Breast",
+      "price": 5.24,
+      "description": "",
+      "category": "CHICKEN SINGLES",
+      "simplified_description": "Large-sized chicken breast piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wing or Leg",
+      "price": 3.33,
+      "description": "",
+      "category": "FRICKEN BY THE PIECE",
+      "simplified_description": "Single chicken wing or leg piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thigh or Rib",
+      "price": 4.29,
+      "description": "",
+      "category": "FRICKEN BY THE PIECE",
+      "simplified_description": "Single chicken thigh or rib piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Breast",
+      "price": 4.29,
+      "description": "",
+      "category": "FRICKEN BY THE PIECE",
+      "simplified_description": "A small piece of chicken breast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Breast",
+      "price": 5.29,
+      "description": "",
+      "category": "FRICKEN BY THE PIECE",
+      "simplified_description": "A medium piece of chicken breast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Breast",
+      "price": 6.29,
+      "description": "",
+      "category": "FRICKEN BY THE PIECE",
+      "simplified_description": "A large piece of chicken breast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Piece + Fry Snack Pack",
+      "price": 10.48,
+      "description": "",
+      "category": "FRICKEN MENU",
+      "simplified_description": "Two pieces of chicken with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Piece + Fry Dinner Pack",
+      "price": 13.33,
+      "description": "",
+      "category": "FRICKEN MENU",
+      "simplified_description": "Three pieces of chicken with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4 Piece + Fry Big Box",
+      "price": 16.99,
+      "description": "",
+      "category": "FRICKEN MENU",
+      "simplified_description": "Four pieces of chicken with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 Piece + Fry + Gravy Family Pack",
+      "price": 38.08,
+      "description": "",
+      "category": "FRICKEN MENU",
+      "simplified_description": "Ten pieces of chicken with fries and gravy.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Sandwich 1",
+      "price": 6.65,
+      "description": "",
+      "category": "SEXY SANDWICHES",
+      "simplified_description": "A chicken sandwich.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sandwich 2",
+      "price": 6.65,
+      "description": "",
+      "category": "SEXY SANDWICHES",
+      "simplified_description": "Another style of chicken sandwich.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sandwich 3",
+      "price": 9.51,
+      "description": "",
+      "category": "SEXY SANDWICHES",
+      "simplified_description": "A premium chicken sandwich.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

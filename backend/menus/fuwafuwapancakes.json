@@ -1,0 +1,205 @@
+{
+  "restaurant": "fuwafuwapancakes",
+  "parsed_at": "2025-12-25T03:14:55.434070",
+  "item_count": 22,
+  "items": [
+    {
+      "name": "Classic Tiramisu",
+      "price": null,
+      "description": "Tiramisu pancakes are for those Saturdays or Sundays when you want something a little bit more special, but still want easy and breezy. Coffee-flavored pancakes...",
+      "simplified_description": "Coffee-flavored pancakes for special occasions.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Cheese",
+      "price": null,
+      "description": "Delicious and easy pancakes with tasty our homemade blueberry sauce and fruit on side.",
+      "simplified_description": "Pancakes with homemade blueberry sauce and fruit.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookies and cream",
+      "price": null,
+      "description": "An easy and indulgent dessert of Oreo Pancakes or better yet with whipped cream and vanilla ice cream, make a batch for a special dessert.",
+      "simplified_description": "Oreo pancakes served with whipped cream and ice cream.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Pancake",
+      "price": null,
+      "description": "The most popular pancake which has fresh cream and fresh fruits on top. Simple yet delicious!",
+      "simplified_description": "Popular pancakes topped with cream and fruits.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crème Brulee",
+      "price": null,
+      "description": "Creme Brulee Pancakes are a delightful fusion of breakfast and dessert. Soft, fluffy pancakes are topped with a thin layer of crystallized sugar, torched to...",
+      "simplified_description": "Pancakes topped with a caramelized sugar layer.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nutella Banana Pancake",
+      "price": null,
+      "description": "Who doesn’t love Nutella? We wanted to show our love for this delicious treat by combining chocolate with our pancakes! Complemented with a banana, this...",
+      "simplified_description": "Pancakes with Nutella and banana.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Raspberry Caramelized",
+      "price": null,
+      "description": "Serve the sophisticated flavors of Japanese fluffy pancakes, whipped cream, homemade raspberry sauce and caramelized bananas for sweet day.",
+      "simplified_description": "Fluffy pancakes with raspberry sauce and caramelized bananas.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry",
+      "price": null,
+      "description": "Adorned with fresh, juicy strawberries, our pancakes deliver a burst of natural sweetness with every bite. Drizzled with a light syrup and dusted with powdered...",
+      "simplified_description": "Pancakes topped with fresh strawberries and syrup.",
+      "category": "Pancakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Raspberry Cheesecake",
+      "price": null,
+      "description": "Tangy raspberries meet the caramelized top, offering a harmonious blend of sweet and tart. A berry delightful experience!",
+      "simplified_description": "Cheesecake with raspberries and a caramelized top.",
+      "category": "Burnt Top Cheesecakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Cheesecake",
+      "price": null,
+      "description": "Tropical sweetness meets Fuwa Fuwa’s signature burnt top. Relish the fruity notes of ripe mangoes combined with our creamy custard base.",
+      "simplified_description": "Cheesecake with mango and a caramelized top.",
+      "category": "Burnt Top Cheesecakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Cheesecake",
+      "price": null,
+      "description": "A tropical delight, this cheesecake combines the richness of coconut with our signature burnt top, transporting you to a beachy paradise with every bite.",
+      "simplified_description": "Cheesecake with coconut and a caramelized top.",
+      "category": "Burnt Top Cheesecakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Earl Grey",
+      "price": null,
+      "description": "Infused with the aromatic essence of Earl Grey tea, this cheesecake offers a sophisticated twist to our classic burnt top. A fragrant journey of taste.",
+      "simplified_description": "Cheesecake flavored with Earl Grey tea.",
+      "category": "Burnt Top Cheesecakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha Cheesecake",
+      "price": null,
+      "description": "A fusion of Japanese tradition and Fuwa Fuwa innovation, this cheesecake combines the earthy notes of matcha with our signature burnt top. A delightful treat...",
+      "simplified_description": "Cheesecake with matcha and a caramelized top.",
+      "category": "Burnt Top Cheesecakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Cheesecake",
+      "price": null,
+      "description": "Dive into the classic Fuwa Fuwa experience with our Original Burnt Top Cheesecake. The caramelized top, slightly bitter, perfectly complements the ultra-creamy custard within, offering...",
+      "simplified_description": "Classic cheesecake with a caramelized top.",
+      "category": "Burnt Top Cheesecakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Frappe",
+      "price": null,
+      "description": "Dive into a creamy blend of rich caramel and ice, topped with a dollop of whipped cream. A sweet escape in every sip.",
+      "simplified_description": "Creamy caramel drink topped with whipped cream.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fuwa Fuwa Latte",
+      "price": null,
+      "description": "A creamy blend that perfectly captures the essence of Fuwa Fuwa. Smooth, rich, and utterly comforting.",
+      "simplified_description": "Smooth and creamy latte.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hazelnut Espresso",
+      "price": null,
+      "description": "Bold espresso meets the nutty richness of hazelnut. A drink that’s both invigorating and comforting.",
+      "simplified_description": "Espresso with hazelnut flavor.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yuzu Soda",
+      "price": null,
+      "description": "A zesty and refreshing soda infused with the citrusy notes of yuzu. A perfect palate cleanser.",
+      "simplified_description": "Refreshing soda with yuzu flavor.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Soda",
+      "price": null,
+      "description": "A bubbly delight with the tropical sweetness of mango. Refreshing and vibrant.",
+      "simplified_description": "Soda with mango flavor.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croffles",
+      "price": null,
+      "description": "A fusion of croissant and waffle, our croffles are a testament to Fuwa Fuwa’s innovative spirit. Crispy, flaky, and utterly delicious.",
+      "simplified_description": "Crispy and flaky croissant-waffle hybrid.",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Macarons",
+      "price": null,
+      "description": "Delicate and flavorful, our macarons are a bite-sized delight, perfect for those who appreciate fine dessert craftsmanship.",
+      "simplified_description": "Delicate and flavorful bite-sized desserts.",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roll Cakes",
+      "price": null,
+      "description": "Light, airy, and filled with creamy goodness, our roll cakes are a slice of heaven, available in a variety of flavors to tantalize your taste...",
+      "simplified_description": "Light and creamy rolled cakes in various flavors.",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

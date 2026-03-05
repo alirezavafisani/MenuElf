@@ -1,0 +1,349 @@
+{
+  "restaurant": "oishiisushicalgary",
+  "parsed_at": "2026-02-06T03:30:55.254995",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "154. Red Coral Roll",
+      "price": 15.0,
+      "description": "Spicy | Crispy tempura bits, salmon, cucumber, kimchi, seaweed powder, house spicy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Spicy | Crispy tempura bits, salmon, cucumber, kimchi, seaweed powder, house spi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "152. Alberta Beef Roll",
+      "price": 15.0,
+      "description": "Tempura beef, avocado, cucumber, sesame seeds, teriyaki sauce.",
+      "category": "FOOD",
+      "simplified_description": "Tempura beef, avocado, cucumber, sesame seeds, teriyaki sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tempura Spicy California Roll",
+      "price": 8.5,
+      "description": "Tempura-style seaweed roll with avocado, imitation spicy crab mix topped with unagi sauce & Spicy Mayo",
+      "category": "FOOD",
+      "simplified_description": "Tempura-style seaweed roll with avocado, imitation spicy crab mix topped with un",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "163. Rainbow Roll",
+      "price": 15.5,
+      "description": "Imitation crab mix, avocado, cucumber topped with assorted sashimi (salmon, tuna, red snapper, shrimp), avocado, and unagi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Imitation crab mix, avocado, cucumber topped with assorted sashimi (salmon, tuna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A10. Mango Paradise",
+      "price": 15.0,
+      "description": "Crab Mix, Avocado, Cucumber Roll topped with Salmon and Mango, Sauce and Massago",
+      "category": "FOOD",
+      "simplified_description": "Crab Mix, Avocado, Cucumber Roll topped with Salmon and Mango, Sauce and Massago",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A11. Salmon Oishizushi",
+      "price": 15.0,
+      "description": "Boxed Avocado, Seared Salmon, Mayo, Tobiko and green onion",
+      "category": "FOOD",
+      "simplified_description": "Boxed Avocado, Seared Salmon, Mayo, Tobiko and green onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A12. Tuna Oishizushi",
+      "price": 15.0,
+      "description": "Boxed Avocado, Seared Tuna, Mayo, Tobiko and green onion",
+      "category": "FOOD",
+      "simplified_description": "Boxed Avocado, Seared Tuna, Mayo, Tobiko and green onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Serrano Roll",
+      "price": 15.5,
+      "description": "Crab mix, avocado topped with seared salmon, serrano pepper, spicy mayo and tempura bits",
+      "category": "FOOD",
+      "simplified_description": "Crab mix, avocado topped with seared salmon, serrano pepper, spicy mayo and temp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sankkakei Roll",
+      "price": 15.5,
+      "description": "Triangle style - Cripsy tempura bits, salmon topped with Spicy crab mix, dry onion, green onion and onion",
+      "category": "FOOD",
+      "simplified_description": "Triangle style - Cripsy tempura bits, salmon topped with Spicy crab mix, dry oni",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo A - Teriyaki Chicken",
+      "price": 11.0,
+      "description": "Teriyaki chicken, steamed rice, and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Teriyaki chicken, steamed rice, and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo B - Teriyaki Beef",
+      "price": 11.0,
+      "description": "Teriyaki beef, steamed rice, and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Teriyaki beef, steamed rice, and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo C - Teriyaki Salmon",
+      "price": 11.0,
+      "description": "Teriyaki salmon, steamed rice, and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Teriyaki salmon, steamed rice, and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo D - Tonkatsu Pork",
+      "price": 11.0,
+      "description": "Tonkatsu pork, steamed rice, and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Tonkatsu pork, steamed rice, and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken Ramen",
+      "price": 16.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Beef Ramen",
+      "price": 16.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tonkatsu Pork Ramen",
+      "price": 16.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Ramen",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tonkotsu Ramen",
+      "price": 14.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Tonkotsu Ramen",
+      "price": 14.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Noodle",
+      "price": 3.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Egg",
+      "price": 1.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Soup",
+      "price": 3.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Tonkotsu",
+      "price": 4.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Sauce",
+      "price": 1.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 2.0,
+      "description": "Pepsi / Diet Pepsi / Gingerale / 7up / Icedtea",
+      "category": "DRINK",
+      "simplified_description": "Pepsi / Diet Pepsi / Gingerale / 7up / Icedtea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "San Pellegrino 750ml",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oishii Milktea Bubbletea",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brown Sugar Milktea with Pearl",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Yuja Iced Tea With Lychee Jelly",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Passion Fruit IcedTea with Jelly",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Milkshake with Bubble",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taro Milkshake with Bubble",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Milkshare Bubble",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Milkshake with Bubble",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Milkshake with Bubble",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Tiramisu Cake 4pcs",
+      "price": 5.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Tapioca Dessert",
+      "price": 5.5,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Icedtea with Jelly",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

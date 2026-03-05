@@ -1,0 +1,452 @@
+{
+  "restaurant": "catnfiddleyyc",
+  "parsed_at": "2026-02-06T01:40:14.096574",
+  "item_count": 39,
+  "items": [
+    {
+      "name": "CAESAR SALAD",
+      "price": 9.0,
+      "description": "Crisp Romaine, seasoned croutons, bacon bits and Parmesan cheese.",
+      "category": "SALAD",
+      "simplified_description": "Romaine salad with croutons, bacon, and Parmesan cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY SPINACH SALAD",
+      "price": 16.0,
+      "description": "Spinach, strawberries, red onion and cucumber with a herb & garlic vinaigrette and topped with Feta cheese.",
+      "category": "SALAD",
+      "simplified_description": "Spinach salad with strawberries, veggies, vinaigrette, and Feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FRIES",
+      "price": null,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic fried potato fries.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FIDDLE CHIPS",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fried chips made from fiddlehead ferns.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH FRIES",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic French fried potato sticks.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "tater tots",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Small fried grated potato bites.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "sweet potato fries",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fried sweet potato sticks.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ONION RINGS",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fried battered onion slices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POUTINE",
+      "price": 14.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "French fries topped with cheese curds and gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "bacon cheese fries",
+      "price": 14.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "French fries topped with bacon and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "QUESADILLA",
+      "price": 18.0,
+      "description": "A flour tortilla filled with a Monterey Jack & Cheddar blend, tomato, jalapeno, green onion, bell pepper and bacon. Topped with even more cheese and baked golden. Served with a side of salsa and sour cream.",
+      "category": "MAINS",
+      "simplified_description": "Cheesy tortilla with veggies, bacon, jalapeno, served with salsa and sour cream.",
+      "dietary_info": [
+        "nut-free",
+        "vegetarian"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "TANGY VEGGIE STIR-FRY",
+      "price": 14.0,
+      "description": "Stir-fried vegetables tossed in our in-house made sesame ginger sauce served on a large bed of rice.",
+      "category": "MAINS",
+      "simplified_description": "Vegetable stir-fry with sesame ginger sauce over rice.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "JAMBALAYA (gf)",
+      "price": 19.0,
+      "description": "Chorizo, shrimp, chicken, celery, onion and peppers in a spicy tomato sauce. Served over rice.",
+      "category": "MAINS",
+      "simplified_description": "Spicy rice dish with chorizo, shrimp, chicken, and vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SHEPHERD’S PIE",
+      "price": 18.0,
+      "description": "Ground chuck and vegetables braised in a rich beef and tomato stock, topped with garlic mashed potatoes and baked until crispy.",
+      "category": "MAINS",
+      "simplified_description": "Beef and vegetable casserole topped with garlic mashed potatoes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FISH & CHIPS",
+      "price": 18.0,
+      "description": "Jumbo piece(s) of beer battered Haddock, served with fresh coleslaw and tartar sauce.",
+      "category": "MAINS",
+      "simplified_description": "Beer battered haddock with coleslaw and tartar sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAMMY DAVIS JR",
+      "price": 22.0,
+      "description": "Marinated bone-in 10 oz porkchop grilled to perfection. Served on a bed of garlic mashed potatoes and seasonal vegetables.",
+      "category": "MAINS",
+      "simplified_description": "Grilled porkchop with garlic mashed potatoes and seasonal vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AAA SIRLOIN STEAK SANDWICH",
+      "price": 20.0,
+      "description": "6oz AAA Alberta sirloin steak served on garlic toast and your choice of side.",
+      "category": "MAINS",
+      "simplified_description": "Sirloin steak on garlic toast with a choice of side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHILLY CHEESESTEAK",
+      "price": 17.0,
+      "description": "Start with our Queso cheese sauce and top it with thinly shaved beef, bell pepper, caramelized onion, sautéed mushroom and Mozzarella cheese.",
+      "category": "FLATBREADS",
+      "simplified_description": "Flatbread with beef, cheese sauce, peppers, onions, mushrooms, and mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ CHICKEN",
+      "price": 17.0,
+      "description": "Chicken, bacon, green onions, bell pepper, Cheddar, Monterey Jack and Guinness BBQ sauce.",
+      "category": "FLATBREADS",
+      "simplified_description": "Flatbread topped with chicken, bacon, cheese, veggies, and BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TROPICAL HAWAIIAN",
+      "price": 17.0,
+      "description": "Spicy Arrabiata, thinly sliced ham and fresh pineapple.",
+      "category": "FLATBREADS",
+      "simplified_description": "Flatbread with spicy sauce, ham, and pineapple.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FIREY PEPPERONI",
+      "price": 17.0,
+      "description": "Spicy Arrabiata sauce, freshly sliced pepperoni, Mozzarella, shredded Parmesan and fresh basil.",
+      "category": "FLATBREADS",
+      "simplified_description": "Flatbread with spicy sauce, pepperoni, mozzarella, parmesan, and basil.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPICY PIG",
+      "price": 17.0,
+      "description": "Ham, chorizo, bacon, Cheddar, Monterey Jack and homemade spicy tomato sauce.",
+      "category": "FLATBREADS",
+      "simplified_description": "Flatbread with ham, chorizo, bacon, cheese, and spicy tomato sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SUNDRIED TOMATO PESTO",
+      "price": 16.0,
+      "description": "Spinach, bell pepper, tomato, onion & Feta cheese on a bed of sundried tomato pesto. Baked crispy and topped with balsamic glaze.",
+      "category": "FLATBREADS",
+      "simplified_description": "Flatbread with veggies, feta, sundried tomato pesto, and balsamic glaze.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON MAC ‘N’ CHEESE",
+      "price": 17.0,
+      "description": "Cavatappi noodles, homemade cheese sauce and bacon. Baked golden brown. Served with garlic toast.",
+      "category": "NOODLES",
+      "simplified_description": "Baked cavatappi with cheese sauce and bacon, served with garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPICY MEATBALL ARRIBBIATA",
+      "price": 19.0,
+      "description": "Spaghettini noodles, homemade spicy Arrabbiata sauce and homemade meatballs. Topped with fresh Parmesan.",
+      "category": "NOODLES",
+      "simplified_description": "Spaghettini with spicy tomato sauce, meatballs, and Parmesan cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCCINI ALFREDO",
+      "price": 16.0,
+      "description": "Fettuccini noodles tossed in a homemade Alfredo sauce and topped with fresh basil and Parmesan. Served with garlic toast.",
+      "category": "NOODLES",
+      "simplified_description": "Fettuccini pasta with creamy Alfredo sauce, basil, and Parmesan cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SUNDRIED PESTO SPAGHETTINI",
+      "price": 18.0,
+      "description": "Sautéed bell pepper, onion, mushroom and spinach, tossed in a sun-dried tomato pesto on a bed of spaghettini noodles. Topped with fresh Parmesan and served with garlic toast.",
+      "category": "NOODLES",
+      "simplified_description": "Spaghettini with veggies, sundried tomato pesto, and Parmesan cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "COFFEE & DOUGHNUTS",
+      "price": 9.0,
+      "description": "Two warm doughnuts smothered in powdered sugar and a cup of freshly brewed coffee.",
+      "category": "BRUNCH",
+      "simplified_description": "Two powdered sugar doughnuts with a cup of coffee.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TWO EGG BREAKFAST",
+      "price": 11.0,
+      "description": "Two eggs any style. Choice of bacon, sausage or ham. Served with hash browns and toast.",
+      "category": "BRUNCH",
+      "simplified_description": "Two eggs with choice of meat, hash browns, and toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STEAK & EGGS",
+      "price": 19.0,
+      "description": "6oz sirloin and two eggs, cooked to your liking. Served with hash browns and toast.",
+      "category": "BRUNCH",
+      "simplified_description": "Sirloin steak with two eggs, hash browns, and toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FIDDLER’S OMELETTE (GF)",
+      "price": 15.0,
+      "description": "Two egg omelette with ham, Cheddar, tomato, onion, peppers and green onion. Served with hash browns and toast.",
+      "category": "BRUNCH",
+      "simplified_description": "Egg omelette with ham, cheese, and veggies, served with hash browns and toast.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BREAKFAST BAGEL",
+      "price": 13.0,
+      "description": "One egg (cooked over hard), bacon, lettuce, tomato and Cheddar on a toasted bagel. Served with hash browns.",
+      "category": "BRUNCH",
+      "simplified_description": "Bagel sandwich with egg, bacon, lettuce, tomato, and cheese, plus hash browns.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BELGIAN WAFFLE",
+      "price": 12.0,
+      "description": "Baked Belgian style waffle topped with a trio of strawberries, raspberries and blackberries, topped with fresh whip cream.",
+      "category": "BRUNCH",
+      "simplified_description": "Belgian waffle topped with mixed berries and whipped cream.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA EGG",
+      "price": 2.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Additional cooked egg.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Side of cooked bacon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAM",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Side of cooked ham.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAUSAGE",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Side of cooked sausage.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HASHBROWNS",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Side of crispy hash browns.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TOAST",
+      "price": 3.0,
+      "description": "(White, Brown or Sour Dough)",
+      "category": "SIDE",
+      "simplified_description": "Choice of white, brown, or sourdough toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

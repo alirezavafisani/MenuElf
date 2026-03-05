@@ -1,0 +1,223 @@
+{
+  "restaurant": "aplusbuffet",
+  "parsed_at": "2026-02-06T00:39:04.810145",
+  "item_count": 24,
+  "items": [
+    {
+      "name": "Lunch",
+      "price": 23.99,
+      "description": "Monday – Friday",
+      "category": "OTHER",
+      "simplified_description": "Buffet available Monday through Friday for lunch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 25.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner",
+      "price": 32.99,
+      "description": "Monday – Thursday",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available Monday through Thursday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 35.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch",
+      "price": 21.99,
+      "description": "Monday – Friday",
+      "category": "OTHER",
+      "simplified_description": "Buffet available Monday through Friday for lunch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 23.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner",
+      "price": 30.99,
+      "description": "Monday – Thursday",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available Monday through Thursday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 33.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch",
+      "price": 12.99,
+      "description": "Monday – Friday",
+      "category": "OTHER",
+      "simplified_description": "Buffet available Monday through Friday for lunch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 14.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner",
+      "price": 16.99,
+      "description": "Monday – Thursday",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available Monday through Thursday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 18.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch",
+      "price": 9.99,
+      "description": "Monday – Friday",
+      "category": "OTHER",
+      "simplified_description": "Buffet available Monday through Friday for lunch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": null,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Buffet available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner",
+      "price": 13.99,
+      "description": "Monday – Thursday",
+      "category": "OTHER",
+      "simplified_description": "Dinner buffet available Monday through Thursday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 14.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Special menu available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch",
+      "price": 5.99,
+      "description": "Monday – Friday",
+      "category": "OTHER",
+      "simplified_description": "Lunch menu available Monday through Friday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 5.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Special menu available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner",
+      "price": 5.99,
+      "description": "Monday – Thursday",
+      "category": "OTHER",
+      "simplified_description": "Dinner menu available Monday through Thursday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": 5.99,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Special menu available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch",
+      "price": null,
+      "description": "Monday – Friday",
+      "category": "OTHER",
+      "simplified_description": "Lunch menu available Monday through Friday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": null,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Special menu available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner",
+      "price": null,
+      "description": "Monday – Thursday",
+      "category": "OTHER",
+      "simplified_description": "Dinner menu available Monday through Thursday.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holidays & Weekends",
+      "price": null,
+      "description": "Holidays & Weekends",
+      "category": "OTHER",
+      "simplified_description": "Special menu available on holidays and weekends.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

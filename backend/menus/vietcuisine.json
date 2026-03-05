@@ -1,0 +1,448 @@
+{
+  "restaurant": "vietcuisine",
+  "parsed_at": "2026-02-06T04:42:50.424403",
+  "item_count": 49,
+  "items": [
+    {
+      "name": "Charbroiled Pork Chop",
+      "price": 14.0,
+      "description": "Tender pork chop marinated in lemongrass and garlic, charbroiled to perfection for a smoky, savory delight.",
+      "category": "FOOD",
+      "simplified_description": "Tender pork chop marinated in lemongrass and garlic, charbroiled to perfection f",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Confit on Fried Rice",
+      "price": 16.0,
+      "description": "Slow-cooked chicken confit with crispy skin, served atop our flavorful house-made fried rice.",
+      "category": "FOOD",
+      "simplified_description": "Slow-cooked chicken confit with crispy skin, served atop our flavorful house-mad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "price": 13.5,
+      "description": "A comforting bowl of aromatic broth filled with rice noodles, tender chicken pieces, and fresh herbs.",
+      "category": "FOOD",
+      "simplified_description": "A comforting bowl of aromatic broth filled with rice noodles, tender chicken pie",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saigonese Shaken Beef with Steam Rice/Viet Bread",
+      "price": 17.0,
+      "description": "House's Special Dishes (Món Đặc Biệt) - Bò Lúc Lắc Kèm Với Cơm/Bánh Mì",
+      "category": "FOOD",
+      "simplified_description": "House's Special Dishes (Món Đặc Biệt) - Bò Lúc Lắc Kèm Với Cơm/Bánh Mì",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Fried Rice",
+      "price": 13.5,
+      "description": "House's Special Dishes (Món Đặc Biệt) - Cơm Chiên Xá Xíu",
+      "category": "FOOD",
+      "simplified_description": "House's Special Dishes (Món Đặc Biệt) - Cơm Chiên Xá Xíu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fry Dish with Steam Rice Beef, Chicken, or Seafood",
+      "price": 16.5,
+      "description": "House's Special Dishes (Món Đặc Biệt) - Món Xào +Cơm Trắng",
+      "category": "FOOD",
+      "simplified_description": "House's Special Dishes (Món Đặc Biệt) - Món Xào +Cơm Trắng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Customized Stir Fried Noodles (Beef/Chicken/Seafood)",
+      "price": 16.5,
+      "description": "House's Special Dishes (Món Đặc Biệt) - Mì Xào Tự Chọn-Bò/Gà/Hải Sản",
+      "category": "FOOD",
+      "simplified_description": "House's Special Dishes (Món Đặc Biệt) - Mì Xào Tự Chọn-Bò/Gà/Hải Sản",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Fried Rice",
+      "price": 16.0,
+      "description": "House's Special Dishes (Món Đặc Biệt) - Cơm Chiên Hải Sản",
+      "category": "FOOD",
+      "simplified_description": "House's Special Dishes (Món Đặc Biệt) - Cơm Chiên Hải Sản",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai style Stir Fried Rice Noodles",
+      "price": 16.0,
+      "description": "House's Special Dishes (Món Đặc Biệt) - Hủ Tiếu Xào Sốt Thái",
+      "category": "FOOD",
+      "simplified_description": "House's Special Dishes (Món Đặc Biệt) - Hủ Tiếu Xào Sốt Thái",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": 2.0,
+      "description": "Soft Drinks",
+      "category": "DRINK",
+      "simplified_description": "Soft Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Viet's Espresso Ice Coffee",
+      "price": 6.0,
+      "description": "Coffee",
+      "category": "DRINK",
+      "simplified_description": "Coffee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Viet's Ice Coffee with Condensed Milk",
+      "price": 7.0,
+      "description": "Coffee",
+      "category": "DRINK",
+      "simplified_description": "Coffee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Bliss",
+      "price": 7.0,
+      "description": "Coffee - (Cà Phê Dừa) (Coconut Ice Coffee)",
+      "category": "DRINK",
+      "simplified_description": "Coffee - (Cà Phê Dừa) (Coconut Ice Coffee)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cafe Salino-Viet's Signature",
+      "price": 7.0,
+      "description": "Coffee",
+      "category": "DRINK",
+      "simplified_description": "Coffee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Viet’s T-Pick Your Vibe",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa)",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orchard Bliss-Viet’s Signature",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Orange Lemongrass Kumquat Tea",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Orange Lemongrass Kumquat Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Citrus Plum Chill (Trà Tắc Xí Muội)",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Kumquat, Salted Plum Tea",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Kumquat, Salted Plum Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tropical Coco Glow (Nước Dừa Tắt Xí Muội)",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Coconut water with kumquat and salted plum",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Coconut water with kumquat and salted plum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Night Cloud",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Brown Sugar Fresh Milk with Black Pearl",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Brown Sugar Fresh Milk with Black Pearl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imperial Yam-my (Trà Sữa Khoai Môn)",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Fresh Mashed Taro with Fresh Milk",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Fresh Mashed Taro with Fresh Milk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Delice De matcha",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Matcha Milk Tea",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Matcha Milk Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Matcha Bliss (Nước Dừa Matcha)",
+      "price": 6.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Matcha Coconut Juice",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Matcha Coconut Juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme Viet’s T",
+      "price": 7.5,
+      "description": "Tea & Milk Tea (Trà & Trà Sữa) - Full Toping Milk Tea",
+      "category": "DRINK",
+      "simplified_description": "Tea & Milk Tea (Trà & Trà Sữa) - Full Toping Milk Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit Smoothies",
+      "price": 6.5,
+      "description": "Fresh Fruit Smoothies (Sinh Tố Trái Cây) - Pick your Blend Base and Flavors Blend Base: Milk/Almond Milk or Greek Yogurt Flavors: Avocado, Blueberry, Mango, Strawberry and Taro",
+      "category": "DRINK",
+      "simplified_description": "Fresh Fruit Smoothies (Sinh Tố Trái Cây) - Pick your Blend Base and Flavors Blen",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio Fried Rolls (Chả Giò Ba Vị)",
+      "price": 12.0,
+      "description": "Appetizers (Khai Vị) - Try all of our flavors! Pork, Pork Coconut, and Chicken and Shrimp.",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers (Khai Vị) - Try all of our flavors! Pork, Pork Coconut, and Chicken a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls (Chả Giò)",
+      "price": 8.0,
+      "description": "Appetizers (Khai Vị) - Pick between our Classic, Coconut, Shrimp our Veggie rolls!",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers (Khai Vị) - Pick between our Classic, Coconut, Shrimp our Veggie roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Salad Rolls (Gỏi Cuốn Tôm)",
+      "price": 6.0,
+      "description": "Appetizers (Khai Vị) - Lettuce, Bean Sprout, Basil, Vermicelli, Shrimp",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers (Khai Vị) - Lettuce, Bean Sprout, Basil, Vermicelli, Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Salad Rolls (Gỏi Cuốn Bò hoặc Gà)",
+      "price": 8.0,
+      "description": "Appetizers (Khai Vị) - Beef or Chicken",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers (Khai Vị) - Beef or Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Vermicelli Bowl",
+      "price": 15.5,
+      "description": "Vermicelli Bowl (Bún) - Comes with beef, pork, and chicken.",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli Bowl (Bún) - Comes with beef, pork, and chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Customized Vermicelli Bowl (Bún Chả Giò và Thịt Tự Chọn)",
+      "price": 13.5,
+      "description": "Vermicelli Bowl (Bún) - Beef or Chicken or Pork with Spring rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli Bowl (Bún) - Beef or Chicken or Pork with Spring rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Vermicelli Bowl (Bún Chạo Tôm)",
+      "price": 15.0,
+      "description": "Vermicelli Bowl (Bún) - House-made Shrimp Paste wrapped in bean curd skin",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli Bowl (Bún) - House-made Shrimp Paste wrapped in bean curd skin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sizzling Hot Pan Baguette (Bánh mì chảo)",
+      "price": 18.0,
+      "description": "Vietnamese Subs (Bánh Mì)",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese Subs (Bánh Mì)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Subs Trio (Bánh Mì Ba Vị)",
+      "price": 12.0,
+      "description": "Vietnamese Subs (Bánh Mì) - Beef, Chicken and Shrimp",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese Subs (Bánh Mì) - Beef, Chicken and Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Subs of your choice (Bánh Mì Tự Chọn)",
+      "price": 9.0,
+      "description": "Vietnamese Subs (Bánh Mì) - Beef or Chicken or Shrimp",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese Subs (Bánh Mì) - Beef or Chicken or Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork (Bánh Mì Xá Xíu)",
+      "price": 9.0,
+      "description": "Vietnamese Subs (Bánh Mì)",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese Subs (Bánh Mì)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Noodle (Phở Rau Cải)",
+      "price": 13.0,
+      "description": "Vegetarian Dishes (Món Chay) - Fried Tofu, Vegan Meatball, Mix Veggies",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes (Món Chay) - Fried Tofu, Vegan Meatball, Mix Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Noodle with Tofu (Mì Xào Chay)",
+      "price": 13.0,
+      "description": "Vegetarian Dishes (Món Chay)",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes (Món Chay)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Vermicelli Bowl (Bún Chay)",
+      "price": 9.5,
+      "description": "Vegetarian Dishes (Món Chay) - Lemongrass Stir-Fried Tofu, Vegie Spring Rolls",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes (Món Chay) - Lemongrass Stir-Fried Tofu, Vegie Spring Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Sub (Bánh Mì Chay)",
+      "price": 7.5,
+      "description": "Vegetarian Dishes (Món Chay) - Lemongrass Stir-Fried Tofu, Pickle Vegies",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes (Món Chay) - Lemongrass Stir-Fried Tofu, Pickle Vegies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Rice Dish (Cơm Sườn, Bì, Trứng Chiên)",
+      "price": 14.5,
+      "description": "Rice Dishes (Cơm Dĩa) - Shredded Pork, Fried Egg, Charbroiled Pork Chop",
+      "category": "FOOD",
+      "simplified_description": "Rice Dishes (Cơm Dĩa) - Shredded Pork, Fried Egg, Charbroiled Pork Chop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroiled Pork Chop on Steam Rice",
+      "price": 14.0,
+      "description": "Rice Dishes (Cơm Dĩa) - Cơm Cốt Lết Heo Nướng",
+      "category": "FOOD",
+      "simplified_description": "Rice Dishes (Cơm Dĩa) - Cơm Cốt Lết Heo Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Lemongrass Chicken on Steam Rice",
+      "price": 14.0,
+      "description": "Rice Dishes (Cơm Dĩa) - Cơm Gà Nướng Sả",
+      "category": "FOOD",
+      "simplified_description": "Rice Dishes (Cơm Dĩa) - Cơm Gà Nướng Sả",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Ribs on Steam Rice",
+      "price": 16.0,
+      "description": "Rice Dishes (Cơm Dĩa) - Cơm Sườn Heo Nướng",
+      "category": "FOOD",
+      "simplified_description": "Rice Dishes (Cơm Dĩa) - Cơm Sườn Heo Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Confit on Fried Rice",
+      "price": 16.0,
+      "description": "Rice Dishes (Cơm Dĩa) - Cơm Đùi Gà Chiên",
+      "category": "FOOD",
+      "simplified_description": "Rice Dishes (Cơm Dĩa) - Cơm Đùi Gà Chiên",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Beef Noodle Soup (Phở Đặc Biệt)",
+      "price": 15.0,
+      "description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Rare Beef, Tendon, Brisket, Beef Balls and Tripe",
+      "category": "FOOD",
+      "simplified_description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Rare Beef, Tendon, Brisket, Beef Balls and T",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Customized Noodle Soup (Phở Bò Tự Chọn)",
+      "price": 13.5,
+      "description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Select up to 3 toppings for your Pho! Rare Beef, Tendon, Brisket, Beef Balls, or Tripe",
+      "category": "FOOD",
+      "simplified_description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Select up to 3 toppings for your Pho! Rare B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup (Phở Gà)",
+      "price": 13.5,
+      "description": "Noodle Soup (Phở Bò, Gà, Hải Sản)",
+      "category": "FOOD",
+      "simplified_description": "Noodle Soup (Phở Bò, Gà, Hải Sản)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Noodle Soup (Phở Hải Sản)",
+      "price": 15.0,
+      "description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Prawn, Squid, Immitation Crab",
+      "category": "FOOD",
+      "simplified_description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Prawn, Squid, Immitation Crab",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hue Style Beef Noodle Soup (Bun Bo Hue)",
+      "price": 15.0,
+      "description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Brisket Beef, Viet's sausage, Pork Balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle Soup (Phở Bò, Gà, Hải Sản) - Brisket Beef, Viet's sausage, Pork Balls",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

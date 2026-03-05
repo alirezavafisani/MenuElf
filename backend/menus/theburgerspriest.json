@@ -1,0 +1,115 @@
+{
+  "restaurant": "theburgerspriest",
+  "parsed_at": "2026-02-06T04:29:21.429137",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "Fresh Cut Fries",
+      "price": 4.69,
+      "description": "Here's the process. We take potatoes, cut them in-house (daily) and fry until golden brown.",
+      "category": "SIDE",
+      "simplified_description": "Here's the process. We take potatoes, cut them in-house (daily) and fry until go",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stern Fries",
+      "price": 6.99,
+      "description": "Fries + Onions + Cheese + Secret Sauce = One of our favourite creations ever.",
+      "category": "SIDE",
+      "simplified_description": "Fries + Onions + Cheese + Secret Sauce = One of our favourite creations ever.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 7.89,
+      "description": "A Canadian staple, icon, masterpiece, and legend that needs no introduction... but for legal reasons we'll tell you anyways. Fresh cut fries, cheese curds & gravy.",
+      "category": "SIDE",
+      "simplified_description": "A Canadian staple, icon, masterpiece, and legend that needs no introduction... b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": 1.99,
+      "description": "Baked fresh daily in-house.",
+      "category": "DESSERT",
+      "simplified_description": "Baked fresh daily in-house.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can of Pop",
+      "price": 1.99,
+      "description": "Best pop selection in the game.",
+      "category": "DRINK",
+      "simplified_description": "Best pop selection in the game.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shake",
+      "price": 4.99,
+      "description": "Do you want some fries with that shake? Oops, we mean do you want a shake with those fries? We know you do.",
+      "category": "DRINK",
+      "simplified_description": "Do you want some fries with that shake? Oops, we mean do you want a shake with t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bull",
+      "price": 3.99,
+      "description": "Red Bull",
+      "category": "DRINK",
+      "simplified_description": "Red Bull",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOCOLATE MILK2GO",
+      "price": 1.99,
+      "description": "1% CHOCOLATE MILK. 100% DELICIOUS.",
+      "category": "DRINK",
+      "simplified_description": "1% CHOCOLATE MILK. 100% DELICIOUS.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Secret Sauce",
+      "price": 0.5,
+      "description": "You don't expect us to give away our secrets, do you?",
+      "category": "OTHER",
+      "simplified_description": "You don't expect us to give away our secrets, do you?",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Gravy",
+      "price": 1.79,
+      "description": "Gluten-Free. Delicious.",
+      "category": "OTHER",
+      "simplified_description": "Gluten-Free. Delicious.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side G14 Sauce",
+      "price": 0.5,
+      "description": "You get the best of both worlds. Our Secret Sauce mixed with our BBQ sauce.",
+      "category": "OTHER",
+      "simplified_description": "You get the best of both worlds. Our Secret Sauce mixed with our BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Deception",
+      "price": 0.5,
+      "description": "Our Secret Sauce + Sriracha. This one bites back.",
+      "category": "OTHER",
+      "simplified_description": "Our Secret Sauce + Sriracha. This one bites back.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "restaurant": "the pickle barrel",
+  "parsed_at": "2025-12-25T02:59:41.477930",
+  "item_count": 31,
+  "items": [
+    {
+      "name": "Fish and Chips",
+      "price": null,
+      "description": "Deep fried haddock fillet, served with tartar sauce and seasoned fries.",
+      "simplified_description": "Fried fish served with sauce and fries.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers and Fries",
+      "price": null,
+      "description": "Served with seasoned fries and plum sauce.",
+      "simplified_description": "Fried chicken strips served with fries and sauce.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese and Fries",
+      "price": null,
+      "description": "Made with Canadian cheddar. Served with seasoned fries.",
+      "simplified_description": "Cheese sandwich served with fries.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon and Eggs",
+      "price": null,
+      "description": "Scrambled eggs, applewood smoked bacon and toast.",
+      "simplified_description": "Scrambled eggs with bacon and toast.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Burger and Fries",
+      "price": null,
+      "description": "Angus beef patty, with lettuce and tomato. Served with seasoned fries.",
+      "simplified_description": "Beef burger with lettuce and tomato, served with fries.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Teriyaki and Market Vegetables",
+      "price": null,
+      "description": "Grilled chicken breast, and market vegetables. Served with teriyaki sauce.",
+      "simplified_description": "Grilled chicken with vegetables and teriyaki sauce.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "7 oz Steak and Eggs",
+      "price": null,
+      "description": "AAA top sirloin, three eggs, crispy potato barrels, fresh fruit and choice of toast.\n*Add-ons: sautéed mushrooms 2.50 | sautéed onions 2.50*",
+      "simplified_description": "Steak with eggs, potatoes, fruit, and toast.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": "Add-ons available for extra charge."
+    },
+    {
+      "name": "Bacon and Eggs",
+      "price": null,
+      "description": "Three eggs, applewood smoked bacon or peameal bacon, crispy potato barrels, fresh fruit and choice of toast.",
+      "simplified_description": "Three eggs with bacon and potatoes, served with fruit and toast.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grand Breakfast",
+      "price": null,
+      "description": "Three eggs, applewood smoked bacon, peameal bacon, french toast, crispy potato barrels, fresh fruit and choice of toast.",
+      "simplified_description": "A large breakfast with eggs, two types of bacon, french toast, potatoes, fruit, and toast.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs Benedict",
+      "price": null,
+      "description": "Two poached eggs served on a toasted english muffin, with peameal bacon or applewood smoked bacon, and hollandaise sauce. Served with crispy potato barrels and fresh fruit.",
+      "simplified_description": "Poached eggs on a muffin with bacon and sauce, served with potatoes and fruit.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato and Avocado Benedict",
+      "price": null,
+      "description": "Two poached eggs served on a toasted english muffin, with sliced avocado, tomato and hollandaise sauce. Served with crispy potato barrels and fresh fruit.",
+      "simplified_description": "Poached eggs on a muffin with avocado and tomato, served with potatoes and fruit.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Strawberry French Toast",
+      "price": null,
+      "description": "Thick sliced bread dipped in a vanilla egg mix, fried and tossed in cinnamon sugar. Topped with caramel, strawberry sauce, fresh strawberries and whipped cream. Served with syrup.",
+      "simplified_description": "French toast with strawberries and cream, served with syrup.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Toast",
+      "price": null,
+      "description": "Grilled 9-grain bread, swiss cheese, avocado, sautéed spinach, tomato and two poached eggs. Served with hollandaise sauce, crispy potato barrels and fresh fruit.",
+      "simplified_description": "Toast with cheese, avocado, spinach, tomato, and poached eggs, served with sauce, potatoes, and fruit.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Benedict",
+      "price": null,
+      "description": "Two poached eggs served on a toasted english muffin with lobster meat and hollandaise sauce. Served with crispy potato barrels and fresh fruit.\n*Add-ons: Avocado 3 | Bacon 2.50 | Peameal bacon 2.50 | Egg 2.50 | Hollandaise sauce 2.50 | Potato barrels 2.50*",
+      "simplified_description": "Poached eggs on a muffin with lobster and sauce, served with potatoes and fruit.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": "Add-ons available for extra charge."
+    },
+    {
+      "name": "Chocolate Fudge Cake",
+      "price": null,
+      "description": "Chocolate fudge cake, devil's food cake, chocolate icing and ganache.",
+      "simplified_description": "Rich chocolate cake with icing.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Cheesecake",
+      "price": null,
+      "description": "Strawberry or Chocolate sauce.",
+      "simplified_description": "Cheesecake served with strawberry or chocolate sauce.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream Sundae",
+      "price": null,
+      "description": "Strawberry, chocolate or caramel sauce, topped with whipped cream.",
+      "simplified_description": "Ice cream with sauce and whipped cream.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Chocolate Cake",
+      "price": null,
+      "description": "Chocolate cake, white chocolate mousse, fresh berries.",
+      "simplified_description": "Chocolate cake with mousse and berries.",
+      "category": "Desserts",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Sticky Toffee Pudding",
+      "price": null,
+      "description": "Vanilla sponge cake, dates, whipped cream, golden toffee sauce. Served with vanilla ice cream and caramel drizzle.",
+      "simplified_description": "Sponge cake with dates and toffee sauce, served with ice cream.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Brewed Coffee",
+      "price": null,
+      "description": "Regular or decaf.",
+      "simplified_description": "Coffee available in regular or decaf.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Tea",
+      "price": null,
+      "description": "",
+      "simplified_description": "Regular tea.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty Tea",
+      "price": null,
+      "description": "",
+      "simplified_description": "Specialty tea.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": null,
+      "description": "",
+      "simplified_description": "Strong coffee.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano",
+      "price": null,
+      "description": "",
+      "simplified_description": "Espresso with hot water.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": null,
+      "description": "",
+      "simplified_description": "Espresso with steamed milk and foam.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": null,
+      "description": "",
+      "simplified_description": "Espresso with steamed milk.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bailey's Irish Cream Coffee (1 oz)",
+      "price": null,
+      "description": "Bailey's Irish Cream.",
+      "simplified_description": "Coffee with Bailey's Irish Cream.",
+      "category": "Specialty Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Irish Whiskey Coffee (1 oz)",
+      "price": null,
+      "description": "Jameson Irish whiskey.",
+      "simplified_description": "Coffee with Irish whiskey.",
+      "category": "Specialty Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "P.B. 52 Coffee (1 oz)",
+      "price": null,
+      "description": "Orange liqueur, Kahlúa, and Bailey's Irish cream.",
+      "simplified_description": "Coffee with orange liqueur, Kahlúa, and Bailey's.",
+      "category": "Specialty Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spanish Coffee (1 oz)",
+      "price": null,
+      "description": "Kahlúa and brandy.",
+      "simplified_description": "Coffee with Kahlúa and brandy.",
+      "category": "Specialty Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Tea (1 oz)",
+      "price": null,
+      "description": "Grand Marnier, Amaretto, and orange pekoe tea.",
+      "simplified_description": "Tea with Grand Marnier and Amaretto.",
+      "category": "Specialty Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

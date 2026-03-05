@@ -1,0 +1,1015 @@
+{
+  "restaurant": "wingschinesehouse",
+  "parsed_at": "2026-02-06T04:51:12.224287",
+  "item_count": 112,
+  "items": [
+    {
+      "name": "4b. Honey Garlic Deep Fried Chicken Wings",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "5. Barbecued Sweet Pork",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6. Grilled Pork & Vegetable Dumplings (10)",
+      "price": 12.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "7. Deep Fried Pork & Vegetable Dumplings (10)",
+      "price": 12.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8. Breaded Dry Garlic Spareribs",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "9. Wonton Soup",
+      "price": null,
+      "description": "* * *",
+      "category": "SOUP",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10. Wor Wonton Soup",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "SOUP",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "11. Hot & Sour Soup (L)",
+      "price": 11.95,
+      "description": "spicy",
+      "category": "SOUP",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12. Creamy Corn & Chicken Soup",
+      "price": 11.95,
+      "description": "* * *",
+      "category": "SOUP",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "13. Mixed Seafood Soup",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "SOUP",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "14. Chicken or Pork Noodle Soup",
+      "price": null,
+      "description": "* * *",
+      "category": "SOUP",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "15. Ginger Chicken",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "16. Salt & Pepper Chicken",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "17. Szechuan Style Chicken",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "18. Palace Style Chicken",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "19. Sliced Chicken in Curry Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20. Sliced Chicken in Satay Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "21. Sliced Chicken in Black Pepper Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "22. Sliced Chicken in Honey & Hot Pepper Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHICKEN",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "23. Lemon OR Almond Soo Gai (Breaded Chicken Breast)",
+      "price": null,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "24. Pineapple Sweet & Sour Chicken",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "25. Sweet & Sour OR Almond Chicken Balls",
+      "price": null,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "26. Honey Lemon Chicken",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "27. Sesame Chicken",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "28. Sliced Chicken in Black Bean Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "30. Sliced Chicken with Mango",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "29. Sliced Chicken in Oyster Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "31. Diced Chicken & Vegetables & Cashew Nuts",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "32. Diced Chicken & Cashew Nuts in Yellow Bean Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "33. Chicken & Mixed Vegetables",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "CHICKEN",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "34. Ginger Beef",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "beef",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "35. Sliced Beef in Currry Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "beef",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "36. Sliced Beef in Satay Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "beef",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "37. Sliced Beef in Black Pepper Sauce",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "beef",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "38. Szechuan Style Beef",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "beef",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "39. Beef & Mixed Vegetables",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "40. Beef & Broccoli",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "41. Beef & Tomato",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "42. Beef & Snow Peas",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "43. Beef with Mushroom & Baby Corn",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "44. Beef with Green Onions",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "45. Beef with Peking Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "46. Sliced Beef in Black Bean Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "47. Sliced Beef in Oyster Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "beef",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "48. Szechuan Style B.B.Q. Pork",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "49. Salt & Pepper Spareribs",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "50. Salt & Pepper Pork Chop",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "51. Peking Style Sweet & Sour Pork Chop",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "52. Sweet & Sour Pork with Pineapples",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "53. Honey Garlic Spareribs OR Pork",
+      "price": null,
+      "description": "* * *",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "54. Sweet & Sour Spareribs",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "55. Spareribs in Black Bean Sauce",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "PORK & SPARERIBS",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "72. Chicken, Beef or B.B.Q Pork Egg Foo Yong",
+      "price": null,
+      "description": "* * *",
+      "category": "EGG FOO YONG",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "73. Mushroom Egg Foo Yong",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "EGG FOO YONG",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "74. Vegetables Egg Foo Yong",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "EGG FOO YONG",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "75. Shrimps Egg Foo Yong",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "EGG FOO YONG",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "76. Special Egg Foo Yong",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "EGG FOO YONG",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "56. Ginger Fried Squid",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "57. Squid in Curry Sauce",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "58. Salt & Pepper Squid",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "59. Salt & Pepper Shrimps",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "60. Salt & Pepper Seafood",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "61. Palace Style Shrimps",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "62. Szechuan Style Shrimps",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "63. Shrimps in Curry Sauce",
+      "price": 17.95,
+      "description": "spicy",
+      "category": "SEAFOOD",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "64. Deep Fried Shrimps in Batter (S & S Sauce)",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "65. Sweet & Sour Shrimps with Pineapples",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "66. Pan Fried Shrimps",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "67. Fresh Tomato Shrimps",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "68. Shrimps in Black Bean Sauce",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "69. Shrimps Meats with Vegetables & Cashew Nuts",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "70. Shrimps with Mixed Vegetables",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "71. Mixed Seafood with Mixed Vegetables",
+      "price": 17.95,
+      "description": "* * *",
+      "category": "SEAFOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "77. Four Kinds of Vegetables in Oyster Sauce",
+      "price": 14.95,
+      "description": "(Broccoli, Snow Peas, Baby Corn & Mushroom)",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "(Broccoli, Snow Peas, Baby Corn & Mushroom)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "78. Stir-Fried Mixed Vegetables in Garlic Sauce",
+      "price": 14.95,
+      "description": "(No Meats)",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "(No Meats)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "79. House Special Mixed Vegetables & Meat",
+      "price": 15.95,
+      "description": "* * *",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "80. Salt and Pepper Tofu",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "81. Chicken, Beef OR B.B.Q. Pork Chop Suey",
+      "price": null,
+      "description": "(Bean Sprouts)",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "(Bean Sprouts)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "82. Mushroom Chop Suey",
+      "price": 14.95,
+      "description": "(Bean Sprouts)",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "(Bean Sprouts)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "83. Shrimps Chop Suey",
+      "price": 14.95,
+      "description": "(Bean Sprouts)",
+      "category": "VEGETABLES & CHOP SUEY",
+      "simplified_description": "(Bean Sprouts)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "84. Chicken, Beef, B.B.Q. Pork or Mushroom Chow Mein",
+      "price": null,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "85. Mixed Vegetables Chow Mein",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "86. Shrimps Chow Mein",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "87. Cantonese Style Chow Mein",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "88. Beef in Black Pepper Sauce with Chow Mein",
+      "price": 15.95,
+      "description": "spicy",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "89. Mixed Seafood Chow Mein",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "90. Singapore Fried Rice Noodles",
+      "price": 16.95,
+      "description": "spicy",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "91. Chicken Fried Rice Noodles",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "92. Mixed Vegetables Fried Rice Noodles",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "93. Beef Chow Fun",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "94. Beef Chow Fun in Black Bean Sauce",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "95. Mixed Seafood Chow Fun",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "CHOW MEIN (THIN EGG NOODLES)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "102. Chicken, Beef or B.B.Q. Pork Fried Rice",
+      "price": null,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "103. Mushroom Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "104. Mixed Vegtables Fried Rice",
+      "price": 13.95,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "105. Shrimps Fried Rice",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "106. Curry Chicken or Beef Fried Rice",
+      "price": null,
+      "description": "spicy",
+      "category": "RICE",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "107. House Special Fried Rice",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "108.Plain Fried Rice",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "109. Steam Rice",
+      "price": 3.25,
+      "description": "* * *",
+      "category": "RICE",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "96. Shanghai Fried Noodle with Satay Beef",
+      "price": 14.95,
+      "description": "spicy",
+      "category": "SHANGHAI NOODLES (THICK)",
+      "simplified_description": "spicy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "97. Szechuan Fried Shanghai Noodles",
+      "price": 14.95,
+      "description": "spicy (with assorted meat)",
+      "category": "SHANGHAI NOODLES (THICK)",
+      "simplified_description": "spicy (with assorted meat)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "98. Shanghai Fried Noodles with B.B.Q. Pork",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "SHANGHAI NOODLES (THICK)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "99. Shanghai Fried Noodles with Chicken & Vegetables",
+      "price": 14.95,
+      "description": "* * *",
+      "category": "SHANGHAI NOODLES (THICK)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "100. Shanghai Fried Noodles with Mixed Vegetables",
+      "price": 14.95,
+      "description": "(No Meats)",
+      "category": "SHANGHAI NOODLES (THICK)",
+      "simplified_description": "(No Meats)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "101. Shanghai Fried Noodles with Seafood",
+      "price": 16.95,
+      "description": "* * *",
+      "category": "SHANGHAI NOODLES (THICK)",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 5.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "111a. Extra Sauce (S)",
+      "price": 1.5,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "111b. Extra Sauce (L)",
+      "price": 3.5,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "112. Bottled Water (500ml)",
+      "price": 2.95,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "113. Canned Pop",
+      "price": 3.25,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "114. 2L Pop",
+      "price": 5.5,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

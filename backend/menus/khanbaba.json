@@ -1,0 +1,781 @@
+{
+  "restaurant": "khanbaba",
+  "parsed_at": "2025-12-25T02:33:42.233264",
+  "item_count": 86,
+  "items": [
+    {
+      "name": "Veggie Samosa",
+      "price": 1.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Papri Chat",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki Chat",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chat",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dahi Bhallay",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Namakpara (1 Lb.)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pakora (1 Lb.)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Pakora (1 Lb.)",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Keema Matar",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Karahi",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Haleem (Beef)",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nihari (Beef)",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Paya",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Karahi",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Curries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Wrap",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seekh Kabab Chicken (2 PCs)",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seekh Kabab (2 PCs) (Beef)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shaami Kabab Chicken (4 PCs)",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings (10 PCs)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken Tikka Boneless (10 PCs)",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Fish (1 Lb.)",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peshawari Chappli Kabob (4 PCs)",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Fish (1 lb)",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhindi Masala",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lahori Chanay/Choley",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veggies",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhi Pakoda",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobia/Rajma",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Maash",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Karahi Paneer",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Naan",
+      "price": 1.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chapati",
+      "price": 1.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tava Roti",
+      "price": 1.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 2.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Paratha",
+      "price": 3.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Naan",
+      "price": 3.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lachha Paratha",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aaloo Paratha",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Keema Naan",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zeera Rice",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Biryani",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Fried Rice",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Dum Biryani",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yakhni Pulao (Chicken)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sindhi Dum Biryani",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Dum Biryani",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza 10\" (Small)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "KB Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza 12\" (Medium)",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "KB Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Pizza 10\" (Small)",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "KB Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza 14\" (Large)",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "KB Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza 16\" (XL)",
+      "price": 22.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "KB Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Andaiwala Burger/Bun Kabab",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Burger",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Burger",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Kheer",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zarda (Mutanjan)",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Jalebi (1 lb)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Motichur Laddu (1 lb)",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun (1 lb)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Khoya Burfi (1 lb)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kalakand (1 lb)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milk Cake (1 lb)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun Coconut (1 lb)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Sweet (1 lb)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sweets and Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle",
+      "price": 1.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop Can",
+      "price": 2.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea",
+      "price": 2.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Karak Chai",
+      "price": 2.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Coffee",
+      "price": 2.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dodh Patti Chai",
+      "price": 3.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee with Milk & Cream",
+      "price": 2.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kashmiri Chai (Pink Tea)",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Liter Pop",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salty Lassi",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falooda (Ice-Cream)",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

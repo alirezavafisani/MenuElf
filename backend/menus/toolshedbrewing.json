@@ -1,0 +1,259 @@
+{
+  "restaurant": "toolshedbrewing",
+  "parsed_at": "2026-02-06T04:39:10.703658",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "Carolina Pulled Pork",
+      "price": 18.0,
+      "description": "Pork shoulder, Memphis red, creamy coleslaw, hickory sticks, served on a potato bun",
+      "category": "FOOD",
+      "simplified_description": "Pork shoulder, Memphis red, creamy coleslaw, hickory sticks, served on a potato ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Texas - Style Brisket Sandwich",
+      "price": 21.0,
+      "description": "Brisket, people skills beer mustard, garlic aioli, arugula, house-made pickles, served on a sesame bun",
+      "category": "FOOD",
+      "simplified_description": "Brisket, people skills beer mustard, garlic aioli, arugula, house-made pickles, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Honey Chicken Sandwich",
+      "price": 19.0,
+      "description": "Chicken thighs marinated in our Golden Hour Beer, grilled and tossed in hot honey sauce, pickled onions, arugula, smokehouse green sauce, smoked pumpkin seeds on a brioche bun",
+      "category": "FOOD",
+      "simplified_description": "Chicken thighs marinated in our Golden Hour Beer, grilled and tossed in hot hone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Backyard Burger",
+      "price": 19.0,
+      "description": "Alberta ground chuck, cheddar cheese, house burger sauce, fired over charcoal just like at home! Served on a sesame bun • Add Bacon for A Toonie | Add Groceries for A Loonie",
+      "category": "FOOD",
+      "simplified_description": "Alberta ground chuck, cheddar cheese, house burger sauce, fired over charcoal ju",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Texas Style Brisket",
+      "price": 19.0,
+      "description": "Served with people skills beer mustard",
+      "category": "FOOD",
+      "simplified_description": "Served with people skills beer mustard",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carolina Pulled Pork",
+      "price": 17.0,
+      "description": "Served with Memphis red BBQ sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with Memphis red BBQ sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulled Whole Chicken",
+      "price": 17.0,
+      "description": "Served with Alabama white sauce | Regular or Nashville Hot",
+      "category": "FOOD",
+      "simplified_description": "Served with Alabama white sauce | Regular or Nashville Hot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pig Candy",
+      "price": 17.0,
+      "description": "Served with sweet sticky glaze",
+      "category": "FOOD",
+      "simplified_description": "Served with sweet sticky glaze",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calgary's Best Ribs",
+      "price": 21.0,
+      "description": "Half Rack • Memphis style pork ribs glazed and dry rubbed. Served with Memphis red",
+      "category": "FOOD",
+      "simplified_description": "Half Rack • Memphis style pork ribs glazed and dry rubbed. Served with Memphis r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alabama Chicken Wings",
+      "price": 18.0,
+      "description": "Full pound of 24-hour brined wings, dusted in our house rub. Served with Alabama white sauce | 11 – 12 wings",
+      "category": "FOOD",
+      "simplified_description": "Full pound of 24-hour brined wings, dusted in our house rub. Served with Alabama",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips & Pico De Gallo (DF, GF, V)",
+      "price": 8.0,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charcuterie Chex Mix",
+      "price": 11.0,
+      "description": "Pretzels, Goldfish crackers, pepperoni bites, dried fruit, jerky, toasted nuts and seeds",
+      "category": "SNACKS",
+      "simplified_description": "Pretzels, Goldfish crackers, pepperoni bites, dried fruit, jerky, toasted nuts a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Josper Fired Pretzel Bites",
+      "price": 11.0,
+      "description": "Served with beer mustard cheese sauce",
+      "category": "SNACKS",
+      "simplified_description": "Served with beer mustard cheese sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Texas Trash Dip (GF)",
+      "price": 15.0,
+      "description": "Refried beans and cream cheese blended with a touch of smoky chipotle peppers and topped with our Cowboy corn & bean salad. Served with tortilla chips",
+      "category": "SNACKS",
+      "simplified_description": "Refried beans and cream cheese blended with a touch of smoky chipotle peppers an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grazing Board",
+      "price": 26.0,
+      "description": "Chef’s selection of fresh cut veggies, crackers, pickles, hummus, naan",
+      "category": "SNACKS",
+      "simplified_description": "Chef’s selection of fresh cut veggies, crackers, pickles, hummus, naan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cinnamon Sugar Donut Holes",
+      "price": 9.0,
+      "description": "Warm vanilla cake donuts tossed in melted butter and cinnamon sugar",
+      "category": "DESSERT",
+      "simplified_description": "Warm vanilla cake donuts tossed in melted butter and cinnamon sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brownie Bites with Righteous Gelato",
+      "price": 11.0,
+      "description": "Warm brownie bites served with Madagascar vanilla bean gelato, caramel sauce, topped with sweet & smoky pecan pieces",
+      "category": "DESSERT",
+      "simplified_description": "Warm brownie bites served with Madagascar vanilla bean gelato, caramel sauce, to",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "People Skills",
+      "price": null,
+      "description": "Beer | 5.2% • Our crushable beer is light, refreshing, and gets along with everybody. This smooth, lightly hopped ale offers beautiful mouthfeel and a golden crystal-clear appearance. It's a real crowd pleaser.",
+      "category": "DRINK",
+      "simplified_description": "Beer | 5.2% • Our crushable beer is light, refreshing, and gets along with every",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Rage",
+      "price": null,
+      "description": "Red Ale | 5.6% • Roasty like coffee, toasty like fresh bread, and makes your mouth water for more. We put just enough hops in to remind you what they’re capable of. This ale is medium boded and easy to drink.",
+      "category": "DRINK",
+      "simplified_description": "Red Ale | 5.6% • Roasty like coffee, toasty like fresh bread, and makes your mou",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Golden Hour",
+      "price": null,
+      "description": "Hazy Pale | 5.5% • Golden Hour beer mirrors the hazy golden hue of the sun on the horizon. With each delicious sip you’ll experience a burst of peach, mango, and pineapple, reminiscent of your favorite tropical punch! Make any hour the Golden Hour!",
+      "category": "DRINK",
+      "simplified_description": "Hazy Pale | 5.5% • Golden Hour beer mirrors the hazy golden hue of the sun on th",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Departure",
+      "price": null,
+      "description": "West Coast IPA | 6.7% • Our departure began with a road trip to Yakima, home to the world’s finest hops, sparking a new evolution of our West Coast IPA. With grapefruit, stone fruit, and citrus notes, it’s crisp, aromatic, and breaks away from the ordinary. It’s built for those who carve their own path!",
+      "category": "DRINK",
+      "simplified_description": "West Coast IPA | 6.7% • Our departure began with a road trip to Yakima, home to ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Late to The Party",
+      "price": null,
+      "description": "Hazy IPA | 7.2% • A vibrant New England IPA brewed with Citra, El Dorado and Riwaka hops that are bursting with bright citrus notes, pineapple, and pink grapefruit. Smooth and juicy, it's the perfect way to catch up if you're late to the party!",
+      "category": "DRINK",
+      "simplified_description": "Hazy IPA | 7.2% • A vibrant New England IPA brewed with Citra, El Dorado and Riw",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prairie Berry Sour",
+      "price": null,
+      "description": "Sour | 5.9% • We had a lively debate about the greatest berry on earth — and our Prairie-born team quickly agreed: Saskatoon berries win! They bring back memories of purple hands from berry picking and gramma’s famous pie. Proudly grown in the Canadian prairies, these berries inspired a brand new beer.",
+      "category": "DRINK",
+      "simplified_description": "Sour | 5.9% • We had a lively debate about the greatest berry on earth — and our",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flat Cap",
+      "price": null,
+      "description": "Stout | 5.2% • Deeply roasty and rich with a surprising presence of hops and a beautiful, smooth, dry finish. If ever a stout were to rock a at cap like Jamie did, this would be that beer!",
+      "category": "DRINK",
+      "simplified_description": "Stout | 5.2% • Deeply roasty and rich with a surprising presence of hops and a b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pete's Pils",
+      "price": null,
+      "description": "Pilsner | 4.5% • This beautifully simple Pilsner is a perfect representation of what life is like in the mountains. It’s easy, flavourful, light, rewarding and it’s even brewed with water originating from Kananaskis | Pick your pour: Hladinka, Šnyt, Mlíko.",
+      "category": "DRINK",
+      "simplified_description": "Pilsner | 4.5% • This beautifully simple Pilsner is a perfect representation of ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zero People Skills",
+      "price": null,
+      "description": "Beer | 0.5% • Barley, Hops, Yeast, and Water. The definition of beer! Still has the same great ingredients. Still the same great People Skills Beer. Still has the same great flavor. But with zero alcohol, I guess we’d have no choice but to call it “Zero People Skills”!",
+      "category": "DRINK",
+      "simplified_description": "Beer | 0.5% • Barley, Hops, Yeast, and Water. The definition of beer! Still has ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zero Red Rage",
+      "price": null,
+      "description": "Red Ale | 0.5% • This “Zero Version” contains all the same freakish, ginger rage of the original Red Rage, just without the alcohol! At Tool Shed we feel 0.5% beer should be for everyone, not just light beer drinkers so here’s one with some oomph!! A true red ale that’ll shock you that’s it non-alcoholic!",
+      "category": "DRINK",
+      "simplified_description": "Red Ale | 0.5% • This “Zero Version” contains all the same freakish, ginger rage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zero Golden Hour",
+      "price": null,
+      "description": "Hazy Pale | 0.5% • Zero Golden Hour is all the glow, none of the buzz. Same golden haze, same tropical vibes - peach, mango, pineapple - now at just 0.5%. Whether you're on the clock, on the trails, or just taking it easy, this brew brings the good times without the alcohol. Because Golden Hour isn't about what's in your glass - it's about what's around you.",
+      "category": "DRINK",
+      "simplified_description": "Hazy Pale | 0.5% • Zero Golden Hour is all the glow, none of the buzz. Same gold",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

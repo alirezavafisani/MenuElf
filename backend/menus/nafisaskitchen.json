@@ -1,0 +1,79 @@
+{
+  "restaurant": "nafisaskitchen",
+  "parsed_at": "2026-02-06T03:28:46.732980",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Cheese Burger",
+      "price": 8.99,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "category": "OTHER",
+      "simplified_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 5.99,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "category": "APPETIZER",
+      "simplified_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Burger",
+      "price": 7.5,
+      "description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Aenean commodo ligula eget dolor. Nulla facilisi. Sed mollis,",
+      "category": "DESSERT",
+      "simplified_description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken",
+      "price": 8.5,
+      "description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Aenean commodo ligula eget dolor. Nulla facilisi. Sed mollis,",
+      "category": "OTHER",
+      "simplified_description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Burger",
+      "price": 8.35,
+      "description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Aenean commodo ligula eget dolor. Nulla facilisi. Sed mollis,",
+      "category": "APPETIZER",
+      "simplified_description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lava cake",
+      "price": 10.0,
+      "description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Aenean commodo ligula eget dolor. Nulla facilisi. Sed mollis,",
+      "category": "OTHER",
+      "simplified_description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza",
+      "price": 10.99,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "category": "OTHER",
+      "simplified_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegan Burger",
+      "price": 8.5,
+      "description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Aenean commodo ligula eget dolor. Nulla facilisi. Sed mollis,",
+      "category": "OTHER",
+      "simplified_description": "Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

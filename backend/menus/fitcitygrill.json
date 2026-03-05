@@ -1,0 +1,577 @@
+{
+  "restaurant": "fitcitygrill",
+  "parsed_at": "2026-02-06T02:13:55.586547",
+  "item_count": 55,
+  "items": [
+    {
+      "name": "Denver western",
+      "price": null,
+      "description": "Romaine lettuce, chicken, Caesar sauce. Egg omelet with green and red pepper and onion.",
+      "category": "BREAKFAST",
+      "simplified_description": "Egg omelet with chicken, peppers, onion, lettuce, and Caesar sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage toast",
+      "price": null,
+      "description": "Eggs, sausage.",
+      "category": "BREAKFAST",
+      "simplified_description": "Eggs served with sausage on toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon toast",
+      "price": null,
+      "description": "Eggs, bacon.",
+      "category": "BREAKFAST",
+      "simplified_description": "Eggs served with bacon on toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ham toast",
+      "price": null,
+      "description": "Eggs, ham.",
+      "category": "BREAKFAST",
+      "simplified_description": "Eggs served with ham on toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Bagel/Muffin",
+      "price": null,
+      "description": "Egg, bacon, cheddar cheese.",
+      "category": "BREAKFAST",
+      "simplified_description": "Egg, bacon, and cheddar cheese on a bagel or muffin.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Croissant side",
+      "price": null,
+      "description": "Egg, ham, bacon, cheddar cheese, croissant.",
+      "category": "BREAKFAST",
+      "simplified_description": "Egg, ham, bacon, and cheddar cheese in a croissant.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": null,
+      "description": "Romaine lettuce, red onion, black olives, green and red pepper, tomato, cucumber, feta cheese, olive oil.",
+      "category": "SALADS",
+      "simplified_description": "Mixed veggies and feta cheese with olive oil dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun Chicken Salad",
+      "price": null,
+      "description": "Romaine lettuce, Cajun spice, grilled chicken, parmesan cheese, croutons, Cesar dressing.",
+      "category": "SALADS",
+      "simplified_description": "Grilled Cajun chicken salad with parmesan and croutons.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chef Salad",
+      "price": null,
+      "description": "Romaine lettuce, cherry tomato, carrots, radishes, eggs, cheddar cheese, Swiss cheese, ham, vinegar, honey, Dijon mustard, salt and pepper, olive oil.",
+      "category": "SALADS",
+      "simplified_description": "Mixed salad with cheese, ham, eggs, and vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Corned Beef",
+      "price": null,
+      "description": "Bread, corned beef, cheddar cheese, romaine lettuce.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Corned beef sandwich with cheddar cheese and lettuce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey",
+      "price": null,
+      "description": "Bread, turkey, cheddar cheese, romaine lettuce.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Turkey sandwich with cheddar cheese and lettuce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Beef",
+      "price": null,
+      "description": "Bread, beef, cheddar cheese, romaine lettuce.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Roast beef sandwich with cheddar cheese and lettuce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ham",
+      "price": null,
+      "description": "Bread, ham, cheddar cheese, romaine lettuce.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Ham sandwich with cheddar cheese and lettuce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna",
+      "price": null,
+      "description": "Bread, tuna, ultimate dressing, celery.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Tuna sandwich with celery and special dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Salad",
+      "price": null,
+      "description": "Bread, egg, ultimate dressing, green onion.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Egg salad sandwich with green onion and dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad",
+      "price": null,
+      "description": "Bread, chicken, ultimate dressing, bell peppers.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Chicken sandwich with bell peppers and special dressing on bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Sandwich",
+      "price": null,
+      "description": "Bread, ham, turkey, corned beef, roast beef, romaine lettuce.",
+      "category": "COLD SANDWICHES",
+      "simplified_description": "Mixed meat sandwich with lettuce on bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southern tortilla",
+      "price": null,
+      "description": "Buffalo chicken, spicy mayo, green and red pepper, cheddar cheese, romaine lettuce.",
+      "category": "TORTILLA",
+      "simplified_description": "Spicy buffalo chicken wrap with peppers, cheese, and lettuce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Tuna tortilla",
+      "price": null,
+      "description": "Grilled chicken, Thai sauce, carrot, red and yellow cabbage, and cilantro.",
+      "category": "TORTILLA",
+      "simplified_description": "Grilled chicken wrap with Thai sauce and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Club Tortilla",
+      "price": null,
+      "description": "Turkey, ham, romaine lettuce, tomato, cheddar cheese, mayo.",
+      "category": "TORTILLA",
+      "simplified_description": "Wrap with turkey, ham, cheese, lettuce, tomato, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fajita Tortilla",
+      "price": null,
+      "description": "Chicken, spicy mayo, green and red pepper, cheddar cheese.",
+      "category": "TORTILLA",
+      "simplified_description": "Chicken wrap with spicy mayo, peppers, and cheddar cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beef Burrito",
+      "price": null,
+      "description": "Ground Beef, taco seasoning, black beans, cheddar cheese, olive oil, onion, green and red pepper.",
+      "category": "TORTILLA",
+      "simplified_description": "Beef burrito with beans, cheese, peppers, and taco seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Teriyaki steak",
+      "price": null,
+      "description": "Beef, grilled onion, teriyaki sauce, white cheese, Texas bread.",
+      "category": "BBQ",
+      "simplified_description": "Grilled steak sandwich with teriyaki sauce, cheese, and bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki steak on Italian bun",
+      "price": null,
+      "description": "Beef, grilled onion, teriyaki sauce, white and cheddar cheese.",
+      "category": "BBQ",
+      "simplified_description": "Steak sandwich with teriyaki sauce and mixed cheeses on a bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef dip steak",
+      "price": null,
+      "description": "Beef, grilled onion.",
+      "category": "BBQ",
+      "simplified_description": "Simple beef sandwich with grilled onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double patty melt",
+      "price": null,
+      "description": "Double ground beef patty, cheddar cheese.",
+      "category": "LUNCH",
+      "simplified_description": "Burger with two beef patties and cheddar cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monte Cristo",
+      "price": null,
+      "description": "Ham, cheddar cheese, grilled chicken, white cheese.",
+      "category": "LUNCH",
+      "simplified_description": "Sandwich with ham, grilled chicken, and two types of cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozza club house",
+      "price": null,
+      "description": "Buffalo Chicken, ham, cheddar cheese, romaine lettuce, tomato.",
+      "category": "LUNCH",
+      "simplified_description": "Club sandwich with buffalo chicken, ham, cheese, lettuce, and tomato.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Super clubhouse",
+      "price": null,
+      "description": "Grilled Chicken, ham, cheddar cheese, romaine lettuce, and tomato.",
+      "category": "LUNCH",
+      "simplified_description": "Club sandwich with grilled chicken, ham, cheese, lettuce, and tomato.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade burger",
+      "price": null,
+      "description": "Ground beef petty, bacon, cheddar cheese, romaine lettuce, tomato, onion.",
+      "category": "LUNCH",
+      "simplified_description": "Burger with beef patty, bacon, cheese, lettuce, tomato, and onion.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken burger",
+      "price": null,
+      "description": "Grilled Chicken, romaine lettuce, tomato, onion.",
+      "category": "LUNCH",
+      "simplified_description": "Grilled chicken with lettuce, tomato, and onion.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Montreal Steak Wrap",
+      "price": null,
+      "description": "White pita, beef, white cheese, lettuce, pickle, mustard.",
+      "category": "WRAPS",
+      "simplified_description": "Beef and cheese wrap with lettuce, pickle, and mustard.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Chicken Siracha",
+      "price": null,
+      "description": "White pita, spicy chicken, cheddar cheese, lettuce, bacon, banana pepper, spicy mayo.",
+      "category": "WRAPS",
+      "simplified_description": "Spicy chicken wrap with cheese, bacon, lettuce, and spicy mayo.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Assorted Wrap",
+      "price": null,
+      "description": "White pita, ham, beef, turkey, lettuce, cheddar cheese.",
+      "category": "WRAPS",
+      "simplified_description": "Wrap with ham, beef, turkey, lettuce, and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Club Wrap",
+      "price": null,
+      "description": "White pita, ham, turkey, lettuce, cheddar cheese, bacon, tomato.",
+      "category": "WRAPS",
+      "simplified_description": "Wrap with ham, turkey, bacon, lettuce, tomato, and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "price": null,
+      "description": "White pita, chicken, bacon, Caesar sauce, lettuce, white cheese.",
+      "category": "WRAPS",
+      "simplified_description": "Chicken wrap with bacon, Caesar sauce, lettuce, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Carrot Wrap",
+      "price": null,
+      "description": "White pita, ham, cheddar cheese, carrot, lettuce, red onion, ultimate dressing.",
+      "category": "WRAPS",
+      "simplified_description": "Ham wrap with cheddar, carrot, lettuce, onion, and dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey & Cranberry Wrap",
+      "price": null,
+      "description": "White pita, turkey, lettuce, cheddar cheese, carrot, cranberries, ranch.",
+      "category": "WRAPS",
+      "simplified_description": "Turkey wrap with lettuce, cheddar, carrot, cranberries, and ranch.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Beef Horseradish Wrap",
+      "price": null,
+      "description": "White pita, beef, lettuce, horseradish, cheddar cheese, ultimate dressing.",
+      "category": "WRAPS",
+      "simplified_description": "Beef wrap with lettuce, horseradish, cheddar, and dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BLT Wrap + side $15.99",
+      "price": null,
+      "description": "White pita, turkey, bacon, lettuce, tomato, cheddar cheese, ultimate dressing.",
+      "category": "WRAPS",
+      "simplified_description": "Turkey BLT wrap with lettuce, tomato, cheddar, and dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Muffins",
+      "price": null,
+      "description": "Double Chocolate Blueberry",
+      "category": "DESSERT",
+      "simplified_description": "Double chocolate and blueberry muffins.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana bread",
+      "price": null,
+      "description": "Locally owned and operated - Thank you Alberta Canada",
+      "category": "DESSERT",
+      "simplified_description": "Homemade banana bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "salmon",
+      "price": null,
+      "description": "Salmon, sugar and salt, black pepper, mayo.",
+      "category": "OTHER",
+      "simplified_description": "Salmon seasoned with sugar, salt, pepper, and mayo.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "spicy tuna",
+      "price": null,
+      "description": "Tuna, sugar and salt, black pepper, spicy mayo, green and red onion, celery, green and red pepper, lemon juice.",
+      "category": "OTHER",
+      "simplified_description": "Spicy tuna with vegetables and spicy mayo.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Montreal steak",
+      "price": null,
+      "description": "Spinach, tomato, corned beef, muster, pickle, white cheese.",
+      "category": "OTHER",
+      "simplified_description": "Corned beef with spinach, tomato, pickle, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "club",
+      "price": null,
+      "description": "Spinach, tomato, ham, turkey, cheddar cheese, bacon, mayo.",
+      "category": "OTHER",
+      "simplified_description": "Sandwich with spinach, tomato, ham, turkey, cheese, bacon, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "turkey with bacon",
+      "price": null,
+      "description": "Spinach, tomato, turkey, bacon, mayo, cheddar cheese.",
+      "category": "OTHER",
+      "simplified_description": "Sandwich with spinach, tomato, turkey, bacon, cheese, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "assorted",
+      "price": null,
+      "description": "Romaine lettuce, ham, turkey, corned beef, tomato, green and red pepper, onion.",
+      "category": "OTHER",
+      "simplified_description": "Salad with romaine, ham, turkey, corned beef, tomato, peppers, and onion.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "chicken caesar pita",
+      "price": null,
+      "description": "Romaine lettuce, chicken, Caesar sauce.",
+      "category": "OTHER",
+      "simplified_description": "Pita with romaine lettuce, chicken, and Caesar sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cajun chicken pita",
+      "price": null,
+      "description": "Romine lettuce, chicken, cayenne pepper, cheddar cheese; mayo, Caesar sauce.",
+      "category": "OTHER",
+      "simplified_description": "Pita with romaine, chicken, spicy cayenne, cheese, mayo, and Caesar sauce.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "greek chicken pita",
+      "price": null,
+      "description": "Romaine lettuce, chicken, olives, pickle, onion, Greek sauce.",
+      "category": "OTHER",
+      "simplified_description": "Pita with romaine, chicken, olives, pickle, onion, and Greek sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "grilled chicken pita",
+      "price": null,
+      "description": "Romaine lettuce, chicken, carrot, cheddar cheese, mayo.",
+      "category": "OTHER",
+      "simplified_description": "Pita with romaine, grilled chicken, carrot, cheese, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Chicken Pita",
+      "price": null,
+      "description": "Romaine lettuce, chicken, cheddar cheese, onion, lemon and pepper, mayo.",
+      "category": "OTHER",
+      "simplified_description": "Pita with romaine, chicken, cheese, onion, lemon pepper, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "teriyaki chicken pita",
+      "price": null,
+      "description": "Romaine lettuce, chicken, onion, cheddar cheese, teriyaki sauce.",
+      "category": "OTHER",
+      "simplified_description": "Pita with romaine, chicken, onion, cheese, and teriyaki sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "breakfast Bagel/Muffin",
+      "price": null,
+      "description": "Egg, bacon, cheddar cheese.",
+      "category": "OTHER",
+      "simplified_description": "Bagel or muffin with egg, bacon, and cheddar cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

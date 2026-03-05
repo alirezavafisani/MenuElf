@@ -1,0 +1,304 @@
+{
+  "restaurant": "shawarmero",
+  "parsed_at": "2026-02-06T04:05:21.946966",
+  "item_count": 33,
+  "items": [
+    {
+      "name": "Beef Donair Plate",
+      "price": 16.99,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Plate",
+      "price": 16.99,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Plate",
+      "price": 17.49,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shawarma Plate",
+      "price": 17.49,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Donair and Chicken Shawarma Plate",
+      "price": 17.49,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawouk Plate",
+      "price": 17.0,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bite Size Shawarma Plate",
+      "price": 15.99,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Plate",
+      "price": 14.99,
+      "description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with rice, salad, hummus, potato, and garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fajita Sub",
+      "price": 14.99,
+      "description": "Marinated chicken breast with green pepper, onions and cheese",
+      "category": "FOOD",
+      "simplified_description": "Marinated chicken breast with green pepper, onions and cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Cheese Steak",
+      "price": 15.49,
+      "description": "Marinated beef fillet with green pepper, onions, and cheese",
+      "category": "FOOD",
+      "simplified_description": "Marinated beef fillet with green pepper, onions, and cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pesto",
+      "price": 14.99,
+      "description": "Marinated chicken, tomato, cheese and pesto sauce",
+      "category": "FOOD",
+      "simplified_description": "Marinated chicken, tomato, cheese and pesto sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Halloumi Pesto",
+      "price": 12.49,
+      "description": "Cheese, tomato, green pepper, lettuce, oregano, olives, olive oil and special sauce for the Halloumi",
+      "category": "FOOD",
+      "simplified_description": "Cheese, tomato, green pepper, lettuce, oregano, olives, olive oil and special sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lebanese Burger",
+      "price": 12.49,
+      "description": "Tomato, coleslaw, ketchup, fries and special sauce",
+      "category": "FOOD",
+      "simplified_description": "Tomato, coleslaw, ketchup, fries and special sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grape Leaves",
+      "price": 6.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kobbi",
+      "price": 2.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 2.75,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus",
+      "price": 6.0,
+      "description": "Traditional Middle Eastern dip made from chickpeas.",
+      "category": "APPETIZER",
+      "simplified_description": "Traditional Middle Eastern dip made from chickpeas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 9.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 5.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 6.99,
+      "description": "Fresh mix of tomatoes, cucumbers, feta cheese, and olives.",
+      "category": "APPETIZER",
+      "simplified_description": "Fresh mix of tomatoes, cucumbers, feta cheese, and olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 6.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fattoush Salad",
+      "price": 6.99,
+      "description": "Fresh vegetables with our special sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Fresh vegetables with our special sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tabouli Salad",
+      "price": 6.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Pita Wrap",
+      "price": 8.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Pita Wrap",
+      "price": 9.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Pita Wrap",
+      "price": 10.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shawarma Pita Wrap",
+      "price": 11.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Donair and Chicken Shawarma Pita Wrap",
+      "price": 11.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Pita Wrap",
+      "price": 7.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawouk Pita Wrap",
+      "price": 14.99,
+      "description": "Comes with your choice of vegetable",
+      "category": "PITA WRAP",
+      "simplified_description": "Comes with your choice of vegetable",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samolina Honey Cake",
+      "price": 4.99,
+      "description": "4 pieces pack",
+      "category": "SWEETS",
+      "simplified_description": "4 pieces pack",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Cake",
+      "price": 4.99,
+      "description": "4 pieces pack",
+      "category": "SWEETS",
+      "simplified_description": "4 pieces pack",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava",
+      "price": 4.99,
+      "description": "4 pieces pack",
+      "category": "SWEETS",
+      "simplified_description": "4 pieces pack",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "restaurant": "holyshakes",
+  "parsed_at": "2026-02-06T02:38:39.476446",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "the Holy Smash",
+      "price": null,
+      "description": "Introducing: THE HOLY SMASH🍔 Double Cheese Double Beef Smash Burger Juicy. Melty. Unholy good.🤤👇 Would you pull it apart… or bite straight in?",
+      "category": "OTHER",
+      "simplified_description": "A juicy double beef and double cheese smash burger.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Monster Freak Shake",
+      "price": null,
+      "description": "Amazing Monster Shakes and delicious savory food! I had the Cookie Monster Freak Shake and the Supreme Fries with Chicken and everything was delicious!",
+      "category": "DRINK",
+      "simplified_description": "A rich and creamy cookie-flavored milkshake.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme Fries with Chicken",
+      "price": null,
+      "description": "Amazing Monster Shakes and delicious savory food! I had the Cookie Monster Freak Shake and the Supreme Fries with Chicken and everything was delicious!",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with chicken and savory seasonings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cotton candy carnival",
+      "price": null,
+      "description": "Spend the afternoon with the kids at Holy shakes, the food, ambience and service was great. They had so many options to choose from for both sweet and savoury. We tried the Cotton candy carnival and famous Dubai chocolate milkshake, for food we had wings and fries, Nashville crunch burger and the paneer veg Kathi rolls. Highly recommend !",
+      "category": "OTHER",
+      "simplified_description": "A sweet cotton candy treat enjoyed with family.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Family-friendly"
+    },
+    {
+      "name": "Dubai chocolate milkshake",
+      "price": null,
+      "description": "The food is amazing and full of flavor! I especially love the strawberry cheesecake milkshake – it’s absolutely delicious. The Dubai chocolate milkshake is addictive!",
+      "category": "DRINK",
+      "simplified_description": "A rich and flavorful chocolate milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nashville crunch burger",
+      "price": null,
+      "description": "Spend the afternoon with the kids at Holy shakes, the food, ambience and service was great. They had so many options to choose from for both sweet and savoury. We tried the Cotton candy carnival and famous Dubai chocolate milkshake, for food we had wings and fries, Nashville crunch burger and the paneer veg Kathi rolls. Highly recommend !",
+      "category": "FOOD",
+      "simplified_description": "A crispy, crunchy burger with Nashville-style seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "paneer veg Kathi rolls",
+      "price": null,
+      "description": "Spend the afternoon with the kids at Holy shakes, the food, ambience and service was great. They had so many options to choose from for both sweet and savoury. We tried the Cotton candy carnival and famous Dubai chocolate milkshake, for food we had wings and fries, Nashville crunch burger and the paneer veg Kathi rolls. Highly recommend !",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian paneer-filled Indian-style Kathi rolls.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "strawberry cheesecake milkshake",
+      "price": null,
+      "description": "The food is amazing and full of flavor! I especially love the strawberry cheesecake milkshake – it’s absolutely delicious. The Dubai chocolate milkshake is addictive!",
+      "category": "DRINK",
+      "simplified_description": "A creamy milkshake with strawberry and cheesecake flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Monster Freak Shake",
+      "price": null,
+      "description": "Amazing Monster Shakes and delicious savory food! I had the Cookie Monster Freak Shake and the Supreme Fries with Chicken and everything was delicious! Great, friendly service.",
+      "category": "DRINK",
+      "simplified_description": "A rich and creamy cookie-flavored milkshake.",
+      "dietary_info": [],
+      "other_info": "Great, friendly service"
+    }
+  ]
+}

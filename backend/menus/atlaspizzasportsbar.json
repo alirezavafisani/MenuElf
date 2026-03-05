@@ -1,0 +1,544 @@
+{
+  "restaurant": "atlaspizzasportsbar",
+  "parsed_at": "2026-02-06T00:44:06.271902",
+  "item_count": 49,
+  "items": [
+    {
+      "name": "Veggie Platter",
+      "price": 24.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A selection of fresh vegetables served as an appetizer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Combo Platter",
+      "price": 20.0,
+      "description": "Zucchini sticks, chicken fingers, wings, and calamari",
+      "category": "APPETIZER",
+      "simplified_description": "Mixed platter with zucchini sticks, chicken fingers, wings, and calamari.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Team Platter",
+      "price": 40.0,
+      "description": "Zucchini sticks, chicken fingers, wings, calamari, nachos and dry ribs",
+      "category": "APPETIZER",
+      "simplified_description": "Large platter with various fried appetizers and ribs for sharing.",
+      "dietary_info": [],
+      "other_info": "Serves two or more"
+    },
+    {
+      "name": "Breaded Shrimp Appetizer (7)",
+      "price": 18.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Seven pieces of breaded and fried shrimp appetizer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings (12)",
+      "price": 17.0,
+      "description": "_hot, medium, mild, BBQ, teriyaki, honey garlic, sweet Thai chili, suicide hot, salt and pepper & greek_",
+      "category": "APPETIZER",
+      "simplified_description": "Twelve chicken wings with a choice of various sauces and spice levels.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Spicy options available"
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 14.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Breaded and fried chicken strips served as an appetizer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari",
+      "price": 19.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Fried squid rings served as a crispy appetizer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Back Ribs (Full Rack)",
+      "price": 20.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Full rack of pork back ribs cooked with BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breaded Boneless Pork Ribs",
+      "price": 15.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Boneless pork ribs breaded and fried for a crispy texture.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Beef Ribs (3 Ribs)",
+      "price": 30.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Three beef ribs cooked with BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozza Sticks",
+      "price": 15.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Fried mozzarella cheese sticks served with dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Fried Mushrooms",
+      "price": 14.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Mushrooms pan-fried to a golden brown.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Mushrooms",
+      "price": 15.0,
+      "description": "_Stuffed with shrimp and crab, topped with mozzarella_",
+      "category": "APPETIZER",
+      "simplified_description": "Mushrooms stuffed with shrimp and crab, topped with melted mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zucchini Sticks",
+      "price": 14.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Breaded and fried zucchini sticks served as a snack.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Skins",
+      "price": 15.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Potato skins loaded with toppings and baked until crispy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nachos and Cheese",
+      "price": 16.0,
+      "description": "_add chicken or beef_",
+      "category": "APPETIZER",
+      "simplified_description": "Tortilla chips topped with cheese, with optional chicken or beef.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pita Platter",
+      "price": 15.0,
+      "description": "_tzatziki, hummus, spinach, and artichoke dips_",
+      "category": "APPETIZER",
+      "simplified_description": "Pita bread served with tzatziki, hummus, spinach, and artichoke dips.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Baked Potato",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Baked potato filled with a savory stuffing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 1.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Toasted bread topped with garlic butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic deep-fried potato fries.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Fries",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Deep-fried sweet potato fries.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 12.0,
+      "description": "_add pulled pork_",
+      "category": "SIDE",
+      "simplified_description": "French fries topped with cheese curds and gravy, optional pulled pork.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Battered and fried onion slices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Pop (591 ml)",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Bottled carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tossed Green Salad",
+      "price": 8.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Mixed green salad with fresh vegetables.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 14.0,
+      "description": "_$18.00 for two_",
+      "category": "OTHER",
+      "simplified_description": "Classic Caesar salad with romaine and dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Serves two for $18.00"
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "price": 20.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Caesar salad topped with grilled chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Caesar Salad",
+      "price": 24.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Caesar salad topped with sliced steak.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 19.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp & Crab Salad",
+      "price": 22.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Salad with shrimp and crab meat.",
+      "dietary_info": [
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chef's Salad",
+      "price": 20.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A mixed salad with various fresh ingredients.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked French Onion",
+      "price": 9.0,
+      "description": "_Dine-In only_",
+      "category": "OTHER",
+      "simplified_description": "Classic French onion soup baked with melted cheese.",
+      "dietary_info": [],
+      "other_info": "Dine-In only"
+    },
+    {
+      "name": "Soup of the Day",
+      "price": 6.0,
+      "description": "_Dine-In only_",
+      "category": "OTHER",
+      "simplified_description": "Daily special soup, varies by day.",
+      "dietary_info": [],
+      "other_info": "Dine-In only"
+    },
+    {
+      "name": "Clam Chowder",
+      "price": 9.0,
+      "description": "_Dine-In only_",
+      "category": "OTHER",
+      "simplified_description": "Creamy soup with clams and potatoes.",
+      "dietary_info": [],
+      "other_info": "Dine-In only"
+    },
+    {
+      "name": "Breakfast Sandwich",
+      "price": 16.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Sandwich with breakfast ingredients like eggs and meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": 15.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Toasted sandwich with melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "B.L.T.",
+      "price": 16.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Bacon, lettuce, and tomato sandwich.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Cheese",
+      "price": 15.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Sandwich with ham and melted cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monte Cristo",
+      "price": 18.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Fried ham and cheese sandwich with powdered sugar.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Sandwich",
+      "price": 18.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Sandwich with sliced turkey and fresh toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Clubhouse",
+      "price": 18.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Triple-layer sandwich with meats, lettuce, and tomato.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Dip",
+      "price": 20.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Roast beef sandwich served with dipping au jus.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Melt",
+      "price": 20.0,
+      "description": "_Topped with tomatoes, crab, shrimp, and melted cheese._",
+      "category": "OTHER",
+      "simplified_description": "Seafood sandwich with crab, shrimp, tomatoes, and melted cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Sole",
+      "price": 24.0,
+      "description": "_Lightly breaded sole filets pan-fried to a perfect golden brown_",
+      "category": "OTHER",
+      "simplified_description": "Lightly breaded and pan-fried sole fish fillets.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 21.5,
+      "description": "_Extra Piece_",
+      "category": "OTHER",
+      "simplified_description": "Fried fish served with chips; includes an extra piece.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Extra Piece"
+    },
+    {
+      "name": "Breaded Jumbo Shrimp Dinner (6)",
+      "price": 24.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Six breaded jumbo shrimp served as a dinner portion.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Lobster Tail Dinner",
+      "price": 45.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A dinner featuring a single lobster tail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Lobster Tail Dinner",
+      "price": 75.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A dinner featuring two lobster tails.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak & Lobster",
+      "price": 60.0,
+      "description": "_The ultimate! An 8oz. top sirloin steak charbroiled the way you like it. Served with a tender lobster tail and browned butter for dipping_",
+      "category": "OTHER",
+      "simplified_description": "Grilled 8oz sirloin steak with lobster tail and browned butter.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

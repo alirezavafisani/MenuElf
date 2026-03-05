@@ -1,0 +1,1177 @@
+{
+  "restaurant": "sushitoki",
+  "parsed_at": "2026-02-06T04:20:00.003203",
+  "item_count": 130,
+  "items": [
+    {
+      "name": "California Roll",
+      "price": 7.25,
+      "description": "Avocado, cucumber, crab meat.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, crab meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Massago California",
+      "price": null,
+      "description": "Avocado, cucumber, crab meat, topped with masago.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, crab meat, topped with masago.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy California",
+      "price": 7.45,
+      "description": "Avocado, cucumber, crab meat, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, crab meat, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tempura California (DF)",
+      "price": 9.75,
+      "description": "Avocado, cucumber, crab meat, with mayo.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, crab meat, with mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philadelphia Roll",
+      "price": 7.75,
+      "description": "Cream cheese, cucumber, smoke salmon.",
+      "category": "FOOD",
+      "simplified_description": "Cream cheese, cucumber, smoke salmon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tekka Roll",
+      "price": null,
+      "description": "Cucumber, tuna, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, tuna, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Sake Roll",
+      "price": 7.25,
+      "description": "Cucumber, salmon, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, salmon, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Roll",
+      "price": 8.95,
+      "description": "Cucumber, BBQ eel.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, BBQ eel.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bakudan Roll",
+      "price": 8.75,
+      "description": "Spicy mayo, tuna, topped with tempura crumbs.",
+      "category": "FOOD",
+      "simplified_description": "Spicy mayo, tuna, topped with tempura crumbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Roll",
+      "price": 8.25,
+      "description": "Tempura yam.",
+      "category": "FOOD",
+      "simplified_description": "Tempura yam.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dynamite Roll",
+      "price": 10.25,
+      "description": "Avocado, mayo, tempura shrimp with masago.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, mayo, tempura shrimp with masago.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari Roll (4 pcs) (DF)",
+      "price": 11.75,
+      "description": "Lettuce, calamari, with mayo.",
+      "category": "FOOD",
+      "simplified_description": "Lettuce, calamari, with mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Roll",
+      "price": 8.75,
+      "description": "Cucumber, beef.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alaska Roll",
+      "price": 9.75,
+      "description": "Cucumber, avocado, crab meat, with smoked salmon.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, avocado, crab meat, with smoked salmon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Toki Roll",
+      "price": 9.75,
+      "description": "Cucumber, avocado, salmon with tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, avocado, salmon with tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BC Roll",
+      "price": 8.75,
+      "description": "Cucumber, crispy salmon skin, unagi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, crispy salmon skin, unagi sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Oysters Roll",
+      "price": 11.45,
+      "description": "Cucumber, smoked oysters, spicy mayo, unagi sauce with tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, smoked oysters, spicy mayo, unagi sauce with tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cucumber Roll",
+      "price": 4.5,
+      "description": "Sesame seeds, cucumber.",
+      "category": "FOOD",
+      "simplified_description": "Sesame seeds, cucumber.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Roll",
+      "price": 4.5,
+      "description": "Cucumber, avocado.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, avocado.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Asparagus Roll",
+      "price": 4.5,
+      "description": "Asparagus",
+      "category": "FOOD",
+      "simplified_description": "Asparagus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Roll",
+      "price": 4.5,
+      "description": "Avocado",
+      "category": "FOOD",
+      "simplified_description": "Avocado",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake Roll",
+      "price": 4.75,
+      "description": "Salmon",
+      "category": "FOOD",
+      "simplified_description": "Salmon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tekka Roll",
+      "price": 4.75,
+      "description": "Tuna",
+      "category": "FOOD",
+      "simplified_description": "Tuna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Salmon Roll",
+      "price": 5.45,
+      "description": "Smoke Salmon",
+      "category": "FOOD",
+      "simplified_description": "Smoke Salmon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Negi Tuna Roll",
+      "price": 5.45,
+      "description": "Tuna, green onions.",
+      "category": "FOOD",
+      "simplified_description": "Tuna, green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VuDoo Roll",
+      "price": 18.45,
+      "description": "Cucumber, avocado, softshell crab with spicy mayo, black tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, avocado, softshell crab with spicy mayo, black tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spider Roll",
+      "price": 18.45,
+      "description": "Cucumber, softshell crab with avocado, mayo, unagi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, softshell crab with avocado, mayo, unagi sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mystical Mango Roll",
+      "price": 17.45,
+      "description": "Cucumber, avocado, salmon with mango, tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, avocado, salmon with mango, tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fire Dragon Roll",
+      "price": 17.45,
+      "description": "Avocado, shrimp tempura with salmon, spicy mayo, temp crumbs, tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, shrimp tempura with salmon, spicy mayo, temp crumbs, tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coy Roll",
+      "price": 17.45,
+      "description": "Cucumber, salmon, tuna, spicy mayo with unagi, tempura crumbs.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, salmon, tuna, spicy mayo with unagi, tempura crumbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calorie Roll (4pcs) (DF)",
+      "price": 14.45,
+      "description": "Beef with spicy mayo, unagi sauce, sesame seeds.",
+      "category": "FOOD",
+      "simplified_description": "Beef with spicy mayo, unagi sauce, sesame seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Araki Roll",
+      "price": 15.45,
+      "description": "Cream cheese, avocado, cucumber, asparagus, smoked salmon, tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cream cheese, avocado, cucumber, asparagus, smoked salmon, tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oishii Veggie Roll",
+      "price": 14.45,
+      "description": "Avocado, cucumber, bean curd, tamago, asparagus.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, bean curd, tamago, asparagus.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ruby Roll",
+      "price": 15.45,
+      "description": "Cucumber, crispy salmon skin with smoked salmon, black tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, crispy salmon skin with smoked salmon, black tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lion Roll",
+      "price": 15.45,
+      "description": "Cream cheese, crab meat with seared salmon, tempura crumbs, crispy yam.",
+      "category": "FOOD",
+      "simplified_description": "Cream cheese, crab meat with seared salmon, tempura crumbs, crispy yam.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Drum Roll (6 pcs)",
+      "price": 16.45,
+      "description": "Cucumber, crab meat with tuna, jellyfish, tobiko, unagi sauce, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, crab meat with tuna, jellyfish, tobiko, unagi sauce, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Paradise Roll",
+      "price": 16.45,
+      "description": "Avocado, tempura crumbs with unagi, unagi sauce, sesame seeds.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, tempura crumbs with unagi, unagi sauce, sesame seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rock' n’ Roll",
+      "price": 16.45,
+      "description": "Avocado, shrimp tempura with tuna, deep-fried onions, wakame, unagi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, shrimp tempura with tuna, deep-fried onions, wakame, unagi sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fall Roll (DF)",
+      "price": 16.45,
+      "description": "Salmon & tuna roll w/ avocado, spicy mayo, unagi sauce, masago.",
+      "category": "FOOD",
+      "simplified_description": "Salmon & tuna roll w/ avocado, spicy mayo, unagi sauce, masago.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Night Fury",
+      "price": 17.45,
+      "description": "Avocado, shrimp temp with unagi sauce, black tobiko, sriracha, green onion.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, shrimp temp with unagi sauce, black tobiko, sriracha, green onion.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Body Roll",
+      "price": 15.45,
+      "description": "Lettuce, crab meat, shrimp tempura with tempura crumbs, teriyaki sauce.",
+      "category": "FOOD",
+      "simplified_description": "Lettuce, crab meat, shrimp tempura with tempura crumbs, teriyaki sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Victoria Roll (DF)",
+      "price": 15.45,
+      "description": "Shrimp tempura, cream cheese, avocado, spicy mayo, masago.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp tempura, cream cheese, avocado, spicy mayo, masago.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Samurai Roll (DF)",
+      "price": 15.45,
+      "description": "Tuna, cream cheese, avocado with unagi sauce, sriracha, masago,",
+      "category": "FOOD",
+      "simplified_description": "Tuna, cream cheese, avocado with unagi sauce, sriracha, masago,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holy Mackerel Roll",
+      "price": 16.45,
+      "description": "Tuna, avocado with seared mackerel, sriracha, unagi sauce, fried onions.",
+      "category": "FOOD",
+      "simplified_description": "Tuna, avocado with seared mackerel, sriracha, unagi sauce, fried onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Scallop Roll",
+      "price": 17.45,
+      "description": "Cucumber, spicy mayo, scallop, tobiko.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, spicy mayo, scallop, tobiko.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ebi",
+      "price": 2.5,
+      "description": "Shrimp",
+      "category": "FOOD",
+      "simplified_description": "Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake",
+      "price": 2.5,
+      "description": "Salmon",
+      "category": "FOOD",
+      "simplified_description": "Salmon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoke Salmon",
+      "price": 3.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Maguro",
+      "price": 2.5,
+      "description": "Tuna",
+      "category": "FOOD",
+      "simplified_description": "Tuna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi",
+      "price": 2.95,
+      "description": "BBQ Eel",
+      "category": "FOOD",
+      "simplified_description": "BBQ Eel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tobiko",
+      "price": 2.5,
+      "description": "Flying fish roe.",
+      "category": "FOOD",
+      "simplified_description": "Flying fish roe.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masago",
+      "price": 2.5,
+      "description": "Capelin roe",
+      "category": "FOOD",
+      "simplified_description": "Capelin roe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tamago",
+      "price": 2.0,
+      "description": "Sweetened omelette.",
+      "category": "FOOD",
+      "simplified_description": "Sweetened omelette.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hotate Gai",
+      "price": 3.25,
+      "description": "Scallop",
+      "category": "FOOD",
+      "simplified_description": "Scallop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saba",
+      "price": 2.5,
+      "description": "Mackerel",
+      "category": "FOOD",
+      "simplified_description": "Mackerel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toro",
+      "price": 3.25,
+      "description": "Tuna belly",
+      "category": "FOOD",
+      "simplified_description": "Tuna belly",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Inari",
+      "price": 2.0,
+      "description": "Bean curd",
+      "category": "FOOD",
+      "simplified_description": "Bean curd",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tako",
+      "price": 2.5,
+      "description": "Octopus",
+      "category": "FOOD",
+      "simplified_description": "Octopus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chuuka Fukaare",
+      "price": 2.25,
+      "description": "Jellyfish",
+      "category": "FOOD",
+      "simplified_description": "Jellyfish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Scallop",
+      "price": 3.25,
+      "description": "Fish roe, mayo, and scallop.",
+      "category": "FOOD",
+      "simplified_description": "Fish roe, mayo, and scallop.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hamachi",
+      "price": 3.25,
+      "description": "Yellowtail tuna",
+      "category": "FOOD",
+      "simplified_description": "Yellowtail tuna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Cone",
+      "price": 5.5,
+      "description": "Cucumber, tuna, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, tuna, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Cone",
+      "price": 5.5,
+      "description": "Cucumber, salmon, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, salmon, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "California Cone",
+      "price": 5.0,
+      "description": "Avocado, cucumber, crab meat.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, crab meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy California Cone",
+      "price": 5.25,
+      "description": "Avocado, cucumber, crab meat, spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, cucumber, crab meat, spicy mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dynamite Cone",
+      "price": 6.0,
+      "description": "Avocado, tempura shrimp, mayo, and masago.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, tempura shrimp, mayo, and masago.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Negi Tuna Cone",
+      "price": 5.0,
+      "description": "Green onions, tuna.",
+      "category": "FOOD",
+      "simplified_description": "Green onions, tuna.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Cone",
+      "price": 6.0,
+      "description": "Cucumber, unagi, sesame seeds.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, unagi, sesame seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Scallop Cone",
+      "price": 6.25,
+      "description": "Cucumber, scallops, tobiko, mayo.",
+      "category": "FOOD",
+      "simplified_description": "Cucumber, scallops, tobiko, mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken",
+      "price": 15.49,
+      "description": "Rice with salad and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Rice with salad and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Beef",
+      "price": 15.49,
+      "description": "Rice with salad and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Rice with salad and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Saba (Mackerel)",
+      "price": 15.49,
+      "description": "Rice with salad and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Rice with salad and miso soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Yakisoba",
+      "price": 17.49,
+      "description": "Pan-fried noodles with beef.",
+      "category": "FOOD",
+      "simplified_description": "Pan-fried noodles with beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Yakisoba",
+      "price": 17.49,
+      "description": "Pan-fried noodles with chicken.",
+      "category": "FOOD",
+      "simplified_description": "Pan-fried noodles with chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Don",
+      "price": 17.49,
+      "description": "Unagi on a bed of white rice.",
+      "category": "FOOD",
+      "simplified_description": "Unagi on a bed of white rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chirashi Sushi",
+      "price": 18.49,
+      "description": "Assorted sashimi on a bed of sushi rice.",
+      "category": "FOOD",
+      "simplified_description": "Assorted sashimi on a bed of sushi rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Udon",
+      "price": 12.49,
+      "description": "Comes with asparagus, mushrooms, broccoli, seaweed, and green onions.",
+      "category": "FOOD",
+      "simplified_description": "Comes with asparagus, mushrooms, broccoli, seaweed, and green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Udon",
+      "price": 12.49,
+      "description": "Comes with asparagus, mushrooms, broccoli, seaweed, and green onions.",
+      "category": "FOOD",
+      "simplified_description": "Comes with asparagus, mushrooms, broccoli, seaweed, and green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Beef Udon",
+      "price": 12.49,
+      "description": "Comes with asparagus, mushrooms, broccoli, seaweed, and green onions.",
+      "category": "FOOD",
+      "simplified_description": "Comes with asparagus, mushrooms, broccoli, seaweed, and green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tempura Udon",
+      "price": 13.49,
+      "description": "Shrimp and assorted veggies.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp and assorted veggies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shio Ramen",
+      "price": 15.49,
+      "description": "Pork Chasiu or Chicken",
+      "category": "FOOD",
+      "simplified_description": "Pork Chasiu or Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miso Ramen",
+      "price": 15.49,
+      "description": "Pork Chasiu or Chicken",
+      "category": "FOOD",
+      "simplified_description": "Pork Chasiu or Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tom Yum Ramen",
+      "price": 16.49,
+      "description": "Seafood – Shrimp, Scallop, Mussels",
+      "category": "FOOD",
+      "simplified_description": "Seafood – Shrimp, Scallop, Mussels",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sushi Combo",
+      "price": 19.49,
+      "description": "California roll, tuna roll, 2 salmon sushi, miso soup, and salad.",
+      "category": "FOOD",
+      "simplified_description": "California roll, tuna roll, 2 salmon sushi, miso soup, and salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Sashimi",
+      "price": 20.49,
+      "description": "Chef's choice with miso soup and salad.",
+      "category": "FOOD",
+      "simplified_description": "Chef's choice with miso soup and salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Combo",
+      "price": 22.49,
+      "description": "Spicy California, spicy tuna, spicy salmon.",
+      "category": "FOOD",
+      "simplified_description": "Spicy California, spicy tuna, spicy salmon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Platter for 2",
+      "price": 41.49,
+      "description": "Dynamite roll, California roll, tuna roll, cucumber roll, 2 salmon sushi, 2 tuna sushi, 4 assorted sashimi, 2 miso soups.",
+      "category": "FOOD",
+      "simplified_description": "Dynamite roll, California roll, tuna roll, cucumber roll, 2 salmon sushi, 2 tuna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Platter for 2",
+      "price": 49.45,
+      "description": "Assorted tempura, gyoza, dynamite roll, 2 salmon sushi, 2 tuna sushi, 4 assorted sashimi, 2 miso soups.",
+      "category": "FOOD",
+      "simplified_description": "Assorted tempura, gyoza, dynamite roll, 2 salmon sushi, 2 tuna sushi, 4 assorted",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Meet",
+      "price": 6.0,
+      "description": "Beef / Chickefn",
+      "category": "SIDE",
+      "simplified_description": "Beef / Chickefn",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Calamari",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sriracha Hot Sauce",
+      "price": 1.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Sauce",
+      "price": 1.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Mayo",
+      "price": 1.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All - Day Bento Box",
+      "price": 22.95,
+      "description": "Served with calamari salad, yam & shrimp tempura, 2pcs California rolls, 2pcs spicy salmon rolls, salmon & tuna sushi, and miso soup.",
+      "category": "FOOD",
+      "simplified_description": "Served with calamari salad, yam & shrimp tempura, 2pcs California rolls, 2pcs sp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Bananas with Ice Cream",
+      "price": 9.95,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Scoop Ice Cream",
+      "price": 4.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Scoops Ice Cream",
+      "price": 6.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea",
+      "price": 1.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coke",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diet Coke",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Tea",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Root Beer",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Ale",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Juice",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Asahi",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stella Artois",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sapporo",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokanee",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alexander Keith’s",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Red",
+      "price": null,
+      "description": "Cabernet Sauvignon",
+      "category": "DRINK",
+      "simplified_description": "Cabernet Sauvignon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House White",
+      "price": null,
+      "description": "Pinot Grigio",
+      "category": "DRINK",
+      "simplified_description": "Pinot Grigio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gekkeikan Hot Sake",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vodka",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dark Rum",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Milk Tea With Pearls",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Café Latte",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha Latte",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cacao Latte",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Latte",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Latte",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taro Latte",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soda Blue Ocean",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soda Strawberry",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soda Peach",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soda Blueberry",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "restaurant": "saffrongarden",
+  "parsed_at": "2026-02-06T04:00:08.900671",
+  "item_count": 13,
+  "items": [
+    {
+      "name": "Spinach & Feta Cheese",
+      "price": 11.99,
+      "description": "A golden, flaky pastry generously filled with fresh, tender spinach and creamy feta cheese, perfectly seasoned with our signature house blend of exotic spices. Baked to perfection and served with our zesty cocktail sauce for the ultimate indulgence.",
+      "category": "FOOD",
+      "simplified_description": "A golden, flaky pastry generously filled with fresh, tender spinach and creamy f",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pie",
+      "price": 5.99,
+      "description": "A masterpiece of culinary indulgence — tender ground chicken breast infused with a medley of exotic spices, slow-cooked to perfection for a rich, juicy flavor that melts in your mouth. Encased in a golden, buttery crust, every bite is a symphony of taste and texture — a true celebration of time, passion and art in the kitchen.",
+      "category": "FOOD",
+      "simplified_description": "A masterpiece of culinary indulgence — tender ground chicken breast infused with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kandahari Kebab Roll",
+      "price": 11.99,
+      "description": "Tender ground beef seasoned with a symphony of exotic herbs and spices, perfectly balanced with our signature cocktail sauce and crisp salad and wrapped in warm Afghani bread.",
+      "category": "FOOD",
+      "simplified_description": "Tender ground beef seasoned with a symphony of exotic herbs and spices, perfectl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Royal Kebab",
+      "price": 17.99,
+      "description": "Two juicy ground beef kebabs infused with freshly ground Afghan spices, roasted in our oven to perfection.",
+      "category": "FOOD",
+      "simplified_description": "Two juicy ground beef kebabs infused with freshly ground Afghan spices, roasted ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ariana Chicken Tikka",
+      "price": 17.99,
+      "description": "Two skewers of chicken breast marinated in a medley of Afghan herbs and spices, oven-baked until tender and golden.",
+      "category": "FOOD",
+      "simplified_description": "Two skewers of chicken breast marinated in a medley of Afghan herbs and spices, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chapli Kebab",
+      "price": 17.99,
+      "description": "Two flavorful patties of seasoned ground beef, enriched with exotic Afghan herbs, oven-baked to a golden crisp crust.",
+      "category": "FOOD",
+      "simplified_description": "Two flavorful patties of seasoned ground beef, enriched with exotic Afghan herbs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Kebab",
+      "price": 18.99,
+      "description": "Treat yourself to a delicious combination of any two kebabs from our menu. This platter is a wonderful way to experience the authentic flavors and culinary expertise of Afghan cuisine.",
+      "category": "FOOD",
+      "simplified_description": "Treat yourself to a delicious combination of any two kebabs from our menu. This ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shirazi Salad",
+      "price": 7.99,
+      "description": "A crisp and refreshing garden medley of cucumber, tomato, onion, carrot, radish and tender lettuce — drizzled with extra virgin olive oil and freshly squeezed lemon juice. A light yet vibrant salad, bursting with color and flavor, crafted in true Afghan style.",
+      "category": "FOOD",
+      "simplified_description": "A crisp and refreshing garden medley of cucumber, tomato, onion, carrot, radish ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salata Chicken Salad with Parmesan",
+      "price": 11.99,
+      "description": "Succulent spiced-grilled chicken over crisp garden lettuce with tomato, radish, carrot and cucumber, crowned with parmesan, golden croutons and our rich zesty dressing.",
+      "category": "FOOD",
+      "simplified_description": "Succulent spiced-grilled chicken over crisp garden lettuce with tomato, radish, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Firni – Afghani rice pudding",
+      "price": 5.99,
+      "description": "A silky cardamom-kissed rice pudding, delicately sweetened and garnished with crushed pistachios.",
+      "category": "DESSERT",
+      "simplified_description": "A silky cardamom-kissed rice pudding, delicately sweetened and garnished with cr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Halwa",
+      "price": 7.99,
+      "description": "A rare South Asian sweet made with pistachios, offering a rich, exotic flavor you won’t forget.",
+      "category": "DESSERT",
+      "simplified_description": "A rare South Asian sweet made with pistachios, offering a rich, exotic flavor yo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft drinks",
+      "price": 1.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juices",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

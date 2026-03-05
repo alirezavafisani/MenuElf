@@ -1,0 +1,486 @@
+{
+  "restaurant": "hannispizza",
+  "parsed_at": "2026-02-06T02:30:14.021974",
+  "item_count": 47,
+  "items": [
+    {
+      "name": "Bruschetta",
+      "price": 13.95,
+      "description": "Jumbo prawns sauteed in lemon butter and garlic sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Sauteed jumbo prawns in lemon butter and garlic sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gamberetti All'aglio",
+      "price": 16.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Delmades",
+      "price": 11.95,
+      "description": "Grape leaves stuffed with rice and spices",
+      "category": "APPETIZER",
+      "simplified_description": "Grape leaves filled with rice and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 13.95,
+      "description": "",
+      "category": "SALAD",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 13.95,
+      "description": "",
+      "category": "SALAD",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Two Toppings",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Toppings / Extra Cheese for Traditional Pizza",
+      "price": null,
+      "description": "Toppings: Pepperoni, bacon, mushroom, olives, shrimp, and green peppers Toppings: mushrooms, olives, onions, green peppers, tomatoes, and pineapple",
+      "category": "PIZZA",
+      "simplified_description": "Various extra toppings including meats, vegetables, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Garden",
+      "price": null,
+      "description": "Toppings: salami, green peppers, olives, tomatoes, and feta",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with salami, vegetables, olives, tomatoes, and feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Cheese",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zorbas Special",
+      "price": null,
+      "description": "Toppings: pepperoni, bacon, beef, salami, and ham Choose any two toppings: pepperoni, salami, ham, seasoned ground beef, bacon, shrimp, olives, green peppers, red peppers, tomatoes, pineapples, anchovies, mushroom, banana peppers, jalapenos Garlic chicken, artichokes, Italian sausage, feta, spinach, asiago, crab meat",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with various meats, vegetables, and cheeses with many topping options.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chef's Special",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Delight",
+      "price": null,
+      "description": "Toppings: shrimp, carb meat, green peppers, and tomatoes",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with shrimp, crab meat, green peppers, and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": null,
+      "description": "Toppings: bacon, pepperoni, beef, salami, ham, shrimp, mushroom, olives, green peppers, pineapple, onions, and tomatoes",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with a mix of meats, seafood, vegetables, and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach and Peta",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta",
+      "price": null,
+      "description": "Basil, tomato, and asiago cheese",
+      "category": "PIZZA",
+      "simplified_description": "Toasted bread topped with basil, tomato, and asiago cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "S.M.O.G",
+      "price": null,
+      "description": "Asiago, parmesan, and mozzarella cheese",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with asiago, parmesan, and mozzarella cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Cheese",
+      "price": null,
+      "description": "Roasted garlic chicken, red onions, banana peppers, and feta cheese Diced tomatoes, herbs, spices, and olive oil Artichokes, mushrooms, sweet peppers, and olives",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with chicken, feta, vegetables, and herbs.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Margherita: Basil, tomato, and asiago cheese",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hannis Special",
+      "price": null,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": null,
+      "description": "Grilled curry chicken, red onions, pineapple, and red peppers",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with grilled curry chicken, onions, pineapple, and peppers.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "California",
+      "price": null,
+      "description": "Grilled chicken, banana peppers, pineapples, and green peppers",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with grilled chicken, peppers, and pineapple.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna Alforno",
+      "price": null,
+      "description": "Fettucine noodles in cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Fettuccine pasta served in a creamy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Penne Chorizo",
+      "price": null,
+      "description": "Ham and mushrooms in a parmesan cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Penne pasta with ham, mushrooms, and creamy parmesan sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fusilli Papalina",
+      "price": null,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "price": 20.95,
+      "description": "Cheese-filled tortellini in a cream parmesan sauce",
+      "category": "PASTA",
+      "simplified_description": "Cheese-filled tortellini served in creamy parmesan sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Linguine Marinara",
+      "price": 20.95,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tortellini Con Panna",
+      "price": 20.95,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "price": 20.95,
+      "description": "Spaghetti noodles with a tangy meat sauce, add two meatballs for $3.95",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti served with a tangy meat sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Add two meatballs for $3.95"
+    },
+    {
+      "name": "Angel Hair Crab and Artichokes",
+      "price": null,
+      "description": "Thin noodles sauteed with crab and artichokes in a rose sauce",
+      "category": "PASTA",
+      "simplified_description": "Thin noodles with crab and artichokes in a creamy tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Linguine Vongole",
+      "price": null,
+      "description": "A mixture of seafood in a tomato sauce",
+      "category": "PASTA",
+      "simplified_description": "Seafood mixed with linguine in a tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cannelloni Della Casa",
+      "price": 20.95,
+      "description": "Pasta tubes stuffed with veal, spinach, basil, and parmesan cheese",
+      "category": "PASTA",
+      "simplified_description": "Pasta filled with veal, spinach, basil, and parmesan cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Cheese Cannelloni",
+      "price": 20.95,
+      "description": "Pasta tubes stuffed with ricotta, spinach, parmesan, and mozzarella cheese in a tomato sauce",
+      "category": "PASTA",
+      "simplified_description": "Pasta filled with three cheeses and spinach in tomato sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fettucine Casanova",
+      "price": 20.95,
+      "description": "Italian sausage and banana peppers in a light tomato sauce",
+      "category": "PASTA",
+      "simplified_description": "Fettucine with Italian sausage and banana peppers in tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Souvlaki",
+      "price": 25.95,
+      "description": "",
+      "category": "ENTREE",
+      "simplified_description": "Grilled chicken skewers with Mediterranean flavors.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Salmon",
+      "price": null,
+      "description": "",
+      "category": "ENTREE",
+      "simplified_description": "Oven-baked salmon fillet.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pollo Alla Parmigiana",
+      "price": 23.95,
+      "description": "Lightly breaded chicken breast baked with mozzarella cheese and tomato sauce",
+      "category": "ENTREE",
+      "simplified_description": "Breaded chicken baked with mozzarella and tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Steak ( 8 oz)",
+      "price": 30.95,
+      "description": "8 oz Alberta Beef Grilled and topped with lemon dill butter sauce",
+      "category": "ENTREE",
+      "simplified_description": "Grilled 8 oz beef steak with lemon dill butter sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Ribs",
+      "price": 27.95,
+      "description": "Topped with a tangy BBQ sauce",
+      "category": "ENTREE",
+      "simplified_description": "Pork ribs with tangy BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake",
+      "price": 7.5,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Creamy cheesecake dessert.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Pie",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Classic apple pie dessert.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tiramisu",
+      "price": 7.5,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Coffee-flavored Italian layered dessert.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Cake",
+      "price": 7.5,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Rich chocolate layered cake.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Pop",
+      "price": 2.0,
+      "description": "Choose from one of the following flavors: Coke, Diet Coke, Sprite, Iced Tea, Ginger ale, Root beer",
+      "category": "DRINK",
+      "simplified_description": "Choose from various soda and iced tea flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Six Pack",
+      "price": 10.5,
+      "description": "Choose any 6 flavors, mix and match:Coke, Diet Coke, Sprite, Iced Tea, Ginger ale, Root Beer",
+      "category": "DRINK",
+      "simplified_description": "Mix and match any 6 soft drink flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2 L Pop",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A 2-liter bottle of soda.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

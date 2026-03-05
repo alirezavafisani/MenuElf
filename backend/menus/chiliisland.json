@@ -1,0 +1,819 @@
+{
+  "restaurant": "chiliisland",
+  "parsed_at": "2026-02-06T01:49:21.012002",
+  "item_count": 71,
+  "items": [
+    {
+      "name": "Peking Style Pork Chops",
+      "price": 16.95,
+      "description": "Peking Style Pork Chops _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Pork chops cooked in Peking style sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Fried Chicken",
+      "price": 16.95,
+      "description": "Ginger Fried Chicken****🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken flavored with ginger.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salt & Pepper Chicken",
+      "price": 16.95,
+      "description": "Salt & Pepper Chicken ****🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken seasoned with salt and pepper.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Palace Style Chicken",
+      "price": 16.95,
+      "description": "Palace Style Chicken****🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken prepared in palace style with spices.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Thai Crispy Fried Chicken",
+      "price": 16.95,
+      "description": "Thai Crispy Fried Chicken****🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Crispy fried chicken with Thai flavors.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken withMixed VegetablesorBroccoli",
+      "price": 16.95,
+      "description": "Chicken with****Mixed Vegetables****or****Broccoli****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken served with mixed vegetables or broccoli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breaded Chicken withLemonorAlmondSauce",
+      "price": 16.95,
+      "description": "Breaded Chicken with****Lemon****or****Almond****Sauce _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Breaded chicken with lemon or almond sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Vegetables in Yellow Curry - Kang Ka Rhee Gai",
+      "price": 17.95,
+      "description": "Chicken with Vegetables in Yellow Curry - Kang Ka Rhee Gai****🌶️🌶️****_[$17.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken and vegetables cooked in yellow curry.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Swimming Rama",
+      "price": 17.95,
+      "description": "Swimming Rama****🌶️🌶️🥜****_[$17.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken dish with a rich sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cashew Nut Chicken in Red Curry",
+      "price": 17.95,
+      "description": "Cashew Nut Chicken in Red Curry****🌶️🌶️🥜****_[$17.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken with cashew nuts in spicy red curry.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Diced Chicken with Cashew Nuts in Yellow Bean Sauce",
+      "price": 16.95,
+      "description": "Diced Chicken with Cashew Nuts in Yellow Bean Sauce****🥜**** _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Diced chicken with cashew nuts in bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chunks with Cauliflower in Green Curry",
+      "price": 17.95,
+      "description": "Chicken Chunks with Cauliflower in Green Curry****🌶️🌶️****_[$17.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken and cauliflower cooked in green curry.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sweet & Sour Chicken",
+      "price": 16.95,
+      "description": "Sweet & Sour Chicken _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken in a sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Balls with Sweet & Sour Sauce",
+      "price": 16.95,
+      "description": "Chicken Balls with Sweet & Sour Sauce _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken balls served with sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Sweet & Sour Chicken",
+      "price": 16.95,
+      "description": "Thai Sweet & Sour Chicken ****🌶️🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy Thai-style sweet and sour chicken.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Special Labour Chicken",
+      "price": 16.95,
+      "description": "Special Labour Chicken****🌶️🌶️🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken dish with special seasoning.",
+      "dietary_info": [
+        "spicy",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Half Peking Duck",
+      "price": 28.95,
+      "description": "Half Peking Duck _[$28.95]_",
+      "category": "FOOD",
+      "simplified_description": "Half portion of traditional roasted Peking duck.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Roast Duck in Red Curry - Gang Ped Behd Yong",
+      "price": 19.95,
+      "description": "Boneless Roast Duck in Red Curry - Gang Ped Behd Yong****🌶️🌶️****_[$19.95]_",
+      "category": "FOOD",
+      "simplified_description": "Boneless roast duck served in spicy red curry.",
+      "dietary_info": [
+        "spicy",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Panang Duck Curry",
+      "price": 19.95,
+      "description": "Panang Duck Curry****🌶️🌶️ 🥜****_[$19.95]_",
+      "category": "FOOD",
+      "simplified_description": "Duck cooked in rich, spicy Panang curry sauce.",
+      "dietary_info": [
+        "spicy",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Boneless Roast Duck & Green Onion",
+      "price": 19.95,
+      "description": "Boneless Roast Duck & Green Onion _[$19.95]_",
+      "category": "FOOD",
+      "simplified_description": "Boneless roast duck served with green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables",
+      "price": 14.95,
+      "description": "Mixed Vegetables _[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Assorted fresh mixed vegetables.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Four Kinds of Vegetables in Oyster Sauce (Broccoli, Mushroom, Zucchini, Baby Corn)",
+      "price": 14.95,
+      "description": "Four Kinds of Vegetables in Oyster Sauce (Broccoli, Mushroom, Zucchini, Baby Corn)_[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Broccoli, mushroom, zucchini, and baby corn in oyster sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Eggplant",
+      "price": 14.95,
+      "description": "Salt & Pepper Eggplant ****🌶️****_[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Eggplant seasoned with salt and pepper, served spicy.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bean Curd in Peanut Red Curry",
+      "price": 15.95,
+      "description": "Bean Curd in Peanut Red Curry****🌶️🌶️****🥜****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Bean curd cooked in spicy peanut red curry sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy",
+        "halal"
+      ],
+      "other_info": "Contains peanuts; Spicy"
+    },
+    {
+      "name": "Mixed Vegetables in Red Curry",
+      "price": 15.95,
+      "description": "Mixed Vegetables in Red Curry****🌶️🌶️****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in spicy red curry sauce.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Vegetables with Cashew Nut in Oyster Sauce",
+      "price": 15.95,
+      "description": "Vegetables with Cashew Nut in Oyster Sauce****🥜**** _[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Vegetables and cashew nuts cooked in oyster sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": "Contains nuts"
+    },
+    {
+      "name": "Vegetables with Bean Curd in Oyster Sauce",
+      "price": 14.95,
+      "description": "Vegetables with Bean Curd in Oyster Sauce _[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Vegetables and bean curd cooked in oyster sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chop Suey",
+      "price": 12.95,
+      "description": "Chop Suey _[$12.95]_",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables and meat stir-fried together.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Island Special Seafood Fried Rice",
+      "price": 16.95,
+      "description": "Chili Island Special Seafood Fried Rice _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Seafood fried rice with special seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 16.95,
+      "description": "Shrimp Fried Rice _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice cooked with shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Spicy Seafood Fried Rice",
+      "price": 16.95,
+      "description": "Thai Spicy Seafood Fried Rice****🌶️🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy fried rice with mixed seafood and Thai flavors.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 13.95,
+      "description": "Chicken Fried Rice _[$13.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice cooked with chicken and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Rice",
+      "price": 13.95,
+      "description": "Beef Fried Rice _[$13.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with beef and mixed vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Fried Rice",
+      "price": 13.95,
+      "description": "BBQ Pork Fried Rice _[$13.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with BBQ pork and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Fried Rice",
+      "price": 14.95,
+      "description": "Curry Fried Rice****🌶️🌶️****_[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy fried rice flavored with curry spices.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Yang Chow Fried Rice (Chicken, BBQ Pork, Shrimp)",
+      "price": 14.95,
+      "description": "Yang Chow Fried Rice (Chicken, BBQ Pork, Shrimp)_[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with chicken, BBQ pork, and shrimp.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Fried Rice",
+      "price": 13.95,
+      "description": "Vegetable Fried Rice _[$13.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed White Rice",
+      "price": 3.55,
+      "description": "Steamed White Rice _[$3.55]_",
+      "category": "FOOD",
+      "simplified_description": "Plain steamed white rice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Milk Rice",
+      "price": 5.95,
+      "description": "Coconut Milk Rice _[$5.95]_",
+      "category": "FOOD",
+      "simplified_description": "Rice cooked with creamy coconut milk.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pad Thai",
+      "price": 16.95,
+      "description": "Pad Thai****🌶️🌶️ 🥜**** _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy stir-fried rice noodles with sauce and toppings.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cantonese Chow Mein",
+      "price": 16.95,
+      "description": "Cantonese Chow Mein _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with vegetables and meat.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Chow Mein",
+      "price": 14.95,
+      "description": "Vegetable Chow Mein _[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chow Mein with Bean Sprout in Soya Sauce",
+      "price": 14.95,
+      "description": "Chow Mein with Bean Sprout in Soya Sauce _[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with bean sprouts and soy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Noodles with Chicken, Shrimp, Vegetables",
+      "price": 15.95,
+      "description": "Shanghai Noodles with Chicken, Shrimp, Vegetables _[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Shanghai-style noodles with chicken, shrimp, and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Noodles with Chicken & Shrimp in Black Pepper Sauce",
+      "price": 15.95,
+      "description": "Shanghai Noodles with Chicken & Shrimp in Black Pepper Sauce ****🌶️🌶️****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy Shanghai noodles with chicken and shrimp in pepper sauce.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shanghai Noodles with Mixed Vegetables",
+      "price": 14.95,
+      "description": "Shanghai Noodles with Mixed Vegetables _[$14.95]_",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with a variety of mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Noodles withBeeforChickenin Satay Sauce",
+      "price": 15.95,
+      "description": "Shanghai Noodles with****Beef****or****Chicken****in Satay Sauce****🌶️****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Noodles with beef or chicken served in a satay sauce.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Home Style Fried Rice Noodles",
+      "price": 15.95,
+      "description": "Home Style Fried Rice Noodles _[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Classic fried rice noodles cooked in a home-style manner.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Style Shanghai Noodles",
+      "price": 15.95,
+      "description": "Szechuan Style Shanghai Noodles****🌶️🌶️****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Shanghai noodles prepared in spicy Szechuan style.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Singapore Fried Rice Noodles",
+      "price": 15.95,
+      "description": "Singapore Fried Rice Noodles****🌶️🌶️****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice noodles with a spicy Singapore-style seasoning.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egg Foo Yung withChicken,Beef,BBQ Pork, orShrimp",
+      "price": 16.95,
+      "description": "Egg Foo Yung with****Chicken****,****Beef****,****BBQ Pork****, or****Shrimp****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung omelette with choice of chicken, beef, pork, or shrimp.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Foo Yung with Mushrooms",
+      "price": 15.95,
+      "description": "Egg Foo Yung with Mushrooms _[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Egg foo yung omelette made with mushrooms.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moo Suey & Pancakes with Chicken,Beef,BBQ Pork, orShrimp",
+      "price": 17.95,
+      "description": "Moo Suey & Pancakes with ****Chicken****,****Beef****,****BBQ Pork****, or****Shrimp****_[$17.95]_",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried vegetables and meat served with pancakes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood with Mixed Vegetables on Sizzling Rice",
+      "price": 16.95,
+      "description": "Seafood with Mixed Vegetables on Sizzling Rice _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Seafood and vegetables served on crispy sizzling rice.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp and Tomatoes on Sizzling Rice",
+      "price": 16.95,
+      "description": "Shrimp and Tomatoes on Sizzling Rice _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Shrimp and tomatoes served on crispy sizzling rice.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef or Chicken with Mixed Vegetables on Sizzling Rice",
+      "price": 15.95,
+      "description": "Beef or Chicken with Mixed Vegetables on Sizzling Rice _[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Beef or chicken with vegetables on crispy sizzling rice.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup on Sizzling Rice",
+      "price": 15.95,
+      "description": "Hot & Sour Soup on Sizzling Rice ****🌶️🌶️****_[$15.95]_",
+      "category": "FOOD",
+      "simplified_description": "Spicy hot and sour soup served with sizzling rice.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken in Black Pepper Sauce Hot Plate",
+      "price": 18.95,
+      "description": "Chicken in Black Pepper Sauce Hot Plate****🌶️****_[$18.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in a spicy black pepper sauce on a hot plate.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beef with Cashew Nuts in Chili Sauce Hot Plate",
+      "price": 18.95,
+      "description": "Beef with Cashew Nuts in Chili Sauce Hot Plate****🌶️🌶️****🥜****_[$18.95]_",
+      "category": "FOOD",
+      "simplified_description": "Beef with cashew nuts in a spicy chili sauce on a hot plate.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Contains nuts; Spicy"
+    },
+    {
+      "name": "Seafood Chow Mein in Red Curry Hot Plate",
+      "price": 20.95,
+      "description": "Seafood Chow Mein in Red Curry Hot Plate****🌶️🌶️****_[$20.95]_",
+      "category": "FOOD",
+      "simplified_description": "Seafood chow mein served in spicy red curry on a hot plate.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Teriyaki Beef Hot Plate",
+      "price": 18.95,
+      "description": "Teriyaki Beef Hot Plate _[$18.95]_",
+      "category": "FOOD",
+      "simplified_description": "Beef cooked in sweet teriyaki sauce served hot.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef in Spicy Black Bean Sauce Hot Plate",
+      "price": 18.95,
+      "description": "Beef in Spicy Black Bean Sauce Hot Plate****🌶️****_[$18.95]_",
+      "category": "FOOD",
+      "simplified_description": "Beef cooked in a spicy black bean sauce served hot.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Dried Beef Ho Fun with Bean Sprouts",
+      "price": 16.95,
+      "description": "Dried Beef Ho Fun with Bean Sprouts _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Flat rice noodles with dried beef and bean sprouts.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Ho Fun in Black Bean Sauce",
+      "price": 16.95,
+      "description": "Beef Ho Fun in Black Bean Sauce****🌶️****_[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Flat rice noodles with beef in black bean sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salted Fish & Chicken Fried Rice",
+      "price": 16.95,
+      "description": "Salted Fish & Chicken Fried Rice _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with salted fish and chicken pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Vegetables & Cashew Chicken Gai Ding",
+      "price": 16.95,
+      "description": "Diced Vegetables & Cashew Chicken Gai Ding ****🥜**** _[$16.95]_",
+      "category": "FOOD",
+      "simplified_description": "Chicken with diced vegetables and cashew nuts.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Vegetables & Cashew Shrimp",
+      "price": 17.95,
+      "description": "Diced Vegetables & Cashew Shrimp ****🥜****_[$17.95]_",
+      "category": "FOOD",
+      "simplified_description": "Shrimp with diced vegetables and cashew nuts.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Fish Fillet",
+      "price": 18.95,
+      "description": "Salt & Pepper Fish Fillet ****🌶️****_[$18.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fish fillet seasoned with salt and pepper.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sweet & Sour Fish Fillet",
+      "price": 18.95,
+      "description": "Sweet & Sour Fish Fillet _[$18.95]_",
+      "category": "FOOD",
+      "simplified_description": "Fish fillet cooked in sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bubble Tea",
+      "price": 5.95,
+      "description": "Bubble Tea _[$5.95]  - Mix Any Two Flavours [+$1.00]_",
+      "category": "DRINK",
+      "simplified_description": "Tea drink with chewy tapioca pearls, choose two flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.0,
+      "description": "Canned Pop _[$2.00]_",
+      "category": "DRINK",
+      "simplified_description": "Carbonated canned soft drink.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

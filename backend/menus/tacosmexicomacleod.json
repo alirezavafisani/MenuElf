@@ -1,0 +1,547 @@
+{
+  "restaurant": "tacosmexicomacleod",
+  "parsed_at": "2026-02-06T04:20:48.233415",
+  "item_count": 60,
+  "items": [
+    {
+      "name": "Combinacion Mexicana",
+      "price": 15.0,
+      "description": "Guacamole, salsa mexicana, pickles, beans, and chips.",
+      "category": "APPETIZER",
+      "simplified_description": "Guacamole, salsa mexicana, pickles, beans, and chips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Taco",
+      "price": 23.0,
+      "description": "Crispy battered fish, cabbage, chipotle mayo, and pico de gallo on a corn tortilla.",
+      "category": "TACO",
+      "simplified_description": "Crispy battered fish, cabbage, chipotle mayo, and pico de gallo on a corn tortil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sopes",
+      "price": 15.0,
+      "description": "Thick corn masa cakes topped with beans, lettuce, cheese, and sour cream.",
+      "category": "ANTOJITOS",
+      "simplified_description": "Thick corn masa cakes topped with beans, lettuce, cheese, and sour cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margaritas",
+      "price": 7.0,
+      "description": "Drinks - 0% alcohol",
+      "category": "DRINK",
+      "simplified_description": "Drinks - 0% alcohol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Piña Colada",
+      "price": 7.0,
+      "description": "Drinks - 0% alcohol",
+      "category": "DRINK",
+      "simplified_description": "Drinks - 0% alcohol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jarritos",
+      "price": 4.0,
+      "description": "Drinks - Mexican pop",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Mexican pop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Horchata",
+      "price": 4.0,
+      "description": "Drinks - 0% alcohol",
+      "category": "DRINK",
+      "simplified_description": "Drinks - 0% alcohol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mojito",
+      "price": 7.0,
+      "description": "Drinks - Coconut, hibiscus, tamarindo",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Coconut, hibiscus, tamarindo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Limonade",
+      "price": 5.0,
+      "description": "Drinks - Coconut, classic, fresa",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Coconut, classic, fresa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jamaica",
+      "price": 4.0,
+      "description": "Drinks - 0% alcohol",
+      "category": "DRINK",
+      "simplified_description": "Drinks - 0% alcohol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tamarindo",
+      "price": 4.0,
+      "description": "Drinks - 0% alcohol",
+      "category": "DRINK",
+      "simplified_description": "Drinks - 0% alcohol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Maracuya",
+      "price": 4.0,
+      "description": "Drinks - 0% alcohol",
+      "category": "DRINK",
+      "simplified_description": "Drinks - 0% alcohol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Michelada",
+      "price": 9.0,
+      "description": "Drinks - With Corona 0.0% alcohol free",
+      "category": "DRINK",
+      "simplified_description": "Drinks - With Corona 0.0% alcohol free",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ceviche",
+      "price": 20.0,
+      "description": "Appetizers - Shrimp & fish cooked in citrus juice, red onion, jalapeño and chunks of creamy avocado, in a V8 sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers - Shrimp & fish cooked in citrus juice, red onion, jalapeño and chunk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chorizo con Queso",
+      "price": 14.0,
+      "description": "Appetizers - Mexican sausage melted mozzarella cheese with corn tortillas chips",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers - Mexican sausage melted mozzarella cheese with corn tortillas chips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari",
+      "price": 16.0,
+      "description": "Appetizers - Breaded calamari, green and red pepper, chipotle mayo dressing",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers - Breaded calamari, green and red pepper, chipotle mayo dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nachos Del Rey",
+      "price": 15.0,
+      "description": "Appetizers - Chips, Mozza and cheddar, sour cream, guacamole & salsa Mexicana",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers - Chips, Mozza and cheddar, sour cream, guacamole & salsa Mexicana",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Huarache",
+      "price": 14.0,
+      "description": "Antojitos - Refried beans on corn dough, lettuce, steak, sour cream & cheese",
+      "category": "ANTOJITOS",
+      "simplified_description": "Antojitos - Refried beans on corn dough, lettuce, steak, sour cream & cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Torta Ahogada",
+      "price": 14.0,
+      "description": "Antojitos - Salsa-drowned sandwich stuffed with beans & pork carnitas. Very hot sauce on the side.",
+      "category": "ANTOJITOS",
+      "simplified_description": "Antojitos - Salsa-drowned sandwich stuffed with beans & pork carnitas. Very hot ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sopa de Tortilla",
+      "price": 9.5,
+      "description": "Soups - Chicken broth, chicken, avocado, mozza, tortilla strips",
+      "category": "SOUP",
+      "simplified_description": "Soups - Chicken broth, chicken, avocado, mozza, tortilla strips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sopa de Frijoles",
+      "price": 7.0,
+      "description": "Soups - Bean soup, feta cheese, jalapeño & chips",
+      "category": "SOUP",
+      "simplified_description": "Soups - Bean soup, feta cheese, jalapeño & chips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pozole",
+      "price": 17.0,
+      "description": "Soups - Pork & hominy stewed with guajillo peppers",
+      "category": "SOUP",
+      "simplified_description": "Soups - Pork & hominy stewed with guajillo peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Menudo (Pancita)",
+      "price": 18.0,
+      "description": "Soups - Beef tripe soup in red chili broth",
+      "category": "SOUP",
+      "simplified_description": "Soups - Beef tripe soup in red chili broth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caldo de Camarón",
+      "price": 18.0,
+      "description": "Soups - Brothy shrimp soup",
+      "category": "SOUP",
+      "simplified_description": "Soups - Brothy shrimp soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caldo de Mariscos",
+      "price": 20.0,
+      "description": "Soups - Delicious Mexican fish soup that features white fish and juicy shrimps in a slightly spicy tomato chipotle broth.",
+      "category": "SOUP",
+      "simplified_description": "Soups - Delicious Mexican fish soup that features white fish and juicy shrimps i",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carnitas",
+      "price": 21.0,
+      "description": "Tacos de Guisado - Seasoned pork slow-cooked",
+      "category": "TACO",
+      "simplified_description": "Tacos de Guisado - Seasoned pork slow-cooked",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Beef",
+      "price": 21.0,
+      "description": "Tacos de Guisado - Tender sirloin simmered in chipotle sauce",
+      "category": "TACO",
+      "simplified_description": "Tacos de Guisado - Tender sirloin simmered in chipotle sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pollo Pibil",
+      "price": 21.0,
+      "description": "Tacos de Guisado - Shredded chicken breast in Chile guajillo",
+      "category": "TACO",
+      "simplified_description": "Tacos de Guisado - Shredded chicken breast in Chile guajillo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barbacoa (Birria)",
+      "price": 21.0,
+      "description": "Tacos de Guisado - Beef meltingly tender with flavorful chillies and spices",
+      "category": "TACO",
+      "simplified_description": "Tacos de Guisado - Beef meltingly tender with flavorful chillies and spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chorizo con Papas",
+      "price": 21.0,
+      "description": "Tacos de Guisado - Pork sausage mixed with diced potatoes",
+      "category": "TACO",
+      "simplified_description": "Tacos de Guisado - Pork sausage mixed with diced potatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicharrón",
+      "price": 21.0,
+      "description": "Tacos de Guisado - Fried pork rinds in tomatillo sauce",
+      "category": "TACO",
+      "simplified_description": "Tacos de Guisado - Fried pork rinds in tomatillo sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Asada",
+      "price": 21.0,
+      "description": "Tacos on the Grill - Seasoned diced top sirloin",
+      "category": "TACO",
+      "simplified_description": "Tacos on the Grill - Seasoned diced top sirloin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pastor",
+      "price": 21.0,
+      "description": "Tacos on the Grill - Diced pork loin with pineapple in adobo sauce",
+      "category": "TACO",
+      "simplified_description": "Tacos on the Grill - Diced pork loin with pineapple in adobo sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Del Rey",
+      "price": 21.0,
+      "description": "Tacos on the Grill - Top sirloin with melted mozza and veggies",
+      "category": "TACO",
+      "simplified_description": "Tacos on the Grill - Top sirloin with melted mozza and veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish",
+      "price": 23.0,
+      "description": "Tacos on the Grill - Seasoned white fish lightly breaded",
+      "category": "TACO",
+      "simplified_description": "Tacos on the Grill - Seasoned white fish lightly breaded",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Camaron",
+      "price": 23.0,
+      "description": "Tacos on the Grill - Grilled shrimps in butter sauce",
+      "category": "TACO",
+      "simplified_description": "Tacos on the Grill - Grilled shrimps in butter sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sauteed Vegetables",
+      "price": 20.0,
+      "description": "Tacos de Vegetales - Seasoned veggies with mozza cheese and creamy sauce",
+      "category": "TACO",
+      "simplified_description": "Tacos de Vegetales - Seasoned veggies with mozza cheese and creamy sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Sausages with Diced Potatoes",
+      "price": 20.0,
+      "description": "Tacos de Vegetales",
+      "category": "TACO",
+      "simplified_description": "Tacos de Vegetales",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bean and Cheese",
+      "price": 18.0,
+      "description": "Tacos de Vegetales",
+      "category": "TACO",
+      "simplified_description": "Tacos de Vegetales",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rajas con Crema",
+      "price": 21.0,
+      "description": "Tacos de Vegetales - Poblano pepper, onions, corn kernel, creamy sauce",
+      "category": "TACO",
+      "simplified_description": "Tacos de Vegetales - Poblano pepper, onions, corn kernel, creamy sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Papas a la Mexican",
+      "price": 20.0,
+      "description": "Tacos de Vegetales - Potato, onions, tomato, jalapeno",
+      "category": "TACO",
+      "simplified_description": "Tacos de Vegetales - Potato, onions, tomato, jalapeno",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tacos Mixtos",
+      "price": 23.0,
+      "description": "Tacos Mixtos - Combine any 3 kind of tacos (2-2-2)",
+      "category": "TACO",
+      "simplified_description": "Tacos Mixtos - Combine any 3 kind of tacos (2-2-2)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burritos",
+      "price": 20.0,
+      "description": "Specialties - Served with rice and beans",
+      "category": "SPECIALTY",
+      "simplified_description": "Specialties - Served with rice and beans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadillas",
+      "price": 16.0,
+      "description": "Specialties - Served with rice and beans",
+      "category": "SPECIALTY",
+      "simplified_description": "Specialties - Served with rice and beans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Enchiladas",
+      "price": 20.0,
+      "description": "Specialties - Served with rice and beans",
+      "category": "SPECIALTY",
+      "simplified_description": "Specialties - Served with rice and beans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fajitas Bravas",
+      "price": 18.0,
+      "description": "Specialties - Served with rice and beans",
+      "category": "SPECIALTY",
+      "simplified_description": "Specialties - Served with rice and beans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Flautas",
+      "price": 20.0,
+      "description": "Main Courses - Rolled crispy corn tortillas, stuffed with chicken, tomato sauce, feta, and sour cream.",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Rolled crispy corn tortillas, stuffed with chicken, tomato sauce,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken in Mole",
+      "price": 21.0,
+      "description": "Main Courses - Tender chicken breast in a rich mole sauce",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Tender chicken breast in a rich mole sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chimichangas",
+      "price": 20.0,
+      "description": "Main Courses - Deep fried flour tortillas filled with shredded chicken breast or beef",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Deep fried flour tortillas filled with shredded chicken breast or",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "El Trio",
+      "price": 21.0,
+      "description": "Main Courses - Burrito, Chile relleno and chimichanga",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Burrito, Chile relleno and chimichanga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "El Cuatro",
+      "price": 23.0,
+      "description": "Main Courses - Chimichanga, flauta, enchilada and burrito",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Chimichanga, flauta, enchilada and burrito",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tampiqueña",
+      "price": 23.0,
+      "description": "Main Courses - Top sirloin steak, enchilada, veggies with melted cheese, rice & beans",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Top sirloin steak, enchilada, veggies with melted cheese, rice & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chuletas in Adobo",
+      "price": 21.0,
+      "description": "Main Courses - Grilled pork chops in lightly spice guajillo sauce",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Grilled pork chops in lightly spice guajillo sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Churrasco",
+      "price": 25.0,
+      "description": "Main Courses - Sirloin and chicken strips, Mexican sausages, shrimps and rice",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Sirloin and chicken strips, Mexican sausages, shrimps and rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alambre",
+      "price": 24.0,
+      "description": "Main Courses - Grilled beef, chicken or pastor topped with chopped bacon bell peppers and onions served with corn or flour tortillas.",
+      "category": "MAIN COURSE",
+      "simplified_description": "Main Courses - Grilled beef, chicken or pastor topped with chopped bacon bell pe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arroz con Leche",
+      "price": 8.0,
+      "description": "Desserts",
+      "category": "DESSERT",
+      "simplified_description": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flan",
+      "price": 8.0,
+      "description": "Desserts",
+      "category": "DESSERT",
+      "simplified_description": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Cake",
+      "price": 8.0,
+      "description": "Desserts",
+      "category": "DESSERT",
+      "simplified_description": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Leches Cake",
+      "price": 8.0,
+      "description": "Desserts",
+      "category": "DESSERT",
+      "simplified_description": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churros",
+      "price": 8.0,
+      "description": "Desserts",
+      "category": "DESSERT",
+      "simplified_description": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

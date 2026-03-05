@@ -1,0 +1,268 @@
+{
+  "restaurant": "tomatobasil",
+  "parsed_at": "2026-02-06T04:36:56.015817",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "Veggie spring rolls (5 pcs)",
+      "price": 6.75,
+      "description": "Shredded carrot, taro, dried Mushroom, bean thread noodles",
+      "category": "APPETIZER",
+      "simplified_description": "Shredded carrot, taro, dried Mushroom, bean thread noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad rolls (3 pcs)",
+      "price": 7.0,
+      "description": "Prawn, lettuce, vermicelli side with hoisin sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Prawn, lettuce, vermicelli side with hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef",
+      "price": 13.0,
+      "description": "Green onion, bean sprout, basil, lime slice, hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "Green onion, bean sprout, basil, lime slice, hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken",
+      "price": 12.0,
+      "description": "Green onion, bean sprout, basil, lime slice, hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "Green onion, bean sprout, basil, lime slice, hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Rare Beef",
+      "price": 14.0,
+      "description": "With Meat Balls",
+      "category": "FOOD",
+      "simplified_description": "With Meat Balls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef or chicken",
+      "price": 13.5,
+      "description": "(With 2 eggs)",
+      "category": "FOOD",
+      "simplified_description": "(With 2 eggs)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef",
+      "price": 8.5,
+      "description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "category": "FOOD",
+      "simplified_description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken",
+      "price": 8.0,
+      "description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "category": "FOOD",
+      "simplified_description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair",
+      "price": 8.5,
+      "description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "category": "FOOD",
+      "simplified_description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie",
+      "price": 8.0,
+      "description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "category": "FOOD",
+      "simplified_description": "Pickled julienne carrot, cucumber, hot pepper, cilantro, onion, house sub sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef",
+      "price": 13.0,
+      "description": "Shredded lettuce, pickled julienne carrot, cilantro, fish sauce",
+      "category": "FOOD",
+      "simplified_description": "Shredded lettuce, pickled julienne carrot, cilantro, fish sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken",
+      "price": 12.0,
+      "description": "Shredded lettuce, pickled julienne carrot, cilantro, fish sauce",
+      "category": "FOOD",
+      "simplified_description": "Shredded lettuce, pickled julienne carrot, cilantro, fish sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 11.0,
+      "description": "Shredded lettuce, pickled julienne carrot, cilantro, fish sauce",
+      "category": "FOOD",
+      "simplified_description": "Shredded lettuce, pickled julienne carrot, cilantro, fish sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef",
+      "price": 13.0,
+      "description": "More shredded lettuce, no rice vermicelli",
+      "category": "FOOD",
+      "simplified_description": "More shredded lettuce, no rice vermicelli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken",
+      "price": 12.0,
+      "description": "More shredded lettuce, no rice vermicelli",
+      "category": "FOOD",
+      "simplified_description": "More shredded lettuce, no rice vermicelli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread (8pcs)",
+      "price": 5.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic cheese Bread (8pcs)",
+      "price": 6.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 6.25,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular",
+      "price": 8.0,
+      "description": "With choice of beef, pulled pork, donair, chicken or butter chicken",
+      "category": "Poutine",
+      "simplified_description": "With choice of beef, pulled pork, donair, chicken or butter chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special",
+      "price": 9.5,
+      "description": "With choice of beef, pulled pork, donair, chicken or butter chicken",
+      "category": "Poutine",
+      "simplified_description": "With choice of beef, pulled pork, donair, chicken or butter chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries / onion rings",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken strips (3pcs)",
+      "price": 6.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken strips & fries",
+      "price": 8.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken popcorn & fries",
+      "price": 8.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken wings (10pcs)",
+      "price": 10.5,
+      "description": "With a choice of hot, honey garlic, bbq, teriyaki, salt & pepper, lemon pepper",
+      "category": "APPETIZER",
+      "simplified_description": "With a choice of hot, honey garlic, bbq, teriyaki, salt & pepper, lemon pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread (8) or Fries",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings (10)",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza by numbers (2)",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drink (2L)",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

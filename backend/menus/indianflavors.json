@@ -1,0 +1,195 @@
+{
+  "restaurant": "indianflavors",
+  "parsed_at": "2025-12-24T23:39:58.618602",
+  "item_count": 18,
+  "items": [
+    {
+      "name": "Paneer Makhani",
+      "price": 14.95,
+      "description": "Slightly sweet creamy dish of home-made cottage cheese in a tomato butter sauce. (contain nuts)",
+      "simplified_description": "A creamy, slightly sweet dish made with homemade cheese in a tomato butter sauce that contains nuts.",
+      "category": "Mains",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Paneer",
+      "price": 14.95,
+      "description": "Indian cottage cheese cooked with assorted bell peppers, onion in Kadhai gravy.",
+      "simplified_description": "Cottage cheese cooked with mixed bell peppers and onions in a special gravy.",
+      "category": "Mains",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "price": 14.95,
+      "description": "Assorted bell peppers and onions, grill and sautéed with traditional homemade cheese in a butter onion gravy. (contain nuts)",
+      "simplified_description": "Grilled cheese with bell peppers and onions in a buttery onion sauce that contains nuts.",
+      "category": "Mains",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 15.95,
+      "description": "A mild, much-favored dish of chicken (breast) roasted in the tandoor, and then cooked in butter, Cashewnut gravy, creamy tomato sauce, garnished with rich cream. (contain nuts)",
+      "simplified_description": "Mild roasted chicken in a creamy tomato sauce with butter and cashew nuts.",
+      "category": "Mains",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken tikka masala",
+      "price": 15.95,
+      "description": "Chicken (breast) marinated and grilled in tandoor, then simmered in masala sauce with sautéed capsicum and onions. (Contain nuts)",
+      "simplified_description": "Grilled chicken in a spiced sauce with sautéed peppers and onions that contains nuts.",
+      "category": "Mains",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 14.95,
+      "description": "Chicken (thigh) cooked in a flavorful curry with whole garam masala.",
+      "simplified_description": "Chicken cooked in a flavorful curry with whole spices.",
+      "category": "Mains",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Chicken",
+      "price": 14.95,
+      "description": "(Thigh) Chicken morsels cooked with onion tomatoes masala and homemade spices.",
+      "simplified_description": "Chicken pieces cooked with onion and tomato spices.",
+      "category": "Mains",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 14.95,
+      "description": "Chicken (thigh) cooked in a thick and aromatic creamy sauce with ground cashew nuts, and spices. (contain nuts)",
+      "simplified_description": "Chicken in a thick, aromatic creamy sauce with ground cashew nuts.",
+      "category": "Mains",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango fish/Mango prawn curry",
+      "price": null,
+      "description": "Light aromatic fish/prawn curry stewed in mango pulp & infused in coconut milk.",
+      "simplified_description": "A light curry made with fish or prawns, mango pulp, and coconut milk.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Masala/Prawn Masala",
+      "price": null,
+      "description": "Basa fish/prawn tossed with flavorful onion and tomato masala.",
+      "simplified_description": "Fish or prawns cooked with a flavorful onion and tomato sauce.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goan fish/Goan prawn curry",
+      "price": null,
+      "description": "Goan curry is a warm and tangy fish/prawn curry that is cooled with coconut milk.",
+      "simplified_description": "A warm and tangy curry made with fish or prawns and coconut milk.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish curry/Prawn Curry",
+      "price": null,
+      "description": "Basa Fish/Prawn cooked in a flavorful curry with the homemade spices.",
+      "simplified_description": "Fish or prawns cooked in a flavorful homemade curry.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 14.95,
+      "description": "Cottage cheese, potatoes dumplings deep fried and cooked with creamy cashew nut sauce. (contain nuts)",
+      "simplified_description": "Deep-fried dumplings made of cheese and potatoes in a creamy cashew sauce.",
+      "category": "Mains",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 15.95,
+      "description": "Chicken biryani is a delicious Pakistani/Indian rice dish that’s typically reserved for special occasions such as weddings, parties, or holidays such as Ramadan.",
+      "simplified_description": "A flavorful rice dish with chicken, often served on special occasions.",
+      "category": "Mains",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Basmati Rice",
+      "price": 4.5,
+      "description": "Long grain flavorsome steamed basmati rice.",
+      "simplified_description": "Steamed basmati rice with a flavorful taste.",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 4.95,
+      "description": "Flavored basmati rice tempered with cumin on DUM.",
+      "simplified_description": "Basmati rice flavored with cumin.",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 6.95,
+      "description": "Basmati rice flavored with coconut, mustard seeds and curry leaves.",
+      "simplified_description": "Basmati rice with coconut, mustard seeds, and curry leaves.",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saffron Rice",
+      "price": 6.95,
+      "description": "Basmati rice flavored with saffron.",
+      "simplified_description": "Basmati rice with saffron flavor.",
+      "category": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

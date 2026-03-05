@@ -1,0 +1,826 @@
+{
+  "restaurant": "sotyyc",
+  "parsed_at": "2026-02-06T04:09:49.780193",
+  "item_count": 91,
+  "items": [
+    {
+      "name": "Jumbo Prawn Cocktail",
+      "price": 24.0,
+      "description": "대하 칵테일\nSOT cocktail sauce, basil nuoc cham",
+      "category": "APPETIZER",
+      "simplified_description": "대하 칵테일\nSOT cocktail sauce, basil nuoc cham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "C.A.B Beef Tartare",
+      "price": 24.0,
+      "description": "소고기 육회\nAsian pear, crispy gim, egg yolk",
+      "category": "APPETIZER",
+      "simplified_description": "소고기 육회\nAsian pear, crispy gim, egg yolk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mussel Stew",
+      "price": 24.0,
+      "description": "홍합찜\nRadish, spicy Korean butter stew, sourdough",
+      "category": "APPETIZER",
+      "simplified_description": "홍합찜\nRadish, spicy Korean butter stew, sourdough",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Seafood Crudo",
+      "price": 39.0,
+      "description": "모듬회\nSOT accompaniments",
+      "category": "APPETIZER",
+      "simplified_description": "모듬회\nSOT accompaniments",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan-roasted Eggplant",
+      "price": 15.0,
+      "description": "구운 가지\nSweet & sour soy sauce, hot peppers, crispy potato",
+      "category": "APPETIZER",
+      "simplified_description": "구운 가지\nSweet & sour soy sauce, hot peppers, crispy potato",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt Baked Beets",
+      "price": 16.0,
+      "description": "비트 샐러드\nKorean multigrain dressing, apple, goat cheese",
+      "category": "APPETIZER",
+      "simplified_description": "비트 샐러드\nKorean multigrain dressing, apple, goat cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Broccolini",
+      "price": 15.0,
+      "description": "브로콜리니\nKimchi dressing, toasted pumpkin seeds, grana padano",
+      "category": "APPETIZER",
+      "simplified_description": "브로콜리니\nKimchi dressing, toasted pumpkin seeds, grana padano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef Bulgogi",
+      "price": 28.0,
+      "description": "석쇠 불고기",
+      "category": "MAIN",
+      "simplified_description": "석쇠 불고기",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Oven-roasted Rougie Duck Breast",
+      "price": 38.0,
+      "description": "허니갈릭 오리 로스\nHoney garlic glaze",
+      "category": "MAIN",
+      "simplified_description": "허니갈릭 오리 로스\nHoney garlic glaze",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pork Back Ribs",
+      "price": 28.0,
+      "description": "돼지 갈비\nSweet Gochujang sauce, chili",
+      "category": "MAIN",
+      "simplified_description": "돼지 갈비\nSweet Gochujang sauce, chili",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arctic Char",
+      "price": 29.0,
+      "description": "북극 송어\nChili garlic dressing",
+      "category": "MAIN",
+      "simplified_description": "북극 송어\nChili garlic dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Braised C.A.B Beef Short Ribs",
+      "price": 39.0,
+      "description": "갈비찜",
+      "category": "MAIN",
+      "simplified_description": "갈비찜",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Cod",
+      "price": 32.0,
+      "description": "은대구\nBlack bean sauce, kimchi salsa",
+      "category": "MAIN",
+      "simplified_description": "은대구\nBlack bean sauce, kimchi salsa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Half Chicken",
+      "price": 34.0,
+      "description": "치킨 로스트\nSoy garlic glaze",
+      "category": "MAIN",
+      "simplified_description": "치킨 로스트\nSoy garlic glaze",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Scallop, Shrimp, House-made XO Sauce",
+      "price": 12.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seared Salmon, Sweet Ginger Soy Sauce",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flying Fish Roe, Gim Sauce, Pickled Radish",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Mushrooms",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kimchi, Cheese Sauce",
+      "price": 9.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bone Soup",
+      "price": 12.0,
+      "description": "설렁탕",
+      "category": "SIDE",
+      "simplified_description": "설렁탕",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soy-braised Tofu",
+      "price": 12.0,
+      "description": "두부조림",
+      "category": "SIDE",
+      "simplified_description": "두부조림",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOT Cabbage Kimchi",
+      "price": 4.0,
+      "description": "배추김치",
+      "category": "SIDE",
+      "simplified_description": "배추김치",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bowl of Rice",
+      "price": 3.0,
+      "description": "공기밥",
+      "category": "SIDE",
+      "simplified_description": "공기밥",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Rice Créme Brûlée",
+      "price": 9.0,
+      "description": "Roasted rice custard",
+      "category": "DESSERT",
+      "simplified_description": "Roasted rice custard",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Earl Grey Tiramisu",
+      "price": 10.0,
+      "description": "Amaretto, Earl Grey Mascarpone, Black Sesame Powder",
+      "category": "DESSERT",
+      "simplified_description": "Amaretto, Earl Grey Mascarpone, Black Sesame Powder",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Feature Dessert",
+      "price": null,
+      "description": "Please ask your server for details",
+      "category": "DESSERT",
+      "simplified_description": "Please ask your server for details",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Misoju",
+      "price": 15.0,
+      "description": "Limoncello, Gin, Peach liqueur, cranberry juice  \n2.25 oz",
+      "category": "DRINK",
+      "simplified_description": "Limoncello, Gin, Peach liqueur, cranberry juice  \n2.25 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prisoners’ Round",
+      "price": 17.0,
+      "description": "Green Chartreuse, Absinthe, St. Germain, Cointreau, Lavender  \n2 oz",
+      "category": "DRINK",
+      "simplified_description": "Green Chartreuse, Absinthe, St. Germain, Cointreau, Lavender  \n2 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hwang So",
+      "price": 16.0,
+      "description": "Amaretto, Dark Spiced Rum, Cinnamon, Ginger  \n2 oz",
+      "category": "DRINK",
+      "simplified_description": "Amaretto, Dark Spiced Rum, Cinnamon, Ginger  \n2 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeju Island",
+      "price": 15.0,
+      "description": "Hallasan Soju, Vodka, Yuja Pear Tonic  \n2 oz",
+      "category": "DRINK",
+      "simplified_description": "Hallasan Soju, Vodka, Yuja Pear Tonic  \n2 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "My Old Days",
+      "price": 17.0,
+      "description": "Hennessy VSOP, Green Tea Lemon Syrup  \n1.5 oz",
+      "category": "DRINK",
+      "simplified_description": "Hennessy VSOP, Green Tea Lemon Syrup  \n1.5 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOT Old Fashioned",
+      "price": 17.0,
+      "description": "Hwayo 41, Bourbon, Peat  \n2.5 oz",
+      "category": "DRINK",
+      "simplified_description": "Hwayo 41, Bourbon, Peat  \n2.5 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Rim",
+      "price": 17.0,
+      "description": "Reposado Tequila, Wonmae, Lime, Kimchi Salt  \n2.5 oz",
+      "category": "DRINK",
+      "simplified_description": "Reposado Tequila, Wonmae, Lime, Kimchi Salt  \n2.5 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "T.O.P.",
+      "price": 16.0,
+      "description": "Espresso, vodka, disarono, coconut  \n2 oz",
+      "category": "DRINK",
+      "simplified_description": "Espresso, vodka, disarono, coconut  \n2 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Adorn Boutique",
+      "price": 15.0,
+      "description": "Malibu, passion fruit, lime, mint, chili  \n2.5 oz",
+      "category": "DRINK",
+      "simplified_description": "Malibu, passion fruit, lime, mint, chili  \n2.5 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sotree",
+      "price": 16.0,
+      "description": "Matcha, pistachio, milk, chocolate bitter  \n2 oz",
+      "category": "DRINK",
+      "simplified_description": "Matcha, pistachio, milk, chocolate bitter  \n2 oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "’Tis the Season",
+      "price": 18.0,
+      "description": "Cream, Nutmeg, Cinnamon, Vanilla, Brandy, Malibu, Egg Yolk and Spruce Tip Infused Vodka.  \n2 oz",
+      "category": "DRINK",
+      "simplified_description": "Cream, Nutmeg, Cinnamon, Vanilla, Brandy, Malibu, Egg Yolk and Spruce Tip Infuse",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 Dr. Deinhard",
+      "price": 14.0,
+      "description": "Sauvignon Blanc – Pfalz, Germany",
+      "category": "DRINK",
+      "simplified_description": "Sauvignon Blanc – Pfalz, Germany",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Saint Verny",
+      "price": 12.0,
+      "description": "Chardonnay – Puy de Dôme, France",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay – Puy de Dôme, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Denis Meunier Vouvray Expression De Silex",
+      "price": 12.0,
+      "description": "Chenin Blanc – Côtes d’Auvergne, France",
+      "category": "DRINK",
+      "simplified_description": "Chenin Blanc – Côtes d’Auvergne, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 Jakoby Mathy",
+      "price": 15.0,
+      "description": "Riesling – Rosenberg, Germany",
+      "category": "DRINK",
+      "simplified_description": "Riesling – Rosenberg, Germany",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 Domaine Gerard Trembly Petit Chablis",
+      "price": 15.0,
+      "description": "Chardonnay – Burgundy, France",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay – Burgundy, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Domaine Bernard Defaix Chablis",
+      "price": null,
+      "description": "Chardonnay – Burgundy, France",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay – Burgundy, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Boris Champy Hautes Côtes De Beaune Blanc",
+      "price": null,
+      "description": "Chardonnay – Burgundy, France",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay – Burgundy, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domaine Chermette Crémant De Bourgogne",
+      "price": 15.0,
+      "description": "Chardonnay – Burgundy, France",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay – Burgundy, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "De Chanceny Crémant De Loire",
+      "price": 14.0,
+      "description": "Chenin Blanc, Chardonnay, Cabernet Franc – Loire Valley, France",
+      "category": "DRINK",
+      "simplified_description": "Chenin Blanc, Chardonnay, Cabernet Franc – Loire Valley, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sumarroca Brut Reserva Cava",
+      "price": 13.0,
+      "description": "Parellada, Xarel-lo, Macabeo, Chardonnay – Penedès, Spain",
+      "category": "DRINK",
+      "simplified_description": "Parellada, Xarel-lo, Macabeo, Chardonnay – Penedès, Spain",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruitière Ruitière Vinicole D’Arbois \nCrémant Du Jura Rosé",
+      "price": 15.0,
+      "description": "Chardonnay, Pinot Noir, Poulsard – Jura, France",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay, Pinot Noir, Poulsard – Jura, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Champagne Camille Savés",
+      "price": null,
+      "description": "Pinot Noir, Chardonnay – Champagne, France",
+      "category": "DRINK",
+      "simplified_description": "Pinot Noir, Chardonnay – Champagne, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Henri Giraud “Esprit Nature” Brut",
+      "price": null,
+      "description": "Pinot Noir, Chardonnay – Champagne, France",
+      "category": "DRINK",
+      "simplified_description": "Pinot Noir, Chardonnay – Champagne, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Domaine Vallot Côtes-Du-Rhône",
+      "price": 13.0,
+      "description": "Grenache, Syrah, Mourvèdre – Rhône Valley, France",
+      "category": "DRINK",
+      "simplified_description": "Grenache, Syrah, Mourvèdre – Rhône Valley, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Chateâu Thivin Beaujolais-Villages",
+      "price": 15.0,
+      "description": "Gamay – Burgundy, France",
+      "category": "DRINK",
+      "simplified_description": "Gamay – Burgundy, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Darting",
+      "price": 13.0,
+      "description": "Pinot Noir – Pfalz, Germany",
+      "category": "DRINK",
+      "simplified_description": "Pinot Noir – Pfalz, Germany",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Jeanne Gaillard",
+      "price": 14.0,
+      "description": "Syrah – Rhône Valley, France",
+      "category": "DRINK",
+      "simplified_description": "Syrah – Rhône Valley, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 Il Fait Soif",
+      "price": null,
+      "description": "Grenache, Syrah, Cinsaut – Rhône Valley, France",
+      "category": "DRINK",
+      "simplified_description": "Grenache, Syrah, Cinsaut – Rhône Valley, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Pierre Gaillard Sait Joseph",
+      "price": null,
+      "description": "Syrah – Rhône Valley, France",
+      "category": "DRINK",
+      "simplified_description": "Syrah – Rhône Valley, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 Gallina De Piel Pinkgall",
+      "price": 12.0,
+      "description": "Grenache – Navarra, Spain",
+      "category": "DRINK",
+      "simplified_description": "Grenache – Navarra, Spain",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Leitz “Eins-Zwei-Dry” Rosé",
+      "price": 12.0,
+      "description": "Pinot Noir – Rheingau, Germany",
+      "category": "DRINK",
+      "simplified_description": "Pinot Noir – Rheingau, Germany",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOT Pilsner",
+      "price": 10.0,
+      "description": "Born Brewing Company",
+      "category": "DRINK",
+      "simplified_description": "Born Brewing Company",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rotating Local Brewery Beers",
+      "price": 11.0,
+      "description": "Please ask your server for details",
+      "category": "DRINK",
+      "simplified_description": "Please ask your server for details",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hwayo 25",
+      "price": 10.0,
+      "description": "화요",
+      "category": "DRINK",
+      "simplified_description": "화요",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seol Joomg Mae",
+      "price": 8.0,
+      "description": "원매",
+      "category": "DRINK",
+      "simplified_description": "원매",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bekseju",
+      "price": 6.0,
+      "description": "백세주",
+      "category": "DRINK",
+      "simplified_description": "백세주",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Solsongju",
+      "price": 6.0,
+      "description": "솔송주",
+      "category": "DRINK",
+      "simplified_description": "솔송주",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hwayo 41",
+      "price": 12.0,
+      "description": "화요",
+      "category": "DRINK",
+      "simplified_description": "화요",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hwayo X Premium",
+      "price": 15.0,
+      "description": "화요",
+      "category": "DRINK",
+      "simplified_description": "화요",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hwayo Flight",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Misoju",
+      "price": 15.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeju Island",
+      "price": 15.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bibi Bittersweet Aperitivo",
+      "price": 11.0,
+      "description": "237 mL",
+      "category": "DRINK",
+      "simplified_description": "237 mL",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Leitz Sparkling Wine",
+      "price": 13.0,
+      "description": "250 mL",
+      "category": "DRINK",
+      "simplified_description": "250 mL",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soda Pop",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perrier Water",
+      "price": 5.0,
+      "description": "330 mL",
+      "category": "DRINK",
+      "simplified_description": "330 mL",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee / Tea",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs Benedict",
+      "price": 24.0,
+      "description": "에그 베네딕트\nChoice of smoked duck, cured salmon, beef galbi ragu or assorted mushrooms and spinach, brown butter hollandaise, poached eggs.\nServed with house salad and potato hash",
+      "category": "MAIN",
+      "simplified_description": "에그 베네딕트\nChoice of smoked duck, cured salmon, beef galbi ragu or assorted mushroo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOT French Toast",
+      "price": 18.0,
+      "description": "솥 프렌치 토스트\nRoasted rice milk jam, roasted rice, custard, berries, Korean multigrain powder",
+      "category": "MAIN",
+      "simplified_description": "솥 프렌치 토스트\nRoasted rice milk jam, roasted rice, custard, berries, Korean multigra",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Galbi burger",
+      "price": 23.0,
+      "description": "한국갈비 버거\nSesame mayo with house salad and potato hash\nAdd a fried egg – 2",
+      "category": "MAIN",
+      "simplified_description": "한국갈비 버거\nSesame mayo with house salad and potato hash\nAdd a fried egg – 2",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mandu Shakshuka",
+      "price": 23.0,
+      "description": "만두 샤크슈카\nHarissa gochujang tomato stew, poached egg, sourdough",
+      "category": "MAIN",
+      "simplified_description": "만두 샤크슈카\nHarissa gochujang tomato stew, poached egg, sourdough",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOT Platter",
+      "price": 24.0,
+      "description": "솥 플래터\nTwo Fried eggs, Spolumbo’s english banger, baked beans, potato hash and sourdough",
+      "category": "MAIN",
+      "simplified_description": "솥 플래터\nTwo Fried eggs, Spolumbo’s english banger, baked beans, potato hash and so",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hash Bowl",
+      "price": 23.0,
+      "description": "해시볼\nGalbi Ragu, cheese curds, brown butter hollandaise",
+      "category": "MAIN",
+      "simplified_description": "해시볼\nGalbi Ragu, cheese curds, brown butter hollandaise",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Don",
+      "price": 23.0,
+      "description": "연어동\nCured salmon, avocado, pickled onion and rice",
+      "category": "MAIN",
+      "simplified_description": "연어동\nCured salmon, avocado, pickled onion and rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hoddeock Croffle",
+      "price": 18.0,
+      "description": "호떡 크로플\nPumpkin seed, sesame seeds and sunflower seeds with brown sugar syrup and whipped cream",
+      "category": "MAIN",
+      "simplified_description": "호떡 크로플\nPumpkin seed, sesame seeds and sunflower seeds with brown sugar syrup and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Duck Caesar Salad",
+      "price": 18.0,
+      "description": "훈제 오리 시저 샐러드\nSmoked duck, sourdough crouton, grana padano",
+      "category": "MAIN",
+      "simplified_description": "훈제 오리 시저 샐러드\nSmoked duck, sourdough crouton, grana padano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bibimbap Salad",
+      "price": 18.0,
+      "description": "비빔밥 샐러드\nAssorted vegetables, soy pumpkin seed granola, apple soy dressing\nAdd: Beef galbi patty, seared salmon, avocado, smoked duck breast – 9 Each",
+      "category": "MAIN",
+      "simplified_description": "비빔밥 샐러드\nAssorted vegetables, soy pumpkin seed granola, apple soy dressing\nAdd: B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yogurt Bowl",
+      "price": 17.0,
+      "description": "요거트 볼\nSweet soy pumpkin, berries, banana, hemp seeds",
+      "category": "MAIN",
+      "simplified_description": "요거트 볼\nSweet soy pumpkin, berries, banana, hemp seeds",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spolumbo’s English Bangers (1)",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spolumbo’s Breakfast Sausage (3)",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried or Poached Eggs (2)",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Duck",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cured BC Salmon",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Avocado",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

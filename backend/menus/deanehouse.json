@@ -1,0 +1,242 @@
+{
+  "restaurant": "deanehouse",
+  "parsed_at": "2026-02-06T01:55:47.259618",
+  "item_count": 21,
+  "items": [
+    {
+      "name": "Pancake Breakfast",
+      "price": 26.0,
+      "description": "Finnish pancakes, two eggs any style, bacon, pork sausage, potato rösti",
+      "category": "FOOD",
+      "simplified_description": "Pancakes served with eggs, bacon, sausage, and potato rösti.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fogo Island Crab Omelette",
+      "price": 28.0,
+      "description": "BC side stripe shrimp, chive, frisée",
+      "category": "FOOD",
+      "simplified_description": "Omelette with shrimp, chives, and frisée greens.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Flat Iron Steak and Eggs",
+      "price": 30.0,
+      "description": "two eggs any style, grilled sourdough, potato rösti, béarnaise",
+      "category": "FOOD",
+      "simplified_description": "Steak with eggs, grilled sourdough, potato rösti, and béarnaise sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs Benedict",
+      "price": 36.0,
+      "description": "two soft poached eggs, English muffin, brown butter hollandaise, potato rösti, greens",
+      "category": "FOOD",
+      "simplified_description": "Poached eggs on English muffin with hollandaise, potato rösti, and greens.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Pork Sausage",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "House-made pork sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broek Farms Bacon",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Bacon from Broek Farms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Rösti",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy shredded potato cake.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Red Fife Sourdough Toast",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Toasted Red Fife sourdough bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "One Egg Any Style",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "One egg cooked any style.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Shucked Oysters",
+      "price": 4.0,
+      "description": "shallot mignonette, fermented hot sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Fresh oysters with shallot mignonette and hot sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Brassica Caesar Salad",
+      "price": 19.0,
+      "description": "Poplar Bluff kale, Brussel sprouts, Broek Acres lardons, Sylvan Star gouda, anchovy, sourdough croutons",
+      "category": "FOOD",
+      "simplified_description": "Caesar salad with kale, sprouts, bacon, cheese, anchovy, and croutons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Smoked Trout",
+      "price": 21.0,
+      "description": "Poplar Bluff hasselback potatoes, crème fraîche, trout roe, dill",
+      "category": "FOOD",
+      "simplified_description": "Smoked trout with hasselback potatoes, crème fraîche, roe, and dill.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Red Lentil Hummus",
+      "price": 17.0,
+      "description": "sprouted lentil crackers, seasonal crudités",
+      "category": "FOOD",
+      "simplified_description": "Red lentil hummus served with lentil crackers and fresh vegetables.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Ginger Beets",
+      "price": 17.0,
+      "description": "maple chili glaze, toasted sesame",
+      "category": "FOOD",
+      "simplified_description": "Beets glazed with maple chili and topped with toasted sesame seeds.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sudo Farms Acorn Squash Perogies",
+      "price": 22.0,
+      "description": "Farming Worx duck confit with gravy, haskap berry compote",
+      "category": "FOOD",
+      "simplified_description": "Acorn squash perogies with duck confit, gravy, and berry compote.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Dry Aged Beef Burger",
+      "price": 28.0,
+      "description": "Trafford Farms chestnut mushrooms, cheese curd ragoût, butterleaf, salad or fries",
+      "category": "FOOD",
+      "simplified_description": "Beef burger with mushrooms, cheese curd sauce, greens, and choice of salad or fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Cake",
+      "price": 15.0,
+      "description": "chocolate cremeux, cocoa spongecake",
+      "category": "DESSERT",
+      "simplified_description": "Rich chocolate cake with creamy chocolate filling.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rhubarb Rice Pudding",
+      "price": 15.0,
+      "description": "rhubarb compote, soft whipped cream",
+      "category": "DESSERT",
+      "simplified_description": "Creamy rice pudding topped with rhubarb compote and whipped cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Bombe",
+      "price": 14.0,
+      "description": "strawberry mousse, elderflower cordial",
+      "category": "DESSERT",
+      "simplified_description": "Light strawberry mousse dessert with elderflower syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Sundae",
+      "price": 15.0,
+      "description": "blueberry compote, buckwheat crumble",
+      "category": "DESSERT",
+      "simplified_description": "Blueberry compote served with crunchy buckwheat crumble.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Housemade Labneh",
+      "price": 18.0,
+      "description": "fermented pistachio & sesame chili crisp, kettle cooked chips",
+      "category": "DESSERT",
+      "simplified_description": "Creamy labneh with spicy pistachio and sesame topping, served with chips.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

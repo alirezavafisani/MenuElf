@@ -1,0 +1,430 @@
+{
+  "restaurant": "lavienaitalian",
+  "parsed_at": "2026-02-06T03:03:25.254420",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "Dubonnet, Campari, Cinzano, Noilly Prat, Taylor's 10 Year Old Tawny Port, or Grappa.",
+      "price": 8.3,
+      "description": "Dubonnet, Campari, Cinzano, Noilly Prat, Taylor's 10 Year Old Tawny Port, or Grappa.",
+      "category": "DRINK",
+      "simplified_description": "A selection of classic fortified wines and spirits.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vodka, Gin, White Rum, Dark Rum, Spiced Rum, Rye, or Scotch",
+      "price": 6.95,
+      "description": "Vodka, Gin, White Rum, Dark Rum, Spiced Rum, Rye, or Scotch",
+      "category": "DRINK",
+      "simplified_description": "Various popular distilled spirits including vodka, gin, rum, rye, and scotch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amaretto, Grand Marnier, Tia Maria, Brandy, Kahlua, Bailey's Irish Cream, Sambuca, Drambuie, or VS Remy Martin Cognac ($8.50).",
+      "price": 8.25,
+      "description": "Amaretto, Grand Marnier, Tia Maria, Brandy, Kahlua, Bailey's Irish Cream, Sambuca, Drambuie, or VS Remy Martin Cognac ($8.50).",
+      "category": "DRINK",
+      "simplified_description": "A variety of flavored liqueurs and brandies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Screwdriver, Caesar, Malibu Rum and Pineapple, or Bloody Mary, Paralyzer.",
+      "price": 9.25,
+      "description": "Screwdriver, Caesar, Malibu Rum and Pineapple, or Bloody Mary, Paralyzer.",
+      "category": "DRINK",
+      "simplified_description": "Classic mixed cocktails including vodka and rum-based drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nastro Azzurro (Italian Lager) Moretti, Heineken, Stella Artois.",
+      "price": 7.95,
+      "description": "Nastro Azzurro (Italian Lager) Moretti, Heineken, Stella Artois.",
+      "category": "DRINK",
+      "simplified_description": "Selection of popular lagers and beers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional, Grasshopper, Rickard's Red, Kokanee, Alexander Keith's, Coors Light, Budweiser, O'Doule's (0.5%) ($4.50).",
+      "price": 6.25,
+      "description": "Traditional, Grasshopper, Rickard's Red, Kokanee, Alexander Keith's, Coors Light, Budweiser, O'Doule's (0.5%) ($4.50).",
+      "category": "DRINK",
+      "simplified_description": "Various traditional and light beers including non-alcoholic option.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sawmill Creek Merlot, a medium-bodied dry sensation from British Columbia.",
+      "price": null,
+      "description": "Sawmill Creek Merlot, a medium-bodied dry sensation from British Columbia.",
+      "category": "DRINK",
+      "simplified_description": "Medium-bodied dry Merlot wine from British Columbia.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masi Valpolicella (Italy)",
+      "price": null,
+      "description": "Traditional and versatile with a taste of ripe cherries.",
+      "category": "DRINK",
+      "simplified_description": "Traditional Italian red wine with ripe cherry flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Painter Bridge Red Zinfandel (USA)",
+      "price": null,
+      "description": "Spicy California blend of dark berries.",
+      "category": "DRINK",
+      "simplified_description": "Spicy red wine blend with dark berry flavors from California.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Luigi Bosca Malbec (Argentina)",
+      "price": null,
+      "description": "Rich with ripe dark fruit and spice.",
+      "category": "DRINK",
+      "simplified_description": "Rich Malbec wine with dark fruit and spice notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PKNT - Cabernet Sauvignon (Chile)",
+      "price": null,
+      "description": "Smooth and buttery with a finish of chocolate and chile peppers.",
+      "category": "DRINK",
+      "simplified_description": "Smooth Cabernet Sauvignon with chocolate and chili pepper finish.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Donini Italian Chardonnay.",
+      "price": null,
+      "description": "Donini Italian Chardonnay.",
+      "category": "DRINK",
+      "simplified_description": "Italian Chardonnay white wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Citra (Pino Grigio, Italy)",
+      "price": null,
+      "description": "Clear Crisp Dry Tuscan Wine with hints of lemon, lime, and golden apple.",
+      "category": "DRINK",
+      "simplified_description": "Crisp dry Pinot Grigio with lemon, lime, and apple notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fetzer (Gewurztraminer, USA)",
+      "price": null,
+      "description": "Honeyed apricot and peach sensation that goes great with spicy food.",
+      "category": "DRINK",
+      "simplified_description": "Sweet Gewurztraminer with apricot and peach flavors.",
+      "dietary_info": [],
+      "other_info": "Pairs well with spicy food"
+    },
+    {
+      "name": "Stoneleigh (Sauvignon Blanc, New Zeland)",
+      "price": null,
+      "description": "Vibrant, tangy and tropical.",
+      "category": "DRINK",
+      "simplified_description": "Vibrant and tangy Sauvignon Blanc with tropical notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beringer (White Zinfandel, USA)",
+      "price": null,
+      "description": "Delightful, pink, sweet, and fruity.",
+      "category": "DRINK",
+      "simplified_description": "Sweet and fruity pink wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prosecco (Organic, Italy)",
+      "price": 52.95,
+      "description": "Prosecco (Organic, Italy)",
+      "category": "DRINK",
+      "simplified_description": "Organic sparkling Italian wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Raspberry | Strawberry | Black Currant",
+      "price": 6.95,
+      "description": "Raspberry | Strawberry | Black Currant",
+      "category": "DRINK",
+      "simplified_description": "Choice of raspberry, strawberry, or black currant drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coke",
+      "price": 3.5,
+      "description": "Coke",
+      "category": "DRINK",
+      "simplified_description": "Classic cola soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Diet Coke",
+      "price": 3.5,
+      "description": "Diet Coke",
+      "category": "DRINK",
+      "simplified_description": "Sugar-free cola soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite",
+      "price": 3.5,
+      "description": "Sprite",
+      "category": "DRINK",
+      "simplified_description": "Lemon-lime flavored soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Ale",
+      "price": 3.5,
+      "description": "Ginger Ale",
+      "category": "DRINK",
+      "simplified_description": "Carbonated ginger-flavored soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Tea",
+      "price": 3.5,
+      "description": "Iced Tea",
+      "category": "DRINK",
+      "simplified_description": "Chilled brewed tea beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 4.0,
+      "description": "Coffee",
+      "category": "DRINK",
+      "simplified_description": "Hot brewed coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": 4.0,
+      "description": "Tea",
+      "category": "DRINK",
+      "simplified_description": "Hot brewed tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peppermint | Green Tea | Chamomile | Earl Grey",
+      "price": 3.95,
+      "description": "Peppermint | Green Tea | Chamomile | Earl Grey",
+      "category": "DRINK",
+      "simplified_description": "Choice of four herbal and classic teas.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cranberry | Apple | Orange | Pineapple Juice",
+      "price": 4.5,
+      "description": "Cranberry | Apple | Orange | Pineapple Juice",
+      "category": "DRINK",
+      "simplified_description": "Choice of four fresh fruit juices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 5.95,
+      "description": "Hot Chocolate",
+      "category": "DRINK",
+      "simplified_description": "Warm chocolate milk drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Milk",
+      "price": 4.25,
+      "description": "Milk",
+      "category": "DRINK",
+      "simplified_description": "Fresh milk beverage.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": 4.95,
+      "description": "Cappuccino",
+      "category": "DRINK",
+      "simplified_description": "Espresso with steamed milk foam.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": 5.95,
+      "description": "Latte",
+      "category": "DRINK",
+      "simplified_description": "Latte",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 3.95,
+      "description": "Espresso",
+      "category": "DRINK",
+      "simplified_description": "Espresso",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pelligrino",
+      "price": null,
+      "description": "Pelligrino",
+      "category": "DRINK",
+      "simplified_description": "Pelligrino",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amaretto, coffee with whipped cream.",
+      "price": 8.5,
+      "description": "Amaretto, coffee with whipped cream.",
+      "category": "DRINK",
+      "simplified_description": "Amaretto, coffee with whipped cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grand Marnier, Bailey's, Kahlua and coffee.",
+      "price": 8.5,
+      "description": "Grand Marnier, Bailey's, Kahlua and coffee.",
+      "category": "DRINK",
+      "simplified_description": "Grand Marnier, Bailey's, Kahlua and coffee.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brandy, Kahlua, coffee, whipping cream.",
+      "price": 8.5,
+      "description": "Brandy, Kahlua, coffee, whipping cream.",
+      "category": "DRINK",
+      "simplified_description": "Brandy, Kahlua, coffee, whipping cream.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

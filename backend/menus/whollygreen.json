@@ -1,0 +1,160 @@
+{
+  "restaurant": "whollygreen",
+  "parsed_at": "2026-02-06T04:47:18.370041",
+  "item_count": 17,
+  "items": [
+    {
+      "name": "SANDWICH PLATTER",
+      "price": null,
+      "description": "_(8 person minimum, 2 half sandwiches per person)_  An array of freshly crafted sandwiches from our menu on ciabatta, focaccia and multigrain bread.   Gluten-free option available for $2 surcharge.",
+      "category": "FOOD",
+      "simplified_description": "_(8 person minimum, 2 half sandwiches per person)_  An array of freshly crafted ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WRAP BOX LUNCHES",
+      "price": null,
+      "description": "_(Per person, minimum 6 people)_  Each lunch box comes filled with a full wrap, a bag of chips, a chocolate chunk cookie and fresh seasonal fruits.",
+      "category": "FOOD",
+      "simplified_description": "_(Per person, minimum 6 people)_  Each lunch box comes filled with a full wrap, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SANDWICH BOX LUNCHES",
+      "price": null,
+      "description": "_(Per person, minimum 6 people)_  Our sandwiches served with a bag of chips, a chocolate chunk cookie and fresh seasonal fruits.",
+      "category": "FOOD",
+      "simplified_description": "_(Per person, minimum 6 people)_  Our sandwiches served with a bag of chips, a c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRESH FRUIT PLATTER",
+      "price": null,
+      "description": "_(Serves 12-15)_  Assorted fresh seasonal fruits with yogurt dip on the side.",
+      "category": "FOOD",
+      "simplified_description": "_(Serves 12-15)_  Assorted fresh seasonal fruits with yogurt dip on the side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARDEN VEGETABLE PLATTER",
+      "price": null,
+      "description": "_(Serves 12-15)_  Assortment of delicious and nutritious veggies with ranch dip on the side.",
+      "category": "FOOD",
+      "simplified_description": "_(Serves 12-15)_  Assortment of delicious and nutritious veggies with ranch dip ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DESSERT PLATTER",
+      "price": null,
+      "description": "_(Serves 12-15)_  The perfect medley of cookies, brownies, gourmet dessert bars.",
+      "category": "FOOD",
+      "simplified_description": "_(Serves 12-15)_  The perfect medley of cookies, brownies, gourmet dessert bars.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COOKIE PLATTER",
+      "price": null,
+      "description": "One jumbo chocolate chip cookie per person",
+      "category": "DESSERT",
+      "simplified_description": "One jumbo chocolate chip cookie per person",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GROUP SIZE SALAD BOWL",
+      "price": null,
+      "description": "(Serve 8-10 as a side)  Choose from fiesta chicken, chicken pesto parm, garden cobb, apple chicken walnut, Italian chopped.",
+      "category": "FOOD",
+      "simplified_description": "(Serve 8-10 as a side)  Choose from fiesta chicken, chicken pesto parm, garden c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUPS BY THE BOX",
+      "price": null,
+      "description": "Our soups pair great with our wraps or sandwiches for ultimate comfort. Choose from beef chilli, wonton or our soup of the day. Order a small (8oz), medium (12oz) or large cup (16oz) per person.",
+      "category": "FOOD",
+      "simplified_description": "Our soups pair great with our wraps or sandwiches for ultimate comfort. Choose f",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PEPSI PRODUCTS CANNED POP",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANNED FRUIT JUICE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOTTLED WATER",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOTTLED FRUIT JUICE 450ML",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PURE LEAF ICED TEA 547ML",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEATRICE WHITE / CHOCOLATE MILK",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAN PELLEGRINO SPARKLING FRUIT JUICE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KOMBUCHA",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

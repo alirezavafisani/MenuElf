@@ -1,0 +1,709 @@
+{
+  "restaurant": "royalheritageyyc",
+  "parsed_at": "2026-02-06T03:57:26.804984",
+  "item_count": 78,
+  "items": [
+    {
+      "name": "Dal Tadka / Fry",
+      "price": 14.0,
+      "description": "Vegetarian Dishes - Yellow lentils tempered with garlic, cumin and spices",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes - Yellow lentils tempered with garlic, cumin and spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 14.0,
+      "description": "Vegetarian Dishes - Paneer and vegetable dumplings in rich creamy tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes - Paneer and vegetable dumplings in rich creamy tomato sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 16.0,
+      "description": "Vegetarian Dishes - Chickpeas cooked in tangy tomato and onion masala",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes - Chickpeas cooked in tangy tomato and onion masala",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sambhar",
+      "price": 12.0,
+      "description": "Vegetarian Dishes - South Indian mix veg gravy",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian Dishes - South Indian mix veg gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter chicken",
+      "price": 18.0,
+      "description": "Chicken Dishes - Classic butter chicken simmered to perfection in a creamy tomato-based gravy.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Classic butter chicken simmered to perfection in a creamy tomat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 17.0,
+      "description": "Chicken Dishes - Grilled chicken in a rich and spicy tikka sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Grilled chicken in a rich and spicy tikka sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak (Spinach) Chicken",
+      "price": 17.0,
+      "description": "Chicken Dishes - Chicken simmered in spice spinach gravy.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Chicken simmered in spice spinach gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Chicken Curry",
+      "price": 17.0,
+      "description": "Chicken Dishes - Chicken in a mildly spiced coconut-based sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Chicken in a mildly spiced coconut-based sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango chicken curry",
+      "price": 17.0,
+      "description": "Chicken Dishes - A sweet and savory chicken curry with mango flavor.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - A sweet and savory chicken curry with mango flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Chicken Curry",
+      "price": 19.0,
+      "description": "Chicken Dishes - Homestyle chicken curry with robust gravy.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Homestyle chicken curry with robust gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 17.0,
+      "description": "Chicken Dishes - Fiery goan-style chicken curry with vinegar and chilli.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Fiery goan-style chicken curry with vinegar and chilli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 17.0,
+      "description": "Chicken Dishes - Creamy chicken curry made with yogurt, nuts and mild spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Creamy chicken curry made with yogurt, nuts and mild spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 17.0,
+      "description": "Chicken Dishes - Spicy chicken cooked with onions, bell peppers, and bold spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - Spicy chicken cooked with onions, bell peppers, and bold spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Malabar",
+      "price": 17.0,
+      "description": "Chicken Dishes - South Indian inspired dish cooked in fresh coconut-based sauce, curry leaves and strong Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes - South Indian inspired dish cooked in fresh coconut-based sauce,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chettinad",
+      "price": null,
+      "description": "Chicken Dishes",
+      "category": "FOOD",
+      "simplified_description": "Chicken Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb/ Beef / Goat Coconut Curry",
+      "price": 18.0,
+      "description": "Meat Dishes - Tender meat cooked in a coconut-based gravy.",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - Tender meat cooked in a coconut-based gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb/ Beef / Goat Vindaloo",
+      "price": 18.0,
+      "description": "Meat Dishes - Spicy and tangy curry with bold goan flavors.",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - Spicy and tangy curry with bold goan flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb/ Beef / Goat Rogan Josh",
+      "price": 18.0,
+      "description": "Meat Dishes - Slow cooked meat in kashmiri style red curry.",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - Slow cooked meat in kashmiri style red curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb/ Goat Bhoona",
+      "price": 18.0,
+      "description": "Meat Dishes - Traditional Indian meat curry with a thick, spiced gravy",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - Traditional Indian meat curry with a thick, spiced gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Sukha",
+      "price": 18.0,
+      "description": "Meat Dishes - North Indian braised meat dish made with browned onions, fragrant spices and yougurt",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - North Indian braised meat dish made with browned onions, fragrant ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Ularth",
+      "price": 18.0,
+      "description": "Meat Dishes - Mutton fry tossed with coconut and south Indian spice",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - Mutton fry tossed with coconut and south Indian spice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kerala Beef Roast",
+      "price": 18.0,
+      "description": "Meat Dishes - Slow cooked mutton with fresh ground spice from kerala",
+      "category": "FOOD",
+      "simplified_description": "Meat Dishes - Slow cooked mutton with fresh ground spice from kerala",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Fish Curry",
+      "price": 19.0,
+      "description": "Sea-Food Dishes - Delicate fish in a smooth, coconut infused curry",
+      "category": "FOOD",
+      "simplified_description": "Sea-Food Dishes - Delicate fish in a smooth, coconut infused curry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Prawn Masala",
+      "price": 19.0,
+      "description": "Sea-Food Dishes - Buttery Prawns simmered in a rich and spicy onions- tomato gravy",
+      "category": "FOOD",
+      "simplified_description": "Sea-Food Dishes - Buttery Prawns simmered in a rich and spicy onions- tomato gra",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Prawn Curry",
+      "price": 19.0,
+      "description": "Sea-Food Dishes - Prawns in a fragrant and mildly spiced and coconut curry",
+      "category": "FOOD",
+      "simplified_description": "Sea-Food Dishes - Prawns in a fragrant and mildly spiced and coconut curry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Vindaloo",
+      "price": 19.0,
+      "description": "Sea-Food Dishes - Spicy Goan-style prawn curry with tangy heat",
+      "category": "FOOD",
+      "simplified_description": "Sea-Food Dishes - Spicy Goan-style prawn curry with tangy heat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shrimp",
+      "price": 19.0,
+      "description": "Sea-Food Dishes - Shrimp in a sweet and spicy mango-based curry",
+      "category": "FOOD",
+      "simplified_description": "Sea-Food Dishes - Shrimp in a sweet and spicy mango-based curry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malabar Fish Curry",
+      "price": 19.0,
+      "description": "Sea-Food Dishes - Fish curry cooked in Malabar style",
+      "category": "FOOD",
+      "simplified_description": "Sea-Food Dishes - Fish curry cooked in Malabar style",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 2.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.5,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Naan",
+      "price": 4.5,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peshawari Naan",
+      "price": 4.5,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 3.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kerala Parotha X 2",
+      "price": 4.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Laccha Paratha",
+      "price": 4.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Kulcha",
+      "price": 4.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Naan",
+      "price": 6.0,
+      "description": "Bread Basket",
+      "category": "BREAD",
+      "simplified_description": "Bread Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Basmati Rice",
+      "price": 5.0,
+      "description": "Rice",
+      "category": "RICE",
+      "simplified_description": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Peas Pulao",
+      "price": 6.0,
+      "description": "Rice",
+      "category": "RICE",
+      "simplified_description": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice/ Jeera (cumin) Rice/ Saffron Rice",
+      "price": 6.0,
+      "description": "Rice",
+      "category": "RICE",
+      "simplified_description": "Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 16.0,
+      "description": "Biryani - Fragrant basmati rice cooked with spiced vegetables and herbs. Served with Raita",
+      "category": "FOOD",
+      "simplified_description": "Biryani - Fragrant basmati rice cooked with spiced vegetables and herbs. Served ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani [Boneless]",
+      "price": 17.0,
+      "description": "Biryani - Layered rice and chicken cooked with aromatic spices. Served with Raita",
+      "category": "FOOD",
+      "simplified_description": "Biryani - Layered rice and chicken cooked with aromatic spices. Served with Rait",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Biryani",
+      "price": 17.0,
+      "description": "Biryani - Spiced beef cooked with basmati rice and fragrant herbs. Served with Raita",
+      "category": "FOOD",
+      "simplified_description": "Biryani - Spiced beef cooked with basmati rice and fragrant herbs. Served with R",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Biryani",
+      "price": 18.0,
+      "description": "Biryani - Spiced lamb cooked with basmati rice and fragrant herbs. Served with Raita",
+      "category": "FOOD",
+      "simplified_description": "Biryani - Spiced lamb cooked with basmati rice and fragrant herbs. Served with R",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Biryani",
+      "price": 19.0,
+      "description": "Biryani - Rich and aromatic rice dish and tender mutton pieces. Served with Raita",
+      "category": "FOOD",
+      "simplified_description": "Biryani - Rich and aromatic rice dish and tender mutton pieces. Served with Rait",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Biryani",
+      "price": 19.0,
+      "description": "Biryani - Juicy prawns layered with spiced rice and fragrant herbs. Served with Raita",
+      "category": "FOOD",
+      "simplified_description": "Biryani - Juicy prawns layered with spiced rice and fragrant herbs. Served with ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Noodle -Hakka/Schezwan",
+      "price": 14.0,
+      "description": "Indo- Chinese - Stir fried noodles tossed with vegetables and soy-based Indo Chinese seasoning",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Stir fried noodles tossed with vegetables and soy-based Indo Chi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodles – Hakka /Schezwan",
+      "price": 15.0,
+      "description": "Indo- Chinese - Stir fried noodles tossed with juicy chicken and soy-based Indo Chinese seasoning",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Stir fried noodles tossed with juicy chicken and soy-based Indo ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Fried Rice -Hakka/Schezwan",
+      "price": 14.0,
+      "description": "Indo- Chinese - Stir fried rice tossed with assorted vegetables and sauces",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Stir fried rice tossed with assorted vegetables and sauces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice -Hakka/Schezwan",
+      "price": 15.0,
+      "description": "Indo- Chinese - Stir fried rice tossed with chicken and Indo Chinese seasoning",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Stir fried rice tossed with chicken and Indo Chinese seasoning",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Chicken (Dry/Gravy)",
+      "price": 17.0,
+      "description": "Indo- Chinese - Crispy chicken pieces in spicy chili garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Crispy chicken pieces in spicy chili garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Fish (Dry/Gravy)",
+      "price": 18.0,
+      "description": "Indo- Chinese - Fish fillets stir fried with bell peppers and a spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Fish fillets stir fried with bell peppers and a spicy sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Prawn (Dry/Gravy)",
+      "price": 19.0,
+      "description": "Indo- Chinese - Prawns stir fried with green chillies and sauces",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Prawns stir fried with green chillies and sauces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Chicken (Dry/Gravy)",
+      "price": 17.0,
+      "description": "Indo- Chinese - Crispy chicken tossed in sweet and tangy Indo Chinese sauce",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Crispy chicken tossed in sweet and tangy Indo Chinese sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Manchurian (Dry/ Gravy)",
+      "price": 16.0,
+      "description": "Indo- Chinese - Vegetable balls served in tangy soy based Manchurian sauce",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Vegetable balls served in tangy soy based Manchurian sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Cauliflower",
+      "price": 17.0,
+      "description": "Indo- Chinese - Cauliflower florets coated in honey garlic glaze with slight crunch",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Cauliflower florets coated in honey garlic glaze with slight cru",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Paneer (Dry/ Gravy)",
+      "price": 16.0,
+      "description": "Indo- Chinese - Paneer served with bell peppers and a spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese - Paneer served with bell peppers and a spicy sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lollipop X 8",
+      "price": 16.0,
+      "description": "Indo- Chinese",
+      "category": "FOOD",
+      "simplified_description": "Indo- Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 7.0,
+      "description": "Soup/ Salads/Sides - Spicy tangy soup packed with ginger and Indo Chinese Seasoning",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides - Spicy tangy soup packed with ginger and Indo Chinese Season",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasam",
+      "price": 7.0,
+      "description": "Soup/ Salads/Sides - South Indian spiced, peppery, tangy soup",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides - South Indian spiced, peppery, tangy soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kachumber Salad",
+      "price": 6.0,
+      "description": "Soup/ Salads/Sides - Chopped onion, tomato and cucumber salad with lemon",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides - Chopped onion, tomato and cucumber salad with lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Papadum",
+      "price": 4.0,
+      "description": "Soup/ Salads/Sides",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mint Chutney/ Tamarind Chutney/ Mango Chutney/Tomato Chutney",
+      "price": 2.0,
+      "description": "Soup/ Salads/Sides",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Raita",
+      "price": 6.0,
+      "description": "Soup/ Salads/Sides",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Yogurt",
+      "price": 3.0,
+      "description": "Soup/ Salads/Sides",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion, green chilli, Lime",
+      "price": 2.0,
+      "description": "Soup/ Salads/Sides",
+      "category": "OTHER",
+      "simplified_description": "Soup/ Salads/Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Gulab Jamun",
+      "price": 4.0,
+      "description": "Dessert - Warm, syrup-soaked milk dumplings that melt in your mouth",
+      "category": "DESSERT",
+      "simplified_description": "Dessert - Warm, syrup-soaked milk dumplings that melt in your mouth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasmalai",
+      "price": 5.0,
+      "description": "Dessert - Soft paneer discs in sweet saffron milk",
+      "category": "DESSERT",
+      "simplified_description": "Dessert - Soft paneer discs in sweet saffron milk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Pudding/ Kheer",
+      "price": 6.0,
+      "description": "Dessert - Creamy rice pudding flavored with cardamom and nuts",
+      "category": "DESSERT",
+      "simplified_description": "Dessert - Creamy rice pudding flavored with cardamom and nuts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Payasam",
+      "price": 6.0,
+      "description": "Dessert - South Indian dessert made with jaggrey and coconut",
+      "category": "DESSERT",
+      "simplified_description": "Dessert - South Indian dessert made with jaggrey and coconut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 6.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Anar (Pomegranate ) Lassi",
+      "price": 6.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate MilkShake",
+      "price": 7.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry MilkShake",
+      "price": 7.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chaas (Buttermilk)",
+      "price": 5.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai",
+      "price": 3.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop/Soda",
+      "price": 2.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

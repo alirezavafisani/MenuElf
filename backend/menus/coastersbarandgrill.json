@@ -1,0 +1,232 @@
+{
+  "restaurant": "coastersbarandgrill",
+  "parsed_at": "2026-02-06T01:50:11.192655",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "Crunchy Chicken Burger",
+      "price": 14.0,
+      "description": "$14",
+      "category": "FOOD",
+      "simplified_description": "A crispy chicken burger served with classic toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All 20 oz Pints",
+      "price": null,
+      "description": "$1 OFF",
+      "category": "DRINK",
+      "simplified_description": "Discount on all 20 oz pints of beer or drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 2 Topping Pizza",
+      "price": 16.0,
+      "description": "$16",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with your choice of two toppings.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottles of House Wine",
+      "price": null,
+      "description": "HALF OFF",
+      "category": "DRINK",
+      "simplified_description": "House wine bottles available at half price.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Bottles",
+      "price": 5.25,
+      "description": "$5.25",
+      "category": "DRINK",
+      "simplified_description": "Domestic bottled beers priced at $5.25.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings & Shrimp",
+      "price": null,
+      "description": "40 cent wings, 60 cent shrimp. With the purchase of a beverage.",
+      "category": "FOOD",
+      "simplified_description": "Wings and shrimp available at discounted prices with a drink.",
+      "dietary_info": [],
+      "other_info": "Requires beverage purchase"
+    },
+    {
+      "name": "House Draft",
+      "price": null,
+      "description": "Pints $5 and Jugs $14",
+      "category": "DRINK",
+      "simplified_description": "House draft beer available in pints and jugs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coasters Burger",
+      "price": 12.95,
+      "description": "$12.95",
+      "category": "FOOD",
+      "simplified_description": "Classic burger with Coasters signature toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Wine 6oz",
+      "price": 5.25,
+      "description": "$5.25",
+      "category": "DRINK",
+      "simplified_description": "6oz glass of house wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional & Bubble Stash",
+      "price": null,
+      "description": "20oz Pints $1 off",
+      "category": "DRINK",
+      "simplified_description": "Discount on 20oz pints of Traditional and Bubble Stash beers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Dip",
+      "price": 14.95,
+      "description": "$14.95",
+      "category": "FOOD",
+      "simplified_description": "Beef sandwich served with au jus for dipping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Highballs",
+      "price": null,
+      "description": "2oz House Liquor $10 and 2oz Premium Liquor $13",
+      "category": "DRINK",
+      "simplified_description": "Double highball drinks with house or premium liquor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shooters",
+      "price": 5.0,
+      "description": "$5",
+      "category": "DRINK",
+      "simplified_description": "Variety of $5 shooter drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wildrose Wraspberry & Sapporo",
+      "price": null,
+      "description": "20oz Pints $1 off",
+      "category": "DRINK",
+      "simplified_description": "Discount on 20oz pints of Wildrose Raspberry and Sapporo beers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 14.95,
+      "description": "8 oz steak topped with sautéed mushrooms and onion rings on garlic toast, with your choice of side.",
+      "category": "FOOD",
+      "simplified_description": "Steak sandwich with mushrooms, onion rings, and garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Highballs (3oz)",
+      "price": 15.0,
+      "description": "$15",
+      "category": "DRINK",
+      "simplified_description": "Three 1oz highball drinks served together.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alexander Keiths",
+      "price": 6.0,
+      "description": "$6",
+      "category": "DRINK",
+      "simplified_description": "A 12oz serving of Alexander Keith's beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast",
+      "price": 8.0,
+      "description": "Two eggs, hash browns, bacon + toast! Served from 12 - 2 PM Only :)",
+      "category": "FOOD",
+      "simplified_description": "Two eggs, hash browns, bacon, and toast served at lunch.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Served from 12 - 2 PM only"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": null,
+      "description": "Half Price",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings available at half price.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Half price offer"
+    },
+    {
+      "name": "Caesar's",
+      "price": 5.0,
+      "description": "$5",
+      "category": "DRINK",
+      "simplified_description": "A $5 Caesar cocktail drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosas",
+      "price": 5.0,
+      "description": "$5",
+      "category": "DRINK",
+      "simplified_description": "A $5 mimosa cocktail drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Bottles",
+      "price": 4.5,
+      "description": "$4.50",
+      "category": "DRINK",
+      "simplified_description": "Domestic bottled beer for $4.50.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Highballs",
+      "price": 4.5,
+      "description": "1oz of House Liquor",
+      "category": "DRINK",
+      "simplified_description": "A 1oz highball made with house liquor.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

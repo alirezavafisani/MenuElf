@@ -1,0 +1,662 @@
+{
+  "restaurant": "banhmisub",
+  "parsed_at": "2025-12-25T03:26:24.733605",
+  "item_count": 69,
+  "items": [
+    {
+      "name": "BMS Classic Cold Cut SUB",
+      "price": 7.3,
+      "description": "Bánh Mì Đặc Biệt",
+      "simplified_description": "Special Vietnamese sandwich with cold cuts",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BMS Egg & Beef Skillet",
+      "price": 9.95,
+      "description": "BMS Egg & Beef Skillet",
+      "simplified_description": "Egg and beef cooked in a skillet",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BMS Egg & Pork Ball Stew",
+      "price": 9.95,
+      "description": "BMS Egg & Pork Ball Stew",
+      "simplified_description": "Egg and pork meatballs in stew",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BMS Egg, Ham & Sausage Skillet",
+      "price": 9.95,
+      "description": "BMS Egg, Ham & Sausage Skillet",
+      "simplified_description": "Egg with ham and sausage cooked in a skillet",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banh Mi Pizza - Chicken Sate",
+      "price": 10.95,
+      "description": "Banh Mi Pizza - Chicken Sate",
+      "simplified_description": "Pizza with chicken sate toppings",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banh Mi Pizza - Grilled Pork",
+      "price": 10.95,
+      "description": "Banh Mi Pizza - Grilled Pork",
+      "simplified_description": "Pizza with grilled pork toppings",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bean Curd SUB",
+      "price": 7.8,
+      "description": "Bánh Mì Đậu Hũ Ky",
+      "simplified_description": "Vietnamese sandwich with bean curd",
+      "category": "BANH MI",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Sate SUB",
+      "price": 7.3,
+      "description": "Bánh Mì Bò Sa Tế",
+      "simplified_description": "Vietnamese sandwich with beef sate",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Steak and Egg SUB",
+      "price": 8.75,
+      "description": "Beef Steak and Egg SUB",
+      "simplified_description": "Sandwich with beef steak and egg",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cha Lua SUB",
+      "price": 7.3,
+      "description": "Cha Lua SUB",
+      "simplified_description": "Vietnamese sandwich with pork sausage",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sate SUB",
+      "price": 7.3,
+      "description": "Bánh Mì Gà Sate",
+      "simplified_description": "Vietnamese sandwich with chicken sate",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken SUB",
+      "price": 7.3,
+      "description": "Grilled Chicken SUB",
+      "simplified_description": "Sandwich with grilled chicken",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork SUB",
+      "price": 7.3,
+      "description": "Grilled Pork SUB",
+      "simplified_description": "Sandwich with grilled pork",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Skewer SUB",
+      "price": 8.55,
+      "description": "Shrimp Skewer SUB",
+      "simplified_description": "Sandwich with shrimp skewer",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pork Bulgogi SUB",
+      "price": 7.55,
+      "description": "Spicy Pork Bulgogi SUB",
+      "simplified_description": "Sandwich with spicy pork bulgogi",
+      "category": "BANH MI",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu & Kimchi SUB",
+      "price": 7.0,
+      "description": "Tofu & Kimchi SUB",
+      "simplified_description": "Sandwich with tofu and kimchi",
+      "category": "BANH MI",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Beef Stew Dip",
+      "price": 10.45,
+      "description": "Beef Stew SUB",
+      "simplified_description": "Sandwich with beef stew",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Pork Patty SUB",
+      "price": 7.3,
+      "description": "Vietnamese Pork Patty SUB",
+      "simplified_description": "Sandwich with pork patty",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Xiu Mai SUB",
+      "price": 7.3,
+      "description": "Pork Meatball SUB",
+      "simplified_description": "Sandwich with pork meatballs",
+      "category": "BANH MI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baguette Sticks 3 Pak",
+      "price": 8.25,
+      "description": "Baguette Sticks 3 Pak",
+      "simplified_description": "Three pieces of baguette sticks",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Sate Roll",
+      "price": 8.3,
+      "description": "Beef Sate Roll",
+      "simplified_description": "Roll with beef sate",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sate Roll",
+      "price": 8.3,
+      "description": "Chicken Sate Roll",
+      "simplified_description": "Roll with chicken sate",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 7.55,
+      "description": "Chicken Wings",
+      "simplified_description": "Fried chicken wings",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Wonton",
+      "price": 6.55,
+      "description": "Fried Wonton",
+      "simplified_description": "Crispy fried wontons",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pate & Chicken Stick",
+      "price": 3.25,
+      "description": "Pate & Chicken Stick",
+      "simplified_description": "Stick with pate and chicken",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pate & Pork Stick",
+      "price": 2.95,
+      "description": "Pate & Pork Stick",
+      "simplified_description": "Stick with pate and pork",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pate Stick",
+      "price": 2.45,
+      "description": "Pate Stick",
+      "simplified_description": "Stick with pate",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Flat Bread",
+      "price": 4.75,
+      "description": "Sate Flat Bread",
+      "simplified_description": "Flat bread with sate",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Salad Roll",
+      "price": 8.3,
+      "description": "Shrimp Salad Roll",
+      "simplified_description": "Roll with shrimp salad",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll",
+      "price": 7.8,
+      "description": "Spring Roll",
+      "simplified_description": "Crispy spring rolls",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Spring Roll",
+      "price": 7.8,
+      "description": "Veggie Spring Roll",
+      "simplified_description": "Spring rolls with vegetables",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton Soup",
+      "price": 7.55,
+      "description": "Wonton Soup",
+      "simplified_description": "Soup with wontons",
+      "category": "APPETIZER - SNACK",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Bean Curd",
+      "price": 14.75,
+      "description": "Boon Togo - Bean Curd",
+      "simplified_description": "Rice dish with bean curd",
+      "category": "NOODLE - RICE",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Beef Sate",
+      "price": 14.75,
+      "description": "Boon Togo - Beef Sate",
+      "simplified_description": "Rice dish with beef sate",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Chicken Sate",
+      "price": 14.75,
+      "description": "Boon Togo - Chicken Sate",
+      "simplified_description": "Rice dish with chicken sate",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Grilled Chicken",
+      "price": 14.75,
+      "description": "Boon Togo - Grilled Chicken",
+      "simplified_description": "Rice dish with grilled chicken",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Grilled Pork",
+      "price": 14.75,
+      "description": "Boon Togo - Grilled Pork",
+      "simplified_description": "Rice dish with grilled pork",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Grilled Pork Patty",
+      "price": 14.75,
+      "description": "Boon Togo - Grilled Pork Patty",
+      "simplified_description": "Rice dish with grilled pork patty",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Shrimp Skewer",
+      "price": 16.45,
+      "description": "Boon Togo - Shrimp Skewer",
+      "simplified_description": "Rice dish with shrimp skewer",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Tofu and Kimchi",
+      "price": 15.0,
+      "description": "Boon Togo - Tofu and Kimchi",
+      "simplified_description": "Rice dish with tofu and kimchi",
+      "category": "NOODLE - RICE",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Beef Noodle Soup",
+      "price": 13.8,
+      "description": "PHO - Beef Noodle Soup",
+      "simplified_description": "Vietnamese noodle soup with beef",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Beef Noodle Soup with Meat Ball",
+      "price": 14.8,
+      "description": "PHO - Beef Noodle Soup with Meat Ball",
+      "simplified_description": "Noodle soup with beef and meatballs",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Beef Stew Noodle",
+      "price": 15.8,
+      "description": "PHO - Beef Stew Noodle",
+      "simplified_description": "Noodle soup with beef stew",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Chicken Noodle Soup",
+      "price": 14.8,
+      "description": "PHO - Chicken Noodle Soup",
+      "simplified_description": "Noodle soup with chicken",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Sate Beef Noodle Soup",
+      "price": 14.3,
+      "description": "PHO - Sate Beef Noodle Soup",
+      "simplified_description": "Noodle soup with spicy beef",
+      "category": "NOODLE - RICE",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Seafood Tom Yum Noodle Soup",
+      "price": 15.95,
+      "description": "PHO - Seafood Tom Yum Noodle Soup",
+      "simplified_description": "Noodle soup with seafood and tom yum flavor",
+      "category": "NOODLE - RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Veggie Noodle Soup",
+      "price": 13.8,
+      "description": "PHO - Veggie Noodle Soup",
+      "simplified_description": "Noodle soup with vegetables",
+      "category": "NOODLE - RICE",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Bean Curd",
+      "price": 14.75,
+      "description": "Boon Togo - Bean Curd",
+      "simplified_description": "Rice dish with bean curd",
+      "category": "COMBO - PROMO",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boon Togo - Tofu and Kimchi",
+      "price": 15.0,
+      "description": "Boon Togo - Tofu and Kimchi",
+      "simplified_description": "Rice dish with tofu and kimchi",
+      "category": "COMBO - PROMO",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PHO - Veggie Noodle Soup",
+      "price": 13.8,
+      "description": "PHO - Veggie Noodle Soup",
+      "simplified_description": "Noodle soup with vegetables",
+      "category": "COMBO - PROMO",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boba",
+      "price": 5.5,
+      "description": "Boba",
+      "simplified_description": "Sweet drink with tapioca pearls",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Coconut Juice",
+      "price": 4.5,
+      "description": "Fresh Coconut Juice",
+      "simplified_description": "Juice made from fresh coconuts",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "price": 4.5,
+      "description": "Fresh Lemon Juice",
+      "simplified_description": "Juice made from fresh lemons",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "price": 4.5,
+      "description": "Fresh Orange Juice",
+      "simplified_description": "Juice made from fresh oranges",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Black Coffee",
+      "price": 4.5,
+      "description": "Iced Black Coffee",
+      "simplified_description": "Chilled black coffee",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Condensed Milk Coffee",
+      "price": 5.0,
+      "description": "Iced Condensed Milk Coffee",
+      "simplified_description": "Chilled coffee with condensed milk",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Tea",
+      "price": 4.0,
+      "description": "Iced Tea",
+      "simplified_description": "Chilled tea",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": 4.5,
+      "description": "Latte",
+      "simplified_description": "Coffee with steamed milk",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milk Tea",
+      "price": 5.5,
+      "description": "Milk Tea",
+      "simplified_description": "Tea with milk",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POP Drink",
+      "price": 1.85,
+      "description": "POP Drink",
+      "simplified_description": "Carbonated soft drink",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle",
+      "price": 1.85,
+      "description": "Water Bottle",
+      "simplified_description": "Bottled water",
+      "category": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banquet Platter",
+      "price": 415.75,
+      "description": "Banquet Platter",
+      "simplified_description": "Large platter for banquets",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wing Tray",
+      "price": 55.95,
+      "description": "Chicken Wing Tray",
+      "simplified_description": "Tray of chicken wings",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Mix Tray 10",
+      "price": 183.75,
+      "description": "Classic Mix 10",
+      "simplified_description": "Tray with a mix of 10 items",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Mix Tray 5",
+      "price": 94.45,
+      "description": "Classic Mix 5",
+      "simplified_description": "Tray with a mix of 5 items",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Platter",
+      "price": 272.95,
+      "description": "Party Platter",
+      "simplified_description": "Platter for parties",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Banh Mi Box 5",
+      "price": 46.45,
+      "description": "Premium Banh Mi Box 5",
+      "simplified_description": "Box with 5 premium banh mi",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Banh Mi Box 8",
+      "price": 74.85,
+      "description": "Premium Banh Mi Box 8",
+      "simplified_description": "Box with 8 premium banh mi",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad Roll Tray",
+      "price": 52.95,
+      "description": "Salad Roll Tray",
+      "simplified_description": "Tray of salad rolls",
+      "category": "CATERING",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

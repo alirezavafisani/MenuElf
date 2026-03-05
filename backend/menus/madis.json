@@ -1,0 +1,430 @@
+{
+  "restaurant": "madis",
+  "parsed_at": "2026-02-06T03:11:19.704214",
+  "item_count": 47,
+  "items": [
+    {
+      "name": "ED BACON",
+      "price": 15.0,
+      "description": "Caramelized brown sugar, chipotle spice, bacon",
+      "category": "FOOD",
+      "simplified_description": "Caramelized brown sugar, chipotle spice, bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ahi tuna",
+      "price": 24.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "bulgogi beef",
+      "price": 23.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "spiced jackfruit",
+      "price": 22.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "seasoned tofu",
+      "price": 22.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky Toffee Pudding",
+      "price": 14.0,
+      "description": "Spiced dates pudding, creamy butterscotch sauce, Vanilla Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Spiced dates pudding, creamy butterscotch sauce, Vanilla Ice Cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Tiramisu",
+      "price": 12.0,
+      "description": "Ladyfinger biscuit, Espresso, Coffee liquor, mascopane, Cocoa",
+      "category": "DESSERT",
+      "simplified_description": "Ladyfinger biscuit, Espresso, Coffee liquor, mascopane, Cocoa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FIRESIDE NACHOS",
+      "price": 15.0,
+      "description": "Toasted marshmallows, sliced bananas, nutella drizzle, dulce de leche, cinnamon sugar tortilla chips",
+      "category": "DESSERT",
+      "simplified_description": "Toasted marshmallows, sliced bananas, nutella drizzle, dulce de leche, cinnamon ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "APPLE PIE NACHOS",
+      "price": 15.0,
+      "description": "Cinnamon sugar tortilla chips, house made apple pie filling, oat crumble, whipped cream",
+      "category": "DESSERT",
+      "simplified_description": "Cinnamon sugar tortilla chips, house made apple pie filling, oat crumble, whippe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRED’S DONUTS",
+      "price": 11.0,
+      "description": "House-made cinnamon sugared donuts, with vanilla cream sauce & field berry coulis",
+      "category": "DESSERT",
+      "simplified_description": "House-made cinnamon sugared donuts, with vanilla cream sauce & field berry couli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DRIP COFFEE",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ESPRESSO",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AMERICANO",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAPPUCCINO",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAFE LATTE / CHAI LATTE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VANILLA LATTE",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAFE MOCHA",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DIRTY CHAI LATTE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MATCHA LATTE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEETROOT LATTE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TURMERIC LATTE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOT CHOCOLATE",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "B52 COFFEE",
+      "price": 14.0,
+      "description": "Bailey’s, Kahlua, Grand Marnier",
+      "category": "DRINK",
+      "simplified_description": "Bailey’s, Kahlua, Grand Marnier",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPANISH COFFEE",
+      "price": 14.0,
+      "description": "Brandy, Kahlua",
+      "category": "DRINK",
+      "simplified_description": "Brandy, Kahlua",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MONTE CRISTO",
+      "price": 14.0,
+      "description": "Grand Marnier, Kahlua",
+      "category": "DRINK",
+      "simplified_description": "Grand Marnier, Kahlua",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "IRISH COFFEE",
+      "price": 14.0,
+      "description": "Irish Whiskey",
+      "category": "DRINK",
+      "simplified_description": "Irish Whiskey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NUTTY IRISHMAN",
+      "price": 14.0,
+      "description": "Bailey’s, Frangellico",
+      "category": "DRINK",
+      "simplified_description": "Bailey’s, Frangellico",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRO margarita’s",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CONFIT DUCK TACO",
+      "price": 5.0,
+      "description": "Confit duck, herb mayo, arugula, pickled onions on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "Confit duck, herb mayo, arugula, pickled onions on a corn tortilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHORIZO",
+      "price": 5.0,
+      "description": "Chorizo, lettuce, lime crema, pico de gallo on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "Chorizo, lettuce, lime crema, pico de gallo on a corn tortilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BANH MI",
+      "price": 5.0,
+      "description": "Bulgogi beef, carrots, pickled onions, cucumber, hoisin mayo, cilantro on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "Bulgogi beef, carrots, pickled onions, cucumber, hoisin mayo, cilantro on a corn",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARNE-ASADA",
+      "price": 5.0,
+      "description": "House-marinated shaved beef, lettuce, lime crema, and pico de gallo on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "House-marinated shaved beef, lettuce, lime crema, and pico de gallo on a corn to",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TACO",
+      "price": 5.0,
+      "description": "Seasoned chicken, lime crema, pico de gallo on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "Seasoned chicken, lime crema, pico de gallo on a corn tortilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOFU QUINOA (VEGAN)",
+      "price": 5.0,
+      "description": "Seasoned tofu, quinoa scramble, lettuce, truffle aioli, pico de gallo on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "Seasoned tofu, quinoa scramble, lettuce, truffle aioli, pico de gallo on a corn ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LOBSTER TACO",
+      "price": 7.0,
+      "description": "Lobster, cajun mayo, lettuce, on a corn tortilla",
+      "category": "FOOD",
+      "simplified_description": "Lobster, cajun mayo, lettuce, on a corn tortilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "wings",
+      "price": 12.0,
+      "description": "Choose from Korean BBQ, Shichimi Togarashi, garlic butter N’ parmesan, Buffalo hot, maple bacon, salt N’ pepper",
+      "category": "FOOD",
+      "simplified_description": "Choose from Korean BBQ, Shichimi Togarashi, garlic butter N’ parmesan, Buffalo h",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAT TRIO",
+      "price": 12.0,
+      "description": "Pepperoni, sausage, bacon, pizza sauce, mozzarella, hot N’ honey drizzle",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, sausage, bacon, pizza sauce, mozzarella, hot N’ honey drizzle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KOREAN",
+      "price": null,
+      "description": "Bulgogi beef, kimchi, spring onion, sesame seeds, pizza sauce, mozzarella, Gochujang mayo",
+      "category": "FOOD",
+      "simplified_description": "Bulgogi beef, kimchi, spring onion, sesame seeds, pizza sauce, mozzarella, Gochu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 CHEESE",
+      "price": null,
+      "description": "Blend of Cheddar, fontina and mozzarella, pizza sauce",
+      "category": "FOOD",
+      "simplified_description": "Blend of Cheddar, fontina and mozzarella, pizza sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGGIE SCOOTER",
+      "price": null,
+      "description": "Mozzarella,goat cheese, pickled beets, kale, red onions, pizza sauce, balsamic reduction",
+      "category": "FOOD",
+      "simplified_description": "Mozzarella,goat cheese, pickled beets, kale, red onions, pizza sauce, balsamic r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ CHICKEN",
+      "price": null,
+      "description": "Mozzarella, chicken, red onions, red peppers, cilantro, BBQ sauce",
+      "category": "FOOD",
+      "simplified_description": "Mozzarella, chicken, red onions, red peppers, cilantro, BBQ sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRUFFLE MUSHROOM",
+      "price": null,
+      "description": "Truffle aioli, mozzarella, pesto mushrooms, balsamic reduction, arugula",
+      "category": "FOOD",
+      "simplified_description": "Truffle aioli, mozzarella, pesto mushrooms, balsamic reduction, arugula",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY ROSE SPRITZ",
+      "price": 8.0,
+      "description": "Strawberry syrup, lemon and cranberry juice",
+      "category": "DRINK",
+      "simplified_description": "Strawberry syrup, lemon and cranberry juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BASIL BERRY MIXER",
+      "price": 8.0,
+      "description": "Cucumberand peach syrup, blackberries, lime juice",
+      "category": "DRINK",
+      "simplified_description": "Cucumberand peach syrup, blackberries, lime juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SUNNY GINGER SPARKLER",
+      "price": 7.0,
+      "description": "House-made ginger beer, grapefruit, citrus syrup, ginger, lemon juice, pineapple juice",
+      "category": "DRINK",
+      "simplified_description": "House-made ginger beer, grapefruit, citrus syrup, ginger, lemon juice, pineapple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE BEES KNEES",
+      "price": 11.0,
+      "description": "House-made floral syrup, lime juice, pomegranate juice, egg white, dehydrated candied lemon wheel",
+      "category": "DRINK",
+      "simplified_description": "House-made floral syrup, lime juice, pomegranate juice, egg white, dehydrated ca",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MADI’S SODAS",
+      "price": null,
+      "description": "Choose from pineapple, cucumber, grapefruit, passionfruit, exotic citrus, ginger beer, strawberry rose, guava, mango, coconut, huckleberry, blood orange, raspberry, raspberry sugar free",
+      "category": "DRINK",
+      "simplified_description": "Choose from pineapple, cucumber, grapefruit, passionfruit, exotic citrus, ginger",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

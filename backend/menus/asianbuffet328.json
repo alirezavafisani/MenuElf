@@ -1,0 +1,79 @@
+{
+  "restaurant": "asianbuffet328",
+  "parsed_at": "2025-12-25T03:54:09.745724",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Adults (14 & Up)",
+      "price": 23.99,
+      "description": "$23.99 (Mon - Fri), $25.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for adults aged 14 and up",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Adults (60 & Up)",
+      "price": 20.99,
+      "description": "$20.99 (Mon - Fri), $22.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for seniors aged 60 and up",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teens (12 - 13)",
+      "price": 17.99,
+      "description": "$17.99 (Mon - Fri), $18.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for teenagers aged 12 to 13",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids (9 - 11)",
+      "price": 13.99,
+      "description": "$13.99 (Mon - Fri), $14.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for kids aged 9 to 11",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids (6 - 8)",
+      "price": 10.99,
+      "description": "$10.99 (Mon - Fri), $12.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for kids aged 6 to 8",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids (3 - 5)",
+      "price": 6.99,
+      "description": "$6.99 (Mon - Fri), $6.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for kids aged 3 to 5",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids (2 & Under)",
+      "price": null,
+      "description": "Free (All days)",
+      "simplified_description": "Free for kids aged 2 and under",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Take-Out Box",
+      "price": 20.99,
+      "description": "$20.99 (Mon - Fri), $21.99 (Sat - Sun & Holidays)",
+      "simplified_description": "Price for take-out box meals",
+      "category": "Buffet Prices",
+      "dietary_info": [],
+      "other_info": "Mongolian Grill and Salmon sashimi not allowed for take-out boxes."
+    }
+  ]
+}

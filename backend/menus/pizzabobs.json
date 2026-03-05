@@ -1,0 +1,295 @@
+{
+  "restaurant": "pizzabobs",
+  "parsed_at": "2026-02-06T03:49:50.268518",
+  "item_count": 32,
+  "items": [
+    {
+      "name": "Gator Bread",
+      "price": 12.0,
+      "description": "Lots of cheese, fresh garlic and basil on a garlic buttered crust. Served with ranch dip",
+      "category": "APPETIZER",
+      "simplified_description": "Lots of cheese, fresh garlic and basil on a garlic buttered crust. Served with r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta",
+      "price": 9.0,
+      "description": "Fresh tomato brsuchetta with cheese on garlic buttered cheese toast.",
+      "category": "APPETIZER",
+      "simplified_description": "Fresh tomato brsuchetta with cheese on garlic buttered cheese toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nachos",
+      "price": 9.0,
+      "description": "Our nachos are made in a single layer for optimal cheese and topping distribution",
+      "category": "APPETIZER",
+      "simplified_description": "Our nachos are made in a single layer for optimal cheese and topping distributio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 3.0,
+      "description": "Perfectly toasted garlic buttered Italian bread.",
+      "category": "APPETIZER",
+      "simplified_description": "Perfectly toasted garlic buttered Italian bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic",
+      "price": 15.5,
+      "description": "Salami, pepperoni, mushrooms, red onions, black olives, ground beef, Italian Sausage",
+      "category": "FOOD",
+      "simplified_description": "Salami, pepperoni, mushrooms, red onions, black olives, ground beef, Italian Sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional",
+      "price": 15.5,
+      "description": "Pepperoni, mushroom, red onion, green pepper, tomato, Italian sausage",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, mushroom, red onion, green pepper, tomato, Italian sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croc'O\"Bull",
+      "price": 15.5,
+      "description": "Ham, salami, pepperoni, ground beef, Italian sausage",
+      "category": "FOOD",
+      "simplified_description": "Ham, salami, pepperoni, ground beef, Italian sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexitalia",
+      "price": 15.5,
+      "description": "Pepperoni, red onion, jalapeño, Italian sausage, fire sauce",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, red onion, jalapeño, Italian sausage, fire sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special",
+      "price": 15.5,
+      "description": "Spinach, red onion, red pepper, tomato, cheddar cheese, parmesan, Italian sausage, Montreal steak spice",
+      "category": "FOOD",
+      "simplified_description": "Spinach, red onion, red pepper, tomato, cheddar cheese, parmesan, Italian sausag",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Insanity",
+      "price": 15.5,
+      "description": "Garlic, mushroom, red onion, tomato, Italian sausage, extra cheese, Montreal steak spice. Make it an Austin: Add Calabrese Small: +$1 Large: +$2",
+      "category": "FOOD",
+      "simplified_description": "Garlic, mushroom, red onion, tomato, Italian sausage, extra cheese, Montreal ste",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Porkie Pie",
+      "price": 15.5,
+      "description": "Ham, mushroom, red onion, tomato, cheddar, Italian sausage",
+      "category": "FOOD",
+      "simplified_description": "Ham, mushroom, red onion, tomato, cheddar, Italian sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amy's Favourite",
+      "price": 15.5,
+      "description": "Ham, chicken, red peppers, green peppers, pineapple, cheddar",
+      "category": "FOOD",
+      "simplified_description": "Ham, chicken, red peppers, green peppers, pineapple, cheddar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese",
+      "price": 15.5,
+      "description": "Calabrese, red onion, red peppers, goat feta, Italian sausage",
+      "category": "FOOD",
+      "simplified_description": "Calabrese, red onion, red peppers, goat feta, Italian sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Chicken Supreme",
+      "price": 15.5,
+      "description": "Chicken, red onion, red pepper, garlic",
+      "category": "FOOD",
+      "simplified_description": "Chicken, red onion, red pepper, garlic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fire Chicken",
+      "price": 15.5,
+      "description": "Chicken, red onion, red peppers, pineapple, fire sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken, red onion, red peppers, pineapple, fire sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Derek",
+      "price": 15.5,
+      "description": "Double pineapple, double Italian sausage",
+      "category": "FOOD",
+      "simplified_description": "Double pineapple, double Italian sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulled Pork",
+      "price": 15.5,
+      "description": "Chipotle pulled pork, mushroom, red pepper, green pepper, caramelized onion, cheddar",
+      "category": "FOOD",
+      "simplified_description": "Chipotle pulled pork, mushroom, red pepper, green pepper, caramelized onion, che",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair",
+      "price": 15.5,
+      "description": "Beef donair, red onion, tomato, extra cheese, donair sauce",
+      "category": "FOOD",
+      "simplified_description": "Beef donair, red onion, tomato, extra cheese, donair sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banh Mizza",
+      "price": 15.5,
+      "description": "Hoisin braised beef, red onion, pickled carrots, cilantro, sriracha, honey garlic mayo",
+      "category": "FOOD",
+      "simplified_description": "Hoisin braised beef, red onion, pickled carrots, cilantro, sriracha, honey garli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Salmon",
+      "price": 15.5,
+      "description": "Smoked salmon, red pepper, capers, cream cheese, dill, lemon",
+      "category": "FOOD",
+      "simplified_description": "Smoked salmon, red pepper, capers, cream cheese, dill, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek",
+      "price": 15.5,
+      "description": "Spinach, tomato, black olives, goat feta. Add red onion, artichokes or Italian sausage for no extra charge.",
+      "category": "FOOD",
+      "simplified_description": "Spinach, tomato, black olives, goat feta. Add red onion, artichokes or Italian s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggimanic",
+      "price": 15.5,
+      "description": "Spinach, mushroom, red onion, red pepper, green pepper, tomato, black olives",
+      "category": "FOOD",
+      "simplified_description": "Spinach, mushroom, red onion, red pepper, green pepper, tomato, black olives",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita",
+      "price": 12.5,
+      "description": "Our spin on a classic- margarita sauce, lots of cheese and fresh basil",
+      "category": "FOOD",
+      "simplified_description": "Our spin on a classic- margarita sauce, lots of cheese and fresh basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden",
+      "price": 4.5,
+      "description": "Crisp romaine, topped with fresh vegetables. Served with your choice of ranch or Italian dressing.",
+      "category": "SALAD",
+      "simplified_description": "Crisp romaine, topped with fresh vegetables. Served with your choice of ranch or",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": 5.5,
+      "description": "Crisp romaine tossed with our famous homemade caesar dressing, croutons and fresh parmesan.",
+      "category": "SALAD",
+      "simplified_description": "Crisp romaine tossed with our famous homemade caesar dressing, croutons and fres",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek",
+      "price": 7.0,
+      "description": "Crisp romaine, tomato, cucumber, green and red peppers, red onion, goat feta, kalamata olives.",
+      "category": "SALAD",
+      "simplified_description": "Crisp romaine, tomato, cucumber, green and red peppers, red onion, goat feta, ka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach",
+      "price": 7.0,
+      "description": "Baby spinach, red onion, mushrooms, hard boiled egg, bacon bits. Drizzled with our creamy maple dressing.",
+      "category": "SALAD",
+      "simplified_description": "Baby spinach, red onion, mushrooms, hard boiled egg, bacon bits. Drizzled with o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 15.0,
+      "description": "Ten oven baked wings. Salt & Pepper, Ragin' Red, BBQ, Honey garlic, Sweet Thai chili, House sauce (sweet & spicy), Billy the Greek style.",
+      "category": "OTHER",
+      "simplified_description": "Ten oven baked wings. Salt & Pepper, Ragin' Red, BBQ, Honey garlic, Sweet Thai c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 13.0,
+      "description": "Oven baked with your choice of dipping sauce: honey mustard, plum or BBQ",
+      "category": "OTHER",
+      "simplified_description": "Oven baked with your choice of dipping sauce: honey mustard, plum or BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bob's Tots",
+      "price": 3.0,
+      "description": "Oven baked potato tots",
+      "category": "SIDE",
+      "simplified_description": "Oven baked potato tots",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oven Baked Ribs",
+      "price": 18.0,
+      "description": "1lb Oven baked dry pork ribs",
+      "category": "OTHER",
+      "simplified_description": "1lb Oven baked dry pork ribs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": 13.0,
+      "description": "Beef, pork, tomato sauce, vegetables and lots of cheese! Served with garlic toast.",
+      "category": "FOOD",
+      "simplified_description": "Beef, pork, tomato sauce, vegetables and lots of cheese! Served with garlic toas",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,635 @@
+{
+  "restaurant": "asahikoreats",
+  "parsed_at": "2026-02-06T00:43:03.470993",
+  "item_count": 48,
+  "items": [
+    {
+      "name": "Side of Rice",
+      "price": 3.0,
+      "description": "Side serving of steamed white rice.",
+      "category": "SIDE",
+      "simplified_description": "Steamed white rice served as a side.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Kimchi",
+      "price": 2.0,
+      "description": "Freshly prepared classic Korean side dish. Addicting and pairs great with any dish. Available traditional or vegan.",
+      "category": "SIDE",
+      "simplified_description": "Classic Korean fermented spicy cabbage, available traditional or vegan.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Available traditional or vegan"
+    },
+    {
+      "name": "Yuja Tea (500mL)",
+      "price": 15.0,
+      "description": "Korean herbal tea made of citron marmalade. Aromatic, sweet and comforting. Made in house by Mama Yu!",
+      "category": "DRINK",
+      "simplified_description": "Sweet and aromatic Korean citron marmalade herbal tea.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Made in house"
+    },
+    {
+      "name": "Takoyaki",
+      "price": 8.0,
+      "description": "(6pc) Octopus croquettes served hot, and crispy. Topped with mayo, sweet soy reduction, green onion, sesame and nori.",
+      "category": "APPETIZER",
+      "simplified_description": "Six crispy octopus croquettes topped with mayo and soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Maki Roll",
+      "price": 4.5,
+      "description": "(6pcs) Maki roll sushi made with fresh salmon and nori on the outside.",
+      "category": "FOOD",
+      "simplified_description": "Six-piece sushi roll with fresh salmon and seaweed.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Negitoro Maki Roll",
+      "price": 4.5,
+      "description": "(6pc) Maki roll made with fresh minced toro and green onion and nori (seaweed) on the outside.",
+      "category": "FOOD",
+      "simplified_description": "Six-piece sushi roll with minced toro, green onion, and seaweed.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cucumber Maki Roll",
+      "price": 3.0,
+      "description": "(6pc) Maki roll sushi made with fresh cucumber and nori on the outside.",
+      "category": "FOOD",
+      "simplified_description": "Six-piece sushi roll with fresh cucumber and seaweed.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Maki Roll",
+      "price": 3.5,
+      "description": "(6pc) Maki roll sushi made with fresh avocado and nori on the outside.",
+      "category": "FOOD",
+      "simplified_description": "Six-piece sushi roll with fresh avocado and seaweed.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Maki Roll",
+      "price": 4.5,
+      "description": "(6pc) Maki roll sushi made with fresh tuna and nori on the outside.",
+      "category": "FOOD",
+      "simplified_description": "Six-piece sushi roll with fresh tuna and seaweed.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Nigiri",
+      "price": 2.5,
+      "description": "Fresh salmon nigiri sushi.",
+      "category": "FOOD",
+      "simplified_description": "Fresh salmon served over sushi rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Nigiri",
+      "price": 2.5,
+      "description": "Fresh tuna nigiri sushi.",
+      "category": "FOOD",
+      "simplified_description": "Fresh tuna served over sushi rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ebi (Shrimp) Nigiri",
+      "price": 2.5,
+      "description": "Fresh ebi (shrimp) nigiri sushi.",
+      "category": "FOOD",
+      "simplified_description": "Fresh shrimp served over sushi rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Tataki Nigiri",
+      "price": 3.5,
+      "description": "Lightly seared salmon nigiri sushi.",
+      "category": "FOOD",
+      "simplified_description": "Lightly seared salmon served over sushi rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Tataki Nigiri",
+      "price": 3.5,
+      "description": "Lightly seared tuna nigiri sushi.",
+      "category": "FOOD",
+      "simplified_description": "Lightly seared tuna served over sushi rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi (BBQ Eel) Nigiri",
+      "price": 3.5,
+      "description": "Sweet and savoury unagi (BBQ eel) nigiri sushi.",
+      "category": "FOOD",
+      "simplified_description": "Sweet and savory BBQ eel served over sushi rice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "California Roll",
+      "price": 8.5,
+      "description": "(8pc) Classic California roll made with imitation crab and fresh avocado.",
+      "category": "FOOD",
+      "simplified_description": "Classic sushi roll with imitation crab and avocado.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy California Roll",
+      "price": 8.5,
+      "description": "(8pc) California roll made with imitation crab, fresh avocado and topped with spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "California roll with imitation crab, avocado, and spicy mayo.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Crazy California Roll",
+      "price": 10.0,
+      "description": "(8pc) Extra special California roll, battered and deep-fried, topped with our sweet soy reduction & spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried California roll with sweet soy and spicy mayo toppings.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Deep-fried, Spicy"
+    },
+    {
+      "name": "Dynamite Roll",
+      "price": 9.5,
+      "description": "(8pc) Roll sushi made with crispy prawn tempura, cucumber and roasted carrots, topped with sesame seeds.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with prawn tempura, cucumber, carrots, and sesame seeds.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Roll",
+      "price": 10.0,
+      "description": "(8pc) Roll sushi made with fresh salmon, cucumber and avocado.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with fresh salmon, cucumber, and avocado.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Roll",
+      "price": 10.0,
+      "description": "(8pc) Roll sushi made with fresh salmon tossed in house spicy sauce, cucumber and avocado.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with spicy salmon, cucumber, and avocado.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy",
+        "gluten-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Tuna Roll",
+      "price": 10.0,
+      "description": "(8pc) Roll sushi made with fresh tuna, cucumber and avocado.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with fresh tuna, cucumber, and avocado.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Roll",
+      "price": 10.0,
+      "description": "(8pc) Roll sushi made with fresh tuna tossed in house spicy sauce, cucumber and avocado.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with spicy tuna, cucumber, and avocado.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy",
+        "gluten-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Alaska Roll",
+      "price": 11.0,
+      "description": "(8pc) Roll sushi made with fresh salmon, avocado and imitation crab meat, topped with masago.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with salmon, avocado, imitation crab, and masago.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BC Roll",
+      "price": 11.0,
+      "description": "(8pc) Roll sushi made tempura fried salmon skin, fresh lettuce and cucumber while topped with masago, our sweet soy reduction and spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Tempura salmon skin roll with lettuce, cucumber, masago, and spicy mayo.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Tempura, Spicy"
+    },
+    {
+      "name": "Unagi Roll",
+      "price": 11.0,
+      "description": "(8pc) Roll sushi made with grilled unagi (BBQ eel) and cucumber, topped with our sweet soy reduction and sesame seeds.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with grilled eel, cucumber, sweet soy, and sesame seeds.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Tempura Roll",
+      "price": 8.5,
+      "description": "(8pc) Roll sushi made with crispy yam tempura and topped with our house sweet soy reduction.",
+      "category": "FOOD",
+      "simplified_description": "Sushi roll with crispy yam tempura and sweet soy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Tempura"
+    },
+    {
+      "name": "Avocado Roll",
+      "price": 7.5,
+      "description": "(8pc) Roll sushi made with fresh avocado and topped with sesame.",
+      "category": "FOOD",
+      "simplified_description": "Simple sushi roll with fresh avocado and sesame seeds.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Knight Roll",
+      "price": 12.5,
+      "description": "(8pc) Prawn tempura, avocado & cucumber roll topped with spicy salmon, masago, spicy mayo, green onion and sesame seeds",
+      "category": "FOOD",
+      "simplified_description": "Prawn tempura roll with spicy salmon, avocado, and spicy mayo.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Tempura, Spicy"
+    },
+    {
+      "name": "Under the Sea",
+      "price": 12.5,
+      "description": "(8pc) Spicy salmon, ebi, cucumber, and wakame roll, topped with ebi, fresh salmon, masago and spicy mayo.",
+      "category": "FOOD",
+      "simplified_description": "Spicy salmon and shrimp roll with cucumber, wakame, and spicy mayo.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Veggie Delight",
+      "price": 12.5,
+      "description": "(8pc) Yam tempura and cucumber roll - wrapped with avocado and drizzled with our sweet soy reduction.",
+      "category": "FOOD",
+      "simplified_description": "Yam tempura and cucumber roll with avocado and sweet soy sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sumo Crunch",
+      "price": 12.5,
+      "description": "(8pc) Spicy salmon, cucumber, avocado and crispy tempura flakes, green onions, crushed sesame, sweet soy reduction and house spicy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Spicy salmon roll with cucumber, avocado, tempura flakes, and spicy sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Grilled Salmon Roll",
+      "price": 12.5,
+      "description": "(8pc) Salmon and avocado roll - topped with grilled salmon, our sweet soy reduction.",
+      "category": "FOOD",
+      "simplified_description": "Salmon and avocado roll topped with grilled salmon and sweet soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rainbow Roll",
+      "price": 12.5,
+      "description": "(8pc) Imitation crab and avocado roll - topped with avocado, salmon and ebi .",
+      "category": "FOOD",
+      "simplified_description": "Imitation crab and avocado roll topped with avocado, salmon, and shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gimbap",
+      "price": 12.5,
+      "description": "Traditional Korean snack made from cooked rice, beef, egg, carrot, sweet radish and spinach - all rolled in roasted seaweed and topped with sesame seeds.",
+      "category": "FOOD",
+      "simplified_description": "Korean rice roll with beef, egg, vegetables, and sesame seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Bowl",
+      "price": 15.0,
+      "description": "Choice of Protein and caramelized onions on top of fresh salad greens and rice, topped w/ sweet soy reduction, sesame seeds and green onion. **Options for gluten-free available on request** Please inform us of any food allergies or other dietary restrictions.",
+      "category": "FOOD",
+      "simplified_description": "Protein with caramelized onions, salad greens, rice, and sweet soy sauce.",
+      "dietary_info": [],
+      "other_info": "Gluten-free options available on request"
+    },
+    {
+      "name": "Bibimbap",
+      "price": 16.0,
+      "description": "Traditional Korean mixed rice bowl - with your choice of protein, pan fried shitake mushrooms, carrots, zucchini, and bean sprouts topped with a sunny side egg, our sweet soy reduction, sesame and green onion.",
+      "category": "FOOD",
+      "simplified_description": "Mixed rice bowl with protein, vegetables, egg, and sweet soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Salmon Bowl",
+      "price": 17.0,
+      "description": "Grilled salmon on top of fresh salad greens and rice - topped with sweet soy reduction, masago, cucumber, sesame, green onion and nori.",
+      "category": "FOOD",
+      "simplified_description": "Grilled salmon with salad greens, rice, and sweet soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Unagi Bowl",
+      "price": 17.0,
+      "description": "Grilled unagi (BBQ eel) and fresh salad greens and rice - topped with sweet soy reduction, masago, cucumber, sesame, green onion and nori.",
+      "category": "FOOD",
+      "simplified_description": "Grilled BBQ eel with salad greens, rice, and sweet soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Fried Chicken w/ Rice",
+      "price": 16.0,
+      "description": "Crispy tempura battered chicken and tossed in our honey-gochujang sauce. Served with a side of rice and greens, topped with sesame and green onions.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken in honey-gochujang sauce with rice and greens.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Korean Fried Cauliflower w/ Rice",
+      "price": 16.0,
+      "description": "Crispy tempura battered cauliflower and tossed in our honey-gochujang sauce. Served with a side of rice and greens, topped with sesame and green onions.",
+      "category": "FOOD",
+      "simplified_description": "Crispy cauliflower in honey-gochujang sauce with rice and greens.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Japchae",
+      "price": 17.0,
+      "description": "Savoury sweet-potato glass noodles stir fried with your choice of protein, garden vegetables such as onions, carrots, green onions and mushrooms tossed in a sweet soy/sesame reduction. Served with a side of rice and salad greens.",
+      "category": "FOOD",
+      "simplified_description": "Sweet potato noodles stir-fried with protein and vegetables in soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Sashimi",
+      "price": 6.0,
+      "description": "Small Sashimi (3 Pieces)",
+      "category": "FOOD",
+      "simplified_description": "Three pieces of fresh salmon sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Sashimi (6 Pieces)",
+      "price": 13.0,
+      "description": "Regular Sashimi (6 Pieces)",
+      "category": "FOOD",
+      "simplified_description": "Six pieces of fresh sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Sashimi (10 Pieces) ",
+      "price": 19.0,
+      "description": "Large Sashimi (10 Pieces) ",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of fresh sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Sashimi",
+      "price": 6.0,
+      "description": "Small Sashimi (3 Pieces)",
+      "category": "FOOD",
+      "simplified_description": "Three pieces of fresh tuna sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Sashimi (6 Pieces)",
+      "price": 13.0,
+      "description": "Regular Sashimi (6 Pieces)",
+      "category": "FOOD",
+      "simplified_description": "Six pieces of assorted fresh sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Sashimi (10 Pieces)",
+      "price": 19.0,
+      "description": "Large Sashimi (10 Pieces)",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of assorted fresh sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "restaurant": "tacosmexicoyyc",
+  "parsed_at": "2026-02-06T04:21:23.517577",
+  "item_count": 31,
+  "items": [
+    {
+      "name": "egetarian",
+      "price": 18.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARNE ASADA",
+      "price": 21.0,
+      "description": "Grilled Steak, Enchilada (chicken) Mole or Verde, jalapeno & guacamole",
+      "category": "FOOD",
+      "simplified_description": "Grilled Steak, Enchilada (chicken) Mole or Verde, jalapeno & guacamole",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FAJITAS",
+      "price": 18.0,
+      "description": "Chicken or Beef or Vegetarian. Served with flour or corn tortillas, guacamole & sour cream.",
+      "category": "FOOD",
+      "simplified_description": "Chicken or Beef or Vegetarian. Served with flour or corn tortillas, guacamole & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEXICAN PLATTER",
+      "price": 43.0,
+      "description": "Pork Chop, Enchiladas, Burritos, Chimichangas, Flautas, Rice and Beans (Mole contains peanuts)",
+      "category": "FOOD",
+      "simplified_description": "Pork Chop, Enchiladas, Burritos, Chimichangas, Flautas, Rice and Beans (Mole con",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALAMBRE",
+      "price": 21.0,
+      "description": "Diced sirloin steak with bacon, green & red pepper, onion & mozza. Flour or corn tortillas",
+      "category": "FOOD",
+      "simplified_description": "Diced sirloin steak with bacon, green & red pepper, onion & mozza. Flour or corn",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "QUESABIRRIA",
+      "price": 19.0,
+      "description": "Flour tortilla stuffed with mozzarella, cheddar and Birria (beef). Broth on the side to Dip!",
+      "category": "FOOD",
+      "simplified_description": "Flour tortilla stuffed with mozzarella, cheddar and Birria (beef). Broth on the ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TACOS ( mexican street style)",
+      "price": null,
+      "description": "Served in 2 soft corn tortillas. Topped with white onion & cilantro. Salsas on the side. The order are 2 tacos, same kind.",
+      "category": "FOOD",
+      "simplified_description": "Served in 2 soft corn tortillas. Topped with white onion & cilantro. Salsas on t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ASADA (2)",
+      "price": 6.5,
+      "description": "Thin and juicy sliced steak cooked on the Grill.",
+      "category": "FOOD",
+      "simplified_description": "Thin and juicy sliced steak cooked on the Grill.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AL PASTOR (2)",
+      "price": 6.5,
+      "description": "Marinated Achiote Pork & pinneapple chunks",
+      "category": "FOOD",
+      "simplified_description": "Marinated Achiote Pork & pinneapple chunks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LENGUA (2)",
+      "price": 8.0,
+      "description": "Beef Tongue",
+      "category": "FOOD",
+      "simplified_description": "Beef Tongue",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARNITAS (2)",
+      "price": 6.5,
+      "description": "Braised tender Pork",
+      "category": "FOOD",
+      "simplified_description": "Braised tender Pork",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BARBACOA (2)",
+      "price": 6.5,
+      "description": "Exceptionally tender Beef in huajillo sauce",
+      "category": "FOOD",
+      "simplified_description": "Exceptionally tender Beef in huajillo sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POLLO PIBIL (2)",
+      "price": 6.5,
+      "description": "Chicken marinated in Achiote adobo",
+      "category": "FOOD",
+      "simplified_description": "Chicken marinated in Achiote adobo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHORIZO CON PAPAS (2)",
+      "price": 6.5,
+      "description": "Mexican Pork Sausage with Potatos",
+      "category": "FOOD",
+      "simplified_description": "Mexican Pork Sausage with Potatos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHIPOTLE BEEF (2)",
+      "price": 6.5,
+      "description": "Shreded Beef in Chipotle Sauce",
+      "category": "FOOD",
+      "simplified_description": "Shreded Beef in Chipotle Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRIJOLES CON QUESO (2)",
+      "price": 6.5,
+      "description": "Re-Fried Beans, Feta & Sour Cream",
+      "category": "FOOD",
+      "simplified_description": "Re-Fried Beans, Feta & Sour Cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN FAJITA (2)",
+      "price": 6.5,
+      "description": "Chicken, peppers & onion",
+      "category": "FOOD",
+      "simplified_description": "Chicken, peppers & onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAMARON (2)",
+      "price": 8.0,
+      "description": "Shrimp in garlic butter",
+      "category": "FOOD",
+      "simplified_description": "Shrimp in garlic butter",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PESCADO (2)",
+      "price": 6.5,
+      "description": "Fish on the Grill",
+      "category": "FOOD",
+      "simplified_description": "Fish on the Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLES (2)",
+      "price": 6.5,
+      "description": "A blend of Sauté Vegetables, Feta & Sour Cream",
+      "category": "FOOD",
+      "simplified_description": "A blend of Sauté Vegetables, Feta & Sour Cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DISCADA (2)",
+      "price": 6.5,
+      "description": "Grilled seasoned sliced steak, bacon, sausage, green & red pepper, onion and jalapeno",
+      "category": "FOOD",
+      "simplified_description": "Grilled seasoned sliced steak, bacon, sausage, green & red pepper, onion and jal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TACO DORADO (2)",
+      "price": 6.5,
+      "description": "Deep-fried bean taco. Topped with lettuce, tomato sauce & feta cheese",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried bean taco. Topped with lettuce, tomato sauce & feta cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NORTENO (2)",
+      "price": 6.5,
+      "description": "Pork in ancho peppers sauce (non spicy)",
+      "category": "FOOD",
+      "simplified_description": "Pork in ancho peppers sauce (non spicy)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHORIZO VEGETARIANO (2)",
+      "price": 6.5,
+      "description": "Marinated SOY vegetarian meat",
+      "category": "FOOD",
+      "simplified_description": "Marinated SOY vegetarian meat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NOPALES (cactus) (2)",
+      "price": 6.5,
+      "description": "Sautee nopales (cactus) with onion & tomato",
+      "category": "FOOD",
+      "simplified_description": "Sautee nopales (cactus) with onion & tomato",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SUADERO (2)",
+      "price": 8.0,
+      "description": "Beef brisket",
+      "category": "FOOD",
+      "simplified_description": "Beef brisket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAJAS POBLANO (2)",
+      "price": 6.5,
+      "description": "Roasted poblano peppers, onion, corn kernels, sour cream, mozzarella. NEW!! Order NO DAITY, to make it VEGAN!",
+      "category": "FOOD",
+      "simplified_description": "Roasted poblano peppers, onion, corn kernels, sour cream, mozzarella. NEW!! Orde",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PASTEL 3 LECHES",
+      "price": 7.0,
+      "description": "Vanilla cake soaked in 3 sweet milks",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla cake soaked in 3 sweet milks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHURROS",
+      "price": 7.0,
+      "description": "Served with chocolate",
+      "category": "DESSERT",
+      "simplified_description": "Served with chocolate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FLAN NAPOLITANO",
+      "price": 7.0,
+      "description": "Cream cheese vanilla flan. Soft and creamy",
+      "category": "DESSERT",
+      "simplified_description": "Cream cheese vanilla flan. Soft and creamy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARLOTA DE LIMON",
+      "price": 7.0,
+      "description": "Creamy lime pie",
+      "category": "DESSERT",
+      "simplified_description": "Creamy lime pie",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

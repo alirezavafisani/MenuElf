@@ -1,0 +1,194 @@
+{
+  "restaurant": "flavourcuisineandcatering",
+  "parsed_at": "2026-02-06T02:15:02.458160",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "Puff Puff",
+      "price": 2.5,
+      "description": "Choose an option 3pcs Dozen\n    * 3pcs\n    * Dozen\n$2.50 – $9.00\nPickupDelivery\n[Select options](https://flavourcuisineandcatering.com/product/puff-puff-one-dozen/) This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Fried dough balls available in 3 pieces or a dozen.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage Roll",
+      "price": 3.5,
+      "description": "Choose an option 1pc Dozen\n    * 1pc\n    * Dozen\n$3.50 – $35.00\nPickupDelivery\n[Select options](https://flavourcuisineandcatering.com/product/sausage-roll/) This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Pastry filled with sausage meat, available by piece or dozen.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Pie, Fish Pie and Chicken Pie",
+      "price": 3.5,
+      "description": "Choose an option 1pc Dozen\n    * 1pc\n    * Dozen\n$3.50 – $35.00\nPickupDelivery\n[Select options](https://flavourcuisineandcatering.com/product/meat-pie-fish-pie-and-chicken-pie/) This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Assorted pies with meat, fish, or chicken filling, sold individually or by dozen.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "African signature dish – Eba or Amala or Semolina",
+      "price": 22.9,
+      "description": "$22.90\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8651)",
+      "category": "FOOD",
+      "simplified_description": "Traditional African starchy side dish made from cassava, yam, or semolina.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "African signature dish – Eba or Amala or Semolina With Goat meat or Cow leg",
+      "price": 28.9,
+      "description": "$28.90\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8648)",
+      "category": "FOOD",
+      "simplified_description": "Traditional African starchy dish served with goat meat or cow leg.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Cake",
+      "price": 3.5,
+      "description": "$3.50\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8935)",
+      "category": "DESSERT",
+      "simplified_description": "Sweet vanilla flavored cake slice.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Cake",
+      "price": 3.5,
+      "description": "$3.50\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8875)",
+      "category": "DESSERT",
+      "simplified_description": "Rich chocolate flavored cake slice.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 2.5,
+      "description": "$2.50\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8880)",
+      "category": "DRINK",
+      "simplified_description": "Fresh pineapple juice drink.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palm Wine",
+      "price": 6.5,
+      "description": "$6.50\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8835)",
+      "category": "DRINK",
+      "simplified_description": "Traditional alcoholic palm sap wine.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Alcoholic beverage"
+    },
+    {
+      "name": "Mango Juice",
+      "price": 2.5,
+      "description": "$2.50\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8886)",
+      "category": "DRINK",
+      "simplified_description": "Fresh mango juice drink.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Suya",
+      "price": 12.0,
+      "description": "$12.00\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8669)",
+      "category": "FOOD",
+      "simplified_description": "Spicy grilled meat skewers, a popular West African street food.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Snail",
+      "price": 18.0,
+      "description": "$18.00\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8666)",
+      "category": "FOOD",
+      "simplified_description": "Cooked edible snails served as a delicacy.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nkwobi",
+      "price": 18.0,
+      "description": "$18.00\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8663)",
+      "category": "FOOD",
+      "simplified_description": "Spicy cow foot dish cooked in traditional sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Steamed Tilapia Fish",
+      "price": 17.0,
+      "description": "$17.00\nPickupDelivery\nQuantity:\n- +\n[Add to cart](https://flavourcuisineandcatering.com/?add-to-cart=8933)",
+      "category": "FOOD",
+      "simplified_description": "Whole tilapia fish steamed to perfection.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    }
+  ]
+}

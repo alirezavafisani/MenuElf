@@ -1,0 +1,510 @@
+{
+  "restaurant": "inglewoodpizza",
+  "parsed_at": "2026-02-06T02:42:59.586080",
+  "item_count": 44,
+  "items": [
+    {
+      "name": "Create Your Own Pizza",
+      "price": 18.25,
+      "description": "Includes Cheese, Pizza Sauce plus price of toppings",
+      "category": "FOOD",
+      "simplified_description": "Build your pizza with cheese, sauce, and toppings of your choice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese",
+      "price": 18.75,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch cheese pizza with tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni",
+      "price": 19.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza topped with pepperoni and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian",
+      "price": 19.75,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with ham, pineapple, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "New York",
+      "price": 20.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with classic New York style toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Town Special",
+      "price": 20.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with a special combination of toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Villager's Choice",
+      "price": 20.75,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with a unique mix of toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Maria's Special",
+      "price": 21.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with Maria's special topping selection.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Zorba",
+      "price": 21.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with toppings inspired by Greek flavors.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": 21.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza loaded with various meats.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pizza",
+      "price": 21.5,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza topped with donair meat and sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "George's Special",
+      "price": 21.75,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with George's special combination of toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": 23.75,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with the house's signature toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 21.5,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with BBQ sauce, chicken, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Mushroom Alfredo",
+      "price": 22.5,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with chicken, mushrooms, and Alfredo sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crazy Chicken",
+      "price": 23.0,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch chicken pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Souvlaki",
+      "price": 23.5,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch Greek souvlaki pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kickin' Buffalo Chicken Ranch",
+      "price": 23.5,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch spicy buffalo chicken ranch pizza.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Garden",
+      "price": 21.75,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch vegetable pizza.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach and Feta",
+      "price": 21.0,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch spinach and feta cheese pizza.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jalaveggie",
+      "price": 20.25,
+      "description": "M 10\"",
+      "category": "FOOD",
+      "simplified_description": "Medium 10-inch pizza with jalapeños and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 14.95,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Classic chicken wings appetizer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Ribs",
+      "price": 10.95,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Dry ribs appetizer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zucchini Sticks",
+      "price": 10.95,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Fried zucchini sticks appetizer.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread Sticks",
+      "price": 8.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Garlic-flavored bread sticks appetizer.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic French fries side dish.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Roasted Potatoes",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Roasted potatoes with lemon flavor.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake",
+      "price": 6.8,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Creamy cheesecake dessert.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 10.95,
+      "description": "SM",
+      "category": "SALAD",
+      "simplified_description": "Small Greek salad with vegetables and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 12.95,
+      "description": "LG",
+      "category": "SALAD",
+      "simplified_description": "Large Greek salad with vegetables and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 9.0,
+      "description": "SM",
+      "category": "SALAD",
+      "simplified_description": "Small Caesar salad with classic dressing and croutons.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 10.75,
+      "description": "LG",
+      "category": "SALAD",
+      "simplified_description": "Large Caesar salad with classic dressing and croutons.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Canned carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "kosher",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Pop",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Bottled carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "kosher",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pure Life Water",
+      "price": 1.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Bottled purified water.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "kosher",
+        "halal",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Souvlaki",
+      "price": 12.95,
+      "description": "",
+      "category": "SOUVLAKI & PITA WRAPS",
+      "simplified_description": "Grilled chicken skewers served with pita and sides.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Add Extra Chicken Skewer",
+      "price": 6.75,
+      "description": "",
+      "category": "SOUVLAKI & PITA WRAPS",
+      "simplified_description": "Additional grilled chicken skewer.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Wrap",
+      "price": 8.95,
+      "description": "",
+      "category": "SOUVLAKI & PITA WRAPS",
+      "simplified_description": "Wrap filled with spiced meat and sauce.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Wrap Meal",
+      "price": 11.95,
+      "description": "",
+      "category": "SOUVLAKI & PITA WRAPS",
+      "simplified_description": "Donair wrap served with side and drink.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Meal includes side and drink"
+    },
+    {
+      "name": "Chicken Wrap",
+      "price": 9.95,
+      "description": "",
+      "category": "SOUVLAKI & PITA WRAPS",
+      "simplified_description": "Wrap filled with grilled chicken and toppings.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wrap Meal",
+      "price": 12.95,
+      "description": "",
+      "category": "SOUVLAKI & PITA WRAPS",
+      "simplified_description": "Chicken wrap served with side and drink.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Meal includes side and drink"
+    },
+    {
+      "name": "Baked Lasagna with Meat Sauce",
+      "price": 12.99,
+      "description": "All Lasagnas come with Toast",
+      "category": "BAKED LASAGNA",
+      "simplified_description": "Classic baked lasagna with meat sauce and toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Comes with toast"
+    },
+    {
+      "name": "Baked Lasagna Chicken Mushroom Alfredo",
+      "price": 14.95,
+      "description": "All Lasagnas come with Toast",
+      "category": "BAKED LASAGNA",
+      "simplified_description": "Baked lasagna with chicken, mushrooms, Alfredo sauce, and toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Comes with toast"
+    },
+    {
+      "name": "Baked Lasagna Seafood Alfredo",
+      "price": 14.85,
+      "description": "All Lasagnas come with Toast",
+      "category": "BAKED LASAGNA",
+      "simplified_description": "Baked lasagna with seafood, Alfredo sauce, and toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Comes with toast"
+    }
+  ]
+}

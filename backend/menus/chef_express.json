@@ -1,0 +1,133 @@
+{
+  "restaurant": "chef express",
+  "parsed_at": "2025-12-25T01:44:48.556621",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "1 Month Meal Plan",
+      "price": 1299.0,
+      "description": "Ready to make a change? Select the plan that meets your lifestyle and goals! Our 1 Month Plan provides savings of up to 8% vs ordering ala carte meals!",
+      "simplified_description": "A meal plan for one month with savings compared to ordering individual meals.",
+      "category": "Meal Plans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Day Meal Plan",
+      "price": 120.0,
+      "description": "Need a boost to get back on track? Our 3 Day Meal Plan is perfect to help you start eating Fit and feeling great again!",
+      "simplified_description": "A meal plan for three days to help you get back on track with healthy eating.",
+      "category": "Meal Plans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Chorizo Quesadilla, Red Salsa, Sour Cream",
+      "price": 12.9,
+      "description": "Ground beef marinated with Mexican chillies, herbs, and apple cider vinegar. Cooked and stuffed with peppers and cheese inside 2 Orowheat tortillas.",
+      "simplified_description": "A quesadilla filled with marinated ground beef, peppers, and cheese.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Sandwich in Carbounaut Bread",
+      "price": 8.9,
+      "description": "Baked almond crusted Chicken dressed with olive oil mayo, cream cheese, and mixed with vegetables, topped with buffalo sauce.",
+      "simplified_description": "A sandwich with almond-crusted chicken, mayo, cream cheese, and buffalo sauce.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Boneless Leg Parmigiana, Cauli Mac and Cheese, Vegetables",
+      "price": 18.9,
+      "description": "Keto Crusted Chicken boneless leg baked and topped with marinara and mozzarella.",
+      "simplified_description": "Baked chicken leg with marinara sauce and cheese, served with cauliflower mac and cheese.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Buddha Bowl",
+      "price": 9.9,
+      "description": "Grilled chicken breast, homemade dip with garlic, parmesan, olive oil, egg yolk, and seasoning with grilled vegetables and pickled slaw.",
+      "simplified_description": "A bowl with grilled chicken, a creamy dip, grilled vegetables, and pickled slaw.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crunchy Salmon Sandwich in Carbonaut Bread",
+      "price": 6.9,
+      "description": "Wild salmon baked and dressed with olive oil mayo and mixed with vegetables.",
+      "simplified_description": "A sandwich with baked salmon, mayo, and vegetables.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Hot Wings, Pickled Cabbage, and Celery Salad",
+      "price": 9.9,
+      "description": "1 lb wings deep fried and lightly tossed in hot sauce with ranch on the side.",
+      "simplified_description": "Deep-fried chicken wings tossed in hot sauce, served with ranch dressing.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Curry, Cauliflower Rice, Keto Naan",
+      "price": 9.5,
+      "description": "3 hard boiled eggs with diced rutabaga in onion tomato curry, served with cauli rice and keto naan.",
+      "simplified_description": "A curry made with hard-boiled eggs and rutabaga, served with cauliflower rice and keto naan.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Salad Sandwich in Carbonaut Bread",
+      "price": 5.9,
+      "description": "1.5 Free Run Egg, boiled and dressed with olive oil mayo and mixed with vegetables.",
+      "simplified_description": "A sandwich with boiled eggs, mayo, and vegetables.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Leg with Peri Peri sauce (Nandos style), Broccoli, cheese sauce",
+      "price": 11.9,
+      "description": "Marinated and brined Chicken Leg (on the bone), fire grilled with homemade peri peri sauce on the side.",
+      "simplified_description": "Grilled chicken leg served with peri peri sauce and broccoli with cheese sauce.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jerk Chicken and Mango Chutney Wrap",
+      "price": 8.9,
+      "description": "Grilled jerk spiced chicken with homemade mango chutney in a keto Orowheat tortilla.",
+      "simplified_description": "A wrap with grilled jerk chicken and mango chutney.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Chicken Red Curry, coconut cauliflower rice, vegetables",
+      "price": 11.9,
+      "description": "Thai red curry paste with coconut cream, lemongrass, and vegetables.",
+      "simplified_description": "A Thai red curry with coconut cream and vegetables.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Butter Chicken and Naan (white chicken tikka with cashew creamy sauce) Vegetables, Cauli Rice",
+      "price": 13.5,
+      "description": "Chicken boneless thigh marinated and roasted, finished in chicken broth with cashew gravy.",
+      "simplified_description": "Marinated and roasted chicken thigh served with cashew gravy, vegetables, and cauliflower rice.",
+      "category": "Keto Meals",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "restaurant": "bikanerrestaurantandbanquet",
+  "parsed_at": "2026-02-06T01:03:40.072065",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "Paneer Burger",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with Indian cottage cheese as the main filling.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Noodle Burger",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger featuring noodles as the main filling.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with chicken as the main filling.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with spiced potato patty as the main filling.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wrap",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Wrap filled with chicken and other ingredients.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Wrap",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Wrap filled with Indian cottage cheese and other ingredients.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Sandwich with Chips",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Sandwich with Indian cottage cheese served with chips.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg Sandwich with Chips",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Sandwich with mixed vegetables served with chips.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Classic fried potato sticks.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peri Peri Fries",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spicy fried potato sticks with peri peri seasoning.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese Fries",
+      "price": 6.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried potato sticks topped with melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Indian flatbread stuffed with spiced potato filling.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

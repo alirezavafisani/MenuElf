@@ -1,0 +1,1033 @@
+{
+  "restaurant": "calgarymomohouse",
+  "parsed_at": "2026-02-06T01:32:49.127211",
+  "item_count": 86,
+  "items": [
+    {
+      "name": "Sikuti Sandheko",
+      "price": 21.8,
+      "description": "House dry aged goat, chili, roasted soybean pickle, flaked rice",
+      "category": "FOOD",
+      "simplified_description": "Dry aged goat with chili, roasted soybean pickle, and flaked rice.",
+      "dietary_info": [
+        "spicy",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll",
+      "price": 11.1,
+      "description": "Crispy appetizers filled with chopped vegetables, herbs, and spices, offering a delightful crunch. Served with house-made aachar.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy vegetable spring rolls served with house-made pickle.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll",
+      "price": 12.1,
+      "description": "Chicken spring rolls, served with momo house achar, and slaw creating a fusion of flavours and textures.",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken spring rolls served with achar and slaw.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THUKPA",
+      "price": 10.99,
+      "description": "Nepali noodle soup, assorted vegetables, authentic spices",
+      "category": "FOOD",
+      "simplified_description": "Nepali noodle soup with vegetables and spices.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THUKPA",
+      "price": 13.1,
+      "description": "Nepali noodle soup infused with chicken chunks, assorted vegetables, and authentic spices.",
+      "category": "FOOD",
+      "simplified_description": "Nepali noodle soup with chicken, vegetables, and spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THUKPA",
+      "price": 13.9,
+      "description": "Tender shrimp in Nepali noodle soup with assorted vegetables and authentic spices.",
+      "category": "FOOD",
+      "simplified_description": "Nepali noodle soup with shrimp, vegetables, and spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Momo Thupka",
+      "price": 14.9,
+      "description": "Juicy chicken momo served in a rich, spiced Himalayan noodle soup.",
+      "category": "FOOD",
+      "simplified_description": "Chicken dumplings in spiced Himalayan noodle soup.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Momo Thupka",
+      "price": 12.5,
+      "description": "Juicy vegetable momo served in a rich, spiced Himalayan noodle soup.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable dumplings in spiced Himalayan noodle soup.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken – Steamed Momo",
+      "price": 13.5,
+      "description": "Steamed Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Steamed chicken dumplings.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable – Steamed Momo",
+      "price": 11.5,
+      "description": "Steamed Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Steamed vegetable dumplings.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton – Steamed Momo",
+      "price": 15.5,
+      "description": "Steamed Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Steamed mutton dumplings.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer & Vegetable- Steamed Momo",
+      "price": 12.5,
+      "description": "Steamed Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Steamed dumplings with paneer and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken-Chili Momo",
+      "price": 14.5,
+      "description": "Chili Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken dumplings.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Vegetable – Chili Momo",
+      "price": 11.9,
+      "description": "Chili Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Spicy vegetable dumplings.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mutton-Chili Momo",
+      "price": 16.7,
+      "description": "Chili Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Spicy mutton dumplings.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Paneer & Vegetable – Chili Momo",
+      "price": 13.5,
+      "description": "Chili Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Spicy dumplings filled with paneer and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken – Timur Momo",
+      "price": 14.5,
+      "description": "Timur Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Dumplings filled with chicken and flavored with timur spice.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable – Timur Momo",
+      "price": 11.9,
+      "description": "Timur Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Dumplings filled with vegetables and timur spice.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton – Timur Momo",
+      "price": 16.7,
+      "description": "Timur Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Dumplings filled with mutton and timur spice.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer & Vegetable – Timur Momo",
+      "price": 13.5,
+      "description": "Timur Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Dumplings with paneer and vegetables flavored with timur spice.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken – Jhol Momo",
+      "price": 14.9,
+      "description": "Jhol Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken dumplings served in a spicy broth.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Vegetable – Jhol Momo",
+      "price": 11.99,
+      "description": "Jhol Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Vegetable dumplings served in a spicy broth.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mutton – Jhol Momo",
+      "price": 16.8,
+      "description": "Jhol Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Mutton dumplings served in a spicy broth.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Paneer & Vegetable – Jhol Momo",
+      "price": 13.7,
+      "description": "Jhol Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Paneer and vegetable dumplings in a spicy broth.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken – Fried Momo",
+      "price": 13.5,
+      "description": "Fried Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Fried dumplings filled with chicken.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable – Fried Momo",
+      "price": 11.5,
+      "description": "Fried Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Fried dumplings filled with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton – Fried Momo",
+      "price": 15.5,
+      "description": "Fried Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Fried dumplings filled with mutton.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer & Vegetable – Fried Momo",
+      "price": 12.5,
+      "description": "Fried Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Fried dumplings filled with paneer and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken – Tandoori Momo",
+      "price": 14.5,
+      "description": "Tandoori Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken dumplings cooked with tandoori spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Vegetable – Tandoori Momo",
+      "price": 11.9,
+      "description": "Nepali noodle soup, assorted vegetables, authentic spices",
+      "category": "FOOD",
+      "simplified_description": "Nepali noodle soup with vegetables and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton – Tandoori Momo",
+      "price": 16.7,
+      "description": "Tandoori Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Spiced mutton dumplings cooked in a tandoor.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer & Vegetable – Tandoori Momo",
+      "price": 13.5,
+      "description": "Tandoori Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Tandoori-cooked dumplings filled with paneer and vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN – SIZZLING MOMO",
+      "price": 14.9,
+      "description": "Sizzling Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Hot and sizzling chicken dumplings served fresh.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Sizzling"
+    },
+    {
+      "name": "Vegetable – SIZZLING MOMO",
+      "price": 11.99,
+      "description": "Sizzling Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Sizzling vegetable dumplings served hot.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Sizzling"
+    },
+    {
+      "name": "Mutton – SIZZLING MOMO",
+      "price": 16.8,
+      "description": "Sizzling Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Hot sizzling dumplings filled with mutton.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Sizzling"
+    },
+    {
+      "name": "Paneer & Vegetable – SIZZLING MOMO",
+      "price": 13.7,
+      "description": "Sizzling Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Sizzling dumplings with paneer and vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Sizzling"
+    },
+    {
+      "name": "Chicken – Malai Momo",
+      "price": 15.15,
+      "description": "Malai Momo Chicken",
+      "category": "FOOD",
+      "simplified_description": "Creamy chicken dumplings with a mild sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable – Malai Momo",
+      "price": 13.9,
+      "description": "Malai Momo Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Creamy vegetable dumplings in a mild sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton – Malai Momo",
+      "price": 17.15,
+      "description": "Malai Momo Mutton",
+      "category": "FOOD",
+      "simplified_description": "Creamy mutton dumplings with a mild sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer & Vegetable – Malai Momo",
+      "price": 14.9,
+      "description": "Malai Momo Paneer & Vegetable",
+      "category": "FOOD",
+      "simplified_description": "Creamy dumplings filled with paneer and vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Himalayan Butter Chicken",
+      "price": 20.8,
+      "description": "Served with Buttered Rice, and Himalayan Spiced Flat Bread.",
+      "category": "FOOD",
+      "simplified_description": "Butter chicken served with rice and spiced flatbread.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shank",
+      "price": 29.3,
+      "description": "Locally sourced - lambtastic farm braised lamb shank, ghee rice, yogurt",
+      "category": "FOOD",
+      "simplified_description": "Braised lamb shank served with ghee rice and yogurt.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Locally sourced"
+    },
+    {
+      "name": "Nepali Thali",
+      "price": 25.8,
+      "description": "Traditional Nepali Thali (Chicken) Chicken curry, rice, dal, and assorted traditional side dishes.",
+      "category": "FOOD",
+      "simplified_description": "Chicken curry with rice, dal, and traditional sides.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Traditional Nepali dish"
+    },
+    {
+      "name": "Nepali Thali",
+      "price": 26.8,
+      "description": "Traditional Nepali Thali (Goat) Tender Goat curry, rice, dal, and assorted traditional side dishes.",
+      "category": "FOOD",
+      "simplified_description": "Goat curry with rice, dal, and traditional sides.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Traditional Nepali dish"
+    },
+    {
+      "name": "Nepali Thali",
+      "price": 23.8,
+      "description": "Traditional Nepali Thali (Vegetable) Rice, dal, okra and potato curry, saag, fermented pickle",
+      "category": "FOOD",
+      "simplified_description": "Vegetable curry with rice, dal, and traditional sides.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Traditional Nepali dish"
+    },
+    {
+      "name": "Chowmein",
+      "price": 15.5,
+      "description": "Chowmein (Vegetable) Stir fried vegetables with chowmein and chili sauce",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with vegetables and chili sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chowmein",
+      "price": 16.99,
+      "description": "Chowmein Nepali (Chicken) Stir-fried noodles with tender chicken, vegetables, and aromatic spices, a popular Nepali street food delight.",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with chicken, vegetables, and spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chowmein",
+      "price": 16.3,
+      "description": "Chowmein (Sukti) Stir-fried noodles featuring dried and spiced meat (sukuti), creating a flavorful Nepali delight.",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with dried spiced meat.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chowmein",
+      "price": 17.5,
+      "description": "Nepali Shrimp Chowmein Stir-fried noodles with tender shrimp, vegetables, and aromatic spices, offering a delightful Nepali fusion.",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with shrimp, vegetables, and spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Momo & Chowmein",
+      "price": 16.9,
+      "description": "Momo & Chowmein (Non-Veg) Savory Nepali momos paired with stir-fried chowmein, a delicious combo.",
+      "category": "FOOD",
+      "simplified_description": "Nepali momos served with stir-fried chowmein noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Momo & Chowmein",
+      "price": 15.55,
+      "description": "Momo & Chowmein (Vegetable) Flavorful momos and stir-fried chowmein with assorted vegetables, a delightful vegetarian combo.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable momos served with stir-fried chowmein noodles.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice",
+      "price": 12.99,
+      "description": "Fried Rice (Vegetable) Wok-tossed rice with a medley of fresh vegetables, creating a delicious and wholesome dish.",
+      "category": "FOOD",
+      "simplified_description": "Wok-fried rice with fresh vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice",
+      "price": 14.99,
+      "description": "Fried Rice (Chicken) Wok-tossed rice infused with tender chicken, vegetables, and aromatic spices, a flavorful delight.",
+      "category": "FOOD",
+      "simplified_description": "Wok-fried rice with chicken, vegetables, and spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Manchurian",
+      "price": 16.5,
+      "description": "Crispy vegetable balls tossed in tangy and spicy sauce served with fried rice.",
+      "category": "FOOD",
+      "simplified_description": "Crispy vegetable balls in spicy sauce with fried rice.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Momo",
+      "price": 17.99,
+      "description": "Timur Momo, Tandoori Momo, Chili Momo",
+      "category": "FOOD",
+      "simplified_description": "Chicken momos with timur, tandoori, and chili flavors.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Vegetable Momo",
+      "price": 15.99,
+      "description": "Timur Momo, Tandoori Momo, Chili Momo",
+      "category": "FOOD",
+      "simplified_description": "Vegetable momos with timur, tandoori, and chili flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Kheer (Rice Pudding) & Gulab Jamun",
+      "price": 7.5,
+      "description": "Sweet Dumpling in sugar syrup with rice pudding",
+      "category": "DESSERT",
+      "simplified_description": "Sweet dumplings in syrup served with rice pudding.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacardi White",
+      "price": 6.2,
+      "description": "Product of Puerto Rico (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "White rum from Puerto Rico, 1 oz serving.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Monk Supreme",
+      "price": 5.7,
+      "description": "Product of Ghaziabad, Uttar Pradesh, India (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "Dark rum from India, 1 oz serving.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgan Gold",
+      "price": 6.2,
+      "description": "Product of England (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "Gold rum from England, 1 oz serving.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Royal Jamaican",
+      "price": 7.7,
+      "description": "Product of Parish of Jamaica (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "A 1 oz Jamaican spirit from the Parish of Jamaica.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HENNESY VSOP",
+      "price": 12.7,
+      "description": "French cognac (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "A 1 oz serving of French cognac.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OLMECA GOLD",
+      "price": 7.7,
+      "description": "Sweet taste with a hint of smoke (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "A 1 oz spirit with sweet and smoky flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "REHILETE PAPALOTE BLANCO",
+      "price": 7.7,
+      "description": "Notes of Green Agave, Cherry, Cucumber, Anise, Lemongrass (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "A 1 oz spirit with flavors of agave, cherry, and herbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PATRON RESPOSADO",
+      "price": 10.07,
+      "description": "Clean taste with a hint of oak, citrus and honey (1 oz)",
+      "category": "DRINK",
+      "simplified_description": "A 1 oz spirit with oak, citrus, and honey notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MANGO SHAKE",
+      "price": 5.5,
+      "description": "Mango blended with milk",
+      "category": "DRINK",
+      "simplified_description": "A creamy mango and milk blended drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THUMPS UP",
+      "price": 3.5,
+      "description": "Indian Multinational Cola",
+      "category": "DRINK",
+      "simplified_description": "A cola-flavored soda from India.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ORANGE JUICE",
+      "price": 3.5,
+      "description": "Diet available too",
+      "category": "DRINK",
+      "simplified_description": "Fresh orange juice with a diet option.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GINGER BEER",
+      "price": 3.5,
+      "description": "Ginger non-alcoholic beer",
+      "category": "DRINK",
+      "simplified_description": "A non-alcoholic ginger-flavored beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Limca",
+      "price": 3.5,
+      "description": "Indian Multinational Lemon/Lime flavour soda",
+      "category": "DRINK",
+      "simplified_description": "A lemon-lime flavored soda from India.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soda",
+      "price": 2.2,
+      "description": "Coke, Diet Coke, Pepsi, Diet Pepsi, Ginger Ale, Sprite, Crush",
+      "category": "DRINK",
+      "simplified_description": "Various popular soda options including cola and lemon-lime.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemonade",
+      "price": 4.4,
+      "description": "Lemon, sweetener, lemon juice",
+      "category": "DRINK",
+      "simplified_description": "A sweetened lemon juice drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CALGARY MOMO CAESARS",
+      "price": 9.9,
+      "description": "Vodka, Worcestershire, Clamato, Celery Salt",
+      "category": "DRINK",
+      "simplified_description": "A cocktail with vodka, Clamato, and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JIMBU OLD FASHION",
+      "price": 9.9,
+      "description": "Bourbon, Jimbu Syrup, Cardamom, Bitters, Angostura",
+      "category": "DRINK",
+      "simplified_description": "A bourbon cocktail with herbal and spice flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TIMMUR MULE",
+      "price": 9.5,
+      "description": "Timmur infused Vodka, Freshly Squeezed Lime, Ginger Beer",
+      "category": "DRINK",
+      "simplified_description": "A vodka cocktail with lime and ginger beer.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CHERRY BLOSSOM ICED TEA",
+      "price": 9.9,
+      "description": "Vodka, Gin, Cointreau, Tequila Blanco, Yuzu Juice and Cherry Syrup",
+      "category": "DRINK",
+      "simplified_description": "A mixed alcoholic drink with vodka, gin, tequila, yuzu juice, and cherry syrup.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PURPLE LYCHEE",
+      "price": 9.9,
+      "description": "Empress Gin, Lime Juice, Syrup, and Lychee",
+      "category": "DRINK",
+      "simplified_description": "A cocktail with gin, lime juice, syrup, and lychee fruit.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRAPEFRUIT",
+      "price": 9.9,
+      "description": "Aperol, Gin, Grapefruit Juice, Sauvignon Blanc, Soda Water",
+      "category": "DRINK",
+      "simplified_description": "A refreshing cocktail with Aperol, gin, grapefruit juice, wine, and soda.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MOJITO",
+      "price": 5.0,
+      "description": "Gin, Mint, Lime, Syrup and Sparkling Water",
+      "category": "DRINK",
+      "simplified_description": "A classic mojito with gin, mint, lime, syrup, and sparkling water.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CARLSBERG",
+      "price": 6.7,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "A 330ml bottle of Carlsberg beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HEINEKEN (330ML)",
+      "price": 6.7,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "A 330ml bottle of Heineken beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KINGFISHER LAGER",
+      "price": 7.5,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "A 330ml bottle of Kingfisher Lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TUBORG",
+      "price": 7.6,
+      "description": "500ml",
+      "category": "DRINK",
+      "simplified_description": "A 500ml bottle of Tuborg beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDWEISER",
+      "price": 6.7,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "A 330ml bottle of Budweiser beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOLSON CANADIAN",
+      "price": 6.2,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "A 330ml bottle of Molson Canadian beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA",
+      "price": 6.7,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "A 330ml bottle of Corona beer.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

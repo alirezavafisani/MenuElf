@@ -1,0 +1,493 @@
+{
+  "restaurant": "avatarapizza",
+  "parsed_at": "2026-02-06T00:50:50.493101",
+  "item_count": 43,
+  "items": [
+    {
+      "name": "PICASSO",
+      "price": 28.79,
+      "description": "In House made Organic Tomato-Pesto Sauce, Sun-dried Tomatoes, Mozzarella Cheese, Sustainably Grown Green Peppers, Artichokes, Feta Cheese, and Organic Pine Nuts. Chefs Advice: Add Dry Cured Sausage for $3.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato-pesto sauce, sun-dried tomatoes, cheeses, peppers, artichokes, and pine nuts.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ARISTOTLE",
+      "price": 28.79,
+      "description": "Tomato Sauce, Organic Spinach, Mozzarella Cheese, Sustainably Grown Green Peppers, Organic Red Onions, Green Olives, Feta Cheese, In House made Bruschetta. Chefs Advice: Add Dry Cured Pepperoni for $3.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, spinach, cheeses, peppers, onions, olives, and bruschetta.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BEYOND MEAT PIZZA",
+      "price": 29.9,
+      "description": "Tomato Sauce, Mozzarella Cheese, Feta Cheese, Organic Lettuce Mix, Sustainably Grown Green Peppers, Marinated Organic Tomatoes, Organic Red Onions, and Plant Based \"Beyond Meat\". Chefs Advice: Add Organic Basil for $2.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, cheeses, veggies, and plant-based Beyond Meat.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CRUSTY COWBOY",
+      "price": 28.79,
+      "description": "Chili-Lime BBQ Sauce, Mozzarella Cheese, Cheddar Cheese, Mushrooms, Diced Pineapple in juice, In House made Bruschetta, Organic Honey Drizzle, and Organic Crushed Cashews. Chefs advice: Add Hormone Free Bacon for $3.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with chili-lime BBQ sauce, cheeses, mushrooms, pineapple, bruschetta, honey, and cashews.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SHEIKH",
+      "price": 24.79,
+      "description": "Organic Squash Hummus, Mozzarella Cheese, Mushrooms, Feta Cheese, In House made Bruschetta, Banana Peppers, Organic Crushed Falafel Chips. Chefs advice: Add Hormone Free Chicken for $3.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with squash hummus, cheeses, mushrooms, bruschetta, banana peppers, and falafel chips.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BUDDHA",
+      "price": 28.79,
+      "description": "Spicy Thai Red Curry Sauce, Mozzarella Cheese, Mushrooms, Sustainably Grown Green Peppers, Diced Pineapple in juice, and Crushed Organic Cashews. Chefs advice: Add Hormone Free Chicken for $3.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with spicy Thai red curry sauce, cheese, mushrooms, peppers, pineapple, and cashews.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "GURU",
+      "price": 28.79,
+      "description": "Butter Chicken Sauce (Contains Dairy), Mozzarella Cheese, Mushrooms, Sustainably Grown Green Peppers, Organic RedOnions, Mango Chutney Drizzle, and Cilantro. Chefs advice: Add Hormone Free Chicken for $3.99",
+      "category": "FOOD",
+      "simplified_description": "Pizza with butter chicken sauce, cheese, mushrooms, peppers, onions, mango chutney, and cilantro.",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ITALIAN STALLION",
+      "price": 28.79,
+      "description": "Tomato Sauce, Mozzarella Cheese, Mushrooms, Green Olives, Banana Peppers, In house made Bruschetta, and fresh Organic\nBasil. Chefs advice: Add Dry Cured Salami for $3.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, cheese, mushrooms, olives, banana peppers, bruschetta, and basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAUI",
+      "price": 28.79,
+      "description": "Tomato Sauce, Hormone Free Ham, Mozzarella Cheese, Diced Pineapple in juice, and Hormone Free Bacon.\nChefs advice: Add Mushrooms for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, ham, cheese, pineapple, and bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NEW YORKER",
+      "price": 26.5,
+      "description": "Tomato Sauce, Mozzarella Cheese, Dry Cured Pepperoni, and Mushrooms.\nChefs advice: Add Organic Basil for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, cheese, pepperoni, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "T-REX",
+      "price": 29.9,
+      "description": "Tomato Sauce, Hormone Free Ham, Dry Cured Salami, Mozzarella Cheese, Dry Cured Pepperoni, and Hormone Free\nBacon. Chefs advice: Add Banana Peppers for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, ham, salami, cheese, pepperoni, and bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPICY AMIGO",
+      "price": 28.79,
+      "description": "House-made Baja Chipotle Sauce, Mozzarella Cheese, Dry Cured Prosciutto, Organic Cherry Tomatoes, Diced Pineapple in juice, and Banana Peppers.\nChefs advice: Add Basil for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Pizza with chipotle sauce, cheese, prosciutto, cherry tomatoes, pineapple, and banana peppers.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "TACO FIESTA",
+      "price": 28.79,
+      "description": "House-made Taco Tomato Sauce, Mozzarella Cheese, Al Pastor Taco Meat (pork), Caramelized Onions, Diced Pineapple\nin juice, Spicy Avocado drizzle, and Fresh Cilantro.\nChefs advice: Add Banana Peppers for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Pizza with taco sauce, cheese, pork, onions, pineapple, spicy avocado, and cilantro.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CHEESE",
+      "price": 22.25,
+      "description": "Tomato Sauce, and Mozzarella Cheese. Chefs advice: Add Bruschetta for $2.99\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Simple pizza with tomato sauce and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 25.5,
+      "description": "Tomato Sauce, and Mozzarella Cheese, and Organic Local Basil. Chefs advice: Add Bruschetta for $2.25\n(VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POPEYE SPINACH SALAD",
+      "price": 24.99,
+      "description": "Organic Spinach, Sun-dried Tomatoes, Sustainably Grown Green Peppers Organic Red Onions, Green Olives, Artichokes, Feta Cheese, Organic Pine Nuts, Balsamic Vinaigrette (On the side). Chefs advice: Add Hormone Free Bacon or Chicken for $3.99",
+      "category": "FOOD",
+      "simplified_description": "Spinach salad with sun-dried tomatoes, olives, feta, pine nuts, and balsamic vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ORGANIC SPRING MIX SALAD",
+      "price": 24.99,
+      "description": "Organic Spring Greens mixed with Sustainably Grown Cucumber. Finished with a Balsamic Vinaigrette, Organic Cashews, Feta Cheese, and Organic Honey. Chefs advice: Add Hormone Free Bacon or Chicken for $3.99",
+      "category": "FOOD",
+      "simplified_description": "Spring greens salad with cucumber, cashews, feta, honey, and balsamic vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SALAD",
+      "price": 24.99,
+      "description": "Organic Cherry Tomatoes, Sustainably Grown Living Multileaf Lettuce, Kalamata Olives infused with Red Wine Vinegar, Sustainably Grown Cucumber, Greek Feta Cheese, Organic Red Onions and Organic Green Peppers. Finished with house-made Extra Virgin Olive Oil dressing. Chefs advice: Add Hormone Free Prosciutto or Chicken for $3.99",
+      "category": "FOOD",
+      "simplified_description": "Greek salad with tomatoes, olives, cucumber, feta, onions, and olive oil dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 24.99,
+      "description": "Sustainably Grown Living Multileaf Lettuce, Organic Cherry Tomatoes, House-made Croutons, and Hormone Free Crispy Prosciutto Bits. Finished with Freshly grated Asiago, and our Signature Peppercorn Caesar Dressing. Chefs advice: Add Chicken for $3.99",
+      "category": "FOOD",
+      "simplified_description": "Lettuce salad with tomatoes, croutons, prosciutto, asiago cheese, and Caesar dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ORGANIC VEGGIE PLATTER",
+      "price": 24.99,
+      "description": "Organic Vegetables (Carrots, Cucumber, and Cherry Tomatoes) served with Ranch Dip.",
+      "category": "FOOD",
+      "simplified_description": "Organic carrots, cucumber, and cherry tomatoes served with ranch dip.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HORMONE FREE CHICKEN FINGERS",
+      "price": 16.99,
+      "description": "Fire-Roasted, Gluten Free, Hormone Free, Breaded ChickenBreast Strips served with Sweet Plum Sauce. Chefs advice: Add a Side of Ranch for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Gluten-free breaded chicken strips served with sweet plum sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GOURMET CHEESE STICKS",
+      "price": 24.98,
+      "description": "Crunchy Bread Sticks covered with Hormone Free Mozzarella Cheese, our own Spice Blend, and finished with Garlic Parmesan. Served with House Marinara Sauce. Chefs advice: Add a Creamy Asiago Ranch for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Crunchy bread sticks with mozzarella, spices, garlic parmesan, and marinara sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PORK BACK RIBS",
+      "price": 27.49,
+      "description": "Slow Braised and Fire Roasted. You get a Full or a Half Rack of St. Louis Style Pork Ribs (Bone-in). Finished with Lemon Pepper and Coarse Seasoning. Served with a side of Ranch. Yes, they are Hormone Free! \nChefs advice: Add a side of Chilli Lime BBQ for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Slow braised pork ribs with lemon pepper seasoning and ranch on the side.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "SMOKED TURKEY LEGS",
+      "price": 19.75,
+      "description": "Canadian Grown 100% Gluten Free, Naturally-Smoked Turkey Leg (Hormone Free) served hot \nChefs advice: Add a Side of Ranch for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Naturally smoked, gluten-free turkey leg served hot.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ORGANIC TORTILLA CHIPS",
+      "price": 23.98,
+      "description": "Fire-Roasted Organic Tortilla Corn Chips with house made Organic Squash Hummus Dip.",
+      "category": "FOOD",
+      "simplified_description": "Organic corn tortilla chips served with organic squash hummus dip.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DAVINCI FLATBREAD",
+      "price": 22.5,
+      "description": "Fire-Roasted Flatbread topped with Oil, Garlic Parmesan, In House made Bruschetta, and Feta Cheese.\nChefs advice: Add Organic Basil for $2.99",
+      "category": "FOOD",
+      "simplified_description": "Flatbread with oil, garlic parmesan, bruschetta, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAC & CHEESE",
+      "price": 17.99,
+      "description": "Elbow Macaroni pasta served with a Mozza-cheddar Bechamel Sauce, and Infused with Italian Herbs. Finished with Hormone Free Bacon Bits. Chefs advice: Add Chicken for $3.99\n(Vegetarian & VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Macaroni with mozzarella-cheddar sauce and bacon bits, vegetarian and vegan options available.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA",
+      "price": 17.99,
+      "description": "A Classic Recipe of Bolognese Sauce layered with Mozzarella, Ricotta Cheese, and Fusilli Pasta. Atop a fresh layer of added Mozzarella Cheese with freshly grated Parmiggiano. Finished with a pinch of Oregano. Chefs advice: Add Chicken for $3.99\n(Vegetarian & VEGAN Option Available)",
+      "category": "FOOD",
+      "simplified_description": "Classic lasagna with bolognese, mozzarella, ricotta, and parmesan cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY-CHAMPAGNE CHEESECAKE",
+      "price": 6.99,
+      "description": "Handmade Gluten Free Vanilla Cheesecake topped with exquisite Champagne Mousse, Strawberry Swirls and Dark Chocolate",
+      "category": "DESSERT",
+      "simplified_description": "Gluten-free vanilla cheesecake topped with champagne mousse, strawberries, and dark chocolate.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TIRAMISU",
+      "price": 6.99,
+      "description": "Two layers of vanilla cake soaked in espresso sugar. Filled and covered with a tiramisu mousse and dusted with cocoa. Finished with a frozen gooseberry over top. 100% Gluten Free.",
+      "category": "DESSERT",
+      "simplified_description": "Gluten-free vanilla cake soaked in espresso with tiramisu mousse and cocoa dusting.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHOCOLATE CHEESECAKE",
+      "price": 5.99,
+      "description": "Indulgent, Rich, Creamy and Smooth. Chocolate Cheesecake made with Dairy Free, Gluten Free, Soy Free, and Vegan Ingredients. Topped with a frozen Gooseberry.",
+      "category": "DESSERT",
+      "simplified_description": "Rich chocolate cheesecake made with vegan, dairy-free, and gluten-free ingredients topped with gooseberry.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY CHEESECAKE",
+      "price": 5.99,
+      "description": "Sweet and Natural Strawberry Cheesecake. Made with Dairy Free, Gluten Free, Soy Free, and Vegan Ingredients. Topped with a frozen Gooseberry.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet strawberry cheesecake made with vegan, dairy-free, and gluten-free ingredients topped with gooseberry.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAKE AU CHOCOLAT",
+      "price": 6.99,
+      "description": "Hand crafted decadent chocolate cake made with 100%Plant-based, vegan ingredients. Gluten Free, Soy Free, and Vegan.",
+      "category": "DESSERT",
+      "simplified_description": "Decadent vegan chocolate cake made with gluten-free and soy-free ingredients.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BREAD",
+      "price": 13.99,
+      "description": "Start with a Multigrain Gluten Free Flatbread",
+      "category": "OTHER",
+      "simplified_description": "Multigrain flatbread that is gluten-free.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAUCE",
+      "price": 3.49,
+      "description": "Butter Chicken, Chili Lime BBQ, Organic Squash Hummus, Tomato, Organic Tomato Pesto, Spicy Thai Red Curry, Spicy Taco, Spicy Baja Chipotle Sauce, Olive Oil.",
+      "category": "OTHER",
+      "simplified_description": "Variety of sauces including spicy and non-spicy options.",
+      "dietary_info": [],
+      "other_info": "Includes spicy options"
+    },
+    {
+      "name": "CHEESE",
+      "price": 5.75,
+      "description": "Cheddar, Feta, Mozzarella, Vegan Mozzarella (Lactose & Dairy Free), Goat Cheese",
+      "category": "OTHER",
+      "simplified_description": "Selection of cheeses including vegan mozzarella.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PROTEIN",
+      "price": 4.0,
+      "description": "Hormone Free Bacon, Hormone Free Chicken, Hormone Free Real Ham, Hormone Free Prosciutto, Dry- Cured Pepperoni, Dry-Cured Salami, Hormone Free Italian Sausage, Hormone Free Pastor Taco Meat ($4.50 Pork), Plant Based Beyond Meat ($4.50).",
+      "category": "OTHER",
+      "simplified_description": "Various hormone-free meats and plant-based Beyond Meat option.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ADD VEGGIES",
+      "price": 2.99,
+      "description": "Artichokes, GMO Free Banana Peppers, Organic Basil, Bruschetta, Organic Crushed Cashews, Natural Diced Pineapple, Green Olives, Mushrooms, Sustainably grown Green Peppers, Organic Red Onions, Caramelized Red Onions, Organic Spinach, Sundried Tomatoes, Cilantro, Kalamata Olives, Pine Nuts.",
+      "category": "OTHER",
+      "simplified_description": "Assorted fresh vegetables and nuts to add to your dish.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NON-ALCOHOLIC DRINKS",
+      "price": null,
+      "description": "Regular Can Pop, Boylans Handcrafted Pop, Apple & Orange Juice, Organic Rise Kombucha, Perrier Natural Mineral Water, Natural Spring Water, Red Bull Energy Drink & Guayaki Organic Energy Drink.",
+      "category": "DRINK",
+      "simplified_description": "Variety of non-alcoholic beverages including juices and energy drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEER",
+      "price": null,
+      "description": "Alexander Keith's IPA (355 ml)\nBig Rock Grasshopper Ale (355 ml)\nCorona (355 ml)\nHeineken (330 ml)\nSteam Whistle Pilsner (341 ml)\nBudweiser (355 ml)\nDeschutes Black Butte Porter (355 ml)\nGuiness Draught (330 ml)\nGLutengberg (Gluten Free) (473 ml)",
+      "category": "DRINK",
+      "simplified_description": "Selection of beers including a gluten-free option.",
+      "dietary_info": [],
+      "other_info": "Includes gluten-free beer"
+    },
+    {
+      "name": "CIDER",
+      "price": null,
+      "description": "Strongbow Cider (330 ml)",
+      "category": "DRINK",
+      "simplified_description": "Strongbow brand cider beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RED WINE",
+      "price": null,
+      "description": "Casillero del Diablo Cabernet Sauvignon\nTrapiche Malbec Reserve\nSumerhill Organic Merlot 2016\nArceno Chianti Classico",
+      "category": "DRINK",
+      "simplified_description": "Variety of red wines from different brands.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE WINE",
+      "price": null,
+      "description": "Matua Sauvignon Blanc Hawk's Bay\nJacob's Creek Moscato\nSegura Viudas Reserva (Sparkling)\nMission Hill Reserve Chardonnay",
+      "category": "DRINK",
+      "simplified_description": "Selection of white and sparkling wines.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,337 @@
+{
+  "restaurant": "chicagodeepdishpizza",
+  "parsed_at": "2026-02-06T01:46:39.411302",
+  "item_count": 30,
+  "items": [
+    {
+      "name": "Canadian",
+      "price": 23.61,
+      "description": "Pepperoni, Back Bacon & Mushrooms",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni, bacon, and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Classic",
+      "price": 24.48,
+      "description": "Ham, Pineapple, Mushrooms & Onions",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with ham, pineapple, mushrooms, and onions.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Club",
+      "price": 26.0,
+      "description": "Chicken, Onions & Tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with chicken, onions, and tomatoes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pretty Lady",
+      "price": 26.0,
+      "description": "Pepperoni, Mushrooms, Back Bacon, Beef, Green Peppers, Olives & Onions.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni, bacon, beef, veggies, and olives.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Earth's Harvest",
+      "price": 24.81,
+      "description": "Mushrooms, Green Peppers, Tomatoes, Olives & Onions.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable pizza with mushrooms, peppers, tomatoes, olives, and onions.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mr. Universe",
+      "price": 27.18,
+      "description": "Pepperoni, Salami, Mushrooms, Beef, Ham, Back Bacon, Onions, Green Peppers & Tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Meat and veggie pizza with pepperoni, salami, beef, and more.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Galaxy",
+      "price": 27.84,
+      "description": "Pepperoni, Salami, Mushrooms, Beef, Ham, Back Bacon, Onions, Green Peppers, Tomatoes, Shrimp, Black Olives & Pineapple.",
+      "category": "FOOD",
+      "simplified_description": "Loaded pizza with meats, shrimp, veggies, olives, and pineapple.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Ocean",
+      "price": 27.07,
+      "description": "Shrimp & Anchovies.",
+      "category": "FOOD",
+      "simplified_description": "Seafood pizza with shrimp and anchovies.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Super Hot",
+      "price": 25.05,
+      "description": "Hot Chili Peppers, Pepperoni, Salami, Beef & Back Bacon.",
+      "category": "FOOD",
+      "simplified_description": "Spicy pizza with hot chili peppers and assorted meats.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mexicana",
+      "price": 25.05,
+      "description": "Beef, Tomatoes, Green Peppers, Jalapeno Peppers, Onions & Hot Sauce.",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef pizza with jalapenos, peppers, and hot sauce.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "All Meat Toppings",
+      "price": 25.05,
+      "description": "Pepperoni, Salami, Beef, Ham & Back Bacon.",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with pepperoni, salami, beef, ham, and bacon.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Zeus",
+      "price": 27.24,
+      "description": "Beef, Tomatoes, Onions, Black Olives & Feta Cheese.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with beef, veggies, olives, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate Pepperoni",
+      "price": 25.29,
+      "description": "Pepperoni & Dry Cured Pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni pizza with two types of pepperoni.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Pizza",
+      "price": 27.84,
+      "description": "Beef Donair meat, Tomatoes, Onions & Sweet Sauce",
+      "category": "FOOD",
+      "simplified_description": "Pizza with beef donair, tomatoes, onions, and sweet sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Spaghetti with Meat Sauce & Garlic Toast",
+      "price": 13.79,
+      "description": "For One",
+      "category": "FOOD",
+      "simplified_description": "Single serving of baked spaghetti with meat sauce and garlic toast.",
+      "dietary_info": [],
+      "other_info": "For One"
+    },
+    {
+      "name": "Baked Lasagna with Meat Sauce & Garlic Toast",
+      "price": 13.79,
+      "description": "For One",
+      "category": "FOOD",
+      "simplified_description": "Lasagna with meat sauce served with garlic toast for one person.",
+      "dietary_info": [],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Buffalo Wings",
+      "price": 12.64,
+      "description": "For 10 Pcs.",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of spicy buffalo chicken wings.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves ten pieces"
+    },
+    {
+      "name": "Honey Garlic Wings",
+      "price": 12.64,
+      "description": "For 10 Pcs.",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of chicken wings with honey garlic sauce.",
+      "dietary_info": [],
+      "other_info": "Serves ten pieces"
+    },
+    {
+      "name": "Salt & Pepper Wings",
+      "price": 12.64,
+      "description": "For 10 Pcs.",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of chicken wings seasoned with salt and pepper.",
+      "dietary_info": [],
+      "other_info": "Serves ten pieces"
+    },
+    {
+      "name": "BBQ Wings",
+      "price": 12.64,
+      "description": "For 10 Pcs.",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of chicken wings with BBQ sauce.",
+      "dietary_info": [],
+      "other_info": "Serves ten pieces"
+    },
+    {
+      "name": "Greek Salad with Garlic Toast",
+      "price": 10.34,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fresh Greek salad served with garlic toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad with Garlic Toast",
+      "price": 10.34,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Classic Caesar salad served with garlic toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tossed Salad with Garlic Toast",
+      "price": 10.34,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Mixed tossed salad served with garlic toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Breadsticks",
+      "price": 11.49,
+      "description": "For 16 Sticks",
+      "category": "FOOD",
+      "simplified_description": "Sixteen garlic-flavored breadsticks.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves sixteen sticks"
+    },
+    {
+      "name": "Cheesy Breadsticks",
+      "price": 13.79,
+      "description": "For 16 Sticks",
+      "category": "FOOD",
+      "simplified_description": "Sixteen breadsticks topped with melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves sixteen sticks"
+    },
+    {
+      "name": "Breadsticks Supreme",
+      "price": 14.94,
+      "description": "For 16 Sticks",
+      "category": "FOOD",
+      "simplified_description": "Sixteen breadsticks with assorted toppings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves sixteen sticks"
+    },
+    {
+      "name": "Cheese Toast",
+      "price": 3.39,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Toast topped with melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 2.05,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Toast flavored with garlic butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "8\" Callebaut Chocolate Chunk Cookie",
+      "price": 9.19,
+      "description": "For One",
+      "category": "FOOD",
+      "simplified_description": "Large 8-inch chocolate chunk cookie for one.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Dips",
+      "price": 1.0,
+      "description": "Ranch l Creamy Garlic l Cheddar Chipotle",
+      "category": "OTHER",
+      "simplified_description": "Choice of ranch, creamy garlic, or cheddar chipotle dips.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

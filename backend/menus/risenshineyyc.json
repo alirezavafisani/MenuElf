@@ -1,0 +1,280 @@
+{
+  "restaurant": "risenshineyyc",
+  "parsed_at": "2025-12-25T01:07:28.285750",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "Beef Tapa",
+      "price": null,
+      "description": "House marinated beef strips, served with garlic rice, fried egg and mango salsa.",
+      "simplified_description": "A traditional Filipino dish featuring marinated beef.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Tocino",
+      "price": null,
+      "description": "Pan fried sugar-cured pork, served with garlic rice, fried egg and mango salsa.",
+      "simplified_description": "A sweet and savory Filipino breakfast dish made with pork.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Longanisa",
+      "price": null,
+      "description": "Sweet skinless sausage made of ground pork and served with garlic rice, fried egg and mango salsa.",
+      "simplified_description": "A sweet, garlicky pork sausage popular in Filipino cuisine.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daing na Bangus",
+      "price": null,
+      "description": "Milkfish house marinated with vinegar and spices, served with garlic rice, fried egg and mango salsa.",
+      "simplified_description": "A seasoned milkfish dish from the Philippines.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Longga Breakfast Sandwich",
+      "price": null,
+      "description": "Double longanisa patty, cheddar cheese, tomato, avocado, on croissant with spicy garlic aioli. Served with hashbrown or salad.",
+      "simplified_description": "A savory sandwich with pork sausage on a croissant.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Sisig",
+      "price": null,
+      "description": "Spicy crispy pork belly with red and green pepper, red onion, tossed with mayo and served with garlic rice and fried egg.",
+      "simplified_description": "A spicy, crunchy pork dish served with rice.",
+      "category": "Filipino Inspired",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ube French Toast",
+      "price": null,
+      "description": "Ube white toast dipped in milk, eggs, nutmeg and cinnamon mixture with ube cream cheese and drizzled with condensed milk.",
+      "simplified_description": "A sweet French toast featuring ube, a type of purple yam from the Philippines.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tapa Poutine",
+      "price": null,
+      "description": "All time favorite BEEF TAPA, hashbrowns, curd cheese, 2 poached eggs, hollandaise sauce and choice of toast.",
+      "simplified_description": "A Filipino-Canadian fusion dish combining beef tapa and poutine.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ensaymada Waffle",
+      "price": null,
+      "description": "Filipino inspired pastry topped with sweet cream cheese, and grated cheese.",
+      "simplified_description": "A sweet, fluffy pastry served as a waffle.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buko Pandan Pancake",
+      "price": null,
+      "description": "Pandan flavored pancake with sweetened coconut string.",
+      "simplified_description": "A pancake flavored with pandan, a tropical plant.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sunrise Steak",
+      "price": null,
+      "description": "Grilled 6oz-7oz sirloin steak, served with garlic rice or hashbrown, fried egg, mango salsa and gravy.",
+      "simplified_description": "A hearty steak breakfast with classic sides.",
+      "category": "Filipino Inspired",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Breakfast",
+      "price": null,
+      "description": "Choice of bacon, maple sausage, apple sausage or ham, 2 fried eggs, hashbrowns and choice of toast or classic pancake.",
+      "simplified_description": "A traditional breakfast plate with various meat options.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Toast",
+      "price": null,
+      "description": "White toast dipped in the richness of milk, eggs, nutmeg and cinnamon, topped with cream cheese. Served with fruits, whipped cream and maple syrup.",
+      "simplified_description": "Classic French toast served with toppings.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loco Moco",
+      "price": null,
+      "description": "Grilled hamburger patty over garlic Hawaiian rice, caramelized mushroom, onions, topped with bacon jam, gravy and 2 fried eggs.",
+      "simplified_description": "A Hawaiian dish featuring rice, a burger patty, and gravy.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Steak Poutine",
+      "price": null,
+      "description": "Sliced steak, mushrooms, red pepper, onion, smothered with alfredo sauce, hashbrowns, curd cheese, 2 poached eggs, hollandaise sauce and choice of toast.",
+      "simplified_description": "A poutine variation using steak and Alfredo sauce.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Poutine",
+      "price": null,
+      "description": "Hashbrowns, choice of meat, curd cheese, 2 poached eggs, hollandaise sauce and choice of toast.",
+      "simplified_description": "A hearty breakfast poutine option.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Steak Benedict",
+      "price": null,
+      "description": "Sliced steak, mushroom, onions, red pepper and smothered with alfredo sauce, on a homemade waffle, topped with 2 soft poached eggs, hollandaise sauce, hashbrowns and fruits.",
+      "simplified_description": "A creative twist on eggs Benedict with steak.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Benedict",
+      "price": null,
+      "description": "Shaved ham on a waffle, 2 soft poached eggs, hollandaise sauce, hashbrowns and fruits.",
+      "simplified_description": "A traditional eggs Benedict served on a waffle.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Steak Benedict",
+      "price": null,
+      "description": "Spicy horseradish steak, mushrooms, onions, on a homemade waffle, topped with 2 soft poached eggs, hollandaise sauce, hashbrowns and fruits.",
+      "simplified_description": "A spicy take on traditional eggs Benedict.",
+      "category": "The Classics",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Benedict",
+      "price": null,
+      "description": "Grilled asparagus, tomato, mushroom, onion, spinach on a homemade waffle, topped with 2 soft poached eggs, hollandaise sauce, hashbrowns and fruits.",
+      "simplified_description": "A vegetarian version of the eggs Benedict.",
+      "category": "The Classics",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Farmers Omelette",
+      "price": null,
+      "description": "Chopped chorizo, ham, bacon, onions, tomatoes, red and green peppers mushrooms and mixed cheese, served with hashbrowns or salad and choice of toast.",
+      "simplified_description": "A hearty omelette packed with ingredients.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat Omelete",
+      "price": null,
+      "description": "Ham, chorizo, bacon, maple sausage, mixed cheese, served with hashbrowns or salad and choice of toast.",
+      "simplified_description": "An omelette loaded with various meats.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Omelete",
+      "price": null,
+      "description": "Grilled asparagus, red and green peppers, onions, mushroom, tomatoes, spinach and mixed cheese, served with hashbrowns or salad, and choice of toast.",
+      "simplified_description": "A vegetable-packed omelette option.",
+      "category": "The Classics",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Cheese Omelete",
+      "price": null,
+      "description": "Chopped ham, mixed cheese, served with hashbrowns or salad and choice of toast.",
+      "simplified_description": "A simple omelette with ham and cheese.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Toast",
+      "price": null,
+      "description": "Two slices of multigrain bread, fresh avocado, tomatoes, toasted almonds, 2 fried eggs and choice of salad.",
+      "simplified_description": "A healthy breakfast option featuring avocado.",
+      "category": "The Classics",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chorizo Breakfast Wrap",
+      "price": null,
+      "description": "Spicy chorizo, red onion, jalapeno, lettuce, tomato, scrambled eggs with green onion, mixed cheese, ranch, wrapped in whole wheat tortilla. Served with hashbrowns or salad.",
+      "simplified_description": "A spicy breakfast wrap with chorizo.",
+      "category": "The Classics",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BLT Egg Wrap",
+      "price": null,
+      "description": "Bacon, lettuce, tomato, scrambled eggs, mayo, mixed cheese, wrapped in whole wheat tortilla. Served with hashbrowns or salad.",
+      "simplified_description": "A breakfast wrap featuring classic BLT ingredients.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Nutella Waffle",
+      "price": null,
+      "description": "Waffle filled with banana, topped with Nutella.",
+      "simplified_description": "A dessert-style breakfast waffle with banana and chocolate spread.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Choco Banana Pancake",
+      "price": null,
+      "description": "Chocolate pancake filled with banana and chocolate chip.",
+      "simplified_description": "A sweet pancake option with chocolate and banana filling.",
+      "category": "The Classics",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

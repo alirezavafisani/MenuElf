@@ -1,0 +1,358 @@
+{
+  "restaurant": "saddlepeace",
+  "parsed_at": "2025-12-25T03:17:27.198342",
+  "item_count": 39,
+  "items": [
+    {
+      "name": "Medium - Hawaiian Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small 2-Topper Pizza, Dip & Drink",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Pizza, Wings, 2 Drinks & 2 Dips",
+      "price": 28.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium - Chicken Bacon Ranch Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Cheese and Pepperoni Pizzas",
+      "price": 23.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium 2-Topper Pizza & Cheese Stick",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium - Calgary Flame Special Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Large Pizzas, 2 Drinks & Cheese Stick",
+      "price": 39.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Lasagna with Meat or Veggie Sauce & 10 Pieces Wings",
+      "price": 19.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium - Canadian Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 2-Topper Pizza, 1 Drink & 1 Dip",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Cheese Pizza, Fries & Juice Box",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small - Cheese Pizza",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium - Garden Fresh Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium - Buffalo Chicken Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium - Pepperoni Lovers Pizza",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Large Specialty Pizzas, 2 Drinks & Cheese Stick",
+      "price": 39.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Large Pizzas, 2L Pop & 4 Dips",
+      "price": 53.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Everyday Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any 2 Large Pizzas",
+      "price": 34.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Everyday Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any 3 Large Pizzas",
+      "price": 44.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Everyday Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any 3 Medium Pizzas",
+      "price": 36.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Everyday Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Large Specialty Pizzas, 2 Drinks & 2 Dips",
+      "price": 31.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Large Specialty or Signature Pizza, 10 Wings & 2 Drinks",
+      "price": 28.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Large Specialty Pizzas",
+      "price": 43.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any 2 Large Pizzas",
+      "price": 34.96,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Large 2-Topper Pizza, 1 Drink & 1 Dip",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Cheese and Pepperoni Pizzas",
+      "price": 23.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Medium 3-Topper Pizzas, 2 Drinks & 2 Dips",
+      "price": 27.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Medium 2-Topper Pizza, 1 Drink & 1 Dip",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Medium Specialty or Signature Pizzas, 10 Wings & 2 Drinks",
+      "price": 39.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any 3 Medium Specialty Pizzas",
+      "price": 36.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Cheese and Pepperoni Pizzas",
+      "price": 19.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any Small Pizza, 10 Wings & 1 Drink",
+      "price": 19.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Small Specialty or Signature Pizzas",
+      "price": 22.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Lasagna with Meat or Veggie Sauce, 10 Pieces Wings, 2 Garlic Bread & 2 Drinks",
+      "price": 19.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Available in 10, 20, 30 & 40 Pieces",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Poutine & Drink",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Regular Donair & Fries",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Jumbo Donair & Fries",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

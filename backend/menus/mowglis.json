@@ -1,0 +1,664 @@
+{
+  "restaurant": "mowglis",
+  "parsed_at": "2026-02-06T03:24:47.178765",
+  "item_count": 73,
+  "items": [
+    {
+      "name": "k pepper",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pear and Chii",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jackfruit",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chickoo",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tender Coconut",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Betel leaf and Candied rose",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lychee and Kaffir lime",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Raspberry and Amaretti cookies",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Bread",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha Roasted Almond",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taro and boba",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Bean",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malted choco and honeycomb",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burnt marshmallow and honeycomb",
+      "price": null,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokum & Cumin",
+      "price": null,
+      "description": "* * * Dairy-free kokum and cumin sorbet.",
+      "category": "OTHER",
+      "simplified_description": "* * * Dairy-free kokum and cumin sorbet.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cucumber Mint",
+      "price": null,
+      "description": "* * * Dairy-free cucumber mint sorbet.",
+      "category": "OTHER",
+      "simplified_description": "* * * Dairy-free cucumber mint sorbet.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Apple & Basil",
+      "price": null,
+      "description": "* * * Dairy-free green apple and basil sorbet.",
+      "category": "OTHER",
+      "simplified_description": "* * * Dairy-free green apple and basil sorbet.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saffron Budino",
+      "price": 14.0,
+      "description": "Saffron Budino, chocolate soil, white chocolate-raspberry ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Saffron Budino, chocolate soil, white chocolate-raspberry ice cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Warm apple and Cinnamon cake",
+      "price": 16.0,
+      "description": "Warm apple and Cinnamon cake, caramel sauce and choice of ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Warm apple and Cinnamon cake, caramel sauce and choice of ice cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ferrero Rocher",
+      "price": 17.0,
+      "description": "Skillet fudge giant pan cookie, Ferrero Rocher, hot chocolate and Nutella ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Skillet fudge giant pan cookie, Ferrero Rocher, hot chocolate and Nutella ice cr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Passionfruit Semifreddo",
+      "price": 16.0,
+      "description": "Passionfruit puree, shell, mango ice cream, passionfruit semifreddo and chia seeds",
+      "category": "DESSERT",
+      "simplified_description": "Passionfruit puree, shell, mango ice cream, passionfruit semifreddo and chia see",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dates Fudge Pudding",
+      "price": 15.0,
+      "description": "Sticky dates fudge pudding with caramel sauce and choice of ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Sticky dates fudge pudding with caramel sauce and choice of ice cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tres Leches",
+      "price": 15.0,
+      "description": "Tres Leches, dulce de tres leches flavored with anise and fennel served with choice of ice cream",
+      "category": "DESSERT",
+      "simplified_description": "Tres Leches, dulce de tres leches flavored with anise and fennel served with cho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Choose ice cream and sorbetto",
+      "price": 6.0,
+      "description": "Please see your server to choose ice cream and sorbetto",
+      "category": "DESSERT",
+      "simplified_description": "Please see your server to choose ice cream and sorbetto",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Slice of cake",
+      "price": 9.0,
+      "description": "Please ask your server",
+      "category": "DESSERT",
+      "simplified_description": "Please ask your server",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee Chocolate Meringue",
+      "price": 7.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Chocolate Cheesecake",
+      "price": 8.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Basil",
+      "price": 6.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Opera",
+      "price": 8.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tiramisu",
+      "price": 7.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Forest",
+      "price": 7.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit cake",
+      "price": 7.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Mint",
+      "price": 7.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Chocolate",
+      "price": 8.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Apricot Cheesecake",
+      "price": 8.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Velvet",
+      "price": 8.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate Alphonso Mango Cake",
+      "price": 8.0,
+      "description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "category": "CAKE",
+      "simplified_description": "Cakes | Whole Cake (6 inches) | Whole Cake (8 inches) | Slice Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano 12oz",
+      "price": 4.25,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano 16oz",
+      "price": 4.7,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino 12oz",
+      "price": 5.5,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino 16oz",
+      "price": 5.75,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Macchiato 12oz",
+      "price": 5.25,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Macchiato 16oz",
+      "price": 6.2,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai Latte 12oz",
+      "price": 5.25,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai Latte 16oz",
+      "price": 6.2,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 3.75,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha",
+      "price": 6.1,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hazelnut Mocha 12oz",
+      "price": 6.1,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hazelnut Mocha 16oz",
+      "price": 6.3,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chocolate 12oz",
+      "price": 4.75,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chocolate 16oz",
+      "price": 5.1,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte 12oz",
+      "price": 5.7,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte 16oz",
+      "price": 5.9,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "London Fog 12oz",
+      "price": 5.25,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "London Fog 16oz",
+      "price": 6.2,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha 12oz",
+      "price": 6.1,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha 16oz",
+      "price": 6.3,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Macchiato 12oz",
+      "price": 4.2,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea 16oz",
+      "price": 5.75,
+      "description": "* * * Choose tea: Earl Grey Peppermint Chamomile Green Tea",
+      "category": "DRINK",
+      "simplified_description": "* * * Choose tea: Earl Grey Peppermint Chamomile Green Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rooted Radiance",
+      "price": 6.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Opal Fuel",
+      "price": 6.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Antiox Glow",
+      "price": 6.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zen Green",
+      "price": 6.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ruby Revival",
+      "price": 6.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fusion",
+      "price": 6.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nutella Banana",
+      "price": 7.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry cheesecake",
+      "price": 7.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango-yogurt",
+      "price": 7.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Key lime Pie",
+      "price": 7.5,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oreo cookie cream",
+      "price": 7.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple nut & Salted Caramel",
+      "price": 8.5,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "S’mores",
+      "price": 7.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha-Hazelnut",
+      "price": 8.99,
+      "description": "* * *",
+      "category": "DRINK",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

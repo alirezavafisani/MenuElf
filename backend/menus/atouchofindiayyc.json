@@ -1,0 +1,154 @@
+{
+  "restaurant": "atouchofindiayyc",
+  "parsed_at": "2026-02-06T00:44:22.368075",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "Veggie Korma",
+      "price": 12.0,
+      "description": "mixed veggies cooked in a creamy tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in a creamy tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 12.0,
+      "description": "A blend of spinach, onions, and garlic with Indian paneer cheese",
+      "category": "FOOD",
+      "simplified_description": "Spinach and paneer cheese cooked with onions and garlic.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 14.0,
+      "description": "Tender pieces of chicken breast marinated in tandoori spices. Cooked in a creamy tomato sauce -*Gluten free dish!",
+      "category": "FOOD",
+      "simplified_description": "Chicken breast cooked in creamy tomato sauce with tandoori spices.",
+      "dietary_info": [
+        "gluten-free",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry / Beef Curry",
+      "price": 15.0,
+      "description": "Beef or Chicken cooked in a mild spiced tomato curry with a variety of Indian spices",
+      "category": "FOOD",
+      "simplified_description": "Beef or chicken cooked in mild spiced tomato curry.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Mild spice"
+    },
+    {
+      "name": "Chicken Vindaloo / Beef Vindaloo",
+      "price": 15.0,
+      "description": "Beef or Chicken cooked in an extra spicy tomato curry sauce made with a blend of vindaloo spices",
+      "category": "FOOD",
+      "simplified_description": "Beef or chicken cooked in extra spicy vindaloo tomato curry.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Extra spicy"
+    },
+    {
+      "name": "Lamb Curry/ Lamb Vindaloo",
+      "price": 16.0,
+      "description": "Boneless lamb cooked in mild or spicey tomatoe based sauce",
+      "category": "FOOD",
+      "simplified_description": "Boneless lamb cooked in mild or spicy tomato-based sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Choice of mild or spicy"
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 14.0,
+      "description": "Boneless skinless chicken breast, tomatoes, mixed bell peppers, onions, ginger, garlic & spices",
+      "category": "FOOD",
+      "simplified_description": "Chicken breast cooked with tomatoes, peppers, onions, and spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas (Beef, chicken, Veg)",
+      "price": null,
+      "description": "$2.50 each, $24 for a dozen",
+      "category": "SIDE",
+      "simplified_description": "Fried pastry filled with beef, chicken, or vegetables.",
+      "dietary_info": [],
+      "other_info": "Sold individually or by dozen"
+    },
+    {
+      "name": "Vegetable Pakoras",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fried vegetable fritters.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Naan Bread",
+      "price": null,
+      "description": "Pack of 4 – $8",
+      "category": "SIDE",
+      "simplified_description": "Soft Indian flatbread, pack of four.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Pack of 4"
+    },
+    {
+      "name": "Roti (plain or masala)",
+      "price": null,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Indian flatbread, plain or spiced.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Basmati Rice (saffron or plain)",
+      "price": null,
+      "description": "$5 large",
+      "category": "SIDE",
+      "simplified_description": "Large serving of saffron or plain basmati rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": "Large size"
+    }
+  ]
+}

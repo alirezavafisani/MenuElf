@@ -1,0 +1,558 @@
+{
+  "restaurant": "seednsalt",
+  "parsed_at": "2025-12-25T01:46:31.170099",
+  "item_count": 58,
+  "items": [
+    {
+      "name": "STRAWBERRY OVERNIGHT OATS",
+      "price": null,
+      "description": "oats // coconut // chia // strawberry // Greek yogurt // vanilla // maple (GF)",
+      "simplified_description": "Overnight oats are a healthy breakfast option made by soaking oats in liquid overnight.",
+      "category": "Breakfast",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "OVERNIGHT OATS",
+      "price": null,
+      "description": "oats // banana // coconut // chia // dates // seasonal fruit (V)(GF)",
+      "simplified_description": "A similar dish to the strawberry version but with banana and other seasonal fruits.",
+      "category": "Breakfast",
+      "dietary_info": [
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON & EGG SANDWICH",
+      "price": null,
+      "description": "brioche bun // free-range egg // bacon // white cheddar // tomato chutney // arugula",
+      "simplified_description": "",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVO & EGG SANDWICH",
+      "price": null,
+      "description": "brioche bun // free-range egg // avocado // white cheddar // tomato chutney // arugula",
+      "simplified_description": "",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MORNING BOWL",
+      "price": null,
+      "description": "quinoa // spinach // free-range eggs // roasted balsamic tomatoes // roasted yams // crispy bacon // avocado // goat cheese // dressing: lemon vinaigrette",
+      "simplified_description": "",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEDITERRANEAN BOWL",
+      "price": null,
+      "description": "quinoa // spinach // 2 free-range eggs // roasted balsamic tomatoes // avocado // goat cheese // basil // dressing: pesto + balsamic",
+      "simplified_description": "",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BARRY’S BOWL",
+      "price": null,
+      "description": "quinoa // spinach // 2 free-range eggs // roasted balsamic tomatoes // crispy bacon // white cheddar // chives // dressing: pesto + balsamic",
+      "simplified_description": "",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RANCHERO BOWL",
+      "price": null,
+      "description": "quinoa // spinach // 2 free-range eggs // black beans // peppers // roasted yams // tomatoes // white cheddar // dressing: tomatillo ranch",
+      "simplified_description": "",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVO 1",
+      "price": null,
+      "description": "sourdough // avocado // tomatoes // pea shoots // lime // crushed red pepper // salt",
+      "simplified_description": "",
+      "category": "Toasts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVO 2",
+      "price": null,
+      "description": "sourdough // avocado // goat cheese // chives // lemon // salt + pepper",
+      "simplified_description": "",
+      "category": "Toasts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVO BACON & EGG",
+      "price": null,
+      "description": "sourdough // avocado // bacon // free-range eggs // arugula // hot sauce",
+      "simplified_description": "",
+      "category": "Toasts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED SALMON AVO TOAST",
+      "price": null,
+      "description": "sourdough toast // avocado // goat cheese // smoked salmon // radish // lemon // dill",
+      "simplified_description": "",
+      "category": "Toasts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FARMHOUSE COBB",
+      "price": null,
+      "description": "spring mix // romaine // tomatoes // corn // avocado // crispy bacon // egg // white cheddar // chives // choice of lemon herb or balsamic vinaigrette",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KALE CAESAR",
+      "price": null,
+      "description": "crispy bacon // kale // romaine // tomatoes // parmesan crisps // croutons // parmesan // lemon // caesar",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAYAN GETAWAY",
+      "price": null,
+      "description": "spring mix // romaine // black beans // corn // tomatoes // avocado // feta // dates // tortilla // cilantro // honey chipotle vinaigrette",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BE WELL",
+      "price": null,
+      "description": "spinach // spring mix // pickled + raw beets // carrots // cucumber // quinoa // avocado // pumpkin seeds // green goddess vinaigrette",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KALEFORNIA",
+      "price": null,
+      "description": "kale // quinoa // roasted yam // golden raisins // sunflower seeds // parmesan // lemon vinaigrette",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JORDAN",
+      "price": null,
+      "description": "spring mix // romaine // quinoa // cucumber // tomatoes // red cabbage // dill pickle // pita chips // parsley // mint // sumac // lemon vinaigrette + hummus",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RITUAL",
+      "price": null,
+      "description": "kale // carrots // cucumber // edamame // mango // peppers // red cabbage // cilantro // pepita // spicy peanut",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAMURAI",
+      "price": null,
+      "description": "spring mix // sushi rice // avocado // carrot // cucumber // red cabbage // cilantro // crispy wonton // black sesame // miso ginger",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEACH BOWL",
+      "price": null,
+      "description": "choice of citrus shrimp // smoked salmon or spicy tofu // kale // sushi rice // avocado // radish // mango // cucumber // edamame // pickled ginger // sesame // crispy wontons // green onion // ginger sesame + spicy mayo",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GINGER SESAME",
+      "price": null,
+      "description": "pulled pork or spicy tofu // brown rice // kimchi // carrot // cucumber // pickled red onion // peppers // green onion // white sesame // ginger sesame + spicy mayo",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "COCONUT CURRY",
+      "price": null,
+      "description": "brown rice // chickpeas // roasted broccoli // roasted yams // turmeric cauliflower // spicy peppers // cilantro // red coconut curry",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HARVEST BOWL",
+      "price": null,
+      "description": "kale // brown rice // roasted brussels // roasted yams // apple // goat cheese // toasted almonds // balsamic vinaigrette",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TULUM",
+      "price": null,
+      "description": "brown rice // black beans // corn // tomatoes // white cheddar // avocado // lime // jalapeno // tortilla // tomatillo ranch",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KALIMERA BOWL",
+      "price": null,
+      "description": "blackened chicken or falafel // feta // turmeric cauliflower // tomatoes // kale // sushi rice // red cabbage // pickled red onion // parsley // sumac // green goddess + hummus",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TUSCAN CHICKEN PARM",
+      "price": null,
+      "description": "roasted chicken // brown rice // spinach // roasted broccoli // roasted balsamic tomatoes // parmesan // parmesan crisp // pesto + hot sauce",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TANGLED THAI",
+      "price": null,
+      "description": "brown rice // quinoa // roasted broccoli // carrot // pea shoots // purple cabbage // mint // basil // black sesame // spicy peanut",
+      "simplified_description": "",
+      "category": "Bowls",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TOMATO HERB",
+      "price": null,
+      "description": "sourdough croutons + chives",
+      "simplified_description": "",
+      "category": "Seasonal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TORN CHICKEN CHILI",
+      "price": null,
+      "description": "chicken breast // corn // beans // tomatoes // onions // garlic // spices // topped with white cheddar + cilantro",
+      "simplified_description": "",
+      "category": "Seasonal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TORN CHICKEN CHILI BOWL",
+      "price": null,
+      "description": "torn chicken chili served on a bed of spinach and brown rice // topped with white cheddar + cilantro",
+      "simplified_description": "",
+      "category": "Seasonal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HONEY BADGER",
+      "price": null,
+      "description": "roasted chicken // roasted brussels // roasted yams // kale // brown rice // spicy pecans // cranberries // honey mustard vinaigrette",
+      "simplified_description": "",
+      "category": "Seasonal",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MILAN",
+      "price": null,
+      "description": "genoa salami // pepperoncini // parmesan // chickpeas // tomatoes // cucumbers // radish // croutons // basil // romaine // spring mix // lemon vinaigrette",
+      "simplified_description": "",
+      "category": "Seasonal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUILD YOUR OWN",
+      "price": null,
+      "description": "bases: choose up to 2: kale // romaine // spinach // spring mix // brown rice // quinoa // sushi rice\ningredients and toppings: choose up to 4 (additional)",
+      "simplified_description": "",
+      "category": "Custom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DRAGON",
+      "price": null,
+      "description": "pitaya (dragon fruit) // mango // pineapple // banana // coconut h2o // topped with: gf granola // seasonal fruit // coconut // honey",
+      "simplified_description": "",
+      "category": "Smoothie Bowls",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SUNSHINE",
+      "price": null,
+      "description": "acai // strawberries // pineapple // banana // coconut h2o // topped with: gf granola // seasonal fruit // coconut // honey",
+      "simplified_description": "",
+      "category": "Smoothie Bowls",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PB SUNRISE",
+      "price": null,
+      "description": "acai // strawberries // pineapple // banana // coconut h2o // topped with: gf granola // banana // strawberries // natural peanut butter // honey // cacao nibs",
+      "simplified_description": "",
+      "category": "Smoothie Bowls",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALMOND BLISS",
+      "price": null,
+      "description": "acai // strawberries // pineapple // banana // coconut h2o // topped with: gf granola // banana // strawberries // natural almond butter // honey // toasted almonds",
+      "simplified_description": "",
+      "category": "Smoothie Bowls",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BELLE",
+      "price": null,
+      "description": "dragonfruit // mango // pineapple // banana // collagen",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLUEBERRY LEMONADE",
+      "price": null,
+      "description": "blueberries // lemon // Greek yogurt // honey // coconut water",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRIES & CREAM",
+      "price": null,
+      "description": "whey or vegan protein // strawberries // banana // collagen // Greek yogurt // dates // maple // chia // vanilla // coconut h2o // strawberry glaze + yogurt",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BETTY",
+      "price": null,
+      "description": "strawberries // blueberries // raspberries // yogurt // maple // vanilla // coconut h2o",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRUSH",
+      "price": null,
+      "description": "orange // carrots // pineapple // mango // dates // vanilla // coconut milk",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HULK",
+      "price": null,
+      "description": "kale // spinach // avocado // mango // pineapple // lime // vanilla // coconut oil // coconut h2o",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PB&J",
+      "price": null,
+      "description": "pb // banana // strawberries // raspberries // dates // himalayan pink salt // almond milk",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "IRON",
+      "price": null,
+      "description": "banana // almond butter // dates // maca // cacao // honey // coconut oil // almond milk",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOLT",
+      "price": null,
+      "description": "espresso // banana // maca // cacao // vanilla // dates // almond milk",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MINT CHIP SMOOTHIE",
+      "price": null,
+      "description": "choice of vegan or whey protein // spinach // almond butter // banana // almond milk // cacao nibs // peppermint // vanilla // maple // sea salt",
+      "simplified_description": "",
+      "category": "Smoothies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COFFEE",
+      "price": null,
+      "description": "Coffee // Espresso // Cappuccino // Latte // Maple Sea Salt Latte // Americano // Misto // Mocha // Cold Brew // Iced Latte",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOT DRINKS",
+      "price": null,
+      "description": "Turmeric Latte // Chai Tea Latte // Matcha Latte // Hot Chocolate // Tea // Hot lemon Elixir",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JUICES",
+      "price": null,
+      "description": "*Well Juice // *Stoked Juice",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KOMBUCHA",
+      "price": null,
+      "description": "*ask in store for flavors",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WATERS",
+      "price": null,
+      "description": "Pellegrino // North Water // *In Good Company",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PROTEIN CHEESECAKE",
+      "price": null,
+      "description": "cottage cheese // Greek yogurt // lemon // vanilla // maple // strawberry glaze // graham crumbs",
+      "simplified_description": "",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY OVERNIGHT OATS",
+      "price": null,
+      "description": "oats // coconut // chia // strawberry // Greek yogurt // vanilla // maple (GF)",
+      "simplified_description": "",
+      "category": "Snacks",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "COOKIES & BAKED TREATS",
+      "price": null,
+      "description": "power oat cookie // chocolate chip cookie // marble vegan banana bread",
+      "simplified_description": "",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ENERGY BITES",
+      "price": null,
+      "description": "peanut butter protein bites // seed energy bites // cocoa bliss energy bites",
+      "simplified_description": "",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIDDAY SQUARES",
+      "price": null,
+      "description": "cookie dough // fudge yah // peanut butta",
+      "simplified_description": "",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

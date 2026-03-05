@@ -1,0 +1,367 @@
+{
+  "restaurant": "stagewestcalgary",
+  "parsed_at": "2026-02-06T04:13:15.830922",
+  "item_count": 40,
+  "items": [
+    {
+      "name": "Caesar salad with Stage West Signature Anchovy Dressing and Parmesan Cheese",
+      "price": null,
+      "description": "Caesar salad with Stage West Signature Anchovy Dressing and Parmesan Cheese (#*)",
+      "category": "SIDE",
+      "simplified_description": "Caesar salad with Stage West Signature Anchovy Dressing and Parmesan Cheese (#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Vegetables Crudités with Ranch Dip",
+      "price": null,
+      "description": "Fresh Vegetables Crudités with Ranch Dip (#)",
+      "category": "SIDE",
+      "simplified_description": "Fresh Vegetables Crudités with Ranch Dip (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cranberry & Apple Coleslaw",
+      "price": null,
+      "description": "Cranberry & Apple Coleslaw (#)",
+      "category": "SIDE",
+      "simplified_description": "Cranberry & Apple Coleslaw (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cottage Cheese",
+      "price": null,
+      "description": "Cottage Cheese (#)",
+      "category": "SIDE",
+      "simplified_description": "Cottage Cheese (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hash Browns with Fresh Chives",
+      "price": null,
+      "description": "Hash Browns with Fresh Chives ( *)",
+      "category": "SIDE",
+      "simplified_description": "Hash Browns with Fresh Chives ( *)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Scrambled Eggs",
+      "price": null,
+      "description": "Fresh Scrambled Eggs",
+      "category": "FOOD",
+      "simplified_description": "Fresh Scrambled Eggs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Sausage",
+      "price": null,
+      "description": "Pork Sausage (*)",
+      "category": "FOOD",
+      "simplified_description": "Pork Sausage (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs Benedict",
+      "price": null,
+      "description": "Eggs Benedict ( #*)",
+      "category": "FOOD",
+      "simplified_description": "Eggs Benedict ( #*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oven Baked bacon",
+      "price": null,
+      "description": "Oven Baked bacon",
+      "category": "FOOD",
+      "simplified_description": "Oven Baked bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Belgium Waffles with Fresh Strawberries, Icing Sugar and Pancake Syrup",
+      "price": null,
+      "description": "Belgium Waffles with Fresh Strawberries, Icing Sugar and Pancake Syrup (*)",
+      "category": "FOOD",
+      "simplified_description": "Belgium Waffles with Fresh Strawberries, Icing Sugar and Pancake Syrup (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Croissants",
+      "price": null,
+      "description": "Mini Croissants (*#)",
+      "category": "FOOD",
+      "simplified_description": "Mini Croissants (*#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Mini Danishes",
+      "price": null,
+      "description": "Assorted Mini Danishes (*#)",
+      "category": "FOOD",
+      "simplified_description": "Assorted Mini Danishes (*#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Glazed Ham",
+      "price": null,
+      "description": "Honey Glazed Ham",
+      "category": "FOOD",
+      "simplified_description": "Honey Glazed Ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Bean Ice Cream with Chocolate Sauce and Assorted Toppings",
+      "price": null,
+      "description": "Vanilla Bean Ice Cream with Chocolate Sauce and Assorted Toppings (#)",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla Bean Ice Cream with Chocolate Sauce and Assorted Toppings (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Pudding",
+      "price": null,
+      "description": "Chocolate Pudding (#)",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate Pudding (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Mousse",
+      "price": null,
+      "description": "Strawberry Mousse (#)",
+      "category": "DESSERT",
+      "simplified_description": "Strawberry Mousse (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Cupcakes",
+      "price": null,
+      "description": "Mini Cupcakes (#*)",
+      "category": "DESSERT",
+      "simplified_description": "Mini Cupcakes (#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Cookies",
+      "price": null,
+      "description": "Assorted Cookies (! *#)",
+      "category": "DESSERT",
+      "simplified_description": "Assorted Cookies (! *#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacio Cake (Hazelnut Torte)",
+      "price": null,
+      "description": "Bacio Cake (Hazelnut Torte) (!#*)",
+      "category": "DESSERT",
+      "simplified_description": "Bacio Cake (Hazelnut Torte) (!#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Decadent Cake",
+      "price": null,
+      "description": "Chocolate Decadent Cake (*#)",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate Decadent Cake (*#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Crispy Squares",
+      "price": null,
+      "description": "Rice Crispy Squares (#*)",
+      "category": "DESSERT",
+      "simplified_description": "Rice Crispy Squares (#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Seasonal Berries, Melons, Pineapple and Grapes",
+      "price": null,
+      "description": "Fresh Seasonal Berries, Melons, Pineapple and Grapes",
+      "category": "DESSERT",
+      "simplified_description": "Fresh Seasonal Berries, Melons, Pineapple and Grapes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Local and Imported Cheese with Crackers",
+      "price": null,
+      "description": "Assorted Local and Imported Cheese with Crackers (#*)",
+      "category": "DESSERT",
+      "simplified_description": "Assorted Local and Imported Cheese with Crackers (#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy French Fries and Potato Chippers",
+      "price": null,
+      "description": "Crispy French Fries and Potato Chippers (*)",
+      "category": "SIDE",
+      "simplified_description": "Crispy French Fries and Potato Chippers (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Pepperoni and Cheese Pizza",
+      "price": null,
+      "description": "Canadian Pepperoni and Cheese Pizza (#*)",
+      "category": "FOOD",
+      "simplified_description": "Canadian Pepperoni and Cheese Pizza (#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mac and Cheese",
+      "price": null,
+      "description": "Mac and Cheese (#*)",
+      "category": "FOOD",
+      "simplified_description": "Mac and Cheese (#*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Homemade Meatballs in Tomato Sauce",
+      "price": null,
+      "description": "Homemade Meatballs in Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Homemade Meatballs in Tomato Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Spaghetti with Parmesan",
+      "price": null,
+      "description": "Garlic Spaghetti with Parmesan (*#)",
+      "category": "FOOD",
+      "simplified_description": "Garlic Spaghetti with Parmesan (*#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Stuffed Pork loin",
+      "price": null,
+      "description": "Mediterranean Stuffed Pork loin (#)",
+      "category": "FOOD",
+      "simplified_description": "Mediterranean Stuffed Pork loin (#)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": null,
+      "description": "BBQ Chicken (*)",
+      "category": "FOOD",
+      "simplified_description": "BBQ Chicken (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Battered Fish Fillet with Tartare Sauce",
+      "price": null,
+      "description": "Battered Fish Fillet with Tartare Sauce (*)",
+      "category": "FOOD",
+      "simplified_description": "Battered Fish Fillet with Tartare Sauce (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers and Chicken Nuggets with Plum Sauce",
+      "price": null,
+      "description": "Chicken Fingers and Chicken Nuggets with Plum Sauce (*)",
+      "category": "FOOD",
+      "simplified_description": "Chicken Fingers and Chicken Nuggets with Plum Sauce (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Hot Dogs and Mini Slider Buns",
+      "price": null,
+      "description": "Mini Hot Dogs and Mini Slider Buns (*)",
+      "category": "FOOD",
+      "simplified_description": "Mini Hot Dogs and Mini Slider Buns (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corn Dogs and Condiments",
+      "price": null,
+      "description": "Corn Dogs and Condiments (*)",
+      "category": "FOOD",
+      "simplified_description": "Corn Dogs and Condiments (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Alberta Baron of Beef with Merlot Au Jus",
+      "price": null,
+      "description": "Roasted Alberta Baron of Beef with Merlot Au Jus",
+      "category": "FOOD",
+      "simplified_description": "Roasted Alberta Baron of Beef with Merlot Au Jus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Corn Dogs",
+      "price": null,
+      "description": "Baked Corn Dogs (*)",
+      "category": "FOOD",
+      "simplified_description": "Baked Corn Dogs (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broiled BBQ Chicken",
+      "price": null,
+      "description": "Broiled BBQ Chicken",
+      "category": "FOOD",
+      "simplified_description": "Broiled BBQ Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Turkey with Stuffing",
+      "price": null,
+      "description": "Roasted Turkey with Stuffing (*)",
+      "category": "FOOD",
+      "simplified_description": "Roasted Turkey with Stuffing (*)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Salmon (Haida) Dill Tartar Sauce",
+      "price": null,
+      "description": "Baked Salmon (Haida) Dill Tartar Sauce",
+      "category": "FOOD",
+      "simplified_description": "Baked Salmon (Haida) Dill Tartar Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pumpkin Cheese Cake",
+      "price": null,
+      "description": "Pumpkin Cheese Cake (*#)",
+      "category": "DESSERT",
+      "simplified_description": "Pumpkin Cheese Cake (*#)",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

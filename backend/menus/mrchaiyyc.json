@@ -1,0 +1,79 @@
+{
+  "restaurant": "mrchaiyyc",
+  "parsed_at": "2026-02-06T03:26:03.188456",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Veg Noodles",
+      "price": 11.0,
+      "description": "$11",
+      "category": "FOOD",
+      "simplified_description": "$11",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 13.0,
+      "description": "$13",
+      "category": "FOOD",
+      "simplified_description": "$13",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chapli Burger",
+      "price": 11.0,
+      "description": "$11",
+      "category": "FOOD",
+      "simplified_description": "$11",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki Burger",
+      "price": 9.0,
+      "description": "$9",
+      "category": "FOOD",
+      "simplified_description": "$9",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Club Sandwich",
+      "price": 12.0,
+      "description": "$12",
+      "category": "FOOD",
+      "simplified_description": "$12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Desi Nashta",
+      "price": 13.0,
+      "description": "$13",
+      "category": "FOOD",
+      "simplified_description": "$13",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": 5.0,
+      "description": "$5",
+      "category": "FOOD",
+      "simplified_description": "$5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pancakes",
+      "price": 10.0,
+      "description": "$10",
+      "category": "FOOD",
+      "simplified_description": "$10",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

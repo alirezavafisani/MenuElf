@@ -1,0 +1,457 @@
+{
+  "restaurant": "nikospizza",
+  "parsed_at": "2025-12-25T00:17:47.818153",
+  "item_count": 50,
+  "items": [
+    {
+      "name": "The Classic",
+      "price": 18,
+      "description": "Medium 10\"\\nCheese, pepperoni, beef, mushroom, tomatoes",
+      "simplified_description": "A medium pizza with cheese, pepperoni, beef, mushrooms, and tomatoes",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Classic",
+      "price": 26,
+      "description": "Large 12\"\\nCheese, pepperoni, beef, mushroom, tomatoes",
+      "simplified_description": "A large pizza with cheese, pepperoni, beef, mushrooms, and tomatoes",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Classic",
+      "price": 33,
+      "description": "Xlarge 14\"\\nCheese, pepperoni, beef, mushroom, tomatoes",
+      "simplified_description": "An extra-large pizza with cheese, pepperoni, beef, mushrooms, and tomatoes",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty",
+      "price": 20,
+      "description": "Medium 10\"\\nBeef, onion, pepperoni, feta, pepperoni, ham, mushroom, pepperoni, mushroom, green peppers, ham, tomatoes, onions, back bacon, tomatoes, beef, tomatoes, black olives, Hawaiian (ham pineapple)",
+      "simplified_description": "A medium pizza with beef, onion, pepperoni, feta, ham, mushrooms, green peppers, tomatoes, and black olives",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty",
+      "price": 27,
+      "description": "Large 12\"\\nBeef, onion, pepperoni, feta, pepperoni, ham, mushroom, pepperoni, mushroom, green peppers, ham, tomatoes, onions, back bacon, tomatoes, beef, tomatoes, black olives, Hawaiian (ham pineapple)",
+      "simplified_description": "A large pizza with beef, onion, pepperoni, feta, ham, mushrooms, green peppers, tomatoes, and black olives",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty",
+      "price": 35,
+      "description": "Xlarge 14\"\\nBeef, onion, pepperoni, feta, pepperoni, ham, mushroom, pepperoni, mushroom, green peppers, ham, tomatoes, onions, back bacon, tomatoes, beef, tomatoes, black olives, Hawaiian (ham pineapple)",
+      "simplified_description": "An extra-large pizza with beef, onion, pepperoni, feta, ham, mushrooms, green peppers, tomatoes, and black olives",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greens",
+      "price": 20,
+      "description": "Medium 10\"\\nMushrooms, green peppers, onions, tomatoes, black olives",
+      "simplified_description": "A medium pizza with mushrooms, green peppers, onions, tomatoes, and black olives",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greens",
+      "price": 27,
+      "description": "Large 12\"\\nMushrooms, green peppers, onions, tomatoes, black olives",
+      "simplified_description": "A large pizza with mushrooms, green peppers, onions, tomatoes, and black olives",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greens",
+      "price": 35,
+      "description": "Xlarge 14\"\\nMushrooms, green peppers, onions, tomatoes, black olives",
+      "simplified_description": "An extra-large pizza with mushrooms, green peppers, onions, tomatoes, and black olives",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Athenian",
+      "price": 20,
+      "description": "Medium 10\"\\nBaby spinach, tomatoes, black olives, feta",
+      "simplified_description": "A medium pizza with baby spinach, tomatoes, black olives, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Athenian",
+      "price": 27,
+      "description": "Large 12\"\\nBaby spinach, tomatoes, black olives, feta",
+      "simplified_description": "A large pizza with baby spinach, tomatoes, black olives, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Athenian",
+      "price": 35,
+      "description": "Xlarge 14\"\\nBaby spinach, tomatoes, black olives, feta",
+      "simplified_description": "An extra-large pizza with baby spinach, tomatoes, black olives, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Katina's Special",
+      "price": 20,
+      "description": "Medium 10\"\\nMushrooms, black olives, feta",
+      "simplified_description": "A medium pizza with mushrooms, black olives, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Katina's Special",
+      "price": 27,
+      "description": "Large 12\"\\nMushrooms, black olives, feta",
+      "simplified_description": "A large pizza with mushrooms, black olives, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Katina's Special",
+      "price": 35,
+      "description": "Xlarge 14\"\\nMushrooms, black olives, feta",
+      "simplified_description": "An extra-large pizza with mushrooms, black olives, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Helen of Troy",
+      "price": 20,
+      "description": "Medium 10\"\\nOnions, green peppers, black olives, tomatoes, feta",
+      "simplified_description": "A medium pizza with onions, green peppers, black olives, tomatoes, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Helen of Troy",
+      "price": 27,
+      "description": "Large 12\"\\nOnions, green peppers, black olives, tomatoes, feta",
+      "simplified_description": "A large pizza with onions, green peppers, black olives, tomatoes, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Helen of Troy",
+      "price": 35,
+      "description": "Xlarge 14\"\\nOnions, green peppers, black olives, tomatoes, feta",
+      "simplified_description": "An extra-large pizza with onions, green peppers, black olives, tomatoes, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium",
+      "price": 21,
+      "description": "Medium 10\"\\nAmerican Cheeseburger: Back bacon, beef, onions, cheddar cheese",
+      "simplified_description": "A medium pizza with back bacon, beef, onions, and cheddar cheese",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium",
+      "price": 28,
+      "description": "Large 12\"\\nAmerican Cheeseburger: Back bacon, beef, onions, cheddar cheese",
+      "simplified_description": "A large pizza with back bacon, beef, onions, and cheddar cheese",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium",
+      "price": 36,
+      "description": "Xlarge 14\"\\nAmerican Cheeseburger: Back bacon, beef, onions, cheddar cheese",
+      "simplified_description": "An extra-large pizza with back bacon, beef, onions, and cheddar cheese",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Taco",
+      "price": 21,
+      "description": "Medium 10\"\\nBeef, onions, jalapeños, cheddar cheese",
+      "simplified_description": "A medium pizza with beef, onions, jalapeños, and cheddar cheese",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Taco",
+      "price": 28,
+      "description": "Large 12\"\\nBeef, onions, jalapeños, cheddar cheese",
+      "simplified_description": "A large pizza with beef, onions, jalapeños, and cheddar cheese",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Taco",
+      "price": 36,
+      "description": "Xlarge 14\"\\nBeef, onions, jalapeños, cheddar cheese",
+      "simplified_description": "An extra-large pizza with beef, onions, jalapeños, and cheddar cheese",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nice to Meat Ya",
+      "price": 21,
+      "description": "Medium 10\"\\nPepperoni, ham, back bacon, beef",
+      "simplified_description": "A medium pizza with pepperoni, ham, back bacon, and beef",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nice to Meat Ya",
+      "price": 28,
+      "description": "Large 12\"\\nPepperoni, ham, back bacon, beef",
+      "simplified_description": "A large pizza with pepperoni, ham, back bacon, and beef",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nice to Meat Ya",
+      "price": 36,
+      "description": "Xlarge 14\"\\nPepperoni, ham, back bacon, beef",
+      "simplified_description": "An extra-large pizza with pepperoni, ham, back bacon, and beef",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toms Special",
+      "price": 21,
+      "description": "Medium 10\"\\nBeef, mushrooms, onions, hot banana peppers",
+      "simplified_description": "A medium pizza with beef, mushrooms, onions, and hot banana peppers",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toms Special",
+      "price": 28,
+      "description": "Large 12\"\\nBeef, mushrooms, onions, hot banana peppers",
+      "simplified_description": "A large pizza with beef, mushrooms, onions, and hot banana peppers",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toms Special",
+      "price": 36,
+      "description": "Xlarge 14\"\\nBeef, mushrooms, onions, hot banana peppers",
+      "simplified_description": "An extra-large pizza with beef, mushrooms, onions, and hot banana peppers",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Club",
+      "price": 21,
+      "description": "Medium 10\"\\nBack bacon, ham, mushrooms",
+      "simplified_description": "A medium pizza with back bacon, ham, and mushrooms",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Club",
+      "price": 28,
+      "description": "Large 12\"\\nBack bacon, ham, mushrooms",
+      "simplified_description": "A large pizza with back bacon, ham, and mushrooms",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Club",
+      "price": 36,
+      "description": "Xlarge 14\"\\nBack bacon, ham, mushrooms",
+      "simplified_description": "An extra-large pizza with back bacon, ham, and mushrooms",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zeus Chicken",
+      "price": 21,
+      "description": "Medium 10\"\\nChicken, baby spinach, tomatoes, feta",
+      "simplified_description": "A medium pizza with chicken, baby spinach, tomatoes, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zeus Chicken",
+      "price": 28,
+      "description": "Large 12\"\\nChicken, baby spinach, tomatoes, feta",
+      "simplified_description": "A large pizza with chicken, baby spinach, tomatoes, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zeus Chicken",
+      "price": 36,
+      "description": "Xlarge 14\"\\nChicken, baby spinach, tomatoes, feta",
+      "simplified_description": "An extra-large pizza with chicken, baby spinach, tomatoes, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 21,
+      "description": "Medium 10\"\\nChicken smothered in BBQ sauce, green peppers, tomatoes",
+      "simplified_description": "A medium pizza with chicken, BBQ sauce, green peppers, and tomatoes",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 28,
+      "description": "Large 12\"\\nChicken smothered in BBQ sauce, green peppers, tomatoes",
+      "simplified_description": "A large pizza with chicken, BBQ sauce, green peppers, and tomatoes",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 36,
+      "description": "Xlarge 14\"\\nChicken smothered in BBQ sauce, green peppers, tomatoes",
+      "simplified_description": "An extra-large pizza with chicken, BBQ sauce, green peppers, and tomatoes",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Niko's Special",
+      "price": 21,
+      "description": "Medium 10\"\\nPepperoni, onions, tomatoes, green peppers, feta",
+      "simplified_description": "A medium pizza with pepperoni, onions, tomatoes, green peppers, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Niko's Special",
+      "price": 28,
+      "description": "Large 12\"\\nPepperoni, onions, tomatoes, green peppers, feta",
+      "simplified_description": "A large pizza with pepperoni, onions, tomatoes, green peppers, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Niko's Special",
+      "price": 36,
+      "description": "Xlarge 14\"\\nPepperoni, onions, tomatoes, green peppers, feta",
+      "simplified_description": "An extra-large pizza with pepperoni, onions, tomatoes, green peppers, and feta",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build a Pizza",
+      "price": null,
+      "description": "",
+      "simplified_description": "Create your own pizza with various toppings",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Cheese",
+      "price": 3,
+      "description": "Medium 10\" - $3\\nLarge 12\" - $3.50\\nXlarge 14\" - $4",
+      "simplified_description": "Add extra cheese to your pizza",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 12,
+      "description": "Romaine lettuce, bacon bits, parmesan, croutons mixed with caesar dressing",
+      "simplified_description": "A salad with romaine lettuce, bacon bits, parmesan cheese, croutons, and Caesar dressing",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 14,
+      "description": "Ripe tomatoes, green peppers, red onions, cucumbers, feta, kalamata olives tossed in our home-made dressing",
+      "simplified_description": "A salad with ripe tomatoes, green peppers, red onions, cucumbers, feta cheese, and kalamata olives in homemade dressing",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2,
+      "description": "",
+      "simplified_description": "A can of soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pack",
+      "price": 8,
+      "description": "",
+      "simplified_description": "A pack of six cans of soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water",
+      "price": 2,
+      "description": "",
+      "simplified_description": "A bottle of water",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dips",
+      "price": 1.5,
+      "description": "",
+      "simplified_description": "Sauces for your pizza or salad",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

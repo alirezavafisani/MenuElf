@@ -1,0 +1,376 @@
+{
+  "restaurant": "mitillinispizza",
+  "parsed_at": "2026-02-06T03:23:33.593769",
+  "item_count": 41,
+  "items": [
+    {
+      "name": "Plain Cheese",
+      "price": 11.5,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Fresh Tomatoes",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon & Pepperoni",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon",
+      "price": 12.0,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp & Mushrooms",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Mushrooms",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Onions",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian: Ham & Pineapple",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salami OR Italian Sausage",
+      "price": 12.0,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salami, Pepperoni & Mushrooms",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni, Mushrooms & Green Peppers",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni OR Ham",
+      "price": 12.0,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon, Green Peppers & Olives",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni, Mushrooms & Tomatoes",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian: All Vegetables",
+      "price": 15.0,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham, Shrimp, Pineapple & Mushrooms",
+      "price": 14.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni, Mushrooms, Ham, Tomatoes & Anchovies",
+      "price": 14.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushrooms, Pepperoni, Bacon, Green Peppers, Tomatoes, Onions & Feta Cheese",
+      "price": 15.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": 15.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham, Pepperoni & Mushrooms",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon, Pepperoni & Mushrooms",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham, Pineapple & Mushrooms",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef, Onions & Mushrooms",
+      "price": 13.75,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni & Mushrooms",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Everything (No Shrimp or Anchovies)",
+      "price": 16.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pizza: Mushrooms, Onions, Tomatoes & Donair Meat",
+      "price": 14.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach & Feta",
+      "price": 13.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "El Greco Special: Feta Cheese, Onions, Mushrooms & Tomatoes",
+      "price": 14.25,
+      "description": "Pizza",
+      "category": "FOOD",
+      "simplified_description": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad with Garlic Toast",
+      "price": 10.95,
+      "description": "Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Salad",
+      "price": 12.5,
+      "description": "Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Caesar",
+      "price": 12.5,
+      "description": "Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 12.5,
+      "description": "Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Salad",
+      "price": 9.95,
+      "description": "Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari Rings & Dill Dip",
+      "price": 12.95,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers & Fries",
+      "price": 14.95,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zucchini Sticks & Dill Dip",
+      "price": 11.75,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 15.95,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 3.5,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 2.25,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Toast",
+      "price": 3.75,
+      "description": "Appetizer",
+      "category": "FOOD",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drinks",
+      "price": 3.0,
+      "description": "Appetizer",
+      "category": "DRINK",
+      "simplified_description": "Appetizer",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "restaurant": "swirlcakes",
+  "parsed_at": "2025-12-25T03:52:16.578085",
+  "item_count": 5,
+  "items": [
+    {
+      "name": "Sugar Cookies",
+      "price": null,
+      "description": "Sugar cookies are so versatile in shape and decorations so they are perfect for any occasion. Add your company logo for tasty gifts, or personalize each one for place cards at your wedding! Each cookie can be individually wrapped for luxury presentation. Flavours can be customized. Topped with melted white chocolate or royal icing.",
+      "simplified_description": "Versatile cookies that can be customized for any occasion.",
+      "category": "Cookies",
+      "dietary_info": [],
+      "other_info": "Price varies"
+    },
+    {
+      "name": "3D Customized Cakes",
+      "price": null,
+      "description": "These are the show stoppers of any event. Hand carved and gravity-defying, these cakes take your event and your imagination to new levels.",
+      "simplified_description": "Unique cakes that are carved and designed to impress.",
+      "category": "Other Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cupcakes",
+      "price": null,
+      "description": "Offered in three sizes: Jumbo, Regular and Mini, cupcakes are still a hit! Available with a simple swirl of buttercream all the way to elaborate fondant toppers.",
+      "simplified_description": "Delicious cupcakes available in different sizes and designs.",
+      "category": "Other Menu Items",
+      "dietary_info": [],
+      "other_info": "Sizes: Jumbo, Regular, Mini"
+    },
+    {
+      "name": "Edible Images",
+      "price": null,
+      "description": "Made from paper-thin fondant and food coloring, these images can be used on cookies, cupcakes, and cakes to recreate a picture, character or logo.",
+      "simplified_description": "Thin edible images for decorating baked goods.",
+      "category": "Other Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Macaroons",
+      "price": null,
+      "description": "These delicate and delicious treats are an elegant alternative to a wedding cake or an exquisite addition to any dessert table or as a wedding favor for your guests.",
+      "simplified_description": "Elegant and tasty treats, perfect for weddings or dessert tables.",
+      "category": "Other Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

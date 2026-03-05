@@ -1,0 +1,196 @@
+{
+  "restaurant": "quiznos",
+  "parsed_at": "2025-12-25T03:03:19.390912",
+  "item_count": 21,
+  "items": [
+    {
+      "name": "Hot Honey Chicken",
+      "price": null,
+      "description": "Tender Chicken, Mike’s Hot HoneyⓇ – Extra Hot with ranch, cheddar cheese, bacon and lettuce.",
+      "simplified_description": "Spicy chicken sandwich with ranch, cheese, bacon, and lettuce.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Classic",
+      "price": null,
+      "description": "Lobster & seafood salad with shredded lettuce on butter-toasted Italian white bread.",
+      "simplified_description": "Lobster salad sandwich on toasted bread.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Italian",
+      "price": null,
+      "description": "Stacked with pepperoni, salami, spicy capicola and smoked ham with melted provolone, black olives, fresh lettuce, tomatoes, onions, and tangy banana peppers, with zesty red wine vinaigrette, served toasted.",
+      "simplified_description": "Italian meat sandwich with various toppings and dressing.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Black Angus Steakhouse",
+      "price": null,
+      "description": "A steakhouse classic, Black Angus steak, melted provolone and cheddar cheeses, sauteed mushrooms and onions, with our zesty grill sauce on our rosemary parmesan bread, served toasted.",
+      "simplified_description": "Steak sandwich with cheese, mushrooms, and onions on special bread.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Turkey Ranch Swiss",
+      "price": null,
+      "description": "Oven roasted turkey breast, melted Swiss cheese, fresh lettuce, tomatoes, and onions, with creamy ranch dressing, served toasted.",
+      "simplified_description": "Turkey sandwich with Swiss cheese and ranch dressing.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Chicken Carbonara",
+      "price": null,
+      "description": "The legendary Chicken Carbonara made with grilled chicken, crispy bacon, melted provolone cheese, sauteed mushrooms, and our classic parmesan alfredo sauce, served toasted.",
+      "simplified_description": "Chicken sandwich with bacon and creamy sauce.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Baja Chicken",
+      "price": null,
+      "description": "Grilled chicken, crispy bacon, melted cheddar, and onions, topped with our blue-ribbon BBQ sauce and smoky chipotle mayo, served toasted.",
+      "simplified_description": "Grilled chicken sandwich with bacon and BBQ sauce.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Mesquite Chicken",
+      "price": null,
+      "description": "Grilled chicken, crispy smoky bacon, melted cheddar cheese, fresh lettuce, tomatoes, and onions, with creamy ranch dressing, served toasted.",
+      "simplified_description": "Grilled chicken sandwich with bacon and ranch dressing.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Ultimate Turkey Club",
+      "price": null,
+      "description": "The ultimate turkey club with oven roasted turkey breast and crisp bacon, fresh lettuce, tomatoes, and mayo, served toasted.",
+      "simplified_description": "Turkey club sandwich with bacon and veggies.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Honey Bacon Club",
+      "price": null,
+      "description": "A flavor-packed twist on a traditional club made with oven roasted turkey breast, smoked ham, crispy bacon, melted Swiss cheese, fresh lettuce, tomatoes, and onions, with a tangy sweet honey French dressing, served toasted.",
+      "simplified_description": "Club sandwich with turkey, ham, bacon, and honey dressing.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Peppercorn Steak",
+      "price": null,
+      "description": "Black Angus steak with melted provolone cheese, sauteed onions and our tangy, slightly spicy peppercorn sauce, served toasted.",
+      "simplified_description": "Steak sandwich with cheese and peppercorn sauce.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Turkey Bacon Guacamole",
+      "price": null,
+      "description": "A Southwest classic made with oven roasted turkey breast, crispy bacon, creamy guacamole, melted provolone, fresh lettuce, tomatoes, and onions, with ranch dressing, served toasted.",
+      "simplified_description": "Turkey sandwich with bacon and guacamole.",
+      "category": "Featured Favorites",
+      "dietary_info": [],
+      "other_info": "Served toasted."
+    },
+    {
+      "name": "Ham & Cheese Meal",
+      "price": null,
+      "description": "Includes mini Ham & Cheese sub or flatbread, chips or kids cookie and a kids drink.",
+      "simplified_description": "Kids meal with ham and cheese sandwich, chips or cookie, and drink.",
+      "category": "Kids Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Cheese Melt",
+      "price": null,
+      "description": "Includes mini Triple Cheese sub or flatbread, chips or kids cookie and a kids drink.",
+      "simplified_description": "Kids meal with cheese sandwich, chips or cookie, and drink.",
+      "category": "Kids Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey & Cheese Meal",
+      "price": null,
+      "description": "Includes mini Turkey & Cheese sub or flatbread, chips or kids cookie and a kids drink.",
+      "simplified_description": "Kids meal with turkey and cheese sandwich, chips or cookie, and drink.",
+      "category": "Kids Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broccoli Cheese",
+      "price": null,
+      "description": "Creamy and cheesy soup with broccoli and carrots.",
+      "simplified_description": "Soup made with broccoli and cheese.",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Tots",
+      "price": null,
+      "description": "Toasty coin tots, crisped to perfection in our toaster oven.",
+      "simplified_description": "Crispy potato tots.",
+      "category": "Sides & Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Jalapeño Cheddar Loaded Tots",
+      "price": null,
+      "description": "Toasty tots loaded up with crisp bacon, cheddar cheese and jalapenos.",
+      "simplified_description": "Potato tots with bacon, cheese, and jalapenos.",
+      "category": "Sides & Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lay’s Classic",
+      "price": null,
+      "description": "Selection varies by location.",
+      "simplified_description": "Classic potato chips.",
+      "category": "Sides & Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Chunk Cookie",
+      "price": null,
+      "description": "Toasty tip: pop it in the microwave for 20-30 seconds for an ooey-gooey experience.",
+      "simplified_description": "Chocolate chip cookie.",
+      "category": "Sides & Desserts",
+      "dietary_info": [],
+      "other_info": "Microwave for a gooey texture."
+    },
+    {
+      "name": "Brownie",
+      "price": null,
+      "description": "Toasty tip: pop it in the microwave for 20-30 seconds for an ooey-gooey experience.",
+      "simplified_description": "Chocolate brownie.",
+      "category": "Sides & Desserts",
+      "dietary_info": [],
+      "other_info": "Microwave for a gooey texture."
+    }
+  ]
+}

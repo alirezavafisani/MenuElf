@@ -1,0 +1,403 @@
+{
+  "restaurant": "anatoliaturkishfoods",
+  "parsed_at": "2025-12-25T01:22:46.837560",
+  "item_count": 43,
+  "items": [
+    {
+      "name": "Ali Nazik",
+      "price": null,
+      "description": "We proudly serve your choice of tender lamb or beef, paired with roasted eggplant, ripe tomato, creamy butter, fragrant garlic, and smooth yogurt.",
+      "simplified_description": "Ali Nazik is a specialty from Gaziantep featuring roasted eggplants with lamb or beef.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sarma",
+      "price": null,
+      "description": "Tender grape leaves stuffed with rice and herbs — a classic Turkish dish.",
+      "simplified_description": "Stuffed grape leaves with rice and herbs.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus",
+      "price": null,
+      "description": "Creamy chickpea dip blended with tahini, garlic, lemon juice, and olive oil. Smooth, rich, and perfect for dipping bread or pairing with any of our grilled dishes.",
+      "simplified_description": "A smooth dip made from chickpeas, tahini, and garlic.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tzatziki",
+      "price": null,
+      "description": "A cool and creamy yogurt dip mixed with grated cucumber, garlic, and a touch of mint. Light, refreshing, and perfect as a side or dip.",
+      "simplified_description": "A refreshing yogurt dip with cucumber and garlic.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ezeme",
+      "price": null,
+      "description": "A finely chopped Turkish salsa made with tomatoes, onions, peppers, parsley, and herbs, mixed with olive oil and a touch of spice. Fresh, tangy, and slightly zesty—perfect as a dip or a bold side to grilled meats.",
+      "simplified_description": "A fresh salsa made with chopped vegetables and herbs.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iskender Kebab",
+      "price": null,
+      "description": "A beloved Turkish specialty featuring sliced doner kebab layered over pieces of warm pita, topped with savoury tomato sauce and a drizzle of melted butter. Rich, comforting, and a Turkish Classic.",
+      "simplified_description": "Sliced doner kebab on pita with tomato sauce and butter.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Liver Kebab",
+      "price": null,
+      "description": "Grilled liver served with bread, rice, and salad — a bold and traditional Turkish dish.",
+      "simplified_description": "Grilled liver with bread, rice, and salad.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkish Donair",
+      "price": null,
+      "description": "A hearty and flavour-packed meal featuring tender, thinly sliced Turkish doner served over fragrant rice. Paired with a crisp side salad, creamy hummus, tzatziki, and warm pita bread.",
+      "simplified_description": "Thinly sliced doner on rice with salad and dips.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Adana Kebab",
+      "price": null,
+      "description": "A bold and spicy Turkish classic made from hand-minced beef and lamb, seasoned with traditional spices, and grilled on skewers over open flame. Served with rice, salad, hummus, tzatziki, and warm pita bread.",
+      "simplified_description": "Spicy minced beef and lamb kebab on skewers.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kebab",
+      "price": null,
+      "description": "Juicy, marinated chicken cubes grilled over open flame for a smoky, tender finish. Served with seasoned rice, fresh salad, creamy hummus, cool tzatziki, and warm pita bread.",
+      "simplified_description": "Grilled marinated chicken served with rice and salad.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggplant Platter",
+      "price": null,
+      "description": "Oven-roasted eggplant filled with your choice of: Vegetarian: a savoury mix of seasonal vegetables in a rich tomato sauce. Beef & Veggie: ground beef simmered with vegetables and Turkish spices. Served with rice, fresh salad, creamy hummus, and tzatziki.",
+      "simplified_description": "Roasted eggplant filled with vegetables or beef.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beyti Kebab",
+      "price": null,
+      "description": "Grilled ground beef kebab (Adana) wrapped in lavash bread, sliced and served over a bed of rice. Topped with savory tomato sauce and a drizzle of yogurt, and finished with melted butter.",
+      "simplified_description": "Ground beef kebab wrapped in bread and served with rice.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sultan's Choice",
+      "price": null,
+      "description": "A royal platter featuring juicy lamb kebab and tender chicken kebab, served with fragrant rice, fresh salad, creamy hummus, tzatziki, and warm pita bread.",
+      "simplified_description": "A platter with lamb and chicken kebabs served with rice.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter",
+      "price": null,
+      "description": "Rack of lamb, steak, Adana, lamb, and chicken kebabs — served with rice and salad.",
+      "simplified_description": "A large platter with various meats served with rice.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rack of Lamb",
+      "price": null,
+      "description": "Succulent lamb chops grilled to perfection with Turkish spices, delivering a juicy, tender bite every time. Served with seasoned rice, fresh salad, creamy hummus, and cool tzatziki.",
+      "simplified_description": "Grilled lamb chops served with rice and salad.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shoulder Special",
+      "price": null,
+      "description": "Tender lamb shoulder served over a bed of rice, garnished with grilled tomatoes, red onions, and fresh herbs. Accompanied by flatbread and a side of mixed salads.",
+      "simplified_description": "Lamb shoulder served with rice and garnishes.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Chicken",
+      "price": null,
+      "description": "Chicken filled with rice and herbs. Served with rice and fresh salad.",
+      "simplified_description": "Chicken stuffed with rice and herbs served with salad.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shank",
+      "price": null,
+      "description": "Slow-cooked, fall-off-the-bone lamb shank simmered in a rich blend of Turkish herbs and spices. Served with fragrant rice, fresh salad, creamy hummus, and cool tzatziki.",
+      "simplified_description": "Slow-cooked lamb shank served with rice and salad.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Friends Platter",
+      "price": null,
+      "description": "A combination of grilled meats, including chicken, beef, and lamb, served with roasted tomatoes, onions, and pita bread on a bed of seasoned rice.",
+      "simplified_description": "A mixed grill platter with various meats served with rice.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Grill",
+      "price": null,
+      "description": "Adana, lamb & chicken kebabs. Served with rice and salad.",
+      "simplified_description": "A mix of Adana, lamb, and chicken kebabs served with rice.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkish Tea",
+      "price": null,
+      "description": "Traditional Turkish black tea served hot in a tulip glass.",
+      "simplified_description": "Hot traditional Turkish black tea.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samaver Tea",
+      "price": null,
+      "description": "Traditional Turkish tea, brewed in a samaver and served hot. Serves 5.",
+      "simplified_description": "Hot Turkish tea brewed in a special pot, serves 5.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkish Coffee",
+      "price": null,
+      "description": "A special brewing method where coffee is ground fine like cocoa, mixed with sugar (optional), and slowly brewed. Served with Turkish Delights.",
+      "simplified_description": "Finely ground coffee brewed slowly, served with sweets.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Beef Pide",
+      "price": null,
+      "description": "Our baked flatbread topped with generous pieces of savory, roasted beef and melted cheese. A hearty, flavorful choice with deep, concentrated flavors.",
+      "simplified_description": "Flatbread topped with roasted beef and cheese.",
+      "category": "Pide",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pastirmali Pide",
+      "price": null,
+      "description": "Crispy flatbread topped with pastrami and melted cheese — a bold and tasty Turkish pizza.",
+      "simplified_description": "Flatbread topped with pastrami and cheese.",
+      "category": "Pide",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sujuk Pide",
+      "price": null,
+      "description": "Turkish flatbread topped with mild beef sujuk sausage and melted cheese, baked until perfectly golden.",
+      "simplified_description": "Flatbread topped with beef sausage and cheese.",
+      "category": "Pide",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kiymali Pide",
+      "price": null,
+      "description": "Flatbread with ground beef and vegetables — a classic Turkish pizza full of flavor.",
+      "simplified_description": "Flatbread topped with ground beef and vegetables.",
+      "category": "Pide",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lahmacun - Meat Pie",
+      "price": null,
+      "description": "A thin, crispy flatbread topped with a flavorful mix of ground beef, tomatoes, onions, herbs, and spices. Served with fresh parsley, onions, and lemon on the side.",
+      "simplified_description": "Crispy flatbread with ground beef and spices.",
+      "category": "Pide",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pide",
+      "price": null,
+      "description": "A Turkish flatbread filled with rich, melty kaşar cheese and baked until golden and bubbly.",
+      "simplified_description": "Flatbread filled with melted cheese.",
+      "category": "Pide",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pide",
+      "price": null,
+      "description": "Veggie Pide: Bell Peppers, Onion, Tomato, Mushroom, Cheese, Spinach.",
+      "simplified_description": "Flatbread topped with various vegetables and cheese.",
+      "category": "Pide",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kunafa",
+      "price": null,
+      "description": "Sweet cheese pastry. Kunafa is a traditional Middle Eastern dessert made with shredded phyllo dough, filled with sweet cheese or cream, baked until golden, and soaked in sugar syrup.",
+      "simplified_description": "A sweet pastry filled with cheese and soaked in syrup.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice pudding (Sutlac)",
+      "price": null,
+      "description": "Baked short grain rice and milk — a light and creamy Turkish dessert.",
+      "simplified_description": "A light and creamy rice and milk dessert.",
+      "category": "Desserts",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava (Classic walnut) 1 lb",
+      "price": null,
+      "description": "Layers of phyllo with pistachios or nuts, baked and sweetened with syrup.",
+      "simplified_description": "Layers of pastry with nuts and syrup.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pistachio Baklava",
+      "price": null,
+      "description": "Made with Antep pistachios, known for their distinct rich flavor, thin layers of dough are filled with crushed nuts, baked, and then soaked in syrup.",
+      "simplified_description": "Baklava made with rich Antep pistachios.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot Slice Baklava",
+      "price": null,
+      "description": "Offers a unique taste that combines rich flavors with pistachios.",
+      "simplified_description": "Baklava with a unique flavor and pistachios.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dilber Baklava",
+      "price": null,
+      "description": "Crafted with ultra-thin layers of dough, it features premium Antep pistachios.",
+      "simplified_description": "Baklava made with very thin layers and premium pistachios.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Midye Baklava",
+      "price": null,
+      "description": "Made from a combination of first-class ingredients and semolina cream.",
+      "simplified_description": "Baklava made with high-quality ingredients and cream.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tulumda Dessert",
+      "price": null,
+      "description": "Traditionally made to thrill those missing the traditional Turkish experience.",
+      "simplified_description": "A traditional Turkish dessert.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Delight",
+      "price": null,
+      "description": "A Turkish dessert that is rich and decadent.",
+      "simplified_description": "A rich and indulgent Turkish dessert.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kol Borek / Puff pastry",
+      "price": 8.99,
+      "description": "Spinach & cheese or ground beef.",
+      "simplified_description": "Puff pastry filled with spinach and cheese or ground beef.",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kavurma",
+      "price": null,
+      "description": "Sausage and cheese flatbread/Turkish Pizza.",
+      "simplified_description": "Flatbread topped with sausage and cheese.",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Menemen",
+      "price": null,
+      "description": "Mixed veggies and eggs.",
+      "simplified_description": "A dish made with mixed vegetables and eggs.",
+      "category": "Side Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Platter",
+      "price": 38.99,
+      "description": "Pide, feta, clotted cream and honey, simit, Kol Borek, olives, veggies, fruits, and molasses.",
+      "simplified_description": "A large breakfast platter with various items.",
+      "category": "Special",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    }
+  ]
+}

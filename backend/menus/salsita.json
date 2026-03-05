@@ -1,0 +1,241 @@
+{
+  "restaurant": "salsita",
+  "parsed_at": "2026-02-06T04:01:10.682577",
+  "item_count": 26,
+  "items": [
+    {
+      "name": "Queso Birria - 3 per serving",
+      "price": 16.95,
+      "description": "3 corn tortillas stuffed with queso fundido, shredded beef sirloin slowly cooked to perfection in it's juices with Mexican spices and chiles. Served with the beef juices, chips and salsa",
+      "category": "FOOD",
+      "simplified_description": "3 corn tortillas stuffed with queso fundido, shredded beef sirloin slowly cooked",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tacos to go",
+      "price": 15.95,
+      "description": "3 Tacos per serving - comes with portion of chips and salsa. Choose from: pulled beef, al Pastor, chicken, or vegggies",
+      "category": "FOOD",
+      "simplified_description": "3 Tacos per serving - comes with portion of chips and salsa. Choose from: pulled",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Esquites (10oz)",
+      "price": 6.95,
+      "description": "Mexican street corn off the cob. Corn kernels simmered in butter and epazote. Topped with mayo, queso fresco and tangy Mexican spice with a hint of lime",
+      "category": "FOOD",
+      "simplified_description": "Mexican street corn off the cob. Corn kernels simmered in butter and epazote. To",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cocktail Empanadas",
+      "price": 3.0,
+      "description": "Chilean-style empanadas Choose from: beef or chicken or spinach",
+      "category": "APPETIZER",
+      "simplified_description": "Chilean-style empanadas Choose from: beef or chicken or spinach",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips and Salsa for 4",
+      "price": 24.25,
+      "description": "500grs home-made corn tortilla chips, 8oz guacamole & 8oz pico de gallo salsa",
+      "category": "APPETIZER",
+      "simplified_description": "500grs home-made corn tortilla chips, 8oz guacamole & 8oz pico de gallo salsa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soups - 16oz",
+      "price": 8.95,
+      "description": "Home-made Chicken Tortilla Soup; Pork Pozole; or Black Bean Soup",
+      "category": "SOUP",
+      "simplified_description": "Home-made Chicken Tortilla Soup; Pork Pozole; or Black Bean Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taquitos, 6 count",
+      "price": 24.95,
+      "description": "6 corn tortillas filled with your choice of Chcken or Beef or Bean & Cheese, rolled and air fried, topped with queso fresco and spicy salsa verde",
+      "category": "FOOD",
+      "simplified_description": "6 corn tortillas filled with your choice of Chcken or Beef or Bean & Cheese, rol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pico de Gallo (16oz)",
+      "price": 5.25,
+      "description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nSize\nSmall$5.25\nMedium$9.95\nLarge$17.95",
+      "category": "SIDE",
+      "simplified_description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nSize\nSmall$5.25\nMedium",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango-pineapple Salsa 16oz",
+      "price": 5.0,
+      "description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nMy New Option\nSmall$5\nMedium$9\nLarge$17",
+      "category": "SIDE",
+      "simplified_description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nMy New Option\nSmall$5\n",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guacamole (16oz) - GF",
+      "price": 15.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ceviche (16oz) - GF",
+      "price": 15.95,
+      "description": "Ready in 1hr",
+      "category": "SIDE",
+      "simplified_description": "Ready in 1hr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips - 500g - GF",
+      "price": 10.0,
+      "description": "Homemade tortilla chips lightly salted with sea salt",
+      "category": "SIDE",
+      "simplified_description": "Homemade tortilla chips lightly salted with sea salt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef or Chicken Fajitas for 3 - GF",
+      "price": 35.95,
+      "description": "1lb of beef or Chicken, 6 corn tortillas, 8oz sour cream and 8oz guacamole",
+      "category": "FOOD",
+      "simplified_description": "1lb of beef or Chicken, 6 corn tortillas, 8oz sour cream and 8oz guacamole",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taco Kit for 3 - GF",
+      "price": 35.95,
+      "description": "1lb of meat, 6 corn tortillas, 8oz guacamole and 8oz pico de gallo salsa. Choose between: Al Pastor, beef barbacoa, chicken tinga, pulled pork, or veggies",
+      "category": "FOOD",
+      "simplified_description": "1lb of meat, 6 corn tortillas, 8oz guacamole and 8oz pico de gallo salsa. Choose",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Chiles Rellenos",
+      "price": 25.95,
+      "description": "2 Stuffed roasted poblano peppers in a light tomato sauce served with Mexican rice",
+      "category": "FOOD",
+      "simplified_description": "2 Stuffed roasted poblano peppers in a light tomato sauce served with Mexican ri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tamales for 3",
+      "price": 38.95,
+      "description": "6 tamales. Choose from: beef or pork or chicken or spinach & cheese. Comes with 16oz Mexican rice and 8oz red or green sauce. (Ready in 2hrs)",
+      "category": "FOOD",
+      "simplified_description": "6 tamales. Choose from: beef or pork or chicken or spinach & cheese. Comes with ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Rice (1 Litre) - GF",
+      "price": 13.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Refried Beans (16oz) - GF",
+      "price": 10.95,
+      "description": "Black and pinto beans cooked to perfection in Mexican spices and blended. Perfect as a side or with chips",
+      "category": "SIDE",
+      "simplified_description": "Black and pinto beans cooked to perfection in Mexican spices and blended. Perfec",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Queso Fresco (16oz) (cheese)",
+      "price": 15.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sour Cream (8oz)",
+      "price": 5.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lime Pie (serves 6-8)",
+      "price": 22.95,
+      "description": "A velvety smooth filling in a crust with crushed chunky almonds (very popular)",
+      "category": "DESSERT",
+      "simplified_description": "A velvety smooth filling in a crust with crushed chunky almonds (very popular)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Flan 8\"",
+      "price": 24.95,
+      "description": "Rich & creamy drizzled with Mexican caramel -Cajeta. Serves 15 (Need to order in advance)",
+      "category": "DESSERT",
+      "simplified_description": "Rich & creamy drizzled with Mexican caramel -Cajeta. Serves 15 (Need to order in",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lime Tarts",
+      "price": 3.0,
+      "description": "Made with freshly squeezed lime juice",
+      "category": "DESSERT",
+      "simplified_description": "Made with freshly squeezed lime juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Wedding Cookies",
+      "price": 2.0,
+      "description": "Made with freshly-ground almonds. Gluten-free option (with chocolate chips - no nuts) also available",
+      "category": "DESSERT",
+      "simplified_description": "Made with freshly-ground almonds. Gluten-free option (with chocolate chips - no ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tres Leches Cake",
+      "price": 6.95,
+      "description": "By the slice or call to order the whole cake 9\"x13\" for $49.95",
+      "category": "DESSERT",
+      "simplified_description": "By the slice or call to order the whole cake 9\"x13\" for $49.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churros (2X8\" pieces)",
+      "price": 5.95,
+      "description": "A favourite craving to enjoy anytime",
+      "category": "DESSERT",
+      "simplified_description": "A favourite craving to enjoy anytime",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

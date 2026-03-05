@@ -1,0 +1,817 @@
+{
+  "restaurant": "samosahouse",
+  "parsed_at": "2026-02-06T04:02:47.021331",
+  "item_count": 90,
+  "items": [
+    {
+      "name": "Bhindi Masala",
+      "price": 14.99,
+      "description": "Veg Main Course - Bhindi masala is a popular Indian dish made with okra, onion, tomatoes & spices that’s dry & best enjoyed with roti or naan.",
+      "category": "FOOD",
+      "simplified_description": "Veg Main Course - Bhindi masala is a popular Indian dish made with okra, onion, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baingan Bharta",
+      "price": 9.99,
+      "description": "Veg Main Course - Roasted eggplant mashed and cooked with tomatoes, onions, and traditional Indian spices, garnished with fresh cilantro.",
+      "category": "FOOD",
+      "simplified_description": "Veg Main Course - Roasted eggplant mashed and cooked with tomatoes, onions, and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 14.99,
+      "description": "Veg Main Course - Enjoy a popular classic, chickpeas cooked with tomatoes, fresh ginger, and a perfect medley of secret spices.",
+      "category": "FOOD",
+      "simplified_description": "Veg Main Course - Enjoy a popular classic, chickpeas cooked with tomatoes, fresh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg",
+      "price": 14.99,
+      "description": "Veg Main Course - Fresh vegetables in a light spiced gravy.",
+      "category": "FOOD",
+      "simplified_description": "Veg Main Course - Fresh vegetables in a light spiced gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Makhani",
+      "price": 14.99,
+      "description": "Veg Main Course - This rich lentil dish is made using whole black lentils and red kidney beans simmered together with cream and butter. Tiffin available.",
+      "category": "FOOD",
+      "simplified_description": "Veg Main Course - This rich lentil dish is made using whole black lentils and re",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Tadka",
+      "price": 9.99,
+      "description": "Veg Main Course - Daal Tadka is a popular Indian lentil dish made with arhar dal (husked & split pigeon peas) served on masoor dal (husked & split red lentils).",
+      "category": "FOOD",
+      "simplified_description": "Veg Main Course - Daal Tadka is a popular Indian lentil dish made with arhar dal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Patties",
+      "price": 5.99,
+      "description": "Samosa/Patties - Mildly spiced potato patties, typically accompanied by tangy tamarind chutney.",
+      "category": "FOOD",
+      "simplified_description": "Samosa/Patties - Mildly spiced potato patties, typically accompanied by tangy ta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Samosa",
+      "price": 2.5,
+      "description": "Samosa/Patties - Crispy triangular pastries filled with butter chicken marinated in tomato cream sauce and special spices. Includes complimentary tamarind chutney.",
+      "category": "FOOD",
+      "simplified_description": "Samosa/Patties - Crispy triangular pastries filled with butter chicken marinated",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer Samosa",
+      "price": 2.5,
+      "description": "Samosa/Patties - Crispy pastry filled with Indian paneer, aromatic spices, and herbs.",
+      "category": "FOOD",
+      "simplified_description": "Samosa/Patties - Crispy pastry filled with Indian paneer, aromatic spices, and h",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Patties",
+      "price": 3.99,
+      "description": "Samosa/Patties - Paneer patties consist of crumbled Indian cottage cheese mixed with a blend of spices and herbs, formed into rounds, and shallow-fried for a crispy exterior.",
+      "category": "FOOD",
+      "simplified_description": "Samosa/Patties - Paneer patties consist of crumbled Indian cottage cheese mixed ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Hand Made Samosa (4 pcs)",
+      "price": 6.0,
+      "description": "Samosa/Patties - Hand made Samosa add mixer of potatoes and paneer",
+      "category": "FOOD",
+      "simplified_description": "Samosa/Patties - Hand made Samosa add mixer of potatoes and paneer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kachori",
+      "price": 2.99,
+      "description": "Samosa/Patties",
+      "category": "FOOD",
+      "simplified_description": "Samosa/Patties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kasaundi Tava Fish",
+      "price": 16.99,
+      "description": "Tandoor - Fish marinated with achar (pickle) spices and yogurt, then grilled in a tandoor oven.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Fish marinated with achar (pickle) spices and yogurt, then grilled in ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Fish Tikka",
+      "price": 16.99,
+      "description": "Tandoor - Fresh fish marinated in a blend of traditional Amritsari spices and herbs, then grilled in a tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Fresh fish marinated in a blend of traditional Amritsari spices and he",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Paneer Tikka",
+      "price": 15.99,
+      "description": "Tandoor - Tiffin available.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Tiffin available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Achari Chaap",
+      "price": 15.99,
+      "description": "Tandoor - Marinated soya chunks grilled with pickling spices, served with sliced onions and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Marinated soya chunks grilled with pickling spices, served with sliced",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Fish Tikka",
+      "price": 16.99,
+      "description": "Tandoor - Tandoori.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Tandoori.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Soya Chaap",
+      "price": 15.99,
+      "description": "Tandoor - Grilled soya chunks marinated in creamy yogurt and spices, served with a side of fresh vegetable salad.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Grilled soya chunks marinated in creamy yogurt and spices, served with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sheekh Kabab",
+      "price": 16.99,
+      "description": "Tandoor - Tender minced chicken mixed with aromatic spices, skewered and grilled to perfection, served with a side of fresh vegetable garnishes.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Tender minced chicken mixed with aromatic spices, skewered and grilled",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Malai Tikka",
+      "price": 16.99,
+      "description": "Tandoor - Chicken Malai Tikka is an Indian chicken dish where marinated chicken pieces are grilled in tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Chicken Malai Tikka is an Indian chicken dish where marinated chicken ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 16.99,
+      "description": "Tandoor - Tandoori chicken, a dish of roasted chicken marinated in yogurt and generously spiced, giving the meat its trademark red colour. It is named for...",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Tandoori chicken, a dish of roasted chicken marinated in yogurt and ge",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 16.99,
+      "description": "Tandoor - Chicken tikka is a chicken dish prepared by roasting chicken marinated in yogurt and spices in a tandoor, a cylindrical clay oven. The dish originated...",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Chicken tikka is a chicken dish prepared by roasting chicken marinated",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Malaai Tikka",
+      "price": 15.99,
+      "description": "Tandoor - A popular medium-spiced tikka recipe made with marinated paneer cubes and veggies, unlike the traditional tikka recipes which are known for its spiciness.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - A popular medium-spiced tikka recipe made with marinated paneer cubes ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 15.99,
+      "description": "Tandoor - Paneer tikka is an Indian dish made from chunks of paneer marinated in spices and grilled in a tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor - Paneer tikka is an Indian dish made from chunks of paneer marinated in",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Soya Chaap",
+      "price": 15.99,
+      "description": "Tandoor",
+      "category": "FOOD",
+      "simplified_description": "Tandoor",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Faluda",
+      "price": 8.99,
+      "description": "Drinks - Falooda typically consists of rose syrup, vermicelli, and basil seeds, often topped with ice cream and sometimes garnished with nuts.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Falooda typically consists of rose syrup, vermicelli, and basil seeds, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mojito",
+      "price": 8.99,
+      "description": "Drinks - Fresh and creamy blend of ripe strawberries, served chilled with a delightful milk base.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Fresh and creamy blend of ripe strawberries, served chilled with a deli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shake",
+      "price": 7.99,
+      "description": "Drinks - Refreshing milkshake, perfectly blended for a creamy, tropical delight.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Refreshing milkshake, perfectly blended for a creamy, tropical delight.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jaljeera",
+      "price": 4.99,
+      "description": "Drinks - Soda infused with jaljeera powder, typically including a blend of cumin, mint, black salt, and lemon juice for a tangy and refreshing experience.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Soda infused with jaljeera powder, typically including a blend of cumin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 3.99,
+      "description": "Drinks - Salty yogurt drink with a refreshing blend of flavors, a must-try for Lassi lovers.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Salty yogurt drink with a refreshing blend of flavors, a must-try for L",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patiala Shahi Lassi",
+      "price": 4.99,
+      "description": "Drinks - Creamy yogurt-based drink, topped with a sprig of fresh mint.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Creamy yogurt-based drink, topped with a sprig of fresh mint.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 4.99,
+      "description": "Drinks - Refreshing mango Lassi",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Refreshing mango Lassi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kesar Milk Badam",
+      "price": 8.49,
+      "description": "Drinks - Saffron-infused milk with finely chopped almonds.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Saffron-infused milk with finely chopped almonds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milk Badam",
+      "price": 7.99,
+      "description": "Drinks - Creamy almond milk infused with cardamom and saffron, garnished with crushed almonds.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Creamy almond milk infused with cardamom and saffron, garnished with cr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop (350 ml)",
+      "price": 2.49,
+      "description": "Drinks - Cola, Diet Cola, Coke Zero",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Cola, Diet Cola, Coke Zero",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Chai Tea",
+      "price": 1.99,
+      "description": "Drinks - A traditional Indian beverage brewed by simmering black tea with milk and a blend of spices such as cardamom, cinnamon, and ginger.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - A traditional Indian beverage brewed by simmering black tea with milk a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 1.99,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Indian Coffee",
+      "price": 3.99,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Masala Soda",
+      "price": 6.99,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Shikanji",
+      "price": 6.99,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Burji",
+      "price": 15.99,
+      "description": "Non-Veg Main Course - Scrambled eggs mixed with onions, tomatoes, and cilantro, seasoned with a blend of Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Scrambled eggs mixed with onions, tomatoes, and cilantro, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhuna Gosht",
+      "price": 18.99,
+      "description": "Non-Veg Main Course - Chunks of meat sautéed with onions, tomatoes, and a blend of spices, creating a thick and rich curry.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Chunks of meat sautéed with onions, tomatoes, and a blend ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Rogan Josh",
+      "price": 18.99,
+      "description": "Non-Veg Main Course - Tender goat pieces simmered in a rich, aromatic curry sauce with spices, garnished with fresh cilantro and ginger strips.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Tender goat pieces simmered in a rich, aromatic curry sauc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Curry",
+      "price": 18.99,
+      "description": "Non-Veg Main Course - Goat sautéed for hours with onions, tomatoes, and Indian spices to create a thick gravy. Watch the meat fall off the bone. Tiffin available.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Goat sautéed for hours with onions, tomatoes, and Indian s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Labaabdaar",
+      "price": 17.99,
+      "description": "Non-Veg Main Course - Boneless chicken simmered in a rich, creamy gravy with tomatoes, onions, cashews, and a blend of aromatic spices.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Boneless chicken simmered in a rich, creamy gravy with tom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rara Chicken",
+      "price": 17.99,
+      "description": "Non-Veg Main Course - Boneless chicken cooked alongside minced chicken in a robust onion and tomato gravy, seasoned with a special blend of spices.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Boneless chicken cooked alongside minced chicken in a robu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 16.99,
+      "description": "Non-Veg Main Course - Chicken tikka is a chicken dish prepared by roasting chicken marinated in yogurt and spices in a tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Chicken tikka is a chicken dish prepared by roasting chick",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 16.99,
+      "description": "Non-Veg Main Course - This most simple of chicken recipes is also one of the tastiest.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - This most simple of chicken recipes is also one of the tas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Chicken",
+      "price": 16.99,
+      "description": "Non-Veg Main Course - Everyone loves Kadhai chicken! This spicy and flavorful dish made with chicken, onions, tomatoes, and fresh Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - Everyone loves Kadhai chicken! This spicy and flavorful di",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 16.99,
+      "description": "Non-Veg Main Course - The all too famous Butter Chicken! Boneless chicken made in a tangy tomato and cream sauce with a blend of Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course - The all too famous Butter Chicken! Boneless chicken made i",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kali Mirch",
+      "price": 17.99,
+      "description": "Non-Veg Main Course",
+      "category": "FOOD",
+      "simplified_description": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Hakka Noodles",
+      "price": 16.99,
+      "description": "Indo-Chinese - Hakka noodles is a popular indo-chinese dish of stir fried noodles, veggies and sauces. It is hugely popular in indian restaurants and street stalls.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Hakka noodles is a popular indo-chinese dish of stir fried noodle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 16.99,
+      "description": "Indo-Chinese - Savory stir-fried rice with mixed vegetables and choice of protein.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Savory stir-fried rice with mixed vegetables and choice of protei",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Chilly",
+      "price": 16.99,
+      "description": "Indo-Chinese - Battered fish fried and tossed with onions, bell peppers, and a tangy Indo-Chinese chili sauce.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Battered fish fried and tossed with onions, bell peppers, and a t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Chicken",
+      "price": 16.99,
+      "description": "Indo-Chinese - Boneless chicken pieces stir-fried with bell peppers and onions, typically includes a spicy blend of chili and soy sauces.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Boneless chicken pieces stir-fried with bell peppers and onions, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Chilly",
+      "price": 16.99,
+      "description": "Indo-Chinese - Paneer chilly combines tender paneer with ginger, garlic, bell peppers, and onions, tossed in a blend of soy and chili sauces for an Indo-Chinese flavor.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Paneer chilly combines tender paneer with ginger, garlic, bell pe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken 65",
+      "price": 16.99,
+      "description": "Indo-Chinese - Spicy, marinated boneless chicken, fried to perfection.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Spicy, marinated boneless chicken, fried to perfection.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Manchurian",
+      "price": 16.99,
+      "description": "Indo-Chinese - Tantalizing chicken coated in a sweet, spicy, and tangy sauce sauce, and infused with aromatic Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Tantalizing chicken coated in a sweet, spicy, and tangy sauce sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gobi Manchurian",
+      "price": 14.99,
+      "description": "Indo-Chinese - Crispy Cauliflower Florets in Spicy Manchurian Sauce",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Crispy Cauliflower Florets in Spicy Manchurian Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Manchurian",
+      "price": 14.99,
+      "description": "Indo-Chinese - Mixed vegetable balls, deep-fried, then cooked with garlic and soy-based sauces.",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese - Mixed vegetable balls, deep-fried, then cooked with garlic and so",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Hakka Noodles",
+      "price": 14.99,
+      "description": "Indo-Chinese",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": 14.99,
+      "description": "Indo-Chinese",
+      "category": "FOOD",
+      "simplified_description": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Keema Naan",
+      "price": 5.99,
+      "description": "Breads - Naan bread filled with minced chicken and aromatic herbs, baked in a traditional tandoor oven.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Naan bread filled with minced chicken and aromatic herbs, baked in a tr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Tandoori Kulcha",
+      "price": 4.99,
+      "description": "Breads - Amritsari kulcha is crisp as well as soft leavened bread which is stuffed with boiled and mashed potatoes and spices.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Amritsari kulcha is crisp as well as soft leavened bread which is stuff",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tandoori Parantha",
+      "price": 4.99,
+      "description": "Breads - Whole wheat bread stuffed with spiced mashed potatoes, traditionally cooked in a tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Whole wheat bread stuffed with spiced mashed potatoes, traditionally co",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Laccha Parantha",
+      "price": 3.99,
+      "description": "Breads - Whole wheat bread, layered and cooked in a clay oven, often accompanied by a hint of butter.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Whole wheat bread, layered and cooked in a clay oven, often accompanied",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Puri",
+      "price": 2.49,
+      "description": "Breads - Unleavened whole-wheat flour bread, deep-fried to achieve a puffed and golden appearance.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Unleavened whole-wheat flour bread, deep-fried to achieve a puffed and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhatura",
+      "price": 3.49,
+      "description": "Breads - A fluffy deep-fried leavened bread originating from punjab often eaten with chickpea curry, a dish named chole bhature.",
+      "category": "FOOD",
+      "simplified_description": "Breads - A fluffy deep-fried leavened bread originating from punjab often eaten ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 2.75,
+      "description": "Breads - Soft flatbread topped with minced garlic and fresh herbs.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Soft flatbread topped with minced garlic and fresh herbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.49,
+      "description": "Breads - Leavened bread of fine white flour layered with butter.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Leavened bread of fine white flour layered with butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 1.99,
+      "description": "Breads - Roti is an unleavened flatbread made of whole wheat flour. it is light, flaky, and cooked in a tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Roti is an unleavened flatbread made of whole wheat flour. it is light,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tava Roti",
+      "price": 1.49,
+      "description": "Breads - Roti is an unleavened flatbread made of whole wheat flour. it is light, flaky, and cooked on hot plate.",
+      "category": "FOOD",
+      "simplified_description": "Breads - Roti is an unleavened flatbread made of whole wheat flour. it is light,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Desi Ghee Paratha",
+      "price": 11.99,
+      "description": "Breads - Comes with Butter, Dahi, Achaar",
+      "category": "FOOD",
+      "simplified_description": "Breads - Comes with Butter, Dahi, Achaar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Biryani",
+      "price": 18.99,
+      "description": "Rice - A rich and flavorful layered goat indian rice dish and world-renowned indian dish long-grained rice (like basmati) flavored with fragrant spices such as saffron in a thick gravy.",
+      "category": "FOOD",
+      "simplified_description": "Rice - A rich and flavorful layered goat indian rice dish and world-renowned ind",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 17.99,
+      "description": "Rice - A rich and flavorful layered chicken indian rice dish and world-renowned indian dish long-grained rice (like basmati) flavored with fragrant spices...",
+      "category": "FOOD",
+      "simplified_description": "Rice - A rich and flavorful layered chicken indian rice dish and world-renowned ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 15.99,
+      "description": "Rice - Aromatic Basmati rice cooked with mixed vegetables, and infused with traditional spices.",
+      "category": "FOOD",
+      "simplified_description": "Rice - Aromatic Basmati rice cooked with mixed vegetables, and infused with trad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulao Rice",
+      "price": 9.99,
+      "description": "Rice - Vegetable pulao (veg pulav) is a spicy rice dish prepared by cooking rice with various vegetables and spices.",
+      "category": "FOOD",
+      "simplified_description": "Rice - Vegetable pulao (veg pulav) is a spicy rice dish prepared by cooking rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 5.99,
+      "description": "Rice - Coconut-infused rice, a delightful tropical twist to elevate your dining experience.",
+      "category": "FOOD",
+      "simplified_description": "Rice - Coconut-infused rice, a delightful tropical twist to elevate your dining ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 5.99,
+      "description": "Rice - Aromatic basmati rice infused with cumin seeds and spices, served steaming hot.",
+      "category": "FOOD",
+      "simplified_description": "Rice - Aromatic basmati rice infused with cumin seeds and spices, served steamin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 4.99,
+      "description": "Rice - Plain aromatic basmati rice.",
+      "category": "FOOD",
+      "simplified_description": "Rice - Plain aromatic basmati rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry Combo with Naan Bread",
+      "price": 16.99,
+      "description": "Meal Combo's - Chicken curry served alongside naan bread, typically includes a rich blend of Indian spices and a side of channa masala.",
+      "category": "FOOD",
+      "simplified_description": "Meal Combo's - Chicken curry served alongside naan bread, typically includes a r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Keema Naan with Butter Chicken Gravy",
+      "price": 16.99,
+      "description": "Meal Combo's - Butter Chicken, Channa Masala, Rice,1 Butter Naan & Veg Samosa.",
+      "category": "FOOD",
+      "simplified_description": "Meal Combo's - Butter Chicken, Channa Masala, Rice,1 Butter Naan & Veg Samosa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer Combo with Naan Bread",
+      "price": 16.99,
+      "description": "Meal Combo's - Shahi Paneer, Channa Masala, Rice, & Veg Samosa.",
+      "category": "FOOD",
+      "simplified_description": "Meal Combo's - Shahi Paneer, Channa Masala, Rice, & Veg Samosa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Curry Combo with Naan Bread",
+      "price": 16.99,
+      "description": "Meal Combo's - Goat Curry, Channa Masala, Rice & Veg Samosa.",
+      "category": "FOOD",
+      "simplified_description": "Meal Combo's - Goat Curry, Channa Masala, Rice & Veg Samosa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Combo with Naan Bread",
+      "price": 16.99,
+      "description": "Meal Combo's - Butter Chicken, Channa Masala, Rice & Veg Samosa.",
+      "category": "FOOD",
+      "simplified_description": "Meal Combo's - Butter Chicken, Channa Masala, Rice & Veg Samosa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalebis (1lb)",
+      "price": 7.99,
+      "description": "Desserts - Golden, crispy spirals soaked in a sweet syrup, offering a delightful blend of textures and flavors.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - Golden, crispy spirals soaked in a sweet syrup, offering a delightful",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Indian Kulfi",
+      "price": 2.99,
+      "description": "Desserts - A single piece of moist red velvet cake, subtly flavored with cocoa, layered with rich cream cheese frosting.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - A single piece of moist red velvet cake, subtly flavored with cocoa, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasmalai(3 pcs)",
+      "price": 4.99,
+      "description": "Desserts - Ras malai is a cream-based dessert made with cream, to form a cheese ball. This is India’s top dessert!",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - Ras malai is a cream-based dessert made with cream, to form a cheese ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gajrela",
+      "price": 5.99,
+      "description": "Desserts - A sweet carrot-based dessert pudding.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - A sweet carrot-based dessert pudding.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun(4 pcs)",
+      "price": 4.99,
+      "description": "Desserts - Gulab jamun is a very light Indian donut drizzled with a sweet syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - Gulab jamun is a very light Indian donut drizzled with a sweet syrup.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

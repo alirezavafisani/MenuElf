@@ -1,0 +1,79 @@
+{
+  "restaurant": "dennys",
+  "parsed_at": "2026-02-06T01:58:00.296578",
+  "item_count": 7,
+  "items": [
+    {
+      "name": "Chicken Tenders Dinner",
+      "price": 18.99,
+      "description": "Premium golden-fried chicken tenders served with choice of dipping sauce. Served with your choice of two sides and dinner bread after existing description.",
+      "category": "DINNER",
+      "simplified_description": "Fried chicken tenders with dipping sauce, two sides, and dinner bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crazy Spicy Sizzlin’ Skillet",
+      "price": 20.59,
+      "description": "Crumbled chorizo sausage, fire-roasted bell peppers and onions, mushrooms, jalapenos, and seasoned red potatoes. Topped with grilled seasoned chicken breast, shredded cheddar cheese blend, a spicy five pepper sauce, and pepper jack queso.",
+      "category": "DINNER",
+      "simplified_description": "Spicy skillet with chorizo, chicken, veggies, cheese, and seasoned potatoes.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cali Club Sandwich",
+      "price": 18.29,
+      "description": "Turkey breast, ham, bacon, Swiss cheese, fresh avocado, mayo, lettuce and tomato on toasted multigrain bread.",
+      "category": "SANDWICH",
+      "simplified_description": "Sandwich with turkey, ham, bacon, cheese, avocado, and veggies on multigrain bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate Omelette®",
+      "price": 19.49,
+      "description": "Three-egg omelette with crumbled sausage, bacon, fire‑roasted bell peppers & onions, sautéed mushrooms, tomatoes and cheddar cheese blend, served with hash browns and your choice of toast.",
+      "category": "OMELETTE",
+      "simplified_description": "Three-egg omelette with sausage, bacon, veggies, cheese, hash browns, and toast.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Berry Waffle Slam",
+      "price": 19.79,
+      "description": "Two sweet Liège-style waffles made with real butter and pearl sugar, topped with seasonal berries and caramel sauce. Served with two eggs made to order, two bacon strips and two all-pork sausage links.",
+      "category": "SWEET",
+      "simplified_description": "Sweet waffles with berries and caramel, plus eggs, bacon, and sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Shrimp Tropical Bowl",
+      "price": 20.99,
+      "description": "Grilled shrimp, fresh mango salsa, sweet chili sauce, whole grain rice, broccoli, sweet corn, marinated red cabbage, fresh avocado, cucumber and spinach, sprinkled with white sesame seeds.",
+      "category": "BOWL",
+      "simplified_description": "Shrimp bowl with mango salsa, veggies, rice, and sweet chili sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Teriyaki Tofu Tropical Bowl",
+      "price": null,
+      "description": "Crispy teriyaki tofu bites, fresh mango salsa, sweet chili sauce, whole grain rice, broccoli, sweet corn, marinated red cabbage, fresh avocado, cucumber and spinach, sprinkled with white sesame seeds.",
+      "category": "BOWL",
+      "simplified_description": "Tofu bowl with mango salsa, veggies, rice, and sweet chili sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

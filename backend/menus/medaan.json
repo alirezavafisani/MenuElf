@@ -1,0 +1,106 @@
+{
+  "restaurant": "medaan",
+  "parsed_at": "2026-02-06T03:18:53.175907",
+  "item_count": 11,
+  "items": [
+    {
+      "name": "POMEGRANATE",
+      "price": 4.99,
+      "description": "POMEGRANATE",
+      "category": "DRINK",
+      "simplified_description": "POMEGRANATE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PINEAPPLE",
+      "price": 4.99,
+      "description": "PINEAPPLE",
+      "category": "DRINK",
+      "simplified_description": "PINEAPPLE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BERRY BLAST",
+      "price": 4.99,
+      "description": "BERRY BLAST",
+      "category": "DRINK",
+      "simplified_description": "BERRY BLAST",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8 JALAPENO POPPERS",
+      "price": 9.29,
+      "description": "8 JALAPENO POPPERS",
+      "category": "APPETIZER",
+      "simplified_description": "8 JALAPENO POPPERS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TENDERS 3 PCS",
+      "price": 7.99,
+      "description": "CHICKEN TENDERS 3 PCS",
+      "category": "APPETIZER",
+      "simplified_description": "CHICKEN TENDERS 3 PCS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FATOUSH SALAD",
+      "price": 7.99,
+      "description": "FATOUSH SALAD",
+      "category": "SIDE",
+      "simplified_description": "FATOUSH SALAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHISH SALAD",
+      "price": null,
+      "description": "SHISH SALAD",
+      "category": "OTHER",
+      "simplified_description": "SHISH SALAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GYRO POUTINE",
+      "price": null,
+      "description": "GYRO POUTINE",
+      "category": "OTHER",
+      "simplified_description": "GYRO POUTINE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FALAFEL AND RICE",
+      "price": null,
+      "description": "FALAFEL AND RICE",
+      "category": "OTHER",
+      "simplified_description": "FALAFEL AND RICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SALAD",
+      "price": null,
+      "description": "CHICKEN SALAD",
+      "category": "OTHER",
+      "simplified_description": "CHICKEN SALAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HALLOUMI",
+      "price": null,
+      "description": "HALLOUMI",
+      "category": "OTHER",
+      "simplified_description": "HALLOUMI",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

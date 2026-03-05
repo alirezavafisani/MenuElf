@@ -1,0 +1,493 @@
+{
+  "restaurant": "sagehillnw",
+  "parsed_at": "2025-12-25T03:23:06.958164",
+  "item_count": 54,
+  "items": [
+    {
+      "name": "Pop Up Deal - 6 Chicken Pieces",
+      "price": 15.99,
+      "description": "Get 6 Chicken Pieces",
+      "simplified_description": "A deal for 6 pieces of chicken",
+      "category": "Limited Time Deal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop Up Deal - 9 Chicken Pieces",
+      "price": 21.99,
+      "description": "Get 9 Chicken Pieces",
+      "simplified_description": "A deal for 9 pieces of chicken",
+      "category": "Limited Time Deal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Chicken Pieces Meal (Combo #1)",
+      "price": 13.99,
+      "description": "Includes Small Fries & Pop",
+      "simplified_description": "A meal with 3 chicken pieces, small fries, and a drink",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4 Chicken Pieces Meal (Combo #2)",
+      "price": 16.99,
+      "description": "Includes Medium Fries, Small Gravy & Pop",
+      "simplified_description": "A meal with 4 chicken pieces, medium fries, small gravy, and a drink",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Chicken Pieces Meal (Combo #3)",
+      "price": 26.99,
+      "description": "Includes Medium Fries, Medium Gravy, Medium Side of Your Choice",
+      "simplified_description": "A meal with 6 chicken pieces, medium fries, medium gravy, and a medium side",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "9 Chicken Pieces Meal (Combo #4)",
+      "price": 35.99,
+      "description": "Includes Large Fries, Large Gravy & Medium Side of Your Choice",
+      "simplified_description": "A meal with 9 chicken pieces, large fries, large gravy, and a medium side",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12 Chicken Pieces Meal (Combo #5)",
+      "price": 44.99,
+      "description": "Includes Large Fries, Large Gravy & Large Side of Your Choice",
+      "simplified_description": "A meal with 12 chicken pieces, large fries, large gravy, and a large side",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "15 Chicken Pieces Meal (Combo #6)",
+      "price": 56.99,
+      "description": "Includes 2 Large Fries, 2 Large Gravies, 1 Large Side of Your Choice & 2L Pop",
+      "simplified_description": "A meal with 15 chicken pieces, 2 large fries, 2 large gravies, 1 large side, and 2 liters of drink",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20 Chicken Pieces Meal (Combo #7)",
+      "price": 67.99,
+      "description": "Includes 2 Large Fries, 2 Large Gravies, 2 Large Sides of Your Choice & 2L Pop",
+      "simplified_description": "A meal with 20 chicken pieces, 2 large fries, 2 large gravies, 2 large sides, and 2 liters of drink",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "30 Chicken Pieces Meal (Combo #8)",
+      "price": 92.99,
+      "description": "Includes 2 Large Fries, 2 Large Gravies, 2 Large Sides of Your Choice & 2L Pop",
+      "simplified_description": "A meal with 30 chicken pieces, 2 large fries, 2 large gravies, 2 large sides, and 2 liters of drink",
+      "category": "Combo Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pieces (Up to 30 Pieces Available)",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "Order chicken pieces, available up to 30",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breaded Wings",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "Wings that are breaded",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12 Pieces",
+      "price": 27.99,
+      "description": "",
+      "simplified_description": "Order of 12 pieces",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "24 Pieces",
+      "price": null,
+      "description": "",
+      "simplified_description": "Order of 24 pieces",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "A sandwich with chicken",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "Strips of chicken",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popcorn Chicken",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "Small pieces of chicken that are breaded and fried",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": null,
+      "description": "",
+      "simplified_description": "Fried potato strips",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Fries",
+      "price": 3.25,
+      "description": "",
+      "simplified_description": "A small portion of fries",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Fries",
+      "price": 6.25,
+      "description": "",
+      "simplified_description": "A medium portion of fries",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Fries",
+      "price": 8.49,
+      "description": "",
+      "simplified_description": "A large portion of fries",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wedges",
+      "price": null,
+      "description": "",
+      "simplified_description": "Potato wedges",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Wedges",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A small portion of wedges",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Wedges",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "A medium portion of wedges",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Wedges",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "A large portion of wedges",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": null,
+      "description": "",
+      "simplified_description": "Fried onion rings",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Onion Rings",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A small portion of onion rings",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Onion Rings",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "A medium portion of onion rings",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Onion Rings",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "A large portion of onion rings",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": null,
+      "description": "",
+      "simplified_description": "Fries topped with cheese curds and gravy",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Poutine",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "A small portion of poutine",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Poutine",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "A large portion of poutine",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": null,
+      "description": "",
+      "simplified_description": "A sauce made from meat juices",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Gravy",
+      "price": 2.19,
+      "description": "",
+      "simplified_description": "A small portion of gravy",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Gravy",
+      "price": 3.19,
+      "description": "",
+      "simplified_description": "A medium portion of gravy",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Gravy",
+      "price": 4.49,
+      "description": "",
+      "simplified_description": "A large portion of gravy",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coleslaw",
+      "price": null,
+      "description": "",
+      "simplified_description": "Shredded cabbage salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Coleslaw",
+      "price": 2.49,
+      "description": "",
+      "simplified_description": "A small portion of coleslaw",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Coleslaw",
+      "price": 4.49,
+      "description": "",
+      "simplified_description": "A medium portion of coleslaw",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Coleslaw",
+      "price": 6.49,
+      "description": "",
+      "simplified_description": "A large portion of coleslaw",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Macaroni Salad",
+      "price": null,
+      "description": "",
+      "simplified_description": "Pasta salad with macaroni",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Macaroni Salad",
+      "price": 2.49,
+      "description": "",
+      "simplified_description": "A small portion of macaroni salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Macaroni Salad",
+      "price": 4.49,
+      "description": "",
+      "simplified_description": "A medium portion of macaroni salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Macaroni Salad",
+      "price": 6.49,
+      "description": "",
+      "simplified_description": "A large portion of macaroni salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mashed Potato",
+      "price": null,
+      "description": "",
+      "simplified_description": "Creamy potato dish",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Mashed Potato",
+      "price": 2.99,
+      "description": "",
+      "simplified_description": "A small portion of mashed potatoes",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Mashed Potato",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "A medium portion of mashed potatoes",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Mashed Potato",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "A large portion of mashed potatoes",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Salad",
+      "price": null,
+      "description": "",
+      "simplified_description": "Salad made with potatoes",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Potato Salad",
+      "price": 2.49,
+      "description": "",
+      "simplified_description": "A small portion of potato salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Potato Salad",
+      "price": 4.49,
+      "description": "",
+      "simplified_description": "A medium portion of potato salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Potato Salad",
+      "price": 6.49,
+      "description": "",
+      "simplified_description": "A large portion of potato salad",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 2.09,
+      "description": "",
+      "simplified_description": "A can of soda",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "A 2-liter bottle of soda",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

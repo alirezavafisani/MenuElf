@@ -1,0 +1,880 @@
+{
+  "restaurant": "royalmangoshivaa",
+  "parsed_at": "2025-12-25T02:10:41.859589",
+  "item_count": 97,
+  "items": [
+    {
+      "name": "Veg Samosa",
+      "price": 2.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chat",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Papri Chat",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki Chat",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Chole Bhature",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Pakora",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dahi Bhalle",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pakora",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Pakora",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Kulche Chole",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori BBQ Chicken Tikka",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chaap",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achaari Chaap",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Afgani Grilled Soya Chaap",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mint Malai Chicken Tikka",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Kabab",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Lamb Kabab",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Prawn",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken (Full)",
+      "price": 20.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken (Half)",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Street Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Veg Noodles",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Noodles Spring Rolls",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Manchurian",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Chicken Noodles",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Paneer",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Mushroom",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gobhi Manchurian",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Chicken",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Fish",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indo-Chinese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Kathi Roll",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kathi Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Kathi Roll",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kathi Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kathi Roll",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kathi Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Royal Dhaba Daal",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Okra Masala",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobhi",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Makhani",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yellow Daal Tadka",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Makhani",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Chaap",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Do Pyaza",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutter Mushroom",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutter Paneer",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tawa Paneer Masala",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Began Bhartha",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Delhi Tawa Soya Chaap",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Bhurji",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutter Methi Malai",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Royal Chicken Curry With Bones",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tawa Chicken Masala",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Methi Malai Chicken",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Royal Egg Curry With Keema",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken With Bones",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Goat Curry",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Curry",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Non-Veg Main Course",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice",
+      "price": 5.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice/Biryani",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Biryani",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice/Biryani",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice/Biryani",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Biryani",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice/Biryani",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tawa Roti",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lacha Paratha",
+      "price": 3.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pudina Paratha",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peshavari Naan",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Pappad (2pc)",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion / Green Chutney",
+      "price": 2.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pickle / Onion",
+      "price": 2.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Dish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Salad",
+      "price": 5.6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salad/Raita",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Raita",
+      "price": 5.6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salad/Raita",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bollywood Sunday (3 Gulab Jamun, 2 Ice Cream)",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Faluda (Mango/Coconut)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kheer (Rice Pudding)",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot Halwa",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ras Malai",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Badam Milk",
+      "price": 7.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Thali",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Thali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Non Veg Thali",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Thali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Chicken Soup",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kulche Chole Combo",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Bhathure Combo",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

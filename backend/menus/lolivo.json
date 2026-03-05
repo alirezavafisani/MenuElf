@@ -1,0 +1,754 @@
+{
+  "restaurant": "lolivo",
+  "parsed_at": "2026-02-06T03:09:52.128743",
+  "item_count": 83,
+  "items": [
+    {
+      "name": "tte, quail Egg",
+      "price": 13.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Polpettine”",
+      "price": 14.0,
+      "description": "roasted veal meatballs, porcini coulis; tartufato",
+      "category": "FOOD",
+      "simplified_description": "roasted veal meatballs, porcini coulis; tartufato",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Capesante”",
+      "price": 14.0,
+      "description": "scallops gratin, pancetta-potato chowder, lemon oil",
+      "category": "FOOD",
+      "simplified_description": "scallops gratin, pancetta-potato chowder, lemon oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Funghetto”",
+      "price": 14.0,
+      "description": "warm eggplant stew, crumbled goat cheese, EVOO crostini",
+      "category": "FOOD",
+      "simplified_description": "warm eggplant stew, crumbled goat cheese, EVOO crostini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Polenta”",
+      "price": 12.0,
+      "description": "fried polenta cubes, calabrese seasoning & lime panna",
+      "category": "FOOD",
+      "simplified_description": "fried polenta cubes, calabrese seasoning & lime panna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Grana e Norcia”",
+      "price": 14.0,
+      "description": "Grana Padano fritters, aged prosciutto di Norcia I.G.P, aged balsamic",
+      "category": "FOOD",
+      "simplified_description": "Grana Padano fritters, aged prosciutto di Norcia I.G.P, aged balsamic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Casarecce”",
+      "price": 18.0,
+      "description": "spicy sausage, saffron, tomato passata & smoked provolone",
+      "category": "FOOD",
+      "simplified_description": "spicy sausage, saffron, tomato passata & smoked provolone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Paccheri”",
+      "price": 18.0,
+      "description": "sauteed zucchini, “datterini” tomatoes, goat cheese & fresh basil",
+      "category": "FOOD",
+      "simplified_description": "sauteed zucchini, “datterini” tomatoes, goat cheese & fresh basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Ziti”",
+      "price": 18.0,
+      "description": "“Genovese style” sweet candied onions, pulled duck, white wine & fresh sage",
+      "category": "FOOD",
+      "simplified_description": "“Genovese style” sweet candied onions, pulled duck, white wine & fresh sage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Tagliatelle”",
+      "price": 18.0,
+      "description": "diced prawns, crustacean bisque & fresh tarragon",
+      "category": "FOOD",
+      "simplified_description": "diced prawns, crustacean bisque & fresh tarragon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Agnello”",
+      "price": 23.0,
+      "description": "3oz. roasted lamb rib-chop, broccolini-roasted garlic aioli",
+      "category": "FOOD",
+      "simplified_description": "3oz. roasted lamb rib-chop, broccolini-roasted garlic aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Vitello Tonnato”",
+      "price": 23.0,
+      "description": "3oz. grain fed veal tenderloin, tuna-olive oil & caper aioli",
+      "category": "FOOD",
+      "simplified_description": "3oz. grain fed veal tenderloin, tuna-olive oil & caper aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Cacciucco”",
+      "price": 23.0,
+      "description": "seafood stew; prawn, sablefish & bay scallops. Saffron-tomato broth, fresh lime",
+      "category": "FOOD",
+      "simplified_description": "seafood stew; prawn, sablefish & bay scallops. Saffron-tomato broth, fresh lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Petto D’Anatra”",
+      "price": 23.0,
+      "description": "3oz. peppered smoked duck breast, marsala reduction & creamy polenta",
+      "category": "FOOD",
+      "simplified_description": "3oz. peppered smoked duck breast, marsala reduction & creamy polenta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Al Forno”",
+      "price": 9.0,
+      "description": "duck fat roasted fingerlings, rosemary & garlic",
+      "category": "SIDE",
+      "simplified_description": "duck fat roasted fingerlings, rosemary & garlic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Broccolini”",
+      "price": 9.0,
+      "description": "grilled with puttanesca pesto & bread briciole",
+      "category": "SIDE",
+      "simplified_description": "grilled with puttanesca pesto & bread briciole",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Lina’s Bakery Breadbasket”",
+      "price": 8.0,
+      "description": "Puttanesca cold press EVOO",
+      "category": "BREAD",
+      "simplified_description": "Puttanesca cold press EVOO",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Panna Cotta”",
+      "price": 10.0,
+      "description": "white chocolate, salted caramel, Pan di Stelle",
+      "category": "DESSERT",
+      "simplified_description": "white chocolate, salted caramel, Pan di Stelle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Cheesecake”",
+      "price": 10.0,
+      "description": "Nutella, chocolate ganache, candied hazelnuts",
+      "category": "DESSERT",
+      "simplified_description": "Nutella, chocolate ganache, candied hazelnuts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“La Caffettiera”",
+      "price": 10.0,
+      "description": "espresso for 2 with frollini & biscotti",
+      "category": "DESSERT",
+      "simplified_description": "espresso for 2 with frollini & biscotti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“Cremoso e Grana”",
+      "price": 14.0,
+      "description": "creamy soft & aged hard cheese, balsamic dip, EVOO crostini",
+      "category": "DESSERT",
+      "simplified_description": "creamy soft & aged hard cheese, balsamic dip, EVOO crostini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Naked & Famous",
+      "price": 16.84,
+      "description": "mezcal, aperol, strega, lime",
+      "category": "DRINK",
+      "simplified_description": "mezcal, aperol, strega, lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Negroni Buzz",
+      "price": null,
+      "description": "campari, gin, espresso infused sweet vermouth",
+      "category": "DRINK",
+      "simplified_description": "campari, gin, espresso infused sweet vermouth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Paloma",
+      "price": null,
+      "description": "tequila, campari, grapefruit, lime, simple syrup, orange san pellegrino",
+      "category": "DRINK",
+      "simplified_description": "tequila, campari, grapefruit, lime, simple syrup, orange san pellegrino",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "That’s a RAP",
+      "price": null,
+      "description": "rye, averna, port",
+      "category": "DRINK",
+      "simplified_description": "rye, averna, port",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paper Plane",
+      "price": null,
+      "description": "amaro nonino, bourbon, aperol, lemon",
+      "category": "DRINK",
+      "simplified_description": "amaro nonino, bourbon, aperol, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cynar Old Fashioned",
+      "price": null,
+      "description": "cynar, demerara, mint, orange bitters",
+      "category": "DRINK",
+      "simplified_description": "cynar, demerara, mint, orange bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grappa Sour",
+      "price": null,
+      "description": "chamomile grappa, vodka, lemon, aqua fava, bitters",
+      "category": "DRINK",
+      "simplified_description": "chamomile grappa, vodka, lemon, aqua fava, bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano",
+      "price": null,
+      "description": "campari, sweet vermouth, soda water",
+      "category": "DRINK",
+      "simplified_description": "campari, sweet vermouth, soda water",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The L'Olivo Spritz",
+      "price": null,
+      "description": "your choice of aperol, campari, hugo, limoncello",
+      "category": "DRINK",
+      "simplified_description": "your choice of aperol, campari, hugo, limoncello",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The L'Olivo Martini",
+      "price": null,
+      "description": "your choice of vodka or gin with feta, olive, pepperoncini or dry vermouth",
+      "category": "DRINK",
+      "simplified_description": "your choice of vodka or gin with feta, olive, pepperoncini or dry vermouth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Manhattan",
+      "price": 11.67,
+      "description": "cognac, sweet vermouth, grand marnier, bitters",
+      "category": "DRINK",
+      "simplified_description": "cognac, sweet vermouth, grand marnier, bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Last Word",
+      "price": null,
+      "description": "gin, green chartreuse, maraschino, lime",
+      "category": "DRINK",
+      "simplified_description": "gin, green chartreuse, maraschino, lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Sidecar",
+      "price": null,
+      "description": "cognac, cointreau, lemon",
+      "category": "DRINK",
+      "simplified_description": "cognac, cointreau, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lina’s Elixir",
+      "price": 10.04,
+      "description": "cucumber, basil, lemon, simple syrup",
+      "category": "MOCKTAILS",
+      "simplified_description": "cucumber, basil, lemon, simple syrup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai Sour",
+      "price": null,
+      "description": "spiced chai, lemon, dr zero amaro, cherry syrup",
+      "category": "MOCKTAILS",
+      "simplified_description": "spiced chai, lemon, dr zero amaro, cherry syrup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sober Spritz",
+      "price": null,
+      "description": "lemon, simple syrup, soda, rosemary",
+      "category": "MOCKTAILS",
+      "simplified_description": "lemon, simple syrup, soda, rosemary",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "’88 Brewing Wave Pool 6.2%",
+      "price": 8.61,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "’88 Brewing Night Gallery 5.5%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peroni Nastro Azzurro 4.7%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peroni Capri 4.2%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Annex Italian Pilsner 5.3%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Annex Minor Force IPA 3.5%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Annex Radler 3%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mongozo GF Pilsner 5%",
+      "price": null,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peroni 0.0%",
+      "price": 8.61,
+      "description": "",
+      "category": "NON-ALCOHOLIC BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Erdinger Alkoholfrei",
+      "price": null,
+      "description": "",
+      "category": "NON-ALCOHOLIC BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Acqua Ferrarelle 750ml",
+      "price": 7.13,
+      "description": "still or sparkling",
+      "category": "DRINK",
+      "simplified_description": "still or sparkling",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "San Pellegrino Soda 330ml",
+      "price": 4.11,
+      "description": "assorted flavours",
+      "category": "DRINK",
+      "simplified_description": "assorted flavours",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mole Cola 330ml",
+      "price": 4.11,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Prosecco",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Villa Di Corlo Lambrusco",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Castello Bonomi Franciacorta",
+      "price": 121.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hatt Et Soner Quattuor Champagne",
+      "price": 195.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hatt Et Soner Dignitas Champagne",
+      "price": 341.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paladin Rose'",
+      "price": 14.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "La Spinetta Rose'",
+      "price": 71.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House White",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mezza Corona Pinot Grigio",
+      "price": 14.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Las Cumbres Sauvignon Blanc",
+      "price": 12.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fielding Unoaked Chardonnay",
+      "price": 15.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Villa Sparina Gavi di Gavi",
+      "price": 53.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "La Spinetta Vermentino",
+      "price": 67.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Giuliana Vicini Pecorino",
+      "price": 56.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lake Breeze Unoaked Chardonnay",
+      "price": 68.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gunderloch Hasselbach Riesling",
+      "price": 56.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Renato Ratti Chardonnay",
+      "price": 69.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Red",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fontanella Chianti",
+      "price": 12.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Levorato Cabernet Sauvignon",
+      "price": 13.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donna Laura Ali Sangiovese",
+      "price": 14.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zenato Valpolicella",
+      "price": 57.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Casa Lupo Ripasso",
+      "price": 81.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stroppiana Barbera D’Alba",
+      "price": 91.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Casa Lupo Amarone",
+      "price": 107.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Biserno Insoglio Del Cinghiale",
+      "price": 107.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poggio Al Tesoro Il Seggio",
+      "price": 123.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stroppiana Leoardo Barolo",
+      "price": 131.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ridolfi Brunello di Montalcino",
+      "price": 136.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Renato Ratti Barolo",
+      "price": 171.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mate Brunello di Montalcino",
+      "price": 171.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Antinori \"Tignanello\" (2021)",
+      "price": 397.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Opus One (2018)",
+      "price": 997.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

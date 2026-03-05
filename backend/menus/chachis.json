@@ -1,0 +1,213 @@
+{
+  "restaurant": "chachis",
+  "parsed_at": "2025-12-24T23:18:11.197933",
+  "item_count": 21,
+  "items": [
+    {
+      "name": "SPICY ITALIAN",
+      "price": null,
+      "description": "CALABRESE SALAMI, DRY-CURED CAPICOLLO, JALAPENO JACK CHEESE, GARLIC AIOLI, RED PEPPER SPREAD, RED ONION, LETTUCE, TOMATO / GF",
+      "simplified_description": "A spicy sandwich with various meats, cheese, and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Focaccia",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PROSCIUTTO",
+      "price": null,
+      "description": "PROSCIUTTO, PROVOLONE, FIG JAM, EVOO, ARUGULA, TOMATO, BALSAMIC CREMA / GF",
+      "simplified_description": "A sandwich with prosciutto, cheese, fig jam, and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Focaccia",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CALI",
+      "price": null,
+      "description": "CHICKEN BREAST, ROAST TURKEY BREAST, BACON, CHEDDAR, HOUSE-MADE GUACAMOLE, SPICY MAYO, ROMAINE, TOMATO / GF",
+      "simplified_description": "A sandwich with chicken, turkey, bacon, cheese, guacamole, and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Focaccia",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAJUN CHICKEN",
+      "price": null,
+      "description": "CAJUN CHICKEN BREAST, CHEDDAR, MAYO, ROMAINE, TOMATO / GF",
+      "simplified_description": "A sandwich with spicy cajun chicken, cheese, and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Focaccia",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VEDGE",
+      "price": null,
+      "description": "GOAT CHEESE, PROVOLONE, RED PEPPER SPREAD, BALSAMIC CREMA, SUNDRIED TOMATO, ARTICHOKE, ARUGULA / GF",
+      "simplified_description": "A vegetarian sandwich with various cheeses and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Focaccia",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CLUBBIN’",
+      "price": null,
+      "description": "BACON, ROAST TURKEY BREAST, CHEDDAR, GARLIC AIOLI, SPICY MAYO, LETTUCE, TOMATO / GF",
+      "simplified_description": "A club sandwich with bacon, turkey, cheese, and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Ciabatta",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CRAN & BRIE",
+      "price": null,
+      "description": "ROAST TURKEY BREAST, BRIE, CRANBERRY CHUTNEY, MAYO, ARUGULA, GRANNY SMITH APPLE, ROSEMARY / GF",
+      "simplified_description": "A sandwich with turkey, brie cheese, cranberry chutney, and vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Ciabatta",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN BANH MI",
+      "price": null,
+      "description": "CHICKEN BREAST, HOISIN MARINADE, SPICY ASIAN SESAME SAUCE, GARLIC AIOLI, PICKLED CARROT, RED ONION, CILANTRO, JALAPENO",
+      "simplified_description": "A Vietnamese-style sandwich with chicken, spicy sauce, and pickled vegetables",
+      "category": "Sandwiches on Ciabatta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOT PHILLY",
+      "price": null,
+      "description": "BEEF, PROVOLONE, GARLIC AIOLI, SPICY MAYO, BELL PEPPER, RED ONION, JALAPENO, ARUGULA / GF",
+      "simplified_description": "A philly-style sandwich with beef, cheese, and spicy vegetables on gluten-friendly bread",
+      "category": "Sandwiches on Ciabatta",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED MEAT",
+      "price": null,
+      "description": "THIN SLICED, PROVOLONE, PICKLE, DIJONNAISE, MARBLE RYE",
+      "simplified_description": "A sandwich with smoked meat, cheese, pickles, and mustard on rye bread",
+      "category": "Sandwiches on Ciabatta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLT",
+      "price": null,
+      "description": "BACON, LETTUCE, TOMATO, BUTTER, MAYO",
+      "simplified_description": "A classic sandwich with bacon, lettuce, and tomato",
+      "category": "Bagel Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ITALIAN",
+      "price": null,
+      "description": "DRY-CURED CAPICOLLO, PROVOLONE, RED PEPPER SPREAD, GARLIC AIOLI, RED ONION, LETTUCE, TOMATO",
+      "simplified_description": "An Italian sandwich with cured meat, cheese, and vegetables",
+      "category": "Bagel Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TURKEY RANCH",
+      "price": null,
+      "description": "TURKEY, CHEDDAR, RANCH, TOMATO, LETTUCE",
+      "simplified_description": "A sandwich with turkey, cheese, ranch dressing, and vegetables",
+      "category": "Bagel Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAC ‘N CHEESE",
+      "price": null,
+      "description": "",
+      "simplified_description": "A dish of macaroni and cheese",
+      "category": "Mac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPICY MAC",
+      "price": null,
+      "description": "W/ CAPICOLLO",
+      "simplified_description": "Mac and cheese with spicy capicollo",
+      "category": "Mac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARBONARA",
+      "price": null,
+      "description": "W/ BACON, PARM",
+      "simplified_description": "Mac and cheese with bacon and parmesan",
+      "category": "Mac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUP",
+      "price": null,
+      "description": "TOMATO, ROASTED RED PEPPER, CROUTONS",
+      "simplified_description": "A soup made with tomatoes and roasted red peppers, served with croutons",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE TOAST",
+      "price": null,
+      "description": "CIABATTA, CHEDDAR, HERBS",
+      "simplified_description": "Toasted ciabatta bread with cheese and herbs",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRISP GREENS",
+      "price": null,
+      "description": "CAJUN CHICKEN CAESAR\nROMAINE, BACON, GARLIC CROUTONS, ASIAGO CAESAR DRESSING, PARM W/ CAJUN CHICKEN",
+      "simplified_description": "A caesar salad with romaine, bacon, croutons, and cajun chicken",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHACHI’S COBB SALAD",
+      "price": null,
+      "description": "ROMAINE, PEPPERS, RED ONION, BACON, CHICKEN BREAST, TOMATO, CHEDDAR, DILL RANCH",
+      "simplified_description": "A cobb salad with romaine, peppers, onion, bacon, chicken, tomato, cheese, and ranch dressing",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOLIDAY TURKEY",
+      "price": null,
+      "description": "TURKEY BREAST, STUFFING, CRANBERRY CHUTNEY, GRAVY, HERB MAYO, GREEN APPLE, ARUGULA",
+      "simplified_description": "A holiday sandwich with turkey, stuffing, cranberry, and vegetables",
+      "category": "Feature",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

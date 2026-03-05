@@ -1,0 +1,1126 @@
+{
+  "restaurant": "harvestgardencalgary",
+  "parsed_at": "2026-02-06T02:32:44.555293",
+  "item_count": 105,
+  "items": [
+    {
+      "name": "Chicken Egg Foo Young",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Omelette-style dish with chicken and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Egg Foo Young",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Omelette-style dish with shrimp and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Egg Foo Young",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Omelette-style dish with mushrooms and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Special Egg Foo Young",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Omelette-style dish with a mix of meats and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chow Mein",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with chicken and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Sauce Chow Mein",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with soy sauce and vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Chow Mein",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with beef and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables Chow Mein",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Chow Mein",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with assorted seafood and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Chow Mein",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Cantonese-style stir-fried noodles with meat and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Ho Fun",
+      "price": 15.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Wide rice noodles stir-fried with beef and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Ho Fun with Black Bean Sauce",
+      "price": 15.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Wide rice noodles stir-fried with beef in black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Chinese Broccoli Fried Ho Fun",
+      "price": 15.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Wide rice noodles stir-fried with beef and Chinese broccoli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Ho Fun",
+      "price": 15.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Wide rice noodles stir-fried with chicken and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef Fried Noodles",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried noodles with beef in a satay peanut sauce.",
+      "dietary_info": [],
+      "other_info": "Contains peanuts"
+    },
+    {
+      "name": "Satay Chicken Fried Noodles",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried noodles with chicken and satay sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Style Fried Noodles",
+      "price": 15.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Traditional Shanghai-style fried noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Style Fried Noodles",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spicy Szechuan-style fried noodles.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shrimp Fried Noodles",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried noodles with shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable Fried Noodles",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried noodles with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Singapore Rice Thin Noodles",
+      "price": 15.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Thin rice noodles with Singapore-style seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 13.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Rice",
+      "price": 13.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 14.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special Fried Rice",
+      "price": 14.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with a house special mix of ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable Fried Rice",
+      "price": 13.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "price": 13.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with mushrooms.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Fried Rice",
+      "price": 13.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spicy Szechuan-style fried rice.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Seafood Fried Rice",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with assorted seafood.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Fish Chicken Fried Rice",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with salted fish and chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 3.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Plain steamed white rice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 4.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Rice cooked with coconut milk for a creamy flavor.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Brisket Hot Pot",
+      "price": 18.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Hot pot featuring tender beef brisket.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Glazed Beef Ribs",
+      "price": 18.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Beef ribs glazed with sweet honey sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Pepper Beef Ribs",
+      "price": 18.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Beef ribs seasoned with black pepper.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pad Seew Shrimp",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried wide rice noodles with shrimp.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Drunken Beef Noodle",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Beef noodle dish with a savory sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Green Bean with Minced Pork",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Green beans cooked with minced pork.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Basil Fried Rice with Beef",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with basil and beef.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Fried Rice with Chicken",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with pineapple and chicken.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp with Rice Noodle Hot Pot",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with shrimp and rice noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Tofu Hot Pot",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with seafood and tofu.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Clams with Black Bean Sauce",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Clams cooked in savory black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bitter Melon with Beef",
+      "price": 17.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Bitter melon stir-fried with beef.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy fried potato strips.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Finger & Fries",
+      "price": 12.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Breaded chicken fingers served with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Order Sauce",
+      "price": 3.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A small serving of sauce for dipping or topping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A can of carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 5.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A 2-liter bottle of carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Iced Tea",
+      "price": 7.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweetened iced tea with Thai flavors and milk.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Iced Coffee",
+      "price": 7.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweetened iced coffee with Thai flavors and milk.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Fish",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fish seasoned with salt and pepper, fried to crisp.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish with Black Bean Sauce",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fish cooked in savory black bean sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish with Cream Corn Sauce",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fish served with creamy corn sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish with Sweet & Sour Sauce",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fish served with tangy sweet and sour sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner For 1",
+      "price": 17.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A complete meal portion for one person.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner For 2",
+      "price": 43.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A complete meal portion for two people.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Dinner For 3",
+      "price": 64.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A complete meal portion for three people.",
+      "dietary_info": [],
+      "other_info": "Serves three"
+    },
+    {
+      "name": "Dinner For 4",
+      "price": 85.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A complete meal portion for four people.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "Dinner For 6",
+      "price": 127.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "A complete meal portion for six people.",
+      "dietary_info": [],
+      "other_info": "Serves six"
+    },
+    {
+      "name": "Spring Roll Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of crispy spring rolls, perfect for sharing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Dry Garlic Ribs Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of dry garlic-flavored ribs, great for groups.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Fried Chicken Wings Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of crispy fried chicken wings for sharing.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Grilled Pork Dumplings Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of grilled pork dumplings, ideal for groups.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Chicken Chow Mein Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of stir-fried noodles with chicken and vegetables.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Cantonese Chow Mein Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of Cantonese-style stir-fried noodles with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Beef Fried Ho Fun Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of stir-fried wide rice noodles with beef.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Beef Fried Ho Fun w. Black Bean Sauce Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of beef fried noodles with black bean sauce.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Singapore Rice Thin Noodles Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of thin rice noodles with curry flavor and mixed ingredients.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Shanghai Style Fried Noodles Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of Shanghai-style stir-fried noodles with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Chicken Fried Rice Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of fried rice with chicken and vegetables.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "House Special Fried Rice Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of fried rice with mixed meats and vegetables.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Seafood Fried Rice Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of fried rice with assorted seafood and vegetables.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Salted Fish Chicken Fried Rice Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of fried rice with salted fish and chicken.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Mix Vegetable Fried Rice Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A tray of fried rice with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Chinese Style Crispy Chicken Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy fried chicken prepared in Chinese style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Chicken Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken cooked in a sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Chicken Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken glazed with honey and garlic sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Chicken Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken coated with sesame seeds and sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Broccoli Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken stir-fried with broccoli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Black Bean Sauce Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken cooked in savory black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Pork cooked in a tangy sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Pork Chop Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Pork chops seasoned with salt and pepper.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Ribs Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Ribs glazed with honey and garlic sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peking Style Pork Chop Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Pork chops prepared in Peking style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Beef cooked with ginger flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Broccoli Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Beef stir-fried with broccoli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Black Bean Sauce Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Beef cooked in savory black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Mix Vegetables Party Tray",
+      "price": 45.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Beef stir-fried with mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Squid Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Squid seasoned with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Prawns Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of prawns seasoned with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Salt & Pepper Smelt Fish Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of smelt fish seasoned with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Salt & Pepper Rice Fish Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of rice fish seasoned with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Deep Fried Prawn Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of deep fried prawns.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Prawn with Black Bean Sauce Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of prawns cooked in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Prawn with Mix Vegetables Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of prawns served with mixed vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Beef with Chinese Broccoli Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of beef cooked with Chinese broccoli.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Chinese Broccoli in Garlic Sauce Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of Chinese broccoli cooked in garlic sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Beef w. Green Bean in Black Bean Sauce Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of beef and green beans in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Chicken w. Green Bean in Black Bean Sauce Party Tray",
+      "price": 50.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of chicken and green beans in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Mix Vegetables with Shrimp, Meat & Tofu Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of mixed vegetables with shrimp, meat, and tofu.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Salt & Pepper Tofu Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of tofu seasoned with salt and pepper.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Broccoli with Garlic Sauce Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of broccoli cooked in garlic sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Mix Vegetables with Garlic Sauce Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of mixed vegetables cooked in garlic sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Salt & Pepper Eggplant Party Tray",
+      "price": 40.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tray of eggplant seasoned with salt and pepper.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple people"
+    }
+  ]
+}

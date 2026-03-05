@@ -1,0 +1,512 @@
+{
+  "restaurant": "grumansbritannia",
+  "parsed_at": "2026-02-06T02:26:40.234659",
+  "item_count": 45,
+  "items": [
+    {
+      "name": "Breakfast Burrito",
+      "price": 13.5,
+      "description": "scrambled egg, bacon, green onion, cheddar cheese, hot peppers, sour cream and salsa",
+      "category": "FOOD",
+      "simplified_description": "Scrambled eggs, bacon, cheese, peppers, sour cream, and salsa in a burrito.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Breakfast Bagel",
+      "price": 11.5,
+      "description": "fried egg, smoked meat & cheddar",
+      "category": "FOOD",
+      "simplified_description": "Bagel with fried egg, smoked meat, and cheddar cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bagel Lox & Cream Cheese",
+      "price": 15.5,
+      "description": "house cured atlantic salmon lox, whipped cream cheese, capers & red onion on plain and sesame bagels",
+      "category": "FOOD",
+      "simplified_description": "Bagel topped with cured salmon, cream cheese, capers, and red onion.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bagel with a Shmear",
+      "price": 6.5,
+      "description": "with whipped cream cheese",
+      "category": "FOOD",
+      "simplified_description": "Bagel served with whipped cream cheese spread.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Baking",
+      "price": 3.0,
+      "description": "freshly baked assortment",
+      "category": "FOOD",
+      "simplified_description": "Assorted freshly baked breakfast items.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Fresh Fruit Salad",
+      "price": 5.0,
+      "description": "fresh seasonal fruit",
+      "category": "FOOD",
+      "simplified_description": "A mix of fresh seasonal fruits.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Montreal Smoked Meat",
+      "price": 16.5,
+      "description": "caraway rye, mustard",
+      "category": "FOOD",
+      "simplified_description": "Smoked meat served on caraway rye bread with mustard.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Bacon Club",
+      "price": 16.5,
+      "description": "turkey breast, bacon, tomato, lettuce, pesto aioli",
+      "category": "FOOD",
+      "simplified_description": "Turkey, bacon, tomato, lettuce, and pesto aioli sandwich.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grumans Deli Sub",
+      "price": 17.5,
+      "description": "montreal smoked meat, all-beef salami, turkey, lettuce, tomato, swiss cheese, red onion, hot mustard",
+      "category": "FOOD",
+      "simplified_description": "Sub with smoked meat, salami, turkey, cheese, veggies, and hot mustard.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Salad",
+      "price": 11.5,
+      "description": "rosemary chicken breast, dried cranberries",
+      "category": "FOOD",
+      "simplified_description": "Salad with rosemary chicken breast and dried cranberries.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Salad",
+      "price": 11.5,
+      "description": "albacore tuna, pickles",
+      "category": "FOOD",
+      "simplified_description": "Salad made with albacore tuna and pickles.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Salad",
+      "price": 10.5,
+      "description": "with cucumber and lettuce",
+      "category": "FOOD",
+      "simplified_description": "Egg salad served with cucumber and lettuce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Vegetarian Wrap",
+      "price": 13.5,
+      "description": "balsamic glazed roasted vegetables, goat cheese, lettuce, tomato wrapped in a flour tortilla",
+      "category": "FOOD",
+      "simplified_description": "Wrap with roasted veggies, goat cheese, lettuce, and tomato.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Burger",
+      "price": 13.5,
+      "description": "with lettuce tomato, pickles, tahini & srirracha",
+      "category": "FOOD",
+      "simplified_description": "Falafel burger with lettuce, tomato, pickles, tahini, and sriracha.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Veggie Bagel",
+      "price": 10.5,
+      "description": "cream cheese, tomato, cucumber, red onion, capers & lettuce",
+      "category": "FOOD",
+      "simplified_description": "Bagel with cream cheese and fresh vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Side Salad",
+      "price": 7.0,
+      "description": "with goat cheese, pumpkin seeds, dried cranberries, balsamic vinaigrette",
+      "category": "SIDE",
+      "simplified_description": "Salad with goat cheese, pumpkin seeds, cranberries, and balsamic dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dill Pickle Spears",
+      "price": 0.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Spears of dill pickles.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grumans Signature Potato Salad",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic potato salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grumans Famous Coleslaw",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Traditional coleslaw side dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seasonal Fresh Fruit Platter",
+      "price": 40.0,
+      "description": "pineapple, seasonal melons, grapes & strawberries",
+      "category": "OTHER",
+      "simplified_description": "Platter of pineapple, melons, grapes, and strawberries.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Fresh Veg & Dip Platter",
+      "price": 35.0,
+      "description": "seasonal veg with hummus",
+      "category": "OTHER",
+      "simplified_description": "Seasonal vegetables served with hummus dip.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Grumans Deli Platter",
+      "price": 20.0,
+      "description": "smoked meat, beef salami & turkey, mustard & mayonnaise, fresh breads, grumans famous coleslaw, potato salad and kosher dill pickles",
+      "category": "OTHER",
+      "simplified_description": "Meat platter with breads, salads, pickles, and condiments.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Sandwiches",
+      "price": 3.5,
+      "description": "choose your sandwich fillings",
+      "category": "OTHER",
+      "simplified_description": "Small sandwiches with choice of fillings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bagel Lox Platter",
+      "price": 20.0,
+      "description": "house-cured lox, bagels, cream cheese, capers, red onion, tomato, cucumber",
+      "category": "OTHER",
+      "simplified_description": "Bagels with cured salmon, cream cheese, and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Sandwiches",
+      "price": 24.0,
+      "description": "egg & tuna double decker or cream cheese & lox pinwheel",
+      "category": "OTHER",
+      "simplified_description": "Egg & tuna or cream cheese & salmon sandwiches.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bite-size Reuben Roll",
+      "price": 2.25,
+      "description": "served with russian dressing",
+      "category": "OTHER",
+      "simplified_description": "Small Reuben roll served with Russian dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bite-Size Smoked Meat Roll",
+      "price": 2.25,
+      "description": "served with mustard",
+      "category": "OTHER",
+      "simplified_description": "Small smoked meat roll served with mustard.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kosher Dogs In Blankets",
+      "price": 2.25,
+      "description": "served with yellow mustard",
+      "category": "OTHER",
+      "simplified_description": "Kosher hot dogs wrapped in pastry with mustard.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Knish",
+      "price": 3.0,
+      "description": "flaky puff pastry filled with potato and caramelized onion",
+      "category": "OTHER",
+      "simplified_description": "Flaky pastry filled with potato and caramelized onion.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Meat Shepherd’s Pie",
+      "price": 80.0,
+      "description": "Montreal smoked meat, carrots, onions, corn & potato crust",
+      "category": "OTHER",
+      "simplified_description": "Shepherd’s pie with smoked meat, vegetables, and potato crust.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grumans “famous” Mac’n Cheese",
+      "price": 80.0,
+      "description": "cavatappi noodles, mornay sauce, toasted bread crumb topping",
+      "category": "OTHER",
+      "simplified_description": "Pasta with creamy cheese sauce and toasted breadcrumb topping.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Meat Lasagna",
+      "price": 80.0,
+      "description": "bolognese sauce, ricotta, mozzarella and parmesan cheeses",
+      "category": "OTHER",
+      "simplified_description": "Layered pasta with meat sauce and three kinds of cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Spinach Lasagna",
+      "price": 80.0,
+      "description": "spinach, sauteed mushrooms, marinara sauce, mozzarella and ricotta cheese",
+      "category": "OTHER",
+      "simplified_description": "Lasagna with spinach, mushrooms, tomato sauce, and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef or Veggie Chili",
+      "price": 80.0,
+      "description": "with sour cream & cheddar cheese",
+      "category": "OTHER",
+      "simplified_description": "Chili served with sour cream and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Cabbage Rolls",
+      "price": 80.0,
+      "description": "beef, rice, and tender cabbage braised in tomato sauce",
+      "category": "OTHER",
+      "simplified_description": "Cabbage rolls stuffed with beef and rice in tomato sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chewy Cookies",
+      "price": 2.25,
+      "description": "assorted favorites ~ double chocolate, chocolate chip, oatmeal raisin & ginger molasses",
+      "category": "DESSERT",
+      "simplified_description": "Assorted chewy cookies in various classic flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Macaroons",
+      "price": 2.25,
+      "description": "(gluten-free and dairy-free)",
+      "category": "DESSERT",
+      "simplified_description": "Sweet coconut cookies that are gluten- and dairy-free.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mandelbread",
+      "price": 2.25,
+      "description": "traditional almond biscuit",
+      "category": "DESSERT",
+      "simplified_description": "Traditional almond-flavored biscuit.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rugelach",
+      "price": 2.25,
+      "description": "cream cheese sugar cookie with cinnamon, pecan & sweet apricot filling",
+      "category": "DESSERT",
+      "simplified_description": "Cream cheese cookie filled with cinnamon, pecans, and apricot.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Cakes",
+      "price": 2.25,
+      "description": "bite-sized carrot cake, cheese cake & chocolate cake",
+      "category": "DESSERT",
+      "simplified_description": "Small carrot, cheesecake, and chocolate cakes.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Brownie",
+      "price": 2.25,
+      "description": "(gluten-free and dairy-free)",
+      "category": "DESSERT",
+      "simplified_description": "Rich chocolate brownie that is gluten- and dairy-free.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Water",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Carbonated water with bubbles.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water",
+      "price": 2.5,
+      "description": "each",
+      "category": "DRINK",
+      "simplified_description": "Bottled plain water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Juice",
+      "price": 3.5,
+      "description": "each",
+      "category": "DRINK",
+      "simplified_description": "Variety of fruit juices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Pop",
+      "price": 2.5,
+      "description": "each",
+      "category": "DRINK",
+      "simplified_description": "Variety of carbonated soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

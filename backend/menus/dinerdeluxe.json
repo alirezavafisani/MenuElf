@@ -1,0 +1,405 @@
+{
+  "restaurant": "dinerdeluxe",
+  "parsed_at": "2026-02-06T01:59:53.533474",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "EGGS BENEDICT",
+      "price": 11.0,
+      "description": "Poached Eggs, Basil Hollandaise, Toasted English Muffin, Hash Browns & Arugula Salad",
+      "category": "FOOD",
+      "simplified_description": "Poached eggs with basil hollandaise on muffin, served with hash browns and salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Maple Glazed Bacon",
+      "price": 22.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Maple glazed bacon strips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Mushroom",
+      "price": 22.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Wild mushroom dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shaved Alberta Sirloin & Caramelized Onion",
+      "price": 24.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Shaved Alberta sirloin with caramelized onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeño Chorizo, Pickled Onion & Feta",
+      "price": 24.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Dish with jalapeño chorizo, pickled onion, and feta cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Original Potato Rösti",
+      "price": 22.0,
+      "description": "Over Easy Egg, Cilantro Sour Cream & Choice of Spolumbo's Sausage or Bacon",
+      "category": "FOOD",
+      "simplified_description": "Potato rösti topped with egg, cilantro sour cream, and sausage or bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Waffles",
+      "price": 25.0,
+      "description": "Jalapeño-Cheddar Waffle, Buttermilk Marinated Fried Chicken, Over Easy Egg, Honey Drizzle, Maple Syrup & Hot Suace",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with jalapeño-cheddar waffle, egg, honey, syrup, and hot sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Huevos Rancheros",
+      "price": 25.0,
+      "description": "Jalapeño Chorizo, Chicken Sausage or Shaved Alberta Sirloin with Over Easy Eggs, Avocado, Pickled Onion, Salsa Verde & Feta on Hash Browns with Crispy Corn Tortillas & Cilantro Sour Cream",
+      "category": "FOOD",
+      "simplified_description": "Eggs with choice of meat, avocado, salsa, feta, hash browns, and tortillas.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Best Breakfast Sandwich",
+      "price": 19.0,
+      "description": "Bacon, Sausage or Avocado with Medium Egg, Crispy Hashbrown Patty, Cheddar, Arugula, Burger Sauce on a Brioche Bun",
+      "category": "FOOD",
+      "simplified_description": "Breakfast sandwich with egg, choice of bacon, sausage or avocado, cheese, and hashbrown.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Burrito",
+      "price": 22.0,
+      "description": "Scrambled Eggs, Cheddar, Roasted Peppers, Green Onion wrapped in a Flour Torilla with Smashed Avocado, Cilantro Sour Cream & Salsa Roja",
+      "category": "FOOD",
+      "simplified_description": "Scrambled eggs and veggies wrapped in a tortilla with avocado and salsa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Western Omelette",
+      "price": 22.0,
+      "description": "Country Style Ham, Cheddar, Mushrooms, Roasted Peppers & Green Onions",
+      "category": "FOOD",
+      "simplified_description": "Omelette with ham, cheddar, mushrooms, peppers, and green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rocky Mountain Omelette",
+      "price": 23.0,
+      "description": "Double Smoked Bacon Lardons, Cheddar, Caramelized Onion & Roasted Peppers",
+      "category": "FOOD",
+      "simplified_description": "Omelette with smoked bacon, cheddar, caramelized onion, and roasted peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg White Frittata",
+      "price": 23.0,
+      "description": "Mushrooms, Feta, Spinach, Roasted Tomatoes & Green Onion",
+      "category": "FOOD",
+      "simplified_description": "Egg white frittata with mushrooms, feta, spinach, tomatoes, and green onion.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Breakfast",
+      "price": 19.0,
+      "description": "Two Eggs, Hash Browns & Toast with your choice of Bacon, Spolumbo's Sausage or Grilled Tomatoes",
+      "category": "FOOD",
+      "simplified_description": "Two eggs with hash browns, toast, and choice of bacon, sausage, or tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon & Brussels",
+      "price": 24.0,
+      "description": "Double Smoked Bacon Lardons, Crispy Fried Brussels Sprouts with Apple Relish",
+      "category": "FOOD",
+      "simplified_description": "Smoked bacon with crispy Brussels sprouts and apple relish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak House",
+      "price": 19.0,
+      "description": "Shaved Alberta Sirloin, Sautéed Mushrooms & Spinach with Red Pepper Relish",
+      "category": "FOOD",
+      "simplified_description": "Sirloin steak with mushrooms, spinach, and red pepper relish.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cluckin' Delicious",
+      "price": 25.0,
+      "description": "Seared Chicken Breast, Sautéed Mushrooms & Onions, Roasted Red Peppers",
+      "category": "FOOD",
+      "simplified_description": "Seared chicken breast with mushrooms, onions, and roasted red peppers.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Super Bowl",
+      "price": 26.0,
+      "description": "Crumbled Jalapeño Chorizo Sausage, Avocado, Sautéed Mushrooms & Pickled Red Onion",
+      "category": "FOOD",
+      "simplified_description": "Spicy chorizo with avocado, mushrooms, and pickled red onion.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Stack of Pancakes",
+      "price": 18.0,
+      "description": "Fluffy Buttermilk Pancakes with Butter & Maple Syrup",
+      "category": "FOOD",
+      "simplified_description": "Fluffy buttermilk pancakes served with butter and maple syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "\"Banana Split\" French Toast",
+      "price": 22.0,
+      "description": "Grilled Banana, Berry Compote, Caramel Sauce, Chocolate Chips & Whip",
+      "category": "FOOD",
+      "simplified_description": "French toast topped with banana, berries, caramel, chocolate, and whipped cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buttermilk Waffle",
+      "price": 17.0,
+      "description": "Belgium Style Waffle with your choice of Fruit or Hash Browns",
+      "category": "FOOD",
+      "simplified_description": "Belgian waffle served with fruit or hash browns.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed \" Croque Madame\" French Toast",
+      "price": 21.0,
+      "description": "Brie, Bacon, Apple Relish, Sourdough with Poached Egg & Basil Hollandiase",
+      "category": "FOOD",
+      "simplified_description": "French toast stuffed with brie, bacon, apple relish, and topped with egg and hollandaise.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Power Bowl",
+      "price": 25.0,
+      "description": "Poached Eggs, Local \"Know Meat\" Patty, Sautéed Vegetables, Avocado, Mixed Greens & Hash Browns",
+      "category": "FOOD",
+      "simplified_description": "Bowl with eggs, plant-based patty, vegetables, avocado, greens, and hash browns.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegan Scramble",
+      "price": 23.0,
+      "description": "Marinated Tofu, Potato Rösti, Sautéed Vegetables, Salsa Roja",
+      "category": "FOOD",
+      "simplified_description": "Tofu scramble with potato rösti, vegetables, and salsa roja.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Toast",
+      "price": 21.0,
+      "description": "Poached Eggs, Smashed Avocado, Feta, Tomato, Herb Oil, Grilled Sourdough & Hash Browns",
+      "category": "FOOD",
+      "simplified_description": "Toast with avocado, poached eggs, feta, tomato, and hash browns.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 6.0,
+      "description": "Cup or Bowl",
+      "category": "SOUP & SALAD",
+      "simplified_description": "Tomato soup served in a cup or bowl.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Community Salad",
+      "price": 19.0,
+      "description": "Mixed Greens, Feta, Cranberries, Toasted Pumpkin Seeds, Hemp Hearts, Pickled Onion, Tomato & Herb Vinaigrette",
+      "category": "SOUP & SALAD",
+      "simplified_description": "Salad with greens, feta, cranberries, seeds, tomato, and herb vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strip Basket",
+      "price": 21.0,
+      "description": "House Made Chicken Strips served with Fries & Honey Mustard Dip",
+      "category": "MAINS",
+      "simplified_description": "Chicken strips served with fries and honey mustard dip.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": 23.0,
+      "description": "Elbow Macaroni, Herb & Shallot Cream Sauce, Cheese Curds, Cheddar & Breadcrumb",
+      "category": "MAINS",
+      "simplified_description": "Macaroni with creamy cheese sauce and breadcrumbs.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Double Cheeseburger Deluxe",
+      "price": 22.0,
+      "description": "Fire River Farms Alberta Beef, American Cheese, Lettuce, Pickles, Onions, Burger Sauce on Martin's Seeded Bun",
+      "category": "BURGERS & SANDWICHES",
+      "simplified_description": "Double beef burger with cheese, lettuce, pickles, onions, and sauce on seeded bun.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": 19.0,
+      "description": "Brie, Cheddar & American Cheese on Sourdough with Tomato Soup Dip",
+      "category": "BURGERS & SANDWICHES",
+      "simplified_description": "Three cheeses melted on sourdough bread served with tomato soup dip.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "price": 22.0,
+      "description": "Buttermilk Marinated Fried Chicken Breast, Lettuce, Pickles & French Onion Mayo on Toasted Brioche",
+      "category": "BURGERS & SANDWICHES",
+      "simplified_description": "Fried chicken breast sandwich with lettuce, pickles, and onion mayo on brioche.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesesteak Melt",
+      "price": 23.0,
+      "description": "Shaved Alberta Sirloin, Mushrooms, Caramelized Onion & American Cheese on Toasted Sourdough",
+      "category": "BURGERS & SANDWICHES",
+      "simplified_description": "Steak, mushrooms, onions, and cheese melted on toasted sourdough bread.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Country Club",
+      "price": 24.0,
+      "description": "Seared Chicken Breast, Avocado, Cheddar, Bacon, Lettuce, Tomato & Mayo on Toasted Sourdough",
+      "category": "BURGERS & SANDWICHES",
+      "simplified_description": "Chicken sandwich with avocado, bacon, cheese, lettuce, tomato, and mayo.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 21.0,
+      "description": "Local \"Know Meat\" Patty, Cheddar, Mushroom, Lettuce, Pickles, Onions & Burger Sauce on Martin's Seeded Bun",
+      "category": "BURGERS & SANDWICHES",
+      "simplified_description": "Plant-based patty with cheese, mushrooms, and veggies on a seeded bun.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Chocolate Chip Cookies",
+      "price": 5.0,
+      "description": "null",
+      "category": "SWEET",
+      "simplified_description": "Warm chocolate chip cookies.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

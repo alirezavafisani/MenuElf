@@ -1,0 +1,403 @@
+{
+  "restaurant": "orangebobpizza",
+  "parsed_at": "2026-02-06T03:34:22.840391",
+  "item_count": 44,
+  "items": [
+    {
+      "name": "Hail to the Kale",
+      "price": 7.9,
+      "description": "Kale, red cabbage, carrot, sunflower and pumpkin seeds, flax oil and balsamic dressing.",
+      "category": "SALAD",
+      "simplified_description": "Kale, red cabbage, carrot, sunflower and pumpkin seeds, flax oil and balsamic dr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": 7.9,
+      "description": "Romaine, Garlic Basil Pecorino Croutons, In house Parmesan Caesar dressing & In-house cooked bacon bits.",
+      "category": "SALAD",
+      "simplified_description": "Romaine, Garlic Basil Pecorino Croutons, In house Parmesan Caesar dressing & In-",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Fattoush",
+      "price": 7.9,
+      "description": "Romaine, Toasted Whole Wheat Pita, Vegetables, Kalamata Olives, Feta, Sumac & Vinaigrette.",
+      "category": "SALAD",
+      "simplified_description": "Romaine, Toasted Whole Wheat Pita, Vegetables, Kalamata Olives, Feta, Sumac & Vi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Greek",
+      "price": 7.9,
+      "description": "Diced Vegetables, Kalamata, Feta, White wine vinaigrette.",
+      "category": "SALAD",
+      "simplified_description": "Diced Vegetables, Kalamata, Feta, White wine vinaigrette.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA PASTA WITH MEAT SAUCE AND LOTS OF CHEESE",
+      "price": 12.95,
+      "description": "Comes With Garlic Toast",
+      "category": "PASTA",
+      "simplified_description": "Comes With Garlic Toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED SPAGHETTI WITH MEAT SAUCE",
+      "price": 12.95,
+      "description": "Comes With Garlic Toast",
+      "category": "PASTA",
+      "simplified_description": "Comes With Garlic Toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED SPAGHETTI WITH CHEESY ALFREDO AND GRILLED BLACKENED CHICKEN",
+      "price": 12.95,
+      "description": "Comes With Garlic Toast",
+      "category": "PASTA",
+      "simplified_description": "Comes With Garlic Toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 12.95,
+      "description": "Button Mushroom, green pepper, onion, tomato, black olive, Parmesan, Mozzarella",
+      "category": "PIZZA",
+      "simplified_description": "Button Mushroom, green pepper, onion, tomato, black olive, Parmesan, Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Delux",
+      "price": 12.95,
+      "description": "Tandoori Paneer, Vegetables marinated in herb, Turkish Chilli and garlic, Parmesan, Mozzarella",
+      "category": "PIZZA",
+      "simplified_description": "Tandoori Paneer, Vegetables marinated in herb, Turkish Chilli and garlic, Parmes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House",
+      "price": 12.95,
+      "description": "Ham, pepperoni, mushroom, Buttered shrimp, green pepper, and black olive.",
+      "category": "PIZZA",
+      "simplified_description": "Ham, pepperoni, mushroom, Buttered shrimp, green pepper, and black olive.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Billy's",
+      "price": 12.95,
+      "description": "Back bacon, ham, pepperoni, salami, beef, onion, and tomato.",
+      "category": "PIZZA",
+      "simplified_description": "Back bacon, ham, pepperoni, salami, beef, onion, and tomato.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Parmigiana",
+      "price": 12.95,
+      "description": "Almond Crusted Chicken breast, spinach, Peppers, Green Onion and onions.",
+      "category": "PIZZA",
+      "simplified_description": "Almond Crusted Chicken breast, spinach, Peppers, Green Onion and onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Beef Steak",
+      "price": 12.95,
+      "description": "Pepperoni, salami, Ancho Chicken, Pascilla Beef Steak, Green Pepper, Red Pepper, Onions, Tomato, Cilantro, Green Onion and banana pepper.",
+      "category": "PIZZA",
+      "simplified_description": "Pepperoni, salami, Ancho Chicken, Pascilla Beef Steak, Green Pepper, Red Pepper,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek",
+      "price": 12.95,
+      "description": "Ham, pepperoni, onion, tomato, feta, and black olive.",
+      "category": "PIZZA",
+      "simplified_description": "Ham, pepperoni, onion, tomato, feta, and black olive.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian",
+      "price": 12.95,
+      "description": "Pepperoni, salami, sausage, and green pepper.",
+      "category": "PIZZA",
+      "simplified_description": "Pepperoni, salami, sausage, and green pepper.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": 12.95,
+      "description": "Ham, pepperoni, salami, beef, and sausage.",
+      "category": "PIZZA",
+      "simplified_description": "Ham, pepperoni, salami, beef, and sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian",
+      "price": 12.95,
+      "description": "Ham and pineapple.",
+      "category": "PIZZA",
+      "simplified_description": "Ham and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Summer BBQ Chicken",
+      "price": 12.95,
+      "description": "Chicken, pineapple, onion, and BBQ sauce.",
+      "category": "PIZZA",
+      "simplified_description": "Chicken, pineapple, onion, and BBQ sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Cheese",
+      "price": 12.95,
+      "description": "Parmesan, cheddar, Monterey Jack, and Mozzarella.",
+      "category": "PIZZA",
+      "simplified_description": "Parmesan, cheddar, Monterey Jack, and Mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio",
+      "price": 12.95,
+      "description": "Pepperoni, bacon crumbles, and Italian sausage.",
+      "category": "PIZZA",
+      "simplified_description": "Pepperoni, bacon crumbles, and Italian sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Pepperoni",
+      "price": 12.95,
+      "description": "Double pepperoni and extra mozzarella.",
+      "category": "PIZZA",
+      "simplified_description": "Double pepperoni and extra mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pesto",
+      "price": 12.95,
+      "description": "Grilled chicken, basil pesto, parmesan, feta, and spinach.",
+      "category": "PIZZA",
+      "simplified_description": "Grilled chicken, basil pesto, parmesan, feta, and spinach.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Far East Pizza",
+      "price": 12.95,
+      "description": "Indonesian Chicken Satay, Thai Spiced Ground Beef, Basil, Green Onion, Cilantro, Peppers, and Onions (we recommend Peanut sauce with it)",
+      "category": "PIZZA",
+      "simplified_description": "Indonesian Chicken Satay, Thai Spiced Ground Beef, Basil, Green Onion, Cilantro,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": 12.95,
+      "description": "Tandoori spiced chicken, butter chicken sauce, marinara, peppers, onion, tomato, cilantro, ginger, green onion",
+      "category": "PIZZA",
+      "simplified_description": "Tandoori spiced chicken, butter chicken sauce, marinara, peppers, onion, tomato,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Deluxe pizza",
+      "price": 12.95,
+      "description": "Ham, pepperoni, Salami, Mushroom, Green Pepper, Black Olive",
+      "category": "PIZZA",
+      "simplified_description": "Ham, pepperoni, Salami, Mushroom, Green Pepper, Black Olive",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "sPICY ITALIANO",
+      "price": 12.95,
+      "description": "Pepperoni, Calabrese Salami, Fresh Jalapeno, Hot Honey drizzle",
+      "category": "PIZZA",
+      "simplified_description": "Pepperoni, Calabrese Salami, Fresh Jalapeno, Hot Honey drizzle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Onion Rings",
+      "price": 9.9,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Ribs (14oz)",
+      "price": 12.9,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings (16oz)",
+      "price": 11.9,
+      "description": "Hot, Honey Garlic, Salt and Pepper, BBQ",
+      "category": "SIDE",
+      "simplified_description": "Hot, Honey Garlic, Salt and Pepper, BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Breast Strips",
+      "price": 11.9,
+      "description": "Whole CHK Breast Fillets (3/4 pound)",
+      "category": "SIDE",
+      "simplified_description": "Whole CHK Breast Fillets (3/4 pound)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.9,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast (2pcs)",
+      "price": 2.9,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Fried Cauliflower",
+      "price": 8.9,
+      "description": "hot, honey garlic, BBQ, plain, In-house Shanghai Sauce (soy, garlic, ginger, schezwan pepper, honey)",
+      "category": "SIDE",
+      "simplified_description": "hot, honey garlic, BBQ, plain, In-house Shanghai Sauce (soy, garlic, ginger, sch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Toast (w/ 3 cheese)",
+      "price": 4.9,
+      "description": "Thick-Cut (2pcs)",
+      "category": "SIDE",
+      "simplified_description": "Thick-Cut (2pcs)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeno Popper toast",
+      "price": 4.9,
+      "description": "Jalapeno, Cheddar, Mozzarella",
+      "category": "SIDE",
+      "simplified_description": "Jalapeno, Cheddar, Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC pOUTINE",
+      "price": 7.97,
+      "description": "Coated Fries, Gravy, Cheese Curds, Mozzarella",
+      "category": "SIDE",
+      "simplified_description": "Coated Fries, Gravy, Cheese Curds, Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "oRANGE BOB SPECIAL POUTINE",
+      "price": 8.97,
+      "description": "Coated Fries, Gravy, Bacon, Jalapeno, Cheese Curds, Mozzarella",
+      "category": "SIDE",
+      "simplified_description": "Coated Fries, Gravy, Bacon, Jalapeno, Cheese Curds, Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Proteinacious PoUtine",
+      "price": 9.97,
+      "description": "Coated Fries, Gravy, Grilled Chicken Breast, fried egg sunny side up, Cheese Curds, Mozzarella",
+      "category": "SIDE",
+      "simplified_description": "Coated Fries, Gravy, Grilled Chicken Breast, fried egg sunny side up, Cheese Cur",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 5.9,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 1.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cANNED sAN PALLGRINO (bLOOD ORANGE)",
+      "price": 2.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buttery Cinnamon Pizza bites with cream cheese glaze",
+      "price": 7.97,
+      "description": "10\" medium pizza with cinnamon butter oats, topped with cream cheese butter icing",
+      "category": "DESSERT",
+      "simplified_description": "10\" medium pizza with cinnamon butter oats, topped with cream cheese butter icin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Home Made Warm Gooey Brownie with Maple Candied Walnuts",
+      "price": 6.97,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Cheese Cake with Strawberry Compote",
+      "price": 6.97,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

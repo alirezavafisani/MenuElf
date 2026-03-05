@@ -1,0 +1,45 @@
+{
+  "restaurant": "bahubali",
+  "parsed_at": "2025-12-25T03:46:42.048380",
+  "item_count": 4,
+  "items": [
+    {
+      "name": "Masala Dosa",
+      "price": 11.99,
+      "description": "A crispy rice crepe filled with spiced mashed potatoes.",
+      "simplified_description": "A crispy rice pancake with spiced potato filling",
+      "category": "Special Menu Items",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Dum Biryani",
+      "price": 14.99,
+      "description": "A fragrant rice dish layered with marinated chicken and spices.",
+      "simplified_description": "A flavorful rice dish with marinated chicken",
+      "category": "Special Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 15.99,
+      "description": "Tender pieces of chicken cooked in a creamy tomato-based sauce.",
+      "simplified_description": "Chicken in a rich and creamy tomato sauce",
+      "category": "Special Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Fizz",
+      "price": 6.49,
+      "description": "A refreshing drink made with strawberry and fizzy soda.",
+      "simplified_description": "A fizzy drink with strawberry flavor",
+      "category": "Special Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

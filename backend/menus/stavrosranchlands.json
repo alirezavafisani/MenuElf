@@ -1,0 +1,448 @@
+{
+  "restaurant": "stavrosranchlands",
+  "parsed_at": "2026-02-06T04:14:28.079871",
+  "item_count": 49,
+  "items": [
+    {
+      "name": "BUD LIGHT",
+      "price": 8.0,
+      "description": "$8",
+      "category": "DRINK",
+      "simplified_description": "$8",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDWEISER",
+      "price": 8.0,
+      "description": "$8",
+      "category": "DRINK",
+      "simplified_description": "$8",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN",
+      "price": 8.0,
+      "description": "$8",
+      "category": "DRINK",
+      "simplified_description": "$8",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALEXANDER KEITH'S IPA",
+      "price": 8.5,
+      "description": "$8.5",
+      "category": "DRINK",
+      "simplified_description": "$8.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRASSHOPPER",
+      "price": 8.5,
+      "description": "$8.5",
+      "category": "DRINK",
+      "simplified_description": "$8.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRADITIONAL ALE",
+      "price": 8.5,
+      "description": "$8.5",
+      "category": "DRINK",
+      "simplified_description": "$8.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FERNIE RIDGEWALK",
+      "price": 9.0,
+      "description": "$9",
+      "category": "DRINK",
+      "simplified_description": "$9",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BANDED PEAK FIRED UP",
+      "price": 9.0,
+      "description": "$9",
+      "category": "DRINK",
+      "simplified_description": "$9",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAST BEST IPA",
+      "price": 9.0,
+      "description": "$9",
+      "category": "DRINK",
+      "simplified_description": "$9",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOUNT CRUSHMORE",
+      "price": 9.0,
+      "description": "$9",
+      "category": "DRINK",
+      "simplified_description": "$9",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COORS ORIGINAL",
+      "price": 9.25,
+      "description": "$9.25",
+      "category": "DRINK",
+      "simplified_description": "$9.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GUINNESS",
+      "price": 10.0,
+      "description": "$10",
+      "category": "DRINK",
+      "simplified_description": "$10",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUD LIGHT",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDWEISER",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COORS ORIGINAL",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COORS LIGHT",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KOKANEE",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LABATT LIGHT",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PILSNER",
+      "price": 6.25,
+      "description": "$6.25",
+      "category": "DRINK",
+      "simplified_description": "$6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MICHELOB ULTRA",
+      "price": 7.0,
+      "description": "$7",
+      "category": "DRINK",
+      "simplified_description": "$7",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HEINEKEN",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KRONENBOURG 1664 BLANC",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MILLER GENUINE DRAFT",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GROWERS PEACH",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIKES HARD LEMONADE",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMIRNOFF ICE ORIGINAL",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OKANAGAN BLACK CHERRY",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEMPO GIN SMASH",
+      "price": 7.5,
+      "description": "$7.5",
+      "category": "DRINK",
+      "simplified_description": "$7.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRONGBOW APPLE CIDER",
+      "price": 8.0,
+      "description": "$8",
+      "category": "DRINK",
+      "simplified_description": "$8",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDWEISER PROHIBITION BREW",
+      "price": 5.75,
+      "description": "$5.75",
+      "category": "DRINK",
+      "simplified_description": "$5.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HEINEKEN 0.0",
+      "price": 5.75,
+      "description": "$5.75",
+      "category": "DRINK",
+      "simplified_description": "$5.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA SUNBREW",
+      "price": 5.75,
+      "description": "$5.75",
+      "category": "DRINK",
+      "simplified_description": "$5.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "REDBULL",
+      "price": 5.0,
+      "description": "$5",
+      "category": "DRINK",
+      "simplified_description": "$5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOCORNAL",
+      "price": 8.25,
+      "description": "Cabernet Merlot \nChile\n6oz $8.25 | 9oz $12 | 1/2 Litre $24",
+      "category": "DRINK",
+      "simplified_description": "Cabernet Merlot \nChile\n6oz $8.25 | 9oz $12 | 1/2 Litre $24",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FINCA LOS PRIMOS",
+      "price": 9.25,
+      "description": "Malbec\nArgentina\n6oz $9.25 | 9oz $13.75 | Bottle $37.25",
+      "category": "DRINK",
+      "simplified_description": "Malbec\nArgentina\n6oz $9.25 | 9oz $13.75 | Bottle $37.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARK WEST",
+      "price": 10.25,
+      "description": "Pinot Noir\nCalifornia, United States\n6oz $10.25 | 9oz $15.25 | Bottle $44.25",
+      "category": "DRINK",
+      "simplified_description": "Pinot Noir\nCalifornia, United States\n6oz $10.25 | 9oz $15.25 | Bottle $44.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WYNDHAM BIN 555",
+      "price": 11.0,
+      "description": "Shiraz\nSouth Eastern, Australia\n6oz $11 | 9oz $16.25 | Bottle $44.25",
+      "category": "DRINK",
+      "simplified_description": "Shiraz\nSouth Eastern, Australia\n6oz $11 | 9oz $16.25 | Bottle $44.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOCORNAL",
+      "price": 8.25,
+      "description": "Chardonnay\nChile\n6oz $8.25 | 9oz $12 | 1/2 Litre $24",
+      "category": "DRINK",
+      "simplified_description": "Chardonnay\nChile\n6oz $8.25 | 9oz $12 | 1/2 Litre $24",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SCHLOSS LADERHEIM",
+      "price": 7.75,
+      "description": "Riesling\nBritish Columbia, Canada \n6oz $7.75| 9oz $11.50 | 1/2 Litre $22.50",
+      "category": "DRINK",
+      "simplified_description": "Riesling\nBritish Columbia, Canada \n6oz $7.75| 9oz $11.50 | 1/2 Litre $22.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAWMILL CREEK",
+      "price": 8.25,
+      "description": "Sauvignon Blanc \nBritish Columbia, Canada\n6oz $8.25 | 9oz $12.25 | Bottle $32.25",
+      "category": "DRINK",
+      "simplified_description": "Sauvignon Blanc \nBritish Columbia, Canada\n6oz $8.25 | 9oz $12.25 | Bottle $32.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SANTA MARGHERITA",
+      "price": 11.25,
+      "description": "Pinot Grigio\nTrentino-Alto Adige\n6oz $11.25 | 9oz $16.75 | Bottle $45.25",
+      "category": "DRINK",
+      "simplified_description": "Pinot Grigio\nTrentino-Alto Adige\n6oz $11.25 | 9oz $16.75 | Bottle $45.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIGNATURE CAESAR",
+      "price": 8.0,
+      "description": "Vodka, Clamato Juice, Worcestershire and Tabasco.\nGarnished celery salt and a green bean.\n1oz | $8.00",
+      "category": "DRINK",
+      "simplified_description": "Vodka, Clamato Juice, Worcestershire and Tabasco.\nGarnished celery salt and a gr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC MOJITO",
+      "price": 8.0,
+      "description": "Rum, mint leaves, soda, sugar and lime juice.\nGarnished with a lime wedge. \n1oz | $8.00",
+      "category": "DRINK",
+      "simplified_description": "Rum, mint leaves, soda, sugar and lime juice.\nGarnished with a lime wedge. \n1oz ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGARITA",
+      "price": 8.0,
+      "description": "Lime, Strawberry and Spicy. \n1oz | $8.00",
+      "category": "DRINK",
+      "simplified_description": "Lime, Strawberry and Spicy. \n1oz | $8.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOSCOW MULE",
+      "price": 9.0,
+      "description": "StolI Vodka, lime juice and ginger beer. \nGarnished with a lime wedge. \n1oz | $9.00",
+      "category": "DRINK",
+      "simplified_description": "StolI Vodka, lime juice and ginger beer. \nGarnished with a lime wedge. \n1oz | $9",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIMM'S CUP",
+      "price": 9.0,
+      "description": "Pimm's No. 1 Gin, lime, ginger ale, cucumber, and mint. \n1oz | $9.00",
+      "category": "DRINK",
+      "simplified_description": "Pimm's No. 1 Gin, lime, ginger ale, cucumber, and mint. \n1oz | $9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OLD FASHIONED",
+      "price": 14.0,
+      "description": "Maker's Mark Bourbon and angostura bitters. \nGarnished with sugar, orange and a cherry. \n2oz | $14.00",
+      "category": "DRINK",
+      "simplified_description": "Maker's Mark Bourbon and angostura bitters. \nGarnished with sugar, orange and a ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "restaurant": "allbeefcatering",
+  "parsed_at": "2026-02-06T00:36:19.571213",
+  "item_count": 26,
+  "items": [
+    {
+      "name": "BBQ Smoked Brisket on a Kaiser",
+      "price": null,
+      "description": "Impress your guests with our \"AAA\" Alberta beef brisket! It's smoked low and slow over apple and cherry woods, carved on-site, and served on a freshly baked Kaiser. This meal is served with freshly tossed creamy coleslaw, delicious oven-baked brown beans, and our House and Bama BBQ sauces on the side. Included at no charge: paper plates, napkins, compostable cutlery, serving staff, and clean-up.",
+      "category": "FOOD",
+      "simplified_description": "Smoked Alberta beef brisket on a Kaiser with coleslaw, baked beans, and BBQ sauces.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Includes serving staff and clean-up"
+    },
+    {
+      "name": "BBQ Pulled Pork on a Kaiser",
+      "price": null,
+      "description": "Pulled Pork simmered in our house BBQ sauce and generously served on a freshly baked Kaiser. This meal is accompanied by our delicious oven-baked brown beans, freshly tossed creamy coleslaw, and assorted house-made BBQ sauces on the side. Paper plates, napkins, compostable cutlery, serving staff, and clean-up are all included at no additional charge.",
+      "category": "FOOD",
+      "simplified_description": "Pulled pork on a Kaiser with coleslaw, baked beans, and BBQ sauces on the side.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Includes serving staff and clean-up"
+    },
+    {
+      "name": "Traditional Smokehouse Catering",
+      "price": null,
+      "description": "_**Enjoy a traditional Smokehouse meal with your choice of one, two, or three types of smoked meat:**_ * **Beef Brisket** * **Pulled Pork** * **Chicken Breast** This meal includes jalapeno cheddar cornbread muffins, oven-baked brown beans, freshly tossed coleslaw, and oven-roasted BBQ potatoes with butter, sour cream, and fresh chives. Extra hot horseradish and our house-made BBQ sauces are served on the side. Meals are served to your guests buffet-style. Includes china service and stainless cutlery, and staff to handle the set-up, serving, and clean-up.",
+      "category": "FOOD",
+      "simplified_description": "Choice of smoked meats with sides including cornbread, beans, coleslaw, and BBQ potatoes.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Buffet-style with serving staff; spicy horseradish on side"
+    },
+    {
+      "name": "BBQ Beef on a Kaiser",
+      "price": null,
+      "description": "An ALL BEEF favourite! Thinly sliced \"AAA\" Alberta Beef, slowly simmered in premium BULL'S-EYE BBQ SAUCE and generously served on a freshly baked Kaiser. This meal is served with our creamy coleslaw and delicious oven-baked brown beans. Included at no charge: paper plates, napkins, compostable cutlery, serving staff, and clean-up.",
+      "category": "FOOD",
+      "simplified_description": "Sliced Alberta beef in BBQ sauce on a Kaiser with coleslaw and baked beans.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Includes serving staff and clean-up"
+    },
+    {
+      "name": "BBQ Hamburger Meal",
+      "price": null,
+      "description": "A 6oz. 100% Prime Rib burger on a freshly baked Kaiser. Lettuce, tomato, onion, real cheddar cheese, and condiments are served on the side so you can dress it up your way! This meal is served with creamy coleslaw and our special recipe classic potato salad. Our staff will serve your guests buffet-style and will handle the set-up and clean-up as well. The price also includes paper plates, napkins, and compostable cutlery.",
+      "category": "FOOD",
+      "simplified_description": "Prime rib burger on a Kaiser with sides of coleslaw and potato salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Buffet-style service included"
+    },
+    {
+      "name": "BBQ Steak Meal",
+      "price": null,
+      "description": "”AAA” Alberta sirloin steak, lightly seasoned and grilled to perfection on-site. This meal is served with creamy coleslaw, our special recipe oven-baked brown beans, freshly baked dinner buns, and extra hot horseradish that will leave your mouth watering. This meal is served with creamy coleslaw, Caesar salad, and potato salad that will leave your mouth watering. The staff for serving and clean-up, paper plates, napkins, and compostable cutlery are all included at no additional charge.",
+      "category": "FOOD",
+      "simplified_description": "Grilled Alberta sirloin steak with coleslaw, baked beans, salads, and dinner buns.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Includes spicy horseradish and buffet service"
+    },
+    {
+      "name": "Roast Beef Dinners",
+      "price": null,
+      "description": "Enjoy either of our Roast Beef Dinners below for  $32.95 per person ### **Traditional Roast Beef Dinner** All-you-can-eat \"AAA” Alberta beef, carefully aged and slowly roasted to perfection. This dinner is served with freshly tossed creamy coleslaw, baked potatoes with butter, sour cream, and fresh chives, honey-glazed carrots, freshly baked dinner buns, au jus, and extra hot horseradish. Our professional staff will serve your guests buffet-style on China plates. We include stainless cutlery and clean-up at no additional cost. ### **BBQ Roast Beef Dinner** All-you-can-eat \"AAA” Alberta beef, slowly roasted and basted with premium BULL’S-EYE BBQ SAUCE that will have you coming back for more. Served with creamy coleslaw, baked potatoes with butter, sour cream, and fresh chives, our special recipe oven-baked brown beans, freshly baked dinner buns, and extra hot horseradish that will leave your mouth watering. Our professional staff will serve your guests buffet-style. We include China plates, stainless cutlery, and clean-up at no additional cost.",
+      "category": "FOOD",
+      "simplified_description": "All-you-can-eat roast beef with sides including coleslaw, potatoes, carrots, and buns.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Buffet-style with serving staff; spicy horseradish included"
+    },
+    {
+      "name": "Prime Rib Dinner",
+      "price": null,
+      "description": "\"AAA\" Alberta Prime Rib, carefully aged and slowly roasted to perfection, then carved on-site. Served with Caesar salad, baked potatoes with butter, sour cream, and fresh chives, honey-glazed carrots, freshly baked dinner buns, au jus, and extra hot horseradish. China plates, stainless cutlery, and the staff to serve and clean-up are included at no additional charge.",
+      "category": "FOOD",
+      "simplified_description": "Roasted Alberta prime rib with salad, potatoes, carrots, buns, and horseradish.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Includes serving staff and clean-up; spicy horseradish included"
+    },
+    {
+      "name": "Oven-Roasted Turkey Dinner",
+      "price": null,
+      "description": "Enjoy our classic oven-roasted turkey accompanied by cranberry relish and turkey gravy. This meal is served with garlic rosemary roasted potatoes, honey-glazed carrots, oven-baked stuffing, garden salad with a balsamic vinaigrette, and freshly baked dinner buns. The staff to serve the buffet and clean-up, China plates, and stainless cutlery are all included.",
+      "category": "FOOD",
+      "simplified_description": "Oven-roasted turkey with sides including potatoes, carrots, stuffing, salad, and buns.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Includes serving staff and clean-up"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": null,
+      "description": "_Add another salad to any meal for $3.50 per person plus GST & service charge (18%)._ All ingredients for our salads are combined just moments before the serving time to ensure a fresh, crisp presentation. Offered as all you can eat.",
+      "category": "SIDE",
+      "simplified_description": "Freshly prepared Caesar salad served buffet-style.",
+      "dietary_info": [],
+      "other_info": "All you can eat"
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": null,
+      "description": "_Add another salad to any meal for $3.50 per person plus GST & service charge (18%)._ All ingredients for our salads are combined just moments before the serving time to ensure a fresh, crisp presentation. Offered as all you can eat.",
+      "category": "SIDE",
+      "simplified_description": "Classic macaroni and cheese side dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "All you can eat"
+    },
+    {
+      "name": "Green Beans",
+      "price": null,
+      "description": "Let us customize your meal with one of the below sides. Contact us for pricing.",
+      "category": "SIDE",
+      "simplified_description": "Green beans side available upon request.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Contact for pricing"
+    },
+    {
+      "name": "Oven-Baked Brown Beans",
+      "price": null,
+      "description": "Let us customize your meal with one of the below sides. Contact us for pricing.",
+      "category": "SIDE",
+      "simplified_description": "Oven-baked brown beans side available upon request.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Contact for pricing"
+    },
+    {
+      "name": "Garlic Rosemary Roasted Potatoes",
+      "price": null,
+      "description": "Let us customize your meal with one of the below sides. Contact us for pricing.",
+      "category": "SIDE",
+      "simplified_description": "Garlic rosemary roasted potatoes side available upon request.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Contact for pricing"
+    },
+    {
+      "name": "Honey-Glazed Carrots",
+      "price": null,
+      "description": "Let us customize your meal with one of the below sides. Contact us for pricing.",
+      "category": "SIDE",
+      "simplified_description": "Honey-glazed carrots side available upon request.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Contact for pricing"
+    },
+    {
+      "name": "Baked Potato",
+      "price": null,
+      "description": "_Served_ _with butter, sour cream, and green onions._",
+      "category": "SIDE",
+      "simplified_description": "Baked potato served with butter, sour cream, and green onions.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Assorted Juice",
+      "price": null,
+      "description": "We'll help keep your guests hydrated. Add iced assorted juice, pop, and water to any package for just $1.95 per person.",
+      "category": "DRINK",
+      "simplified_description": "Assorted iced juices to keep guests hydrated.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": null,
+      "description": "We'll help keep your guests hydrated. Add iced assorted juice, pop, and water to any package for just $1.95 per person.",
+      "category": "DRINK",
+      "simplified_description": "Carbonated soft drinks to keep guests hydrated.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": null,
+      "description": "We'll help keep your guests hydrated. Add iced assorted juice, pop, and water to any package for just $1.95 per person.",
+      "category": "DRINK",
+      "simplified_description": "Bottled water to keep guests hydrated.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky Toffee Pudding",
+      "price": null,
+      "description": "Looking for a _sweet finish_? Here are some favourite options that we offer, but we're always open to other suggestions!",
+      "category": "DESSERT",
+      "simplified_description": "A sweet dessert option to finish your meal.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strudel",
+      "price": null,
+      "description": "Looking for a _sweet finish_? Here are some favourite options that we offer, but we're always open to other suggestions!",
+      "category": "DESSERT",
+      "simplified_description": "A sweet pastry dessert option to finish your meal.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Cookies & Brownie Bites",
+      "price": null,
+      "description": "Looking for a _sweet finish_? Here are some favourite options that we offer, but we're always open to other suggestions!",
+      "category": "DESSERT",
+      "simplified_description": "A variety of cookies and brownie bites for dessert.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build Your Own Taco Bar",
+      "price": null,
+      "description": "Your Choice of: BBQ Beef or Pulled Pork (Includes: corn tortillas, cotija cheese, pickled onions, cilantro, and house hot sauce)",
+      "category": "APPETIZER",
+      "simplified_description": "Taco bar with BBQ beef or pulled pork and toppings.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Includes house hot sauce"
+    },
+    {
+      "name": "BBQ Beef or Pulled Pork Sliders",
+      "price": null,
+      "description": "BBQ Beef or Pulled Pork Sliders",
+      "category": "APPETIZER",
+      "simplified_description": "Mini sliders with BBQ beef or pulled pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Chicken Wings",
+      "price": null,
+      "description": "Smoked Chicken Wings",
+      "category": "APPETIZER",
+      "simplified_description": "Smoked chicken wings appetizer.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Mini Sandwiches",
+      "price": null,
+      "description": "Assorted Mini Sandwiches (Beef, Ham, Turkey, Veggie)",
+      "category": "APPETIZER",
+      "simplified_description": "Variety of mini sandwiches including meat and veggie options.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

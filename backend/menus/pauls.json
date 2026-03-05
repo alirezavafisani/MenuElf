@@ -1,0 +1,97 @@
+{
+  "restaurant": "pauls",
+  "parsed_at": "2026-02-06T03:39:26.824383",
+  "item_count": 10,
+  "items": [
+    {
+      "name": "Hot Hamburger",
+      "price": 14.0,
+      "description": "Hot Hamburger",
+      "category": "FOOD",
+      "simplified_description": "Hot Hamburger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Piece Chicken Fingers",
+      "price": 14.0,
+      "description": "3 Piece Chicken Fingers",
+      "category": "FOOD",
+      "simplified_description": "3 Piece Chicken Fingers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 14.0,
+      "description": "Steak Sandwich",
+      "category": "FOOD",
+      "simplified_description": "Steak Sandwich",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chicken",
+      "price": 14.0,
+      "description": "Hot Chicken",
+      "category": "FOOD",
+      "simplified_description": "Hot Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Beef",
+      "price": 14.0,
+      "description": "Hot Beef",
+      "category": "FOOD",
+      "simplified_description": "Hot Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fettuccine",
+      "price": 14.0,
+      "description": "Chicken Fettuccine",
+      "category": "FOOD",
+      "simplified_description": "Chicken Fettuccine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Quesadilla",
+      "price": 14.0,
+      "description": "Chicken Quesadilla",
+      "category": "FOOD",
+      "simplified_description": "Chicken Quesadilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti Meat Sauce w/Garlic Toast",
+      "price": 13.0,
+      "description": "Spaghetti Meat Sauce w/Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Spaghetti Meat Sauce w/Garlic Toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLT Sandwich",
+      "price": 13.0,
+      "description": "BLT Sandwich",
+      "category": "FOOD",
+      "simplified_description": "BLT Sandwich",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pizza Rolls",
+      "price": 13.0,
+      "description": "Deep Fried Pizza Rolls",
+      "category": "FOOD",
+      "simplified_description": "Deep Fried Pizza Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

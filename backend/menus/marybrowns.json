@@ -1,0 +1,193 @@
+{
+  "restaurant": "marybrowns",
+  "parsed_at": "2025-12-25T00:56:03.958574",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "2 Piece Chicken Meal",
+      "price": null,
+      "description": "2 pieces of local, fresh Chicken, hand cut and breaded in our Signature recipe. Plus small Taters, small Salad and can of Pop. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Two pieces of fresh chicken with sides and a drink.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "3 Piece Chicken Meal",
+      "price": null,
+      "description": "3 pieces of local, fresh Chicken, hand cut and breaded in our Signature recipe. Plus small Taters, small Salad and can of Pop. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Three pieces of fresh chicken with sides and a drink.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "4 Piece Chicken Meal",
+      "price": null,
+      "description": "4 pieces of local, fresh Chicken, hand cut and breaded in our Signature recipe. Plus small Taters, small Salad and can of Pop. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Four pieces of fresh chicken with sides and a drink.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "9 Piece Feast",
+      "price": null,
+      "description": "9 pieces of Signature Chicken, a large Taters, a medium Salad and a medium Gravy. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Nine pieces of chicken with large sides.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "13 Piece Feast",
+      "price": null,
+      "description": "13 pieces of Signature Chicken, a large Taters, a large Salad and a large Gravy. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Thirteen pieces of chicken with large sides.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "18 Piece Feast",
+      "price": null,
+      "description": "18 pieces of Signature Chicken, 2 large Taters, 2 large Salads and a large Gravy. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Eighteen pieces of chicken with large sides.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "27 Piece Party Pack",
+      "price": null,
+      "description": "27 pieces of Signature Chicken, 2 large Taters, 2 large Salads and 3 medium Gravies. Choose Original, Spicy or a split of both.",
+      "simplified_description": "Twenty-seven pieces of chicken with large sides.",
+      "category": "Signature Chicken",
+      "dietary_info": [],
+      "other_info": "Choose Original, Spicy or a split of both."
+    },
+    {
+      "name": "Big Mary® Original",
+      "price": null,
+      "description": "A whole Canada Grade A chicken breast, breaded in our Signature recipe, cooked golden brown, and served on a sesame seed bun with mayo and lettuce. Plus small Taters and can of Pop.",
+      "simplified_description": "A breaded chicken breast sandwich with sides.",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": "Includes small Taters and a drink."
+    },
+    {
+      "name": "Spicy Big Mary®",
+      "price": null,
+      "description": "A whole Canada Grade A chicken breast, breaded in our Signature recipe, cooked golden brown, seasoned with a hot cayenne kick, and served on a sesame seed bun with pickles and our Spicy Mayo. Plus small Taters and can of Pop.",
+      "simplified_description": "A spicy breaded chicken breast sandwich with sides.",
+      "category": "Combos",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Includes small Taters and a drink."
+    },
+    {
+      "name": "Buffalo Mary",
+      "price": null,
+      "description": "A whole Canada Grade A chicken breast, breaded and cooked golden brown, slathered in a spicy Buffalo sauce, topped with Blue Cheese dressing and lettuce, and served on a sesame seed bun. Plus small Taters and can of Pop.",
+      "simplified_description": "A spicy chicken sandwich with Buffalo sauce and sides.",
+      "category": "Combos",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Includes small Taters and a drink."
+    },
+    {
+      "name": "Wings",
+      "price": null,
+      "description": "Enjoy our delicious chicken wings, perfectly sauced and tossed with a variety of bold flavours, including Sweet Heat, Buffalo, Hot Honey, and Dry-Rub Honey BBQ.",
+      "simplified_description": "Chicken wings with various sauces.",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mash-up Bowl",
+      "price": null,
+      "description": "Our creamy mashed potatoes topped with our house-made gravy, Honey BBQ seasoned chicken Pop-Ins, and crispy onion bits.",
+      "simplified_description": "Mashed potatoes with gravy and chicken bits.",
+      "category": "Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Twist Buffalo",
+      "price": null,
+      "description": "A tortilla filled with pulled chicken, mixed shredded cheese and zesty Buffalo sauce, deep fried and served crispy.",
+      "simplified_description": "A crispy tortilla with chicken and cheese.",
+      "category": "Snacks",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Biscuits",
+      "price": null,
+      "description": "Tender, flaky and melt-in-your-mouth good! Made with real buttermilk and served golden brown with a brush of butter-y flavour.",
+      "simplified_description": "Flaky buttermilk biscuits.",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taters",
+      "price": null,
+      "description": "Fresh Canadian potatoes, sliced in-store, breaded and seasoned to perfection, and cooked until perfectly crisp.",
+      "simplified_description": "Crispy breaded potato slices.",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": null,
+      "description": "Delicious, golden french fries.",
+      "simplified_description": "Golden french fries.",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Chunk Cookie",
+      "price": null,
+      "description": "Cookies with chocolate Chunks that melt in your mouth and are decadently soft.",
+      "simplified_description": "Soft cookies with chocolate chunks.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Cream Cheese Pie",
+      "price": null,
+      "description": "A perfectly crispy deep-fried crust, bursting with a sweet strawberry filling and rich, smooth cream cheese.",
+      "simplified_description": "Deep-fried pie with strawberry filling.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Pudding",
+      "price": null,
+      "description": "Creamy banana pudding, blended with vanilla biscuit and whipped cream, prepared in-store.",
+      "simplified_description": "Creamy banana pudding with biscuits.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Caramel Cup",
+      "price": null,
+      "description": "Chocolate mousse layered with chocolate sponge cake and caramel.",
+      "simplified_description": "Chocolate mousse with cake and caramel.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

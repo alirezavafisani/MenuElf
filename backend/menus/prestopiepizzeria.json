@@ -1,0 +1,349 @@
+{
+  "restaurant": "prestopiepizzeria",
+  "parsed_at": "2026-02-06T03:52:38.730911",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "URBAN MARGHERITA",
+      "price": null,
+      "description": "Fresh Tomato Sauce, Fresh Mozzarella Dressed With Fresh Basil , Olive Oil",
+      "category": "FOOD",
+      "simplified_description": "Fresh Tomato Sauce, Fresh Mozzarella Dressed With Fresh Basil , Olive Oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "QUATRO-MAGGI",
+      "price": null,
+      "description": "Red Sauce, Fresh Mozzarella, Shredded Mozzarella,Asiago Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Fresh Mozzarella, Shredded Mozzarella,Asiago Dressed With Parmesan Ch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PRESTORONI",
+      "price": null,
+      "description": "Red Sauce, Shredded Mozzarella, Triple Pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Shredded Mozzarella, Triple Pepperoni",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POLYNESIAN",
+      "price": null,
+      "description": "Red Sauce, Shredded Mozzarella, Ham, Roasted Pineapple, Jalapeno",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Shredded Mozzarella, Ham, Roasted Pineapple, Jalapeno",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUFFALO CHICKEN",
+      "price": null,
+      "description": "Red Sauce, Shredded Mozzarella, Chicken, Buffalo Hot Sauce, Dressed With Shredded Ice-berg, Blue Cheese Dressing",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Shredded Mozzarella, Chicken, Buffalo Hot Sauce, Dressed With Shredde",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EL TACO",
+      "price": null,
+      "description": "Red Sauce, Shredded Mozzarella, Chicken Dressed With Shredded Ice-berg, Onion & Cilantro, Tomatoes , Tortilla Chips",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Shredded Mozzarella, Chicken Dressed With Shredded Ice-berg, Onion & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TANDOORI PANEER",
+      "price": null,
+      "description": "Spicy Red Sauce, Shredded Mozzarella, Tandoori Paneer, Green Pepper, Chopped Garlic, Dressed With Onion & Cilantro",
+      "category": "FOOD",
+      "simplified_description": "Spicy Red Sauce, Shredded Mozzarella, Tandoori Paneer, Green Pepper, Chopped Gar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALL MEAT",
+      "price": null,
+      "description": "Red Sauce, Shredded Mozzarella, Pepperoni, Ham , Bacon Crumble, Ground Beef",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Shredded Mozzarella, Pepperoni, Ham , Bacon Crumble, Ground Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ CHICKEN",
+      "price": null,
+      "description": "BBQ Sauce, Shredded Mozzarella, Chicken, Roasted Red Peppers",
+      "category": "FOOD",
+      "simplified_description": "BBQ Sauce, Shredded Mozzarella, Chicken, Roasted Red Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALFREDO CHICKEN",
+      "price": null,
+      "description": "White Sauce, Shredded Mozzarella, Chicken, Spinach, Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "White Sauce, Shredded Mozzarella, Chicken, Spinach, Dressed With Parmesan Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUTTER CHICKEN",
+      "price": null,
+      "description": "Butter Chicken Sauce, Shredded Mozzarella, Chicken, Green Pepper, Onion, Tomatoes",
+      "category": "FOOD",
+      "simplified_description": "Butter Chicken Sauce, Shredded Mozzarella, Chicken, Green Pepper, Onion, Tomatoe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DEMETER",
+      "price": null,
+      "description": "Red Sauce, Spinach, Tomatoes, Mushrooms, Artichokes, Olives, Feta",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Spinach, Tomatoes, Mushrooms, Artichokes, Olives, Feta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN SMASH-ZA",
+      "price": null,
+      "description": "Red Sauce, Ground Beef, American Cheese Dressed With Pickles, Shrreded Ice-berg, Tomatoes, Burger Sauce",
+      "category": "FOOD",
+      "simplified_description": "Red Sauce, Ground Beef, American Cheese Dressed With Pickles, Shrreded Ice-berg,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRUFFLE 'SHROOM",
+      "price": null,
+      "description": "White Sauce, Chopped Garlic, Fresh Mozzarella, Mushrooms Dressed With Arugula, Parmesan Cheese , Truffle Oil",
+      "category": "FOOD",
+      "simplified_description": "White Sauce, Chopped Garlic, Fresh Mozzarella, Mushrooms Dressed With Arugula, P",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "INFERNO FIVE",
+      "price": null,
+      "description": "Inferno Sauce, Shredded Mozzarella, Pepperoni, Spicy Sausage, Red Onion, Tomatoes, Fresh Jalepeno Dressed With Sriracha Honey",
+      "category": "FOOD",
+      "simplified_description": "Inferno Sauce, Shredded Mozzarella, Pepperoni, Spicy Sausage, Red Onion, Tomatoe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIMPLE",
+      "price": null,
+      "description": "Mixed Greens, Fresh Mozzarella, Tomatoes, Red Onion, Green Peppers, Balsamic Dressing",
+      "category": "FOOD",
+      "simplified_description": "Mixed Greens, Fresh Mozzarella, Tomatoes, Red Onion, Green Peppers, Balsamic Dre",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK CHICKEN",
+      "price": null,
+      "description": "Spinach, Chicken, Feta Cheese, Tomatoes, Red Onion, Cucumber, Green Peppers, Lemon Herb Dressing",
+      "category": "FOOD",
+      "simplified_description": "Spinach, Chicken, Feta Cheese, Tomatoes, Red Onion, Cucumber, Green Peppers, Lem",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOPPED SALAD",
+      "price": null,
+      "description": "Shredded Ice-berg, Asiago Cheese, Ham, Tomatoes, Cucumber, Ranch Dressing",
+      "category": "FOOD",
+      "simplified_description": "Shredded Ice-berg, Asiago Cheese, Ham, Tomatoes, Cucumber, Ranch Dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC CAESAR",
+      "price": null,
+      "description": "Romaine, Parmesan Cheese, Bacon Crumble, Caesar Dressing, Croutons",
+      "category": "FOOD",
+      "simplified_description": "Romaine, Parmesan Cheese, Bacon Crumble, Caesar Dressing, Croutons",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIXED VEGGIE",
+      "price": null,
+      "description": "Spinach, Artichokes, Tomatoes, Green Peppers, Mushrooms, Red Onion, Fresh Basil, Raspberry Vinaigrette",
+      "category": "FOOD",
+      "simplified_description": "Spinach, Artichokes, Tomatoes, Green Peppers, Mushrooms, Red Onion, Fresh Basil,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI MARINARA",
+      "price": null,
+      "description": "Marinara Sauce, Dressed With Oregano And Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Marinara Sauce, Dressed With Oregano And Parmesan Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI MEAT SAUCE",
+      "price": null,
+      "description": "Meat Sauce, Dressed With Oregano And Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Meat Sauce, Dressed With Oregano And Parmesan Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEFY FETTUCINE",
+      "price": null,
+      "description": "Fresh Tomato Sauce, Shredded Mozzarella, Ground Beef, Mushrooms Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Fresh Tomato Sauce, Shredded Mozzarella, Ground Beef, Mushrooms Dressed With Par",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPICY PENNE",
+      "price": null,
+      "description": "Spicy Tomato Sauce, Shredded Mozzarella, Roasted Red Peppers, Spicy Sausage Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Spicy Tomato Sauce, Shredded Mozzarella, Roasted Red Peppers, Spicy Sausage Dres",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK FETTUCINE",
+      "price": null,
+      "description": "Fresh Tomato Sauce, Feta, Spinach, Tomatoes, Mushrooms, Artichokes, Olives Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Fresh Tomato Sauce, Feta, Spinach, Tomatoes, Mushrooms, Artichokes, Olives Dress",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI MEATBALLS",
+      "price": null,
+      "description": "Marinara Sauce, Meatballs Dressed With Oregano And Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Marinara Sauce, Meatballs Dressed With Oregano And Parmesan Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCINE ALFREDO",
+      "price": null,
+      "description": "Alfredo Sauce, Chopped Garlic, Shredded Mozzarella, Chicken Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Alfredo Sauce, Chopped Garlic, Shredded Mozzarella, Chicken Dressed With Parmesa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARDEN PENNE",
+      "price": null,
+      "description": "Basil Pesto, Shredded Mozzarella, Spinach, Peppers, Mushrooms, Artichokes Dressed With Parmesan Cheese",
+      "category": "FOOD",
+      "simplified_description": "Basil Pesto, Shredded Mozzarella, Spinach, Peppers, Mushrooms, Artichokes Dresse",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 OVEN ROASTED WINGS",
+      "price": null,
+      "description": "Hot, Teri-hot, Sri-rancha, Teriyaki, Bbq, Salt & Pepper",
+      "category": "FOOD",
+      "simplified_description": "Hot, Teri-hot, Sri-rancha, Teriyaki, Bbq, Salt & Pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 OVEN ROASTED WINGS",
+      "price": null,
+      "description": "Hot, Teri-hot, Sri-rancha, Teriyaki, Bbq, Salt & Pepper",
+      "category": "FOOD",
+      "simplified_description": "Hot, Teri-hot, Sri-rancha, Teriyaki, Bbq, Salt & Pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESY BREAD",
+      "price": null,
+      "description": "Shredded Mozzarella, Oregano, & Choice Of Dressing, Side Of Red Sauce",
+      "category": "FOOD",
+      "simplified_description": "Shredded Mozzarella, Oregano, & Choice Of Dressing, Side Of Red Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC CHEESY BREAD",
+      "price": null,
+      "description": "Shredded Mozzarella, Chopped Garlic, Oregano, & Choice Of Dressing, Side Of Red Sauce",
+      "category": "FOOD",
+      "simplified_description": "Shredded Mozzarella, Chopped Garlic, Oregano, & Choice Of Dressing, Side Of Red ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KIDS PIZZA MEAL (ONE TOPPING)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KIDS PASTA MEAL (ONE TOPPING)",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "APPLE CRISP PIZZA",
+      "price": null,
+      "description": "Apple Pie Filling, Caramel, Graham Cracker Crumble",
+      "category": "DESSERT",
+      "simplified_description": "Apple Pie Filling, Caramel, Graham Cracker Crumble",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TIRAMISU",
+      "price": null,
+      "description": "Ladyfinger Cookies, Espresso, Mascarpone Cream, Cocoa Powder",
+      "category": "DESSERT",
+      "simplified_description": "Ladyfinger Cookies, Espresso, Mascarpone Cream, Cocoa Powder",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESECAKE CREME BRULEE",
+      "price": null,
+      "description": "Buttery, Vanilla Cookie Crust, Cheesecake Blended With Creamy, Crème Brulee Custard, Caramel Drizzle",
+      "category": "DESSERT",
+      "simplified_description": "Buttery, Vanilla Cookie Crust, Cheesecake Blended With Creamy, Crème Brulee Cust",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BROWNIE",
+      "price": null,
+      "description": "Dark Fudge And Golden Brownie Loaded With Chocolate Chips Toasted Coconut Crust With Chocolate Drizzle",
+      "category": "DESSERT",
+      "simplified_description": "Dark Fudge And Golden Brownie Loaded With Chocolate Chips Toasted Coconut Crust ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

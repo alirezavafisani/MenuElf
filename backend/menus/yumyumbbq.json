@@ -1,0 +1,421 @@
+{
+  "restaurant": "yumyumbbq",
+  "parsed_at": "2026-02-06T04:55:17.688922",
+  "item_count": 46,
+  "items": [
+    {
+      "name": "Chicken (Boneless)",
+      "price": 16.69,
+      "description": "Chicken (Boneless) - Classic, crispy and juicy regular fried chicken.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Boneless) - Classic, crispy and juicy regular fried chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yumyum Chicken (Boneless)",
+      "price": 17.99,
+      "description": "Chicken (Boneless) - Yum Yum Bbq's most popular chicken seasoned with a sweet chili sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Boneless) - Yum Yum Bbq's most popular chicken seasoned with a sweet ch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shallot Chicken (Boneless)",
+      "price": 17.19,
+      "description": "Chicken (Boneless) - Most popular chicken seasoned with a sweet teriyaki sauce, topped with green onions.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Boneless) - Most popular chicken seasoned with a sweet teriyaki sauce, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Crispy Chicken (Boneless)",
+      "price": 17.19,
+      "description": "Chicken (Boneless) - Crispy fried chicken with a spicy batter.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Boneless) - Crispy fried chicken with a spicy batter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K-Dog Jumbo sausage",
+      "price": 5.75,
+      "description": "K-Hot Dog - Jumbo (Mix beef & pork) Sausage",
+      "category": "FOOD",
+      "simplified_description": "K-Hot Dog - Jumbo (Mix beef & pork) Sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K-Dog Half & Half",
+      "price": 5.75,
+      "description": "K-Hot Dog - Half Mozzarella Cheese, Half Jumbo Sausage",
+      "category": "FOOD",
+      "simplified_description": "K-Hot Dog - Half Mozzarella Cheese, Half Jumbo Sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K-Dog Mozza",
+      "price": 5.75,
+      "description": "K-Hot Dog - Whole Mozzarella Cheese",
+      "category": "FOOD",
+      "simplified_description": "K-Hot Dog - Whole Mozzarella Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Melts Ice Cream",
+      "price": 6.25,
+      "description": "Desserts (Ice-Cream) - Shake before opening.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts (Ice-Cream) - Shake before opening.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 liter Drink",
+      "price": 4.5,
+      "description": "Drinks - Coke, Diet Coke, Sprite, Canada dry.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Coke, Diet Coke, Sprite, Canada dry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Drink (355ml)",
+      "price": 2.5,
+      "description": "Drinks - Coke, Diet Coke, Sprite, Canada dry.",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Coke, Diet Coke, Sprite, Canada dry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water (500ml)",
+      "price": 2.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Flavored Milk",
+      "price": 3.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Flavored Milk",
+      "price": 3.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monster Energy",
+      "price": 4.0,
+      "description": "Drinks - Taurine 473ml",
+      "category": "DRINK",
+      "simplified_description": "Drinks - Taurine 473ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Fried Chicken (Bone-In)",
+      "price": 15.69,
+      "description": "Chicken (Bone-In) - Classic, crispy and juicy regular fried chicken.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Bone-In) - Classic, crispy and juicy regular fried chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yum Yum Chicken (Bone-In)",
+      "price": 16.99,
+      "description": "Chicken (Bone-In) - Yum Yum Bbq's most popular chicken seasoned with a sweet chili sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Bone-In) - Yum Yum Bbq's most popular chicken seasoned with a sweet chi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shallot Chicken (Bone-In)",
+      "price": 16.19,
+      "description": "Chicken (Bone-In) - Most popular chicken seasoned with a sweet teriyaki sauce, topped with green onions.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Bone-In) - Most popular chicken seasoned with a sweet teriyaki sauce, t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Crispy Chicken (Bone-In)",
+      "price": 16.19,
+      "description": "Chicken (Bone-In) - Crispy fried chicken with a spicy batter.",
+      "category": "FOOD",
+      "simplified_description": "Chicken (Bone-In) - Crispy fried chicken with a spicy batter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popcorn chicken",
+      "price": 17.29,
+      "description": "Bites size Chicken - Crispy and bites sized chicken. Available in any chicken flavors.",
+      "category": "FOOD",
+      "simplified_description": "Bites size Chicken - Crispy and bites sized chicken. Available in any chicken fl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gang Jeong (Bites)",
+      "price": 18.49,
+      "description": "Bites size Chicken - Tender boneless bites of chicken with a sweet sauce.",
+      "category": "FOOD",
+      "simplified_description": "Bites size Chicken - Tender boneless bites of chicken with a sweet sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Gangjeong",
+      "price": 19.49,
+      "description": "Bites size Chicken - Bites size of chicken with a spicy sweet sauce",
+      "category": "FOOD",
+      "simplified_description": "Bites size Chicken - Bites size of chicken with a spicy sweet sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Mayo Cupbap",
+      "price": 13.99,
+      "description": "Cupbap (Meals) - Sweet beef bulgogi, rice, and veggie dumplings with mayonnaise, teriyaki, and barbeque sauce in a bowl.",
+      "category": "FOOD",
+      "simplified_description": "Cupbap (Meals) - Sweet beef bulgogi, rice, and veggie dumplings with mayonnaise,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Mayo Cupbap",
+      "price": 12.99,
+      "description": "Cupbap (Meals) - Crispy chicken and rice with mayonnaise, teriyaki, and barbeque sauce in a bowl.",
+      "category": "FOOD",
+      "simplified_description": "Cupbap (Meals) - Crispy chicken and rice with mayonnaise, teriyaki, and barbeque",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Mayo Cupbap",
+      "price": 12.99,
+      "description": "Cupbap (Meals) - Spicy pork bulgogi, rice and veggie dumplings with mayonnaise, teriyaki and barbeque sauce in a bowl.",
+      "category": "FOOD",
+      "simplified_description": "Cupbap (Meals) - Spicy pork bulgogi, rice and veggie dumplings with mayonnaise, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yum Yum Sauce",
+      "price": 1.75,
+      "description": "Side / Sauce",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shallot Sauce",
+      "price": 1.75,
+      "description": "Side / Sauce",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sauces / Dressings",
+      "price": 1.75,
+      "description": "Side / Sauce - Gravy, Extra Sauce and Extra Dressing on the side.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Gravy, Extra Sauce and Extra Dressing on the side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daicon 3.25 oz",
+      "price": 1.25,
+      "description": "Side / Sauce - Cube pickled white radish.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Cube pickled white radish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice",
+      "price": 2.25,
+      "description": "Side / Sauce - Steamed White Rice (3 ice-cream scoops per 1 order)",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Steamed White Rice (3 ice-cream scoops per 1 order)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Twist Potato",
+      "price": 6.0,
+      "description": "Side / Sauce - A twisted spiral-cut potato with your choice of barbeque seasoning, chilli seasoning, cheese seasoning, or no seasoning.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - A twisted spiral-cut potato with your choice of barbeque seasonin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.29,
+      "description": "Side / Sauce - French fries seasoned with cheese seasoning.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - French fries seasoned with cheese seasoning.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barbeque Poutine",
+      "price": 14.49,
+      "description": "Side / Sauce - French fries served with gravy, your choice of barbeque beef or pork, and cheese.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - French fries served with gravy, your choice of barbeque beef or p",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japchae",
+      "price": 14.49,
+      "description": "Side / Sauce - Stir-Fried sweet potato noodles mixed with sauteed vegetables and sliced beef.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Stir-Fried sweet potato noodles mixed with sauteed vegetables and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tteokbokki",
+      "price": 11.99,
+      "description": "Side / Sauce - Sweet and spicy rice cakes with a mixture of vegetables, fish cakes, and chili paste. Served with dumplings.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Sweet and spicy rice cakes with a mixture of vegetables, fish cak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tteokbokki",
+      "price": 15.99,
+      "description": "Side / Sauce - Sweet and spicy rice cakes with a mixture of vegetables, fish cakes, and chili paste. Served with dumplings and tiny chickens.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Sweet and spicy rice cakes with a mixture of vegetables, fish cak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Dumplings (12 pcs)",
+      "price": 6.99,
+      "description": "Side / Sauce - Savoury dumplings stuffed with minced vegetables and seasoned with a sweet teriyaki sauce. One order comes with twelve dumplings.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Savoury dumplings stuffed with minced vegetables and seasoned wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Spring Roll (6pcs)",
+      "price": 6.49,
+      "description": "Side / Sauce - Special Offer: 6 vegetable spring roll with sweetened chilli sauce.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Special Offer: 6 vegetable spring roll with sweetened chilli sauc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Gyoza + Spring rolls (Free)",
+      "price": 6.99,
+      "description": "Side / Sauce - Pork and cabbage 6 pieces of dumpling with soy sauce.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Pork and cabbage 6 pieces of dumpling with soy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barbeque MEAT",
+      "price": 7.99,
+      "description": "Side / Sauce - Only Beef or Pork BBQ Meat",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Only Beef or Pork BBQ Meat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad",
+      "price": 6.45,
+      "description": "Side / Sauce - Fresh spring mix served with dressing of choice on the side.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Fresh spring mix served with dressing of choice on the side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Creamy Onion Sauce 4oz",
+      "price": 2.75,
+      "description": "Side / Sauce - Enjoy your chicken with creamy onion sauce. It will make you smile.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Enjoy your chicken with creamy onion sauce. It will make you smil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Squid (5pc)",
+      "price": 11.99,
+      "description": "Side / Sauce - Crunch, It's delicious Korean style fried squid. You can eat as an appetizer. (5pcs)",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Crunch, It's delicious Korean style fried squid. You can eat as a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kimchi",
+      "price": 1.25,
+      "description": "Side / Sauce - A Korean traditional spicy cabbage.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - A Korean traditional spicy cabbage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Takoyaki",
+      "price": 6.49,
+      "description": "Side / Sauce - Golden brown batter balls filled with pieces of octopus. One order comes with five pieces.",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Golden brown batter balls filled with pieces of octopus. One orde",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Potato Croquettes",
+      "price": 7.99,
+      "description": "Side / Sauce - Three pieces of delicious Sweet Potato Croquettes",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Three pieces of delicious Sweet Potato Croquettes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad",
+      "price": 13.99,
+      "description": "Side / Sauce - Boneless shallot flavour chicken on spring mix, with dressing",
+      "category": "SIDE",
+      "simplified_description": "Side / Sauce - Boneless shallot flavour chicken on spring mix, with dressing",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

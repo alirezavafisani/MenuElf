@@ -1,0 +1,161 @@
+{
+  "restaurant": "kintonramen",
+  "parsed_at": "2026-02-06T02:57:41.771844",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "Swicy Ramen",
+      "price": 19.99,
+      "description": "Sweet meets spicy! Thick noodles in a savoury pork broth with the perfect balance of sweet and spicy, topped with seasoned ground pork, sweet corn, bean sprouts, cilantro, chili oil, a seasoned egg, shredded chili pepper, and inari tofu.",
+      "category": "FOOD",
+      "simplified_description": "Thick noodles in sweet and spicy pork broth with pork, egg, corn, and chili toppings.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Golden Sesame Ramen",
+      "price": 19.99,
+      "description": "Thick noodles in a rich pork broth blended with creamy white sesame paste. Topped with seasoned ground pork, marinated egg, spinach, bean sprouts, scallions, chili oil, shredded chili pepper, white pepper, and fried onion.",
+      "category": "FOOD",
+      "simplified_description": "Thick noodles in pork broth with sesame, pork, egg, spinach, and spicy chili oil.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Seasonal Combo",
+      "price": 23.98,
+      "description": "Swicy Ramen or Golden Sesame Ramen + 1 Gyoza or Tokyo Fries + 1 Coca-Cola® Beverage (355ml)",
+      "category": "OTHER",
+      "simplified_description": "Combo with choice of ramen, gyoza or fries, and a Coca-Cola beverage.",
+      "dietary_info": [],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Hot Yuzu Honey Tea",
+      "price": 4.99,
+      "description": "warm yuzu and honey with a hint of lemon",
+      "category": "DRINK",
+      "simplified_description": "Warm tea with yuzu, honey, and lemon flavor.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Yuzu Lemonade",
+      "price": 6.99,
+      "description": "fizzy citrus with a minty zest",
+      "category": "DRINK",
+      "simplified_description": "Fizzy citrus lemonade with a refreshing mint flavor.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shandy Gaff",
+      "price": 10.99,
+      "description": "A refreshing blend of Sapporo beer and ginger ale, brightened with a fresh mint garnish",
+      "category": "DRINK",
+      "simplified_description": "Beer and ginger ale mix with fresh mint garnish.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sapporo Black",
+      "price": 10.99,
+      "description": "Bold, flavourful dark lager with roasted malts and coffee-chocolate notes",
+      "category": "DRINK",
+      "simplified_description": "Dark lager beer with roasted malt and coffee-chocolate flavors.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Value Meal",
+      "price": 15.99,
+      "description": "1 Value Original Ramen (Pork / Veggie / Chicken / Beef +$1) + 1 Gyoza (Pork or Veggie) + 1 Coca-Cola® Beverage (355mL)",
+      "category": "OTHER",
+      "simplified_description": "Meal with ramen, gyoza, and Coca-Cola beverage.",
+      "dietary_info": [],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Beer/Sake Combo",
+      "price": 23.99,
+      "description": "1 Ramen* + 1 Sapporo Draft (16 oz) or 1 House Sake (5 oz)",
+      "category": "OTHER",
+      "simplified_description": "Combo of ramen with either draft beer or house sake.",
+      "dietary_info": [],
+      "other_info": "Alcohol included"
+    },
+    {
+      "name": "Meal For One",
+      "price": 25.99,
+      "description": "1 Ramen* + 1 Gyoza or Tokyo Fries + 1 Coca-Cola® Beverage (355mL)",
+      "category": "OTHER",
+      "simplified_description": "Single meal with ramen, gyoza or fries, and a Coca-Cola beverage.",
+      "dietary_info": [],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Meal for Two",
+      "price": 44.99,
+      "description": "2 Ramen* + 1 Gyoza or Tokyo Fries + 2 Coca-Cola® Beverages (355mL)",
+      "category": "OTHER",
+      "simplified_description": "Meal for two with ramen, gyoza or fries, and Coca-Cola beverages.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Meal for Four",
+      "price": 87.99,
+      "description": "4 Ramen* + 1 Gyoza + 1 Tokyo Fries or Edamame + 4 Coca-Cola® Beverages (355mL)",
+      "category": "OTHER",
+      "simplified_description": "Meal for four with ramen, gyoza, fries or edamame, and Coca-Cola beverages.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "Pork Original Ramen",
+      "price": 16.99,
+      "description": "A timeless classic with our rich, creamy, umami-packed broth and tender slices of pork that melt in your mouth.",
+      "category": "FOOD",
+      "simplified_description": "Rich creamy pork broth ramen with tender pork slices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Shoyu Ramen",
+      "price": 16.99,
+      "description": "Savoury soy sauce broth paired with perfectly tender pork and red ginger.",
+      "category": "FOOD",
+      "simplified_description": "Soy sauce broth ramen with tender pork and red ginger.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

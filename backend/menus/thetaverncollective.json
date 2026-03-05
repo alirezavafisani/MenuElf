@@ -1,0 +1,465 @@
+{
+  "restaurant": "thetaverncollective",
+  "parsed_at": "2025-12-25T02:49:36.437055",
+  "item_count": 47,
+  "items": [
+    {
+      "name": "Tavern Caesar",
+      "price": 10.99,
+      "description": "Smirnoff vodka, Clamato cocktail, pickle juice, house spice blend, pepperoni",
+      "simplified_description": "A cocktail made with vodka, Clamato juice, pickle juice, spices, and pepperoni",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Copper Cowboy",
+      "price": 10.49,
+      "description": "Tavern mule with Ketel One vodka, ginger beer, lime (1 oz)",
+      "simplified_description": "A cocktail made with vodka, ginger beer, and lime",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cuban Divorce",
+      "price": 12.49,
+      "description": "Dark rum mojito with Bumbu rum, mint, lime (1.5 oz)",
+      "simplified_description": "A mojito cocktail made with dark rum, mint, and lime",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lucky Heist",
+      "price": 11.99,
+      "description": "Classic margarita with Jose Cuervo Tradicional plata tequila, fresh lime juice, agave syrup (1.5 oz)",
+      "simplified_description": "A classic margarita made with tequila, lime juice, and agave syrup",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "What a Girl Wants",
+      "price": 10.49,
+      "description": "Skinny margarita with Jose Cuervo Tradicional plata tequila, fresh lime, orange juice, stevia (1 oz)",
+      "simplified_description": "A low-calorie margarita made with tequila, lime, orange juice, and stevia",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Puppy Tears",
+      "price": 12.99,
+      "description": "400 Conejos Mezcal, grapefruit, Jarritos soda (1.5 oz)",
+      "simplified_description": "A cocktail made with mezcal, grapefruit, and soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brooklyn Barbara",
+      "price": 13.99,
+      "description": "Old fashioned with Bearface Canadian whisky, demerara cordial, angostura bitters, orange (2 oz)",
+      "simplified_description": "An old fashioned cocktail made with Canadian whisky, sweet syrup, bitters, and orange",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shiso Crazy",
+      "price": 12.99,
+      "description": "Red wine sangria, berries & fresh juices (5 oz)",
+      "simplified_description": "A fruity sangria made with red wine, berries, and fresh juices",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cash Bunny",
+      "price": 13.99,
+      "description": "Grapefruit spritz with Aperol, prosecco, fresh juices (5 oz)",
+      "simplified_description": "A refreshing cocktail made with grapefruit, Aperol, prosecco, and fresh juices",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Stranger",
+      "price": 13.49,
+      "description": "Espresso martini with Ketel One vodka, coffee liqueur, cold brew, demerara cordial (2 oz)",
+      "simplified_description": "A coffee-flavored cocktail made with vodka, coffee liqueur, and cold brew",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Frenchie Martini",
+      "price": 15.99,
+      "description": "Ketel One vodka or London dry gin, blue cheese olives, vermouth, olive juice (3 oz)",
+      "simplified_description": "A martini made with vodka or gin, blue cheese olives, vermouth, and olive juice",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Puppy Love Martini",
+      "price": 11.99,
+      "description": "Absolut Raspberri, peach schnapps, pineapple juice (2 oz)",
+      "simplified_description": "A fruity martini made with raspberry vodka, peach schnapps, and pineapple juice",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Feature Soup",
+      "price": 11.99,
+      "description": "Seasonal, ask your server for details",
+      "simplified_description": "A seasonal soup, ask for details",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Sushi Hand Roll",
+      "price": 4.99,
+      "description": "Tempura prawns, sushi rice, cucumber, pickled ginger & spicy mayo",
+      "simplified_description": "A sushi roll with tempura prawns, rice, cucumber, ginger, and spicy mayo",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Chicken Spring Rolls",
+      "price": 13.99,
+      "description": "Cashew dip",
+      "simplified_description": "Spring rolls served with cashew dip",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prairie Poutine",
+      "price": 13.99,
+      "description": "Gravy, fresh cooked fries & cheese",
+      "simplified_description": "Fries topped with gravy and cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WOW Chicken Tenders",
+      "price": 15.99,
+      "description": "Freshly breaded tenders, buttermilk marinade & plum sauce. Add fries or Caesar salad for $5.99.",
+      "simplified_description": "Breaded chicken tenders served with plum sauce; fries or Caesar salad can be added",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Street Corn Dip (v) (gc)",
+      "price": 17.49,
+      "description": "Roasted corn, jalapeños, queso fresco & freshly cooked white corn chips",
+      "simplified_description": "A dip made with roasted corn, jalapeños, cheese, and corn chips",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Cheese Quesadilla",
+      "price": 15.99,
+      "description": "Lime & chilli chicken, mozzarella cheese, salsa verde, sour cream, corn tortilla. Add fries or Caesar salad for $5.99.",
+      "simplified_description": "A quesadilla with chicken, cheese, salsa, and sour cream; fries or Caesar salad can be added",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1lb Chicken Wings",
+      "price": 18.99,
+      "description": "Choose between S&P, hot, honey garlic or spicy dill. Served with celery + ranch or blue cheese dip.",
+      "simplified_description": "A pound of chicken wings with your choice of sauce, served with celery and dip",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tavern Calamari & Shrimp",
+      "price": 18.99,
+      "description": "Breaded squid & shrimp, nuoc cham sauce, yogurt dip, basil & peppers",
+      "simplified_description": "Breaded calamari and shrimp served with dipping sauces",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lettuce Wraps",
+      "price": 21.99,
+      "description": "Crispy chicken & noodles, fresh vegetables, soy & ginger sauce, and spicy mayo",
+      "simplified_description": "Lettuce wraps filled with crispy chicken, noodles, and vegetables with sauces",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Caesar Salad (gc)",
+      "price": 16.49,
+      "description": "Fresh romaine, kale, garlic Caesar dressing, bacon bits, crispy croutons & grana padano cheese. Add a marinated chicken skewer for $6.99.",
+      "simplified_description": "A Caesar salad with romaine, kale, bacon, and croutons; chicken skewer can be added",
+      "category": "Salads \"The Healthy Stuff\"",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cobb Wedge Salad (gc)",
+      "price": 16.49,
+      "description": "Iceberg lettuce, red onions, tomatoes, bacon, crispy croutons & blue cheese dressing. Add a marinated chicken skewer for $6.99.",
+      "simplified_description": "A wedge salad with iceberg lettuce, bacon, and blue cheese dressing; chicken skewer can be added",
+      "category": "Salads \"The Healthy Stuff\"",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tex Mex Salad (v) (gc)",
+      "price": 16.99,
+      "description": "Iceberg lettuce, corn salsa, lime cilantro sauce, queso fresco, avocado & creamy hot dressing. Add lime & chilli chicken for $6.99.",
+      "simplified_description": "A Tex-Mex salad with lettuce, corn, avocado, and dressing; chicken can be added",
+      "category": "Salads \"The Healthy Stuff\"",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vermicelli Bowl",
+      "price": 23.99,
+      "description": "Ginger & garlic chicken, rice noodles, spring rolls, fresh vegetables, nuoc cham sauce & cashew dressing",
+      "simplified_description": "A bowl with chicken, rice noodles, spring rolls, and vegetables with sauces",
+      "category": "Salads \"The Healthy Stuff\"",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Tavern Burger (gc)",
+      "price": 22.99,
+      "description": "Fully loaded with bacon, cheddar, mushrooms & caramelized onions",
+      "simplified_description": "A burger loaded with bacon, cheese, mushrooms, and onions",
+      "category": "Handheld Things",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bulldog Bacon Cheeseburger (gc)",
+      "price": 23.99,
+      "description": "Double cheddar, double bacon, BBQ sauce",
+      "simplified_description": "A cheeseburger with double cheese, double bacon, and BBQ sauce",
+      "category": "Handheld Things",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun Chicken Burger (gc)",
+      "price": 22.99,
+      "description": "Spicy roasted chicken breast, bacon, tomato, jalapeño jack cheese, iceberg lettuce & tzatziki",
+      "simplified_description": "A spicy chicken burger with bacon, cheese, and tzatziki sauce",
+      "category": "Handheld Things",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beyond Burger (v) (gc)",
+      "price": 22.99,
+      "description": "Beyond meat patty, BBQ sauce & jalapeño jack cheese",
+      "simplified_description": "A plant-based burger with BBQ sauce and cheese",
+      "category": "Handheld Things",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "WOW Crispy Chicken Sandwich",
+      "price": 23.99,
+      "description": "Bo ssäm sauce, lettuce, pickles, onions, cheddar cheese",
+      "simplified_description": "A crispy chicken sandwich with sauce, lettuce, pickles, onions, and cheese",
+      "category": "Handheld Things",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frencheezie (v)",
+      "price": 20.99,
+      "description": "Classic cheese pizza with slow-cooked tomato sauce, mozzarella & fresh basil",
+      "simplified_description": "A cheese pizza with tomato sauce and fresh basil",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pupperoni",
+      "price": 23.99,
+      "description": "Dry cured pepperoni, pepperoncini peppers, slow-cooked tomato sauce & mozzarella",
+      "simplified_description": "A pizza with pepperoni, spicy peppers, tomato sauce, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beach in Heat",
+      "price": 23.99,
+      "description": "Hawaiian style with roasted pineapple, smoked pork belly, mozzarella & jalapeños",
+      "simplified_description": "A Hawaiian pizza with pineapple, pork, cheese, and jalapeños",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hairless Chihuahua",
+      "price": 24.99,
+      "description": "Chilli lime chicken, queso corn, jalapeño crema & cilantro pesto",
+      "simplified_description": "A pizza with spicy chicken, corn, and creamy sauces",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Long Hike (v)",
+      "price": 22.99,
+      "description": "Vegetarian with roasted mushrooms, garlic, kale, caramelized onions, mozzarella & miso aioli",
+      "simplified_description": "A vegetarian pizza with mushrooms, garlic, kale, onions, cheese, and sauce",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Dips",
+      "price": 3.99,
+      "description": "Jalapeño cheddar | Nonna’s tomato sauce | hot truffle | creamy garlic | honey dill",
+      "simplified_description": "Dips for pizza including cheese, tomato sauce, and various flavors",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak & Fries (gc)",
+      "price": 33.99,
+      "description": "7oz center cut sirloin, freshly cooked fries & Caesar salad. Add chimichurri for $1.49.",
+      "simplified_description": "A sirloin steak served with fries and Caesar salad; chimichurri can be added",
+      "category": "Tavern Mains",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Uncle Julio’s Chicken Enchiladas (gc)",
+      "price": 22.99,
+      "description": "Chicken & cheese stuffed shells, smothered in avocado salsa verde, served with red rice & queso fresco",
+      "simplified_description": "Enchiladas filled with chicken and cheese, served with rice and salsa",
+      "category": "Tavern Mains",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jambalaya (gc)",
+      "price": 23.99,
+      "description": "Chicken, prawn & chorizo sausage with onions, peppers, corn & beans, served with Creole rice",
+      "simplified_description": "A spicy dish with chicken, shrimp, sausage, and rice",
+      "category": "Tavern Mains",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cashew Butter Chicken (gc)",
+      "price": 22.99,
+      "description": "Tender chicken simmered in a classic tomato & ginger butter sauce, cashews, served with rice & naan",
+      "simplified_description": "Chicken in a tomato and ginger sauce, served with rice and naan",
+      "category": "Tavern Mains",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Cookie Skillet",
+      "price": 10.99,
+      "description": "Baked to order with vanilla bean ice cream",
+      "simplified_description": "A warm cookie served with vanilla ice cream",
+      "category": "Sweets",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Utopia Cake",
+      "price": 12.99,
+      "description": "Four layers of rich chocolate cake, fudge icing, chocolate glaze & crème anglaise",
+      "simplified_description": "A rich chocolate cake with icing and sauce",
+      "category": "Sweets",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tenders",
+      "price": 12.99,
+      "description": "with plum sauce & fries",
+      "simplified_description": "Chicken tenders served with plum sauce and fries",
+      "category": "Kids",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadilla (gc)",
+      "price": 12.99,
+      "description": "mozzarella cheese, corn tortilla, served with fries",
+      "simplified_description": "A cheese quesadilla served with fries",
+      "category": "Kids",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeseburger (gc)",
+      "price": 13.99,
+      "description": "cheese, burger sauce, served with fries",
+      "simplified_description": "A cheeseburger served with fries",
+      "category": "Kids",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza",
+      "price": 11.99,
+      "description": "classic cheese pizza with tomato sauce & mozzarella",
+      "simplified_description": "A classic cheese pizza with tomato sauce",
+      "category": "Kids",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

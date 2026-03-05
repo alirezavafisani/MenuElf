@@ -1,0 +1,904 @@
+{
+  "restaurant": "avestashawarma",
+  "parsed_at": "2025-12-25T01:43:24.911001",
+  "item_count": 97,
+  "items": [
+    {
+      "name": "Chicken Shawarma Wrap (Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Wrap (Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Wrap (Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Wrap (Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Wrap (Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Wrap (Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Chicken & Beef Shawarma Wrap (Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Chicken & Beef Shawarma Wrap (Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio Shawarma Wrap (Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio Shawarma Wrap (Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Platter",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Falafel",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Wrap (Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Falafel",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Wrap (Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Falafel",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Wrap (Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Falafel",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Wrap (Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Falafel",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Ball",
+      "price": 1.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baklawa",
+      "price": 1.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries (Medium)",
+      "price": 7.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries (Large)",
+      "price": 10.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Potatoes (Medium)",
+      "price": 7.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Potatoes (Large)",
+      "price": 10.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus (Medium)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus (Large)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic (Medium)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic (Large)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grape Leaves (Medium)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grape Leaves (Large)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tahini (Medium)",
+      "price": 4.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tahini (Large)",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet (Medium)",
+      "price": 4.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet (Large)",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat (Medium)",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat (Large)",
+      "price": 13.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Rice (Medium)",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Rice (Large)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings (Medium)",
+      "price": 7.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings (Large)",
+      "price": 10.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kabab Platter",
+      "price": 20.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kofta Beef Kabab Platter",
+      "price": 20.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Kofta Beef Kabab Platter",
+      "price": 20.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 1.45,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle Water",
+      "price": 1.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle Drinks",
+      "price": 2.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jarrito",
+      "price": 3.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#19 Chicken Shawarma Rice Bowl",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#20 Beef Shawarma Rice Bowl",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#21 Donair Rice Bowl",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#22 Chicken & Beef Shawarma Rice Bowl",
+      "price": 15.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#24 Trio Rice Bowl",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#28 Chicken Kabob Rice Bowl",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#29 Beef Kofta Kabob Rice Bowl",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#30 Chicken & Kofta Rice Bowl",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Bowls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 3",
+      "price": 54.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 4",
+      "price": 72.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 5",
+      "price": 90.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 6",
+      "price": 108.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 7",
+      "price": 126.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 8",
+      "price": 144.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 9",
+      "price": 162.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter for 10",
+      "price": 180.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Family Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Platter",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shawarma Platter",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Chicken & Beef Shawarma Platter",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Chicken & Beef Donair Platter",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio Shawarma Platter",
+      "price": 19.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Chop Platter",
+      "price": 27.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Shawarma Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawook Wrap (Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shish Tawook Wrap (Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kofta Beef Kabab Wrap (Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kofta Beef Kabab Wrap (Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Kofta Kabab Wrap (Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Kofta Kabab Wrap (Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Kabab Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fattoush Salad",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Salad",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tabouleh Salad",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#13 Chicken Salad",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#14 Beef Shawarma Salad",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#15 Donair Salad",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#16 Chicken & Beef Shawarma Salad",
+      "price": 15.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#17 Chicken & Beef Donair Salad",
+      "price": 15.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#18 Trio Salad",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#25 Chicken Kabob Salad",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#26 Beef Kofta Kabob Salad",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#27 Chicken & Kofta Kabob Salad",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 1 (Chicken Shawarma Wrap, Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 1 (Chicken Shawarma Wrap, Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 2 (Beef Shawarma Wrap, Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 2 (Beef Shawarma Wrap, Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 3 (Beef Donair Wrap, Medium)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 3 (Beef Donair Wrap, Large)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 4 (Mix Chicken & Beef Shawarma Wrap, Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 4 (Mix Chicken & Beef Shawarma Wrap, Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 5 (Mix Chicken & Donair Wrap, Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 5 (Mix Chicken & Donair Wrap, Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 6 (Trio Shawarma Wrap, Medium)",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 6 (Trio Shawarma Wrap, Large)",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Combo Wraps",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

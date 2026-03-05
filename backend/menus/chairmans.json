@@ -1,0 +1,721 @@
+{
+  "restaurant": "chairmans",
+  "parsed_at": "2025-12-25T02:15:22.470520",
+  "item_count": 78,
+  "items": [
+    {
+      "name": "Chairman’s Cheese Toast (2)",
+      "price": 10,
+      "description": "QUEBEC CHEESE CURD, AGED WHITE CHEDDAR, GRANA PADANO",
+      "simplified_description": "Toasted bread with Quebec cheese curd, aged white cheddar, and Grana Padano cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prime Steak Tartare",
+      "price": 25,
+      "description": "CLASSIC GARNISH, WHITE WINE MUSTARD, CURED EGG YOLK, HOUSEMADE POTATO CRISPS",
+      "simplified_description": "Raw minced steak with classic garnishes, white wine mustard, cured egg yolk, and homemade potato crisps",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Seared Hokkaido Scallops",
+      "price": 27,
+      "description": "DOUBLE SMOKED BACON FOAM, HICKORY STICKS, TRUFFLE CAULIFLOWER PUREE, MUSHROOMS",
+      "simplified_description": "Seared scallops served with double smoked bacon foam, hickory sticks, truffle cauliflower puree, and mushrooms",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh East Coast Oysters on the Half Shell",
+      "price": 5,
+      "description": "HORSERADISH, HOUSE-MADE HOT SAUCE, RASPBERRY MIGNONETTE, LEMON. 3 PIECE MINIMUM ORDER",
+      "simplified_description": "Fresh oysters served with horseradish, homemade hot sauce, raspberry mignonette, and lemon (minimum order of 3)",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Venison Carpaccio",
+      "price": 24,
+      "description": "PRESERVED LEMON AIOLI, APPLE GRAPE MOSTARDA, WATERCRESS PECORINO, CROSTINI",
+      "simplified_description": "Thinly sliced venison with preserved lemon aioli, apple grape mustard, watercress, pecorino cheese, and crostini",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ahi Tuna Tartare",
+      "price": 27,
+      "description": "CREAMY SESAME DRESSING, AVOCADO, PICKLED CUCUMBER, SPICY MAYO, RADISH, TARO ROOT CHIPS",
+      "simplified_description": "Raw tuna with creamy sesame dressing, avocado, pickled cucumber, spicy mayo, radish, and taro root chips",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Cocktail",
+      "price": 22,
+      "description": "PACIFIC WHITE PRAWNS, TRIO OF DIPS, WASABI COCKTAIL SAUCE, SPICY MAYO, MAUI MUSTARD",
+      "simplified_description": "Pacific white prawns served with three dips: wasabi cocktail sauce, spicy mayo, and Maui mustard",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bone Marrow Flambée",
+      "price": 28,
+      "description": "RED ONION JAM, CHIMICHURRI, BAGUETTE, TABLE SIDE BRANDY FLAMBÉE",
+      "simplified_description": "Bone marrow served with red onion jam, chimichurri, and baguette, flambéed at the table",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crab Wellingtons",
+      "price": 28,
+      "description": "TRUFFLE MUSHROOM DUXELLE, BOURSIN CHEESE, BEARNAISE SAUCE",
+      "simplified_description": "Crab-filled pastries with truffle mushroom duxelle, Boursin cheese, and béarnaise sauce",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilled Seafood Platters",
+      "price": 72,
+      "description": "KING CRAB LEGS, LOBSTER CLAW, OYSTERS ON THE ½ SHELL, COCKTAIL PRAWNS, YUZU SCALLOP CRUDO, AHI TUNA TARTARE, HOUSE SMOKED SALMON, ALL THE FIXINGS",
+      "simplified_description": "A platter of chilled seafood including king crab legs, lobster claw, oysters, cocktail prawns, yuzu scallop crudo, ahi tuna tartare, and house smoked salmon",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Local Greens",
+      "price": 14,
+      "description": "CHERRY TOMATO, PICKLED RED ONION, RADISH, DRIED POMEGRANATE SEEDS, HOUSE VINAIGRETTE",
+      "simplified_description": "Salad with cherry tomatoes, pickled red onion, radish, dried pomegranate seeds, and house vinaigrette",
+      "category": "Salads",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Waldorf Salad",
+      "price": 16,
+      "description": "FUJI APPLE, CANDIED WALNUTS, STILTON, GRAPES, ARUGULA, CELERY HEARTS, CREAMY DRESSING",
+      "simplified_description": "Salad with Fuji apple, candied walnuts, Stilton cheese, grapes, arugula, celery hearts, and creamy dressing",
+      "category": "Salads",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 16,
+      "description": "BABY ROMAINE, DOUBLE SMOKED BACON, PARMIGIANO REGGIANO, CROUTON, GARLIC DRESSING",
+      "simplified_description": "Caesar salad with baby romaine, double smoked bacon, Parmigiano Reggiano cheese, croutons, and garlic dressing",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Petit Filet",
+      "price": 56,
+      "description": "6 OZ CHAIRMANS RESERVE ALBERTA BEEF TENDERLOIN, MASHED POTATO, BROCCOLINI, BACON JUS",
+      "simplified_description": "6 oz Alberta beef tenderloin served with mashed potato, broccolini, and bacon jus",
+      "category": "Signature Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Truffle Gnocchi",
+      "price": 27,
+      "description": "SHELLED PEAS, MUSHROOMS, CAULIFLOWER PUREE, PARMIGIANO REGGIANO (VEGETARIAN)",
+      "simplified_description": "Gnocchi with shelled peas, mushrooms, cauliflower puree, and Parmigiano Reggiano cheese (vegetarian)",
+      "category": "Signature Dishes",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BC Chinook Salmon",
+      "price": 49,
+      "description": "PINEAPPLE LEMONGRASS GLAZE, CRAB RICE, BROCCOLINI, PONZU",
+      "simplified_description": "Chinook salmon with pineapple lemongrass glaze, crab rice, broccolini, and ponzu sauce",
+      "category": "Signature Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Herb Crusted Lamb Loin",
+      "price": 52,
+      "description": "WAGYU CONFIT POTATOES, PORT JUS, BRAISED CABBAGE, SASKATOON BERRY MUSTARD, BABY CARROTS",
+      "simplified_description": "Lamb loin crusted with herbs, served with Wagyu confit potatoes, port jus, braised cabbage, Saskatoon berry mustard, and baby carrots",
+      "category": "Signature Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Free Run Alberta Chicken Supreme",
+      "price": 39,
+      "description": "FONDANT POTATO, CAULIFLOWER PUREE, BRAISED RED CABBAGE, BROCCOLINI, APPLE & GRAPE MOSTARDA, ROASTED POULTRY JUS",
+      "simplified_description": "Alberta chicken served with fondant potato, cauliflower puree, braised red cabbage, broccolini, apple and grape mustard, and roasted poultry jus",
+      "category": "Signature Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bar None Barramundi",
+      "price": 51,
+      "description": "POTATO TERRINE, BROCCOLINI, NDUJA CREAM SAUCE, PANCETTA BACON",
+      "simplified_description": "Barramundi fish served with potato terrine, broccolini, nduja cream sauce, and pancetta bacon",
+      "category": "Signature Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Steak Sinatra",
+      "price": 73,
+      "description": "PACIFIC WHITE PRAWNS, SAUTEED PEPPERS, ONIONS & MUSHROOMS, MARSALA CREAM SAUCE, MASHED POTATO, BROCCOLINI",
+      "simplified_description": "New York steak served with Pacific white prawns, sautéed peppers, onions, mushrooms, marsala cream sauce, mashed potato, and broccolini",
+      "category": "Signature Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8 OZ Tenderloin",
+      "price": 67,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes one signature side)"
+    },
+    {
+      "name": "12 OZ Striploin",
+      "price": 62,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes one signature side)"
+    },
+    {
+      "name": "18 OZ Ribeye",
+      "price": 81,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes one signature side)"
+    },
+    {
+      "name": "36 OZ Canada Prime Porterhouse",
+      "price": 140,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes two signature sides)"
+    },
+    {
+      "name": "Australian Wagyu Tomahawk",
+      "price": null,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes two signature sides)"
+    },
+    {
+      "name": "12 OZ Tenderloin",
+      "price": 90,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes one signature side)"
+    },
+    {
+      "name": "14 OZ Ribeye",
+      "price": 66,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes one signature side)"
+    },
+    {
+      "name": "14 OZ Tajima Australian Wagyu Ribeye",
+      "price": 137,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes one signature side)"
+    },
+    {
+      "name": "36 OZ Canada Prime Bone In Smoked Ribeye",
+      "price": 162,
+      "description": null,
+      "simplified_description": "",
+      "category": "Chairman's Cuts",
+      "dietary_info": [],
+      "other_info": "(Includes two signature sides)"
+    },
+    {
+      "name": "Cowboy Steak Butter",
+      "price": 5,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Sauce Bearnaise",
+      "price": 6,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hennessy Peppercorn Jus",
+      "price": 7,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ruby Port Jus",
+      "price": 7,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Foie Gras Mushroom Sauce",
+      "price": 7,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Smoked Bacon Jus",
+      "price": 7,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cheese Crust & Port Jus",
+      "price": 15,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oscar",
+      "price": 24,
+      "description": "KING CRAB, LOBSTER, BEARNAISE",
+      "simplified_description": "Dish topped with king crab, lobster, and béarnaise sauce",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Surf & Turf",
+      "price": 26,
+      "description": "SEARED SCALLOPS (2), GRILLED WHITE PRAWNS (2)",
+      "simplified_description": "Dish with two seared scallops and two grilled white prawns",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nova Scotia Lobster",
+      "price": null,
+      "description": null,
+      "simplified_description": "",
+      "category": "Over the Top",
+      "dietary_info": [],
+      "other_info": "(half or whole)"
+    },
+    {
+      "name": "Broccolini",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Mushrooms",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chairman’s Fries",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Cauliflower",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Rösti",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poplar Bluff Mashed Potato",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baby Carrots",
+      "price": 13,
+      "description": null,
+      "simplified_description": "",
+      "category": "Signature Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Mac & Cheese",
+      "price": 18,
+      "description": null,
+      "simplified_description": "",
+      "category": "Specialty Sides (Upgrade / À la carte)",
+      "dietary_info": [],
+      "other_info": "$18 / $29"
+    },
+    {
+      "name": "Black Truffle Double Stuffed Potato",
+      "price": 9,
+      "description": null,
+      "simplified_description": "",
+      "category": "Specialty Sides (Upgrade / À la carte)",
+      "dietary_info": [],
+      "other_info": "$9 / $17"
+    },
+    {
+      "name": "Broccoli au Gratin",
+      "price": 7,
+      "description": null,
+      "simplified_description": "",
+      "category": "Specialty Sides (Upgrade / À la carte)",
+      "dietary_info": [],
+      "other_info": "$7 / $18"
+    },
+    {
+      "name": "Charred Brussels Sprouts",
+      "price": 8,
+      "description": null,
+      "simplified_description": "",
+      "category": "Specialty Sides (Upgrade / À la carte)",
+      "dietary_info": [],
+      "other_info": "$8 / $16"
+    },
+    {
+      "name": "Black Truffle Gnocchi",
+      "price": 10,
+      "description": null,
+      "simplified_description": "",
+      "category": "Specialty Sides (Upgrade / À la carte)",
+      "dietary_info": [],
+      "other_info": "$10 / $19"
+    },
+    {
+      "name": "Lobster Poutine",
+      "price": 14,
+      "description": null,
+      "simplified_description": "",
+      "category": "Specialty Sides (Upgrade / À la carte)",
+      "dietary_info": [],
+      "other_info": "$14 / $25"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 16,
+      "description": "LOCAL BABY ROMAINE, DOUBLE SMOKED BACON, PARMIGIANO REGGIANO, CROUTON, GARLIC DRESSING",
+      "simplified_description": "Caesar salad with local baby romaine, double smoked bacon, Parmigiano Reggiano cheese, croutons, and garlic dressing",
+      "category": "Lounge Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canada Prime Beef Meatballs",
+      "price": 18,
+      "description": "FONTINA, TOMATO SAUCE, PECORINO, CHEDDAR, BAGUETTE",
+      "simplified_description": "Beef meatballs with fontina cheese, tomato sauce, pecorino cheese, cheddar cheese, and baguette",
+      "category": "Lounge Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prime Steak Tartare",
+      "price": 25,
+      "description": "CLASSIC GARNISH, WHITE WINE MUSTARD, CURED EGG YOLK, HOUSEMADE POTATO CRISPS",
+      "simplified_description": "Raw minced steak with classic garnishes, white wine mustard, cured egg yolk, and homemade potato crisps",
+      "category": "Lounge Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Waldorf Salad",
+      "price": 16,
+      "description": "FUJI APPLE, CANDIED WALNUTS, STILTON, GRAPES, ARUGULA, CELERY HEARTS, CREAMY DRESSING",
+      "simplified_description": "Salad with Fuji apple, candied walnuts, Stilton cheese, grapes, arugula, celery hearts, and creamy dressing",
+      "category": "Lounge Menu",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ahi Tuna Tartare",
+      "price": 27,
+      "description": "CREAMY SESAME DRESSING, AVOCADO, PICKLED CUCUMBER, SPICY MAYO, RADISH, TARO ROOT CHIP",
+      "simplified_description": "Raw tuna with creamy sesame dressing, avocado, pickled cucumber, spicy mayo, radish, and taro root chip",
+      "category": "Lounge Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Bites",
+      "price": 25,
+      "description": "72 HOUR MARINADED CANADA PRIME STRIPLOIN, COWBOY STEAK BUTTER, HICKORY STICKS, WATERCRESS",
+      "simplified_description": "Marinated Canada prime striploin served with cowboy steak butter, hickory sticks, and watercress",
+      "category": "Lounge Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chairman’s Burger",
+      "price": 25,
+      "description": "AGED WHITE CHEDDAR, CLASSIC GARNISH, FOIE GRAS MUSHROOM SAUCE, DOUBLE SMOKED BACON, HICKORY STICKS, DIJON MAYO, HOUSEMADE ONION KAISER (Choice of fries or greens)",
+      "simplified_description": "Burger with aged white cheddar, classic garnishes, foie gras mushroom sauce, double smoked bacon, hickory sticks, dijon mayo, and homemade onion kaiser (choice of fries or greens)",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 39,
+      "description": "8oz CANADA PRIME STRIPLOIN, SERVED ON A PIECE OF CHEESE TOAST, CRISPY ONIONS, BEARNAISE (Choice of fries or greens)",
+      "simplified_description": "8 oz Canada prime striploin served on cheese toast with crispy onions and béarnaise sauce (choice of fries or greens)",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Poutine",
+      "price": 36,
+      "description": "NOVA SCOTIA LOBSTER, LEMON TARRAGON MASCARPONE, CHEESE CURDS, LOBSTER NAGE",
+      "simplified_description": "Poutine with Nova Scotia lobster, lemon tarragon mascarpone, cheese curds, and lobster nage",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "price": 24,
+      "description": "ENZO PEPPERONI JAM, GOUDA, DILL PEPPERCORN RANCH, CLASSIC GARNISH, HOUSEMADE ONION KAISER (Choice of fries or greens)",
+      "simplified_description": "Crispy chicken sandwich with Enzo pepperoni jam, gouda, dill peppercorn ranch, classic garnishes, and homemade onion kaiser (choice of fries or greens)",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prime Tenderloin Kebab",
+      "price": 33,
+      "description": "GRILLED VEGETABLES, MARINATED TENDERLOIN, SWEET GARLIC SAUCE (Choice of fries or greens)",
+      "simplified_description": "Tenderloin kebab with grilled vegetables and sweet garlic sauce (choice of fries or greens)",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NY Steak Salad",
+      "price": 33,
+      "description": "ROMAINE, CROUTONS, PICKLED RED ONION, FETA, CUCUMBER, TOMATO, SASKATOON BERRY VINAIGRETTE",
+      "simplified_description": "Salad with romaine, croutons, pickled red onion, feta cheese, cucumber, tomato, and Saskatoon berry vinaigrette",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Style Cheesecake",
+      "price": 13,
+      "description": "HASKAP BERRY CURD, PASSIONFRUIT GEL, POPPY SEED BRITTLE, DRAGON FRUIT POWDER",
+      "simplified_description": "Cheesecake with haskap berry curd, passionfruit gel, poppy seed brittle, and dragon fruit powder",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky Toffee Pudding",
+      "price": 13,
+      "description": "BLACK TREACLE TOFFEE SAUCE, VANILLA GELATO",
+      "simplified_description": "Pudding with black treacle toffee sauce and vanilla gelato",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Meringue Trifle",
+      "price": 13,
+      "description": "LADY FINGERS, WILD BLUEBERRY COMPOTE, RICOTTA CREAM",
+      "simplified_description": "Trifle with lady fingers, wild blueberry compote, and ricotta cream",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Valrhona Chocolate & Almond Torte",
+      "price": 15,
+      "description": "MILK CHOCOLATE MOUSSE, WHITE CHOCOLATE CRUMBLE, TENNESSEE WHISKEY CARAMEL SAUCE, RASPBERRY (GLUTEN FREE)",
+      "simplified_description": "Chocolate and almond torte with milk chocolate mousse, white chocolate crumble, Tennessee whiskey caramel sauce, and raspberry (gluten free)",
+      "category": "Desserts",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Orange & Vanilla Crème Brûlée",
+      "price": 13,
+      "description": "MORELLO CHERRY, DARK CHOCOLATE SPARKLE COOKIE (GLUTEN FREE)",
+      "simplified_description": "Crème brûlée with Morello cherry and dark chocolate sparkle cookie (gluten free)",
+      "category": "Desserts",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot Cake",
+      "price": 13,
+      "description": "GRILLED PINEAPPLE, MAPLE CREAM CHEESE ICING, CANDIED WALNUTS",
+      "simplified_description": "Carrot cake with grilled pineapple, maple cream cheese icing, and candied walnuts",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Noto Gelato & Sorbetto",
+      "price": 14,
+      "description": "LOCALLY MADE ARTISAN GELATO AND SORBET, ASK YOUR SERVER ABOUT OUR CURRENT SELECTION",
+      "simplified_description": "Locally made artisan gelato and sorbet, ask your server for current selection",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": "$14 for 3 scoops or $5 per scoop"
+    },
+    {
+      "name": "Monte Cristo Coffee (1.5 OZ)",
+      "price": 18,
+      "description": "KAHLUA, GRAND MARNIER, HOT COFFEE, WHIPPED CREAM",
+      "simplified_description": "Coffee drink with Kahlua, Grand Marnier, hot coffee, and whipped cream",
+      "category": "After Dinner Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Martini (2.5 OZ)",
+      "price": 21,
+      "description": "DETOUR VODKA, PARK ESPRESSO VODKA, KAHLUA, SUGAR SYRUP, FRESH ESPRESSO",
+      "simplified_description": "Martini made with Detour vodka, Park espresso vodka, Kahlua, sugar syrup, and fresh espresso",
+      "category": "After Dinner Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carajillo (2.5 OZ)",
+      "price": 19,
+      "description": "EL TEQUILENO REPOSADO, NODO COFFEE, TEQUILANA LICOR 43, CINNAMON, FRESH ESPRESSO",
+      "simplified_description": "Coffee drink made with El Tequileno reposado, Nodo coffee, Licor 43, cinnamon, and fresh espresso",
+      "category": "After Dinner Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beautiful (1 OZ)",
+      "price": 18,
+      "description": "WARMED HENNESSY VS, GRAND MARNIER",
+      "simplified_description": "Drink made with warmed Hennessy VS and Grand Marnier",
+      "category": "After Dinner Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Venust (1 OZ)",
+      "price": 330,
+      "description": "WARMED HENNESSY PARADIS, GRAND MARNIER GRAND CUVEE QUINTESSENCE",
+      "simplified_description": "Exclusive drink made with warmed Hennessy Paradis and Grand Marnier Grand Cuvée Quintessence",
+      "category": "After Dinner Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Dragon Coffee",
+      "price": 50,
+      "description": "THE MOST EXCLUSIVE COFFEE ON EARTH. BREWED TABLE SIDE.",
+      "simplified_description": "Exclusive coffee brewed at the table",
+      "category": "After Dinner Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "restaurant": "freshslice",
+  "parsed_at": "2026-02-06T02:19:25.003412",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "1 MEDIUM PIZZA 2 TOPPINGS & 2L PEPSICO",
+      "price": 20.0,
+      "description": "1 MEDIUM PIZZA 2 TOPPINGS & 2L PEPSICO",
+      "category": "FOOD",
+      "simplified_description": "Medium pizza with two toppings and a 2L PepsiCo drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 XL PIZZA 2 TOPPINGS AND 2L PEPSICO",
+      "price": 26.0,
+      "description": "1 XL PIZZA 2 TOPPINGS AND 2L PEPSICO",
+      "category": "FOOD",
+      "simplified_description": "Extra large pizza with two toppings and a 2L PepsiCo drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 MEDIUM 2-TOPPINGS, CHEESY BREAD, 2 DIPS & 591ML PEPSICO",
+      "price": 25.0,
+      "description": "1 MEDIUM 2-TOPPINGS, CHEESY BREAD, 2 DIPS & 591ML PEPSICO",
+      "category": "FOOD",
+      "simplified_description": "Medium pizza with two toppings, cheesy bread, two dips, and a 591ml PepsiCo drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Bacon Feast",
+      "price": null,
+      "description": "A creamy white garlic sauce base, sprinkled with fresh mozzarella and cheddar cheeses, grilled chicken breast, smoky bacon, and topped with a tangy BBQ sauce swirl",
+      "category": "FOOD",
+      "simplified_description": "Pizza with garlic sauce, mozzarella, cheddar, chicken, bacon, and BBQ sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Feast",
+      "price": null,
+      "description": "A creamy white garlic sauce base, topped with fresh mozzarella and cheddar cheeses, grilled chicken breast, red peppers and finished with a authentic butter chicken sauce drizzle",
+      "category": "FOOD",
+      "simplified_description": "Pizza with garlic sauce, mozzarella, cheddar, chicken, red peppers, and butter chicken sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Combo Feast",
+      "price": null,
+      "description": "A zesty tomato sauce base, topped with fresh mozzarella cheese, green peppers, red onions, mushrooms, pepperoni and sausage",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, veggies, pepperoni, and sausage.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Feast",
+      "price": null,
+      "description": "A zesty tomato sauce base, topped with fresh mozzarella cheese, then loaded with the classic Italian trio of pepperoni, bacon, and ham",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, pepperoni, bacon, and ham.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Lovers Feast",
+      "price": null,
+      "description": "A zesty tomato sauce base, topped with fresh mozzarella cheese, then loaded with pepperoni, sausage, bacon, beef and ham",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, and various meats including pepperoni and bacon.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Feast",
+      "price": null,
+      "description": "A zesty tomato sauce base, topped with fresh mozzarella, green peppers, red onions, grape tomatoes, black olives, and sprinkled with feta",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, veggies, olives, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fiesta Pesto Feast",
+      "price": null,
+      "description": "Zesty Tomato Sauce, Mozzarella Cheese, Onion, Red Pepper, Corn, Jalapeno, Green Olive, Pesto Drizzle",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, veggies, jalapeno, olives, and pesto drizzle.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Veggie Feast",
+      "price": null,
+      "description": "A zesty tomato sauce base, sprinkled with fresh mozzarella, then loaded with leafy spinach, red onions, mushrooms, grape tomatoes, and red peppers",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, spinach, onions, mushrooms, tomatoes, and peppers.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Pepperoni",
+      "price": null,
+      "description": "Zesty Tomato Sauce, Mozzarella, Pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, and pepperoni.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Veggie",
+      "price": null,
+      "description": "Zesty Tomato Sauce, Mozzarella, Up to 2 Veggie Toppings",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, and up to two vegetable toppings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Hawaiian",
+      "price": null,
+      "description": "Zesty Tomato Sauce, Mozzarella, Ham Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, ham, and pineapple.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Beef",
+      "price": null,
+      "description": "Zesty Tomato Sauce, Mozzarella, Beef, Cheddar",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, beef, and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Cheese",
+      "price": null,
+      "description": "Creamy White Garlic Sauce or Zesty Tomato Sauce, Mozzarella, Cheddar",
+      "category": "FOOD",
+      "simplified_description": "Pizza with garlic or tomato sauce topped with mozzarella and cheddar cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Bread",
+      "price": null,
+      "description": "Fresh Baked Multi-grain Dough topped with lots of cheese and served with a side of our homemade marinara sauce.",
+      "category": "FOOD",
+      "simplified_description": "Multi-grain bread topped with cheese and served with marinara sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": null,
+      "description": "Delicious chicken wings, baked to a perfect golden brown, drizzled in your choice of sauce (Hot, BBQ or Plain)",
+      "category": "FOOD",
+      "simplified_description": "Baked chicken wings served with hot, BBQ, or plain sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Choice of sauce: Hot, BBQ, or Plain"
+    },
+    {
+      "name": "Freshslice Cares Brownie",
+      "price": null,
+      "description": "100% of the proceeds goes to the Freshslice Cares Association.",
+      "category": "DESSERT",
+      "simplified_description": "Brownie dessert supporting the Freshslice Cares Association.",
+      "dietary_info": [],
+      "other_info": "Proceeds support charity"
+    },
+    {
+      "name": "DIPS",
+      "price": null,
+      "description": "Ranch | Marinara | Classics Ranch | Cheesy Jalapeno | Roasted Garlic | Ancho Chipotle",
+      "category": "OTHER",
+      "simplified_description": "Variety of dips including ranch, marinara, and spicy options.",
+      "dietary_info": [],
+      "other_info": "Includes spicy options"
+    }
+  ]
+}

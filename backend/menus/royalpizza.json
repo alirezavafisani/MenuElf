@@ -1,0 +1,709 @@
+{
+  "restaurant": "royalpizza",
+  "parsed_at": "2026-02-06T03:58:41.163583",
+  "item_count": 78,
+  "items": [
+    {
+      "name": "SWEET POTATO FRIES",
+      "price": 9.5,
+      "description": "Served with chipotle mayo.",
+      "category": "SIDE",
+      "simplified_description": "Served with chipotle mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GOLDEN FRIES",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL GARLIC CHEESE LOAF - 6 PCS",
+      "price": 10.95,
+      "description": "Served with your choice of Tzatziki, meat sauce or marinara sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Served with your choice of Tzatziki, meat sauce or marinara sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE TOAST",
+      "price": 3.5,
+      "description": "(1 pc)",
+      "category": "APPETIZER",
+      "simplified_description": "(1 pc)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC TOAST",
+      "price": 2.5,
+      "description": "(1 pc)",
+      "category": "APPETIZER",
+      "simplified_description": "(1 pc)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN CLUB",
+      "price": 17.95,
+      "description": "Try our Canadian Club! Comes with ranch sauce and then topped with chicken, ham, bacon and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Try our Canadian Club! Comes with ranch sauce and then topped with chicken, ham,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUTHWESTERN",
+      "price": 17.95,
+      "description": "Try our Southwestern pizza! Comes with chipotle sauce and then topped with ground beef, crumbled Italian sausage, banana pepper, green pepper.",
+      "category": "FOOD",
+      "simplified_description": "Try our Southwestern pizza! Comes with chipotle sauce and then topped with groun",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#24 FRED'S SPECIAL",
+      "price": 17.95,
+      "description": "Ham, pineapple, pepperoni & mushroom.",
+      "category": "FOOD",
+      "simplified_description": "Ham, pineapple, pepperoni & mushroom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#25 ROYAL SPECIAL",
+      "price": 17.95,
+      "description": "Ham, pepperoni, onion, green pepper, mushroom & black olive.",
+      "category": "FOOD",
+      "simplified_description": "Ham, pepperoni, onion, green pepper, mushroom & black olive.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#26 ROYAL VEGETARIAN",
+      "price": 17.95,
+      "description": "Spinach, onion, green pepper, mushroom, broccoli & feta cheese.",
+      "category": "FOOD",
+      "simplified_description": "Spinach, onion, green pepper, mushroom, broccoli & feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#27 MEAT LOVERS",
+      "price": 17.95,
+      "description": "Ham, pepperoni, beef, salami & italian sausage.",
+      "category": "FOOD",
+      "simplified_description": "Ham, pepperoni, beef, salami & italian sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#28 CHEF'S MISTAKE",
+      "price": 17.95,
+      "description": "Spinach, onion, bacon & feta cheese.",
+      "category": "FOOD",
+      "simplified_description": "Spinach, onion, bacon & feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#29 THE BOSS HAS GONE MAD",
+      "price": 14.5,
+      "description": "Spaghetti, meat sauce and mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Spaghetti, meat sauce and mozzarella cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#30 DONAIR",
+      "price": 17.95,
+      "description": "Donair meat, onion, tomato and side of tzatziki sauce or sweet sauce.",
+      "category": "FOOD",
+      "simplified_description": "Donair meat, onion, tomato and side of tzatziki sauce or sweet sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#31 MEDITERRANEAN CHICKEN",
+      "price": 17.95,
+      "description": "Seasoned chicken, onion & feta cheese.",
+      "category": "FOOD",
+      "simplified_description": "Seasoned chicken, onion & feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#32 GREEK",
+      "price": 17.95,
+      "description": "Black olive, onion, fresh tomato & feta cheese.",
+      "category": "FOOD",
+      "simplified_description": "Black olive, onion, fresh tomato & feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#33 TEXAN",
+      "price": 17.95,
+      "description": "Ranch dressing, beef, onion, mushroom & bacon.",
+      "category": "FOOD",
+      "simplified_description": "Ranch dressing, beef, onion, mushroom & bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#34 ROYAL CHICKEN SPECIAL",
+      "price": 17.95,
+      "description": "Your choice of bbq or teriyaki sauce, seasoned chicken, onion, green pepper & pineapple.",
+      "category": "FOOD",
+      "simplified_description": "Your choice of bbq or teriyaki sauce, seasoned chicken, onion, green pepper & pi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#1 WHITE MUSHROOM",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#2 HAM",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#3 PEPPERONI",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#4 CHEESE",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#5 SHRIMP & MUSHROOM",
+      "price": 17.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#6 LEAN GROUND BEEF",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#7 LEAN GROUND BEEF & ONION",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#8 SALAMI",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#9 HAM & PINEAPPLE",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#10 FRESH TOMATO, ONION & MUSHROOM",
+      "price": 17.75,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#11 PINEAPPLE",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#12 SHRIMP",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#13 HAM & MUSHROOM",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#14 HAM & FRESH TOMATO",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#15 LEAN GROUND BEEF & MUSHROOM",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#16 BLACK OLIVE & ONION",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#17 HAM & GREEN PEPPER",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#18 GREEN PEPPER & MUSHROOM",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#19 PEPPERONI & MUSHROOM",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#20 SALAMI & MUSHROOM",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#21 PEPPERONI & GREEN PEPPER",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#22 HAM & ONION",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "#23 FRESH TOMATO",
+      "price": 14.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN CLUB SANDWICH",
+      "price": 17.95,
+      "description": "Loaded with delicious ham, chicken and crumbled bacon on a 10\" half loaf with tomato, lettuce and ranch dressing",
+      "category": "FOOD",
+      "simplified_description": "Loaded with delicious ham, chicken and crumbled bacon on a 10\" half loaf with to",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STEAK SANDWICH",
+      "price": 19.95,
+      "description": "6 oz. Ribeye",
+      "category": "FOOD",
+      "simplified_description": "6 oz. Ribeye",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STEAK DINNER",
+      "price": 31.45,
+      "description": "10 oz New York",
+      "category": "FOOD",
+      "simplified_description": "10 oz New York",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ PORK RIBS",
+      "price": 19.95,
+      "description": "Half Rack",
+      "category": "FOOD",
+      "simplified_description": "Half Rack",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ PORK RIBS",
+      "price": 28.75,
+      "description": "Full Rack",
+      "category": "FOOD",
+      "simplified_description": "Full Rack",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAT LOVERS CALZONE",
+      "price": 16.75,
+      "description": "Pepperoni, sausage, beef, and mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, sausage, beef, and mozzarella cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN CALZONE",
+      "price": 16.75,
+      "description": "Onion, mushroom, green pepper and mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Onion, mushroom, green pepper and mozzarella cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CALZONE",
+      "price": 16.75,
+      "description": "Seasoned chicken, green pepper, onion and mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Seasoned chicken, green pepper, onion and mozzarella cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN FINGERS",
+      "price": 14.95,
+      "description": "Served with golden fries and choice of plum, bbq or hot and sweet thai chili sauce.",
+      "category": "FOOD",
+      "simplified_description": "Served with golden fries and choice of plum, bbq or hot and sweet thai chili sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL DONAIR WITH CHEESE",
+      "price": 16.75,
+      "description": "Donair meat with onion, tomato, tzatziki or sweet sauce",
+      "category": "FOOD",
+      "simplified_description": "Donair meat with onion, tomato, tzatziki or sweet sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN DONAIR WITH CHEESE",
+      "price": 17.95,
+      "description": "Seasoned chicken with onion, tomato, tzatziki or sweet sauce",
+      "category": "FOOD",
+      "simplified_description": "Seasoned chicken with onion, tomato, tzatziki or sweet sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL BURGER",
+      "price": 14.45,
+      "description": "Juicy beef patty with lettuce, tomato, onion and relish.",
+      "category": "FOOD",
+      "simplified_description": "Juicy beef patty with lettuce, tomato, onion and relish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL CHEESEBURGER",
+      "price": 14.95,
+      "description": "All the fixings of our royal burger with cheddar cheese added.",
+      "category": "FOOD",
+      "simplified_description": "All the fixings of our royal burger with cheddar cheese added.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL MUSHROOM BURGER",
+      "price": 15.95,
+      "description": "Juicy beef patty with grilled mushrooms and onion, mozzarella cheese and thousand island dressing.",
+      "category": "FOOD",
+      "simplified_description": "Juicy beef patty with grilled mushrooms and onion, mozzarella cheese and thousan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN BURGER -Grilled",
+      "price": 16.75,
+      "description": "Grilled seasoned chicken breast with lettuce, tomato and mayo.",
+      "category": "FOOD",
+      "simplified_description": "Grilled seasoned chicken breast with lettuce, tomato and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN BURGER - Crispy",
+      "price": 16.75,
+      "description": "Crispy seasoned chicken breast with lettuce, tomato and mayo.",
+      "category": "FOOD",
+      "simplified_description": "Crispy seasoned chicken breast with lettuce, tomato and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CLUB BURGER - Grilled",
+      "price": 18.95,
+      "description": "Grilled seasoned chicken breast with cheddar cheese, bacon, lettuce, tomato, and thousand island dressing.",
+      "category": "FOOD",
+      "simplified_description": "Grilled seasoned chicken breast with cheddar cheese, bacon, lettuce, tomato, and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CLUB BURGER - Crispy",
+      "price": 18.95,
+      "description": "Crispy seasoned chicken breast with cheddar cheese, bacon, lettuce, tomato, and thousand island dressing.",
+      "category": "FOOD",
+      "simplified_description": "Crispy seasoned chicken breast with cheddar cheese, bacon, lettuce, tomato, and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL ITALIAN HALF LOAF",
+      "price": 15.5,
+      "description": "One 10 inch loaf.",
+      "category": "FOOD",
+      "simplified_description": "One 10 inch loaf.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL ITALIAN LOAF",
+      "price": 29.95,
+      "description": "Two 10 inch loafs loaded with delicious ham, salami, pepperoni, onion, pizza sauce and mozzarella cheese.",
+      "category": "FOOD",
+      "simplified_description": "Two 10 inch loafs loaded with delicious ham, salami, pepperoni, onion, pizza sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUP OF THE DAY",
+      "price": 5.5,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOSSED SALAD",
+      "price": 6.5,
+      "description": "Served with your choice of - italian, thousand island, ranch, blue cheese or raspberry vinaigrette.",
+      "category": "SALAD",
+      "simplified_description": "Served with your choice of - italian, thousand island, ranch, blue cheese or ras",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STARTER CAESAR SALAD",
+      "price": 9.95,
+      "description": "Served with garlic toast.",
+      "category": "SALAD",
+      "simplified_description": "Served with garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FULL SIZE CAESAR SALAD",
+      "price": 14.95,
+      "description": "Served with garlic toast.",
+      "category": "SALAD",
+      "simplified_description": "Served with garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STARTER GREEK SALAD",
+      "price": 11.5,
+      "description": "Served with garlic toast.",
+      "category": "SALAD",
+      "simplified_description": "Served with garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FULL SIZE GREEK SALAD",
+      "price": 16.95,
+      "description": "Served with garlic toast.",
+      "category": "SALAD",
+      "simplified_description": "Served with garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL SPAGHETTI",
+      "price": 14.95,
+      "description": "baked",
+      "category": "PASTA",
+      "simplified_description": "baked",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROYAL SPAGHETTI & MEAT BALLS (3)",
+      "price": 17.95,
+      "description": "baked",
+      "category": "PASTA",
+      "simplified_description": "baked",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PENNE",
+      "price": 14.95,
+      "description": "baked",
+      "category": "PASTA",
+      "simplified_description": "baked",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCCINE",
+      "price": 14.95,
+      "description": "baked",
+      "category": "PASTA",
+      "simplified_description": "baked",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN & BROCCOLI PENNE",
+      "price": 19.95,
+      "description": "Seasoned Chicken mixed with Broccoli. Best with Alfredo sauce.",
+      "category": "PASTA",
+      "simplified_description": "Seasoned Chicken mixed with Broccoli. Best with Alfredo sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA",
+      "price": 16.95,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA & MEAT BALLS (3)",
+      "price": 19.95,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN LASAGNA",
+      "price": 20.95,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK LASAGNA",
+      "price": 18.95,
+      "description": "Black olive and feta cheese.",
+      "category": "PASTA",
+      "simplified_description": "Black olive and feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA FLORENTINE",
+      "price": 18.95,
+      "description": "Spinach and feta cheese.",
+      "category": "PASTA",
+      "simplified_description": "Spinach and feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHRIMP LASAGNA",
+      "price": 20.95,
+      "description": "",
+      "category": "PASTA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

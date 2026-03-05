@@ -1,0 +1,34 @@
+{
+  "restaurant": "todunskitchen",
+  "parsed_at": "2025-12-25T01:41:25.694635",
+  "item_count": 3,
+  "items": [
+    {
+      "name": "Spicy Pasta Toss",
+      "price": null,
+      "description": "Your weekday pasta with Todun’s signature kick. Cook your pasta and set aside. In a pan, sauté veggies in Ororo Todun Pepper Oil. Stir in Ata Todun Pepper Sauce and toss pasta until coated. A quick, comforting dish that proves spice makes everything better.",
+      "simplified_description": "A spicy pasta dish with vegetables and special sauces.",
+      "category": "General Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Todun’s Pepper Eggs (Breakfast with a Kick)",
+      "price": null,
+      "description": "Your mornings just got exciting! Eggs meet heat in this smoky, spicy twist on a classic breakfast. How to use: Heat a spoon of Ororo Todun Pepper Oil in a pan. Fry onions, add whisked eggs, and stir in half a spoon of Ata Todun Pepper Sauce. Cook till fluffy and fragrant. Put some cheese on top if you love cheese. Perfect with toasted bread, plantain, or yam — pure Naija comfort in every bite.",
+      "simplified_description": "Spicy scrambled eggs with onions and optional cheese.",
+      "category": "General Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pepper Shrimp Stir-Fry",
+      "price": null,
+      "description": "Turn up the heat with a quick, flavorful stir-fry. Juicy shrimp tossed in Ata Todun Pepper Sauce and a drizzle of Ororo Todun Pepper Oil — smoky, spicy, and ready in minutes. Sauté onions and bell peppers in Ororo Todun Pepper Oil. Add cleaned shrimp and a spoonful of Ata Todun Pepper Sauce. Stir-fry for 5–7 minutes until glossy and cooked through. Sprinkle some parsley on top to serve. Serve with steamed rice or noodles — bold, fiery, and full of love.",
+      "simplified_description": "A spicy shrimp stir-fry with vegetables and special sauces.",
+      "category": "General Menu Items",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "restaurant": "souvlakifusion",
+  "parsed_at": "2026-02-06T04:11:04.019583",
+  "item_count": 83,
+  "items": [
+    {
+      "name": "VEGETARIAN",
+      "price": 18.99,
+      "description": "pepperoni, green peppers, olives, mozzarella",
+      "category": "FOOD",
+      "simplified_description": "pepperoni, green peppers, olives, mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HAWAIAN",
+      "price": 17.99,
+      "description": "Sauce, fresh tomatoes, red onions, green peppers, mushrooms, black olives, mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Sauce, fresh tomatoes, red onions, green peppers, mushrooms, black olives, mozza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SUPREME",
+      "price": 18.99,
+      "description": "Ham, Pineapple, Mozzarella Cheese & Pizza Sauce",
+      "category": "FOOD",
+      "simplified_description": "Ham, Pineapple, Mozzarella Cheese & Pizza Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK",
+      "price": 18.99,
+      "description": "Sauce, feta, fresh tomatoes, red onions, black olives, green peppers, mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Sauce, feta, fresh tomatoes, red onions, black olives, green peppers, mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FOUR CHEESE",
+      "price": 18.99,
+      "description": "Sauce, mozzarella, cheddar, feta, parmesan",
+      "category": "FOOD",
+      "simplified_description": "Sauce, mozzarella, cheddar, feta, parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAT LOVERS",
+      "price": 18.99,
+      "description": "Pepperoni, Ham, Beef, Italian Sausage, Mozzarella Cheese & Pizza Sauce",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Ham, Beef, Italian Sausage, Mozzarella Cheese & Pizza Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tzatziki Dip and Pita",
+      "price": 5.95,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus Dip and Pita",
+      "price": 5.95,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pita Cooked",
+      "price": 2.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pita Uncooked",
+      "price": 1.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 5.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 3.99,
+      "description": "(Chicken, Veggie, Beef)",
+      "category": "SIDE",
+      "simplified_description": "(Chicken, Veggie, Beef)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips & Fries",
+      "price": 9.99,
+      "description": "(3 Strips)",
+      "category": "SIDE",
+      "simplified_description": "(3 Strips)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pita, Roast Potatoes",
+      "price": 10.99,
+      "description": "(Rice and Tzatziki)",
+      "category": "SIDE",
+      "simplified_description": "(Rice and Tzatziki)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Potatoes & Tzatziki Dip",
+      "price": 6.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice 10oz",
+      "price": 4.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava",
+      "price": 3.99,
+      "description": "null",
+      "category": "DESSERT",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WRAP WITH FRIES",
+      "price": 16.99,
+      "description": "With French Fries and Tzatziki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WRAP WITH SALAD",
+      "price": 17.99,
+      "description": "With Greek Salad or Caesar Salad",
+      "category": "COMBO",
+      "simplified_description": "With Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB WRAP WITH FRIES",
+      "price": 17.99,
+      "description": "With French Fries and Trataki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Trataki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB WRAP WITH SALAD",
+      "price": 18.49,
+      "description": "With Greek Salad or Caesar Salad",
+      "category": "COMBO",
+      "simplified_description": "With Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK WRAP WITH FRIES",
+      "price": 16.99,
+      "description": "With French Fries and Tzatziki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK WRAP WITH SALAD",
+      "price": 17.49,
+      "description": "With Greek Salad or Caesar Salad",
+      "category": "COMBO",
+      "simplified_description": "With Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF SOUVLAKI FULL PLATE",
+      "price": 17.49,
+      "description": "Full Plate with Rice, Roast Potato, Greek Salad, Sliced Pita and Tzatziki sauce",
+      "category": "BEEF",
+      "simplified_description": "Full Plate with Rice, Roast Potato, Greek Salad, Sliced Pita and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF WRAP FULL PLATE",
+      "price": 18.49,
+      "description": "Full Plate with Rice, Roast Potato, Greek Salad",
+      "category": "BEEF",
+      "simplified_description": "Full Plate with Rice, Roast Potato, Greek Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF WRAP WITH FRIES",
+      "price": 16.49,
+      "description": "with French Fries and Tzatziki sauce",
+      "category": "BEEF",
+      "simplified_description": "with French Fries and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF WRAP WITH SALAD",
+      "price": 17.49,
+      "description": "with Greek Salad or Caesar Salad",
+      "category": "BEEF",
+      "simplified_description": "with Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF SKEWER PLATE",
+      "price": 15.49,
+      "description": "with Greek Salad, Sliced Pita & Tzatziki sauce",
+      "category": "BEEF",
+      "simplified_description": "with Greek Salad, Sliced Pita & Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF WRAP",
+      "price": 10.49,
+      "description": "with lettuce, onions, tomatoes & Tzatziki sauce Inside",
+      "category": "BEEF",
+      "simplified_description": "with lettuce, onions, tomatoes & Tzatziki sauce Inside",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPANAKOPITA",
+      "price": 9.99,
+      "description": "Spinach and Feta Cheese & tzatziki dip",
+      "category": "VEGETARIAN",
+      "simplified_description": "Spinach and Feta Cheese & tzatziki dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN FULL PLATE",
+      "price": 15.99,
+      "description": "4 dolmades, rice, roast potatoes, Greek salad, pita bread and tzatziki sauce",
+      "category": "VEGETARIAN",
+      "simplified_description": "4 dolmades, rice, roast potatoes, Greek salad, pita bread and tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN WRAP",
+      "price": 12.49,
+      "description": "Cuccumber, tomatoes, onions, lettuce, green peppers, tzatziki sauce",
+      "category": "VEGETARIAN",
+      "simplified_description": "Cuccumber, tomatoes, onions, lettuce, green peppers, tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN WRAP WITH FRIES",
+      "price": 14.49,
+      "description": "Veggie wrap with fries and tzatziki sauce",
+      "category": "VEGETARIAN",
+      "simplified_description": "Veggie wrap with fries and tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DOLMADES PER PIECE",
+      "price": 0.99,
+      "description": "Rice in grapeleaf",
+      "category": "VEGETARIAN",
+      "simplified_description": "Rice in grapeleaf",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DOLMADES (5 PIECES)",
+      "price": 15.99,
+      "description": "with Greek Salad, Tzatziki and Pita",
+      "category": "VEGETARIAN",
+      "simplified_description": "with Greek Salad, Tzatziki and Pita",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GYRO WRAP WITH FRIES",
+      "price": 16.99,
+      "description": "With French Fries and Tzatziki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GYRO WRAP WITH SALAD",
+      "price": 18.49,
+      "description": "With Greek Salad or Caesar Salad",
+      "category": "COMBO",
+      "simplified_description": "With Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OREO SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KITKAT SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VANILLA SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOCLATE SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FERRERO SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "REESE'S SHAKE",
+      "price": 6.99,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRIES",
+      "price": 4.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LONG CHIPS FRIES",
+      "price": 4.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CURLY FRIES",
+      "price": 4.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRIES WITH TZATZIKI DIP",
+      "price": 5.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI",
+      "price": 17.99,
+      "description": "Garnished with chopped Onion, Parsley, Leion Wedge & Tzatziki Sauce",
+      "category": "CALAMARI",
+      "simplified_description": "Garnished with chopped Onion, Parsley, Leion Wedge & Tzatziki Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WITH CAESAR SALAD",
+      "price": 21.99,
+      "description": "null",
+      "category": "CALAMARI",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WITH GREEK SALAD",
+      "price": 24.99,
+      "description": "null",
+      "category": "CALAMARI",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "price": 8.49,
+      "description": "Ranch sauce, chipotle mayo, chicken patty, lettuce",
+      "category": "FOOD",
+      "simplified_description": "Ranch sauce, chipotle mayo, chicken patty, lettuce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Crispy Chicken Sandwich",
+      "price": 8.99,
+      "description": "Ranch sauce, jalapeno lime sauce, sriracha sauce, chicken patty, pickels, red onions, lettuce",
+      "category": "FOOD",
+      "simplified_description": "Ranch sauce, jalapeno lime sauce, sriracha sauce, chicken patty, pickels, red on",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Burger",
+      "price": 8.99,
+      "description": "Lettus, pickles, onions, cheese slice, salmon party with seasoning, mayo, lime sauce.",
+      "category": "FOOD",
+      "simplified_description": "Lettus, pickles, onions, cheese slice, salmon party with seasoning, mayo, lime s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plant Based Sandwich",
+      "price": 9.39,
+      "description": "Ketchup, jalapeno lime sauce, mayo sauce, beyond patty with seasoning, cheese slice, tomato, lettuce",
+      "category": "FOOD",
+      "simplified_description": "Ketchup, jalapeno lime sauce, mayo sauce, beyond patty with seasoning, cheese sl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bean Burger with Chipotle",
+      "price": 8.99,
+      "description": "Chipotle, sriracha, ranch, bean patty with seasoning, cheese slice, tomato, pickles, onions, lettuce",
+      "category": "FOOD",
+      "simplified_description": "Chipotle, sriracha, ranch, bean patty with seasoning, cheese slice, tomato, pick",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Burger With Single Patty",
+      "price": 8.99,
+      "description": "Jalapeno lime sauce, mustard, ranch sauce, beef patty with seasoning, cheese slice, tomato, pickles, onions, lettuce",
+      "category": "FOOD",
+      "simplified_description": "Jalapeno lime sauce, mustard, ranch sauce, beef patty with seasoning, cheese sli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juicy Beef Burger with Double Patty",
+      "price": 11.99,
+      "description": "Jalapeno lime sauce, mustard, ranch sauce, double beef patty with seasoning, cheese slice, tomato, pickles, onions, lettuce",
+      "category": "FOOD",
+      "simplified_description": "Jalapeno lime sauce, mustard, ranch sauce, double beef patty with seasoning, che",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SALAD",
+      "price": 10.95,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 9.95,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOUSAKA",
+      "price": 18.99,
+      "description": "(A.) MOUSAKA CAESAR SALAD (B.) MOUSAKA GREEK SALAD",
+      "category": "FOOD",
+      "simplified_description": "(A.) MOUSAKA CAESAR SALAD (B.) MOUSAKA GREEK SALAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TZATZIKI OR HUMMUS",
+      "price": 2.258,
+      "description": "null",
+      "category": "SAUCES",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB SOUVLAKI FULL PLATE",
+      "price": 18.49,
+      "description": "Full Plate with Rice, Roast Potato, Greek Salad, Siliced Pita and Tzatziki sauce",
+      "category": "LAMB",
+      "simplified_description": "Full Plate with Rice, Roast Potato, Greek Salad, Siliced Pita and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB WRAP FULL PLATE",
+      "price": 19.49,
+      "description": "Full Plate with Rick, Roast Potato, Greek Salad",
+      "category": "LAMB",
+      "simplified_description": "Full Plate with Rick, Roast Potato, Greek Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB WRAP",
+      "price": 11.99,
+      "description": "With inttuce, onions, tomatoes & Tzatziki sauce",
+      "category": "LAMB",
+      "simplified_description": "With inttuce, onions, tomatoes & Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB SKEWER PLATE",
+      "price": 16.99,
+      "description": "With Greek Salad, Sliced Pita & Tzatziki sauce",
+      "category": "LAMB",
+      "simplified_description": "With Greek Salad, Sliced Pita & Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A. LAMB SKEWER",
+      "price": 7.99,
+      "description": "null",
+      "category": "LAMB",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SOUVLAKI FULL PLATE",
+      "price": 17.49,
+      "description": "Full Plate with Rice, Roast Potato, Greek Salad, Sliced Pita and Tzatziki sauce",
+      "category": "CHICKEN",
+      "simplified_description": "Full Plate with Rice, Roast Potato, Greek Salad, Sliced Pita and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WRAP FULL PLATE",
+      "price": 18.49,
+      "description": "With Rice, Roast Potato, Greek Salad",
+      "category": "CHICKEN",
+      "simplified_description": "With Rice, Roast Potato, Greek Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WRAP",
+      "price": 10.99,
+      "description": "With lettuce, onions, tomatoes & Tzatziki sauce inside",
+      "category": "CHICKEN",
+      "simplified_description": "With lettuce, onions, tomatoes & Tzatziki sauce inside",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SKEWER PLATE",
+      "price": 15.99,
+      "description": "With Greek Salad, Sliced Pita & Tzatziki sauce",
+      "category": "CHICKEN",
+      "simplified_description": "With Greek Salad, Sliced Pita & Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SKEWER",
+      "price": 6.99,
+      "description": "null",
+      "category": "CHICKEN",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WINGS",
+      "price": 13.49,
+      "description": "Flavours available (Salt,Pepper, Lemon BBQ, Buffalo, Hot Sour, Honey Garlic)",
+      "category": "CHICKEN",
+      "simplified_description": "Flavours available (Salt,Pepper, Lemon BBQ, Buffalo, Hot Sour, Honey Garlic)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK SOUVLAKI FULL PLATE",
+      "price": 17.49,
+      "description": "Full Plate with Rice, Roast Potato, Greek Salad, Sliced Pita and Tzatziki sauce",
+      "category": "PORK",
+      "simplified_description": "Full Plate with Rice, Roast Potato, Greek Salad, Sliced Pita and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK WRAP FULL PLATE",
+      "price": 18.99,
+      "description": "ull Plate with Rice, Roast Potato, Greek Salad",
+      "category": "PORK",
+      "simplified_description": "ull Plate with Rice, Roast Potato, Greek Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK WRAP",
+      "price": 10.99,
+      "description": "With lettuce, onions, tomatoes & Tzatziki sauce inside",
+      "category": "PORK",
+      "simplified_description": "With lettuce, onions, tomatoes & Tzatziki sauce inside",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK SKEWER PLATE",
+      "price": 15.99,
+      "description": "With Greek Salad, Sliced Pita & Tzatziki sauce",
+      "category": "PORK",
+      "simplified_description": "With Greek Salad, Sliced Pita & Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A. PORK SKEWER",
+      "price": 6.99,
+      "description": "null",
+      "category": "PORK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WRAP WITH FRIES",
+      "price": 16.99,
+      "description": "With French Fries and Tzatziki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN WRAP WITH SALAD",
+      "price": 17.99,
+      "description": "With Greek Salad or Caesar Salad",
+      "category": "COMBO",
+      "simplified_description": "With Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB WRAP WITH FRIES",
+      "price": 17.99,
+      "description": "With French Fries and Trataki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Trataki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB WRAP WITH SALAD",
+      "price": 18.49,
+      "description": "With Greek Salad or Caesar Salad",
+      "category": "COMBO",
+      "simplified_description": "With Greek Salad or Caesar Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK WRAP WITH FRIES",
+      "price": 16.99,
+      "description": "With French Fries and Tzatziki sauce",
+      "category": "COMBO",
+      "simplified_description": "With French Fries and Tzatziki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

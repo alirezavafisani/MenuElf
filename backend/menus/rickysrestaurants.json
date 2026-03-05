@@ -1,0 +1,133 @@
+{
+  "restaurant": "rickysrestaurants",
+  "parsed_at": "2025-12-25T01:03:02.762501",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "Grand Forks Breakfast",
+      "price": 20.99,
+      "description": "Breakfast served all day, featuring eggs, choice of meat, and sides.",
+      "simplified_description": "A breakfast dish available all day with eggs, meat, and sides.",
+      "category": "All Day Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chorizo Brekkie Bowl",
+      "price": 22.59,
+      "description": "Chorizo sausage, eggs, and a blend of toppings, served in a bowl.",
+      "simplified_description": "A bowl of chorizo sausage, eggs, and various toppings.",
+      "category": "All Day Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Waffles",
+      "price": 21.99,
+      "description": "Plump, hand-battered chicken tenders served with a crispy waffle and syrup.",
+      "simplified_description": "Fried chicken tenders with a waffle and syrup.",
+      "category": "All Day Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Breakfast Poutine",
+      "price": 18.99,
+      "description": "Crispy fries topped with cheese curds, bacon, gravy and an egg.",
+      "simplified_description": "Fries with cheese, bacon, gravy, and an egg.",
+      "category": "All Day Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs Benedict (with Ham)",
+      "price": 19.99,
+      "description": "A classic breakfast dish consisting of poached eggs, ham, and hollandaise.",
+      "simplified_description": "Poached eggs with ham and a creamy sauce.",
+      "category": "All Day Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lumberjack Salad",
+      "price": 24.99,
+      "description": "Romaine lettuce topped with chicken, turkey, bacon, avocado, and vegetables.",
+      "simplified_description": "A salad with lettuce, chicken, turkey, bacon, avocado, and veggies.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Short Rib Benny",
+      "price": 22.99,
+      "description": "Two poached eggs over wine-braised short ribs on an English muffin.",
+      "simplified_description": "Poached eggs on short ribs served on an English muffin.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Cheesesteak",
+      "price": 24.99,
+      "description": "AAA ribeye with sautéed peppers, onions, and cheese on a bun.",
+      "simplified_description": "A sandwich with ribeye steak, peppers, onions, and cheese.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milkshakes",
+      "price": 9.99,
+      "description": "A rich, creamy shake topped with whipped cream.",
+      "simplified_description": "A thick shake with whipped cream on top.",
+      "category": "Drinks & Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.5,
+      "description": "Refreshing canned soda available in various flavors.",
+      "simplified_description": "Canned soda in different flavors.",
+      "category": "Drinks & Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids' Big League Burger",
+      "price": 13.99,
+      "description": "A quarter-pound hand-pressed beef patty served with a side.",
+      "simplified_description": "A quarter-pound beef burger with a side.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids' Chicken Stix (2 pcs)",
+      "price": 13.99,
+      "description": "Two hand-battered chicken tenders served with a side.",
+      "simplified_description": "Two fried chicken tenders with a side.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Skin-On Fries",
+      "price": 9.29,
+      "description": "Perfectly cooked fries, a great side option.",
+      "simplified_description": "Well-cooked fries, a good side dish.",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Poutine",
+      "price": 13.99,
+      "description": "Classic fries drizzled with gravy and topped with cheese curds.",
+      "simplified_description": "Fries with gravy and cheese curds.",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

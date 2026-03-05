@@ -1,0 +1,663 @@
+{
+  "restaurant": "harvesthillsblvdne",
+  "parsed_at": "2025-12-25T02:26:05.521075",
+  "item_count": 70,
+  "items": [
+    {
+      "name": "2-For-1 Combo - 12 Inch",
+      "price": 31.0,
+      "description": "Get Two 4-Topper Pizzas & 2L Pop\n4-Topper LIMITED TIME DEAL",
+      "simplified_description": "Two pizzas with four toppings each and a 2-liter soda",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2-For-1 Combo - 14 Inch",
+      "price": 37.0,
+      "description": "Get Two 4-Topper Pizzas & 2L Pop\n4-Topper LIMITED TIME DEAL",
+      "simplified_description": "Two pizzas with four toppings each and a 2-liter soda",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2-For-1 Combo - 16 Inch",
+      "price": 44.0,
+      "description": "Get Two 4-Topper Pizzas & 2L Pop\n4-Topper LIMITED TIME DEAL",
+      "simplified_description": "Two pizzas with four toppings each and a 2-liter soda",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Everyday Deal - 2 Large Special",
+      "price": 29.98,
+      "description": "Get Two Large 2-Topper Pizzas\nNEW! LIMITED TIME DEAL",
+      "simplified_description": "Two large pizzas with two toppings each",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pickup Special",
+      "price": 12.99,
+      "description": "Best Saving in Town! Pickup Only",
+      "simplified_description": "Best deal available for pickup orders",
+      "category": "Deals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10inch Small",
+      "price": 12.99,
+      "description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "simplified_description": "A small custom pizza with your choice of crust, sauce, and toppings",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12inch Medium",
+      "price": 14.99,
+      "description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "simplified_description": "A medium custom pizza with your choice of crust, sauce, and toppings",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "14inch Large",
+      "price": 18.99,
+      "description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "simplified_description": "A large custom pizza with your choice of crust, sauce, and toppings",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "16inch X Large",
+      "price": 21.99,
+      "description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "simplified_description": "An extra-large custom pizza with your choice of crust, sauce, and toppings",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "18inch Giant",
+      "price": 30.99,
+      "description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "simplified_description": "A giant custom pizza with your choice of crust, sauce, and toppings",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Pizza (12 inch)",
+      "price": 16.99,
+      "description": "Get 12\" Gluten Free Unlimited Toppings Pizza",
+      "simplified_description": "A 12-inch gluten-free pizza with unlimited toppings",
+      "category": "Pizzas",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Unlimited Pizza",
+      "price": 12.99,
+      "description": "Pepperoni, Mushrooms, Onions, Green Peppers, Turkey/Chicken Ham, Beef, Sausage, Black Olives & Mozzarella Cheese",
+      "simplified_description": "A pizza with a variety of toppings including pepperoni, mushrooms, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatzza Pizza",
+      "price": 12.99,
+      "description": "Pepperoni, Turkey/Chicken Ham, Sausage, Beef, & Cheese",
+      "simplified_description": "A meat lover's pizza with various meats and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Pizza",
+      "price": 12.99,
+      "description": "Pepperoni, Mushrooms, Onions, Green Peppers, Sausage & Cheese",
+      "simplified_description": "A deluxe pizza with pepperoni, mushrooms, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "price": 12.99,
+      "description": "Turkey/Chicken Ham, Pineapple & Mozzarella Cheese",
+      "simplified_description": "A pizza with ham, pineapple, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Pizza",
+      "price": 12.99,
+      "description": "Onions, Green Peppers, Black Olives, Banana Peppers, Beef & Mozzarella Cheese",
+      "simplified_description": "A pizza with various vegetables, beef, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Pizza",
+      "price": 12.99,
+      "description": "Ground Beef, Feta Cheese, Tomatoes, Onions, Green Peppers, Black Olives & Cheese",
+      "simplified_description": "A pizza with ground beef, feta cheese, and vegetables",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Legend Pizza",
+      "price": 12.99,
+      "description": "Mushrooms, Onions, Green Peppers, Donair Meat & Cheese",
+      "simplified_description": "A pizza with mushrooms, onions, and donair meat",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pizza",
+      "price": 12.99,
+      "description": "Donair Sauce, Donair Meat, Onions, Tomatoes & Cheese",
+      "simplified_description": "A pizza with donair sauce, meat, and vegetables",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Pizza",
+      "price": 12.99,
+      "description": "Pepperoni, Mushroom, Bacon & Cheese",
+      "simplified_description": "A pizza with pepperoni, mushrooms, bacon, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Steak Pizza",
+      "price": 12.99,
+      "description": "BBQ Sauce, Mushrooms, Onions, Donair Meat & Mozzarella Cheese",
+      "simplified_description": "A pizza with BBQ sauce, mushrooms, and donair meat",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Donair Pizza",
+      "price": 12.99,
+      "description": "Donair Sauce, Chicken, Onion, Tomatoes, Green Peppers",
+      "simplified_description": "A pizza with donair sauce, chicken, and vegetables",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Great White Pizza",
+      "price": 12.99,
+      "description": "Loaded Turkey/Chicken Ham, Cheddar & Mozzarella Cheese",
+      "simplified_description": "A pizza loaded with turkey or chicken ham and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 12.99,
+      "description": "Pepperoni & Mozzarella Cheese",
+      "simplified_description": "A pizza with pepperoni and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pizza",
+      "price": 12.99,
+      "description": "Extra Mozzarella Cheese",
+      "simplified_description": "A pizza with extra cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Veggie Pizza",
+      "price": 12.99,
+      "description": "Onions, Green Peppers, Cooked Tomatoes, Mushrooms, Spinach, Cilantro, Ginger & Mozzarella Cheese",
+      "simplified_description": "A veggie pizza with various vegetables and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": 12.99,
+      "description": "Mushrooms, Onions, Green Peppers, Tomatoes & Cheese",
+      "simplified_description": "A veggie pizza with mushrooms, onions, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Greek Pizza",
+      "price": 12.99,
+      "description": "Onions, Green Peppers, Black Olives, Tomatoes, Feta Cheese",
+      "simplified_description": "A veggie pizza with Greek ingredients and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Mexican Pizza",
+      "price": 12.99,
+      "description": "Onions, Green Peppers, Banana Peppers, Black Olive & Cheese",
+      "simplified_description": "A veggie pizza with Mexican ingredients and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Alfredo Pizza",
+      "price": 12.99,
+      "description": "Mushroom, Green pepper, Onion, Spinach, Alfredo Sauce & Mozzarella Cheese",
+      "simplified_description": "A veggie pizza with Alfredo sauce and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach Pizza",
+      "price": 12.99,
+      "description": "Spinach, Black Olives, Cheddar, Feta & Mozzarella Cheese",
+      "simplified_description": "A pizza with spinach, olives, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Veggie Pizza",
+      "price": 12.99,
+      "description": "Onion, Mushroom, Green Pepper, Black Olives, Fresh Tomatoes & Mozzarella Cheese",
+      "simplified_description": "A veggie pizza with various vegetables and cheese",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Delight Pizza",
+      "price": 12.99,
+      "description": "Onions, Jalapeno Peppers, Tandoori Chicken & Mozzarella Cheese",
+      "simplified_description": "A pizza with tandoori chicken and jalapenos",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken Pizza",
+      "price": 12.99,
+      "description": "Onion, Green Peppers, Tandoori Chicken, Black Olives & Cheese",
+      "simplified_description": "A pizza with tandoori chicken and vegetables",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "price": 12.99,
+      "description": "Barbeque Sauce, Barbeque Chicken, Onions, Green Peppers & Cheese",
+      "simplified_description": "A pizza with BBQ chicken and vegetables",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian BBQ Pizza",
+      "price": 12.99,
+      "description": "BBQ Chicken, Pineapple, Onion, Cilantro",
+      "simplified_description": "A pizza with BBQ chicken and pineapple",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": 12.99,
+      "description": "Butter Chicken Sauce, Onions, Green Peppers, Tandoori Chicken",
+      "simplified_description": "A pizza with butter chicken sauce and tandoori chicken",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Ranch Pizza",
+      "price": 12.99,
+      "description": "Ranch Sauce, Mushrooms, Onions, Chicken & Cheese",
+      "simplified_description": "A pizza with ranch sauce and chicken",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Pizza",
+      "price": 12.99,
+      "description": "Alfredo Sauce, Onions, Mushrooms, Chicken & Cheese",
+      "simplified_description": "A pizza with Alfredo sauce and chicken",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chipotle Spicy Pizza",
+      "price": 12.99,
+      "description": "Chipotle Sauce, Onions, Green Peppers, Chicken, Jalapeno & Cheese",
+      "simplified_description": "A spicy pizza with chipotle sauce and chicken",
+      "category": "Pizzas",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Ranch Pizza",
+      "price": 12.99,
+      "description": "Tandoori Chicken, Onions, Bacon, Ranch, Butter Chicken Sauce & Cheese",
+      "simplified_description": "A pizza with tandoori chicken, bacon, and ranch sauce",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Spicy Chicken Pizza",
+      "price": 12.99,
+      "description": "Tandoori Chicken, Onions, Banana Peppers, Chili Flakes & Cheese",
+      "simplified_description": "A spicy pizza with tandoori chicken and chili flakes",
+      "category": "Pizzas",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Garlic Pizza",
+      "price": 12.99,
+      "description": "Garlic Sauce Base, Chicken, Onion, Green Peppers and Mozzarella Cheese",
+      "simplified_description": "A pizza with garlic sauce and chicken",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeseburger Pizza",
+      "price": 12.99,
+      "description": "Beef, Bacon, Onion, Cheddar & Mozzarella Cheese",
+      "simplified_description": "A pizza with beef, bacon, and cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Bacon Ranch Pizza",
+      "price": 12.99,
+      "description": "Ranch Base, Chicken, Onion & Bacon",
+      "simplified_description": "A pizza with ranch sauce, chicken, and bacon",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Pizza",
+      "price": 12.99,
+      "description": "Chicken, Mushrooms, Onions, Green Peppers, Hot Buffalo Sauce & Cheese",
+      "simplified_description": "A spicy pizza with chicken and buffalo sauce",
+      "category": "Pizzas",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Treat Pizza",
+      "price": 12.99,
+      "description": "Onion, Green Pepper, Pineapple, Jalapeno, Tandoori Chicken, Sweet Sauce & Cheese",
+      "simplified_description": "A pizza with tandoori chicken and sweet sauce",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Chicken Pizza",
+      "price": 12.99,
+      "description": "Tandoori Chicken, Mushroom, Tomatoes, Fresh Ginger (adrak), Coriander (dhaniya), Cheese",
+      "simplified_description": "A pizza with tandoori chicken and spices",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeno Poppers",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Spicy stuffed peppers",
+      "category": "Side Orders",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "6 Pieces"
+    },
+    {
+      "name": "Donair Dunkers",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Dunkers with donair flavor",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "7 Pieces"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 12.99,
+      "description": "Dressings Available: Hot, Medium, Mild, BBQ, Honey Garlic, Teriyaki, Salt & Pepper",
+      "simplified_description": "Wings with various dressing options",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Lasagna",
+      "price": 14.99,
+      "description": "Comes with choice of Meat or Veggie Sauce with 2 Garlic Toasts",
+      "simplified_description": "Lasagna with meat or veggie sauce and garlic toasts",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone",
+      "price": 10.99,
+      "description": "Veggie or 1 Meat Topping",
+      "simplified_description": "A folded pizza with veggies or one meat topping",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "Crispy fried onion rings",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Medium"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "Fried cheese sticks",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "Crispy rolls filled with vegetables",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "12 Pieces"
+    },
+    {
+      "name": "Samosa",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "Fried pastry filled with vegetables",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Veggie"
+    },
+    {
+      "name": "Samosa",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "Fried pastry filled with meat",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Beef"
+    },
+    {
+      "name": "Deep Fried Shrimps",
+      "price": 13.99,
+      "description": "Served with Tartar Sauce",
+      "simplified_description": "Fried shrimp with tartar sauce",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "12 Pieces"
+    },
+    {
+      "name": "French Fries",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "Fried potato strips",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Medium"
+    },
+    {
+      "name": "French Fries",
+      "price": 6.49,
+      "description": "",
+      "simplified_description": "Fried potato strips",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Large"
+    },
+    {
+      "name": "Poutine",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Fries topped with cheese and gravy",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Medium"
+    },
+    {
+      "name": "Poutine",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "Fries topped with cheese and gravy",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "Large"
+    },
+    {
+      "name": "Cheesy Bread",
+      "price": 7.99,
+      "description": "Tasty Bread Served with Free Dipping Sauce",
+      "simplified_description": "Bread with cheese and dipping sauce",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 9.99,
+      "description": "Red Onion, Romaine Lettuce, Olives, Tomatoes, Feta Cheese & Greek Dressing",
+      "simplified_description": "A salad with Greek ingredients",
+      "category": "Side Orders",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 9.99,
+      "description": "Romaine Lettuce, Bacon Bits, Croutons & Caesar Dressing",
+      "simplified_description": "A salad with romaine lettuce and Caesar dressing",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauce",
+      "price": 1.25,
+      "description": "",
+      "simplified_description": "Sauce for dipping",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 1.75,
+      "description": "",
+      "simplified_description": "A can of soda",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 3.75,
+      "description": "",
+      "simplified_description": "A 2-liter bottle of soda",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pack of 6 Cans",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "A pack of six cans of soda",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

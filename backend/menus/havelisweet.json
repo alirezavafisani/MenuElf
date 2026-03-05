@@ -1,0 +1,723 @@
+{
+  "restaurant": "havelisweet",
+  "parsed_at": "2026-02-06T02:34:47.433289",
+  "item_count": 61,
+  "items": [
+    {
+      "name": "Papri Chaat",
+      "price": 7.99,
+      "description": "A blend of chickpeas, potatoes, flour crisps topped with tangy tamarind chutney and yogurt dressing.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy flour crisps with chickpeas, potatoes, tamarind chutney, and yogurt.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dahi Balay",
+      "price": 9.99,
+      "description": "Homemade savoury lentil-potato fritters prepared in thick yogurt topped with tangy tamarind and spicy chutney.",
+      "category": "APPETIZER",
+      "simplified_description": "Lentil and potato fritters in yogurt with tamarind and spicy chutney.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Gol Gappay (6 pcs)",
+      "price": 7.99,
+      "description": "A popular street snack. It consists of a round, hollow puri, fried crisp and is filled with a mixture of flavoured water, tamarind chutney, potato, and chickpeas.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy hollow puris filled with flavored water, tamarind, potato, and chickpeas.",
+      "dietary_info": [
+        "vegan",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki (1pcs)",
+      "price": 1.25,
+      "description": "Potato patties deep-fried.",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried potato patties.",
+      "dietary_info": [
+        "vegan",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Samosa (1pcs)",
+      "price": 1.25,
+      "description": "Crisp triangle shaped pastries filled with potato, green peas and spices.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy pastry filled with spiced potatoes and green peas.",
+      "dietary_info": [
+        "vegan",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Samosa with Chickpeas (2pcs)",
+      "price": 9.99,
+      "description": "Crisp triangle shaped pastries filled with potato, green peas and spices topped with chickpeas and sweet sauce.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy samosas with spiced potatoes, peas, chickpeas, and sweet sauce.",
+      "dietary_info": [
+        "vegan",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Samosa (1pcs)",
+      "price": 1.99,
+      "description": "Crisp triangle shaped pastries filled with spiced beef or chicken.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy pastry filled with spiced beef or chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Samosa with Chickpeas (2pcs)",
+      "price": 11.99,
+      "description": "Crisp triangle shaped pastries filled with spiced beef or chicken topped with chickpeas, hot and sweet sauce.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy samosas with spiced meat, chickpeas, hot and sweet sauce.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mix Veg Pakora (per lb)",
+      "price": 7.99,
+      "description": "Mix of vegetables dipped in spiced chickpea batter and deep-fried.",
+      "category": "APPETIZER",
+      "simplified_description": "Mixed vegetables fried in spiced chickpea batter.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pakora (per lb)",
+      "price": 11.99,
+      "description": "Homemade cheese stuffed with filling dipped in chickpea batter and deep-fried.",
+      "category": "APPETIZER",
+      "simplified_description": "Cheese stuffed and fried in chickpea batter.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Bhatture",
+      "price": 9.99,
+      "description": "Fluffy deep-fried bread, served with chickpeas and halwa. (Extra bhatture $1.99 ea)",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried bread served with chickpeas and sweet halwa.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": "Extra bhatture $1.99 each"
+    },
+    {
+      "name": "Puri Chole/ Halwa Puri",
+      "price": 9.99,
+      "description": "Bread made of unleavened wheat flour, deep-fried served with chickpeas and your choice of halwa or raita. (Extra puri $1.99 ea)",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried unleavened bread with chickpeas and halwa or raita.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": "Extra puri $1.99 each"
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 11.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spinach cooked with Indian cheese (paneer).",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Saag",
+      "price": 10.99,
+      "description": "Spinach cooked with kale, in a special spiced curry blend.",
+      "category": "FOOD",
+      "simplified_description": "Spinach and kale cooked in a spiced curry.",
+      "dietary_info": [
+        "vegan",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutter Paneer",
+      "price": 11.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Indian cheese cooked with peas in a spiced sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 10.99,
+      "description": "A combination of black lentils cooked in onions, ginger, garlic and smooth creamy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Black lentils cooked with onions, ginger, garlic in creamy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yellow Dal",
+      "price": 10.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhindi Masala",
+      "price": 13.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 14.99,
+      "description": "Mildly spicy potato and paneer dumplings in smooth creamy curry.",
+      "category": "FOOD",
+      "simplified_description": "Potato and paneer dumplings in mild creamy curry sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Mildly spicy"
+    },
+    {
+      "name": "Shai Paneer",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Allu Gobhi",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Vegetable",
+      "price": 12.99,
+      "description": "Medley of vegetables cooked with a combination of spices.",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked with various spices.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 11.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Paneer",
+      "price": 14.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Thali",
+      "price": 13.99,
+      "description": "Portion of Shai Paneer OR Mutter Panner, Mix Veg, Dal, Rice and 1 Naan.",
+      "category": "FOOD",
+      "simplified_description": "Assorted vegetarian dishes with rice and naan bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Pakora (per lb)",
+      "price": 11.49,
+      "description": "Marinated fish (Basa) in a blend of spices, coated in chickpea batter and fried.",
+      "category": "FOOD",
+      "simplified_description": "Spiced marinated fish fried in chickpea batter.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seekh Kebab (2pcs) with Chole and Naan (1pc)",
+      "price": 10.99,
+      "description": "Minced beef mixed with ginger, coriander and spices, rolled on skewer and grilled over coal.",
+      "category": "FOOD",
+      "simplified_description": "Spiced minced beef grilled on skewers with chickpeas and naan.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Leg (1pc)",
+      "price": 6.49,
+      "description": "Whole chicken leg (thigh-drumstick) marinated overnight in tandoori marinade cooked in clay oven or can be deep fried.",
+      "category": "FOOD",
+      "simplified_description": "Marinated chicken leg cooked in clay oven or deep fried.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken TIkka (6pcs)",
+      "price": 14.99,
+      "description": "Boneless chicken delicately marinated in tandoori spices cooked in clay oven.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken marinated in spices and cooked in clay oven.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 14.99,
+      "description": "A delicious preparation of boneless chicken, cooked in a smooth creamy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked in smooth creamy sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 14.99,
+      "description": "Chicken cooked in traditional curry.",
+      "category": "FOOD",
+      "simplified_description": "Traditional chicken cooked in curry sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Chicken",
+      "price": 14.99,
+      "description": "Boneless chicken breast cooed with medley of onion, and bell peppers in sweet- spicy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked with onions and peppers in sweet spicy sauce.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Karahi",
+      "price": 14.99,
+      "description": "Chicken cooked in thick curry with tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in thick tomato curry.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Thali",
+      "price": 14.99,
+      "description": "Butter chicken or goat curry or chicken curry, mix veg, daal, rice and 1 naan.",
+      "category": "FOOD",
+      "simplified_description": "Mixed meat curry with vegetables, lentils, rice, and naan.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Serves multiple items"
+    },
+    {
+      "name": "Chicken Quorma",
+      "price": 15.99,
+      "description": "Chicken cooked in smooth rich curry tossed with almond, cashews and coconut.",
+      "category": "FOOD",
+      "simplified_description": "Chicken in rich curry with almonds, cashews, and coconut.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 14.99,
+      "description": "Spicy chicken curry cooked with potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken curry with potatoes.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Goat Curry",
+      "price": 15.99,
+      "description": "Goat cooked in traditional curry.",
+      "category": "FOOD",
+      "simplified_description": "Traditional goat meat cooked in curry.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Karahi",
+      "price": 16.99,
+      "description": "Goat cooked with tomatoes in thick curry.",
+      "category": "FOOD",
+      "simplified_description": "Goat meat cooked in thick tomato curry.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Achar",
+      "price": 16.99,
+      "description": "Goat cooked in blend of pickled spices.",
+      "category": "FOOD",
+      "simplified_description": "Goat meat cooked with pickled spices.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Goat Quorma",
+      "price": 17.49,
+      "description": "Goat cooked in smooth rich curry tossed with almond, cashews and coconut.",
+      "category": "FOOD",
+      "simplified_description": "Goat in rich curry with almonds, cashews, and coconut.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Vindaloo",
+      "price": 16.99,
+      "description": "Spicy goat curry cooked with potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Spicy goat curry with potatoes.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Fish Curry/ Mango Fish Curry",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fish cooked in curry, optionally with mango.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 4.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Simple steamed plain rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg Biryani",
+      "price": 12.99,
+      "description": "Rice cooked in a blend of vegetables.",
+      "category": "FOOD",
+      "simplified_description": "Rice cooked with mixed vegetables and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 14.99,
+      "description": "Rice cooked with chicken and traditional spices.",
+      "category": "FOOD",
+      "simplified_description": "Spiced rice cooked with chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Biryani",
+      "price": 15.99,
+      "description": "Rice cooked with goat meat and traditional spices.",
+      "category": "FOOD",
+      "simplified_description": "Spiced rice cooked with goat meat.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Naan",
+      "price": 1.99,
+      "description": "Traditional flat bread made in the clay oven.",
+      "category": "BREAD",
+      "simplified_description": "Clay oven baked traditional flat bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 2.59,
+      "description": "Traditional naan with a layer of garlic spread.",
+      "category": "BREAD",
+      "simplified_description": "Flatbread topped with garlic spread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Naan",
+      "price": 5.99,
+      "description": "Traditional naan stuffed with spiced potatoes.",
+      "category": "BREAD",
+      "simplified_description": "Flatbread stuffed with spiced potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lacha Parantha",
+      "price": 4.99,
+      "description": "Tava roti cooked with ghee.",
+      "category": "BREAD",
+      "simplified_description": "Layered flatbread cooked with ghee.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Parantha",
+      "price": 5.99,
+      "description": "",
+      "category": "BREAD",
+      "simplified_description": "Flatbread stuffed with spiced potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Parantha",
+      "price": 6.99,
+      "description": "Tava roti stuffed with spiced paneer and ghee.",
+      "category": "BREAD",
+      "simplified_description": "Flatbread stuffed with spiced cheese and ghee.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tava Roti",
+      "price": 1.99,
+      "description": "Traditional stovetop flat bread.",
+      "category": "BREAD",
+      "simplified_description": "Flatbread cooked on stovetop.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 1.99,
+      "description": "",
+      "category": "BREAD",
+      "simplified_description": "Traditional clay oven baked flatbread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Creamy mango fruit shake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet mango yogurt drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet yogurt-based drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Savory yogurt-based drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chai",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Spiced Indian tea with milk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pop Can",
+      "price": 1.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Carbonated soft drink in a can.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water",
+      "price": 1.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Plain bottled water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

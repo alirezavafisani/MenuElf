@@ -1,0 +1,160 @@
+{
+  "restaurant": "soffritto",
+  "parsed_at": "2026-02-06T04:08:22.664331",
+  "item_count": 17,
+  "items": [
+    {
+      "name": "Black Cherry Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Currant Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blackberry Ginger Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cinnamon Pear Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dark Chocolate Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Elderberry Dark Balsamic",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fig Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gift Card",
+      "price": 10.0,
+      "description": "From $10.00",
+      "category": "OTHER",
+      "simplified_description": "From $10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Molto Denissimo Balsamic",
+      "price": 15.0,
+      "description": "From $15.00",
+      "category": "OTHER",
+      "simplified_description": "From $15.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Neapolitan Herb Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pomegranate Balsamic Vinegar",
+      "price": 8.5,
+      "description": "From $8.50",
+      "category": "OTHER",
+      "simplified_description": "From $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": null,
+      "description": "Our fresh lasagnas are layered with pasta, filling and of course, lots of cheese! Great for serving 2-4 (or more!)",
+      "category": "MEAL",
+      "simplified_description": "Our fresh lasagnas are layered with pasta, filling and of course, lots of cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatballs",
+      "price": null,
+      "description": "We make meatballs every Wednesday and almost always have them ready and waiting for you to take home!",
+      "category": "MEAL",
+      "simplified_description": "We make meatballs every Wednesday and almost always have them ready and waiting ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta & Sauce",
+      "price": null,
+      "description": "Pick out one of our great sauces to go with any pasta shape and you've got the perfect meal for two, three, twelve...",
+      "category": "MEAL",
+      "simplified_description": "Pick out one of our great sauces to go with any pasta shape and you've got the p",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza",
+      "price": null,
+      "description": "Available Thursday and Friday only! We make fresh margherita pizzas ready for you to take home for dinner - great for entertaining!",
+      "category": "MEAL",
+      "simplified_description": "Available Thursday and Friday only! We make fresh margherita pizzas ready for yo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Pasta Shells",
+      "price": null,
+      "description": "Our shells come in packs of 6 - the perfect size for 2-3 people!",
+      "category": "MEAL",
+      "simplified_description": "Our shells come in packs of 6 - the perfect size for 2-3 people!",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "restaurant": "thespiceaffair",
+  "parsed_at": "2026-02-06T04:31:10.711900",
+  "item_count": 54,
+  "items": [
+    {
+      "name": "Fish Pakora",
+      "price": 12.99,
+      "description": "Fish fried with flour & traditional spices",
+      "category": "APPETIZER",
+      "simplified_description": "Fish fried with flour & traditional spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pakora",
+      "price": 12.99,
+      "description": "Chicken fried with flour & spices",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken fried with flour & spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lollipop",
+      "price": 14.99,
+      "description": "Honey chili, Delhi style hot, Boom Boom",
+      "category": "APPETIZER",
+      "simplified_description": "Honey chili, Delhi style hot, Boom Boom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Bhature",
+      "price": 11.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegi Pakora",
+      "price": 9.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken Piece",
+      "price": 15.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka",
+      "price": 15.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 15.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 14.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer 65",
+      "price": 13.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 15.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Noodle Spring Roll",
+      "price": 10.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pani Puri",
+      "price": 7.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chat Papdi",
+      "price": 9.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sev Puri",
+      "price": 9.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa (per piece)",
+      "price": 1.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dahi Bhalla",
+      "price": 9.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Lover",
+      "price": 14.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Lover",
+      "price": 14.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sahi Paneer",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Paneer",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Paneer",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Paneer",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gourmet",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Vegi",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popeye",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alfredo Chicken",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Beef",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Chicken",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme Hawaiian",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Lover",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Spicy",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek",
+      "price": 21.99,
+      "description": "",
+      "category": "PIZZA",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 pcs",
+      "price": 11.99,
+      "description": "Hot • Honey Garlic • BBQ • Salt & Pepper • Delhi Style",
+      "category": "WINGS",
+      "simplified_description": "Hot • Honey Garlic • BBQ • Salt & Pepper • Delhi Style",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20 pcs",
+      "price": 20.99,
+      "description": "",
+      "category": "WINGS",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "30 pcs",
+      "price": 30.99,
+      "description": "",
+      "category": "WINGS",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun Fries",
+      "price": 6.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Poutine",
+      "price": 7.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Loaded Fries",
+      "price": 10.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Loaded Fries",
+      "price": 9.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": 9.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Burger",
+      "price": 8.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza & Wings Deal",
+      "price": 35.99,
+      "description": "2 Medium 2-Topping Pizzas + 10 Wings + 2 Pops",
+      "category": "OTHER",
+      "simplified_description": "2 Medium 2-Topping Pizzas + 10 Wings + 2 Pops",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Pack Deal",
+      "price": 75.99,
+      "description": "5 Large Pizzas (3 Toppings Each)",
+      "category": "OTHER",
+      "simplified_description": "5 Large Pizzas (3 Toppings Each)",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

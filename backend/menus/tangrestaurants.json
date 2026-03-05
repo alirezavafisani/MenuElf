@@ -1,0 +1,439 @@
+{
+  "restaurant": "tangrestaurants",
+  "parsed_at": "2026-02-06T04:25:08.324893",
+  "item_count": 48,
+  "items": [
+    {
+      "name": "Pork Spring Rolls",
+      "price": 2.5,
+      "description": "single | 4 rolls",
+      "category": "APPETIZER",
+      "simplified_description": "single | 4 rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Spring Rolls",
+      "price": 2.5,
+      "description": "single | 4 rolls",
+      "category": "APPETIZER",
+      "simplified_description": "single | 4 rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Salad Rolls",
+      "price": 3.25,
+      "description": "single | 3 rolls",
+      "category": "APPETIZER",
+      "simplified_description": "single | 3 rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad Rolls",
+      "price": 3.25,
+      "description": "single | 3 rolls",
+      "category": "APPETIZER",
+      "simplified_description": "single | 3 rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Chicken Salad Rolls",
+      "price": 3.5,
+      "description": "single | 3 rolls",
+      "category": "APPETIZER",
+      "simplified_description": "single | 3 rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Beef Salad Rolls",
+      "price": 3.5,
+      "description": "single | 3 rolls",
+      "category": "APPETIZER",
+      "simplified_description": "single | 3 rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Fries",
+      "price": 6.95,
+      "description": "Served with Sweet Chili Mayo",
+      "category": "SIDE",
+      "simplified_description": "Served with Sweet Chili Mayo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Onion Skewer",
+      "price": 5.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Skewer",
+      "price": 5.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Shrimp Skewer",
+      "price": 5.95,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mega Sub",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Beef & Sate Chicken",
+      "price": 10.75,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Beef Sub",
+      "price": 10.75,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Onion Sub",
+      "price": 10.75,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Beef & Pineapple Sub",
+      "price": 10.75,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Chicken Sub",
+      "price": 10.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Sub",
+      "price": 10.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken Sub",
+      "price": 10.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken Sub",
+      "price": 10.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroiled Pork Sub",
+      "price": 10.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Shrimp Sub",
+      "price": 12.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Tofu Sub",
+      "price": 10.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Sub",
+      "price": 7.25,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Wor Wonton Soup",
+      "price": 13.5,
+      "description": "Pork Wontons, Chicken, Shrimp & Mixed Veggies",
+      "category": "SOUP",
+      "simplified_description": "Pork Wontons, Chicken, Shrimp & Mixed Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Wor Wonton Soup",
+      "price": 14.5,
+      "description": "Shrimp Wontons, Chicken, Shrimp & Mixed Veggies",
+      "category": "SOUP",
+      "simplified_description": "Shrimp Wontons, Chicken, Shrimp & Mixed Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork-filled Wonton Soup",
+      "price": 5.0,
+      "description": "side | regular",
+      "category": "SOUP",
+      "simplified_description": "side | regular",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp-filled Wonton Soup",
+      "price": 5.5,
+      "description": "side | regular",
+      "category": "SOUP",
+      "simplified_description": "side | regular",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Beef Noodle Soup",
+      "price": 13.95,
+      "description": "All Sate Soups contain Peanut",
+      "category": "SOUP",
+      "simplified_description": "All Sate Soups contain Peanut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Chicken Noodle Soup",
+      "price": 13.95,
+      "description": "All Sate Soups contain Peanut",
+      "category": "SOUP",
+      "simplified_description": "All Sate Soups contain Peanut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Shrimp Noodle Soup",
+      "price": 14.95,
+      "description": "All Sate Soups contain Peanut",
+      "category": "SOUP",
+      "simplified_description": "All Sate Soups contain Peanut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Veggie Noodle Soup",
+      "price": 12.5,
+      "description": "All Sate Soups contain Peanut",
+      "category": "SOUP",
+      "simplified_description": "All Sate Soups contain Peanut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken & Pork Noodle Soup",
+      "price": 14.95,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "price": 12.95,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mega Bowl",
+      "price": 16.95,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroiled Pork & Spring Roll",
+      "price": 14.75,
+      "description": "Served with 2 Spring Rolls",
+      "category": "BOWL",
+      "simplified_description": "Served with 2 Spring Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken & Spring Roll",
+      "price": 14.75,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Spring Roll",
+      "price": 14.75,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Shrimp & Spring Roll",
+      "price": 15.5,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef & Spring Roll",
+      "price": 14.75,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Shrimp & Spring Roll",
+      "price": 14.95,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef, Shrimp & Spring Roll",
+      "price": 14.95,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork, Shrimp & Spring Roll",
+      "price": 14.95,
+      "description": "",
+      "category": "BOWL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll Bowl",
+      "price": 12.5,
+      "description": "(4 rolls) Choice of Pork or Vegetarian",
+      "category": "BOWL",
+      "simplified_description": "(4 rolls) Choice of Pork or Vegetarian",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Milk",
+      "price": 3.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Iced Coffee",
+      "price": 5.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 2.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Tea",
+      "price": 2.75,
+      "description": "Green or Jasmine",
+      "category": "DRINK",
+      "simplified_description": "Green or Jasmine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoothies & Bubble Tea",
+      "price": 6.95,
+      "description": "Our smoothies include pearls or jelly. Choose from a variety of real fruit flavours, powder flavours, or our popular mixes! Extra pearls or jelly can be added for an extra 50 cents.",
+      "category": "DRINK",
+      "simplified_description": "Our smoothies include pearls or jelly. Choose from a variety of real fruit flavo",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

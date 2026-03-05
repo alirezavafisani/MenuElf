@@ -1,0 +1,115 @@
+{
+  "restaurant": "shawarmabarlow",
+  "parsed_at": "2026-02-06T04:04:46.374509",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "Chicken Shawarma",
+      "price": 40.0,
+      "description": "1 Kilogram",
+      "category": "FOOD",
+      "simplified_description": "1 Kilogram",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair",
+      "price": 40.0,
+      "description": "1 Kilogram",
+      "category": "FOOD",
+      "simplified_description": "1 Kilogram",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tawouk Skewers",
+      "price": 50.0,
+      "description": "10 Skewers",
+      "category": "FOOD",
+      "simplified_description": "10 Skewers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kafta Skewers",
+      "price": 50.0,
+      "description": "10 Skewers",
+      "category": "FOOD",
+      "simplified_description": "10 Skewers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Patties",
+      "price": 10.0,
+      "description": "12 pcs",
+      "category": "FOOD",
+      "simplified_description": "12 pcs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grape Leaves",
+      "price": 10.0,
+      "description": "12 pcs",
+      "category": "FOOD",
+      "simplified_description": "12 pcs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava",
+      "price": 10.0,
+      "description": "12 pcs",
+      "category": "DESSERT",
+      "simplified_description": "12 pcs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Cake",
+      "price": 35.0,
+      "description": "Medium Tray 24 pcs",
+      "category": "DESSERT",
+      "simplified_description": "Medium Tray 24 pcs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 60.0,
+      "description": "5 Regular size",
+      "category": "FOOD",
+      "simplified_description": "5 Regular size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair",
+      "price": 60.0,
+      "description": "5 Regular size",
+      "category": "FOOD",
+      "simplified_description": "5 Regular size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel",
+      "price": 60.0,
+      "description": "5 Regular size",
+      "category": "FOOD",
+      "simplified_description": "5 Regular size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Chicken & Beef",
+      "price": 65.0,
+      "description": "5 Regular size",
+      "category": "FOOD",
+      "simplified_description": "5 Regular size",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

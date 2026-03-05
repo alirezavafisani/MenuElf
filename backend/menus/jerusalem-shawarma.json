@@ -1,0 +1,512 @@
+{
+  "restaurant": "jerusalem-shawarma",
+  "parsed_at": "2026-02-06T02:45:28.691808",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "BBQ Plate for 7",
+      "price": 160.0,
+      "description": "Seven skewers of juicy Shish Tawouq and Seven skewers of Beef Kafta, served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Seven chicken and beef skewers with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves seven"
+    },
+    {
+      "name": "BBQ Plate for 8",
+      "price": 180.0,
+      "description": "Eight skewers of juicy Shish Tawouq and Eight skewers of Beef Kafta, served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Eight chicken and beef skewers with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves eight"
+    },
+    {
+      "name": "BBQ Plate for 9",
+      "price": 200.0,
+      "description": "Nine skewers of juicy Shish Tawouq and Nine skewers of Beef Kafta, served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Nine chicken and beef skewers with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves nine"
+    },
+    {
+      "name": "BBQ Plate for 10",
+      "price": 210.0,
+      "description": "Ten skewers of juicy Shish Tawouq and Ten skewers of Beef Kafta, served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Ten chicken and beef skewers with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves ten"
+    },
+    {
+      "name": "Veggie Deal for 3",
+      "price": 70.0,
+      "description": "15 Pcs of Falafel 15 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves three"
+    },
+    {
+      "name": "Veggie Deal for 4",
+      "price": 90.0,
+      "description": "20 Pcs of Falafel 20 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "Veggie Deal for 5",
+      "price": 115.0,
+      "description": "25 Pcs of Falafel 25 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves five"
+    },
+    {
+      "name": "Veggie Deal for 6",
+      "price": 140.0,
+      "description": "30 Pcs of Falafel 30 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves six"
+    },
+    {
+      "name": "Veggie Deal for 7",
+      "price": 160.0,
+      "description": "35 Pcs of Falafel 35 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves seven"
+    },
+    {
+      "name": "Veggie Deal for 8",
+      "price": 180.0,
+      "description": "40 Pcs of Falafel 40 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves eight"
+    },
+    {
+      "name": "Veggie Deal for 9",
+      "price": 200.0,
+      "description": "45 Pcs of Falafel 45 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves nine"
+    },
+    {
+      "name": "Veggie Deal for 10",
+      "price": 210.0,
+      "description": "50 Pcs of Falafel 50 Pcs of Vine Leaves served on a bed of aromatic basmati rice, Fatoush Salad, Garlic Potato, and Hummus.",
+      "category": "FOOD",
+      "simplified_description": "Falafel and vine leaves with rice, salad, potatoes, and hummus.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves ten"
+    },
+    {
+      "name": "Pops",
+      "price": 1.95,
+      "description": "Pipsi, Diet Pepsi, 7Up, Coca Cola, Coca Cola Diet, Coca Cola Zero, Ginger Ale, Sprite",
+      "category": "DRINK",
+      "simplified_description": "Variety of popular carbonated soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Juice",
+      "price": 4.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Fresh mango juice beverage.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit Cocktail Juice",
+      "price": 4.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Mixed fruit cocktail juice drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Berry Juice",
+      "price": 4.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A refreshing mixed berry juice drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Mint Lemonade",
+      "price": 4.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Lemonade flavored with fresh mint leaves.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus",
+      "price": 5.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Creamy chickpea dip made with tahini.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Foul",
+      "price": 6.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Cooked fava beans seasoned with spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel",
+      "price": 5.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Deep-fried chickpea patties seasoned with herbs.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus With Shawarma",
+      "price": 9.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Hummus served topped with seasoned shawarma meat.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shakshuka",
+      "price": 8.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Poached eggs cooked in a spicy tomato sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Labneh",
+      "price": 5.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Strained yogurt cheese served as a creamy spread.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Cauliflower",
+      "price": 6.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Crispy fried cauliflower florets.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Eggs",
+      "price": 7.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Eggs fried to order.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Halloumi Cheese",
+      "price": 7.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Slices of halloumi cheese fried until golden.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Zait & Zattar",
+      "price": 5.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Olive oil and za'atar herb mix served as dip.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Eggplant",
+      "price": 6.95,
+      "description": "",
+      "category": "BREAKFAST",
+      "simplified_description": "Slices of eggplant fried until tender.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sandwiches Deal For 5",
+      "price": 90.0,
+      "description": "5 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma  Beef Donair  Falafel  Half Tray of Garlic Potato (Comes With Garlic Sauce)  5 Assorted Pops,5 Baklava",
+      "category": "FOOD",
+      "simplified_description": "Assorted sandwiches with sides and drinks for five people.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Serves five"
+    },
+    {
+      "name": "Sandwiches Deal For 10",
+      "price": 180.0,
+      "description": "Chicken Shawarma  Beef Shawarma  Beef Donair  Falafel  Full Tray of Garlic Potato(Comes With Garlic Sauce)  10 Assorted Pops, 10 Baklava",
+      "category": "FOOD",
+      "simplified_description": "Assorted sandwiches with sides and drinks for ten people.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Serves ten"
+    },
+    {
+      "name": "Sandwiches Deal For 15",
+      "price": 270.0,
+      "description": "15 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma  Beef Donair  Falafel  Full Tray of Garlic Potato(Comes With Garlic Sauce)  15 Assorted Pops, 15 Baklava",
+      "category": "FOOD",
+      "simplified_description": "15 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves fifteen"
+    },
+    {
+      "name": "Sandwiches Deal For 20",
+      "price": 360.0,
+      "description": "20 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  2 Full Tray of Garlic Potato(Comes With Garlic Sauce)   20 Assorted Pops, 20 Baklava",
+      "category": "FOOD",
+      "simplified_description": "20 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves twenty"
+    },
+    {
+      "name": "Sandwiches Deal For 25",
+      "price": 450.0,
+      "description": "25 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  2 Full Tray of Garlic Potato(Comes With Garlic Sauce)  25 Assorted Pops, 25 Baklava",
+      "category": "FOOD",
+      "simplified_description": "25 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves twenty-five"
+    },
+    {
+      "name": "Sandwiches Deal For 30",
+      "price": 540.0,
+      "description": "30 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  3 Full Tray of Garlic Potato(Comes With Garlic Sauce)  30 Assorted Pops, 30 Baklava",
+      "category": "FOOD",
+      "simplified_description": "30 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves thirty"
+    },
+    {
+      "name": "Sandwiches Deal For 35",
+      "price": 630.0,
+      "description": "35 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  3 Full Tray of Garlic Potato(Comes With Garlic Sauce)  35 Assorted Pops, 35 Baklava",
+      "category": "FOOD",
+      "simplified_description": "35 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves thirty-five"
+    },
+    {
+      "name": "Sandwiches Deal For 40",
+      "price": 720.0,
+      "description": "40 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  4 Full Tray of Garlic Potato(Comes With Garlic Sauce)  40 Assorted Pops, 40 Baklava",
+      "category": "FOOD",
+      "simplified_description": "40 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves forty"
+    },
+    {
+      "name": "Sandwiches Deal For 45",
+      "price": 810.0,
+      "description": "45 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  4 Full Tray of Garlic Potato(Comes With Garlic Sauce)  45 Assorted Pops, 45 Baklava",
+      "category": "FOOD",
+      "simplified_description": "45 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves forty-five"
+    },
+    {
+      "name": "Sandwiches Deal For 50",
+      "price": 900.0,
+      "description": "50 Medium Assorted Sandwiches  Chicken Shawarma  Beef Shawarma   Beef Donair   Falafel  4 Full Tray of Garlic Potato  50 Assorted Pops, 50 Baklava",
+      "category": "FOOD",
+      "simplified_description": "50 assorted sandwiches with shawarma, falafel, garlic potatoes, drinks, and baklava.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": "Serves fifty"
+    }
+  ]
+}

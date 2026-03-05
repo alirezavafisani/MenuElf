@@ -1,0 +1,468 @@
+{
+  "restaurant": "dontacoyyc",
+  "parsed_at": "2026-02-06T02:04:05.658381",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "Baja Fish Tacos (3 pcs)",
+      "price": 12.5,
+      "description": "Tacos - Breaded fish, pico, slaw, valentina aioli, and pickled radish. One order comes with three tacos.",
+      "category": "FOOD",
+      "simplified_description": "Three tacos with breaded fish, pico, slaw, aioli, and pickled radish.",
+      "dietary_info": [],
+      "other_info": "Serves three tacos"
+    },
+    {
+      "name": "Vegan Chorizo and Beans",
+      "price": 12.5,
+      "description": "Tacos - Poblano peppers, onions, beans, tomatoes, mushrooms, corn, cilantro, slaw, valentina aioli, and pickled radish. One order comes with three tacos.",
+      "category": "FOOD",
+      "simplified_description": "Three tacos with vegan chorizo, beans, veggies, slaw, aioli, and pickled radish.",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": "Serves three tacos"
+    },
+    {
+      "name": "Crispy Chipotle Chicken Tacos (3 pcs)",
+      "price": 13.0,
+      "description": "Tacos - Breaded chicken, slaw, valentina mayo, pico, pickled radish, onions, and cilantro. One order comes with three tacos.",
+      "category": "FOOD",
+      "simplified_description": "Three tacos with breaded chicken, slaw, mayo, pico, and pickled radish.",
+      "dietary_info": [],
+      "other_info": "Serves three tacos"
+    },
+    {
+      "name": "Pork Belly Chicharron Tacos (3 pcs)",
+      "price": 13.0,
+      "description": "Tacos - Confit pork belly, chipotle, pico, cilantro, and pickled radish. One order comes with three pieces.",
+      "category": "FOOD",
+      "simplified_description": "Three tacos with pork belly, chipotle, pico, cilantro, and pickled radish.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves three tacos"
+    },
+    {
+      "name": "Chipotle Shrimp Tacos (3 pcs)",
+      "price": 13.0,
+      "description": "Tacos - Panko shrimp, pico, cilantro, slaw, valentina mayo, chipotle, and pickled radish. One order comes with three tacos.",
+      "category": "FOOD",
+      "simplified_description": "Three tacos with panko shrimp, pico, slaw, mayo, chipotle, and pickled radish.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves three tacos"
+    },
+    {
+      "name": "Quesabirria",
+      "price": 6.0,
+      "description": "Other Stuff - Halal. Braised beef cooked in Mexican adobo, corn tortillas, mozza cheese, cilantro, onions, and broth.",
+      "category": "OTHER",
+      "simplified_description": "Halal braised beef quesadilla with cheese, cilantro, onions, and broth.",
+      "dietary_info": [
+        "halal",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadilla",
+      "price": 17.0,
+      "description": "Other Stuff - (Halal) Choice of meat, Flour tortilla, Mozza Corn, Beans, Sour cream, Salsa, Cilantro, Onions",
+      "category": "OTHER",
+      "simplified_description": "Halal quesadilla with choice of meat, cheese, beans, and toppings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Burrito",
+      "price": 17.5,
+      "description": "Other Stuff - Choice of meat, flour tortilla, cheese, rice, pico, corn, beans, valentina mayo, salsa, and cilantro.",
+      "category": "OTHER",
+      "simplified_description": "Burrito with choice of meat, cheese, rice, beans, and toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chimichanga (Deep Fried Burrito)",
+      "price": 17.5,
+      "description": "Other Stuff - Choice of meat, flour tortilla, cheese, rice, pico, corn, beans, valentina mayo, salsa, and cilantro.",
+      "category": "OTHER",
+      "simplified_description": "Deep-fried burrito with choice of meat, cheese, rice, beans, and toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexi-platter",
+      "price": 17.75,
+      "description": "Other Stuff - Choice of meat, Rice, Feta, Tortillas, Refried Beans, Corn, Pico, Salad, Dressing, Chips Salsa.",
+      "category": "OTHER",
+      "simplified_description": "Platter with meat, rice, feta, tortillas, beans, salad, chips, and salsa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Don Taco Nachos",
+      "price": 13.75,
+      "description": "More Stuff - Homemade Chips, Mozza, Pico, Corn, Beans, Cilantro, Pickled jalapenos, Sour cream",
+      "category": "OTHER",
+      "simplified_description": "Nachos with homemade chips, cheese, pico, beans, jalapenos, and sour cream.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Taco Tater Tots",
+      "price": 13.25,
+      "description": "More Stuff - Tots, queso, cilantro, onions, beans, corn, jalapeños, valentina mayo and pico.",
+      "category": "OTHER",
+      "simplified_description": "Tater tots topped with queso, beans, jalapeños, mayo, and pico.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Taco Fries",
+      "price": 13.25,
+      "description": "More Stuff - Fries, queso, jalapenos, pico, corn, beans, cilantro, and sour cream.",
+      "category": "OTHER",
+      "simplified_description": "Fries topped with queso, jalapeños, beans, pico, and sour cream.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Churros",
+      "price": 7.25,
+      "description": "More Stuff - Deep-fried pastry, cinnamon, sugar, and chocolate sauce.",
+      "category": "OTHER",
+      "simplified_description": "Deep-fried pastry sticks coated with cinnamon sugar and served with chocolate sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single taco",
+      "price": 4.25,
+      "description": "More Stuff - Corn tortilla with your choice of meat, typically topped with onions and cilantro.",
+      "category": "OTHER",
+      "simplified_description": "One corn tortilla taco with choice of meat, onions, and cilantro.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese",
+      "price": 1.99,
+      "description": "More Stuff",
+      "category": "OTHER",
+      "simplified_description": "A serving of cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Guacamole",
+      "price": 1.99,
+      "description": "More Stuff",
+      "category": "OTHER",
+      "simplified_description": "Creamy avocado-based dip.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2Oz. Salsa",
+      "price": 0.5,
+      "description": "More Stuff - Tomatoes, garlic, red onions, jalapeños, cilantro, lime juice, cumin, and oregano.",
+      "category": "OTHER",
+      "simplified_description": "Fresh tomato salsa with spices and jalapeños.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "2oz. Habanero",
+      "price": 0.5,
+      "description": "More Stuff - Habanero peppers, typically combined with ingredients like carrots and mango, create a spicy and flavorful 2oz sauce.",
+      "category": "OTHER",
+      "simplified_description": "Spicy habanero sauce with carrots and mango.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "2Oz. Sour Cream",
+      "price": 0.5,
+      "description": "More Stuff - A 20-ounce container of creamy, tangy sour cream, ideal for enhancing tacos, nachos, or any savory dish.",
+      "category": "OTHER",
+      "simplified_description": "Creamy and tangy sour cream.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chips",
+      "price": 5.75,
+      "description": "More Stuff - Freshly fried corn tortilla chips, typically seasoned with sea salt.",
+      "category": "OTHER",
+      "simplified_description": "Crispy salted corn tortilla chips.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jar Salsa",
+      "price": 5.99,
+      "description": "More Stuff - House made salsa typically includes roasted tomatoes, onions, garlic, and jalapeños prepared and labeled in a jar.",
+      "category": "OTHER",
+      "simplified_description": "House-made roasted tomato salsa in a jar.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chips & Salsa",
+      "price": 8.99,
+      "description": "More Stuff - Crispy tortilla chips paired with zesty and freshly made salsa.",
+      "category": "OTHER",
+      "simplified_description": "Tortilla chips served with fresh salsa.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chips & Guacamole",
+      "price": 11.25,
+      "description": "More Stuff - Crisp, golden chips served with creamy, freshly mashed guacamole.",
+      "category": "OTHER",
+      "simplified_description": "Crispy chips served with fresh guacamole.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jar Guacamole",
+      "price": 8.99,
+      "description": "More Stuff - Guacamole: Fresh avocados mashed with tomatoes, onions, cilantro, jalapeños, and lime juice.",
+      "category": "OTHER",
+      "simplified_description": "Fresh guacamole with tomatoes and jalapeños.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese quesadilla",
+      "price": 9.99,
+      "description": "More Stuff - Melted Cheese in a Crispy Tortilla Fold",
+      "category": "OTHER",
+      "simplified_description": "Melted cheese inside a crispy folded tortilla.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice",
+      "price": 5.0,
+      "description": "More Stuff - Flavorful rice dish prepared to perfection, showcasing an ideal complement for any meal.",
+      "category": "OTHER",
+      "simplified_description": "Flavorful cooked rice, a perfect side dish.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Refried beans",
+      "price": 5.0,
+      "description": "More Stuff - Creamy, mashed beans, lightly seasoned and cooked till perfection.",
+      "category": "OTHER",
+      "simplified_description": "Creamy mashed beans, lightly seasoned.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Regular fries",
+      "price": 6.99,
+      "description": "More Stuff - Crispy golden fries, salted to perfection.",
+      "category": "OTHER",
+      "simplified_description": "Crispy salted golden fries.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fuego Salsa",
+      "price": 5.99,
+      "description": "More Stuff - A spicy salsa typically made with charred tomatoes, habanero peppers, cilantro, and onions.",
+      "category": "OTHER",
+      "simplified_description": "Spicy salsa with charred tomatoes and habaneros.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Queso sauce",
+      "price": 5.99,
+      "description": "More Stuff - A smooth blend of melted cheeses, typically including chiles and spices, ideal for pairing with your favorite Mexican dishes.",
+      "category": "OTHER",
+      "simplified_description": "Smooth melted cheese sauce with chiles and spices for Mexican dishes.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jarritos",
+      "price": 4.95,
+      "description": "Beverages - Mexico's classic, refreshing soda made with real fruit flavors and a touch of fizz.",
+      "category": "DRINK",
+      "simplified_description": "Classic Mexican soda with real fruit flavors and fizz.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Water (Horchata)",
+      "price": 4.95,
+      "description": "Beverages - Refreshing rice-based cinnamon beverage, a traditional Mexican delight.",
+      "category": "DRINK",
+      "simplified_description": "Sweet rice and cinnamon drink, traditional Mexican refreshment.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Coca-Cola",
+      "price": 4.95,
+      "description": "Beverages - Authentic Mexican Coca-Cola in traditional glass bottle.",
+      "category": "DRINK",
+      "simplified_description": "Authentic Mexican Coca-Cola served in a glass bottle.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Coca-Cola",
+      "price": 3.75,
+      "description": "Beverages - Classic cola with a distinct, refreshing taste and effervescent bubbles. Known for its crisp and sweet flavor.",
+      "category": "DRINK",
+      "simplified_description": "Classic cola with a crisp, sweet, and refreshing taste.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pop (can)",
+      "price": 2.25,
+      "description": "Beverages - Choice of popular sodas including Coke, Diet Coke, Sprite, Fanta, Ginger Ale, Root Beer, and Iced Tea.",
+      "category": "DRINK",
+      "simplified_description": "Variety of popular canned sodas and iced tea options.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "water",
+      "price": 2.25,
+      "description": "Beverages - Clear, refreshing bottled water.",
+      "category": "DRINK",
+      "simplified_description": "Clear and refreshing bottled water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

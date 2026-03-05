@@ -1,0 +1,637 @@
+{
+  "restaurant": "moxies",
+  "parsed_at": "2026-02-06T03:25:50.832346",
+  "item_count": 70,
+  "items": [
+    {
+      "name": "Big Life™ euro lager",
+      "price": null,
+      "description": "euro lager, Canada",
+      "category": "DRINK",
+      "simplified_description": "euro lager, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Big Life™ amber ale",
+      "price": null,
+      "description": "amber ale, Canada",
+      "category": "DRINK",
+      "simplified_description": "amber ale, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": null,
+      "description": "lager, Canada",
+      "category": "DRINK",
+      "simplified_description": "lager, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Moon",
+      "price": null,
+      "description": "wheat ale, Canada",
+      "category": "DRINK",
+      "simplified_description": "wheat ale, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Granville Island",
+      "price": null,
+      "description": "rotating tap, Vancouver",
+      "category": "DRINK",
+      "simplified_description": "rotating tap, Vancouver",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rotating Craft",
+      "price": null,
+      "description": "ask your server for details",
+      "category": "DRINK",
+      "simplified_description": "ask your server for details",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Madrí Excepcional",
+      "price": 13.0,
+      "description": "lager, Canada",
+      "category": "DRINK",
+      "simplified_description": "lager, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miller Lite",
+      "price": null,
+      "description": "pilsner, Canada",
+      "category": "DRINK",
+      "simplified_description": "pilsner, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken",
+      "price": 9.0,
+      "description": "pale lager, Netherlands",
+      "category": "DRINK",
+      "simplified_description": "pale lager, Netherlands",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten-free beer",
+      "price": null,
+      "description": "ask your server for details",
+      "category": "DRINK",
+      "simplified_description": "ask your server for details",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken 0.0",
+      "price": 8.0,
+      "description": "pale lager, non-alcoholic, Netherlands",
+      "category": "DRINK",
+      "simplified_description": "pale lager, non-alcoholic, Netherlands",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": null,
+      "description": "lager, Mexico",
+      "category": "DRINK",
+      "simplified_description": "lager, Mexico",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dos equis",
+      "price": null,
+      "description": "lager, Mexico",
+      "category": "DRINK",
+      "simplified_description": "lager, Mexico",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strongbow",
+      "price": null,
+      "description": "cider, United Kingdom",
+      "category": "DRINK",
+      "simplified_description": "cider, United Kingdom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Mint Mule",
+      "price": null,
+      "description": "(1.5oz) ketel one vodka, mango, mint, lemon & ginger beer",
+      "category": "DRINK",
+      "simplified_description": "(1.5oz) ketel one vodka, mango, mint, lemon & ginger beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosecco Paloma",
+      "price": 14.0,
+      "description": "(1.75oz) jose cuervo tradicional® blanco tequila, grapefruit & lime juice, agave syrup, santa margherita prosecco",
+      "category": "DRINK",
+      "simplified_description": "(1.75oz) jose cuervo tradicional® blanco tequila, grapefruit & lime juice, agave",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Martini",
+      "price": 5.0,
+      "description": "(1.5oz) ketel one vodka, galliano, coffee liqueur, espresso",
+      "category": "DRINK",
+      "simplified_description": "(1.5oz) ketel one vodka, galliano, coffee liqueur, espresso",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hidden Gem",
+      "price": null,
+      "description": "(2oz) bumbu rum, santa margherita prosecco, simple syrup, lime juice, fresh mint",
+      "category": "DRINK",
+      "simplified_description": "(2oz) bumbu rum, santa margherita prosecco, simple syrup, lime juice, fresh mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Woo Woo Tini",
+      "price": 14.0,
+      "description": "(2oz) twist on a classic cosmopolitan, absolut lime, peach liqueur, pomegranate, lime juice",
+      "category": "DRINK",
+      "simplified_description": "(2oz) twist on a classic cosmopolitan, absolut lime, peach liqueur, pomegranate,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "G & T",
+      "price": null,
+      "description": "(1oz) tanqueray gin, muddled fresh lime & lime leaves, tonic, frozen citrus",
+      "category": "DRINK",
+      "simplified_description": "(1oz) tanqueray gin, muddled fresh lime & lime leaves, tonic, frozen citrus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": null,
+      "description": "(1oz) smirnoff vodka, clamato",
+      "category": "DRINK",
+      "simplified_description": "(1oz) smirnoff vodka, clamato",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Peach Bellini",
+      "price": null,
+      "description": "(1oz) captain morgan rum, white peach purée, peach schnapps, sparkling wine, sangria",
+      "category": "DRINK",
+      "simplified_description": "(1oz) captain morgan rum, white peach purée, peach schnapps, sparkling wine, san",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lavender Lemonade",
+      "price": 14.0,
+      "description": "(1.5oz) tanqueray gin, lemon juice, lavender syrup, fresh cucumber & empress gin float",
+      "category": "DRINK",
+      "simplified_description": "(1.5oz) tanqueray gin, lemon juice, lavender syrup, fresh cucumber & empress gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Fashioned",
+      "price": 15.0,
+      "description": "(2oz) bearface Canadian whisky, brown sugar simple syrup, angostura & orange bitters",
+      "category": "DRINK",
+      "simplified_description": "(2oz) bearface Canadian whisky, brown sugar simple syrup, angostura & orange bit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeño margarita",
+      "price": 15.0,
+      "description": "(2oz) jose cuervo tradicional® blanco tequila, fresh jalapeños, lime & agave",
+      "category": "DRINK",
+      "simplified_description": "(2oz) jose cuervo tradicional® blanco tequila, fresh jalapeños, lime & agave",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Lime Margarita",
+      "price": 12.0,
+      "description": "(1oz) jose cuervo tradicional® blanco tequila, triple sec & lime",
+      "category": "DRINK",
+      "simplified_description": "(1oz) jose cuervo tradicional® blanco tequila, triple sec & lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Skinny Mango Margarita",
+      "price": 12.0,
+      "description": "(1oz) jose cuervo tradicional® blanco tequila, mango purée, agave syrup, jalapeño",
+      "category": "DRINK",
+      "simplified_description": "(1oz) jose cuervo tradicional® blanco tequila, mango purée, agave syrup, jalapeñ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CocoRita",
+      "price": null,
+      "description": "(1oz) jose cuervo tradicional® blanco tequila, lime juice, coconut purée, sprinkled with cinnamon",
+      "category": "DRINK",
+      "simplified_description": "(1oz) jose cuervo tradicional® blanco tequila, lime juice, coconut purée, sprink",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aperol Margarita",
+      "price": null,
+      "description": "(2oz) aperol, jose cuervo tradicional® blanco tequila, lime juice & mint",
+      "category": "DRINK",
+      "simplified_description": "(2oz) aperol, jose cuervo tradicional® blanco tequila, lime juice & mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rosé",
+      "price": 13.0,
+      "description": "rosé, chambord, fresh citrus & fruit",
+      "category": "DRINK",
+      "simplified_description": "rosé, chambord, fresh citrus & fruit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red",
+      "price": 13.0,
+      "description": "red wine, ruby port, fresh citrus & fruit",
+      "category": "DRINK",
+      "simplified_description": "red wine, ruby port, fresh citrus & fruit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grapefruit Bliss Spritz",
+      "price": 14.0,
+      "description": "(1.5oz) ruffino prosecco rosé, aperol, grapefruit juice, grapefruit soda",
+      "category": "DRINK",
+      "simplified_description": "(1.5oz) ruffino prosecco rosé, aperol, grapefruit juice, grapefruit soda",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aperol Spritz",
+      "price": 14.0,
+      "description": "(2oz) sparkling wine, aperol, soda",
+      "category": "DRINK",
+      "simplified_description": "(2oz) sparkling wine, aperol, soda",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tropic Thunder",
+      "price": 9.0,
+      "description": "Seedlip grove, passion fruit, citrus, chili lime rim",
+      "category": "DRINK",
+      "simplified_description": "Seedlip grove, passion fruit, citrus, chili lime rim",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Uptown Spritz",
+      "price": 9.0,
+      "description": "italian orange bitters, strawberries, ginger beer",
+      "category": "DRINK",
+      "simplified_description": "italian orange bitters, strawberries, ginger beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aēlo Aperitivo Spritz",
+      "price": 9.0,
+      "description": "(355ml) handcrafted in BC, often compared to an aperol spritz",
+      "category": "DRINK",
+      "simplified_description": "(355ml) handcrafted in BC, often compared to an aperol spritz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Virgin Caesar",
+      "price": 8.0,
+      "description": "clamato, spices",
+      "category": "DRINK",
+      "simplified_description": "clamato, spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Passion Grapefruit Mule",
+      "price": 9.0,
+      "description": "fresh rosemary, grapefruit juice, pineapple syrup, cold tea, ginger beer",
+      "category": "DRINK",
+      "simplified_description": "fresh rosemary, grapefruit juice, pineapple syrup, cold tea, ginger beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Express",
+      "price": 9.0,
+      "description": "pineapple simple syrup, fresh lemon, sparkling water",
+      "category": "DRINK",
+      "simplified_description": "pineapple simple syrup, fresh lemon, sparkling water",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky toffee pudding",
+      "price": 14.0,
+      "description": "served warm with candied pecans, buttery caramel sauce, whisky crème anglaise & french vanilla ice cream",
+      "category": "DESSERT",
+      "simplified_description": "served warm with candied pecans, buttery caramel sauce, whisky crème anglaise & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Sticky Toffee Pudding",
+      "price": 8.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churro Ice Cream Sandwich",
+      "price": 12.0,
+      "description": "house-made churros, french vanilla ice cream, cinnamon sugar",
+      "category": "DESSERT",
+      "simplified_description": "house-made churros, french vanilla ice cream, cinnamon sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dark Chocolate Torte",
+      "price": 13.0,
+      "description": "gluten-free, dark chocolate & espresso torte, fresh berries",
+      "category": "DESSERT",
+      "simplified_description": "gluten-free, dark chocolate & espresso torte, fresh berries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Key Lime Pie",
+      "price": 13.0,
+      "description": "with pecans & fresh whipped cream",
+      "category": "DESSERT",
+      "simplified_description": "with pecans & fresh whipped cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Chocolate Brownie",
+      "price": 13.0,
+      "description": "chocolate sauce, french vanilla ice cream & fresh whipped cream",
+      "category": "DESSERT",
+      "simplified_description": "chocolate sauce, french vanilla ice cream & fresh whipped cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bite Of Brownie",
+      "price": 8.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Toast",
+      "price": null,
+      "description": "brioche bread, syrup + fresh fruit",
+      "category": "KIDS DESSERT",
+      "simplified_description": "brioche bread, syrup + fresh fruit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Sandwich",
+      "price": null,
+      "description": "scrambled eggs, cheese & bacon with breakfast potatoes + brioche bun",
+      "category": "KIDS FOOD",
+      "simplified_description": "scrambled eggs, cheese & bacon with breakfast potatoes + brioche bun",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza",
+      "price": 14.0,
+      "description": "tomato sauce & cheese",
+      "category": "KIDS FOOD",
+      "simplified_description": "tomato sauce & cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta",
+      "price": 14.0,
+      "description": "creamy alfredo with tagliatelle noodles & grana padano + garlic baguette",
+      "category": "KIDS FOOD",
+      "simplified_description": "creamy alfredo with tagliatelle noodles & grana padano + garlic baguette",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeseburger & Fries",
+      "price": 15.0,
+      "description": "with ketchup",
+      "category": "KIDS FOOD",
+      "simplified_description": "with ketchup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 15.0,
+      "description": "served with fries",
+      "category": "KIDS FOOD",
+      "simplified_description": "served with fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken",
+      "price": 15.0,
+      "description": "jasmine rice & fresh seasonal vegetables",
+      "category": "KIDS FOOD",
+      "simplified_description": "jasmine rice & fresh seasonal vegetables",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Seared Salmon",
+      "price": 15.0,
+      "description": "jasmine rice & fresh seasonal vegetables",
+      "category": "KIDS FOOD",
+      "simplified_description": "jasmine rice & fresh seasonal vegetables",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bran or Blueberry Muffin",
+      "price": null,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Cereal",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Cereal",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toast",
+      "price": 4.0,
+      "description": "sourdough, multigrain or gluten-free",
+      "category": "SIDE",
+      "simplified_description": "sourdough, multigrain or gluten-free",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon",
+      "price": 5.0,
+      "description": "pork or turkey",
+      "category": "SIDE",
+      "simplified_description": "pork or turkey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Apple Sausage",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Toast",
+      "price": null,
+      "description": "toasted sourdough with guacamole, pico de gallo, corn salsa, feta cheese, sour cream & soft-boiled egg + fresh fruit",
+      "category": "FOOD",
+      "simplified_description": "toasted sourdough with guacamole, pico de gallo, corn salsa, feta cheese, sour c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Acai Bowl",
+      "price": null,
+      "description": "acai sorbet, fresh fruit, honey, yogurt, granola & coconut",
+      "category": "FOOD",
+      "simplified_description": "acai sorbet, fresh fruit, honey, yogurt, granola & coconut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Tacos",
+      "price": 17.0,
+      "description": "potato, egg, chorizo, salsa, avocado, feta cheese, served with tajin chips & guacamole",
+      "category": "FOOD",
+      "simplified_description": "potato, egg, chorizo, salsa, avocado, feta cheese, served with tajin chips & gua",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brioche French Toast",
+      "price": null,
+      "description": "brioche bread, 4 berry syrup + fresh whipped cream",
+      "category": "FOOD",
+      "simplified_description": "brioche bread, 4 berry syrup + fresh whipped cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Egg White Omelette",
+      "price": null,
+      "description": "spinach & arugula, mushrooms, onions, tomatoes, goat cheese, breakfast potatoes, choice of toast + fresh fruit",
+      "category": "FOOD",
+      "simplified_description": "spinach & arugula, mushrooms, onions, tomatoes, goat cheese, breakfast potatoes,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pancetta & Aged White Cheddar Benedict",
+      "price": null,
+      "description": "pancetta bacon, hollandaise, sliced tomatoes, english muffin, breakfast potatoes + fresh fruit",
+      "category": "FOOD",
+      "simplified_description": "pancetta bacon, hollandaise, sliced tomatoes, english muffin, breakfast potatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Farmer’s Hash",
+      "price": 22.0,
+      "description": "pancetta bacon, chicken apple sausage, pickled onions, roasted vegetables, poached eggs, hollandaise + breakfast potatoes",
+      "category": "FOOD",
+      "simplified_description": "pancetta bacon, chicken apple sausage, pickled onions, roasted vegetables, poach",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon & Aged White Cheddar Omelette",
+      "price": null,
+      "description": "with sautéed onions, breakfast potatoes, choice of toast + fresh fruit",
+      "category": "FOOD",
+      "simplified_description": "with sautéed onions, breakfast potatoes, choice of toast + fresh fruit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Breakfast",
+      "price": null,
+      "description": "three eggs, choice of chicken apple sausage or bacon with breakfast potatoes + choice of toast",
+      "category": "FOOD",
+      "simplified_description": "three eggs, choice of chicken apple sausage or bacon with breakfast potatoes + c",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

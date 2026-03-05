@@ -1,0 +1,340 @@
+{
+  "restaurant": "mumbaibites",
+  "parsed_at": "2026-02-06T03:28:22.681301",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "harred paneer cubes with pepper in smoky tomato masala sauce",
+      "price": 50.0,
+      "description": "harred paneer cubes with pepper in smoky tomato masala sauce",
+      "category": "FOOD",
+      "simplified_description": "harred paneer cubes with pepper in smoky tomato masala sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Korma",
+      "price": 45.0,
+      "description": "Vegetables simmered in rich cashew gravy finished with cream and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Vegetables simmered in rich cashew gravy finished with cream and cilantro",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 45.0,
+      "description": "Smoked tomato-onion gravy tossed with sweet peppers, bold spices, cilantro and your choice of protein",
+      "category": "FOOD",
+      "simplified_description": "Smoked tomato-onion gravy tossed with sweet peppers, bold spices, cilantro and y",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 45.0,
+      "description": "Paneer cooked with healthy nutritious spinach, garlic and Indian spices",
+      "category": "FOOD",
+      "simplified_description": "Paneer cooked with healthy nutritious spinach, garlic and Indian spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Butter Paneer",
+      "price": 50.0,
+      "description": "Spiced tomato butter sauce with a generous helping of cream and butter",
+      "category": "FOOD",
+      "simplified_description": "Spiced tomato butter sauce with a generous helping of cream and butter",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mumbai Butter Chicken",
+      "price": 50.0,
+      "description": "Spiced tomato butter sauce with a generous helping of cream and butter.",
+      "category": "FOOD",
+      "simplified_description": "Spiced tomato butter sauce with a generous helping of cream and butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala, Vindaloo, Korma, Kadhai, Palak, Coconut, Pyaza",
+      "price": 50.0,
+      "description": "Masala, Vindaloo, Korma, Kadhai, Palak, Coconut, Pyaza",
+      "category": "OTHER",
+      "simplified_description": "Masala, Vindaloo, Korma, Kadhai, Palak, Coconut, Pyaza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burrata Butter Chicken or Paneer",
+      "price": 65.0,
+      "description": "Boneless chicken tikka or Paneer tikka cooked in fenugreek Tomato butter gravy served with Burrata cheese.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken tikka or Paneer tikka cooked in fenugreek Tomato butter gravy s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Methi Malai Mutter",
+      "price": 50.0,
+      "description": "A creamy, rich dish of fenugreek leaves and peas, cooked in a flavorful gravy",
+      "category": "FOOD",
+      "simplified_description": "A creamy, rich dish of fenugreek leaves and peas, cooked in a flavorful gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Afghani Egg Curry",
+      "price": 65.0,
+      "description": "A rich curry featuring perfectly boiled eggs in a creamy, spiced Afghan-style gravy.",
+      "category": "FOOD",
+      "simplified_description": "A rich curry featuring perfectly boiled eggs in a creamy, spiced Afghan-style gr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken or Beef Rara",
+      "price": 65.0,
+      "description": "Tender chicken or beef simmered in a rich, flavorful gravy with aromatic spices.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken or beef simmered in a rich, flavorful gravy with aromatic spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Jeera",
+      "price": 50.0,
+      "description": "Boiled potatoes tossed in a fragrant tempering of cumin seeds (jeera) along with spices like turmeric, red chili powder, and coriander.",
+      "category": "FOOD",
+      "simplified_description": "Boiled potatoes tossed in a fragrant tempering of cumin seeds (jeera) along with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Baghdadi",
+      "price": 65.0,
+      "description": "Spicy tandoori chicken leg in a signature masala curry unlike you have ever tried before!!!",
+      "category": "FOOD",
+      "simplified_description": "Spicy tandoori chicken leg in a signature masala curry unlike you have ever trie",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 2.0,
+      "description": "Plain Naan",
+      "category": "SIDE",
+      "simplified_description": "Plain Naan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.5,
+      "description": "Butter Naan",
+      "category": "SIDE",
+      "simplified_description": "Butter Naan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.0,
+      "description": "Garlic Naan",
+      "category": "SIDE",
+      "simplified_description": "Garlic Naan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.0,
+      "description": "Tandoori Roti",
+      "category": "SIDE",
+      "simplified_description": "Tandoori Roti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Roti",
+      "price": 2.5,
+      "description": "Butter Roti",
+      "category": "SIDE",
+      "simplified_description": "Butter Roti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Biryani",
+      "price": 50.0,
+      "description": "Quintessential rice preparation blended with chef's special spices slow (Dum) cooked with mint & fried onion",
+      "category": "FOOD",
+      "simplified_description": "Quintessential rice preparation blended with chef's special spices slow (Dum) co",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 20.0,
+      "description": "Half Tray",
+      "category": "SIDE",
+      "simplified_description": "Half Tray",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 25.0,
+      "description": "Half Tray",
+      "category": "SIDE",
+      "simplified_description": "Half Tray",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 30.0,
+      "description": "Half Tray",
+      "category": "SIDE",
+      "simplified_description": "Half Tray",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saffron Rice",
+      "price": 30.0,
+      "description": "Half Tray",
+      "category": "SIDE",
+      "simplified_description": "Half Tray",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken/ Veg Momo",
+      "price": 50.0,
+      "description": "Deep fried/ Steam chicken or Veg momos garnish with cilantro served with Szhezwan mayo Chutney",
+      "category": "APPETIZER",
+      "simplified_description": "Deep fried/ Steam chicken or Veg momos garnish with cilantro served with Szhezwa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Spring Rolls",
+      "price": 40.0,
+      "description": "Exotic vegetables stuffed in a wonton wrapper, deep fried and served with Mumbai Chili Mayo",
+      "category": "APPETIZER",
+      "simplified_description": "Exotic vegetables stuffed in a wonton wrapper, deep fried and served with Mumbai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Manchurian (Chicken or Veg)",
+      "price": 45.0,
+      "description": "Deep fried Chicken or Veg balls served in our signature garlic-ginger sauce, this one is a crowd favorite",
+      "category": "APPETIZER",
+      "simplified_description": "Deep fried Chicken or Veg balls served in our signature garlic-ginger sauce, thi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Lollipop",
+      "price": 70.0,
+      "description": "Marinated wings in a secret spicy mixture, and batter fried. Tossed in fiery szechwan sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Marinated wings in a secret spicy mixture, and batter fried. Tossed in fiery sze",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken/Paneer Chili",
+      "price": 55.0,
+      "description": "Fiery battered Chicken/Paneer chunks in spicy chili, soy-garlic sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Fiery battered Chicken/Paneer chunks in spicy chili, soy-garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken or Paneer 65",
+      "price": 55.0,
+      "description": "Crispy battered chicken or paneer or cauliflower tossed with chef's special sauce with coconut and curry leaves",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy battered chicken or paneer or cauliflower tossed with chef's special sauc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg or Chicken Hakka Noodles",
+      "price": 50.0,
+      "description": "Wok tossed garlic noodles with colorful vegetables, sweet pepper or chicken and chili vinegar.",
+      "category": "FOOD",
+      "simplified_description": "Wok tossed garlic noodles with colorful vegetables, sweet pepper or chicken and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burnt Garlic Fried Rice (Veg/Chicken)",
+      "price": 50.0,
+      "description": "Roasted garlic flavored rice tossed with cubed chicken/chopped vegetables Make it Schezwan",
+      "category": "FOOD",
+      "simplified_description": "Roasted garlic flavored rice tossed with cubed chicken/chopped vegetables Make i",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Szhezwan Rice (Veg/Chicken)",
+      "price": 75.0,
+      "description": "Perfect combination of spicy rice, noodles with chicken or veg, served with delicious Szechwan gravy and omelet garnish",
+      "category": "FOOD",
+      "simplified_description": "Perfect combination of spicy rice, noodles with chicken or veg, served with deli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Manchurian Triple Rice (Veg/Chicken)",
+      "price": 75.0,
+      "description": "Milder version of the Triple Szechwan rice, served with Manchurian-style gravy on side and omelet garnish (Veg/Chicken)",
+      "category": "FOOD",
+      "simplified_description": "Milder version of the Triple Szechwan rice, served with Manchurian-style gravy o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun & Rice pudding Duet",
+      "price": 45.0,
+      "description": "Surreal combination of Gulab jamun paired & Rice pudding garnished with pistachios",
+      "category": "DESSERT",
+      "simplified_description": "Surreal combination of Gulab jamun paired & Rice pudding garnished with pistachi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nougat Rice Phirnee",
+      "price": 40.0,
+      "description": "Rich, soft and delicate rice pudding topped with peanut caramel crumble",
+      "category": "DESSERT",
+      "simplified_description": "Rich, soft and delicate rice pudding topped with peanut caramel crumble",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasmalai",
+      "price": 2.5,
+      "description": "Cottage cheese patties poached in a sweet cream, topped with pistachios (per piece)",
+      "category": "DESSERT",
+      "simplified_description": "Cottage cheese patties poached in a sweet cream, topped with pistachios (per pie",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 2.5,
+      "description": "Golden milk balls soaked in sweet saffron syrup, topped with pistachios and rose petal (per piece)",
+      "category": "DESSERT",
+      "simplified_description": "Golden milk balls soaked in sweet saffron syrup, topped with pistachios and rose",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

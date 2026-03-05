@@ -1,0 +1,425 @@
+{
+  "restaurant": "buchanans",
+  "parsed_at": "2026-02-06T01:17:31.949144",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "Spicy Cajun",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A spicy Cajun-flavored appetizer.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chef’s Choice",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "A special appetizer selected by the chef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wagyu Eye of Round with Ginger Lime Ponzu",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Wagyu beef served with ginger lime ponzu sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato/Sultana/Basil/Olive Oil",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Tomato, sultana, basil, and olive oil appetizer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Wrapped. Sweet Chili Glaze",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Bacon wrapped item with sweet chili glaze.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Whipped Butter.",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Smooth whipped butter.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheddar Mornay. Pork Belly",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Pork belly with cheddar mornay sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Dressing. Golden Beets",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Golden beets served with mango dressing.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Wasabi Caesar Vinaigrette, Bacon Bits, Herb Croutons with AAA Beef, Ahi Tuna or Grilled Chicken",
+      "price": null,
+      "description": "",
+      "category": "SALAD",
+      "simplified_description": "Salad with wasabi Caesar, bacon, croutons, and choice of meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buttermilk Ranch Candied Pecans, Bacon, Blue Cheese",
+      "price": null,
+      "description": "",
+      "category": "SALAD",
+      "simplified_description": "Salad with buttermilk ranch, candied pecans, bacon, and blue cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phil’s Hong Kong Hot Wings",
+      "price": null,
+      "description": "Salt & Pepper",
+      "category": "BAR",
+      "simplified_description": "Salt and pepper flavored Hong Kong style hot wings.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beer Battered with Wasabi Vinaigrete",
+      "price": null,
+      "description": "",
+      "category": "BAR",
+      "simplified_description": "Beer battered item served with wasabi vinaigrette.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AAA Alberta Beef. Sauteé Mushroom & Onion. Havarti. Chipotle Aioli",
+      "price": null,
+      "description": "",
+      "category": "BAR",
+      "simplified_description": "AAA Alberta beef with sautéed mushrooms, Havarti cheese, and chipotle aioli.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Maple Cheddar & House Mustard",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Dish with maple cheddar and house mustard.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroiled Angus Sirloin Classic Deluxe",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Charbroiled Angus sirloin steak classic deluxe style.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeño-Havarti & Roasted Red Onion",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Dish with spicy jalapeño, creamy Havarti cheese, and roasted red onion.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Toasted Baguette, Spinach, Onion Ring, Fries.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Toasted baguette served with spinach, onion rings, and fries.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Certified ‘AAA’ Alberta Angus Striploin. 10oz",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "10oz Alberta Angus striploin steak, certified AAA quality.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Benchmark Farms. Forrest Mushroom Demi-Glace.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Dish featuring mushrooms with a rich demi-glace sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Prime. Bone In House Cut. Tenderloin & Striploin – Meant to Share",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Bone-in tenderloin and striploin steak, perfect for sharing.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Dijon Herb Crust, Lamb Jus",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Lamb with a Dijon herb crust served with lamb jus sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroiled Chinook Salmon. Presentation Changes Daily",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Charbroiled Chinook salmon with daily changing presentation.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Presentation changes daily"
+    },
+    {
+      "name": "Lobster/Scallops/Prawns/Mussels with Jasmine Rice & Thai Red Curry Sauce.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Seafood medley with jasmine rice and spicy Thai red curry sauce.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Fettuccini, Spinach & Cajun Cream Sauce.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Fettuccini pasta with spinach in a spicy Cajun cream sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Fettuccini. Lobster/Clam/Scallops, White Wine Garlic Basil.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Fettuccini with lobster, clam, scallops in white wine garlic basil sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ancho Chili Crust. Lime Crema.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Dish with ancho chili crust and lime crema sauce.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "‘AAA’ Alberta Angus Tenderloin. 6oz",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "6oz tenderloin steak from AAA Alberta Angus beef.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Panko Crusted with Thai Chili Plum Aïoli",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Panko crusted dish served with spicy Thai chili plum aïoli.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Alberta AAA Center Cut Ribeye. 120z.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "12oz center cut ribeye steak from Alberta AAA beef.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pacific Red Snapper. Cajun Crusted. Creamy Crab Meat.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Cajun crusted Pacific red snapper topped with creamy crab meat.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "50 oz Alberta AAA Angus Long Bone Rib Chop.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "A large 50 oz rib chop of Alberta AAA Angus beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mint Chimichurri, Lemon Rosemay Orzo.",
+      "price": null,
+      "description": "",
+      "category": "MAINS",
+      "simplified_description": "Orzo pasta served with mint chimichurri and lemon rosemary.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "with Toffee Sauce & Chantilly Cream",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Dessert topped with toffee sauce and whipped Chantilly cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Dulce De Leche",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Sweet caramel dessert made with dulce de leche.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Three Layer Chocolate Mousse with Wild Berry Coulis.",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate mousse dessert with three layers and wild berry sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Whipped Cream",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Light and fluffy whipped cream topping.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

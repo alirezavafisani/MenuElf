@@ -1,0 +1,309 @@
+{
+  "restaurant": "the fat duck",
+  "parsed_at": "2025-12-25T04:24:23.062925",
+  "item_count": 33,
+  "items": [
+    {
+      "name": "Buttermilk Biscuits",
+      "price": 12,
+      "description": "aged cheddar, scallions",
+      "simplified_description": "Biscuits made with aged cheddar and scallions",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus",
+      "price": 19,
+      "description": "castelvetrano olives, piquillo peppers, pickled fresno chilies, olive oil, toasted sourdough",
+      "simplified_description": "Hummus served with olives, peppers, chilies, olive oil, and toasted bread",
+      "category": "Starters",
+      "dietary_info": [
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Meatballs",
+      "price": 16,
+      "description": "braised striploin, truffled whipped ricotta, toasted sourdough",
+      "simplified_description": "Meatballs made with braised striploin and truffle ricotta, served with toasted bread",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wagyu Carpaccio",
+      "price": 23,
+      "description": "grana padano, grainy mustard aioli, pickled shallots, arugula, grilled bread",
+      "simplified_description": "Thinly sliced Wagyu beef with cheese, mustard sauce, pickled shallots, arugula, and grilled bread",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ahi Tuna Tartare",
+      "price": 18.5,
+      "description": "ginger, avocado, secret sauce, made-to-order tortilla chips",
+      "simplified_description": "Tuna tartare with ginger, avocado, and a special sauce, served with fresh tortilla chips",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wok-Fired Calamari",
+      "price": 21,
+      "description": "garlic chili, charred lemon",
+      "simplified_description": "Calamari cooked with garlic chili and charred lemon",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Mashed Potatoes For Two",
+      "price": 28.5,
+      "description": "tarragon butter-poached lobster",
+      "simplified_description": "Mashed potatoes topped with lobster cooked in tarragon butter, serves two",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Duck Fat Fries",
+      "price": 13.75,
+      "description": "crispy garlic, rosemary",
+      "simplified_description": "Fries cooked in duck fat with garlic and rosemary",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Onion Soup",
+      "price": 15.5,
+      "description": "caramelized onion broth, crouton, bubbly gruyère",
+      "simplified_description": "Soup made with caramelized onions, topped with croutons and melted cheese",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Mushroom Salad",
+      "price": 19,
+      "description": "button mushrooms, cherry tomatoes, toasted hazelnuts, fresh greens, crispy truffle-infused poached egg, grana padano, sherry vinaigrette",
+      "simplified_description": "Salad with mushrooms, tomatoes, hazelnuts, greens, a poached egg, cheese, and vinaigrette",
+      "category": "Salads & Veggies",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baby Gem Caesar",
+      "price": 17.5,
+      "description": "pancetta, crispy parmesan breadcrumbs, creamy caesar dressing",
+      "simplified_description": "Caesar salad with pancetta, crispy cheese, and creamy dressing",
+      "category": "Salads & Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Farmhouse Greens",
+      "price": 14,
+      "description": "dijon and honey vinaigrette, pickled grapes, smoked cheddar",
+      "simplified_description": "Salad with greens, a honey mustard dressing, pickled grapes, and smoked cheese",
+      "category": "Salads & Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vinnie's Broccoli",
+      "price": 15,
+      "description": "truffle ranch, grana padano, lemon and a touch of heat",
+      "simplified_description": "Broccoli with truffle ranch dressing, cheese, lemon, and some spice",
+      "category": "Salads & Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crisp Brussels Sprouts",
+      "price": 13.5,
+      "description": "dijon, maple syrup",
+      "simplified_description": "Brussels sprouts with mustard and maple syrup",
+      "category": "Salads & Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lasagna Pinwheels",
+      "price": 31,
+      "description": "three baked meatballs, ricotta and spinach layers, parmesan cream sauce",
+      "simplified_description": "Lasagna rolled with meatballs, ricotta, spinach, and creamy cheese sauce",
+      "category": "Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rigatoni All'amatriciana",
+      "price": 23,
+      "description": "pork guanciale, tomato sugo, crushed chili peppers, pecorino romano cheese (recommended with braised meatballs)",
+      "simplified_description": "Pasta with pork, tomato sauce, chili peppers, and cheese, recommended with meatballs",
+      "category": "Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Spaghettini",
+      "price": 25.5,
+      "description": "garlic sautéed prawns, smoky tomato sauce, fresh basil",
+      "simplified_description": "Spaghetti with garlic prawns, smoky tomato sauce, and fresh basil",
+      "category": "Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Casarecce",
+      "price": 30,
+      "description": "creamy burrata, blistered tomatoes, grana padano, crushed pistachios",
+      "simplified_description": "Pasta with creamy cheese, roasted tomatoes, cheese, and pistachios",
+      "category": "Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Balsamic Braised Short Rib",
+      "price": 49,
+      "description": "mashed potatoes, asparagus, mushroom and bacon jus",
+      "simplified_description": "Short rib cooked in balsamic sauce, served with mashed potatoes and asparagus",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "price": 24,
+      "description": "sesame seed seasoned chicken breast, spicy 'venter' sauce, groceries, fries",
+      "simplified_description": "Chicken sandwich with sesame seasoning, spicy sauce, and fries",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SALTLIK Burger",
+      "price": 25.5,
+      "description": "doubled grilled onion patties, aged + american cheddars, roasted garlic aioli",
+      "simplified_description": "Burger with two grilled onion patties, aged and American cheese, and garlic aioli",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium Steak Sandwich 7oz CAB® Sirloin / 6oz Filet Mignon",
+      "price": 41,
+      "description": "garlic bread, gruyere cheese, horseradish aioli, sautéed mushrooms, red wine jus, fries",
+      "simplified_description": "Steak sandwich with garlic bread, cheese, horseradish sauce, mushrooms, and fries",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": "7oz sirloin or 6oz filet mignon"
+    },
+    {
+      "name": "Calabrian Grilled Chicken",
+      "price": 39,
+      "description": "grilled chicken breast, crispy potato pavé, roasted broccoli, calabrian chili oil + artichoke sauce",
+      "simplified_description": "Grilled chicken with crispy potatoes, broccoli, and spicy artichoke sauce",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Blackened Salmon",
+      "price": 36,
+      "description": "oven-dried tomatoes, green beans, fresh arugula, fried baby yukon potatoes, green goddess dressing",
+      "simplified_description": "Salmon with dried tomatoes, green beans, arugula, fried potatoes, and dressing",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Milanese",
+      "price": 45,
+      "description": "crispy pork chop, mashed potatoes, mustard & brown butter sauce, arugula salad",
+      "simplified_description": "Crispy pork chop with mashed potatoes, mustard sauce, and arugula salad",
+      "category": "Main Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Certified Angus Beef® Sirloin, 7oz",
+      "price": 42,
+      "description": "served with mashed potatoes + maple mustard brussels sprouts",
+      "simplified_description": "7oz sirloin steak served with mashed potatoes and Brussels sprouts",
+      "category": "Steaks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Filet Mignon, 6oz",
+      "price": 60,
+      "description": "served with mashed potatoes + maple mustard brussels sprouts",
+      "simplified_description": "6oz filet mignon served with mashed potatoes and Brussels sprouts",
+      "category": "Steaks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bone-In Ribeye, 16oz",
+      "price": 95,
+      "description": "served with mashed potatoes + maple mustard brussels sprouts",
+      "simplified_description": "16oz ribeye steak served with mashed potatoes and Brussels sprouts",
+      "category": "Steaks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Striploin, 12oz",
+      "price": 65,
+      "description": "served with mashed potatoes + maple mustard brussels sprouts",
+      "simplified_description": "12oz striploin steak served with mashed potatoes and Brussels sprouts",
+      "category": "Steaks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "\"Basque\" Cheesecake",
+      "price": 14,
+      "description": "mango, pineapple, coconut, passionfruit",
+      "simplified_description": "Cheesecake with mango, pineapple, coconut, and passionfruit",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Handmade Apple Pie",
+      "price": 14,
+      "description": "baked to order, almond crumble, caramel sauce & vanilla bean ice cream",
+      "simplified_description": "Apple pie baked fresh with almond crumble, caramel sauce, and ice cream",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky Toffee Pudding",
+      "price": 14,
+      "description": "vanilla bean ice cream & toffee sauce",
+      "simplified_description": "Pudding with vanilla ice cream and toffee sauce",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Molten Chocolate Cake",
+      "price": 14,
+      "description": "berry compote, vanilla bean ice cream",
+      "simplified_description": "Chocolate cake with berry sauce and vanilla ice cream",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

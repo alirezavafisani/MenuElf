@@ -1,0 +1,79 @@
+{
+  "restaurant": "redsdiner",
+  "parsed_at": "2025-12-25T03:42:26.266043",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Beef Brisket & Eggs",
+      "price": 24.89,
+      "description": "",
+      "simplified_description": "",
+      "category": "Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon & Brie Benny",
+      "price": 23.89,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bennies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Benny",
+      "price": 22.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bennies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pacific Benny",
+      "price": 23.89,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bennies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Toasted BLT",
+      "price": 18.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Grilled Cheese",
+      "price": 16.79,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry, Basil & Goat Cheese Stuffed French Toast",
+      "price": 23.89,
+      "description": "While visiting in Calgary, we decided to try Red's for brunch. I ordered the blueberry basil with goat cheese French toast. The subtle basil flavour along with the beautifully creamy goat cheese and sweet blueberries took this breakfast dish from delicious to out of this world! Highly recommend this breakfast dish.",
+      "simplified_description": "A unique French toast with blueberries, basil, and goat cheese.",
+      "category": "Hot off the Griddle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Made Soup in a Cup",
+      "price": 5,
+      "description": "Today's soup was a tomato chicken. A tiny hint of spice, thick creamy soup with lots of chicken. Great with a sandwich and would be great on its own as a small meal. I love a rich creamy tomato soup.",
+      "simplified_description": "A creamy tomato chicken soup, thick and flavorful.",
+      "category": "Soups & Greens",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

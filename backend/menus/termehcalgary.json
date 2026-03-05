@@ -1,0 +1,439 @@
+{
+  "restaurant": "termehcalgary",
+  "parsed_at": "2025-12-25T00:16:01.924557",
+  "item_count": 48,
+  "items": [
+    {
+      "name": "Appetizer platter",
+      "price": 43.5,
+      "description": "Olovieh, Kashk-e-bademjan, Parvarde, Mast-o-khiar served with pita bread\n- upgrade to fresh bread + $3",
+      "simplified_description": "A platter of various appetizers served with pita bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Upgrade option available"
+    },
+    {
+      "name": "Kashk-e-bademjan",
+      "price": 13.5,
+      "description": "Seasoned sautéed eggplants prepared with caramelized onion and sautéed mint, mixed with Kashk (yogurt whey), served with pita\n- upgrade to fresh bread + $1.50",
+      "simplified_description": "Sautéed eggplant dish served with pita bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Upgrade option available"
+    },
+    {
+      "name": "Mirza",
+      "price": 13.5,
+      "description": "Smoked eggplant mixed with tomatoes, fresh garlic and eggs, served with pita bread\n- upgrade to fresh bread + $1.50",
+      "simplified_description": "Smoked eggplant dish served with pita bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Upgrade option available"
+    },
+    {
+      "name": "Olovieh",
+      "price": 13.5,
+      "description": "Chicken salad made with potatoes, carrot, peas and egg, served with pita bread\n- upgrade to fresh bread + $1.50",
+      "simplified_description": "Chicken salad served with pita bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Upgrade option available"
+    },
+    {
+      "name": "Hummus",
+      "price": 8,
+      "description": "Cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. Served with pita bread\n- upgrade to fresh bread + $1.50",
+      "simplified_description": "Chickpea dip served with pita bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Upgrade option available"
+    },
+    {
+      "name": "Garden Salad",
+      "price": 10.5,
+      "description": "Combination of lettuce, tomato, carrot and cucumber with special house dressing",
+      "simplified_description": "A fresh salad with various vegetables",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shiraz Salad",
+      "price": 9.5,
+      "description": "Combination of fresh chopped cucumbers, tomatoes, parsley, onions with fresh lime juice",
+      "simplified_description": "A salad with cucumbers, tomatoes, and parsley",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 9.5,
+      "description": "Combination of romaine heart lettuce, croutons and our special Caesar dressing",
+      "simplified_description": "A classic Caesar salad with romaine and croutons",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tabbouleh",
+      "price": 9.5,
+      "description": "Finely chopped parsley, with tomatoes, mint, onion, bulgur, and seasoned with olive oil, lemon juice, salt and sweet pepper",
+      "simplified_description": "A parsley salad with tomatoes and bulgur",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kuku",
+      "price": 20,
+      "description": "Vegetable patties. Chopped vegetables mixed with walnuts. Served with Basmati Rice.\nMake it 1/2 Rice 1/2 Salad +$1, full salad +$2",
+      "simplified_description": "Vegetable patties served with rice",
+      "category": "Veggie Dishes",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Lamb Chenjeh",
+      "price": 30,
+      "description": "Specially marinated chunks of pure lamb skewered with bell pepper and onion. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Marinated lamb skewers served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Beef Torsh",
+      "price": 30,
+      "description": "Sour tenderloin fillet marinated with pomegranate sauce, walnuts and cashew. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Marinated beef fillet served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Beef Koobideh",
+      "price": 19,
+      "description": "Two skewers of juicy strips of charbroiled seasoned ground beef. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Ground beef skewers served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Special Beef Koobideh",
+      "price": 20.5,
+      "description": "House special single skewer of juicy strips of charbroiled seasoned ground beef mixed with a variety of nuts and barberries. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Special ground beef skewer served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Chicken Joujeh",
+      "price": 21,
+      "description": "Charbroiled marinated boneless chicken breast. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Marinated chicken breast served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Chicken Yogurt",
+      "price": 21,
+      "description": "Marinated boneless chicken thigh in house made yogurt. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Chicken thigh marinated in yogurt served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Chicken Koobideh",
+      "price": 19,
+      "description": "Two skewers of ground chicken mixed with special herbs and spices. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Ground chicken skewers served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Beef Barg Kabob",
+      "price": 28,
+      "description": "Beef striploin marinated in house special sauce. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Marinated beef striploin served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Lamb Loghmeh",
+      "price": 17.5,
+      "description": "160 g Marinated charbroiled skewer of ground lamb marinated with Persian saffron. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Ground lamb skewer served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Chicken Torsh",
+      "price": 30,
+      "description": "Our finest cut of chicken fillet, marinated with pomegranate sauce, walnuts and parsley. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Marinated chicken fillet served with rice and tomato",
+      "category": "Kabobs",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Koobideh & Joujeh (vaziri)",
+      "price": 27,
+      "description": "Combination of Beef Koobideh and Chicken Joujeh. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "simplified_description": "Combination of beef and chicken skewers served with rice and tomato",
+      "category": "Mix Kabob",
+      "dietary_info": [],
+      "other_info": "Upgrade options available"
+    },
+    {
+      "name": "Tour Of Persia (for Four)",
+      "price": 100,
+      "description": "One skewer of Torsh kabob, one skewer of Chenjeh kabob, one skewer of Yogurt joujeh, two skewers of Koobideh kabob, served with torshi, parvardeh and basmati rice for four people",
+      "simplified_description": "A large platter of various kabobs for four people",
+      "category": "Family Size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Termeh Platter (for Six)",
+      "price": 143,
+      "description": "Single skewer of Barg, Torsh, Chengeh, Special Beef Koobideh, Special Chicken Koobideh, Chicken Koobideh, Beef Koobideh, served with Torshi, Parvardeh and six plates of Basmati rice",
+      "simplified_description": "A large platter of various kabobs for six people",
+      "category": "Family Size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Joujeh Wrap",
+      "price": 14.5,
+      "description": "Chicken joujeh kabob, tomato, pickle, onion, parsley and house sauce. Wrapped with pita bread and served with fries.",
+      "simplified_description": "Chicken wrap with various toppings served with fries",
+      "category": "Hand Held",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Koobideh Wrap",
+      "price": 14.5,
+      "description": "Beef Koobideh kabob, tomato, pickle, onion, parsley and house made sauce. Wrapped with pita bread and served with fries.",
+      "simplified_description": "Beef wrap with various toppings served with fries",
+      "category": "Hand Held",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Koobideh Wrap",
+      "price": 12.5,
+      "description": "Chicken Koobideh kabob, tomato, pickle, onion, parsley and house made sauce. served with fries",
+      "simplified_description": "Chicken wrap with various toppings served with fries",
+      "category": "Hand Held",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ghormeh",
+      "price": 21,
+      "description": "Sautéed herbs and vegetables cooked with dried limes, stewed beef and kidney beans and special seasoning. Served with Basmati rice.",
+      "simplified_description": "A stew with herbs, beef, and kidney beans served with rice",
+      "category": "Stews",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Torshi",
+      "price": 6,
+      "description": "Combination of aged pickled vegetables",
+      "simplified_description": "A mix of pickled vegetables",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Parvardeh",
+      "price": 8,
+      "description": "Persian olive dip (Olive, Pomegranate & Walnut)",
+      "simplified_description": "A dip made from olives, pomegranate, and walnuts",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mast-o-khiar",
+      "price": 7.5,
+      "description": "House yogurt and chopped cucumber with mint",
+      "simplified_description": "Yogurt dip with cucumber and mint",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 7,
+      "description": "",
+      "simplified_description": "French fries",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Persian Black Tea",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "Traditional Persian black tea",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Persian Black Tea Pot",
+      "price": 25,
+      "description": "(Serves up to six)",
+      "simplified_description": "A pot of Persian black tea for multiple servings",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Tea Bag",
+      "price": 5,
+      "description": "(serves two)",
+      "simplified_description": "A tea bag for two servings of black tea",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea Bag",
+      "price": 5,
+      "description": "(serves two)",
+      "simplified_description": "A tea bag for two servings of green tea",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "Traditional green tea",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quince & Cinnamon Tea",
+      "price": 6,
+      "description": "",
+      "simplified_description": "Tea flavored with quince and cinnamon",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Blossom Tea",
+      "price": 6,
+      "description": "",
+      "simplified_description": "Tea flavored with orange blossom",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hibiscus Tea",
+      "price": 6,
+      "description": "",
+      "simplified_description": "Hibiscus flavored tea",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloysia",
+      "price": 6,
+      "description": "",
+      "simplified_description": "Tea made from Aloysia herb",
+      "category": "Teas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drink",
+      "price": 3,
+      "description": "",
+      "simplified_description": "A variety of soft drinks",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Termeh Yogurt Drink",
+      "price": 5,
+      "description": "",
+      "simplified_description": "A yogurt-based drink",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Yogurt Drink",
+      "price": 4,
+      "description": "",
+      "simplified_description": "A bottled yogurt-based drink",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Non-Alcoholic Malt Drink",
+      "price": 5,
+      "description": "",
+      "simplified_description": "A non-alcoholic malt beverage",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lubia Polow (Mondays)",
+      "price": 17,
+      "description": "Beef and green bean rice",
+      "simplified_description": "Rice dish with beef and green beans",
+      "category": "Dish Of The Day",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Persian Style Cutlet (Wednesdays)",
+      "price": 17,
+      "description": "Three Beef patties, freshly cut fries, tomato and fresh Taftoon bread",
+      "simplified_description": "Beef patties served with fries and bread",
+      "category": "Dish Of The Day",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tahchin",
+      "price": 20,
+      "description": "Saffron rice cake mixed with chicken and barberries.",
+      "simplified_description": "Saffron rice cake with chicken and barberries",
+      "category": "Dish Of The Day",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shank (Friday, Saturday, Sunday)",
+      "price": 23,
+      "description": "Famous Persian dish containing dill rice with fava beans served with oven-cooked lamb shank",
+      "simplified_description": "Lamb shank served with dill rice and fava beans",
+      "category": "Dish Of The Day",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

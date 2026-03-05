@@ -1,0 +1,79 @@
+{
+  "restaurant": "bostonpizza",
+  "parsed_at": "2026-02-06T01:12:50.858663",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "$7 BEERS & SIDELINE SHAREABLES EVERY GAME DAY AT BP",
+      "price": 7.0,
+      "description": "Football at BP just got better! Catch the game with us and enjoy great deals on food, drinks and the chance to win weekly prizes.",
+      "category": "DRINK",
+      "simplified_description": "Enjoy $7 beers and shareable snacks during every game day at Boston Pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$1 WINGS DURING MONTREAL GAMES",
+      "price": 1.0,
+      "description": "If you're a fan of wings and love cheering on Montreal, we've got an unbeatable deal for you! Enjoy wings for just $1 each during every Montreal game this season.",
+      "category": "FOOD",
+      "simplified_description": "Get chicken wings for $1 each during Montreal games this season.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "THE BEST HOUR OF THE DAY IS HERE",
+      "price": 5.0,
+      "description": "It's time for BP's Appy Hour! Dive into our mouthwatering selection of apps and shareables, paired perfectly with your favourite drink starting at only $5. Just check with your BP for more information about your local Appy Hour!",
+      "category": "APPETIZER",
+      "simplified_description": "Enjoy discounted appetizers and drinks during BP's Appy Hour.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "SPECIALS EVERY DAY OF THE WEEK AT BOSTON PIZZA",
+      "price": null,
+      "description": "Pizza Monday. Pasta Tuesday. Wing Wednesday. No matter what day you stop by, Boston Pizza’s got a Daily Special with your name on it. Every single day!",
+      "category": "OTHER",
+      "simplified_description": "Daily specials on pizza, pasta, and wings every day of the week.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DAILY SPECIALS AT BOSTON PIZZA",
+      "price": null,
+      "description": "Pizza. Pasta. Wings. No matter what day you stop by, Boston Pizza’s got a Daily Special with your name on it!",
+      "category": "OTHER",
+      "simplified_description": "Daily specials on pizza, pasta, and wings available every day.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAL DEALS STARTING AT $19.99",
+      "price": 19.99,
+      "description": "Need to satisfy everyone's cravings? We've got Meal Deals for the entire crew!",
+      "category": "FOOD",
+      "simplified_description": "Meal deals designed to satisfy groups, starting at $19.99.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "GET 50% OFF YOUR SECOND PIZZA",
+      "price": null,
+      "description": "Buy any medium or large pizza and get your second medium or large for half the price!",
+      "category": "FOOD",
+      "simplified_description": "Buy one medium or large pizza, get the second at half price.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PASTA TUESDAY STARTING AT $11.99",
+      "price": 11.99,
+      "description": "Get one of our gourmet pasta dishes or create your own masterpiece for as low as $11.99.",
+      "category": "FOOD",
+      "simplified_description": "Enjoy gourmet or custom pasta dishes starting at $11.99 on Tuesdays.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    }
+  ]
+}

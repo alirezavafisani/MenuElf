@@ -1,0 +1,736 @@
+{
+  "restaurant": "tonickitchen",
+  "parsed_at": "2026-02-06T04:38:47.801724",
+  "item_count": 81,
+  "items": [
+    {
+      "name": "chateau timberlay bordeaux, France",
+      "price": 10.0,
+      "description": "#### chateau timberlay bordeaux, France",
+      "category": "DRINK",
+      "simplified_description": "#### chateau timberlay bordeaux, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cono sur, organic pinot noir, Chile",
+      "price": 10.5,
+      "description": "#### cono sur, organic pinot noir, Chile",
+      "category": "DRINK",
+      "simplified_description": "#### cono sur, organic pinot noir, Chile",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cotes du rhone, grenache syrah, France",
+      "price": 9.75,
+      "description": "#### cotes du rhone, grenache syrah, France",
+      "category": "DRINK",
+      "simplified_description": "#### cotes du rhone, grenache syrah, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "gabbiano, chianti DOCG, Italy",
+      "price": 9.75,
+      "description": "#### gabbiano, chianti DOCG, Italy",
+      "category": "DRINK",
+      "simplified_description": "#### gabbiano, chianti DOCG, Italy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "graffigna, cabernet sauvignon, Argentina",
+      "price": 50.0,
+      "description": "#### graffigna, cabernet sauvignon, Argentina",
+      "category": "DRINK",
+      "simplified_description": "#### graffigna, cabernet sauvignon, Argentina",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "lesh hauts de barville chateaunef du pape, red blend",
+      "price": 99.0,
+      "description": "#### lesh hauts de barville chateaunef du pape, red blend",
+      "category": "DRINK",
+      "simplified_description": "#### lesh hauts de barville chateaunef du pape, red blend",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "levorato merlot, Italy",
+      "price": 9.5,
+      "description": "#### levorato merlot, Italy",
+      "category": "DRINK",
+      "simplified_description": "#### levorato merlot, Italy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "lindemans shiraz, Australia",
+      "price": 8.5,
+      "description": "#### lindemans shiraz, Australia",
+      "category": "DRINK",
+      "simplified_description": "#### lindemans shiraz, Australia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "pelee inland, pinot noir, Canada",
+      "price": 8.75,
+      "description": "#### pelee inland, pinot noir, Canada",
+      "category": "DRINK",
+      "simplified_description": "#### pelee inland, pinot noir, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "santa carolina, cabernet sauvignon reserva, Chile",
+      "price": 11.5,
+      "description": "#### santa carolina, cabernet sauvignon reserva, Chile",
+      "category": "DRINK",
+      "simplified_description": "#### santa carolina, cabernet sauvignon reserva, Chile",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cotes du rhone, viognier, France",
+      "price": 9.75,
+      "description": "#### cotes du rhone, viognier, France",
+      "category": "DRINK",
+      "simplified_description": "#### cotes du rhone, viognier, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "fantini, pinot grigio, Italy",
+      "price": 8.5,
+      "description": "#### fantini, pinot grigio, Italy",
+      "category": "DRINK",
+      "simplified_description": "#### fantini, pinot grigio, Italy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "kim crawford, sauvignon blanc, New Zealand",
+      "price": 15.0,
+      "description": "#### kim crawford, sauvignon blanc, New Zealand",
+      "category": "DRINK",
+      "simplified_description": "#### kim crawford, sauvignon blanc, New Zealand",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "landlust, riesling med dry, Germany",
+      "price": 9.5,
+      "description": "#### landlust, riesling med dry, Germany",
+      "category": "DRINK",
+      "simplified_description": "#### landlust, riesling med dry, Germany",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "levorato, pinot grigio, Italy",
+      "price": 9.0,
+      "description": "#### levorato, pinot grigio, Italy",
+      "category": "DRINK",
+      "simplified_description": "#### levorato, pinot grigio, Italy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "lindeman’s chardonnay, Australia",
+      "price": 8.5,
+      "description": "#### lindeman’s chardonnay, Australia",
+      "category": "DRINK",
+      "simplified_description": "#### lindeman’s chardonnay, Australia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "masi serego, white blend, Italy",
+      "price": 10.5,
+      "description": "#### masi serego, white blend, Italy",
+      "category": "DRINK",
+      "simplified_description": "#### masi serego, white blend, Italy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "pelee island, chardonnay, Canada",
+      "price": 8.75,
+      "description": "#### pelee island, chardonnay, Canada",
+      "category": "DRINK",
+      "simplified_description": "#### pelee island, chardonnay, Canada",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "santa carolina, sauvignon blanc reserva, Chile",
+      "price": 10.0,
+      "description": "#### santa carolina, sauvignon blanc reserva, Chile",
+      "category": "DRINK",
+      "simplified_description": "#### santa carolina, sauvignon blanc reserva, Chile",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "toso estate, chardonnay, Argentina",
+      "price": 70.0,
+      "description": "#### toso estate, chardonnay, Argentina",
+      "category": "DRINK",
+      "simplified_description": "#### toso estate, chardonnay, Argentina",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "beringer, white zinfandel, California",
+      "price": 8.0,
+      "description": "#### beringer, white zinfandel, California",
+      "category": "DRINK",
+      "simplified_description": "#### beringer, white zinfandel, California",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "veuve du vernay, brut, France",
+      "price": 8.0,
+      "description": "#### veuve du vernay, brut, France",
+      "category": "DRINK",
+      "simplified_description": "#### veuve du vernay, brut, France",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "mangilli prosecco extra dry, Italy",
+      "price": 8.0,
+      "description": "#### mangilli prosecco extra dry, Italy",
+      "category": "DRINK",
+      "simplified_description": "#### mangilli prosecco extra dry, Italy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "veuve clicquot, brut champagne",
+      "price": 150.0,
+      "description": "#### veuve clicquot, brut champagne",
+      "category": "DRINK",
+      "simplified_description": "#### veuve clicquot, brut champagne",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "local craft beer",
+      "price": 7.25,
+      "description": "#### local craft beer",
+      "category": "DRINK",
+      "simplified_description": "#### local craft beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "domestic",
+      "price": 7.5,
+      "description": "#### domestic",
+      "category": "DRINK",
+      "simplified_description": "#### domestic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "imported",
+      "price": 8.0,
+      "description": "#### imported",
+      "category": "DRINK",
+      "simplified_description": "#### imported",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "somersby",
+      "price": 8.0,
+      "description": "#### somersby",
+      "category": "DRINK",
+      "simplified_description": "#### somersby",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "zero proof beer/wine/cocktail",
+      "price": 8.0,
+      "description": "#### zero proof beer/wine/cocktail",
+      "category": "DRINK",
+      "simplified_description": "#### zero proof beer/wine/cocktail",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "coffee | tea (ask server for selections)",
+      "price": 3.75,
+      "description": "#### coffee | tea (ask server for selections)",
+      "category": "DRINK",
+      "simplified_description": "#### coffee | tea (ask server for selections)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "soft drinks",
+      "price": 3.75,
+      "description": "#### soft drinks",
+      "category": "DRINK",
+      "simplified_description": "#### soft drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "san pellegrino",
+      "price": 7.75,
+      "description": "#### san pellegrino",
+      "category": "DRINK",
+      "simplified_description": "#### san pellegrino",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aviation",
+      "price": 15.0,
+      "description": "#### Aviation",
+      "category": "DRINK",
+      "simplified_description": "#### Aviation",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bertha's",
+      "price": 10.0,
+      "description": "#### Bertha's",
+      "category": "DRINK",
+      "simplified_description": "#### Bertha's",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bluecoat",
+      "price": 10.0,
+      "description": "#### Bluecoat",
+      "category": "DRINK",
+      "simplified_description": "#### Bluecoat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bombay Sapphire",
+      "price": 9.0,
+      "description": "#### Bombay Sapphire",
+      "category": "DRINK",
+      "simplified_description": "#### Bombay Sapphire",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boodles British",
+      "price": 8.0,
+      "description": "#### Boodles British",
+      "category": "DRINK",
+      "simplified_description": "#### Boodles British",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Briuchladdich Botanist",
+      "price": 9.0,
+      "description": "#### Briuchladdich Botanist",
+      "category": "DRINK",
+      "simplified_description": "#### Briuchladdich Botanist",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broker’s",
+      "price": 8.0,
+      "description": "#### Broker’s",
+      "category": "DRINK",
+      "simplified_description": "#### Broker’s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bull Dog London",
+      "price": 8.0,
+      "description": "#### Bull Dog London",
+      "category": "DRINK",
+      "simplified_description": "#### Bull Dog London",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dillons Unfiltered",
+      "price": 8.0,
+      "description": "#### Dillons Unfiltered",
+      "category": "DRINK",
+      "simplified_description": "#### Dillons Unfiltered",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eau Claire Distillery",
+      "price": 8.0,
+      "description": "#### Eau Claire Distillery",
+      "category": "DRINK",
+      "simplified_description": "#### Eau Claire Distillery",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Edinburg",
+      "price": 7.0,
+      "description": "#### Edinburg",
+      "category": "DRINK",
+      "simplified_description": "#### Edinburg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Empress",
+      "price": 10.0,
+      "description": "#### Empress",
+      "category": "DRINK",
+      "simplified_description": "#### Empress",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Empress Elderflower Rose",
+      "price": 10.0,
+      "description": "#### Empress Elderflower Rose",
+      "category": "DRINK",
+      "simplified_description": "#### Empress Elderflower Rose",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gambit Gin",
+      "price": 8.0,
+      "description": "#### Gambit Gin",
+      "category": "DRINK",
+      "simplified_description": "#### Gambit Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gin Mare",
+      "price": 9.0,
+      "description": "#### Gin Mare",
+      "category": "DRINK",
+      "simplified_description": "#### Gin Mare",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glendalough Wild",
+      "price": 9.0,
+      "description": "#### Glendalough Wild",
+      "category": "DRINK",
+      "simplified_description": "#### Glendalough Wild",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GNU",
+      "price": 8.0,
+      "description": "#### GNU",
+      "category": "DRINK",
+      "simplified_description": "#### GNU",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gun Powder irish",
+      "price": 10.0,
+      "description": "#### Gun Powder irish",
+      "category": "DRINK",
+      "simplified_description": "#### Gun Powder irish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hendricks",
+      "price": 10.0,
+      "description": "#### Hendricks",
+      "category": "DRINK",
+      "simplified_description": "#### Hendricks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nikka Coffey",
+      "price": 10.0,
+      "description": "#### Nikka Coffey",
+      "category": "DRINK",
+      "simplified_description": "#### Nikka Coffey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "No 3 London Dry",
+      "price": 10.0,
+      "description": "#### No 3 London Dry",
+      "category": "DRINK",
+      "simplified_description": "#### No 3 London Dry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Raj",
+      "price": 10.0,
+      "description": "#### Old Raj",
+      "category": "DRINK",
+      "simplified_description": "#### Old Raj",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plymouth Gin",
+      "price": 10.0,
+      "description": "#### Plymouth Gin",
+      "category": "DRINK",
+      "simplified_description": "#### Plymouth Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rivo Foraged",
+      "price": 12.0,
+      "description": "#### Rivo Foraged",
+      "category": "DRINK",
+      "simplified_description": "#### Rivo Foraged",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roku",
+      "price": 10.0,
+      "description": "#### Roku",
+      "category": "DRINK",
+      "simplified_description": "#### Roku",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Romeo",
+      "price": 8.0,
+      "description": "#### Romeo",
+      "category": "DRINK",
+      "simplified_description": "#### Romeo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saffron",
+      "price": 10.0,
+      "description": "#### Saffron",
+      "category": "DRINK",
+      "simplified_description": "#### Saffron",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tanqueray",
+      "price": 9.0,
+      "description": "#### Tanqueray",
+      "category": "DRINK",
+      "simplified_description": "#### Tanqueray",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ungava Gin",
+      "price": 10.0,
+      "description": "#### Ungava Gin",
+      "category": "DRINK",
+      "simplified_description": "#### Ungava Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Life Gin",
+      "price": 8.0,
+      "description": "#### Wild Life Gin",
+      "category": "DRINK",
+      "simplified_description": "#### Wild Life Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Absolut",
+      "price": 9.0,
+      "description": "#### Absolut",
+      "category": "DRINK",
+      "simplified_description": "#### Absolut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Belvedere",
+      "price": 10.0,
+      "description": "#### Belvedere",
+      "category": "DRINK",
+      "simplified_description": "#### Belvedere",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boyd & Blair",
+      "price": 10.0,
+      "description": "#### Boyd & Blair",
+      "category": "DRINK",
+      "simplified_description": "#### Boyd & Blair",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chopin, Gluten Free",
+      "price": 8.0,
+      "description": "#### Chopin, Gluten Free",
+      "category": "DRINK",
+      "simplified_description": "#### Chopin, Gluten Free",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crystal Head",
+      "price": 9.0,
+      "description": "#### Crystal Head",
+      "category": "DRINK",
+      "simplified_description": "#### Crystal Head",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dillon’s 95",
+      "price": 8.0,
+      "description": "#### Dillon’s 95",
+      "category": "DRINK",
+      "simplified_description": "#### Dillon’s 95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Effen",
+      "price": 10.0,
+      "description": "#### Effen",
+      "category": "DRINK",
+      "simplified_description": "#### Effen",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Finlandia",
+      "price": 8.0,
+      "description": "#### Finlandia",
+      "category": "DRINK",
+      "simplified_description": "#### Finlandia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grey Goose",
+      "price": 10.0,
+      "description": "#### Grey Goose",
+      "category": "DRINK",
+      "simplified_description": "#### Grey Goose",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Haku",
+      "price": 10.0,
+      "description": "#### Haku",
+      "category": "DRINK",
+      "simplified_description": "#### Haku",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kettle One Vodka",
+      "price": 9.0,
+      "description": "#### Kettle One Vodka",
+      "category": "DRINK",
+      "simplified_description": "#### Kettle One Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Luksusowa, Gluten-Free",
+      "price": 7.0,
+      "description": "#### Luksusowa, Gluten-Free",
+      "category": "DRINK",
+      "simplified_description": "#### Luksusowa, Gluten-Free",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Siderit",
+      "price": 10.0,
+      "description": "#### Siderit",
+      "category": "DRINK",
+      "simplified_description": "#### Siderit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Siku Glacier",
+      "price": 8.0,
+      "description": "#### Siku Glacier",
+      "category": "DRINK",
+      "simplified_description": "#### Siku Glacier",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Skyy",
+      "price": 7.0,
+      "description": "#### Skyy",
+      "category": "DRINK",
+      "simplified_description": "#### Skyy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stolichnaya Elit",
+      "price": 9.0,
+      "description": "#### Stolichnaya Elit",
+      "category": "DRINK",
+      "simplified_description": "#### Stolichnaya Elit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Point Vodka",
+      "price": 8.0,
+      "description": "#### Three Point Vodka",
+      "category": "DRINK",
+      "simplified_description": "#### Three Point Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tito's",
+      "price": 10.0,
+      "description": "#### Tito's",
+      "category": "DRINK",
+      "simplified_description": "#### Tito's",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "42 Below",
+      "price": 8.0,
+      "description": "#### 42 Below",
+      "category": "DRINK",
+      "simplified_description": "#### 42 Below",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

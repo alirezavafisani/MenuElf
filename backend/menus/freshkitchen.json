@@ -1,0 +1,641 @@
+{
+  "restaurant": "freshkitchen",
+  "parsed_at": "2026-02-06T02:18:57.060365",
+  "item_count": 60,
+  "items": [
+    {
+      "name": "European Sandwiches – Veggie Club",
+      "price": 16.95,
+      "description": "European Sandwiches - Veggie Club quantity",
+      "category": "FOOD",
+      "simplified_description": "A sandwich with assorted fresh vegetables and club-style fillings.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "European Sandwiches – Turkey Club",
+      "price": 16.95,
+      "description": "European Sandwiches - Turkey Club quantity",
+      "category": "FOOD",
+      "simplified_description": "A sandwich with turkey and classic club sandwich ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "European Sandwiches – Italian Trio",
+      "price": 16.95,
+      "description": "European Sandwiches - Italian Trio quantity",
+      "category": "FOOD",
+      "simplified_description": "A sandwich featuring three types of Italian meats and cheeses.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wraps – Baja Chicken",
+      "price": 16.95,
+      "description": "Wraps - Baja Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "A wrap filled with seasoned Baja-style chicken and fresh ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wraps – Veggie Supreme",
+      "price": 16.95,
+      "description": "Wraps - Veggie Supreme quantity",
+      "category": "FOOD",
+      "simplified_description": "A wrap packed with a variety of fresh vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wraps – Chef Salad",
+      "price": 16.95,
+      "description": "Wraps - Chef Salad quantity",
+      "category": "FOOD",
+      "simplified_description": "A wrap containing a classic chef salad mix with meats and veggies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wraps – Thai Chicken",
+      "price": 16.95,
+      "description": "Wraps - Thai Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "A wrap with chicken and Thai-inspired flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GF – Classic Sandwiches – Chicken Salad",
+      "price": 18.95,
+      "description": "GF - Classic Sandwiches - Chicken Salad quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with chicken salad filling.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – Classic Sandwiches – Black Forest Ham and Swiss",
+      "price": 18.95,
+      "description": "GF - Classic Sandwiches - Black Forest Ham and Swiss quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with Black Forest ham and Swiss cheese.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – Classic Sandwiches – Tuna Salad",
+      "price": 18.95,
+      "description": "GF - Classic Sandwiches - Tuna Salad quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich filled with tuna salad.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – Classic Sandwiches – Smoked Turkey & Cranberry",
+      "price": 18.95,
+      "description": "GF - Classic Sandwiches - Smoked Turkey & Cranberry quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with smoked turkey and cranberry sauce.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – Classic Sandwiches – Roast Beef",
+      "price": 18.95,
+      "description": "GF - Classic Sandwiches - Roast Beef quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with roast beef filling.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – European Sandwiches – Chicken & Brie",
+      "price": 18.95,
+      "description": "GF - European Sandwiches - Chicken & Brie quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with chicken and Brie cheese.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – European Sandwiches – Veggie Club",
+      "price": 18.95,
+      "description": "GF - European Sandwiches - Veggie Club quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with assorted fresh vegetables and club fillings.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – European Sandwiches – Italian Trio",
+      "price": 18.95,
+      "description": "GF - European Sandwiches - Italian Trio quantity",
+      "category": "FOOD",
+      "simplified_description": "A gluten-free sandwich with three types of Italian meats and cheeses.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GF – European Sandwiches – Turkey Club",
+      "price": 18.95,
+      "description": "GF - European Sandwiches - Turkey Club quantity",
+      "category": "FOOD",
+      "simplified_description": "Gluten-free turkey club sandwich with European style ingredients.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegan Sandwich/Wrap – Chef Select",
+      "price": 18.95,
+      "description": "Vegan Sandwich/Wrap - Chef Select quantity",
+      "category": "FOOD",
+      "simplified_description": "A chef-selected vegan sandwich or wrap.",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Summer Slaw – LARGE",
+      "price": 42.95,
+      "description": "Summer Slaw - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large portion of summer slaw salad.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Summer Slaw – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Summer Slaw - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of summer slaw salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Beet Salad – LARGE",
+      "price": 42.95,
+      "description": "Roasted Beet Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large roasted beet salad portion.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Roasted Beet Salad – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Roasted Beet Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual roasted beet salad serving.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranian Orzo Salad – LARGE",
+      "price": 42.95,
+      "description": "Mediterranian Orzo Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large Mediterranean orzo pasta salad.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Mediterranean Orzo Salad – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Mediterranean Orzo Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual Mediterranean orzo pasta salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Quinoa Salad – LARGE",
+      "price": 42.95,
+      "description": "Mediterranean Quinoa Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large Mediterranean quinoa salad portion.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Mediterranean Quinoa Salad – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Mediterranean Quinoa Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual Mediterranean quinoa salad serving.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Potato Salad – LARGE",
+      "price": 42.95,
+      "description": "Loaded Potato Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large portion of loaded potato salad.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Loaded Potato Salad – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Loaded Potato Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of loaded potato salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Insalata Caprese Deli Salad – LARGE",
+      "price": 42.95,
+      "description": "Insalata Caprese Deli Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large Caprese salad with fresh mozzarella and tomatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Insalata Caprese Deli Salad – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Insalata Caprese Deli Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual Caprese salad with fresh mozzarella and tomatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad – LARGE",
+      "price": 42.95,
+      "description": "Greek Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large Greek salad with vegetables and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Greek Salad – INDIVIDUAL",
+      "price": 10.95,
+      "description": "Greek Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of Greek salad with traditional ingredients.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Arugula Salad – LARGE",
+      "price": 32.95,
+      "description": "Wild Arugula Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large wild arugula salad serving.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Thai Noodle Salad – LARGE",
+      "price": 32.95,
+      "description": "Thai Noodle Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large serving of Thai noodle salad.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Thai Noodle Salad – INDIVIDUAL with Roasted Chicken",
+      "price": 18.9,
+      "description": "Thai Noodle Salad - INDIVIDUAL with Roasted Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual Thai noodle salad with roasted chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Noodle Salad- INDIVIDUAL",
+      "price": 12.95,
+      "description": "Thai Noodle Salad- INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of Thai noodle salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Greens – LARGE",
+      "price": 32.95,
+      "description": "Garden Greens - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large serving of fresh garden greens.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Garden Greens – INDIVIDUAL with Roasted Chicken",
+      "price": 18.9,
+      "description": "Garden Greens - INDIVIDUAL with Roasted Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual garden greens salad with roasted chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Greens – INDIVIDUAL",
+      "price": 12.95,
+      "description": "Garden Greens - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of fresh garden greens.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Kitchen Chopped Salad – LARGE",
+      "price": 32.95,
+      "description": "Fresh Kitchen Chopped Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large serving of Fresh Kitchen chopped salad.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Fresh Kitchen Chopped Salad – INDIVIDUAL with Roasted Chicken",
+      "price": 18.9,
+      "description": "Fresh Kitchen Chopped Salad - INDIVIDUAL with Roasted Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual chopped salad with roasted chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Kitchen Chopped Salad – INDIVIDUAL",
+      "price": 12.95,
+      "description": "Fresh Kitchen Chopped Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of Fresh Kitchen chopped salad.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Caesar Salad – LARGE",
+      "price": 32.95,
+      "description": "Classic Caesar Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large serving of classic Caesar salad.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Classic Caesar Salad – INDIVIDUAL with Roasted Chicken",
+      "price": 18.9,
+      "description": "Classic Caesar Salad - INDIVIDUAL with Roasted Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual Caesar salad with roasted chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Caesar Salad – INDIVIDUAL",
+      "price": 12.95,
+      "description": "Classic Caesar Salad - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual serving of classic Caesar salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chef Salad – LARGE",
+      "price": 32.95,
+      "description": "Chef Salad - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large serving of chef salad with assorted ingredients.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Chef Salad- INDIVIDUAL",
+      "price": 13.95,
+      "description": "Chef Salad- INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual chef salad with mixed ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Artisan Greens with Spiced Pecans – LARGE",
+      "price": 32.95,
+      "description": "Artisan Greens with Spiced Pecans - LARGE quantity",
+      "category": "FOOD",
+      "simplified_description": "Large salad with artisan greens and spiced pecans.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Artisan Greens with Spiced Pecans – INDIVIDUAL with Roasted Chicken",
+      "price": 18.9,
+      "description": "Artisan Greens with Spiced Pecans - INDIVIDUAL with Roasted Chicken quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual salad with greens, spiced pecans, and roasted chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Artisan Greens with Spiced Pecans – INDIVIDUAL",
+      "price": 12.95,
+      "description": "Artisan Greens with Spiced Pecans - INDIVIDUAL quantity",
+      "category": "FOOD",
+      "simplified_description": "Individual salad with artisan greens and spiced pecans.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Seasonal Fruit Platter",
+      "price": 6.5,
+      "description": "Fresh Seasonal Fruit Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of fresh seasonal fruits.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Crudités of Seasonal Vegetables",
+      "price": 5.95,
+      "description": "Crudités of Seasonal Vegetables quantity",
+      "category": "FOOD",
+      "simplified_description": "Assorted fresh seasonal raw vegetables.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "European Sandwich Platter",
+      "price": 8.95,
+      "description": "European Sandwich Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of assorted European-style sandwiches.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wrap Platter",
+      "price": 8.95,
+      "description": "Wrap Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of assorted wraps.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Sandwich Platter",
+      "price": 7.95,
+      "description": "Classic Sandwich Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of classic sandwiches.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charcuterie Board",
+      "price": 12.95,
+      "description": "Charcuterie Board quantity",
+      "category": "FOOD",
+      "simplified_description": "Board with assorted cured meats and accompaniments.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imported and Domestic Cheese Platter",
+      "price": 9.95,
+      "description": "Imported and Domestic Cheese Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of imported and domestic cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Chip and Dip Platter",
+      "price": 6.95,
+      "description": "Signature Chip and Dip Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of chips served with signature dips.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta Platter",
+      "price": 7.95,
+      "description": "Bruschetta Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of toasted bread topped with tomatoes and herbs.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Baked Cookie Platter",
+      "price": 2.95,
+      "description": "Fresh Baked Cookie Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of freshly baked cookies.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Baked Square Platter",
+      "price": 3.95,
+      "description": "Fresh Baked Square Platter quantity",
+      "category": "FOOD",
+      "simplified_description": "Platter of freshly baked dessert squares.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

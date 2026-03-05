@@ -1,0 +1,833 @@
+{
+  "restaurant": "beckhamspub",
+  "parsed_at": "2026-02-06T01:01:19.691030",
+  "item_count": 71,
+  "items": [
+    {
+      "name": "Yellow tail Merlot",
+      "price": null,
+      "description": "Australia",
+      "category": "DRINK",
+      "simplified_description": "Red wine from Australia.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Errazuriz Estate Chardonnay",
+      "price": null,
+      "description": "Chile",
+      "category": "DRINK",
+      "simplified_description": "White wine from Chile.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peller Family Pinot Grigio",
+      "price": null,
+      "description": "Okanagan Valley, BC",
+      "category": "DRINK",
+      "simplified_description": "White wine from Okanagan Valley, BC.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crowded House Sauvignon Blanc",
+      "price": null,
+      "description": "Marlborough, New zealand",
+      "category": "DRINK",
+      "simplified_description": "White wine from Marlborough, New Zealand.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beckham's Caesar",
+      "price": 8.0,
+      "description": "1oz Smirnoff Vodka, Tabasco, Worcestershire and Clamato juice. Rimmed with our house made blend of spice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Vodka cocktail with spicy Clamato juice and a spicy rim.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Alabama Slammer",
+      "price": 8.5,
+      "description": "0.5oz Disaronno, 0.5oz Southern Comfort, mixed with orange juice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Sweet cocktail with Disaronno, Southern Comfort, and orange juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Creamsicle",
+      "price": 8.5,
+      "description": "1oz Smirnoff Vanilla vodka, orange juice and 7up.",
+      "category": "COCKTAILS",
+      "simplified_description": "Vanilla vodka cocktail with orange juice and 7up soda.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "White Russian",
+      "price": 8.5,
+      "description": "0.5oz Capt. Morgan's White Rum, 0.5oz Kahlua, mixed with milk and cream.",
+      "category": "COCKTAILS",
+      "simplified_description": "Rum and Kahlua cocktail mixed with milk and cream.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vodka Slime",
+      "price": 8.5,
+      "description": "1oz Smirnoff vodka, 7up and margarita lime juice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Vodka cocktail with 7up and lime juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Screwdriver",
+      "price": 8.5,
+      "description": "1oz Smirnoff vodka and orange juice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Simple vodka and orange juice cocktail.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paralyzer",
+      "price": 8.5,
+      "description": "0.5 oz Smirnoff vodka, 0.5oz Kahlua, Pepsi and milk.",
+      "category": "COCKTAILS",
+      "simplified_description": "Vodka and Kahlua cocktail with Pepsi and milk.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Irish Paralyzer",
+      "price": 8.5,
+      "description": "0.5 oz Bushmills, 0.5 oz Baileys, Pepsi and milk.",
+      "category": "COCKTAILS",
+      "simplified_description": "Irish whiskey and Baileys cocktail with Pepsi and milk.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "price": 8.5,
+      "description": "1oz Long Island mix , Pepsi and margarita lime juice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Mixed spirits cocktail with Pepsi and lime juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tequila sunrise",
+      "price": 10.5,
+      "description": "1oz El jimador reposado tequila, orange juice and grenadine.",
+      "category": "COCKTAILS",
+      "simplified_description": "Tequila cocktail with orange juice and grenadine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Purple Rain",
+      "price": 13.5,
+      "description": "1oz Smirnoff Orange vodka, 1oz blue curacoa, gingerale and grenadine.",
+      "category": "COCKTAILS",
+      "simplified_description": "Vodka and blue curacao cocktail with ginger ale and grenadine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita",
+      "price": 13.5,
+      "description": "1.5oz El jimador reposado tequila, 0.5oz Triple Sec, margarita lime juice, shaken on ice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Tequila cocktail with triple sec and lime juice served shaken on ice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Old Fashioned Bulleit",
+      "price": 14.5,
+      "description": "2oz Bulleit Bourbon, simple syrup, bitters and orange zest.",
+      "category": "COCKTAILS",
+      "simplified_description": "Bourbon cocktail with simple syrup, bitters, and orange zest.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gin Sling",
+      "price": 13.5,
+      "description": "1oz Gordon's Gin, 1oz Chambord, pinapple juice and orange juice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Gin cocktail with Chambord, pineapple juice, and orange juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Raspberry Gin Spritz",
+      "price": 13.5,
+      "description": "0.5oz Bombay gin, 0.5oz Chambord, 0.5oz SOHO lychee liquer and club soda.",
+      "category": "COCKTAILS",
+      "simplified_description": "Gin spritz with Chambord, lychee liqueur, and club soda.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Hawaiian",
+      "price": 13.5,
+      "description": "1oz Malibu coconut rum, 0.5oz Blue curacao, 7up and pineapple juice.",
+      "category": "COCKTAILS",
+      "simplified_description": "Rum cocktail with blue curacao, 7up, and pineapple juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ny Sour",
+      "price": 13.5,
+      "description": "1.5 oz Crown royal, lemon juice, simple syrup and finished off with 0.5oz of Murphy Goode cabernet sauvignon.",
+      "category": "COCKTAILS",
+      "simplified_description": "Whiskey sour topped with cabernet sauvignon wine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Amaretto Sour",
+      "price": 13.5,
+      "description": "1.5oz Amaretto,0.5oz Bulleit bourbon, lemon juice, simple syrup and bitters.",
+      "category": "COCKTAILS",
+      "simplified_description": "Amaretto and bourbon sour with lemon juice, syrup, and bitters.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vodka / Rye (1 oz)",
+      "price": 9.0,
+      "description": "Grey Goose -",
+      "category": "OTHER",
+      "simplified_description": "1 oz serving of Grey Goose vodka or rye whiskey.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kettle One -",
+      "price": 9.0,
+      "description": "Kettle One -",
+      "category": "OTHER",
+      "simplified_description": "Serving of Kettle One vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Van Gogh Double Espresso -",
+      "price": 7.75,
+      "description": "Van Gogh Double Espresso -",
+      "category": "OTHER",
+      "simplified_description": "Van Gogh brand double espresso flavored vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Raspberry -",
+      "price": 7.75,
+      "description": "Smirnoff Raspberry -",
+      "category": "OTHER",
+      "simplified_description": "Smirnoff raspberry flavored vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Blueberry -",
+      "price": 7.75,
+      "description": "Smirnoff Blueberry -",
+      "category": "OTHER",
+      "simplified_description": "Smirnoff blueberry flavored vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Orange -",
+      "price": 7.75,
+      "description": "Smirnoff Orange -",
+      "category": "OTHER",
+      "simplified_description": "Smirnoff orange flavored vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Vanilla -",
+      "price": 7.75,
+      "description": "Smirnoff Vanilla -",
+      "category": "OTHER",
+      "simplified_description": "Smirnoff vanilla flavored vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crown Royal -",
+      "price": 7.75,
+      "description": "Crown Royal -",
+      "category": "OTHER",
+      "simplified_description": "Serving of Crown Royal whiskey.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gibson's Finest -",
+      "price": 7.75,
+      "description": "Gibson's Finest -",
+      "category": "OTHER",
+      "simplified_description": "A type of whiskey called Gibson's Finest.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bombay Sapphire -",
+      "price": 8.75,
+      "description": "Bombay Sapphire -",
+      "category": "OTHER",
+      "simplified_description": "A brand of Bombay Sapphire gin.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hendricks -",
+      "price": 9.25,
+      "description": "Hendricks -",
+      "category": "OTHER",
+      "simplified_description": "Hendricks gin, a popular gin brand.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appleton Estate Jamaican Spiced Rum -",
+      "price": 7.75,
+      "description": "Appleton Estate Jamaican Spiced Rum -",
+      "category": "OTHER",
+      "simplified_description": "Jamaican spiced rum from Appleton Estate.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barcardi White Rum -",
+      "price": 7.75,
+      "description": "Barcardi White Rum -",
+      "category": "OTHER",
+      "simplified_description": "Bacardi brand white rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kraken Spiced Rum -",
+      "price": 7.75,
+      "description": "Kraken Spiced Rum -",
+      "category": "OTHER",
+      "simplified_description": "Kraken brand spiced rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgans Spiced Rum -",
+      "price": 7.75,
+      "description": "Captain Morgans Spiced Rum -",
+      "category": "OTHER",
+      "simplified_description": "Captain Morgan's spiced rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mailbu Coconut -",
+      "price": 7.75,
+      "description": "Mailbu Coconut -",
+      "category": "OTHER",
+      "simplified_description": "Malibu coconut flavored rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenfiddich 12 YR -",
+      "price": 8.25,
+      "description": "Glenfiddich 12 YR -",
+      "category": "OTHER",
+      "simplified_description": "Glenfiddich 12 year old single malt scotch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jameson -",
+      "price": 7.75,
+      "description": "Jameson -",
+      "category": "OTHER",
+      "simplified_description": "Jameson Irish whiskey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bushmills -",
+      "price": 7.75,
+      "description": "Bushmills -",
+      "category": "OTHER",
+      "simplified_description": "Bushmills Irish whiskey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireball Whiskey -",
+      "price": 7.75,
+      "description": "Fireball Whiskey -",
+      "category": "OTHER",
+      "simplified_description": "Fireball cinnamon flavored whiskey.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jack Daniel's -",
+      "price": 7.75,
+      "description": "Jack Daniel's -",
+      "category": "OTHER",
+      "simplified_description": "Jack Daniel's Tennessee whiskey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jack Daniel's Honey Jack -",
+      "price": 7.75,
+      "description": "Jack Daniel's Honey Jack -",
+      "category": "OTHER",
+      "simplified_description": "Jack Daniel's whiskey with honey flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bulleit Bourbon -",
+      "price": 7.75,
+      "description": "Bulleit Bourbon -",
+      "category": "OTHER",
+      "simplified_description": "Bulleit brand bourbon whiskey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Courvoisier -",
+      "price": 9.0,
+      "description": "Courvoisier -",
+      "category": "OTHER",
+      "simplified_description": "A serving of Courvoisier cognac.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grand Marnier -",
+      "price": 8.0,
+      "description": "Grand Marnier -",
+      "category": "OTHER",
+      "simplified_description": "A serving of Grand Marnier orange-flavored liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "El Jimador Gold -",
+      "price": 8.0,
+      "description": "El Jimador Gold -",
+      "category": "OTHER",
+      "simplified_description": "A serving of El Jimador Gold tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "El Jimador Silver -",
+      "price": 8.0,
+      "description": "El Jimador Silver -",
+      "category": "OTHER",
+      "simplified_description": "A serving of El Jimador Silver tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patron Silver -",
+      "price": 12.5,
+      "description": "Patron Silver -",
+      "category": "OTHER",
+      "simplified_description": "A serving of Patron Silver tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Vodka Martini -",
+      "price": 8.5,
+      "description": "Classic Vodka Martini -",
+      "category": "OTHER",
+      "simplified_description": "A classic vodka martini cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Gin Martini -",
+      "price": 8.5,
+      "description": "Classic Gin Martini -",
+      "category": "OTHER",
+      "simplified_description": "A classic gin martini cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grey Goose Martini -",
+      "price": 12.5,
+      "description": "Grey Goose Martini -",
+      "category": "OTHER",
+      "simplified_description": "A martini made with Grey Goose vodka.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kettle One Martini -",
+      "price": 12.5,
+      "description": "Kettle One Martini -",
+      "category": "OTHER",
+      "simplified_description": "A martini made with Kettle One vodka.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bombay Martini -",
+      "price": 12.5,
+      "description": "Bombay Martini -",
+      "category": "OTHER",
+      "simplified_description": "A martini made with Bombay gin.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hendrick's Martini -",
+      "price": 12.5,
+      "description": "Hendrick's Martini -",
+      "category": "OTHER",
+      "simplified_description": "A martini made with Hendrick's gin.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chambord Royale -",
+      "price": 9.0,
+      "description": "Chambord Royale -",
+      "category": "OTHER",
+      "simplified_description": "A cocktail featuring Chambord raspberry liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cosmopolitan -",
+      "price": 8.5,
+      "description": "Cosmopolitan -",
+      "category": "OTHER",
+      "simplified_description": "A classic cosmopolitan cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appletini -",
+      "price": 8.5,
+      "description": "Appletini -",
+      "category": "OTHER",
+      "simplified_description": "A sweet apple-flavored martini cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crantini -",
+      "price": 8.5,
+      "description": "Crantini -",
+      "category": "OTHER",
+      "simplified_description": "A cranberry-flavored martini cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop -",
+      "price": 4.0,
+      "description": "Free Refills (house rules apply)",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Soft drink with free refills under house rules.",
+      "dietary_info": [],
+      "other_info": "Free refills"
+    },
+    {
+      "name": "Pepsi / Diet Pepsi /7-up / Brisk Iced Tea / Ginger Ale / Soda Water / Tonic Water",
+      "price": 4.0,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Variety of popular sodas and iced teas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milk -",
+      "price": 3.5,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "A glass of milk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Orange/Pineapple/Cranberry Juice-",
+      "price": 4.25,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Fresh orange, pineapple, or cranberry juice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Redbull-",
+      "price": 5.0,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Energy drink to boost your energy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee-",
+      "price": 3.0,
+      "description": "Free Refills",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Brewed coffee with free refills.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Free refills"
+    },
+    {
+      "name": "Tea-",
+      "price": 3.0,
+      "description": "Earl grey/Red rose/Green tea",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Choice of Earl Grey, Red Rose, or Green tea.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty Coffee",
+      "price": 8.5,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Specialty coffee drink with unique flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee & Bailey's -",
+      "price": 8.5,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Coffee served with Bailey's Irish Cream liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spanish Coffee -",
+      "price": 8.5,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Coffee with Spanish liqueur and whipped cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Tea -",
+      "price": 8.5,
+      "description": "",
+      "category": "COFFEE & BEVERAGES",
+      "simplified_description": "Tea infused with blueberry flavor.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

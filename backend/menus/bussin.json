@@ -1,0 +1,308 @@
+{
+  "restaurant": "bussin",
+  "parsed_at": "2026-02-06T01:18:31.950203",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "LOTUS CRUMBLES",
+      "price": 15.99,
+      "description": "LOTUS CRUMBLES, LOTUS SAUCE, LOTUS BISCUIT, ICE CREAM.",
+      "category": "DESSERT",
+      "simplified_description": "Dessert with lotus biscuit crumbles, lotus sauce, and ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "IT'S BUSSIN",
+      "price": 8.99,
+      "description": "ERRERO ROCHER, STRAWBERRIES, MILK CHOCOLATE SAUCE, WHIPPED CREAM, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Milk chocolate drink with Ferrero Rocher, strawberries, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHUNKY MONKEY",
+      "price": 8.99,
+      "description": "FERRERO ROCHER, BANANA, WHIPPED CREAM, NUTS, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Drink with Ferrero Rocher, banana, nuts, whipped cream, and vanilla ice cream.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TEASER",
+      "price": 8.99,
+      "description": "MALTESERS, MILKY BAR, WHIPPED CREAM, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Sweet drink with Maltesers, Milky Bar, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EUPHOREO",
+      "price": 8.99,
+      "description": "OREOS, CHOCOLATE SAUCE, WHIPPED CREAM, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Chocolate drink with Oreos, chocolate sauce, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GO BANANAS",
+      "price": 8.99,
+      "description": "BANANA, KINDER BUENO, WHIPPED CREAM, CHOCOLATE SPRINKLES, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Drink with banana, Kinder Bueno, whipped cream, chocolate sprinkles, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUBBLE TROUBLE",
+      "price": 8.99,
+      "description": "BLUE MILLIONS, WHITE CHOCOLATE BUENO, BUBBIGUM FLAVOUR SAUCE, WHIPPED CREAM, VANILLA ICE cream.",
+      "category": "DRINK",
+      "simplified_description": "Sweet drink with blue millions, white chocolate, bubblegum sauce, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WILDEST DREAMS",
+      "price": 8.99,
+      "description": "BUTTERSCOTCH, SKOR, TOFFEE SAUCE, WHIPPED CREAM, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Butterscotch and toffee drink with Skor, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DY-LN-0MITE",
+      "price": 8.99,
+      "description": "NUTELLA, STRAWBERRIES, CHOCOLATE SAUCE, WHIPPED CREAM, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Drink with Nutella, strawberries, chocolate sauce, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OH BISCOFF",
+      "price": 8.99,
+      "description": "LOTUS BISCOFE BISCUITS, LOTUS BISCOFF SAUCE, WHIPPED CREAM, LOTUS BISCOFF CRUMBS, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Drink with Lotus Biscoff biscuits, sauce, crumbs, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVALANCHE",
+      "price": 8.99,
+      "description": "OREOS, PEANUT BUTTER, WHIPPED CREAM, CRUSHED OREOS, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Peanut butter and Oreo drink with whipped cream and vanilla ice cream.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MUNCHY",
+      "price": 8.99,
+      "description": "CRUNCHIE BAR, OREO, WHIPPED CREAM, CRUSHED OROS, VANILLA ICE CREAM.",
+      "category": "DRINK",
+      "simplified_description": "Drink with Crunchie bar, Oreo, whipped cream, and vanilla ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHAKE IT YOURSELF",
+      "price": 8.99,
+      "description": "CHOOSE ANY SINGLE TOPPING FROM OUR CANDY WALL AND CREATE YOUR OWN SHAKE. ANY ADDITIONAL TOPPINGS ARE THERE FOR EXTRA COST.",
+      "category": "DRINK",
+      "simplified_description": "Create your own shake with one candy topping; extra toppings cost more.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CHIPOTLE",
+      "price": 8.99,
+      "description": "HAND BATTERED CRISPY FRIED CHICKEN, LETTUCE, TOMATOES, CHIPOTLE SAUCE.",
+      "category": "FOOD",
+      "simplified_description": "Crispy fried chicken sandwich with lettuce, tomatoes, and chipotle sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "VERI PERI",
+      "price": 8.99,
+      "description": "FLAME GRILLED CHICKEN, GLAZED WITH PERI SAUCE, LETTUCE, AND MAYO.",
+      "category": "FOOD",
+      "simplified_description": "Flame grilled chicken with peri sauce, lettuce, and mayo.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "HOT CHICK",
+      "price": 8.99,
+      "description": "BUTTERMILK FRIED CHICKEN. GRAZED WITH BUFFALO SAUCE, PICKLES, AND LETTUCE.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with buffalo sauce, pickles, and lettuce.",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "THE NASHVILLE",
+      "price": 8.99,
+      "description": "BUTTERMILK FRIED CHICKEN, DIPPED IN NASHVILLE SAUCE, LETTUCE, SRIRACHA MAYO.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with Nashville sauce, lettuce, and spicy sriracha mayo.",
+      "dietary_info": [
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKIN BBQ",
+      "price": 8.99,
+      "description": "BUTTERMILK FRIED CHICKEN, GLAZED WITH BBO JERK SAUCE, LETTUCE, AND CHEESE.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with BBQ jerk sauce, lettuce, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACON RANCH",
+      "price": 8.99,
+      "description": "BUTTERMILK FRIED CHICKEN, BEEF BACON, RANCH SAUCE, LETTUCE.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with beef bacon, ranch sauce, and lettuce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SLIM CUT FRIES",
+      "price": 4.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Thinly cut crispy fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CRINKLE FRIES",
+      "price": 4.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy crinkle-cut fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPIRAL FRIES",
+      "price": 5.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Spiral-shaped crispy fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SWEET POTATO FRIES",
+      "price": 6.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Crispy sweet potato fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ONION RINGS",
+      "price": 6.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Battered and fried onion rings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN POPPERS",
+      "price": 5.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Small fried chicken bites.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE FRIES",
+      "price": 6.99,
+      "description": "CRINKLE FRIES LOADED WITH CHILLI CON CARNE AND HOT CHEESE ( 2 tablespoon)",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with chili con carne and hot cheese.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CHEESY CHEETO FRIES",
+      "price": 7.99,
+      "description": "CRINKLE FRIES LOADED WITH HOT CHEESE(2 table spoon) AND CHEETOS.",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with hot cheese and Cheetos.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POUTINE",
+      "price": 7.99,
+      "description": "CRINKLE CUT FRIES SERVE WITH BUSSIN GRAVY AND GRATED CHEESE.",
+      "category": "SIDE",
+      "simplified_description": "Fries served with gravy and grated cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NASHVILLE POUTINE",
+      "price": 11.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Poutine with Nashville-style toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

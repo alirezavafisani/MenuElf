@@ -1,0 +1,385 @@
+{
+  "restaurant": "tomshouseofpizza",
+  "parsed_at": "2026-02-06T04:37:32.140837",
+  "item_count": 42,
+  "items": [
+    {
+      "name": "Plain Cheese and Tomato Sauce",
+      "price": 9.95,
+      "description": "Our house made tomato sauce with mozzarella and cheddar.",
+      "category": "FOOD",
+      "simplified_description": "Our house made tomato sauce with mozzarella and cheddar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Salami",
+      "price": 11.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, & our exclusive Italian salami.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, & our exclusive Italian salami.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spiced Pepperoni",
+      "price": 11.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, & our exclusive spicy pepperoni.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, & our exclusive spicy pepperoni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tender Mushrooms",
+      "price": 11.95,
+      "description": "Housemade tomato sauce, mozzarella, cheddar, & fresh mushrooms.",
+      "category": "FOOD",
+      "simplified_description": "Housemade tomato sauce, mozzarella, cheddar, & fresh mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Black Olives",
+      "price": 11.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, & Italian black olives.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, & Italian black olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lean Beef & Chopped Onions",
+      "price": 12.45,
+      "description": "House made tomato sauce, mozzarella, cheddar, fresh red onions and fresh extra-lean ground beef.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, fresh red onions and fresh extra-l",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Italian Sausage",
+      "price": 11.95,
+      "description": "Housemade tomato sauce, mozzarella, cheddar, & our house made Italian sausage.",
+      "category": "FOOD",
+      "simplified_description": "Housemade tomato sauce, mozzarella, cheddar, & our house made Italian sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "C.J.’s Combo - Items of 1 to 7",
+      "price": 15.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, Italian salami, spicy pepperoni, mushrooms, black olives, extra-lean ground beef, Italian sausage and onions.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, Italian salami, spicy pepperoni, m",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imported Anchovies",
+      "price": 11.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, & anchovies.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, & anchovies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Big Lance’s Combo - Items of 1 to 9 (Except 5 & 8)",
+      "price": 15.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, Italian salami, spicy pepperoni, mushrooms, extra-Lean ground beef, Italian sausage, onions and anchovies.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, Italian salami, spicy pepperoni, m",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham and Fresh Tomatoes",
+      "price": 12.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, smoked Ham with freshly chopped tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, smoked Ham with freshly chopped to",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lean Beef, Italian Sausage and Chopped Onions",
+      "price": 13.45,
+      "description": "House made tomato sauce, mozzarella, cheddar, fresh extra-lean ground beef, house-made Italian Sausage, and chopped onions.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, fresh extra-lean ground beef, hous",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Uppers",
+      "price": 13.45,
+      "description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms, Italian black olives and imported anchovies.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms, Italian black oli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salami & Green Peppers",
+      "price": 12.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, our exclusive Italian salami with freshly chopped green peppers.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, our exclusive Italian salami with ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mouth Watering Ham",
+      "price": 11.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, & smoked ham.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, & smoked ham.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crisp, Whole Shrimp",
+      "price": 12.45,
+      "description": "House made tomato sauce, mozzarella, cheddar, & whole shrimp.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, & whole shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any Combination - 3 to 5 Items of Your Choice",
+      "price": 14.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, with any 3 – 5 veggies or meats of your choice.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, with any 3 – 5 veggies or meats of",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any Meat & Mushroom",
+      "price": 12.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms and your choice of any one meat.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms and your choice of",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexi-Style",
+      "price": 14.95,
+      "description": "House made spicy tomato sauce, mozzarella, cheddar, with your choice of pepperoni or beef, and topped with fresh, chopped lettuce, tomatoes and onions.",
+      "category": "FOOD",
+      "simplified_description": "House made spicy tomato sauce, mozzarella, cheddar, with your choice of pepperon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Style",
+      "price": 12.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, smoked ham & pineapples.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, smoked ham & pineapples.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp and Mushroom",
+      "price": 13.45,
+      "description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms, & crisp whole shrimp.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms, & crisp whole shr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza With More Than 6 Items",
+      "price": 17.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, with 6 or more veggies and meats of your choice.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, with 6 or more veggies and meats o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 13.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms, Italian black olives, chopped tomatoes, green peppers and onions.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, fresh mushrooms, Italian black oli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Green Peppers or Pineapples",
+      "price": 13.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, grilled chicken, and your choice of chopped green peppers or pineapples.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, grilled chicken, and your choice o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": 14.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, smoked ham, spicy pepperoni, Italian salami, fresh extra-lean ground beef and house made Italian sausage.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, smoked ham, spicy pepperoni, Itali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Style",
+      "price": 14.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, Italian black olives, chopped green peppers, tomatoes, and onions, topped with feta cheese.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, Italian black olives, chopped gree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Suzanne’s Special",
+      "price": 14.95,
+      "description": "House made tomato sauce, mozzarella, cheddar, grilled chicken, pineapples and banana peppers, topped with feta cheese.",
+      "category": "FOOD",
+      "simplified_description": "House made tomato sauce, mozzarella, cheddar, grilled chicken, pineapples and ba",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tossed Salad",
+      "price": 4.45,
+      "description": "Fresh mushrooms, chopped tomatoes and crisp iceberg lettuce with your choice of Ranch, Italian, 1000 Island or blue cheese dressing.",
+      "category": "FOOD",
+      "simplified_description": "Fresh mushrooms, chopped tomatoes and crisp iceberg lettuce with your choice of ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 5.95,
+      "description": "Fresh Romaine lettuce with grated parmesan, seasoned croutons, topped with our creamy house-made Caesar dressing.",
+      "category": "FOOD",
+      "simplified_description": "Fresh Romaine lettuce with grated parmesan, seasoned croutons, topped with our c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "price": 12.95,
+      "description": "Fresh Romaine lettuce with grated parmesan, seasoned croutons and grilled chicken, topped with our creamy house-made Caesar dressing.",
+      "category": "FOOD",
+      "simplified_description": "Fresh Romaine lettuce with grated parmesan, seasoned croutons and grilled chicke",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 2.5,
+      "description": "Fresh, locally-made sub buns from The Calgary Italian Bakery with our tasty garlic spread.",
+      "category": "FOOD",
+      "simplified_description": "Fresh, locally-made sub buns from The Calgary Italian Bakery with our tasty garl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "price": 4.75,
+      "description": "Fresh, locally-made sub buns from The Calgary Italian Bakery with our tasty garlic spread and 100% Canadian mozzarella & cheddar blend.",
+      "category": "FOOD",
+      "simplified_description": "Fresh, locally-made sub buns from The Calgary Italian Bakery with our tasty garl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Pretzels",
+      "price": 9.95,
+      "description": "3 baked, salted pretzels with Dijon mustard.",
+      "category": "FOOD",
+      "simplified_description": "3 baked, salted pretzels with Dijon mustard.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Buffalo Bites",
+      "price": 9.95,
+      "description": "½ pound of Buffalo flavoured, boneless chicken wings, served with your choice of Ranch or our own house-made hot sauce.",
+      "category": "FOOD",
+      "simplified_description": "½ pound of Buffalo flavoured, boneless chicken wings, served with your choice of",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 9.95,
+      "description": "5 lightly seasoned chicken fingers with your choice of Plum, Honey Mustard or BBQ sauce.",
+      "category": "FOOD",
+      "simplified_description": "5 lightly seasoned chicken fingers with your choice of Plum, Honey Mustard or BB",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Ribs",
+      "price": 10.95,
+      "description": "1/2 Pound Seasoned Ribs with your choice of Ranch or our own house-made hot sauce.",
+      "category": "FOOD",
+      "simplified_description": "1/2 Pound Seasoned Ribs with your choice of Ranch or our own house-made hot sauc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nachos",
+      "price": 8.95,
+      "description": "Yellow corn tortillas topped with 100% Canadian mozzarella and cheddar, Italian black olives, chopped green peppers, tomatoes and onions; served with sour cream and jalapenos.",
+      "category": "FOOD",
+      "simplified_description": "Yellow corn tortillas topped with 100% Canadian mozzarella and cheddar, Italian ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Chicken Wings",
+      "price": 13.95,
+      "description": "10 Baked Wings flavoured with your choice of dry rub. Please ask for our current flavours. served with your choice of Ranch or our own house-made hot sauce.",
+      "category": "FOOD",
+      "simplified_description": "10 Baked Wings flavoured with your choice of dry rub. Please ask for our current",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": 10.95,
+      "description": "Hearty meat lasagna baked with 100% Canadian mozzarella and cheddar cheese, served with a side of tossed salad and garlic bread.",
+      "category": "FOOD",
+      "simplified_description": "Hearty meat lasagna baked with 100% Canadian mozzarella and cheddar cheese, serv",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tom’s Hearty Chili",
+      "price": 14.95,
+      "description": "Baked with 100% Canadian mozzarella and cheddar, made in-house with the freshest veggies, extra-lean ground pork and beef, three varieties of beans and our own spice blend; served with tossed salad and garlic bread.",
+      "category": "FOOD",
+      "simplified_description": "Baked with 100% Canadian mozzarella and cheddar, made in-house with the freshest",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Can of Pop",
+      "price": 1.35,
+      "description": "Coke, Diet Coke, A&W Root Beer, Sprite, Fresca, Ginger Ale & Coke Zero.",
+      "category": "DRINK",
+      "simplified_description": "Coke, Diet Coke, A&W Root Beer, Sprite, Fresca, Ginger Ale & Coke Zero.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Tea and Juice",
+      "price": 1.95,
+      "description": "Lemon, Peach, Apple Juice & Orange Juice.",
+      "category": "DRINK",
+      "simplified_description": "Lemon, Peach, Apple Juice & Orange Juice.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

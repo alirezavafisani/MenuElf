@@ -1,0 +1,338 @@
+{
+  "restaurant": "goto-where",
+  "parsed_at": "2026-02-06T02:23:24.624114",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "Chicken Samosa",
+      "price": 1.99,
+      "description": "Chicken Samosa",
+      "category": "APPETIZER",
+      "simplified_description": "Fried pastry filled with seasoned chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Samosa",
+      "price": 1.99,
+      "description": "Beef Samosa",
+      "category": "APPETIZER",
+      "simplified_description": "Fried pastry filled with seasoned beef.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Samosa",
+      "price": 1.99,
+      "description": "Vegetable Samosa",
+      "category": "APPETIZER",
+      "simplified_description": "Fried pastry filled with spiced vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Puri",
+      "price": 2.49,
+      "description": "Dal Puri",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried bread stuffed with spiced lentils.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mughlai Paratha",
+      "price": 11.0,
+      "description": "Mughlai Paratha",
+      "category": "APPETIZER",
+      "simplified_description": "Stuffed flatbread with rich Mughlai filling.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Pakora",
+      "price": 11.99,
+      "description": "Vegetable Pakora",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried vegetable fritters in chickpea batter.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Pakora",
+      "price": 14.99,
+      "description": "Fish Pakora",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried fish pieces in spiced batter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peyaju Plate",
+      "price": 11.99,
+      "description": "Peyaju Plate",
+      "category": "APPETIZER",
+      "simplified_description": "Plate of lentil fritters served as appetizer.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Whole Chicken",
+      "price": 16.99,
+      "description": "BBQ Whole Chicken",
+      "category": "APPETIZER",
+      "simplified_description": "Whole chicken grilled with BBQ spices.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Whole Chicken Platter 1",
+      "price": 22.99,
+      "description": "BBQ Whole Chicken Platter 1",
+      "category": "APPETIZER",
+      "simplified_description": "Platter featuring a whole BBQ grilled chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Chicken Biriyani Karachi Style",
+      "price": 11.99,
+      "description": "Chicken Biriyani Karachi Style",
+      "category": "BIRiyani",
+      "simplified_description": "Spiced chicken and rice cooked Karachi style.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Biriyani Karachi Style",
+      "price": 11.99,
+      "description": "Beef Biriyani Karachi Style",
+      "category": "BIRiyani",
+      "simplified_description": "Spiced beef and rice cooked Karachi style.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Biriyani Tehari",
+      "price": 15.99,
+      "description": "Mutton Biriyani Tehari",
+      "category": "BIRiyani",
+      "simplified_description": "Spiced mutton and rice cooked Tehari style.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Kacchi Dom Biriyani",
+      "price": 15.99,
+      "description": "Mutton Kacchi Dom Biriyani",
+      "category": "BIRiyani",
+      "simplified_description": "Raw mutton marinated and cooked with rice.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Morog Polao",
+      "price": 11.49,
+      "description": "Morog Polao",
+      "category": "BIRiyani",
+      "simplified_description": "Chicken cooked with fragrant spiced rice.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "KalaVuna With Polao",
+      "price": 11.99,
+      "description": "KalaVuna With Polao",
+      "category": "BIRiyani",
+      "simplified_description": "A traditional KalaVuna served with seasoned Polao rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Illish Polao",
+      "price": 15.99,
+      "description": "Illish Polao",
+      "category": "BIRiyani",
+      "simplified_description": "Polao rice cooked with Illish fish for a flavorful meal.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 14.99,
+      "description": "Butter Chicken",
+      "category": "Curry",
+      "simplified_description": "Creamy chicken curry cooked with butter and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Karahi",
+      "price": 13.99,
+      "description": "Chicken Karahi",
+      "category": "Curry",
+      "simplified_description": "Spicy chicken curry cooked in a traditional karahi wok.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mutton Karahi",
+      "price": 15.99,
+      "description": "Mutton Karahi",
+      "category": "Curry",
+      "simplified_description": "Spicy mutton curry cooked in a karahi wok with rich spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shrimp Karahi",
+      "price": 14.99,
+      "description": "Shrimp Karahi",
+      "category": "Curry",
+      "simplified_description": "Spicy shrimp curry cooked in a karahi wok with bold flavors.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Fish Curry Ruhi",
+      "price": 5.99,
+      "description": "Fish Curry Ruhi",
+      "category": "Curry",
+      "simplified_description": "Traditional fish curry made with Ruhi fish and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Karahi",
+      "price": 13.99,
+      "description": "Beef Karahi",
+      "category": "Curry",
+      "simplified_description": "Spicy beef curry cooked in a karahi wok with aromatic spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jelapi 1lb",
+      "price": 5.99,
+      "description": "Jelapi 1lb",
+      "category": "DESSERT",
+      "simplified_description": "Sweet, deep-fried syrup-soaked dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pudding",
+      "price": 3.99,
+      "description": "Pudding",
+      "category": "DESSERT",
+      "simplified_description": "Creamy dessert pudding.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 5.99,
+      "description": "Mango Lassi",
+      "category": "DRINK",
+      "simplified_description": "Sweet mango yogurt smoothie drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Matha",
+      "price": 4.99,
+      "description": "Matha",
+      "category": "DRINK",
+      "simplified_description": "Spiced yogurt-based savory drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pop Cans Water",
+      "price": 1.99,
+      "description": "Pop Cans Water",
+      "category": "DRINK",
+      "simplified_description": "Canned carbonated water drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

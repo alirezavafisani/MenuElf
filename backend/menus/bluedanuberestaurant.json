@@ -1,0 +1,122 @@
+{
+  "restaurant": "bluedanuberestaurant",
+  "parsed_at": "2026-02-06T01:05:29.936846",
+  "item_count": 10,
+  "items": [
+    {
+      "name": "Schnitzel",
+      "price": null,
+      "description": "Delicious Pork or Chicken Breast Schnitzel served with side dishes of your choice and our homemade gravy",
+      "category": "FOOD",
+      "simplified_description": "Breaded pork or chicken breast served with sides and gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cabbage Rolls",
+      "price": null,
+      "description": "Cabbage leaves stuffed with seasoned beef, rice and veggies and baked in a delicious tomato sauce. Served with perogies, sausage, sour cream and caramelized onions",
+      "category": "FOOD",
+      "simplified_description": "Stuffed cabbage rolls with beef, rice, veggies, served with perogies and sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Beef",
+      "price": null,
+      "description": "Perfect browned crust on the outside, and tender, moist, and juicy locked inside. It is well-seasoned and packed with flavor",
+      "category": "FOOD",
+      "simplified_description": "Well-seasoned roast beef with a browned crust and juicy interior.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Big Breakfast",
+      "price": null,
+      "description": "Two eggs, ham, sausages, bacon, served with hash browns, white or whole grain toast",
+      "category": "FOOD",
+      "simplified_description": "Two eggs with ham, sausages, bacon, hash browns, and toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clubhouse",
+      "price": null,
+      "description": "Tomato, bacon, lettuce, mayo, cheese, turkey, white or whole grain toast",
+      "category": "FOOD",
+      "simplified_description": "Sandwich with tomato, bacon, lettuce, mayo, cheese, turkey, and toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Pho",
+      "price": null,
+      "description": "Phở or pho is a Vietnamese soup dish consisting of broth, rice noodles, herbs, and meat.   Your choice : Rare beef or Beef balls or Half and half",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese soup with broth, rice noodles, herbs, and choice of beef meat.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Bowls",
+      "price": null,
+      "description": "This simple vermicelli noodle salad combines fresh herbs, rice vermicelli, cucumber, bean sprouts, and meat.   Your choice : Satay beef or Satay chicken or Half and half",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodle salad with herbs, cucumber, sprouts, and choice of satay meat.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pho Noodle Soup",
+      "price": null,
+      "description": "Phở or pho is a Vietnamese soup dish consisting of broth, rice noodles, herbs, and meat.  Your choice : Rare beef or Beef balls or Half and half",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese soup with broth, rice noodles, herbs, and choice of beef meat.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Sub",
+      "price": null,
+      "description": "Banh Mi is a Vietnamese sandwich that’s made up of crusty bread rolls smeared with pate, mayo, pickled vegetables, green onion, cilantro,fresh chillies",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese sandwich with pate, mayo, pickled veggies, herbs, and fresh chilies.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Stir-Fried Noodle",
+      "price": null,
+      "description": "Stir-Fried Egg Noodle with Broccoli, Carrots, Celery, White Onion, House Special Sauce with Your Choice of Chicken, Beef or Prawns",
+      "category": "FOOD",
+      "simplified_description": "Egg noodles stir-fried with vegetables and choice of chicken, beef, or prawns.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

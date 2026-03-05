@@ -1,0 +1,259 @@
+{
+  "restaurant": "nandos",
+  "parsed_at": "2026-02-06T03:29:10.182210",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "Boneless Butterfly Chicken Breast",
+      "price": 17.99,
+      "description": "Flame-grilled, skin-on, basted in your choice of PERi-PERi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Flame-grilled, skin-on, basted in your choice of PERi-PERi sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Boneless Thighs",
+      "price": 17.99,
+      "description": "Flame-grilled, skin-on, basted in your choice of PERi-PERi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Flame-grilled, skin-on, basted in your choice of PERi-PERi sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Livers",
+      "price": 14.49,
+      "description": "Rich tasty livers that melt in your mouth. Basted in your choice of PERi-PERi sauce and served with a side of Garlic Bread.",
+      "category": "FOOD",
+      "simplified_description": "Rich tasty livers that melt in your mouth. Basted in your choice of PERi-PERi sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PERi-PERi Whole Wings",
+      "price": 26.99,
+      "description": "10 flame-grilled and generously basted wings in your choice of PERi-PERi sauce. Served with PERi Ranch for dipping (or dunking, we don't judge).",
+      "category": "FOOD",
+      "simplified_description": "10 flame-grilled and generously basted wings in your choice of PERi-PERi sauce. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Chicken",
+      "price": 31.59,
+      "description": "Cut into quarters. Flame-grilled, skin-on, and generously basted in your choice of PERi-PERi sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cut into quarters. Flame-grilled, skin-on, and generously basted in your choice ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread CLT",
+      "price": 16.59,
+      "description": "PERi-PERi Pulled Chicken, cheddar cheese, arugula and tomato served on warm buttery garlic bread.",
+      "category": "FOOD",
+      "simplified_description": "PERi-PERi Pulled Chicken, cheddar cheese, arugula and tomato served on warm butt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": 15.59,
+      "description": "Our flame-grilled PERi-PERi chicken breast served with arugula, pickled red onions, tomato and PERinaise on a traditional Portuguese roll.",
+      "category": "FOOD",
+      "simplified_description": "Our flame-grilled PERi-PERi chicken breast served with arugula, pickled red onio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nandoca's Choice",
+      "price": 18.99,
+      "description": "Flame-grilled butterfly chicken breast on garlic bread topped with coleslaw.",
+      "category": "FOOD",
+      "simplified_description": "Flame-grilled butterfly chicken breast on garlic bread topped with coleslaw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wrap",
+      "price": 16.59,
+      "description": "Grilled chicken breast with a mix of crunchy veggies, sweet chili jam and our tangy lemon honey yogurt sauce.",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken breast with a mix of crunchy veggies, sweet chili jam and our ta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Chicken Caesar Wrap",
+      "price": 16.59,
+      "description": "Pulled chicken, Romaine, parmesan cheese, classic Caesar dressing.",
+      "category": "FOOD",
+      "simplified_description": "Pulled chicken, Romaine, parmesan cheese, classic Caesar dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thigh & Mighty Sandwich",
+      "price": 19.99,
+      "description": "Two boneless thighs, arugula, tomato, pickled red onions, PERinaise.",
+      "category": "FOOD",
+      "simplified_description": "Two boneless thighs, arugula, tomato, pickled red onions, PERinaise.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 15.39,
+      "description": "Veggie burger served on a stone-baked Portuguese roll with arugula, tomato and PERinaise.",
+      "category": "FOOD",
+      "simplified_description": "Veggie burger served on a stone-baked Portuguese roll with arugula, tomato and P",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Portobello Mushroom & Halloumi Wrap",
+      "price": 15.89,
+      "description": "Portobello Mushrooms, Halloumi Cheese, Lemon Honey Yogurt, Chilli Jam, Arugula, Tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Portobello Mushrooms, Halloumi Cheese, Lemon Honey Yogurt, Chilli Jam, Arugula, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Winter Warm-Up Platter",
+      "price": 36.99,
+      "description": "Beat the winter chill with our Winter Warm Up Platter, complete with a whole Flame-Grilled chicken, large PERi-Fries, Large Spiced Rice and Garlic Bread.",
+      "category": "FOOD",
+      "simplified_description": "Beat the winter chill with our Winter Warm Up Platter, complete with a whole Fla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Full Platter",
+      "price": 49.99,
+      "description": "Whole chicken + 2 large sides + garlic bread (for 3 people).",
+      "category": "FOOD",
+      "simplified_description": "Whole chicken + 2 large sides + garlic bread (for 3 people).",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Platter",
+      "price": 64.99,
+      "description": "Whole chicken + 2 chicken thigh skewers + 3 large sides + garlic bread (for 4 people).",
+      "category": "FOOD",
+      "simplified_description": "Whole chicken + 2 chicken thigh skewers + 3 large sides + garlic bread (for 4 pe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Platter",
+      "price": 79.99,
+      "description": "2 whole chickens + 4 large sides + garlic bread (for 6 people).",
+      "category": "FOOD",
+      "simplified_description": "2 whole chickens + 4 large sides + garlic bread (for 6 people).",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "5 PERi-PERi Whole Wings",
+      "price": 12.99,
+      "description": "Our star treats. Marinated for 24 hours and flame-grilled to order. Served with PERi Ranch.",
+      "category": "FOOD",
+      "simplified_description": "Our star treats. Marinated for 24 hours and flame-grilled to order. Served with ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 4.99,
+      "description": "Traditional Portuguese roll with garlic and herb spread.",
+      "category": "FOOD",
+      "simplified_description": "Traditional Portuguese roll with garlic and herb spread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus with PERi-PERi Drizzle",
+      "price": 7.39,
+      "description": "Topped with superseed crunch. Dig in with chunks of warm pita.",
+      "category": "FOOD",
+      "simplified_description": "Topped with superseed crunch. Dig in with chunks of warm pita.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Mixed Olives",
+      "price": 4.99,
+      "description": "Green and black olives perked up with mushrooms, garlic, peppers and chilli. May contain pits.",
+      "category": "FOOD",
+      "simplified_description": "Green and black olives perked up with mushrooms, garlic, peppers and chilli. May",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Halloumi Cheese Sticks & Dip",
+      "price": 8.99,
+      "description": "Served with chili jam for dipping.",
+      "category": "FOOD",
+      "simplified_description": "Served with chili jam for dipping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PERi-PERi Chicken Bowl",
+      "price": 15.99,
+      "description": "Spiced Rice topped with PERi-PERi chicken, arugula, roasted red peppers, cut roasted corn and hummus.",
+      "category": "FOOD",
+      "simplified_description": "Spiced Rice topped with PERi-PERi chicken, arugula, roasted red peppers, cut roa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rainbow Bowl",
+      "price": 17.99,
+      "description": "Avocado, tomato cucumber & onion salad, pickled cauliflower, hummus, feta, superseed crunch, on Spiced Rice, drizzled with Lemon & Herb PERi-PERi.",
+      "category": "FOOD",
+      "simplified_description": "Avocado, tomato cucumber & onion salad, pickled cauliflower, hummus, feta, super",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Chicken Caesar Salad",
+      "price": 18.19,
+      "description": "PERi pita croutons, shaved parmesan, classic Caesar dressing, and romaine.",
+      "category": "FOOD",
+      "simplified_description": "PERi pita croutons, shaved parmesan, classic Caesar dressing, and romaine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PERi Mac",
+      "price": 5.99,
+      "description": "Creamy 4-cheese mac topped with PERi breadcrumbs.",
+      "category": "SIDE",
+      "simplified_description": "Creamy 4-cheese mac topped with PERi breadcrumbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PERi-Fries",
+      "price": 4.49,
+      "description": "Crispy fries with our signature PERi-salt.",
+      "category": "SIDE",
+      "simplified_description": "Crispy fries with our signature PERi-salt.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spiced Rice",
+      "price": null,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

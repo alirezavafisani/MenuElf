@@ -1,0 +1,336 @@
+{
+  "restaurant": "famoso",
+  "parsed_at": "2026-02-06T02:12:22.892831",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "FIRE-ROASTED TOMATO BISQUE",
+      "price": 10.0,
+      "description": "Award-winning roasted Campania tomato soup topped with Feta. Served with garlic flatbread.",
+      "category": "SOUP",
+      "simplified_description": "Roasted tomato soup with feta cheese and garlic flatbread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ITALIAN CHICKEN & PASTA SOUP",
+      "price": 10.0,
+      "description": "Chunky chicken, celery, carrots, wide-cut noodles, Grana Padano, parsley and hearty Italian seasoning. Served with garlic flatbread.",
+      "category": "SOUP",
+      "simplified_description": "Chicken soup with vegetables, noodles, cheese, and garlic flatbread.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NAPOLI SALAD",
+      "price": null,
+      "description": "Mixed field greens, fresh tomato, red onions, carrots, chickpeas, house balsamic vinaigrette.",
+      "category": "SALAD",
+      "simplified_description": "Mixed greens salad with tomato, onions, carrots, chickpeas, and balsamic dressing.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 10.0,
+      "description": "Romaine lettuce, Parmesan, croutons, creamy Caesar dressing, lemon wedge.",
+      "category": "SALAD",
+      "simplified_description": "Romaine salad with Parmesan, croutons, creamy Caesar dressing, and lemon.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD with Prosciutto Crisps for 1",
+      "price": null,
+      "description": "Romaine lettuce, Parmesan, croutons, creamy Caesar dressing, lemon wedge.",
+      "category": "SALAD",
+      "simplified_description": "Romaine salad with Parmesan, croutons, creamy Caesar dressing, and lemon.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAPRESE SALAD for 2",
+      "price": null,
+      "description": "Vegetarian. Fresh Fior-di-latte and wedges of tomato tossed with extra virgin olive oil, balsamic vinegar, fresh basil and Italian seasonings on top of a nest of mixed field greens.",
+      "category": "SALAD",
+      "simplified_description": "Fresh mozzarella and tomato salad with basil and balsamic on greens.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "GORGONZOLA WALNUT SALAD for 2",
+      "price": null,
+      "description": "Romaine lettuce, Gorgonzola cheese, walnuts, dried cranberries, house Gorgonzola walnut vinaigrette.",
+      "category": "SALAD",
+      "simplified_description": "Romaine salad with Gorgonzola, walnuts, cranberries, and walnut vinaigrette.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Contains nuts; serves two"
+    },
+    {
+      "name": "SIGNATURE FAMOSO SALAD for 5",
+      "price": 19.0,
+      "description": "Our signature salad comes with a full size oven-roasted, marinated chicken breast, romaine lettuce, prosciutto crisps, carrots, tomato, spicy salami, Feta, and finished with our house dijon-balsamic vinaigrette.",
+      "category": "SALAD",
+      "simplified_description": "Large salad with chicken, prosciutto, salami, feta, and mixed veggies.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Serves five; spicy"
+    },
+    {
+      "name": "SPAGHETTI POMODORO",
+      "price": 19.0,
+      "description": "Vegetarian. Pomodoro sauce, Grana Padano, basil, Ricotta cheese.",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti with tomato sauce, cheese, and fresh basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI BOLOGNESE",
+      "price": 22.0,
+      "description": "Slow simmered beef, pork, pomodoro sauce, Grana Padano, Ricotta cheese.",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti with slow-cooked beef and pork meat sauce and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCCINE ALFREDO",
+      "price": 19.0,
+      "description": "Vegetarian. Famoso style alfredo sauce with Grana Padano and basil.",
+      "category": "PASTA",
+      "simplified_description": "Fettuccine pasta with creamy Alfredo sauce and basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCCINE ALLA PESTO & PRAWNS",
+      "price": 27.0,
+      "description": "Sautéed prawns, creamy pesto, Grana Padano, basil.",
+      "category": "PASTA",
+      "simplified_description": "Fettuccine with prawns in creamy pesto sauce and basil.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GNOCCHI POMODORO",
+      "price": 22.0,
+      "description": "Vegetarian. Potato dumplings, pomodoro sauce, Ricotta cheese, basil.",
+      "category": "PASTA",
+      "simplified_description": "Potato gnocchi with tomato sauce, ricotta, and basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN PARMESAN + SPAGHETTI POMODORO",
+      "price": 27.0,
+      "description": "Full size breaded chicken breast, Mozzarella and Parmesan crust, baked on spaghetti pomodoro. A grande size meal!",
+      "category": "PASTA",
+      "simplified_description": "Breaded chicken with cheese crust served on spaghetti with tomato sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Large portion"
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 21.0,
+      "description": "Fior-di-latte, fresh basil, Grana Padano, extra virgin olive oil.",
+      "category": "PIZZA",
+      "simplified_description": "Classic pizza with fresh mozzarella, basil, cheese, and olive oil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ABRUZZO",
+      "price": 23.0,
+      "description": "Topped with authentic Campania tomato sauce, Fior-di-latte, basil, Grana Padano, Italian sausage, spicy salami, red onions, roasted mushrooms, fennel seeds, Smoked Mozzarella.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with tomato sauce, cheese, sausage, spicy salami, onions, mushrooms, and fennel seeds.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "VESUVIO",
+      "price": 22.0,
+      "description": "Topped with authentic Campania tomato sauce, Fior-di-latte, basil, Grana Padano, spicy salami, chili salt.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with tomato sauce, cheese, basil, spicy salami, and chili salt.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "CAPRICCIOSA",
+      "price": 23.0,
+      "description": "Fior-di-latte, basil, Grana Padano, Italian ham, roasted mushrooms, artichokes, kalamata olives, extra virgin olive oil.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with cheese, ham, mushrooms, artichokes, olives, and basil.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SICILIANA MEAT LOVERS",
+      "price": 23.0,
+      "description": "Fior-di-latte, basil, Grana Padano, prosciutto, Italian sausage, Italian ham, spicy capicola.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with cheese, basil, prosciutto, sausage, ham, and spicy capicola.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "PROSCIUTTO ARUGULA",
+      "price": 22.0,
+      "description": "Fior-di-latte, basil, Parmesan, Grana Padano, prosciutto, arugula, lemon wedge.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with cheese, prosciutto, fresh arugula, basil, and lemon wedge.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "QUATTRO FORMAGGI",
+      "price": 22.0,
+      "description": "Fior-di-latte, basil, Smoked Mozza, Gorgonzola, Grana Padano, lemon wedge.",
+      "category": "PIZZA",
+      "simplified_description": "Four cheese pizza with basil and a lemon wedge.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PRIMAVERA",
+      "price": 22.0,
+      "description": "Fior-di-latte, Smoked Mozza, basil, roasted red peppers, artichokes, roasted mushrooms, kalamata olives, red onions, Grana Padano.",
+      "category": "PIZZA",
+      "simplified_description": "Vegetable pizza with multiple cheeses, basil, and olives.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAVOLETTI",
+      "price": 23.0,
+      "description": "Fior-di-latte, oven-roasted brussel sprouts, prosciutto crisps, Gorgonzola, dates, walnuts, honey.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with cheese, brussel sprouts, prosciutto, walnuts, dates, and honey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PRAWN PESTO",
+      "price": 25.0,
+      "description": "Fior-di-latte, Ricotta, garlic citrus prawns, roasted garlic, red onions, sun-dried tomatoes, arugula, pesto, lemon wedge.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with cheese, prawns, pesto, garlic, onions, and sun-dried tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE + PEPPERONI LOVERS",
+      "price": 22.0,
+      "description": "More Mozzarella, even more pepperoni.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza loaded with extra mozzarella and pepperoni.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FAMOSO HAWAIIAN",
+      "price": 22.0,
+      "description": "Rossa sauce, Fior-di-latte, spicy capicola, bacon, Smoked Moza, fresh pineapple chunks.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with tomato sauce, cheese, spicy capicola, bacon, and pineapple.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "SWEET BBQ CHICKEN",
+      "price": 22.0,
+      "description": "Bourbon BBQ sauce, Fior-di-latte, Smoked Mozzarella, fire-roasted chicken, tomatoes, red onions.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with BBQ sauce, cheese, chicken, tomatoes, and onions.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SUPREME COMMANDER",
+      "price": 25.0,
+      "description": "Rossa sauce with oregano, Fior-di-latte, pepperoni, maple bacon, sausage, green pepper, red onions, mushrooms & olives.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with tomato sauce, cheese, pepperoni, bacon, sausage, and vegetables.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN ALLA ALFREDO",
+      "price": 23.0,
+      "description": "Famoso-style alfredo sauce, Fior-di-latte, marinated chicken, bacon, green pepper, red onions & mushrooms.",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with alfredo sauce, cheese, chicken, bacon, peppers, onions, and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

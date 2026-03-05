@@ -1,0 +1,178 @@
+{
+  "restaurant": "thindpakora",
+  "parsed_at": "2026-02-06T04:31:34.874089",
+  "item_count": 19,
+  "items": [
+    {
+      "name": "Papadum",
+      "price": 3.95,
+      "description": "A light and crispy lentil-based flatbread heated in the tandoor.",
+      "category": "FOOD",
+      "simplified_description": "A light and crispy lentil-based flatbread heated in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 7.49,
+      "description": "Two crispy pastries filled with your choice of fresh mixed vegetables or delicately spiced filling.",
+      "category": "FOOD",
+      "simplified_description": "Two crispy pastries filled with your choice of fresh mixed vegetables or delicat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chaat",
+      "price": 12.99,
+      "description": "Crispy vegetable samosas, mildly spiced, served with potatoes, chickpeas, onions, topped with yogurt, cilantro, and tamarind chutneys.",
+      "category": "FOOD",
+      "simplified_description": "Crispy vegetable samosas, mildly spiced, served with potatoes, chickpeas, onions",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Pakora",
+      "price": 11.99,
+      "description": "Delicately spiced fried fritters lightly battered in chickpea flour, served with cilantro and tamarind chutneys.",
+      "category": "FOOD",
+      "simplified_description": "Delicately spiced fried fritters lightly battered in chickpea flour, served with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.99,
+      "description": "",
+      "category": "KIDS FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese on Fries",
+      "price": 5.99,
+      "description": "",
+      "category": "KIDS FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 7.99,
+      "description": "",
+      "category": "KIDS FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pakora",
+      "price": 14.99,
+      "description": "(1 Pound)",
+      "category": "OTHER",
+      "simplified_description": "(1 Pound)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gobi Pakora",
+      "price": 12.99,
+      "description": "(1 Pound)",
+      "category": "OTHER",
+      "simplified_description": "(1 Pound)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhni",
+      "price": 14.99,
+      "description": "Mixed lentils cooked with select herbs and spices.",
+      "category": "FOOD",
+      "simplified_description": "Mixed lentils cooked with select herbs and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 14.99,
+      "description": "Chickpeas cooked over a slow fire, blended with spices and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Chickpeas cooked over a slow fire, blended with spices and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 16.99,
+      "description": "Succulent chicken cubes broiled in the tandoor with a delicious blend of creamed tomato curry and exotic spices.",
+      "category": "FOOD",
+      "simplified_description": "Succulent chicken cubes broiled in the tandoor with a delicious blend of creamed",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 15.99,
+      "description": "Chicken cubes cooked in a blend of curry sauce with a mix of onions, tomatoes, garlic, ginger, spices & herbs.",
+      "category": "FOOD",
+      "simplified_description": "Chicken cubes cooked in a blend of curry sauce with a mix of onions, tomatoes, g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 16.99,
+      "description": "Basmati rice with green peas, herbs, nuts, raisins, and spices.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice with green peas, herbs, nuts, raisins, and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Naan",
+      "price": 2.99,
+      "description": "A traditional white flour bread baked in the tandoor.",
+      "category": "BREADS",
+      "simplified_description": "A traditional white flour bread baked in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 3.59,
+      "description": "Naan baked with butter in the tandoor.",
+      "category": "BREADS",
+      "simplified_description": "Naan baked with butter in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lentil Soup",
+      "price": 5.99,
+      "description": "Homemade lentil soup prepared in traditional Indian style.",
+      "category": "SOUPS",
+      "simplified_description": "Homemade lentil soup prepared in traditional Indian style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 5.49,
+      "description": "Chilled yogurt drink blended with mango pulp.",
+      "category": "DRINK",
+      "simplified_description": "Chilled yogurt drink blended with mango pulp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Pudding",
+      "price": 6.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

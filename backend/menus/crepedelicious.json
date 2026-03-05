@@ -1,0 +1,187 @@
+{
+  "restaurant": "crepedelicious",
+  "parsed_at": "2025-12-25T00:30:31.045767",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "Nutella-Licious",
+      "price": null,
+      "description": "signature crepe filled with Nutella®",
+      "simplified_description": "A crepe filled with Nutella",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dulce & Banana",
+      "price": null,
+      "description": "dulce de leche, banana, cinnamon, powdered sugar",
+      "simplified_description": "A crepe with caramel, banana, cinnamon, and powdered sugar",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Holy Oreo®",
+      "price": null,
+      "description": "Nutella®, crushed Oreo®, marshmallow",
+      "simplified_description": "A crepe with Nutella, crushed Oreos, and marshmallow",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Split",
+      "price": null,
+      "description": "strawberry, banana, Nutella®, vanilla ice cream",
+      "simplified_description": "A crepe with strawberry, banana, Nutella, and vanilla ice cream",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuttie Fruittie",
+      "price": null,
+      "description": "Nutella®, strawberry, banana",
+      "simplified_description": "A crepe with Nutella, strawberry, and banana",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Romeo & Juliet",
+      "price": null,
+      "description": "sugar, butter",
+      "simplified_description": "A simple crepe with sugar and butter",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York",
+      "price": null,
+      "description": "Nutella®, strawberry, NY cheesecake, caramel",
+      "simplified_description": "A crepe with Nutella, strawberry, cheesecake, and caramel",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit Patisserie",
+      "price": null,
+      "description": "custard, strawberry",
+      "simplified_description": "A crepe with custard and strawberry",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Shortcake",
+      "price": null,
+      "description": "custard, strawberry, shortcake, powdered sugar",
+      "simplified_description": "A crepe with custard, strawberry, shortcake, and powdered sugar",
+      "category": "Sweet Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OG Classic",
+      "price": null,
+      "description": "milk, dark and white belgian chocolate",
+      "simplified_description": "A crepe with milk and dark and white Belgian chocolate",
+      "category": "Specialty Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Caramel",
+      "price": null,
+      "description": "pretzel, caramel, triple chocolate",
+      "simplified_description": "A crepe with pretzel, caramel, and three types of chocolate",
+      "category": "Specialty Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio",
+      "price": null,
+      "description": "strawberry, banana, triple chocolate",
+      "simplified_description": "A crepe with strawberry, banana, and three types of chocolate",
+      "category": "Specialty Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "California Chicken/Steak",
+      "price": null,
+      "description": "steak or chicken, mozzarella, tomato, red onion, lettuce, ranch dressing",
+      "simplified_description": "A savory crepe with steak or chicken, cheese, tomato, onion, lettuce, and ranch dressing",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": null,
+      "description": "chicken, mozzarella, lettuce, tomato, mushroom, caesar dressing",
+      "simplified_description": "A savory crepe with chicken, cheese, lettuce, tomato, mushroom, and Caesar dressing",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Feta Tomato",
+      "price": null,
+      "description": "tomato, feta, balsamic glaze, evoo, everything bagel seasoning",
+      "simplified_description": "A savory crepe with tomato, feta cheese, balsamic glaze, olive oil, and bagel seasoning",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sunny Side",
+      "price": null,
+      "description": "jack cheese, sunny side up egg, folded into a square",
+      "simplified_description": "A savory crepe with cheese and a sunny side up egg",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Cheese",
+      "price": null,
+      "description": "ham, egg, jack cheese, mayo",
+      "simplified_description": "A savory crepe with ham, egg, cheese, and mayonnaise",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popeye",
+      "price": null,
+      "description": "spinach, mushroom, mozzarella, feta, feta greek dressing",
+      "simplified_description": "A savory crepe with spinach, mushroom, cheese, and Greek dressing",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blazing",
+      "price": null,
+      "description": "chicken or steak, jack cheese, spinach, mushroom, red onion, tomato, jalepeno, chipotle sauce",
+      "simplified_description": "A savory crepe with chicken or steak, cheese, spinach, mushroom, onion, tomato, jalapeno, and chipotle sauce",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme",
+      "price": null,
+      "description": "chicken, steak, jack cheese, lettuce, tomato, red onion, mushroom, ranch dressing",
+      "simplified_description": "A savory crepe with chicken, steak, cheese, lettuce, tomato, onion, mushroom, and ranch dressing",
+      "category": "Savory Crepes",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

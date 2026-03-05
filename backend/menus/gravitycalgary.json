@@ -1,0 +1,243 @@
+{
+  "restaurant": "gravitycalgary",
+  "parsed_at": "2026-02-06T02:23:54.523818",
+  "item_count": 19,
+  "items": [
+    {
+      "name": "Single Origin Espresso: Guatemala - Click Clack Blaow",
+      "price": null,
+      "description": "### Single Origin Espresso: Guatemala - Click Clack Blaow\nRegular price $21.30+ \nRegular price ~~$0.00~~ Sale price $21.30+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Espresso made from single origin Guatemalan coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Origin Decaf: Peru - The Fitz",
+      "price": null,
+      "description": "### Single Origin Decaf: Peru - The Fitz\nRegular price $22.15+ \nRegular price ~~$0.00~~ Sale price $22.15+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Decaffeinated espresso from single origin Peruvian coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Origin Espresso: Peru - Finished Symphony",
+      "price": null,
+      "description": "### Single Origin Espresso: Peru - Finished Symphony\nRegular price $22.30+ \nRegular price ~~$0.00~~ Sale price $22.30+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Espresso made from single origin Peruvian coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Origin Filter: Peru - Young, Dumb & Caffeinated",
+      "price": null,
+      "description": "### Single Origin Filter: Peru - Young, Dumb & Caffeinated\nRegular price $22.30+ \nRegular price ~~$0.00~~ Sale price $22.30+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Filtered coffee from single origin Peruvian beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Origin Espresso: Colombia - Wonderwall",
+      "price": null,
+      "description": "### Single Origin Espresso: Colombia - Wonderwall\nRegular price $22.30+ \nRegular price ~~$0.00~~ Sale price $22.30+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Espresso made from single origin Colombian coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Blend: Ethiopia, Colombia - Cafe Del Mar",
+      "price": null,
+      "description": "### Espresso Blend: Ethiopia, Colombia - Cafe Del Mar\nRegular price $23.50+ \nRegular price ~~$0.00~~ Sale price $23.50+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Espresso blend made from Ethiopian and Colombian coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Blend: Ethiopia, Colombia - Uptown Funk",
+      "price": null,
+      "description": "### Espresso Blend: Ethiopia, Colombia - Uptown Funk\nRegular price $24.00+ \nRegular price ~~$0.00~~ Sale price $24.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Espresso blend from Ethiopian and Colombian coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Origin Filter: Costa Rica - Bloodstream",
+      "price": null,
+      "description": "### Single Origin Filter: Costa Rica - Bloodstream\nRegular price $24.00+ \nRegular price ~~$0.00~~ Sale price $24.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Filtered coffee made from single origin Costa Rican beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Single Origin Filter: Ethiopia - Luther",
+      "price": null,
+      "description": "### Single Origin Filter: Ethiopia - Luther\nRegular price $24.00+ \nRegular price ~~$0.00~~ Sale price $24.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Filtered coffee from single origin Ethiopian coffee beans.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravity Drip Coffee Box - Light Roast",
+      "price": 25.0,
+      "description": "### Gravity Drip Coffee Box - Light Roast\nRegular price $25.00 \nRegular price Sale price $25.00 \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Box of light roast drip coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravity Drip Coffee Box - Medium Roast",
+      "price": 25.0,
+      "description": "### Gravity Drip Coffee Box - Medium Roast\nRegular price $25.00 \nRegular price Sale price $25.00 \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Box of medium roast drip coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravity Drip Coffee Box - Dark Roast",
+      "price": 25.0,
+      "description": "### Gravity Drip Coffee Box - Dark Roast\nRegular price $25.00 \nRegular price Sale price $25.00 \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Box of dark roast drip coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravity Drip Coffee Box - All Roast Bundle",
+      "price": 70.0,
+      "description": "### Gravity Drip Coffee Box - All Roast Bundle\nRegular price $70.00 \nRegular price Sale price $70.00 \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "Bundle box with all roast levels of drip coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gravity Gift Card - Physical (for use in Gravity Cafes)",
+      "price": null,
+      "description": "### Gravity Gift Card - Physical (for use in Gravity Cafes)\nRegular price $25.00+ \nRegular price Sale price $25.00+ \nUnit price / per",
+      "category": "OTHER",
+      "simplified_description": "Physical gift card for use at Gravity Cafes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravity eGift Card (on-line store only)",
+      "price": null,
+      "description": "### Gravity eGift Card (on-line store only)\nRegular price $25.00+ \nRegular price Sale price $25.00+ \nUnit price / per",
+      "category": "OTHER",
+      "simplified_description": "Electronic gift card for use in the online store.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Five'21 Open Road",
+      "price": null,
+      "description": "### Five'21 Open Road\nRegular price $19.00+ \nRegular price Sale price $19.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "A beverage from Five'21 available at $19.00+ per unit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Five'21 Blue Bird",
+      "price": null,
+      "description": "### Five'21 Blue Bird\nRegular price $19.00+ \nRegular price ~~$0.00~~ Sale price $19.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "A beverage from Five'21 available at $19.00+ per unit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Five'21 Last Mile",
+      "price": null,
+      "description": "### Five'21 Last Mile\nRegular price $19.00+ \nRegular price ~~$0.00~~ Sale price $19.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "A beverage from Five'21 available at $19.00+ per unit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Five'21 Brazil",
+      "price": null,
+      "description": "### Five'21 Brazil\nRegular price $19.00+ \nRegular price ~~$0.00~~ Sale price $19.00+ \nUnit price / per",
+      "category": "DRINK",
+      "simplified_description": "A beverage from Five'21 available at $19.00+ per unit.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

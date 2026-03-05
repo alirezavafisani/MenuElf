@@ -1,0 +1,70 @@
+{
+  "restaurant": "phohoan17",
+  "parsed_at": "2026-02-06T03:44:26.070262",
+  "item_count": 7,
+  "items": [
+    {
+      "name": "Board Pita Chicken Ingredients",
+      "price": null,
+      "description": "Sorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor nulla id sit neque scelerisque pulvinar. Mus amet interdum turpis consequat adipiscing. Elementum feugiat sed duis consectetur varius et cras mattis. Lobortis auctor sit in eu nisl fusce augue venenatis, dui. Phasellus eget sagittis mauris, nibh augue cursus pellentesque amet elementum. Tristique amet sollicitudin sit nulla aliquam, imperdiet sed ut diam. Suspendisse ipsum rhoncus nulla lectus. Id neque in urna neque non amet. Tortor sed aliquam in faucibus enim, posuere. Sed et accumsan, neque posuere tempus in cras. Ornare lectus pretium, est eget purus, enim quam purus netus. Turpis nunc Dictum ultrices et suspendisse amet mattis in pellentesque. Vulputate arcu, consectetur odio donec nec duis ultrices facilisi. Mauris cursus elit diam, urna suspendisse et, amet. Vitae ligula ultrices nulla justo, enim lorem duis. Volutpat sit et neque, aliquam, diam at at neque. Lacus augue",
+      "category": "OTHER",
+      "simplified_description": "Sorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor nulla id sit neq",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta Fettuccine",
+      "price": 25.0,
+      "description": "Rated **5.00** out of 5",
+      "category": "FOOD",
+      "simplified_description": "Rated **5.00** out of 5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Submarine Sandwich",
+      "price": 30.0,
+      "description": "Rated **5.00** out of 5 ~~$ 40.00~~ Original price was: $40.00.",
+      "category": "FOOD",
+      "simplified_description": "Rated **5.00** out of 5 ~~$ 40.00~~ Original price was: $40.00.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Chicken Wings Asian Tomatoes",
+      "price": 37.5,
+      "description": "Sorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor nulla id sit neque scelerisque pulvinar. Mus amet interdum turpis consequat adipiscing. Elementum feugiat sed duis consectetur varius et cras mattis. Lobortis auctor sit in eu nisl fusce augue venenatis, dui. Phasellus eget sagittis mauris, nibh augue cursus pellentesque amet elementum. Tristique amet sollicitudin sit nulla aliquam, imperdiet sed ut diam. Suspendisse ipsum rhoncus nulla lectus. Id neque in urna neque non amet. Tortor sed aliquam in faucibus enim, posuere. Sed et accumsan, neque posuere tempus in cras. Ornare lectus pretium, est eget purus, enim quam purus netus. Turpis nunc Dictum ultrices et suspendisse amet mattis in pellentesque. Vulputate arcu, consectetur odio donec nec duis ultrices facilisi. Mauris cursus elit diam, urna suspendisse et, amet. Vitae ligula ultrices nulla justo, enim lorem duis. Volutpat sit et neque, aliquam, diam at at neque. Lacus augue",
+      "category": "FOOD",
+      "simplified_description": "Sorem ipsum dolor sit amet, consectetur adipiscing elit. Tortor nulla id sit neq",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 35.0,
+      "description": "Rated **5.00** out of 5 ~~$ 50.00~~ Original price was: $50.00.",
+      "category": "FOOD",
+      "simplified_description": "Rated **5.00** out of 5 ~~$ 50.00~~ Original price was: $50.00.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Crab Plate",
+      "price": 153.0,
+      "description": "Rated **5.00** out of 5",
+      "category": "FOOD",
+      "simplified_description": "Rated **5.00** out of 5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Food Prawns",
+      "price": 73.0,
+      "description": "Rated **5.00** out of 5",
+      "category": "FOOD",
+      "simplified_description": "Rated **5.00** out of 5",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

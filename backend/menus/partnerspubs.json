@@ -1,0 +1,592 @@
+{
+  "restaurant": "partnerspubs",
+  "parsed_at": "2025-12-25T01:05:32.864360",
+  "item_count": 65,
+  "items": [
+    {
+      "name": "AAA Top Sirloin Steak Sandwich with fries",
+      "price": 14.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kampus Czech pilsner sleeves",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "14 oz"
+    },
+    {
+      "name": "Kampus Czech pilsner pints",
+      "price": 6.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Kampus Czech pilsner schooners",
+      "price": 10.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "25 oz"
+    },
+    {
+      "name": "Jagermeister Shots",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "1 oz"
+    },
+    {
+      "name": "Wing Night",
+      "price": 0.6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "Small 2 topper pizza",
+      "price": 14.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "Kampus Beers: Nitro Red, Brown Ale, Amber Ale",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Pie Shots",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Appetizers",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "$2.00 Off (4pm-close)"
+    },
+    {
+      "name": "Build your own pasta",
+      "price": 14.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "Bacon and Egg Breakfast",
+      "price": 13.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "(11am-2pm)"
+    },
+    {
+      "name": "1pc Fish n Chips",
+      "price": 14.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "2pc Fish n Chips",
+      "price": 19.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "Kampus IPA sleeves",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "14 oz"
+    },
+    {
+      "name": "Kampus IPA Pints",
+      "price": 6.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Kampus IPA schooners",
+      "price": 10.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "25 oz"
+    },
+    {
+      "name": "Honey Jack Shots",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "1 oz"
+    },
+    {
+      "name": "All day Happy Hour",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "$0.60 cent Wings"
+    },
+    {
+      "name": "Tequila shots",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Ogden Specials",
+      "dietary_info": [],
+      "other_info": "1 oz"
+    },
+    {
+      "name": "AAA Top Sirloin Steak Sandwich with fries",
+      "price": 14.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kampus Czech pilsner sleeves",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "14 oz"
+    },
+    {
+      "name": "Kampus Czech pilsner pints",
+      "price": 6.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Kampus Czech pilsner schooners",
+      "price": 10.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "25 oz"
+    },
+    {
+      "name": "Jagermeister Shots",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "1 oz"
+    },
+    {
+      "name": "Small 2 topper pizza",
+      "price": 14.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "Kampus Beers: Nitro Red, Brown Ale, Amber Ale",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Pie Shots",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wing Night",
+      "price": 0.6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "All Appetizers",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "$2.00 Off (4pm-close)"
+    },
+    {
+      "name": "Wings 4pm-close",
+      "price": 13.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "(4pm-close)"
+    },
+    {
+      "name": "Bacon and Egg Breakfast",
+      "price": 13.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "(11am-2pm)"
+    },
+    {
+      "name": "Kampus IPA sleeves",
+      "price": 5.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "14 oz"
+    },
+    {
+      "name": "Kampus IPA pints",
+      "price": 6.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Kampus IPA schooners",
+      "price": 10.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "25 oz"
+    },
+    {
+      "name": "Honey Jack Shots",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Foothills Specials",
+      "dietary_info": [],
+      "other_info": "1 oz"
+    },
+    {
+      "name": "Provoked Vodka",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Tanqueray London Gin",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Crown Royal Scotch Whiskey",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Chavon Spiced Rum",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Dewar’s White Label Scotch",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Captain Morgan Dark Rum",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Captain Morgan White Rum",
+      "price": 6.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Grey Goose",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Ketel One",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Ciroc",
+      "price": 8.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Three Olives Grape Vodka",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Flavored Smirnoff",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Flavored Crown Royal (Apple, Peach)",
+      "price": 7.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Jack Daniel’s",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Jameson’s Irish Whiskey",
+      "price": 7.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Kampus Belgian Wit",
+      "price": 6.0,
+      "description": "A hazy wheat beer with zesty orange and lemon peel aromas, spiced with subtle clove",
+      "simplified_description": "A wheat beer with orange and lemon flavors, lightly spiced",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "14 oz"
+    },
+    {
+      "name": "Kampus Belgian Wit",
+      "price": 7.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Kampus Belgian Wit",
+      "price": 10.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "25 oz"
+    },
+    {
+      "name": "Kampus Belgian Wit",
+      "price": 26.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "60 oz"
+    },
+    {
+      "name": "Kampus Raspberry Blonde",
+      "price": 6.5,
+      "description": "A light, golden blonde ale infused with real raspberries. Delicate malt sweetness blends seamlessly with bright juicy berry flavors",
+      "simplified_description": "A light blonde ale with raspberry flavor",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "14 oz"
+    },
+    {
+      "name": "Kampus Raspberry Blonde",
+      "price": 8.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Kampus Raspberry Blonde",
+      "price": 11.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "25 oz"
+    },
+    {
+      "name": "Kampus Raspberry Blonde",
+      "price": 27.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "60 oz"
+    },
+    {
+      "name": "Strongbow Apple Cider",
+      "price": 8.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "18 oz"
+    },
+    {
+      "name": "Smirnoff Ice",
+      "price": 7.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(330ml)"
+    },
+    {
+      "name": "Moscow Mule",
+      "price": 9.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "price": 7.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(1 oz)"
+    },
+    {
+      "name": "Mission Ridge Red & White",
+      "price": 6.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(6oz)"
+    },
+    {
+      "name": "Mission Ridge Red & White",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "(Half Litre)"
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+  "restaurant": "cattlebaroncalgary",
+  "parsed_at": "2026-02-06T01:42:41.650270",
+  "item_count": 127,
+  "items": [
+    {
+      "name": "Tanqueray 10",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A premium gin with citrus and botanical flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hendricks",
+      "price": 11.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A distinctive gin infused with cucumber and rose notes.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Trace",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A smooth bourbon whiskey with rich vanilla and caramel flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Maker's Mark",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A handcrafted bourbon with sweet and smooth vanilla notes.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Woodford Reserve",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A rich bourbon with balanced flavors of dried fruit and vanilla.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Michter's Small Batch",
+      "price": 16.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A small batch bourbon with complex caramel and oak flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ballentines",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A blended Scotch whisky with a smooth and mellow taste.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chivas Regal",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A premium blended Scotch whisky with rich and smooth flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Glenlivet 12yr",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A 12-year-old single malt Scotch with fruity and floral notes.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Glenlivet 15yr",
+      "price": 16.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A 15-year-old single malt Scotch with rich and smooth flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Glenmorangie 10yr",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A 10-year-old single malt Scotch with citrus and vanilla notes.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lagavulin 18yr",
+      "price": 18.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An 18-year-old smoky single malt Scotch with rich peat flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "J.W. Black Label",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A blended Scotch whisky with a smooth and balanced flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "J.W. Blue Label",
+      "price": 35.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A premium blended Scotch whisky with rich and complex flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb's White",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A white rum with a smooth and light flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb's Dark",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A dark rum spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacardi White",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A white rum spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacardi 8",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An aged rum with rich flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appelton's",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A premium Jamaican rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hart & Son",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A smooth rum spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malibu",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A coconut-flavored rum liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bumbu",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Caribbean spiced rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "J.P Wisers Deluxe",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Canadian blended whisky.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bearface",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A smooth Canadian whisky.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jack Daniels",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A classic Tennessee whiskey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crown Royal",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A premium Canadian whisky.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gibsons Finest",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Canadian whisky with smooth taste.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "J.P Wisers 18yr",
+      "price": 15.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An 18-year-old Canadian whisky.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "El Tequileno Blanco",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A clear, unaged tequila.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jose Cuervo Reposado",
+      "price": 11.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A rested tequila with smooth flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Padre Azul Blanco",
+      "price": 17.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A type of tequila spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Padre Resposado",
+      "price": 21.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A type of aged tequila spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Padre Añejo",
+      "price": 25.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A type of extra aged tequila spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Macieira Brandy",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A brandy spirit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jagermeister",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A herbal liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southern Comfort",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A whiskey-flavored liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aperol",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A bitter orange-flavored aperitif.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Campari",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A bitter herbal liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jamesons",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An Irish whiskey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sambuca White",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An anise-flavored liqueur.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CattleBaron Pilsner",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A light pilsner beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tool Shed Peoples Skills Cream Ale",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A smooth cream ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original 16 Pale Ale",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A pale ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original 16 Copper Ale",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A copper ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Michelob Ultra",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A light lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Tallgrass Tango",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A craft beer from Banded Peak Brewing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Microburst Hazy IPA",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A hazy IPA beer from Banded Peak Brewing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stella Artois",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A classic Belgian lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Canadian-style lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokanee",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Canadian pale lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bud Light",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A light American lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A classic American lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A light American lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A popular Mexican pale lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Dutch pale lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strongow Cider",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A dry English cider made from apples.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guinness Pub Draught",
+      "price": 12.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A smooth Irish dry stout beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Claw Hard Seltzer Mango",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A mango-flavored hard seltzer beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona Sunbrew 0.0",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A non-alcoholic version of Corona beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guinness 0",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A non-alcoholic version of Guinness stout.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Old Fashion (2oz.)",
+      "price": null,
+      "description": "Black walnut bitters, orange slice, maraschino cherry, simple syrup, stirred& served smoky | Bearface Canadian Whiskey 16 | Buffalo Trace Kentucky Bourbon 18",
+      "category": "DRINK",
+      "simplified_description": "A smoky whiskey cocktail with bitters, orange, cherry, and simple syrup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Raspberry Mojito",
+      "price": 14.0,
+      "description": "Lamb's White Rum, fresh raspberries, mint, limes, raspberry syrup, served over crushed ice.",
+      "category": "DRINK",
+      "simplified_description": "Rum cocktail with fresh raspberries, mint, lime, and raspberry syrup over crushed ice.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CB Caesar",
+      "price": 13.0,
+      "description": "Polar Ice Vodka, CB steak spice, tabasco, worchestershire, pepper, clamato juice, served tall & garnished with lime, house made jerky, grape tomato, olive.",
+      "category": "DRINK",
+      "simplified_description": "Vodka cocktail with spicy seasoning, clamato juice, and garnishes including jerky and olive.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Hula",
+      "price": 16.0,
+      "description": "Empress 1908 Indigo Gin, pineapple & lemon juice, soda, simple syrup, with a fresh pineapple.",
+      "category": "DRINK",
+      "simplified_description": "Gin cocktail with pineapple, lemon juice, soda, and simple syrup.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aperol Rosé",
+      "price": 15.0,
+      "description": "Aperol, Giusti Rosalia Prosecco Rosé, with soda, strawberry & lime juice.",
+      "category": "DRINK",
+      "simplified_description": "Aperol and rosé prosecco cocktail with soda, strawberry, and lime juice.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Empress & Tonic",
+      "price": 18.0,
+      "description": "Empress 1908 Indigo Gin, fever-tree tonic, garnished with fresh rosemary & lemon wheel.",
+      "category": "DRINK",
+      "simplified_description": "Gin and tonic garnished with rosemary and lemon.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Whiskey Sour",
+      "price": 14.0,
+      "description": "Ballentine's Scotch Whiskey, fresh lime juice, egg whites & simple syrup.",
+      "category": "DRINK",
+      "simplified_description": "Whiskey cocktail with lime juice, egg whites, and simple syrup.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moscow Mule",
+      "price": 15.0,
+      "description": "Polar Ice Vodka, lime juice, topped with fever-tree ginger beer, served in a copper mug & fresh lime.",
+      "category": "DRINK",
+      "simplified_description": "Vodka cocktail with lime juice and ginger beer served in a copper mug.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Margarita",
+      "price": 18.0,
+      "description": "El Tequileno Blanco Tequila, Triple Sec, fresh jalapeños, lemon, lime & orange juice, served on the rocks with salted rim.",
+      "category": "DRINK",
+      "simplified_description": "Tequila cocktail with citrus juices and fresh jalapeños, served with salted rim.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Classic",
+      "price": 13.0,
+      "description": "Beefeater Gin or Polar Ice Vodka, dry vermouth | Add 3 blue cheese stuffed olives +$1.50",
+      "category": "DRINK",
+      "simplified_description": "Gin or vodka martini with dry vermouth, optional blue cheese olives.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Manhattan",
+      "price": 13.0,
+      "description": "J.P Wisers Deluxe, Sweet Vermouth, black walnut bitters, maraschino cherry.",
+      "category": "DRINK",
+      "simplified_description": "Whiskey cocktail with sweet vermouth, bitters, and a cherry.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Raspberry Drop",
+      "price": 16.0,
+      "description": "Polar Ice Vodka, Chambord Raspberry, fresh lemon juice, raspberry syrup, shaken & served with a sugar rim.",
+      "category": "DRINK",
+      "simplified_description": "Vodka cocktail with raspberry liqueur, lemon juice, and raspberry syrup with sugar rim.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peach Classic",
+      "price": 15.0,
+      "description": "Absolute Peach Vodka, Peach Schnapps, peach puree, served chilled  with a peach slice.",
+      "category": "DRINK",
+      "simplified_description": "Peach-flavored vodka cocktail served chilled with a peach slice.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baron Espresso",
+      "price": 17.0,
+      "description": "Absolute Vanilla Vodka, Wayne Gretzky's Irish Cream, Galliano, espresso coffee.",
+      "category": "DRINK",
+      "simplified_description": "Vanilla vodka and Irish cream cocktail with espresso and Galliano.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB - Tini",
+      "price": 14.0,
+      "description": "Crème Brûlée martini, Wayne Gretske Irish Cream, White Crème de Cacao, Frangelico liqueur, brûléed sugar rim.",
+      "category": "DRINK",
+      "simplified_description": "Creamy martini with Irish cream, crème de cacao, Frangelico, and brûléed sugar rim.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Virgin Raspberry Mojito",
+      "price": 11.0,
+      "description": "Fresh raspberries, mint, limes, raspberry syrup, served over crushed ice.",
+      "category": "DRINK",
+      "simplified_description": "A refreshing non-alcoholic mojito with raspberries, mint, and lime.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cran Ginger Mule",
+      "price": 7.0,
+      "description": "Cranberry juice, orange juice, fever-tree ginger beer, served in a copper mug with a fresh orange.",
+      "category": "DRINK",
+      "simplified_description": "A fruity ginger beer cocktail with cranberry and orange juices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Virgin CB Caesar",
+      "price": 8.0,
+      "description": "CB steak spice, tabasco, worchestershire, pepper, clamato juice, served tall & garnished with lime, house made jerky, grape tomato, olive.",
+      "category": "DRINK",
+      "simplified_description": "A spicy non-alcoholic Caesar with clamato juice and savory garnishes.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Strawberry Lemonade",
+      "price": 7.0,
+      "description": "Lemon juice, strawberry juice, soda, served over ice, with fresh lemon wheel.",
+      "category": "DRINK",
+      "simplified_description": "A sweet and tangy strawberry lemonade served over ice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lava Flow",
+      "price": 10.0,
+      "description": "Piña colada mix, banana & strawberry juices all blended together & garnished with fresh pineapple.",
+      "category": "DRINK",
+      "simplified_description": "A tropical blended drink with piña colada, banana, and strawberry flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Barone Montatlo Pinot Grigio, Italy",
+      "price": 8.0,
+      "description": "$8.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Barone Montatlo Pinot Grigio from Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Giusti Longheri Pinot Grigio, Italy",
+      "price": 10.0,
+      "description": "$10.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Giusti Longheri Pinot Grigio from Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crowded House Sauvignon Blanc, NZ",
+      "price": 10.0,
+      "description": "$10.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Crowded House Sauvignon Blanc from New Zealand.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chateau Ste Michelle Riesling, Washington",
+      "price": 11.0,
+      "description": "$11.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Chateau Ste Michelle Riesling from Washington.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chateau Le Grand Verdus Bordeaux Blanc, France",
+      "price": 52.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Chateau Le Grand Verdus Bordeaux Blanc from France.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Novellum Chardonnay, France",
+      "price": 12.0,
+      "description": "$12.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Novellum Chardonnay from France.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Giusti Sant'eustachio Sauvignon Nepis, Italy",
+      "price": 13.0,
+      "description": "$13.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Giusti Sant'eustachio Sauvignon Nepis from Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tinhorn Creek Gewürztraminer, Okanagan",
+      "price": 58.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Tinhorn Creek Gewürztraminer from Okanagan.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mer Soleil Reserve Chardonnay, Monterey County",
+      "price": 65.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A bottle of Mer Soleil Reserve Chardonnay from Monterey County.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "J. Lohr Riverstone Chardonnay, California",
+      "price": 67.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A bottle of J. Lohr Riverstone Chardonnay from California.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Terlan 'Tradition' Pinot Grigio, Italy",
+      "price": 75.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A white Italian Pinot Grigio wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Laughing Stock Viognier, Okanagan",
+      "price": 77.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A white Viognier wine from Okanagan.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stag's Leap Wine Cellars Aveta Sauvignon Blanc, Napa Valley",
+      "price": 92.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Sauvignon Blanc white wine from Napa Valley.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masi Modello Delle Venezie, Italy",
+      "price": 8.0,
+      "description": "$8.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Italian Masi Modello white wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quails Gate, Okanagan",
+      "price": 52.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A wine from Quails Gate in Okanagan.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Angels & Cowboys, Sonoma, California",
+      "price": 60.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A wine from Angels & Cowboys in Sonoma, California.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Giusti Prosecco Treviso DOC, Italy",
+      "price": 19.0,
+      "description": "$19.00/200 ml",
+      "category": "DRINK",
+      "simplified_description": "A 200ml serving of Italian Giusti Prosecco sparkling wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantina di Carpi 'Emma' Lambrusco, Italy",
+      "price": 9.0,
+      "description": "$9.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Italian Cantina di Carpi Lambrusco wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Giusti Rosalia Prosecco Rosé, Italy",
+      "price": 10.0,
+      "description": "$10.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Italian Giusti Rosalia Prosecco Rosé wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tommasi Poggio Al Tufo Rompicollo Sangiovese / Cabernet",
+      "price": 11.0,
+      "description": "$11.00/5oz",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Tommasi Sangiovese and Cabernet blend wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guisti Valpolicella Ripasso",
+      "price": 70.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An Italian Valpolicella Ripasso red wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Villa Antinori Chianti Classico",
+      "price": 78.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Chianti Classico red wine from Villa Antinori.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Reversanti Barolo",
+      "price": 90.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An Italian Barolo red wine from Reversanti.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guado Al Tasso Il Bruciato Bolgheri",
+      "price": 92.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A Bolgheri red wine called Il Bruciato by Guado Al Tasso.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masi Costasera Amarone Classico",
+      "price": 130.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "An Amarone Classico red wine from Masi Costasera.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Col Dorcia Brunello Di Montalcino",
+      "price": 145.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guisti Amarone Della Valpolicella Classico",
+      "price": 290.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Antinori Tiganello (Super Tuscan)",
+      "price": 310.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sassicaia Bolgheri (Super Tuscan)",
+      "price": 500.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taylor Fladgate 10 Yr.",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taylor Fladgate 20 Yr.",
+      "price": 19.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ramos Pinto 20 Yr.",
+      "price": 26.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Salad (GFO)",
+      "price": 14.0,
+      "description": "Fresh greens, house vinaigrette.",
+      "category": "FOOD",
+      "simplified_description": "Fresh greens served with house vinaigrette dressing.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "vegetarian",
+        "dairy-free"
+      ],
+      "other_info": "Gluten-free option"
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 15.0,
+      "description": "Traditional homemade dressing, garlic parmesan croutons.",
+      "category": "FOOD",
+      "simplified_description": "Salad with homemade dressing and garlic parmesan croutons.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wedge Salad (GFO)",
+      "price": 15.0,
+      "description": "Iceberg lettuce, bacon bits, crumbled blue cheese & choice of  blue cheese or ranch dressing.",
+      "category": "FOOD",
+      "simplified_description": "Iceberg lettuce with bacon, blue cheese, and choice of dressing.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Gluten-free option"
+    },
+    {
+      "name": "Feature Soup",
+      "price": 9.0,
+      "description": "Homemade fresh daily.",
+      "category": "FOOD",
+      "simplified_description": "Daily homemade soup, varies by day.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "French Onion Soup",
+      "price": 14.0,
+      "description": "Caramelized onions, double mozzarella.",
+      "category": "FOOD",
+      "simplified_description": "Soup with caramelized onions topped with melted mozzarella.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Shrimp Cocktail",
+      "price": 21.0,
+      "description": "Served chilled w/ homemade cocktail sauce & lemon",
+      "category": "FOOD",
+      "simplified_description": "Chilled jumbo shrimp served with cocktail sauce and lemon.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Brussel Sprout & Bacon (GFO)",
+      "price": 13.0,
+      "description": "Sautéed w/ crispy bacon, onions, red & green bell peppers.",
+      "category": "FOOD",
+      "simplified_description": "Sautéed brussel sprouts with bacon, onions, and bell peppers.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": "Gluten-free option"
+    },
+    {
+      "name": "Baked Brie",
+      "price": 19.0,
+      "description": "Topped w/ crispy bacon, toasted walnuts, served w/ sweet pepper jelly & crostini .",
+      "category": "FOOD",
+      "simplified_description": "Baked brie with bacon, walnuts, pepper jelly, and crostini.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Wings (GFO)",
+      "price": 20.0,
+      "description": "Lightly dusted, served salt & pepper or hot.",
+      "category": "FOOD",
+      "simplified_description": "Lightly coated chicken wings served with salt & pepper or hot sauce.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Short Dry Ribs",
+      "price": 22.0,
+      "description": "Our house specialty.",
+      "category": "FOOD",
+      "simplified_description": "Signature short dry ribs prepared in the house style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari",
+      "price": 20.0,
+      "description": "Lightly dusted, served w/ tzatziki.",
+      "category": "FOOD",
+      "simplified_description": "Lightly coated fried calamari served with tzatziki sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cobb Salad (GFO)",
+      "price": 27.0,
+      "description": "Grilled chicken breast, mixed greens, bacon, blue cheese, avocado, egg, dried cranberries, w/ ranch dressing.",
+      "category": "FOOD",
+      "simplified_description": "Mixed greens with grilled chicken, bacon, blue cheese, avocado, egg, and ranch dressing.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steak & Wedge (GFO)",
+      "price": 37.0,
+      "description": "7oz Top Sirloin, iceberg lettuce, bacon bits, crumbled blue cheese, choice of blue cheese or ranch dressing.",
+      "category": "FOOD",
+      "simplified_description": "Top sirloin steak with iceberg lettuce, bacon, blue cheese, and dressing choice.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Salmon Salad (GFO)",
+      "price": 34.0,
+      "description": "Oven roasted, fresh greens, cucumber, tomatoes, red onion, red peppers, dry cranberries, tortilla chips, house vinaigrette | Blackened add +$1.00",
+      "category": "FOOD",
+      "simplified_description": "Oven roasted salmon with fresh greens, veggies, cranberries, chips, and vinaigrette.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": "Blackened option available for +$1.00"
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "price": 25.0,
+      "description": "Romaine, creamy garlic dressing, croutons & parmesan | Blackened add +$1.00",
+      "category": "FOOD",
+      "simplified_description": "Romaine salad with creamy garlic dressing, croutons, parmesan, and chicken.",
+      "dietary_info": [],
+      "other_info": "Blackened option available for +$1.00"
+    }
+  ]
+}

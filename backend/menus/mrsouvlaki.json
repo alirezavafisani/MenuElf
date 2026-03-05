@@ -1,0 +1,218 @@
+{
+  "restaurant": "mrsouvlaki",
+  "total_items": 30,
+  "text_items": 30,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "APOLLO BOWL",
+      "price": "9.99",
+      "description": "For a limited time, get an Apollo Bowl for only $9.99 enough to fuel your day! Choose from souvlaki, gyro, or falafel.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "bottled pop",
+      "price": "1.49",
+      "description": "Want a drink? add a bottled pop for only $1.49 when purchased with your bowl.",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "SOUVLAKI",
+      "price": null,
+      "description": "Choice of one or two souvlaki skewers (Chicken, Spicy Chicken or Pork) served with rice, roasted potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "GYRO",
+      "price": null,
+      "description": "Shavings of roasted beef and lamb served with rice, potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "CALAMARI",
+      "price": null,
+      "description": "Seasoned, lightly dusted fried calamari served with rice, potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "CHICKEN LEG",
+      "price": null,
+      "description": "Oven-roasted herbed chicken leg served with rice, potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "LAMB SHANK",
+      "price": null,
+      "description": "Slow-braised lamb shank in a vegetable ragu served with rice, potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "SPANAKOPITA",
+      "price": null,
+      "description": "Traditional spinach and feta phyllo pie served with rice, potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "FALAFEL",
+      "price": null,
+      "description": "Crispy ground chickpeas, herbs and spices served with rice, potatoes, side Greek salad, dip",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "GREEK",
+      "price": null,
+      "description": "Iceberg mix, black olive, cucumber, feta, onion, tomato, MR.SOUVLAKI dressing, pita wedge",
+      "category": "SALAD",
+      "source": "text"
+    },
+    {
+      "name": "ZEUS",
+      "price": null,
+      "description": "Kale, spinach, black olive, broccoli, chickpea, cucumber, red cabbage, shredded carrot, tomato, red pepper hummus, Greek feta vinaigrette, pita wedge",
+      "category": "SALAD",
+      "source": "text"
+    },
+    {
+      "name": "CLASSIC",
+      "price": null,
+      "description": "Signature 7 inch pita with lettuce, onion, tomato, choice of dip, side and bottled pop.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "LOADED",
+      "price": null,
+      "description": "Large 9 inch pita loaded with fries, lettuce, onion, tomato, choice of dip, side and bottled pop.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "FRIES",
+      "price": null,
+      "description": "Crispy, seasoned fries",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "FETA FRIES",
+      "price": null,
+      "description": "Our signature fries, topped with feta, served with tzatziki",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "GYRO FRIES",
+      "price": null,
+      "description": "Our signature fries, topped with feta and gyro shavings, served with tzatziki",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "CALAMARI",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "ROASTED POTATOES",
+      "price": null,
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "RICE",
+      "price": null,
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "PITA BREAD",
+      "price": null,
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "GREEK SIDE SALAD",
+      "price": null,
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "ZEUS SIDE SALAD",
+      "price": null,
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "CHICKEN SOUVLAKI",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "SPICY CHICKEN SOUVLAKI",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "PORK SOUVALKI",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "GYRO",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "SPANAKOPITA",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "FALAFEL",
+      "price": null,
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "TZATZIKI",
+      "price": null,
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "RED PEPPER HUMMUS",
+      "price": null,
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    }
+  ]
+}

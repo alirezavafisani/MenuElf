@@ -1,0 +1,36 @@
+{
+  "restaurant": "bkkstreetfood",
+  "parsed_at": "2025-12-25T03:21:24.554862",
+  "item_count": 3,
+  "items": [
+    {
+      "name": "Pad Thai Sauce",
+      "price": null,
+      "description": "We have created this complex and delicious sauce to make it easy for you to cook the most famous Thai noodles dish right in your kitchen in minutes with our Pad Thai sauce that you will come to love.",
+      "simplified_description": "A flavorful sauce for making Pad Thai noodles quickly at home.",
+      "category": "Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": null,
+      "description": "Available in VEGETARIAN and CHICKEN. We only use BEST ingredients - no preservatives, artificial colour or flavouring, and no MSG. Bangkok Street Food Spring Rolls make unique tasty and nutritious snacks, appetizers or side dishes. Each package comes complete with an authentic Thai dipping sauce.",
+      "simplified_description": "Crispy rolls filled with either vegetables or chicken, served with a Thai dipping sauce.",
+      "category": "Dishes",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Basil Stir Fry Sauce",
+      "price": null,
+      "description": "You'll be surprised how simple it is to make this \"Thai Basil Chicken\" in under 20 minutes!!",
+      "simplified_description": "A sauce that helps you quickly prepare Thai Basil Chicken.",
+      "category": "Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

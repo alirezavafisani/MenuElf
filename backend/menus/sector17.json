@@ -1,0 +1,430 @@
+{
+  "restaurant": "sector17",
+  "parsed_at": "2026-02-06T04:04:10.835547",
+  "item_count": 47,
+  "items": [
+    {
+      "name": "Special Fries",
+      "price": 11.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "APPETIZER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fries Cottage Cheese",
+      "price": 13.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "APPETIZER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fries Chicken",
+      "price": 13.49,
+      "description": "Special Fries Chicken\nPreparation Time : 15 Minutes",
+      "category": "APPETIZER",
+      "simplified_description": "Special Fries Chicken\nPreparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Meat Balls",
+      "price": 12.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "APPETIZER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken On The Fries",
+      "price": 10.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "APPETIZER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2pc Chicken + Small Fries",
+      "price": 10.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "APPETIZER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese corn roll ",
+      "price": 1.25,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "veg bullets ",
+      "price": 3.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Puff patties ",
+      "price": 2.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Signature Burger",
+      "price": 9.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "BURGER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Signature Burger",
+      "price": 9.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "BURGER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cottage Cheese Burger",
+      "price": 9.99,
+      "description": "Cottage Cheese Burger\nPreparation Time : 15 Minutes",
+      "category": "BURGER",
+      "simplified_description": "Cottage Cheese Burger\nPreparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Burger Veg",
+      "price": 8.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "BURGER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Burger Chicken",
+      "price": 8.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "BURGER",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rose Fruit Cream",
+      "price": 5.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rabdi Fruit Cream",
+      "price": 5.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Fruit Cream",
+      "price": 5.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream",
+      "price": 5.49,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aampana",
+      "price": 3.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 3.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banta Soda",
+      "price": 4.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Soda",
+      "price": 4.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mint Soda",
+      "price": 4.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle  ",
+      "price": 1.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can  ",
+      "price": 1.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai 3.49",
+      "price": 3.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Limbuzz ",
+      "price": 3.59,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken On The Rice",
+      "price": 11.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "RICE",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel On The Rice",
+      "price": 11.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "RICE",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Grilled Sandwich",
+      "price": 9.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "SANDWICHES",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Club Grilled Sandwich",
+      "price": 9.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "SANDWICHES",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Grilled Sandwich",
+      "price": 9.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "SANDWICHES",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nutella Sandwich",
+      "price": 2.49,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "SANDWICHES",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Scotch Shake",
+      "price": 7.99,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 7.99,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Shake",
+      "price": 7.99,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 7.99,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pista Shake",
+      "price": 7.99,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rose Shake",
+      "price": 7.99,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falooda Shake Butter Scotch",
+      "price": 8.49,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falooda Shake Pista",
+      "price": 8.49,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falooda Shake Rose",
+      "price": 8.49,
+      "description": "",
+      "category": "SHAKES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Butter",
+      "price": 11.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "WRAP",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Butter",
+      "price": 11.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "WRAP",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Chilli",
+      "price": 11.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "WRAP",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chilli",
+      "price": 11.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "WRAP",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Veg",
+      "price": 11.99,
+      "description": "Preparation Time : 15 Minutes",
+      "category": "WRAP",
+      "simplified_description": "Preparation Time : 15 Minutes",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

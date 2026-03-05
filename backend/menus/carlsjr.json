@@ -1,0 +1,142 @@
+{
+  "restaurant": "carlsjr",
+  "parsed_at": "2026-02-06T01:37:15.308093",
+  "item_count": 15,
+  "items": [
+    {
+      "name": "Family Pack",
+      "price": 29.99,
+      "description": "Choose from: Famous Star ® with Cheese, the CARL or the Classic Chicken Tender Sandwich. Includes 4 Burgers/Sandwiches, 4 Regular Fries, 4 Regular Drinks",
+      "category": "OTHER",
+      "simplified_description": "Meal pack with 4 burgers or sandwiches, fries, and drinks.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "2 CAN DINE",
+      "price": 15.99,
+      "description": "2 Famous Star® with Cheese Combos",
+      "category": "OTHER",
+      "simplified_description": "Two Famous Star with Cheese burger combos with fries and drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 CAN DINE",
+      "price": 18.99,
+      "description": "2 Big Carl Combos",
+      "category": "OTHER",
+      "simplified_description": "Two Big Carl burger combos with fries and drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 CAN DINE",
+      "price": 16.99,
+      "description": "2 Chicken Sandwich Combos",
+      "category": "OTHER",
+      "simplified_description": "Two chicken sandwich combos with fries and drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 CAN DINE",
+      "price": 17.99,
+      "description": "2 Original Big Angus Combos",
+      "category": "OTHER",
+      "simplified_description": "Two Original Big Angus burger combos with fries and drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 8.49,
+      "description": "Famous Star® with Cheese Combo",
+      "category": "OTHER",
+      "simplified_description": "Famous Star with Cheese burger combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 9.49,
+      "description": "Western Bacon Cheeseburger® Combo ",
+      "category": "OTHER",
+      "simplified_description": "Western Bacon Cheeseburger combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 8.99,
+      "description": "3 PC Hand-Breaded Chicken Tender Combo",
+      "category": "OTHER",
+      "simplified_description": "Three hand-breaded chicken tenders combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 9.99,
+      "description": "Big Carl Combo",
+      "category": "OTHER",
+      "simplified_description": "Big Carl burger combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 8.99,
+      "description": "Classic Crispy Chicken Reg Combo",
+      "category": "OTHER",
+      "simplified_description": "Classic crispy chicken sandwich combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOGO",
+      "price": null,
+      "description": "Mega Star Burger (Burger Only)",
+      "category": "OTHER",
+      "simplified_description": "Mega Star burger without sides.",
+      "dietary_info": [],
+      "other_info": "Buy one get one"
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": null,
+      "description": "Famous Star® with Cheese Combo",
+      "category": "OTHER",
+      "simplified_description": "Famous Star with Cheese burger combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 CAN DINE",
+      "price": 19.99,
+      "description": "2 Original Big Angus Combos",
+      "category": "OTHER",
+      "simplified_description": "Two Original Big Angus burger combos with fries and drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 9.99,
+      "description": "Western Bacon Cheeseburger® Combo ",
+      "category": "OTHER",
+      "simplified_description": "Western Bacon Cheeseburger combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO DEAL",
+      "price": 9.99,
+      "description": "Classic Crispy Chicken  Reg Combo ",
+      "category": "OTHER",
+      "simplified_description": "Classic crispy chicken sandwich combo with fries and drink.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

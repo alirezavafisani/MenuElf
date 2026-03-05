@@ -1,0 +1,328 @@
+{
+  "restaurant": "bowtiepizza",
+  "parsed_at": "2026-02-06T01:13:44.076265",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "Chicken Bacon Ranch",
+      "price": 24.99,
+      "description": "Ranch Sauce, Chicken Breast, Diced Bacon (Double), Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Pizza with ranch sauce, chicken, bacon, and mozzarella cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 24.99,
+      "description": "BBQ Sauce, Chicken Breast, Diced Bacon, Red Onions, Green Peppers, Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with BBQ sauce, chicken, bacon, onions, peppers, and mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Chicken Club",
+      "price": 24.99,
+      "description": "House Made Basil Pesto Sauce, Chicken Breast, Red Onions, Tomatoes, Diced Bacon, Mozzarella **Note: Pesto Sauce does NOT contain Nuts**",
+      "category": "FOOD",
+      "simplified_description": "Pizza with basil pesto, chicken, bacon, onions, tomatoes, and mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Chicken",
+      "price": 24.99,
+      "description": "Housemade Chipotle Sauce, Chicken Breast, Red Onions, Tomato, Green Peppers, Jalapenos, Mozzarella, Feta",
+      "category": "FOOD",
+      "simplified_description": "Spicy pizza with chipotle sauce, chicken, veggies, mozzarella, and feta cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "The Mother of Dragons",
+      "price": 24.99,
+      "description": "Spicy Tomato Sauce, Pepperoni, Baked Ham, Spicy Calabrese Salami, Banana Peppers, Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Spicy pizza with tomato sauce, pepperoni, ham, salami, banana peppers, and cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Spicy Canadian",
+      "price": 24.99,
+      "description": "Spicy Tomato Sauce, Mozzarella, Dry Aged Pepperoni, Spicy Calabrese Salami, Mushrooms",
+      "category": "FOOD",
+      "simplified_description": "Spicy pizza with tomato sauce, pepperoni, salami, mushrooms, and mozzarella.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Spicy Chipotle Vegetarian",
+      "price": 24.99,
+      "description": "House Made Chipotle Sauce, Green Peppers, Red Onions, Jalapenos, Banana Peppers, Feta, Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Spicy vegetarian pizza with chipotle sauce, peppers, onions, jalapenos, feta, and mozzarella.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "4 Cheese",
+      "price": 24.99,
+      "description": "Tomato Sauce, Mozzarella, Cheddar, Feta, Parmesan",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce and four types of cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Veg Wedge",
+      "price": 24.99,
+      "description": "Tomato Sauce, Mushrooms, Green Peppers, Onions, Kalamata Olives, Pineapples, Tomatoes, Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pizza with tomato sauce, veggies, olives, pineapple, and mozzarella.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greece Lightning",
+      "price": 24.99,
+      "description": "Tomato Sauce, Spinach, Kalamata Olives, Tomatoes, Red Onions, Mozzarella, Feta, Oregano",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pizza with tomato sauce, spinach, olives, onions, feta, and mozzarella.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Traditional Wings",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Classic baked chicken wings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Wings",
+      "price": 16.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken wings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Bolognese",
+      "price": 16.99,
+      "description": "Cavatappi Noodles, House Made Meat Sauce, Mozzarella, Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Baked pasta with meat sauce, mozzarella, and garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Alfredo",
+      "price": 16.99,
+      "description": "Cavatappi Noodles, House Made Alfredo Sauce, Mozzarella, Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Baked pasta with creamy Alfredo sauce, mozzarella, and garlic toast.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Pesto and Sundried Tomato",
+      "price": 16.99,
+      "description": "Cavatappi Noodles, House Made Basil Pesto, Sundried Tomatoes, Parmigiana Reggiano, Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Baked pasta with basil pesto, sundried tomatoes, parmesan, and garlic toast.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Creamy Cheese",
+      "price": 16.99,
+      "description": "Cavatappi Noodles, House Made Creamy Cheese Sauce, Mozzarella, Toasted Bread Crumbs, Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Creamy baked cavatappi pasta with cheese sauce and garlic toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 12.99,
+      "description": "Romaine Lettuce, Garlic Croutons, Grana Padano Cheese, Diced Bacon, House Made Caesar Vinaigrette",
+      "category": "FOOD",
+      "simplified_description": "Classic Caesar salad with bacon, cheese, and croutons.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "price": 16.99,
+      "description": "Roasted Chicken Breast, Romaine Lettuce, Garlic Croutons, Grana Padano Cheese, Bacon, House Made Caesar Vinaigrette",
+      "category": "FOOD",
+      "simplified_description": "Caesar salad topped with roasted chicken and bacon.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Village Greek Salad",
+      "price": 16.99,
+      "description": "Cucumber, Green Peppers, Red Onions, Kalamata Olives, Cherry Tomatoes, Feta, Housemade Greek Vinaigrette",
+      "category": "FOOD",
+      "simplified_description": "Fresh Greek salad with vegetables, olives, feta, and vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Basil Pesto Pasta Salad",
+      "price": 15.99,
+      "description": "Cavatappi Noodles, Cherry Tomatoes, Red Onions, Sundried Tomatoes, House Made Basil Pesto",
+      "category": "FOOD",
+      "simplified_description": "Pasta salad with cherry tomatoes, onions, sundried tomatoes, and basil pesto.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "price": 12.99,
+      "description": "House Made Garlic Butter, Mozzarella, Choice of Dipping Sauce",
+      "category": "FOOD",
+      "simplified_description": "Garlic butter bread topped with mozzarella and served with dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "12” GF Garlic Cheese Bread",
+      "price": 19.49,
+      "description": "Gluten Free Crust, House Made Garlic Butter, Mozzarella, Choice of Dipping Sauce",
+      "category": "FOOD",
+      "simplified_description": "Gluten-free garlic cheese bread with mozzarella and dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate Garlic Cheese Bread",
+      "price": 15.99,
+      "description": "Housemade Garlic Butter, Feta, Mozzarella, Cheddar, Parmesan, Choice of Dipping Sauce",
+      "category": "FOOD",
+      "simplified_description": "Garlic bread with four cheeses and choice of dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "12” GF Ultimate Garlic Cheese Bread",
+      "price": 22.49,
+      "description": "Gluten Free Crust, Housemade Garlic Butter, Feta, Mozzarella, Cheddar, Parmesan, Choice of Dipping Sauce",
+      "category": "FOOD",
+      "simplified_description": "Gluten-free garlic bread with four cheeses and dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot Cake",
+      "price": 13.99,
+      "description": "House-made, double-layered carrot cake topped with cream cheese icing (contains walnuts)",
+      "category": "DESSERT",
+      "simplified_description": "Double-layer carrot cake with cream cheese icing and walnuts.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Contains nuts"
+    },
+    {
+      "name": "Chocolate Cake",
+      "price": 13.99,
+      "description": "House-made, double-layered classic chocolate cake topped with decadent chocolate icing",
+      "category": "DESSERT",
+      "simplified_description": "Classic double-layer chocolate cake with rich chocolate icing.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake",
+      "price": 13.99,
+      "description": "House-made cheesecake served with your choice of berry compote or rotating seasonal topping",
+      "category": "DESSERT",
+      "simplified_description": "Creamy cheesecake with berry compote or seasonal topping.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Small Bottles of Pop",
+      "price": 3.0,
+      "description": "Pepsi, Diet Pepsi, 7 Up, Dr. Pepper, Root Beer, Brisk Iced Tea, Ginger Ale",
+      "category": "DRINK",
+      "simplified_description": "Variety of small bottled soft drinks and iced tea.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Bottles of Pop",
+      "price": 4.5,
+      "description": "Pepsi, Diet Pepsi, 7 Up, Dr. Pepper, Root Beer, Brisk Iced Tea, Ginger Ale",
+      "category": "DRINK",
+      "simplified_description": "Variety of large bottled soft drinks and iced tea.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

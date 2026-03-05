@@ -1,0 +1,173 @@
+{
+  "restaurant": "lovelystreeteat",
+  "parsed_at": "2025-12-25T02:58:46.898796",
+  "item_count": 18,
+  "items": [
+    {
+      "name": "Chicken Tikka Roll",
+      "price": 10.0,
+      "description": "A tantalizing fusion of tender grilled chicken, aromatic spices, and fresh veggies, all wrapped in a soft, fluffy roll.",
+      "simplified_description": "A grilled chicken wrap with spices and vegetables.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Milk Badam",
+      "price": 6.0,
+      "description": "A luscious Indian sweet that combines the richness of milk with the goodness of almonds.",
+      "simplified_description": "A sweet dessert made with milk and almonds.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Chai",
+      "price": 4.0,
+      "description": "Experience the comforting warmth and aromatic spices of Masala Chai, a traditional Indian tea brewed to perfection.",
+      "simplified_description": "A spiced Indian tea.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Noodles",
+      "price": 7.0,
+      "description": "A flavorful fusion of fresh vegetables and perfectly cooked noodles, tossed in aromatic spices.",
+      "simplified_description": "Noodles with vegetables and spices.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 10.0,
+      "description": "Our Samosa is a mouthwatering Indian snack with a flavorful potato filling, served hot and fresh.",
+      "simplified_description": "A fried pastry filled with spiced potatoes.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Aloo Tikki",
+      "price": 8.0,
+      "description": "A delightful Indian street food treat that bursts with the goodness of mashed potatoes and aromatic spices.",
+      "simplified_description": "Crispy potato patties with spices.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Chicken",
+      "price": 14.0,
+      "description": "Indo Chinese dish featuring chicken tossed in spicy sauce.",
+      "simplified_description": "Spicy chicken in a sauce.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 14.0,
+      "description": "A symphony of flavors that will transport you to a culinary paradise.",
+      "simplified_description": "Chicken in a creamy tomato sauce.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Curry",
+      "price": 15.0,
+      "description": "A flavorful Indian dish made with tender pieces of goat meat simmered in a rich and savory curry sauce.",
+      "simplified_description": "Goat meat in a spicy curry.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Paneer",
+      "price": 14.0,
+      "description": "Indo Chinese dish with paneer cooked in a spicy sauce.",
+      "simplified_description": "Spicy cheese in a sauce.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 14.0,
+      "description": "Grilled pieces of chicken marinated in Indian spices.",
+      "simplified_description": "Grilled chicken with spices.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Chaap",
+      "price": 13.0,
+      "description": "Vegetarian skewer made from soy protein, marinated and grilled.",
+      "simplified_description": "Grilled soy protein skewers.",
+      "category": "Mains",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Idli Samber",
+      "price": 10.0,
+      "description": "A South Indian dish made of steamed rice cakes served with lentil soup.",
+      "simplified_description": "Steamed rice cakes with lentil soup.",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 13.0,
+      "description": "A traditional South Indian crepe made from fermented rice and lentil batter, filled with spicy mashed potatoes.",
+      "simplified_description": "A crepe filled with spiced potatoes.",
+      "category": "Mains",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Kulcha",
+      "price": null,
+      "description": "A stuffed Indian bread known for its richness and flavor. Simple explanation: Often filled with spiced potatoes, this is a popular dish from Punjab.",
+      "simplified_description": "Stuffed bread with spiced potatoes.",
+      "category": "Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dosa",
+      "price": null,
+      "description": "South India's iconic delight made of a fermented batter of rice and lentils. Simple explanation: Dosas are thin crepes that can be served plain or filled.",
+      "simplified_description": "Thin crepes made from rice and lentils.",
+      "category": "Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pav Bhaji",
+      "price": null,
+      "description": "The ultimate comfort food made with a spicy vegetable mash served with buttered bread.",
+      "simplified_description": "Spicy vegetable mash with bread.",
+      "category": "Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lassies, Drinks, Chai & Coffee, Shakes",
+      "price": null,
+      "description": "A variety of traditional Indian drinks and shakes to accompany your meal.",
+      "simplified_description": "Various Indian drinks and shakes.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

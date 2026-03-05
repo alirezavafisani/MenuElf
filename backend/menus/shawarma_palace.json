@@ -1,0 +1,223 @@
+{
+  "restaurant": "shawarma palace",
+  "parsed_at": "2025-12-25T00:24:14.216575",
+  "item_count": 24,
+  "items": [
+    {
+      "name": "Chicken Wrap",
+      "price": 11.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wraps",
+      "dietary_info": [],
+      "other_info": "M size $11.49, L size $12.99"
+    },
+    {
+      "name": "Beef Donair Wrap",
+      "price": 11.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wraps",
+      "dietary_info": [],
+      "other_info": "M size $11.49, L size $12.99"
+    },
+    {
+      "name": "Premixed Lamb & Beef Wrap",
+      "price": 11.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wraps",
+      "dietary_info": [],
+      "other_info": "M size $11.49, L size $12.99"
+    },
+    {
+      "name": "Mix Wrap - Chicken & Beef Donair",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wraps",
+      "dietary_info": [],
+      "other_info": "M size $11.99, L size $13.49"
+    },
+    {
+      "name": "Mix Wrap – Chicken, Premixed Lamb & Beef",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wraps",
+      "dietary_info": [],
+      "other_info": "M size $11.99, L size $13.49"
+    },
+    {
+      "name": "Trio Wrap (Contain all meats)",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wraps",
+      "dietary_info": [],
+      "other_info": "M size $11.99, L size $13.49"
+    },
+    {
+      "name": "Chicken Platter",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair Platter",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premixed Lamb & Beef",
+      "price": 17.99,
+      "description": "(No Donair)",
+      "simplified_description": "",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Platter – Chicken & Beef Donair",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Platter – Chicken, Premixed Lamb & Beef",
+      "price": 18.99,
+      "description": "(No Donair)",
+      "simplified_description": "",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio Platter (Contain all meats)",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grape Leaves (10 Pcs)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek or Tabouli Salad",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Platter",
+      "price": 14.49,
+      "description": "(includes 2 Pcs Of Grape Leaves)",
+      "simplified_description": "",
+      "category": "Vegetarian Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Wrap",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian Menu",
+      "dietary_info": [],
+      "other_info": "M size $8.99, L size $10.99"
+    },
+    {
+      "name": "Garlic Potatoes",
+      "price": 7.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "M size $7.49, L size $10.49"
+    },
+    {
+      "name": "Rice",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": "M size $6.99, L size $9.99"
+    },
+    {
+      "name": "Hummus",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad",
+      "price": 14.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel",
+      "price": 1.25,
+      "description": "/Each",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava",
+      "price": 1.25,
+      "description": "/Each",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Pita Or Sauce",
+      "price": 1.0,
+      "description": "/Each",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Sauce",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "restaurant": "samwongarden",
+  "parsed_at": "2025-12-25T02:47:07.454285",
+  "item_count": 1,
+  "items": [
+    {
+      "name": "All-You-Can-Eat Korean BBQ",
+      "price": null,
+      "description": "Savor endless flavor with our All-You-Can-Eat Korean BBQ! Enjoy unlimited premium meats, fresh side dishes, and the authentic taste of Korea — all grilled to perfection right at your table.\n(Note: This is a buffet-style offering with unlimited access to various dishes.)",
+      "simplified_description": "Unlimited Korean BBQ with various meats and side dishes grilled at your table.",
+      "category": "AYCE Buffet",
+      "dietary_info": [],
+      "other_info": "LIMITED TIME FOR 2 HOURS; LEFT-OVER FOOD WILL BE CHARGED $5 PER PLATE; LEFT-OVER CAN NOT BE TAKEN TO GO; EVERYONE AT THE TABLE MUST PARTICIPATE IN THE BUFFET; 15% OF THE GRATUITY WILL BE ADDED TO GROUPS OF 6 OR MORE"
+    }
+  ]
+}

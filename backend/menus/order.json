@@ -1,0 +1,484 @@
+{
+  "restaurant": "order",
+  "parsed_at": "2026-02-06T03:35:13.638862",
+  "item_count": 53,
+  "items": [
+    {
+      "name": "Paneer Pizza",
+      "price": 12.99,
+      "description": "Red Onions, Green Peppers, and Paneer",
+      "category": "FOOD",
+      "simplified_description": "Red Onions, Green Peppers, and Paneer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": 12.99,
+      "description": "Butter Chicken Sauce, Marinated Chicken, Onions, Green Peppers",
+      "category": "FOOD",
+      "simplified_description": "Butter Chicken Sauce, Marinated Chicken, Onions, Green Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Pizza",
+      "price": 12.99,
+      "description": "Alfredo Sauce, Onions, Mushrooms, Chicken & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Alfredo Sauce, Onions, Mushrooms, Chicken & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Spicy Chicken Pizza",
+      "price": 12.99,
+      "description": "Tandoori Chicken, Onions, Banana Peppers, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Tandoori Chicken, Onions, Banana Peppers, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Pizza",
+      "price": 12.99,
+      "description": "Hot Buffalo Sauce, Chicken, Mushroom, Onions, Green Peppers, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Hot Buffalo Sauce, Chicken, Mushroom, Onions, Green Peppers, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "price": 12.99,
+      "description": "Barbeque Chicken, Onions, Jalapeno Peppers, Tomatoes, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Barbeque Chicken, Onions, Jalapeno Peppers, Tomatoes, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Delight Pizza",
+      "price": 12.99,
+      "description": "Onions, Jalapeno Peppers, Tandoori Chicken, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Onions, Jalapeno Peppers, Tandoori Chicken, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chipotle Pizza",
+      "price": 12.99,
+      "description": "Chipotle Sauce, Chicken, Jalapeno Peppers, Onions, Green Peppers",
+      "category": "FOOD",
+      "simplified_description": "Chipotle Sauce, Chicken, Jalapeno Peppers, Onions, Green Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build Your Own Pizza",
+      "price": 17.99,
+      "description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "category": "FOOD",
+      "simplified_description": "Custom Pizza with your choice of crust, Sauce & Toppings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Pizza",
+      "price": 15.99,
+      "description": "Made with Cauliflower Crust",
+      "category": "FOOD",
+      "simplified_description": "Made with Cauliflower Crust",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Pizza",
+      "price": 17.99,
+      "description": "Pepperoni, Sausages, Ham, Beef, Mushrooms, Onions, Green Peppers, Olives, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Sausages, Ham, Beef, Mushrooms, Onions, Green Peppers, Olives, & Chee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Pizza",
+      "price": 17.99,
+      "description": "Ground Beef, Feta Cheese, Tomatoes, Onions, Green Peppers, Black Olives & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Ground Beef, Feta Cheese, Tomatoes, Onions, Green Peppers, Black Olives & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pizza",
+      "price": 17.99,
+      "description": "Onions, Green Peppers, Donair Meat, Tomatoes, Donair Sauce, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Onions, Green Peppers, Donair Meat, Tomatoes, Donair Sauce, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Pizza",
+      "price": 17.99,
+      "description": "Onions, Green Peppers, Pepperoni, Mushrooms, Italian Sausages, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Onions, Green Peppers, Pepperoni, Mushrooms, Italian Sausages, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Pizza",
+      "price": 17.99,
+      "description": "Onions, Green Peppers, Black Olives, Banana Peppers, Beef, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Onions, Green Peppers, Black Olives, Banana Peppers, Beef, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": 17.99,
+      "description": "Mushrooms, Onions, Green Peppers, Tomatoes & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Mushrooms, Onions, Green Peppers, Tomatoes & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatzza Pizza",
+      "price": 17.99,
+      "description": "Pepperoni, Ham, Beef, Sausages, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Ham, Beef, Sausages, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "price": 17.99,
+      "description": "Ham, Pineapple & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Ham, Pineapple & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Greek Pizza",
+      "price": 17.99,
+      "description": "Tomatoes, Onions, Green Pepper, Black Olives, Feta & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Tomatoes, Onions, Green Pepper, Black Olives, Feta & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Pizza",
+      "price": 17.99,
+      "description": "Onions, Green Pepper, Mushroom, Jalapeno, Fresh Garlic, Ginger, Coriander, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Onions, Green Pepper, Mushroom, Jalapeno, Fresh Garlic, Ginger, Coriander, & Che",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pizza",
+      "price": 17.99,
+      "description": "Red Onions, Green Peppers, and Paneer",
+      "category": "FOOD",
+      "simplified_description": "Red Onions, Green Peppers, and Paneer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": 17.99,
+      "description": "Butter Chicken Sauce, Marinated Chicken, Onions, Green Peppers",
+      "category": "FOOD",
+      "simplified_description": "Butter Chicken Sauce, Marinated Chicken, Onions, Green Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Pizza",
+      "price": 17.99,
+      "description": "Alfredo Sauce, Onions, Mushrooms, Chicken & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Alfredo Sauce, Onions, Mushrooms, Chicken & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Spicy Chicken Pizza",
+      "price": 17.99,
+      "description": "Tandoori Chicken, Onions, Banana Peppers, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Tandoori Chicken, Onions, Banana Peppers, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Pizza",
+      "price": 17.99,
+      "description": "Hot Buffalo Sauce, Chicken, Mushroom, Onions, Green Peppers, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Hot Buffalo Sauce, Chicken, Mushroom, Onions, Green Peppers, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "price": 17.99,
+      "description": "Barbeque Chicken, Onions, Jalapeno Peppers, Tomatoes, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Barbeque Chicken, Onions, Jalapeno Peppers, Tomatoes, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Delight Pizza",
+      "price": 17.99,
+      "description": "Onions, Jalapeno Peppers, Tandoori Chicken, & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Onions, Jalapeno Peppers, Tandoori Chicken, & Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chipotle Pizza",
+      "price": 17.99,
+      "description": "Chipotle Sauce, Chicken, Jalapeno Peppers, Onions, Green Peppers",
+      "category": "FOOD",
+      "simplified_description": "Chipotle Sauce, Chicken, Jalapeno Peppers, Onions, Green Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Nuggets",
+      "price": 6.99,
+      "description": "10 Chicken Nuggets",
+      "category": "SIDE",
+      "simplified_description": "10 Chicken Nuggets",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Bread",
+      "price": 7.99,
+      "description": "8 Pieces",
+      "category": "SIDE",
+      "simplified_description": "8 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 5.99,
+      "description": "4 Pieces",
+      "category": "SIDE",
+      "simplified_description": "4 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 8.99,
+      "description": "8 Pieces",
+      "category": "SIDE",
+      "simplified_description": "8 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas",
+      "price": 11.99,
+      "description": "6 Pieces",
+      "category": "SIDE",
+      "simplified_description": "6 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas",
+      "price": 21.99,
+      "description": "12 Pieces",
+      "category": "SIDE",
+      "simplified_description": "12 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 3.99,
+      "description": "2 Pieces",
+      "category": "SIDE",
+      "simplified_description": "2 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 5.99,
+      "description": ".",
+      "category": "SIDE",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone",
+      "price": 8.99,
+      "description": "2 Toppings - Served with Free Dipping Sauce",
+      "category": "SIDE",
+      "simplified_description": "2 Toppings - Served with Free Dipping Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tasty Bread",
+      "price": 3.99,
+      "description": ".",
+      "category": "SIDE",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 6.99,
+      "description": "6 Pieces",
+      "category": "SIDE",
+      "simplified_description": "6 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 9.99,
+      "description": "10 Pieces",
+      "category": "SIDE",
+      "simplified_description": "10 Pieces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.99,
+      "description": ".",
+      "category": "SIDE",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 11.99,
+      "description": "12 Chicken Wings",
+      "category": "SIDE",
+      "simplified_description": "12 Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 22.99,
+      "description": "24 Chicken Wings",
+      "category": "SIDE",
+      "simplified_description": "24 Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauce",
+      "price": 1.25,
+      "description": ".",
+      "category": "OTHER",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 7.99,
+      "description": "Red Onion, Romaine Lettuce, Olives, Tomatoes, Feta Cheese & Greek Dressing",
+      "category": "OTHER",
+      "simplified_description": "Red Onion, Romaine Lettuce, Olives, Tomatoes, Feta Cheese & Greek Dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 6.99,
+      "description": "Romaine Lettuce, Bacon Bits, Croutons & Caesar Dressing",
+      "category": "OTHER",
+      "simplified_description": "Romaine Lettuce, Bacon Bits, Croutons & Caesar Dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 1.5,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 3.99,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pack of 6 Cans",
+      "price": 7.99,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vitamin",
+      "price": 2.99,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 1.5,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 2.99,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Energy Drink",
+      "price": 3.99,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

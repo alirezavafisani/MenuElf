@@ -1,0 +1,722 @@
+{
+  "restaurant": "zaffrancurryandkabab",
+  "total_items": 102,
+  "text_items": 102,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "Mutter Paneer",
+      "price": "$14.99",
+      "description": "Paneer and peas cooked in creamy tomato masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Malai Kofta",
+      "price": "$15.99",
+      "description": "Soft paneer-veg dumplings simmered in creamy gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Kadhai Soya Chaap",
+      "price": "$15.99",
+      "description": "Soya chaap tossed in spicy kadhai masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Tawa Paneer",
+      "price": "$16.99",
+      "description": "Paneer cooked on hot tawa with spices & capsicum.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Methi Mutter Malai",
+      "price": "$15.99",
+      "description": "Fenugreek, peas & cream cooked into mild gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Paneer Lababdar",
+      "price": "$16.99",
+      "description": "Paneer in creamy tomato-cashew gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": "$14.99",
+      "description": "Potato & cauliflower cooked with spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Veg Korma",
+      "price": "$15.99",
+      "description": "Mild creamy curry with assorted vegetables.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": "$16.99",
+      "description": "Rich creamy tomato gravy with paneer.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Dal Tadka",
+      "price": "$14.99",
+      "description": "Yellow lentils tempered with garlic, ghee & spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Channa Masala",
+      "price": "$14.99\u200b",
+      "description": "Chickpeas in tangy onion-tomato gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Bhindi Do Pyaza",
+      "price": "$14.99",
+      "description": "Okra cooked with double onions & spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Baingan Bharta",
+      "price": "$14.99",
+      "description": "Smoky roasted eggplant mashed & cooked with spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Kadhai Paneer",
+      "price": "$15.99",
+      "description": "Paneer cooked with peppers in thick kadhai masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": "$16.99",
+      "description": "Paneer cubes in rich nut-based royal gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Palak Paneer",
+      "price": "$15.99",
+      "description": "Spinach gravy cooked with paneer cubes.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "price": "$16.99",
+      "description": "Charred paneer tikka pieces in rich gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Paneer Jalfrezi",
+      "price": "$16.99",
+      "description": "Paneer stir-fried with veggies in spicy sauce.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Navratan Korma",
+      "price": "$15.99",
+      "description": "Mixed veg in rich creamy nut-based curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Kadhai Soya",
+      "price": "$14.99",
+      "description": "Soya chunks cooked in thick kadhai-style gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Sabz Meloni",
+      "price": "$15.99",
+      "description": "Mixed vegetables cooked with light creamy masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Special Chicken \u200b",
+      "price": null,
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Butter Chicken (Bone/Boneless)",
+      "price": "$16.99",
+      "description": "Creamy tomato-based chicken curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Curry",
+      "price": "$16.99",
+      "description": "Traditional spiced chicken curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Murgh Musallam",
+      "price": "$16.99",
+      "description": "Whole-spice marinated chicken cooked Mughlai style.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": "$16.99",
+      "description": "Chicken cooked in thick tomato-onion kadhai masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": "$16.99",
+      "description": "Chicken tikka pieces in spicy rich gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Madras",
+      "price": "$16.99",
+      "description": "Fiery red coconut-based South Indian curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Murgh Dum Bahar (Bone/Boneless)",
+      "price": "$16.99",
+      "description": "Slow-cooked chicken in rich aromatic gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Cream Chicken",
+      "price": "$16.99",
+      "description": "Mild cream-based white chicken curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Korma",
+      "price": "$16.99",
+      "description": "Mild creamy chicken curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Chettinadu",
+      "price": "$16.99",
+      "description": "South Indian spicy pepper-based chicken curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Lababdar",
+      "price": "$16.99",
+      "description": "Chicken in buttery creamy gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Methi Malai Chicken",
+      "price": "$16.99",
+      "description": "Creamy fenugreek-flavored chicken curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Fish\u00a0",
+      "price": null,
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Fish Curry",
+      "price": "$16.99",
+      "description": "Traditional fish curry with spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Fish Chettinad",
+      "price": "$17.99",
+      "description": "Traditional fish curry with spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Coconut Prawn",
+      "price": "$18.99",
+      "description": "Traditional fish curry with spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Malabar Fish Curry",
+      "price": "$17.99",
+      "description": "Grilled fish tikka cooked in masala gravy.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Butter Prawn",
+      "price": "$18.99",
+      "description": "Coconut-based spicy Kerala-style fish curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Kadai Prawn",
+      "price": "$18.99",
+      "description": "Coconut-based spicy Kerala-style fish curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Prawn Malai Curry",
+      "price": "$18.99",
+      "description": "Creamy prawn curry with coconut & spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Fish Tikka Masala",
+      "price": "$17.99",
+      "description": "Prawns cooked in spicy onion-tomato masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Goat / LAmb\u00a0",
+      "price": null,
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Lamb/Goat Curry",
+      "price": "$18.49",
+      "description": "Slow-cooked curry with tender meat pieces.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Lamb/Goat Awadhi Korma",
+      "price": "$18.49",
+      "description": "Rich Mughlai-style creamy meat curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Lamb/Goat Bhuna Ghost",
+      "price": "$18.49",
+      "description": "Spicy dry-style bhuna meat curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Lamb/Goat Palak",
+      "price": "$18.49",
+      "description": "Spinach gravy cooked with lamb or goat.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Lamb/Goat Chatpata",
+      "price": "$18.49",
+      "description": "Tangy & spicy meat curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Lamb/Goat Vindaloo",
+      "price": "$18.49",
+      "description": "Goan spicy vinegar-based meat curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "beef\u00a0",
+      "price": null,
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Beef Curry",
+      "price": "$17.49",
+      "description": "Traditional spiced beef curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Beef Rogan Josh",
+      "price": "$17.49",
+      "description": "Kashmiri-style rich beef curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Beef Awadhi Korma",
+      "price": "$17.49",
+      "description": "Creamy aromatic Mughlai beef curry.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Beef Pepper Fry (Dry/Gravy)",
+      "price": "$17.49",
+      "description": "Beef cooked with pepper, onions & spices.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Veg Biryani",
+      "price": "$13.95",
+      "description": "Fragrant layered rice with vegetables.",
+      "category": "BIRYANI",
+      "source": "text"
+    },
+    {
+      "name": "Chicken Dum Biryani",
+      "price": "$15.95",
+      "description": "Slow-cooked biryani with marinated chicken.",
+      "category": "BIRYANI",
+      "source": "text"
+    },
+    {
+      "name": "Goat Dum Biryani",
+      "price": "$16.99",
+      "description": "Aromatic biryani with tender goat meat.",
+      "category": "BIRYANI",
+      "source": "text"
+    },
+    {
+      "name": "Prawn Biryani",
+      "price": "$17.99",
+      "description": "Spiced biryani with prawns.",
+      "category": "BIRYANI",
+      "source": "text"
+    },
+    {
+      "name": "Beef Biryani",
+      "price": "$15.99",
+      "description": "Layered biryani cooked with beef.",
+      "category": "BIRYANI",
+      "source": "text"
+    },
+    {
+      "name": "Zaffran Biryani Kabab Platter",
+      "price": "$35.99",
+      "description": "served with biryani rice, chicken tikka, malai kabab, seekh kabab, pop, raita & mint sauce",
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Plain Yogurt",
+      "price": "$3.50",
+      "description": "Fresh cooling yogurt.",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Mix Raita",
+      "price": "$3.99",
+      "description": "Raita with mixed vegetables & spices.",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Boondi Raita",
+      "price": "$3.99",
+      "description": "Crispy boondi mixed in yogurt.",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Green Salad",
+      "price": "$5.99",
+      "description": "Fresh cut salad with onions & cucumbers.",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Sirka Onion",
+      "price": "$4.99",
+      "description": "Pickled onions in vinegar.",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": "$2.50",
+      "description": "Whole wheat roti cooked in tandoor.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Butter Roti",
+      "price": "$2.99",
+      "description": "Tandoori roti brushed with butter.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Plain Naan",
+      "price": "$2.50",
+      "description": "Soft tandoor-baked naan.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Butter Naan",
+      "price": "$2.99",
+      "description": "Naan topped with butter.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Garlic Naan",
+      "price": "$3.50",
+      "description": "Naan flavored with garlic.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Lachha Paratha (Methi/Mint)",
+      "price": "$4.99",
+      "description": "Flaky layered parantha.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Aloo Kulcha/Parantha",
+      "price": "$5.99",
+      "description": "Kulcha stuffed with spiced potatoes.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Onion Kulcha/Parantha",
+      "price": "$5.99",
+      "description": "Kulcha stuffed with onions & spices.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Paneer Kulcha/Parantha",
+      "price": "$6.50",
+      "description": "Kulcha stuffed with paneer.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Cheese Naan",
+      "price": "$6.50",
+      "description": "Naan stuffed with cheese.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Bullet Naan",
+      "price": "$2.99",
+      "description": "Spicy naan topped with chilies.",
+      "category": "BREADS",
+      "source": "text"
+    },
+    {
+      "name": "Gulab Jamun (2 pcs)",
+      "price": "$5.99",
+      "description": "Warm deep-fried sweet milk dumplings.",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Gulab Jamun Ice-cream",
+      "price": "$5.99",
+      "description": "Gulab jamun served with vanilla ice cream.",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Kheer (Zaffrani Special Kheer)",
+      "price": "$6.99",
+      "description": "Creamy rice pudding.",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Ras Malai",
+      "price": "$5.99",
+      "description": "Soft paneer discs in sweet milk.",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Gajrela",
+      "price": "$6.99",
+      "description": "Sweet carrot pudding.",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Kulfi (Mango/Pistachio/Plain)",
+      "price": "$5.99",
+      "description": "Traditional Indian ice cream.",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Chai",
+      "price": "$2.49",
+      "description": "Hot Indian spiced tea.",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Lassi Sweet (Masala/Mango/Rose)",
+      "price": "$5.99",
+      "description": "Sweet yogurt drink flavored traditionally.",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Can",
+      "price": "$2.49",
+      "description": "Soft drink",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Masala Soda",
+      "price": "$5.99",
+      "description": "Spiced fizzy drink.",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Shake (Vanilla / Mango)",
+      "price": "$6.99",
+      "description": "Classic vanilla /mango milkshake.",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Water Bottle",
+      "price": "$2.49",
+      "description": "Mineral water bottle",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Masala Dosa",
+      "price": "$12.95",
+      "description": "Thin and crispy rice and lentil crepe with potato masala stuffing.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Cheese Dosa",
+      "price": "$12.95",
+      "description": "South Indian rice and lentil crepe with cheese stuffing.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Paneer Dosa",
+      "price": "$14.95",
+      "description": "Scrambled paneer curried with Indian spices stuffed in a lentil crepe.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Chocolate Dosa (Kids Dosa)",
+      "price": "$8.95",
+      "description": "Rich melted chocolate spread on dosa, rolled and dusted with powdered sugar.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Onion/Tomato Uttapam",
+      "price": "$12.95",
+      "description": "Thicker soft dosa topped with onion, cumin, coriander leaves and served with chutney and sambar.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Podi Uttapam",
+      "price": "$13.95",
+      "description": "Thicker soft dosa topped with a blend of herbs and spiced chana dal powder with chopped onion, tomato, and coriander.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "sambar vada",
+      "price": "$10.99",
+      "description": "Soft lentil vadas served in aromatic South Indian sambar with coconut chutney.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Egg Dosa",
+      "price": "$13.95",
+      "description": "Scrambled egg stuffed in a South Indian lentil crepe.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Lamb Dosa",
+      "price": "$14.95",
+      "description": "Ground lamb cooked with Indian spices stuffed in a South Indian crepe.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Podi Dosa",
+      "price": "$13.95",
+      "description": "Spicy chana dal powder on a South Indian\u2013style crepe made with rice and lentil with potato masala.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Cheese Uttapam",
+      "price": "$12.95",
+      "description": "Thicker soft dosa topped with cheese and served with chutney and sambar.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Kal Dosai (2 pcs)",
+      "price": "$12.95",
+      "description": "Home-style soft crepes served with chutney and sambar.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": "$13.95",
+      "description": "Thicker soft dosa topped with onion, cumin, coriander leaves and served with chutney and sambar.",
+      "category": "FOOD",
+      "source": "text"
+    }
+  ]
+}

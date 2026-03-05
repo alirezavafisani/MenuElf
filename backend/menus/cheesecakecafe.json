@@ -1,0 +1,247 @@
+{
+  "restaurant": "cheesecakecafe",
+  "parsed_at": "2026-02-06T01:44:05.100632",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "Lobster Mac & Cheese",
+      "price": 25.0,
+      "description": "Cavatappi noodles, lobster and cream sauce with gruyere and white cheddar cheeses topped with truffle bread crumbs. Served with choice of salad.",
+      "category": "FOOD",
+      "simplified_description": "Pasta with lobster and creamy cheese sauce topped with truffle bread crumbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Pasta",
+      "price": 27.0,
+      "description": "Prawns, lobster, PEI mussels, tomato and fettuccine in creamy Creole sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fettuccine with prawns, lobster, mussels, tomato, and creamy Creole sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef",
+      "price": 25.0,
+      "description": "Breaded beef, sweet and spiced ginger sauce over steamed rice and teriyaki wok vegetables.",
+      "category": "FOOD",
+      "simplified_description": "Breaded beef with sweet ginger sauce, rice, and teriyaki vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken",
+      "price": 24.0,
+      "description": "Tender chicken, mushrooms and garden vegetables with teriyaki sauce over steamed noodles. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Chicken, mushrooms, and vegetables with teriyaki sauce over noodles.",
+      "dietary_info": [],
+      "other_info": "Gluten Friendly"
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "price": 18.0,
+      "description": "Cream, butter, garlic, white wine, parmesan and fettuccine.",
+      "category": "FOOD",
+      "simplified_description": "Fettuccine pasta in creamy garlic parmesan sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MCM",
+      "price": 26.0,
+      "description": "A true classic Cafe dish. Fried chicken, mushrooms and melted mozza. Marvelous Mushrooms, red-skin garlic mashed potatoes and seasonal vegetables.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with mushrooms, mozzarella, mashed potatoes, and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Mustard Chicken",
+      "price": 26.0,
+      "description": "Grilled chicken breast, smoked bacon, honey mustard sauce, mushrooms, melted jack and cheddar cheeses. Red-skin garlic mashed potato and seasonal vegetables. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken with bacon, honey mustard, cheeses, mashed potatoes, and vegetables.",
+      "dietary_info": [],
+      "other_info": "Gluten Friendly"
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": 21.0,
+      "description": "Chicken breast strips breaded in our signature seasoned flour. Fries and house honey mustard.",
+      "category": "FOOD",
+      "simplified_description": "Breaded chicken strips served with fries and honey mustard sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 23.0,
+      "description": "Two North Atlantic cod loins in ale batter. Served with fries and house-made tartar.",
+      "category": "FOOD",
+      "simplified_description": "Battered cod loins with fries and tartar sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Frites",
+      "price": 35.0,
+      "description": "7 oz Top Sirloin, dusted onions and Caesar salad. Fries and garlic aioli.",
+      "category": "FOOD",
+      "simplified_description": "Top sirloin steak with onions, Caesar salad, fries, and garlic aioli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Firegrilled Sirloin",
+      "price": 37.0,
+      "description": "7 oz Top Sirloin, dusted onions, red-skin masked potato and seasonal vegetables. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Grilled sirloin with onions, mashed potatoes, and vegetables.",
+      "dietary_info": [],
+      "other_info": "Gluten Friendly"
+    },
+    {
+      "name": "Creole Lobster Prawn Steak",
+      "price": 45.0,
+      "description": "7 oz Top Sirloin, lobster and prawns in a Creole sauce, red-skin mashed potatoes and seasonal vegetables.",
+      "category": "FOOD",
+      "simplified_description": "Sirloin steak with lobster, prawns, Creole sauce, mashed potatoes, and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Cheese Burger",
+      "price": 24.0,
+      "description": "AAA chuck beef, cheddar cheese, smoked bacon, mushrooms, pickle sauce, lettuce, tomato and onion on grilled brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Beef burger with cheddar, bacon, mushrooms, veggies, and pickle sauce on brioche bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Dip",
+      "price": 24.0,
+      "description": "slow-braise roast beef, Swiss cheese, caramelized onions and horseradish aioli on grilled baguette.",
+      "category": "FOOD",
+      "simplified_description": "Roast beef sandwich with Swiss cheese, onions, and horseradish aioli on baguette.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster and Prawn Clubhouse",
+      "price": 24.0,
+      "description": "Lobster and prawns in a creamy cocktail sauce, slice tomato, smoked bacon and lettuce on grilled baguette. Fries or Cafe Chips.",
+      "category": "FOOD",
+      "simplified_description": "Lobster and prawn sandwich with creamy sauce, bacon, tomato, lettuce, and fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tacos",
+      "price": 22.0,
+      "description": "Two beer-battered cod loins, avocado, coleslaw and lime aioli in flour tortillas.",
+      "category": "FOOD",
+      "simplified_description": "Beer-battered cod tacos with avocado, coleslaw, and lime aioli in flour tortillas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Burger",
+      "price": 22.0,
+      "description": "Fried chicken breast, Buffalo hot sauce and crunch coleslaw on a grilled brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with Buffalo sauce and coleslaw on a grilled brioche bun.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Crispy Chicken Sandwich",
+      "price": 22.0,
+      "description": "Fried chicken breast, creamy ranch, sliced pickles, lettuce and tomato on a grilled brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken sandwich with ranch, pickles, lettuce, and tomato on brioche bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lettuce Wraps",
+      "price": 21.0,
+      "description": "Chicken, peanut sauce, crispy wontons, peas, carrots, red onion and peanuts in teriyaki sauce with Romaine leaves.",
+      "category": "FOOD",
+      "simplified_description": "Chicken and vegetables with peanut sauce wrapped in Romaine lettuce leaves.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hippie Sandwich",
+      "price": 22.0,
+      "description": "Feta red pepper spread, avocado, tomato, pea shoots, cucumber on a grilled brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Sandwich with feta spread, avocado, tomato, pea shoots, and cucumber on brioche bun.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beet and Goat Cheese Salad",
+      "price": 17.0,
+      "description": "Spinach leaves, maple vinaigrette, beets, green apple, candied almonds and creamy goat cheese. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Salad with spinach, beets, green apple, almonds, goat cheese, and maple vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken",
+      "price": 24.0,
+      "description": "Tender chicken, mushrooms and garden vegetables with teriyaki sauce over steamed noodles. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Chicken, mushrooms, and vegetables in teriyaki sauce served over steamed noodles.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Mustard Chicken",
+      "price": 26.0,
+      "description": "Grilled chicken breast, smoked bacon, honey mustard sauce, mushrooms, melted jack and cheddar cheeses. Red-skin garlic mashed potato and seasonal vegetables. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken with bacon, honey mustard, cheeses, mashed potatoes, and vegetables.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Firegrilled Sirloin",
+      "price": 37.0,
+      "description": "7 oz Top Sirloin, dusted onions, red-skin masked potato and seasonal vegetables. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "7 oz sirloin steak with onions, red-skin mashed potatoes, and seasonal vegetables.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lettuce Wraps",
+      "price": 22.0,
+      "description": "Chicken, peanut sauce, crispy wontons, peas, carrots, red onion and peanuts in teriyaki sauce with Romaine leaves. - Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Chicken and vegetables with peanut sauce wrapped in Romaine lettuce leaves.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

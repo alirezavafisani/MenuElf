@@ -1,0 +1,232 @@
+{
+  "restaurant": "pizzasquarest",
+  "parsed_at": "2026-02-06T03:50:49.838867",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "Buy one large pizza & Get another at 50% Off",
+      "price": 20.98,
+      "description": "Limited Time Offer",
+      "category": "OTHER",
+      "simplified_description": "Limited Time Offer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Large 3 Topping Pizza",
+      "price": 27.99,
+      "description": "Deals - Mozzarella cheese and pizza sauce",
+      "category": "OTHER",
+      "simplified_description": "Deals - Mozzarella cheese and pizza sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Medium 3 Topping Pizza",
+      "price": 23.99,
+      "description": "Deals - Mozzarella cheese and pizza sauce",
+      "category": "OTHER",
+      "simplified_description": "Deals - Mozzarella cheese and pizza sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 3-Topping Pizza, 6pc Chicken wings, 355...",
+      "price": 21.99,
+      "description": "Combo - Mozzarella cheese and pizza sauce",
+      "category": "OTHER",
+      "simplified_description": "Combo - Mozzarella cheese and pizza sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 3-Topping Pizza, Garlic Cheese Bread, ...",
+      "price": 20.99,
+      "description": "Combo - Mozzarella cheese and pizza sauce",
+      "category": "OTHER",
+      "simplified_description": "Combo - Mozzarella cheese and pizza sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheezy Charm",
+      "price": 9.99,
+      "description": "A delightful blend of mozzarella and cheddar cheeses on a classic pizza crust, topped with a rich tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "A delightful blend of mozzarella and cheddar cheeses on a classic pizza crust, t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Supreme",
+      "price": 11.99,
+      "description": "Pizza sauce, Mozzarella cheese, Red onion, Green pepper, Olives, Banana peppers, Pineapple, Mushrooms",
+      "category": "FOOD",
+      "simplified_description": "Pizza sauce, Mozzarella cheese, Red onion, Green pepper, Olives, Banana peppers,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Paneer Delight",
+      "price": 12.99,
+      "description": "Marinated paneer, bell peppers, and onions on a tomato sauce base, topped with melted cheese and tandoori...",
+      "category": "FOOD",
+      "simplified_description": "Marinated paneer, bell peppers, and onions on a tomato sauce base, topped with m",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 11.99,
+      "description": "Topped with slices of pepperoni and melted cheese on a classic pizza crust.",
+      "category": "FOOD",
+      "simplified_description": "Topped with slices of pepperoni and melted cheese on a classic pizza crust.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tropical Twist",
+      "price": 11.99,
+      "description": "pizza sauce, mozzarella cheese, pastrami, pineapple",
+      "category": "FOOD",
+      "simplified_description": "pizza sauce, mozzarella cheese, pastrami, pineapple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Royal",
+      "price": 12.99,
+      "description": "Donair sauce, Mozzarella cheese, Donair meat, onion, Green pepper",
+      "category": "FOOD",
+      "simplified_description": "Donair sauce, Mozzarella cheese, Donair meat, onion, Green pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Blaze",
+      "price": 12.99,
+      "description": "BBQ sauce, Mozzarella cheese, Chicken, Red onion, Green pepper",
+      "category": "FOOD",
+      "simplified_description": "BBQ sauce, Mozzarella cheese, Chicken, Red onion, Green pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Pizza",
+      "price": 12.99,
+      "description": "Alfredo sauce, Mozzarella cheese, Chicken, Red onion, Green pepper",
+      "category": "FOOD",
+      "simplified_description": "Alfredo sauce, Mozzarella cheese, Chicken, Red onion, Green pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Temptation",
+      "price": 12.99,
+      "description": "Tandoori sauce, Mozzarella cheese, Chicken, Green pepper, Red onion",
+      "category": "FOOD",
+      "simplified_description": "Tandoori sauce, Mozzarella cheese, Chicken, Green pepper, Red onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Create Your Own Pizza 10\"",
+      "price": 9.99,
+      "description": "Choose Toppings of your choice (Base price includes Pizza sauce and Cheese)",
+      "category": "FOOD",
+      "simplified_description": "Choose Toppings of your choice (Base price includes Pizza sauce and Cheese)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Create Your Own Pizza 12\"",
+      "price": 11.99,
+      "description": "Choose Toppings of your choice (Base price includes Pizza sauce and Cheese)",
+      "category": "FOOD",
+      "simplified_description": "Choose Toppings of your choice (Base price includes Pizza sauce and Cheese)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Create Your Own Pizza 14\"",
+      "price": 13.99,
+      "description": "Choose Toppings of your choice (Base price includes Pizza sauce and Cheese)",
+      "category": "FOOD",
+      "simplified_description": "Choose Toppings of your choice (Base price includes Pizza sauce and Cheese)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "price": 7.99,
+      "description": "Garlic-infused bread, loaded with melted cheese, oven-baked to golden perfection.",
+      "category": "SIDE",
+      "simplified_description": "Garlic-infused bread, loaded with melted cheese, oven-baked to golden perfection",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked chicken wings 6pcs",
+      "price": 6.99,
+      "description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "category": "SIDE",
+      "simplified_description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked chicken wings 12 pcs",
+      "price": 11.99,
+      "description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "category": "SIDE",
+      "simplified_description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheddar Chipotle",
+      "price": 1.1,
+      "description": "Dipping sauces",
+      "category": "DIPPING SAUCES",
+      "simplified_description": "Dipping sauces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Creamy Garlic",
+      "price": 1.1,
+      "description": "Dipping sauces",
+      "category": "DIPPING SAUCES",
+      "simplified_description": "Dipping sauces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ranch",
+      "price": 1.1,
+      "description": "Dipping sauces",
+      "category": "DIPPING SAUCES",
+      "simplified_description": "Dipping sauces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Pop",
+      "price": 1.49,
+      "description": "Canned pop selection: Choose from classic Coke, Diet Coke, Pepsi, Canada Dry, Sprite and Fanta.",
+      "category": "DRINK",
+      "simplified_description": "Canned pop selection: Choose from classic Coke, Diet Coke, Pepsi, Canada Dry, Sp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop (2 L)",
+      "price": 3.99,
+      "description": "2L soda options include Coke, Diet Coke, Pepsi, Canada Dry, Fanta, Fresca and 7up",
+      "category": "DRINK",
+      "simplified_description": "2L soda options include Coke, Diet Coke, Pepsi, Canada Dry, Fanta, Fresca and 7u",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

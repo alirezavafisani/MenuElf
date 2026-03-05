@@ -1,0 +1,61 @@
+{
+  "restaurant": "phokingdom",
+  "parsed_at": "2026-02-06T03:44:36.819336",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "Grilled Pork Chop, Fried Egg & Shredded Pork Skin on Steamed Rice",
+      "price": null,
+      "description": "Popular",
+      "category": "FOOD",
+      "simplified_description": "Popular",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pork Spring Rolls",
+      "price": null,
+      "description": "Popular",
+      "category": "APPETIZER",
+      "simplified_description": "Popular",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO KINGDOM Signature Basa Fillet Round Noodle Soup",
+      "price": null,
+      "description": "Popular",
+      "category": "FOOD",
+      "simplified_description": "Popular",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO KINGDOM Ultimate Vermicelli XL Bowl",
+      "price": null,
+      "description": "Grilled Meat (choice of Chicken, Beef or Pork), Spring Roll, Minced Shrimp & Meat Ball with Vermicelli \nPopular",
+      "category": "FOOD",
+      "simplified_description": "Grilled Meat (choice of Chicken, Beef or Pork), Spring Roll, Minced Shrimp & Mea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Medium Rare Beef Noodle Soup",
+      "price": null,
+      "description": "Popular",
+      "category": "FOOD",
+      "simplified_description": "Popular",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Crispy Crepe with Pork & Shrimps",
+      "price": null,
+      "description": "Popular",
+      "category": "FOOD",
+      "simplified_description": "Popular",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

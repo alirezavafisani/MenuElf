@@ -1,0 +1,187 @@
+{
+  "restaurant": "madrascafe",
+  "parsed_at": "2026-02-06T03:11:42.757156",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "Chilli Chicken",
+      "price": 16.0,
+      "description": "[ Chilli Chicken ](https://madrascafe.ca/chilli-chicken)",
+      "category": "FOOD",
+      "simplified_description": "[ Chilli Chicken ](https://madrascafe.ca/chilli-chicken)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "555-Chicken",
+      "price": 16.0,
+      "description": "[ 555-Chicken ](https://madrascafe.ca/555-chicken)",
+      "category": "FOOD",
+      "simplified_description": "[ 555-Chicken ](https://madrascafe.ca/555-chicken)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Fish",
+      "price": 16.0,
+      "description": "[ Chilli Fish ](https://madrascafe.ca/chilli-fish)",
+      "category": "FOOD",
+      "simplified_description": "[ Chilli Fish ](https://madrascafe.ca/chilli-fish)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken 65",
+      "price": 17.0,
+      "description": "[ Chicken 65 ](https://madrascafe.ca/chicken-finger-65)",
+      "category": "FOOD",
+      "simplified_description": "[ Chicken 65 ](https://madrascafe.ca/chicken-finger-65)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Loose Prawns",
+      "price": 17.0,
+      "description": "[ Signature Loose Prawns ](https://madrascafe.ca/signature-loose-prawns)",
+      "category": "FOOD",
+      "simplified_description": "[ Signature Loose Prawns ](https://madrascafe.ca/signature-loose-prawns)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish 65",
+      "price": 17.0,
+      "description": "[ Fish 65 ](https://madrascafe.ca/fish-finger-65)",
+      "category": "FOOD",
+      "simplified_description": "[ Fish 65 ](https://madrascafe.ca/fish-finger-65)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Garlic Chicken",
+      "price": 17.0,
+      "description": "[ Butter Garlic Chicken ](https://madrascafe.ca/butter-garlic-chicken)",
+      "category": "FOOD",
+      "simplified_description": "[ Butter Garlic Chicken ](https://madrascafe.ca/butter-garlic-chicken)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Majestic Chicken",
+      "price": 17.0,
+      "description": "[ Majestic Chicken ](https://madrascafe.ca/majestic-chicken)",
+      "category": "FOOD",
+      "simplified_description": "[ Majestic Chicken ](https://madrascafe.ca/majestic-chicken)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAJESTIC CHICKEN",
+      "price": 17.0,
+      "description": "[ MAJESTIC CHICKEN ](https://madrascafe.ca/MAJESTIC-CHICKEN-d34kzu)",
+      "category": "FOOD",
+      "simplified_description": "[ MAJESTIC CHICKEN ](https://madrascafe.ca/MAJESTIC-CHICKEN-d34kzu)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUTTER GARLIC CHICKEN",
+      "price": 17.0,
+      "description": "[ BUTTER GARLIC CHICKEN ](https://madrascafe.ca/BUTTER-GARLIC-CHICKEN-6yajua)",
+      "category": "FOOD",
+      "simplified_description": "[ BUTTER GARLIC CHICKEN ](https://madrascafe.ca/BUTTER-GARLIC-CHICKEN-6yajua)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FISH 65",
+      "price": 17.0,
+      "description": "[ FISH 65 ](https://madrascafe.ca/FISH65)",
+      "category": "FOOD",
+      "simplified_description": "[ FISH 65 ](https://madrascafe.ca/FISH65)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo-I",
+      "price": 15.0,
+      "description": "[ Combo-I ](https://madrascafe.ca/combo-i)",
+      "category": "FOOD",
+      "simplified_description": "[ Combo-I ](https://madrascafe.ca/combo-i)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo-II",
+      "price": 15.0,
+      "description": "[ Combo-II ](https://madrascafe.ca/combo-ii)",
+      "category": "FOOD",
+      "simplified_description": "[ Combo-II ](https://madrascafe.ca/combo-ii)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo-III",
+      "price": 17.0,
+      "description": "[ Combo-III ](https://madrascafe.ca/combo-iii)",
+      "category": "FOOD",
+      "simplified_description": "[ Combo-III ](https://madrascafe.ca/combo-iii)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO-II",
+      "price": 17.0,
+      "description": "[ COMBO-II ](https://madrascafe.ca/COMBO-II-0q1fw1)",
+      "category": "FOOD",
+      "simplified_description": "[ COMBO-II ](https://madrascafe.ca/COMBO-II-0q1fw1)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO-I",
+      "price": 17.0,
+      "description": "[ COMBO-I ](https://madrascafe.ca/COMBO-I-7xox83)",
+      "category": "FOOD",
+      "simplified_description": "[ COMBO-I ](https://madrascafe.ca/COMBO-I-7xox83)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO-III",
+      "price": 18.0,
+      "description": "[ COMBO-III ](https://madrascafe.ca/COMBO-III-nvwgwb)",
+      "category": "FOOD",
+      "simplified_description": "[ COMBO-III ](https://madrascafe.ca/COMBO-III-nvwgwb)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 11.0,
+      "description": "[ Plain Dosa ](https://madrascafe.ca/plain-dosa)",
+      "category": "FOOD",
+      "simplified_description": "[ Plain Dosa ](https://madrascafe.ca/plain-dosa)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KAL DOSA",
+      "price": 13.0,
+      "description": "[ KAL DOSA ](https://madrascafe.ca/kal-dosa)",
+      "category": "FOOD",
+      "simplified_description": "[ KAL DOSA ](https://madrascafe.ca/kal-dosa)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Dosa",
+      "price": null,
+      "description": "[ Masala Dosa ](https://madrascafe.ca/masala-dosa)",
+      "category": "FOOD",
+      "simplified_description": "[ Masala Dosa ](https://madrascafe.ca/masala-dosa)",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

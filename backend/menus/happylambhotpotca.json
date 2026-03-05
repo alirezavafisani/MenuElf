@@ -1,0 +1,244 @@
+{
+  "restaurant": "happylambhotpotca",
+  "parsed_at": "2026-02-06T02:30:38.495881",
+  "item_count": 19,
+  "items": [
+    {
+      "name": "Hand-Pulled Noodles",
+      "price": null,
+      "description": "the highlight of my meal was the hand-pulled noodles - they were so fresh and chewy!",
+      "category": "OTHER",
+      "simplified_description": "Fresh and chewy hand-pulled noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "$27.99 AYCE",
+      "price": 27.99,
+      "description": "it was of great value.",
+      "category": "OTHER",
+      "simplified_description": "All you can eat option for $27.99.",
+      "dietary_info": [],
+      "other_info": "Great value"
+    },
+    {
+      "name": "Mushroom Broth",
+      "price": null,
+      "description": "their mushroom broth is incredibly rich and savory, and the quality of the meats and seafood is top-notch.",
+      "category": "OTHER",
+      "simplified_description": "Rich and savory mushroom broth with quality meats and seafood.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Sliced Fresh Lamb Shoulder",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Freshly sliced lamb shoulder.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Nature Prime-aged Lamb",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Prime-aged natural lamb.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Lamb Skewers",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Grilled lamb skewers.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Blk Beef Tripe",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Black beef tripe.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb England Prime Lamb Brisket",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Prime lamb brisket from England.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Fresh Sliced Lamb Loin",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Freshly sliced lamb loin.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Lamb Tower",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Stacked lamb meat platter.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Roasted Lamb Leg",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Roasted lamb leg.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Shrimp Paste",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Paste made from shrimp seafood.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Ball Platter",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Platter of signature meatballs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Lamb Signatire Beef_Lamb Platter",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Platter with signature beef and lamb cuts.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Snakehead Fish Sliced",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Sliced snakehead fish seafood.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Supreme Wagyu",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Premium Wagyu beef served for hot pot.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Yam Basket",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A basket of fresh yam vegetables for hot pot.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Celtuce",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fresh celtuce vegetable for hot pot.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu Tofu Platter",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Assorted tofu pieces served for hot pot.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

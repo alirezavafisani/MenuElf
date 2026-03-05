@@ -1,0 +1,935 @@
+{
+  "restaurant": "gusspizza",
+  "parsed_at": "2026-02-06T02:27:51.168812",
+  "item_count": 80,
+  "items": [
+    {
+      "name": "SOUP OF THE DAY",
+      "price": 7.0,
+      "description": "null",
+      "category": "APPETIZER",
+      "simplified_description": "Chef's daily selection of soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH ONION SOUP",
+      "price": 10.0,
+      "description": "Served with garlic toast",
+      "category": "APPETIZER",
+      "simplified_description": "Classic French onion soup with garlic toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE BREAD",
+      "price": 14.0,
+      "description": "Mozzarella, spices, & garlic spread",
+      "category": "APPETIZER",
+      "simplified_description": "Bread topped with mozzarella, spices, and garlic spread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRUSCHETTA",
+      "price": 14.0,
+      "description": "Fresh diced tomatoes, red onions, dried parsley, pesto, creamy balsamic dressing, topped with Grana Padano cheese",
+      "category": "APPETIZER",
+      "simplified_description": "Toasted bread with tomato, onions, pesto, balsamic, and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach Dip",
+      "price": 16.0,
+      "description": "Chopped spinach & artichokes, cream cheese, feta, mozzarella. Served with pita bread.",
+      "category": "APPETIZER",
+      "simplified_description": "Creamy spinach and artichoke dip with cheeses and pita bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Wings",
+      "price": 18.0,
+      "description": "*Baked to perfection. A must try.",
+      "category": "APPETIZER",
+      "simplified_description": "Oven-baked chicken wings cooked to perfection.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PEPPERONI, MUSHROOMS, GREEN PEPPERS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with pepperoni, mushrooms, and green peppers.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAWAIIAN",
+      "price": 18.0,
+      "description": "Ham & pineapple",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with ham and pineapple.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAM, MUSHROOMS, GREEN PEPPERS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with ham, mushrooms, and green peppers.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON & TOMATOES",
+      "price": 17.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with bacon and tomatoes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAM & PEPPERONI",
+      "price": 17.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with ham and pepperoni toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON & MUSHROOMS",
+      "price": 17.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with bacon and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PEPPERONI & MUSHROOMS",
+      "price": 17.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with pepperoni and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SHRIMP & MUSHROOMS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with shrimp and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON, PEPPERONI, MUSHROOMS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with bacon, pepperoni, and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ CHICKEN, TOMATOES, MUSHROOMS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with BBQ chicken, tomatoes, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAT LOVERS",
+      "price": 21.0,
+      "description": "Sausages, pepperoni, bacon, salami",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with sausages, pepperoni, bacon, and salami.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GROUND BEEF, MUSHROOMS, ONIONS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with ground beef, mushrooms, and onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PEPPERONI, BACON, GREEN PEPPERS",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with pepperoni, bacon, and green peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PLAIN CHEESE",
+      "price": 15.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Classic cheese pizza with tomato sauce and melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PEPPERONI",
+      "price": 16.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with pepperoni slices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPINACH, TOMATOES, FETA CHEESE",
+      "price": 18.0,
+      "description": "null",
+      "category": "PIZZA",
+      "simplified_description": "Pizza with spinach, tomatoes, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN",
+      "price": 21.0,
+      "description": "Mushrooms, tomatoes, onions, green peppers, olives",
+      "category": "PIZZA",
+      "simplified_description": "Pizza topped with mushrooms, tomatoes, onions, peppers, and olives.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THE GREEK",
+      "price": 22.0,
+      "description": "Pepperoni, tomatoes, green peppers, onions, olives, feta cheese",
+      "category": "GUS’S FAVES",
+      "simplified_description": "Pizza with pepperoni, veggies, olives, and feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AEGEAN SUNSET",
+      "price": 22.0,
+      "description": "Black olives, sun-dried tomatoes, feta cheese, red onion, and a drizzle of honey and balsamic glaze",
+      "category": "GUS’S FAVES",
+      "simplified_description": "Pizza with olives, sun-dried tomatoes, feta, onion, honey, and balsamic glaze.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HOUSE SPECIAL",
+      "price": 22.0,
+      "description": "Pepperoni, ham, tomatoes, onions, pineapple, feta cheese",
+      "category": "GUS’S FAVES",
+      "simplified_description": "Pizza with pepperoni, ham, pineapple, onions, tomatoes, and feta cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROMA",
+      "price": 22.0,
+      "description": "Mushrooms, sun-dried tomatoes, artichokes, olives, feta cheese",
+      "category": "GUS’S FAVES",
+      "simplified_description": "Pizza with mushrooms, sun-dried tomatoes, artichokes, olives, and feta.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "THE CALIFORNIA",
+      "price": 22.0,
+      "description": "Chicken, pesto sauce, spinach, sun-dried tomatoes, red onions",
+      "category": "GUS’S FAVES",
+      "simplified_description": "Pizza with chicken, pesto, spinach, sun-dried tomatoes, and red onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GUS’S SPECIAL",
+      "price": 22.0,
+      "description": "Pepperoni, bacon, mushrooms, green peppers, olives, shrimp",
+      "category": "GUS’S FAVES",
+      "simplified_description": "Pizza with pepperoni, bacon, mushrooms, peppers, olives, and shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OVEN BAKED LASAGNA OR SPAGHETTI",
+      "price": 21.0,
+      "description": "Smothered with mozzarella cheese and Gus’s homemade meat sauce",
+      "category": "PASTA ME",
+      "simplified_description": "Lasagna or spaghetti with mozzarella cheese and homemade meat sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED TORTELLINI MAMA",
+      "price": 21.0,
+      "description": "Stuffed veal tortellini in meat sauce with mozzarella",
+      "category": "PASTA ME",
+      "simplified_description": "Veal tortellini baked with meat sauce and mozzarella cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED TORTELLINI FLORENCE",
+      "price": 21.0,
+      "description": "Stuffed veal tortellini in bechamel sauce with mozzarella",
+      "category": "PASTA ME",
+      "simplified_description": "Veal tortellini baked with creamy bechamel sauce and mozzarella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PESTO PASTA",
+      "price": 23.0,
+      "description": "Pasta mixed with fragrant basil pesto, grana padano cheese, and mozzarella, then baked to perfection",
+      "category": "PASTA ME",
+      "simplified_description": "Pasta baked with basil pesto, grana padano, and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED MANICOTTI",
+      "price": 21.0,
+      "description": "Spinach, ricotta cheese, with tomato & béchamel sauces, and mozzarella cheese",
+      "category": "PASTA ME",
+      "simplified_description": "Manicotti filled with spinach and ricotta, baked with tomato and béchamel sauces.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED MAC ’N’ CHEESE",
+      "price": 21.0,
+      "description": "null",
+      "category": "PASTA ME",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": null,
+      "description": "Romaine lettuce, croutons, and parmesan cheese, with homemade dressing. Served with garlic toast",
+      "category": "SIDE",
+      "simplified_description": "Romaine salad with croutons, parmesan, dressing, and garlic toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SALAD",
+      "price": null,
+      "description": "Cucumbers, tomatoes, green peppers, olives, red onions And feta tossed in olive oil and spices. Served with garlic toast",
+      "category": "SIDE",
+      "simplified_description": "Fresh vegetables and feta cheese salad with olive oil and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "COBB SALAD",
+      "price": 22.0,
+      "description": "Chicken, bacon tomatoes, romaine, sliced egg, carrots, Roquefort cheese, with choice of dressing",
+      "category": "SIDE",
+      "simplified_description": "Salad with chicken, bacon, egg, cheese, and vegetables with dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BURRATA SALAD",
+      "price": 22.0,
+      "description": "Mixed greens, burrata cheese, cherry tomatoes, crushed pistachios, olive oil, balsamic glaze",
+      "category": "SIDE",
+      "simplified_description": "Mixed greens with burrata, tomatoes, pistachios, olive oil, and balsamic glaze.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPINACH SALAD",
+      "price": 21.0,
+      "description": "Fresh spinach leaves, blueberries, strawberries, Walnuts, red onions, and goat cheese with choice of dressing",
+      "category": "SIDE",
+      "simplified_description": "Spinach salad with berries, walnuts, goat cheese, and dressing.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPINACH QUESADILLA",
+      "price": 19.0,
+      "description": "Spinach, tomatoes, feta, mozzarella. Add chicken | $3",
+      "category": "CASUAL FOOD FARE",
+      "simplified_description": "Quesadilla with spinach, tomatoes, feta, and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Option to add chicken for $3"
+    },
+    {
+      "name": "PESTO QUESADILLA",
+      "price": 19.0,
+      "description": "Basil pesto, red peppers, chicken, mozzarella",
+      "category": "CASUAL FOOD FARE",
+      "simplified_description": "Quesadilla with basil pesto, red peppers, chicken, and mozzarella.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BEEFY BFF",
+      "price": 19.0,
+      "description": "Quesadilla that’s your best friend, stuffed with juicy beef and mozzarella & cheddar mixes.",
+      "category": "CASUAL FOOD FARE",
+      "simplified_description": "Quesadilla filled with beef and mixed cheeses.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC SUB",
+      "price": 20.0,
+      "description": "Warm pizza sauce, layers of ham, pepperoni, back bacon, topped with melted cheese",
+      "category": "CASUAL FOOD FARE",
+      "simplified_description": "Sub sandwich with ham, pepperoni, bacon, pizza sauce, and melted cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MEATBALL SUB",
+      "price": 20.0,
+      "description": "Homemade meatballs covered with pizza sauce and melted mozzarella cheese",
+      "category": "CASUAL FOOD FARE",
+      "simplified_description": "Sub with homemade meatballs, pizza sauce, and melted mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CLUBHOUSE",
+      "price": 18.0,
+      "description": "Lettuce, tomato, chicken, bacon & cheddar cheese. Served on a ciabatta bun",
+      "category": "BETWEEN BREAD",
+      "simplified_description": "Chicken sandwich with bacon, cheddar, lettuce, and tomato on ciabatta bun.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "REUBEN SANDWICH",
+      "price": 18.0,
+      "description": "Pastrami, sauerkraut, swiss cheese & 1000 island dressing",
+      "category": "BETWEEN BREAD",
+      "simplified_description": "Pastrami sandwich with sauerkraut, swiss cheese, and 1000 island dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN & BASIL PESTO",
+      "price": 17.0,
+      "description": "Sundried tomatoes, chicken, basil pesto, and mozzarella. Served on a baguette bun",
+      "category": "BETWEEN BREAD",
+      "simplified_description": "Chicken sandwich with sundried tomatoes, basil pesto, and mozzarella on baguette.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CAESER WRAP",
+      "price": 16.0,
+      "description": "Chicken, romaine lettuce, parmesan cheese, and Caesar dressing wrapped in a flour tortilla",
+      "category": "BETWEEN BREAD",
+      "simplified_description": "Chicken Caesar wrap with romaine, parmesan, and Caesar dressing in a tortilla.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MELTED MORTADELLA MAGIC",
+      "price": 19.0,
+      "description": "Mortadella, mozzarella cheese, mixed greens, tomatoes, olive oil, balsamic glaze and mayo served on a baguette.",
+      "category": "BETWEEN BREAD",
+      "simplified_description": "Mortadella sandwich with mozzarella, greens, tomatoes, and balsamic on baguette.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HOMEMADE CHEESE CAKE",
+      "price": 11.0,
+      "description": "Served with a choice of strawberry or blueberry sauce.",
+      "category": "DESSERT",
+      "simplified_description": "Classic cheesecake served with strawberry or blueberry sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SALTED CARAMEL CHEESECAKE",
+      "price": 11.0,
+      "description": "White chocolate cheesecake, chocolate cookie graham base, salted caramel",
+      "category": "DESSERT",
+      "simplified_description": "White chocolate cheesecake with chocolate cookie base and salted caramel.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Lava Cake",
+      "price": 10.0,
+      "description": "Chocolate cake, molten chocolate. This dessert is served warm.",
+      "category": "DESSERT",
+      "simplified_description": "Warm chocolate cake with molten chocolate center.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Served warm"
+    },
+    {
+      "name": "Monthly dessert feature",
+      "price": 10.0,
+      "description": "Inquire with your server",
+      "category": "DESSERT",
+      "simplified_description": "Ask your server about this month's special dessert.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 5.0,
+      "description": "Enjoy a bowl of our creamy vanilla ice cream.",
+      "category": "DESSERT",
+      "simplified_description": "Creamy vanilla ice cream served in a bowl.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DESSERT A LA MODE",
+      "price": 3.0,
+      "description": "Make any dessert a la mode.",
+      "category": "DESSERT",
+      "simplified_description": "Add ice cream to any dessert.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Henry Legarde",
+      "price": 10.0,
+      "description": "**Malbec, Mendoza, Argentina**",
+      "category": "DRINK",
+      "simplified_description": "Malbec wine from Mendoza, Argentina.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poppy Paso Roblas",
+      "price": 12.0,
+      "description": "**Cabernet Sauvignon, USA**",
+      "category": "DRINK",
+      "simplified_description": "Cabernet Sauvignon wine from the USA.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JAJA",
+      "price": 10.0,
+      "description": "**Sauvignon Blanc, France**",
+      "category": "DRINK",
+      "simplified_description": "Sauvignon Blanc wine from France.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COLTERENZIO LUMO",
+      "price": 12.0,
+      "description": "**Pinot Grigio, Italy**",
+      "category": "DRINK",
+      "simplified_description": "Pinot Grigio wine from Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIRABEAU DU PROVENCE",
+      "price": 12.0,
+      "description": "**Rose Cotes, Provence, France**",
+      "category": "DRINK",
+      "simplified_description": "A rosé wine from Provence, France.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sapporo",
+      "price": 9.0,
+      "description": "Lager",
+      "category": "DRINK",
+      "simplified_description": "A crisp and refreshing lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Velvet Fog",
+      "price": 8.0,
+      "description": "Wheat Ale",
+      "category": "DRINK",
+      "simplified_description": "A smooth wheat ale beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Wraspberry Ale",
+      "price": 8.0,
+      "description": "Fruit Ale",
+      "category": "DRINK",
+      "simplified_description": "A fruity raspberry ale beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Horn in The Haze",
+      "price": 8.0,
+      "description": "Lager",
+      "category": "DRINK",
+      "simplified_description": "A smooth lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PINK VELVET",
+      "price": 8.0,
+      "description": "Velvet Fog / Wraspberry Ale",
+      "category": "DRINK",
+      "simplified_description": "A mix of Velvet Fog and Raspberry Ale beers.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": 7.0,
+      "description": "355 ml",
+      "category": "DRINK",
+      "simplified_description": "A classic American lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bud Light",
+      "price": 7.0,
+      "description": "355 ml",
+      "category": "DRINK",
+      "simplified_description": "A light American lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian",
+      "price": 7.0,
+      "description": "355 ml",
+      "category": "DRINK",
+      "simplified_description": "A Canadian style lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strongbow Cider",
+      "price": 9.0,
+      "description": "440 ml",
+      "category": "DRINK",
+      "simplified_description": "A crisp apple cider drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Guiness",
+      "price": 10.0,
+      "description": "500 ml",
+      "category": "DRINK",
+      "simplified_description": "A rich and creamy stout beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 8.0,
+      "description": "355 ml",
+      "category": "DRINK",
+      "simplified_description": "A light Mexican lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stella Artois",
+      "price": 8.0,
+      "description": "355 ml",
+      "category": "DRINK",
+      "simplified_description": "A Belgian pilsner lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ole Margarita",
+      "price": 9.0,
+      "description": "355 ml",
+      "category": "DRINK",
+      "simplified_description": "A classic margarita cocktail.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stiegel Raddler Grapefruit",
+      "price": 10.0,
+      "description": "500 ml",
+      "category": "DRINK",
+      "simplified_description": "A grapefruit flavored radler beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moscow Mule",
+      "price": 12.0,
+      "description": "Vodka, lime juice, ginger beer, with a lime wheel",
+      "category": "DRINK",
+      "simplified_description": "A refreshing cocktail with vodka, lime, and ginger beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": 12.0,
+      "description": "Vodka, clamato juice, with olives and asparagus",
+      "category": "DRINK",
+      "simplified_description": "Cocktail with vodka, clamato juice, olives, and asparagus.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TOM COLLINS",
+      "price": 12.0,
+      "description": "Gin, lemon juice, simple syrup, & soda water",
+      "category": "DRINK",
+      "simplified_description": "Classic gin cocktail with lemon, syrup, and soda water.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Sunset",
+      "price": 14.0,
+      "description": "Amaretto, orange juice, club soda, grenadine",
+      "category": "DRINK",
+      "simplified_description": "Sweet cocktail with amaretto, orange juice, and grenadine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Highballs",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "A mixed drink served in a tall glass.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

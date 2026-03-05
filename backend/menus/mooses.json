@@ -1,0 +1,205 @@
+{
+  "restaurant": "mooses",
+  "parsed_at": "2025-12-25T00:59:37.863998",
+  "item_count": 22,
+  "items": [
+    {
+      "name": "Tequila Shot",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Cooked Wings / 1LB",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Cooked Wings / 2LB",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Cooked Wings / 3LB",
+      "price": 26.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Pints",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burt Reynolds Shot",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 17.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Bottled Beer",
+      "price": 6.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea Shot",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vintage Burger",
+      "price": 16.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Specialty Burgers",
+      "price": 17.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trolley 5 Cloudy Daze",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rock Star Shot",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Bone-In Riblets",
+      "price": 12.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gin Peach Shot",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Night (10 INCH)",
+      "price": 16.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Highballs 1oz",
+      "price": 5.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1/2 Price Bottles of Wine",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesars 1oz",
+      "price": 6.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Pints",
+      "price": 6.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireball Shots 1oz",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vintage Burger (with choice of side)",
+      "price": 16.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Features",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

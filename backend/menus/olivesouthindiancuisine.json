@@ -1,0 +1,1222 @@
+{
+  "restaurant": "olivesouthindiancuisine",
+  "parsed_at": "2026-02-06T03:32:51.626695",
+  "item_count": 135,
+  "items": [
+    {
+      "name": "nut Fry",
+      "price": 18.99,
+      "description": "GOAT & BEEF STARTER",
+      "category": "OTHER",
+      "simplified_description": "GOAT & BEEF STARTER",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Beef Dry",
+      "price": 17.49,
+      "description": "GOAT & BEEF STARTER",
+      "category": "OTHER",
+      "simplified_description": "GOAT & BEEF STARTER",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Honey Chilly Beef",
+      "price": 18.49,
+      "description": "GOAT & BEEF STARTER",
+      "category": "OTHER",
+      "simplified_description": "GOAT & BEEF STARTER",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Pepper Fry",
+      "price": 18.49,
+      "description": "GOAT & BEEF STARTER",
+      "category": "OTHER",
+      "simplified_description": "GOAT & BEEF STARTER",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Dry Fry (BDF)",
+      "price": 18.99,
+      "description": "GOAT & BEEF STARTER",
+      "category": "OTHER",
+      "simplified_description": "GOAT & BEEF STARTER",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thattu Dosa",
+      "price": 11.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Uttapam",
+      "price": 14.29,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Dosa",
+      "price": 12.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "price": 15.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gobi Manchurian Dosa",
+      "price": 16.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Masala Dosa",
+      "price": 16.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Ghee Dosa",
+      "price": 13.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Ghee Masala Dosa",
+      "price": 15.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Manchurian Dosa",
+      "price": 16.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Spring Roll Dosa",
+      "price": 16.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Spring Roll Dosa",
+      "price": 15.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala Dosa",
+      "price": 16.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Idli Vada",
+      "price": 12.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Idli Sambar (4 Pcs)",
+      "price": 12.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasa Vada",
+      "price": 11.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dahi Vada",
+      "price": 11.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Uzhunnu Vada",
+      "price": 12.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ghee Roast",
+      "price": 11.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Podi Plain Dosa",
+      "price": 12.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Podi Masala Dosa",
+      "price": 13.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 13.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Plain Dosa",
+      "price": 13.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": 14.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thattil Kutti Dosa",
+      "price": 14.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Plain Dosa",
+      "price": 13.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Masala Dosa",
+      "price": 14.25,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rava Plain Dosa",
+      "price": 14.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rava Masala Dosa",
+      "price": 15.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Plain Dosa",
+      "price": 14.49,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "price": 15.99,
+      "description": "DOSA",
+      "category": "DOSA",
+      "simplified_description": "DOSA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Kothu Paratha",
+      "price": 14.99,
+      "description": "KOTHU PARATHA",
+      "category": "OTHER",
+      "simplified_description": "KOTHU PARATHA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Kothu Paratha",
+      "price": 14.99,
+      "description": "KOTHU PARATHA",
+      "category": "OTHER",
+      "simplified_description": "KOTHU PARATHA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kothu Paratha",
+      "price": 16.49,
+      "description": "KOTHU PARATHA",
+      "category": "OTHER",
+      "simplified_description": "KOTHU PARATHA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Kothu Paratha",
+      "price": 17.49,
+      "description": "KOTHU PARATHA",
+      "category": "OTHER",
+      "simplified_description": "KOTHU PARATHA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kothu Paratha",
+      "price": 16.49,
+      "description": "KOTHU PARATHA",
+      "category": "OTHER",
+      "simplified_description": "KOTHU PARATHA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Kothu Paratha",
+      "price": 17.49,
+      "description": "KOTHU PARATHA",
+      "category": "OTHER",
+      "simplified_description": "KOTHU PARATHA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Omelette",
+      "price": 6.5,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Burji",
+      "price": 7.5,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg & Peas (Dry)",
+      "price": 7.5,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Chilly",
+      "price": 7.5,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Korma",
+      "price": 12.49,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Curry",
+      "price": 12.49,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Roast",
+      "price": 12.49,
+      "description": "EGG",
+      "category": "EGG",
+      "simplified_description": "EGG",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Tadka",
+      "price": 13.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Palak",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Stew",
+      "price": 13.49,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Khorma",
+      "price": 13.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chettinadu Paneer",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chettinadu Mushroom",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Paneer",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Makhni",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Muttar Paneer",
+      "price": 14.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Channa Masala",
+      "price": 13.99,
+      "description": "VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Olive Special Kurumulaku Kozhi Roast",
+      "price": 17.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pollichathu",
+      "price": 17.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Naalukettu",
+      "price": 16.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 17.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 17.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kuttanadan Chicken Curry",
+      "price": 16.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Khorma",
+      "price": 15.99,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Varuthara",
+      "price": 16.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 16.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Murghi Saagwala",
+      "price": 15.99,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Stew",
+      "price": 16.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Roast",
+      "price": 17.49,
+      "description": "NON-VEG CURRIES",
+      "category": "OTHER",
+      "simplified_description": "NON-VEG CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Olive Special Beef Kurumulaku Peralan",
+      "price": 18.99,
+      "description": "BEEF CURRIES",
+      "category": "OTHER",
+      "simplified_description": "BEEF CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grandma's Special Beef Curry",
+      "price": 18.49,
+      "description": "BEEF CURRIES",
+      "category": "OTHER",
+      "simplified_description": "BEEF CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achayan Beef Masala",
+      "price": 18.49,
+      "description": "BEEF CURRIES",
+      "category": "OTHER",
+      "simplified_description": "BEEF CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Beef",
+      "price": 18.49,
+      "description": "BEEF CURRIES",
+      "category": "OTHER",
+      "simplified_description": "BEEF CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Chettinadu",
+      "price": 18.49,
+      "description": "MUTTON CURRIES",
+      "category": "OTHER",
+      "simplified_description": "MUTTON CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Roast",
+      "price": 18.99,
+      "description": "MUTTON CURRIES",
+      "category": "OTHER",
+      "simplified_description": "MUTTON CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Coconut Fry",
+      "price": 18.99,
+      "description": "MUTTON CURRIES",
+      "category": "OTHER",
+      "simplified_description": "MUTTON CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Olive Special Mutton Khorma",
+      "price": 18.49,
+      "description": "MUTTON CURRIES",
+      "category": "OTHER",
+      "simplified_description": "MUTTON CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Masala",
+      "price": 18.49,
+      "description": "MUTTON CURRIES",
+      "category": "OTHER",
+      "simplified_description": "MUTTON CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Stew",
+      "price": 18.49,
+      "description": "MUTTON CURRIES",
+      "category": "OTHER",
+      "simplified_description": "MUTTON CURRIES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Olive Special Koonthal Ularthu",
+      "price": 16.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shappile Meen Curry",
+      "price": 15.99,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Travancore Meen Curry",
+      "price": 16.99,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Fish Curry",
+      "price": 17.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kozhikodan Meen Curry",
+      "price": 17.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Masala",
+      "price": 17.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meen Pollichathu",
+      "price": 18.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Moilee",
+      "price": 17.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nemba Nadan Chemmeen Roast",
+      "price": 18.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chemmeen Mango Curry",
+      "price": 18.49,
+      "description": "SEAFOOD (FISH & PRAWNS)",
+      "category": "OTHER",
+      "simplified_description": "SEAFOOD (FISH & PRAWNS)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Biryani",
+      "price": 18.49,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 17.49,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 14.29,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Biryani",
+      "price": 17.99,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Biryani (Mutton)",
+      "price": 17.99,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Olive Special Chicken Biryani",
+      "price": 16.99,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Biryani",
+      "price": 14.49,
+      "description": "BIRYANI",
+      "category": "OTHER",
+      "simplified_description": "BIRYANI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Noodles",
+      "price": 16.49,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": 17.49,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Noodles",
+      "price": 15.99,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Noodles",
+      "price": 17.99,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Noodles",
+      "price": 18.49,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Veg Fried Rice",
+      "price": 15.99,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Chicken Fried Rice",
+      "price": 17.49,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Mixed Fried Rice",
+      "price": 17.99,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Prawn Fried Rice",
+      "price": 18.49,
+      "description": "CHINESE",
+      "category": "OTHER",
+      "simplified_description": "CHINESE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 10.25,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 9.99,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Rice",
+      "price": 9.75,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chapathi",
+      "price": 2.2,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kerala Paratha",
+      "price": 2.7,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kallapam",
+      "price": 2.2,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appam",
+      "price": 2.2,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 9.25,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ghee Rice",
+      "price": 12.99,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 15.49,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thalaserry Chicken Biryani",
+      "price": 18.99,
+      "description": "RICE & BREAD",
+      "category": "OTHER",
+      "simplified_description": "RICE & BREAD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Ice Cream",
+      "price": 3.49,
+      "description": "DESSERT",
+      "category": "DESSERT",
+      "simplified_description": "DESSERT",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 3.49,
+      "description": "DESSERT",
+      "category": "DESSERT",
+      "simplified_description": "DESSERT",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Ice Cream",
+      "price": 3.49,
+      "description": "DESSERT",
+      "category": "DESSERT",
+      "simplified_description": "DESSERT",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun (2 Pcs)",
+      "price": 6.99,
+      "description": "DESSERT",
+      "category": "DESSERT",
+      "simplified_description": "DESSERT",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Payasam",
+      "price": 6.69,
+      "description": "DESSERT",
+      "category": "DESSERT",
+      "simplified_description": "DESSERT",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt Lassi",
+      "price": 5.99,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Milkshake",
+      "price": 7.49,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "price": 7.49,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Milkshake",
+      "price": 7.49,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oreo Milkshake",
+      "price": 7.49,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 5.99,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 7.15,
+      "description": "DRINKS",
+      "category": "DRINK",
+      "simplified_description": "DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Juice",
+      "price": 6.44,
+      "description": "FRESH JUICES",
+      "category": "OTHER",
+      "simplified_description": "FRESH JUICES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "price": 5.99,
+      "description": "FRESH JUICES",
+      "category": "OTHER",
+      "simplified_description": "FRESH JUICES",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lime Soda",
+      "price": 7.15,
+      "description": "FRESH JUICES",
+      "category": "OTHER",
+      "simplified_description": "FRESH JUICES",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

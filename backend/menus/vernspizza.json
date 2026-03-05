@@ -1,0 +1,124 @@
+{
+  "restaurant": "vernspizza",
+  "parsed_at": "2025-12-24T23:40:21.427721",
+  "item_count": 13,
+  "items": [
+    {
+      "name": "Vern's Original Thick Pizza",
+      "price": null,
+      "description": "Vern's original extra thick pizza. The thickest pizza going. For over 30 years.",
+      "simplified_description": "A very thick pizza that has been made for over 30 years.",
+      "category": "Original Thick",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Double",
+      "price": null,
+      "description": "Loaded with sauce, pepperoni and cheese!",
+      "simplified_description": "A pizza with lots of sauce, pepperoni, and cheese.",
+      "category": "Original Thick",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vern's Lite Pizza",
+      "price": null,
+      "description": "Looking for a lite pizza with just the right amount of toppings? Try Vern's Lite.",
+      "simplified_description": "A lighter pizza with a balanced amount of toppings.",
+      "category": "Vern's Lite",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Cheesy Bread",
+      "price": 8.95,
+      "description": "Satisfy your deep cravings for cheese with our NEW Stuffed Cheesy Bread!",
+      "simplified_description": "A new cheesy bread that is very satisfying.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Combo #1",
+      "price": null,
+      "description": "2 Topping 12” Lite Pizza, Reg. Caesar Salad, Box of Churros and 2L pop.",
+      "simplified_description": "A meal combo with a pizza, salad, churros, and a 2-liter soda.",
+      "category": "Value Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Combo #2",
+      "price": null,
+      "description": "2 Topping 12” Lite Pizza, Single Lasagna, Box of Churros, 2L pop.",
+      "simplified_description": "A meal combo with a pizza, lasagna, churros, and a 2-liter soda.",
+      "category": "Value Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gamer Box",
+      "price": null,
+      "description": "2 Topping 10” Lite Pizza, Fries, ½ order Dry Ribs, Mini Donuts, 2L pop.",
+      "simplified_description": "A meal combo with a pizza, fries, dry ribs, mini donuts, and a 2-liter soda.",
+      "category": "Value Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Manager's Special",
+      "price": null,
+      "description": "2 - 12” Lite Pizzas, Deep Fried Pickles, 2L pop.",
+      "simplified_description": "A special deal with two pizzas, fried pickles, and a 2-liter soda.",
+      "category": "Value Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beast Feast",
+      "price": null,
+      "description": "18” Original Thick Pizza, Lg Dry Ribs, Lg Curly Fries, Reg Cheesy Bread Sticks, 2L pop.",
+      "simplified_description": "A large meal with a big pizza, dry ribs, curly fries, cheesy bread sticks, and a 2-liter soda.",
+      "category": "Value Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Caesar Salad",
+      "price": null,
+      "description": "Crisp and cool.",
+      "simplified_description": "A fresh and cool salad.",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Caesar Salad",
+      "price": null,
+      "description": "Crisp and cool.",
+      "simplified_description": "A fresh and cool salad.",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Lasagna",
+      "price": null,
+      "description": "Garlic toast included.",
+      "simplified_description": "A lasagna served with garlic toast.",
+      "category": "Lasagna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Lasagna",
+      "price": null,
+      "description": "Garlic toast included.",
+      "simplified_description": "A larger lasagna served with garlic toast.",
+      "category": "Lasagna",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

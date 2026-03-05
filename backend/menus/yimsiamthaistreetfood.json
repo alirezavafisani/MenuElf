@@ -1,0 +1,430 @@
+{
+  "restaurant": "yimsiamthaistreetfood",
+  "parsed_at": "2026-02-06T04:54:28.696817",
+  "item_count": 47,
+  "items": [
+    {
+      "name": "Pork / Beef",
+      "price": 18.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp",
+      "price": 20.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "R9 Steamed Rice",
+      "price": 3.9,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "R10 Coconut Rice",
+      "price": 4.5,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "R11 Sticky Rice",
+      "price": 5.0,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CS1 Hoi Tod (Mussels Pancake)",
+      "price": 21.9,
+      "description": "bean sprout, cilantro, green onion, egg, mussel",
+      "category": "FOOD",
+      "simplified_description": "bean sprout, cilantro, green onion, egg, mussel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CS2 Yum Pla Dook Foo (Fish Floss Salad)",
+      "price": 19.4,
+      "description": "cashew nut, cilantro, chili, red onion, mango, crispy shredded tilapia fillets, gree onion",
+      "category": "FOOD",
+      "simplified_description": "cashew nut, cilantro, chili, red onion, mango, crispy shredded tilapia fillets, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CS3 Basil Pork Belly served w/ Fried Egg and Rice",
+      "price": 24.9,
+      "description": "basil, chili, garlic, pork belly, fried egg",
+      "category": "FOOD",
+      "simplified_description": "basil, chili, garlic, pork belly, fried egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CS4 Haw Mok Pla (Steamed Fish in Banana Leaves) (GF)",
+      "price": 19.9,
+      "description": "basil, bell pepper, basa fillet, egg",
+      "category": "FOOD",
+      "simplified_description": "basil, bell pepper, basa fillet, egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CS5 Kana Moo Krob (Chinese Broccoli w/ Pork Belly)",
+      "price": 19.4,
+      "description": "chinese broccoli, garlic, pork belly",
+      "category": "FOOD",
+      "simplified_description": "chinese broccoli, garlic, pork belly",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SILOM SET (for 2 ppl)",
+      "price": 61.0,
+      "description": "Vegetable Spring Rolls\nRed Curry Chicken\nMixed Veggies Beef\nCoconut Rice\nCustard Sticky Rice",
+      "category": "OTHER",
+      "simplified_description": "Vegetable Spring Rolls\nRed Curry Chicken\nMixed Veggies Beef\nCoconut Rice\nCustard",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sukhumvit Set (for 2 ppl)",
+      "price": 67.0,
+      "description": "Shrimp Salad Rolls\nGreen Curry Shrimp\nCashew Chicken\nCoconut Rice\nMango Sticky Rice",
+      "category": "OTHER",
+      "simplified_description": "Shrimp Salad Rolls\nGreen Curry Shrimp\nCashew Chicken\nCoconut Rice\nMango Sticky R",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sathorn Set (for 2 ppl) (veg)",
+      "price": 61.0,
+      "description": "Deep Fried Tofu\nYellow Curry Tofu\nMixed Veggie with Cashew Nuts\nCoconut Rice\nMango Sticky Rice",
+      "category": "OTHER",
+      "simplified_description": "Deep Fried Tofu\nYellow Curry Tofu\nMixed Veggie with Cashew Nuts\nCoconut Rice\nMan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bang Rak Set (for 4 ppl)",
+      "price": 116.0,
+      "description": "Crispy Pork Wontons\nMassaman Beef\nMixed Veggies Chicken\nBasil Grounded Pork\nPad Thai Shrimp\nCoconut Rice\nMango Sticky Rice",
+      "category": "OTHER",
+      "simplified_description": "Crispy Pork Wontons\nMassaman Beef\nMixed Veggies Chicken\nBasil Grounded Pork\nPad ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch Specials Set",
+      "price": 17.9,
+      "description": "Each set includes:\nFried Wontons (3pcs) + Main of your choice (choose between L1-L6) + Regular Rice + Dessert of the Day",
+      "category": "OTHER",
+      "simplified_description": "Each set includes:\nFried Wontons (3pcs) + Main of your choice (choose between L1",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L1 Green Curry*",
+      "price": null,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L2 Red Curry*",
+      "price": null,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L3 Mixed Veggies Stir Fried*",
+      "price": null,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L4 Cashew Chicken",
+      "price": null,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L5 BBQ Chicken",
+      "price": null,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "L6 Pepper Garlic Pork",
+      "price": null,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "D1 Mango Sticky Rice (GF)",
+      "price": 7.8,
+      "description": "null",
+      "category": "DESSERT",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "D2 Custard Sticky Rice (GF)",
+      "price": 7.8,
+      "description": "null",
+      "category": "DESSERT",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "D3 Bua Loy (GF)",
+      "price": 7.8,
+      "description": "rice balls made with taro, pumpkin, purple yam in coconut milk",
+      "category": "DESSERT",
+      "simplified_description": "rice balls made with taro, pumpkin, purple yam in coconut milk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "D4 Sweetened Roti",
+      "price": 5.8,
+      "description": "condensed milk, butter",
+      "category": "DESSERT",
+      "simplified_description": "condensed milk, butter",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "D5 Fried Banana + Coconut Ice Cream",
+      "price": 7.8,
+      "description": "with sesame battered",
+      "category": "DESSERT",
+      "simplified_description": "with sesame battered",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drinks",
+      "price": 3.5,
+      "description": "Coke / Diet Coke / Coke Zero / 7-Up / Ginger Ale / Iced Tea",
+      "category": "DRINK",
+      "simplified_description": "Coke / Diet Coke / Coke Zero / 7-Up / Ginger Ale / Iced Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 4.8,
+      "description": "Mango / Pineapple / Guava",
+      "category": "DRINK",
+      "simplified_description": "Mango / Pineapple / Guava",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Drinks",
+      "price": 5.8,
+      "description": "Butterfly Pea Lemonade / Thai Milk Tea / Thai Iced Coffee / Pink Milk / Coconut Juice",
+      "category": "DRINK",
+      "simplified_description": "Butterfly Pea Lemonade / Thai Milk Tea / Thai Iced Coffee / Pink Milk / Coconut ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Tea / Hot Coffee",
+      "price": 2.5,
+      "description": "(per person)",
+      "category": "DRINK",
+      "simplified_description": "(per person)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beer",
+      "price": 2.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imported Beers",
+      "price": 8.5,
+      "description": "Singha / Chang / Tiger / Corona / Heineken",
+      "category": "DRINK",
+      "simplified_description": "Singha / Chang / Tiger / Corona / Heineken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Beers",
+      "price": 7.5,
+      "description": "Canadian / Kokanee / Coors Light / Alexander Keith’s IPA",
+      "category": "DRINK",
+      "simplified_description": "Canadian / Kokanee / Coors Light / Alexander Keith’s IPA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine",
+      "price": null,
+      "description": "House Wine\nRed: Cabernet Sauvignon / Merlot\nWhite: Sauvignon Blanc / Pinot Grigio",
+      "category": "DRINK",
+      "simplified_description": "House Wine\nRed: Cabernet Sauvignon / Merlot\nWhite: Sauvignon Blanc / Pinot Grigi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Wine by bottle",
+      "price": 35.0,
+      "description": "Alamos Malbec (Argentina)",
+      "category": "DRINK",
+      "simplified_description": "Alamos Malbec (Argentina)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Wine by bottle",
+      "price": 33.0,
+      "description": "Gnarly Head Old Vine Zinfandel (USA)",
+      "category": "DRINK",
+      "simplified_description": "Gnarly Head Old Vine Zinfandel (USA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Wine by bottle",
+      "price": 37.0,
+      "description": "Ruffino Chianti (Italy)",
+      "category": "DRINK",
+      "simplified_description": "Ruffino Chianti (Italy)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Wine by bottle",
+      "price": 29.0,
+      "description": "Jacobs Creek Moscato (Australia)",
+      "category": "DRINK",
+      "simplified_description": "Jacobs Creek Moscato (Australia)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Wine by bottle",
+      "price": 37.0,
+      "description": "Dr. ZenZen Spatlese Riesling (Germany)",
+      "category": "DRINK",
+      "simplified_description": "Dr. ZenZen Spatlese Riesling (Germany)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Wine by bottle",
+      "price": 33.0,
+      "description": "Oyster Bay Chardonnay (New Zealand)",
+      "category": "DRINK",
+      "simplified_description": "Oyster Bay Chardonnay (New Zealand)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mojito",
+      "price": 8.8,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita",
+      "price": 8.8,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Long Island",
+      "price": 8.5,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": 7.8,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Hawaiian",
+      "price": 8.8,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pina Colatini",
+      "price": 8.8,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mai Tai",
+      "price": 8.8,
+      "description": "null",
+      "category": "COCKTAIL",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

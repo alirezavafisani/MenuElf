@@ -1,0 +1,367 @@
+{
+  "restaurant": "tobeyyc",
+  "parsed_at": "2026-02-06T04:35:18.525894",
+  "item_count": 40,
+  "items": [
+    {
+      "name": "Edamame",
+      "price": 5.0,
+      "description": "* * *",
+      "category": "OTHER",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sashimi Platter",
+      "price": 32.0,
+      "description": "Salmon, Hamachi, Octopus, Serf Clam, Mackerel, spicy Scallop",
+      "category": "FOOD",
+      "simplified_description": "Salmon, Hamachi, Octopus, Serf Clam, Mackerel, spicy Scallop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Hotageai",
+      "price": 11.0,
+      "description": "Spicy chopped Scallop & fish roe with spicy mayo",
+      "category": "FOOD",
+      "simplified_description": "Spicy chopped Scallop & fish roe with spicy mayo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake",
+      "price": 12.0,
+      "description": "3pcs / Atlantic Salmon",
+      "category": "FOOD",
+      "simplified_description": "3pcs / Atlantic Salmon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saba",
+      "price": 11.0,
+      "description": "4pcs / Mackernel",
+      "category": "FOOD",
+      "simplified_description": "4pcs / Mackernel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hamachi",
+      "price": 14.0,
+      "description": "3pcs / Yellowtail",
+      "category": "FOOD",
+      "simplified_description": "3pcs / Yellowtail",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hokkigai",
+      "price": 11.0,
+      "description": "3pcs / Serf Clam",
+      "category": "FOOD",
+      "simplified_description": "3pcs / Serf Clam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tako",
+      "price": 11.0,
+      "description": "4pcs / Octopus",
+      "category": "FOOD",
+      "simplified_description": "4pcs / Octopus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dragon Roll 8pcs",
+      "price": 19.0,
+      "description": "(Shrimp Tempura, Unagi, Cucumber, Avocado, Mayo, Unagi Sauce)",
+      "category": "FOOD",
+      "simplified_description": "(Shrimp Tempura, Unagi, Cucumber, Avocado, Mayo, Unagi Sauce)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "California Roll 8pcs",
+      "price": 10.0,
+      "description": "(Crab meat, Avocado, Cucumber, Sesame, Mayo)",
+      "category": "FOOD",
+      "simplified_description": "(Crab meat, Avocado, Cucumber, Sesame, Mayo)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rainbow Roll 8pcs",
+      "price": 15.0,
+      "description": "(Crab Meat, Tuna, Salmon, Sweet Shrimp, Avocado, Cucumber, Mayo)",
+      "category": "FOOD",
+      "simplified_description": "(Crab Meat, Tuna, Salmon, Sweet Shrimp, Avocado, Cucumber, Mayo)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Roll 8pcs",
+      "price": 10.0,
+      "description": "Salmon, Cucumber, Avocado, Mayo",
+      "category": "FOOD",
+      "simplified_description": "Salmon, Cucumber, Avocado, Mayo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dynamite Roll 8pcs",
+      "price": 12.0,
+      "description": "(Shrimp Tempura, Cucumber, Avocado, Tobiko, Mayo, Unagi Sauce)",
+      "category": "FOOD",
+      "simplified_description": "(Shrimp Tempura, Cucumber, Avocado, Tobiko, Mayo, Unagi Sauce)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Roll 8pcs",
+      "price": 10.0,
+      "description": "(Spicy Salmon, Cucumber, Avocado, Spicy Mayo, Sriracha, Japanese Chili pepper)",
+      "category": "FOOD",
+      "simplified_description": "(Spicy Salmon, Cucumber, Avocado, Spicy Mayo, Sriracha, Japanese Chili pepper)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Roll 6pcs",
+      "price": 6.0,
+      "description": "(Avocado, Sesame)",
+      "category": "FOOD",
+      "simplified_description": "(Avocado, Sesame)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cucumber Roll 6pcs",
+      "price": 6.0,
+      "description": "(Cucumber, Sesame)",
+      "category": "FOOD",
+      "simplified_description": "(Cucumber, Sesame)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miyasaki A5 Wagyu ( 5 oz )",
+      "price": 110.0,
+      "description": "5 oz / One of the Top Quality Japanese Beef",
+      "category": "FOOD",
+      "simplified_description": "5 oz / One of the Top Quality Japanese Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ribeye 12oz",
+      "price": 68.0,
+      "description": "Prime ribeye steak grill to perfection doneness",
+      "category": "FOOD",
+      "simplified_description": "Prime ribeye steak grill to perfection doneness",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fillet Mignon",
+      "price": 55.0,
+      "description": "Choice cut Tenderloin grill with herb butter and soya sauce",
+      "category": "FOOD",
+      "simplified_description": "Choice cut Tenderloin grill with herb butter and soya sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Steak",
+      "price": 45.0,
+      "description": "7oz / Center cut Alberta AAA grill with herb butter soya sauce",
+      "category": "FOOD",
+      "simplified_description": "7oz / Center cut Alberta AAA grill with herb butter soya sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Roll",
+      "price": 33.0,
+      "description": "Thin sliced beef sated with herb butter and teriyaki sauce",
+      "category": "FOOD",
+      "simplified_description": "Thin sliced beef sated with herb butter and teriyaki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tori",
+      "price": 33.0,
+      "description": "Chicken 8oz / Tender boneless chicken dark meat glazed with teriyaki sauce",
+      "category": "FOOD",
+      "simplified_description": "Chicken 8oz / Tender boneless chicken dark meat glazed with teriyaki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ise-Ebi",
+      "price": 55.0,
+      "description": "Haiti Lobster Tail with butter, soya suace, lemon-miso sauce",
+      "category": "FOOD",
+      "simplified_description": "Haiti Lobster Tail with butter, soya suace, lemon-miso sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hotategai",
+      "price": 38.0,
+      "description": "Hokkaido scallop and Jumbo Tiger Prawn grilled with lemon butter soya sauce",
+      "category": "FOOD",
+      "simplified_description": "Hokkaido scallop and Jumbo Tiger Prawn grilled with lemon butter soya sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tara",
+      "price": 33.0,
+      "description": "Silver Cod 6oz / Nice and buttery fish grilled with butter and soya sauce",
+      "category": "FOOD",
+      "simplified_description": "Silver Cod 6oz / Nice and buttery fish grilled with butter and soya sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake",
+      "price": 33.0,
+      "description": "Salmon 6oz / Atlantic salmon fillet, grilled with teriyaki sauce",
+      "category": "FOOD",
+      "simplified_description": "Salmon 6oz / Atlantic salmon fillet, grilled with teriyaki sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ebi",
+      "price": 33.0,
+      "description": "hibachi shrimp with Lemon-miso Sauce",
+      "category": "FOOD",
+      "simplified_description": "hibachi shrimp with Lemon-miso Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Meal",
+      "price": 30.0,
+      "description": "Tofu Steak, Miso soup, and House Green salad",
+      "category": "FOOD",
+      "simplified_description": "Tofu Steak, Miso soup, and House Green salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nihon-Kai for 4",
+      "price": 179.0,
+      "description": "12oz Ribeye Steak, 4 pc Salmon, 4pc Jumbo Prawn, 4pc Hokkaido Scallop",
+      "category": "FOOD",
+      "simplified_description": "12oz Ribeye Steak, 4 pc Salmon, 4pc Jumbo Prawn, 4pc Hokkaido Scallop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daimyo Set for 4",
+      "price": 169.0,
+      "description": "12 oz New York Steak, 4 pc Chicken, 4 pc Salmon, 16 pc Shrimp",
+      "category": "FOOD",
+      "simplified_description": "12 oz New York Steak, 4 pc Chicken, 4 pc Salmon, 16 pc Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imperial Set for 2",
+      "price": 159.0,
+      "description": "Japanese Miyasaki wagyu, Scallop and Lobster tail. *Extra 5oz Japanese Wagyu only $79*",
+      "category": "FOOD",
+      "simplified_description": "Japanese Miyasaki wagyu, Scallop and Lobster tail. *Extra 5oz Japanese Wagyu onl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wagyu Beef Fried Rice",
+      "price": 25.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Udon / Udon Soup",
+      "price": 18.0,
+      "description": "Beef / Chicken / Shrimp",
+      "category": "FOOD",
+      "simplified_description": "Beef / Chicken / Shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Egg Fried Rice",
+      "price": 4.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steam Rice",
+      "price": 2.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Beef",
+      "price": 19.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken",
+      "price": 19.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hibachi Shrimp",
+      "price": 19.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Salmon",
+      "price": 19.0,
+      "description": "* * *",
+      "category": "FOOD",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream",
+      "price": 3.0,
+      "description": "* * *",
+      "category": "DESSERT",
+      "simplified_description": "* * *",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

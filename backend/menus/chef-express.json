@@ -1,0 +1,108 @@
+{
+  "restaurant": "chef-express",
+  "parsed_at": "2026-02-06T01:45:00.717159",
+  "item_count": 11,
+  "items": [
+    {
+      "name": "3 Day Meal Plan",
+      "price": 120.0,
+      "description": "Need a boost to get back on track? Our 3 Day Meal Plan is perfect to help you starting eating Fit and feeling great again! Select the plan that meets your lifestyle and goals! Lean Plan – for weight-loss Performance Plan – to maximize an active lifestyle Everyday Plan – for those looking to eat well and improve their general health and wellness **All plans are dietitian approved, include 3 meals + 2 snacks per day, and 2 fresh deliveries per week.** _If you have any dietary preferences or allergies please con",
+      "category": "OTHER",
+      "simplified_description": "A 3-day meal plan with 3 meals and 2 snacks per day for different lifestyle goals.",
+      "dietary_info": [],
+      "other_info": "Dietitian approved; includes multiple plan options"
+    },
+    {
+      "name": "Beef Chorizo Quesadilla, Red Salsa, Sour Cream",
+      "price": 12.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Quesadilla with beef chorizo, red salsa, and sour cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Sandwich in Carbounaut Bread",
+      "price": 8.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Spicy buffalo chicken sandwich served on Carbounaut bread.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Boneless Leg Parmigiana, Cauli Mac and Cheese, Vegetables",
+      "price": 18.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken leg parmigiana with cauliflower mac and cheese and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Buddha Bowl",
+      "price": 9.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "A bowl with chicken and assorted healthy ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crunchy Salmon Sandwich in Carbonaut Bread",
+      "price": 6.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Crunchy salmon sandwich served on Carbonaut bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Hot Wings, Pickled Cabbage, and Celery Salad",
+      "price": 9.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried hot wings served with pickled cabbage and celery salad.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egg Curry, Cauliflower Rice, Keto Naan",
+      "price": 9.5,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Egg curry served with cauliflower rice and keto naan bread.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Salad Sandwich in Carbonaut Bread",
+      "price": 5.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Egg salad sandwich served on Carbonaut bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Leg with Peri Peri sauce (Nandos style), Broccoli, cheese sauce",
+      "price": 11.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken leg with spicy peri peri sauce, broccoli, and cheese sauce.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jerk Chicken and Mango Chutney Wrap",
+      "price": 8.9,
+      "description": "This product has multiple variants. The options may be chosen on the product page",
+      "category": "FOOD",
+      "simplified_description": "Wrap with jerk chicken and mango chutney.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    }
+  ]
+}

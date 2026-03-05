@@ -1,0 +1,514 @@
+{
+  "restaurant": "calgarypizzamaster",
+  "parsed_at": "2026-02-06T01:33:39.219995",
+  "item_count": 44,
+  "items": [
+    {
+      "name": "Spinach Pizza",
+      "price": 14.99,
+      "description": "Spinach sauce, mushroom, chicken or paneer, onions & cheese",
+      "category": "FOOD",
+      "simplified_description": "Pizza with spinach sauce, mushrooms, chicken or paneer, onions, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Paneer Pizza",
+      "price": 14.99,
+      "description": "Mushrooms, onions, green peppers, tomatoes, cheese and paneer",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with mushrooms, onions, peppers, tomatoes, cheese, and paneer.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken Pizza",
+      "price": 14.99,
+      "description": "Mushrooms, onions, green peppers, tomatoes, cheese and chicken",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with mushrooms, onions, peppers, tomatoes, cheese, and chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chaat",
+      "price": 12.99,
+      "description": "Veg samosas served with chickpea curry, mint and tamarind chutney",
+      "category": "APPETIZER",
+      "simplified_description": "Vegetable samosas served with chickpea curry and chutneys.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chaat Papdi",
+      "price": 12.99,
+      "description": "Crisp wafers topped with potatoes, chickpeas, yogurt, chutneys, and spices.",
+      "category": "APPETIZER",
+      "simplified_description": "Crisp wafers with potatoes, chickpeas, yogurt, chutneys, and spices.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Malai Tikka",
+      "price": 15.19,
+      "description": "Grilled marinated paneer cubes garnished with",
+      "category": "APPETIZER",
+      "simplified_description": "Grilled marinated paneer cubes served as appetizer.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soya Malai Chaap",
+      "price": 14.19,
+      "description": "Tender soy sticks marinated in creamy yogurt",
+      "category": "APPETIZER",
+      "simplified_description": "Soy sticks marinated in creamy yogurt.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas (3 pcs)",
+      "price": 5.49,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Three pieces of fried samosas.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread Sticks",
+      "price": 6.99,
+      "description": "Toasted baguette slices topped with melted cheese",
+      "category": "APPETIZER",
+      "simplified_description": "Toasted bread slices topped with melted cheese and garlic.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring rolls - Veg (6 pcs)",
+      "price": 6.99,
+      "description": "Crispy rolls stuffed with vegetables, served golden",
+      "category": "APPETIZER",
+      "simplified_description": "Six crispy vegetable spring rolls.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 12.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken wings served as appetizer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadilla Naan",
+      "price": 8.99,
+      "description": "Stuffed with chicken, bell peppers, onions",
+      "category": "APPETIZER",
+      "simplified_description": "Naan stuffed with chicken, bell peppers, and onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries/ Masal Fries",
+      "price": 6.99,
+      "description": "Crispy golden fries seasoned with salt and pepper.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy golden fries seasoned with salt and pepper.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tenders with Fries",
+      "price": 11.99,
+      "description": "Crispy chicken tenders served with fries.",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy chicken tenders served with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine (Beef/Butter Chicken)",
+      "price": 12.99,
+      "description": "Crispy fries, cheese curds, savory gravy. Choice of",
+      "category": "APPETIZER",
+      "simplified_description": "Fries topped with cheese curds and savory gravy, choice of beef or butter chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 8.99,
+      "description": "Crispy, golden-brown onion rings served dipping",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy fried onion rings served with dipping sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Soft flatbread brushed with butter.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.49,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Soft flatbread topped with garlic.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Cilantro Naan",
+      "price": 3.49,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Soft flatbread with chili and cilantro toppings.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese Naan",
+      "price": 5.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Soft flatbread stuffed with cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Naan",
+      "price": 5.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Soft flatbread stuffed with spiced potatoes.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 3.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Steamed plain white rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 3.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Steamed rice flavored with cumin seeds.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 5.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Rice cooked with coconut flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Makhni",
+      "price": 17.49,
+      "description": "Black lentils cooked with butter, cream, and spices. Served with 1 veg curry, 1 daal makhni, rice, naan bread, salad, raita and sweet",
+      "category": "FOOD",
+      "simplified_description": "Creamy black lentils with butter and spices served with sides.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Served with multiple sides"
+    },
+    {
+      "name": "Chana Masala",
+      "price": 17.49,
+      "description": "Chickpeas simmered in a spiced onion-tomato gravy with aromatic herbs. Served with 1 veg curry, 1 daal makhni, rice, naan bread, salad, raita and sweet",
+      "category": "FOOD",
+      "simplified_description": "Spiced chickpeas in tomato gravy served with sides.",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": "Served with multiple sides"
+    },
+    {
+      "name": "Vegetable Korma",
+      "price": 17.49,
+      "description": "A mildly spiced creamy-flavoured mixed vegetables with paneer. Served with 1 veg curry, 1 daal makhni, rice, naan bread, salad, raita and sweet",
+      "category": "FOOD",
+      "simplified_description": "Creamy mild vegetable curry with paneer served with sides.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Served with multiple sides"
+    },
+    {
+      "name": "Mango Paneer",
+      "price": 17.49,
+      "description": "Paneer cubes simmered in a sweet, tangy mango-infused creamy curry. Served with 1 veg curry, 1 daal makhni, rice, naan bread, salad, raita and sweet",
+      "category": "FOOD",
+      "simplified_description": "Sweet mango curry with paneer served with sides.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Served with multiple sides"
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 17.49,
+      "description": "Soft paneer cubes cooked in a rich, spiced spinach gravy.",
+      "category": "FOOD",
+      "simplified_description": "Paneer cooked in spiced spinach gravy.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Makhni",
+      "price": 17.49,
+      "description": "Soft paneer cooked in tomato-cream sauce with butter and mild spices.",
+      "category": "FOOD",
+      "simplified_description": "Paneer in mild tomato cream sauce with butter.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauce",
+      "price": 1.79,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "A side sauce for dipping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Raita",
+      "price": 5.19,
+      "description": "Yogurt blended with mixed veggies and a hint of roasted cumin",
+      "category": "SIDE",
+      "simplified_description": "Yogurt mixed with vegetables and roasted cumin flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Indian Salad",
+      "price": 5.19,
+      "description": "Fresh mix of onion, cucumber, carrot, and lettuce.",
+      "category": "SIDE",
+      "simplified_description": "Fresh salad with onion, cucumber, carrot, and lettuce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boondi Raita",
+      "price": 5.19,
+      "description": "Yogurt blended with crunchy boondi and a hint of roasted cumin",
+      "category": "SIDE",
+      "simplified_description": "Yogurt with crunchy boondi and roasted cumin flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 5.19,
+      "description": "Fresh mix of onion, cucumber, carrot, bell peppers",
+      "category": "SIDE",
+      "simplified_description": "Fresh salad with onion, cucumber, carrot, and bell peppers.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 4.5,
+      "description": "Traditional Indian drink with mango and yogurt",
+      "category": "DRINK",
+      "simplified_description": "Sweet mango and yogurt traditional Indian drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Lassi",
+      "price": 3.99,
+      "description": "A savory roasted cumin yogurt drink.",
+      "category": "DRINK",
+      "simplified_description": "Savory yogurt drink flavored with roasted cumin.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Chai",
+      "price": 3.5,
+      "description": "Spiced Indian tea blend with aromatic flavors.",
+      "category": "DRINK",
+      "simplified_description": "Spiced Indian tea with aromatic flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Canned Pop",
+      "price": 2.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A canned soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 5.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A 2-liter bottle of soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun (3 pcs)",
+      "price": 4.99,
+      "description": "Soft fried milk-solid dumplings soaked in cardamom rose syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet fried milk dumplings soaked in rose syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rasmalai",
+      "price": 5.99,
+      "description": "Cheese dumplings soaked in sweet, cardamom-scented milk.",
+      "category": "DESSERT",
+      "simplified_description": "Cheese dumplings in sweet cardamom-flavored milk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Phirni",
+      "price": 4.99,
+      "description": "Creamy rice pudding infused with cardamom and rose water.",
+      "category": "DESSERT",
+      "simplified_description": "Creamy rice pudding with cardamom and rose water.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 13.99,
+      "description": "Tender chicken pieces cooked in luscious cream and butter gravy.",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in creamy butter gravy.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

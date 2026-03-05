@@ -1,0 +1,250 @@
+{
+  "restaurant": "trullotrattoria",
+  "parsed_at": "2026-02-06T04:40:48.742596",
+  "item_count": 27,
+  "items": [
+    {
+      "name": "ARANCINI",
+      "price": 15.0,
+      "description": "crispy fried risotto + mozzarella, marinara sauce",
+      "category": "APPETIZER",
+      "simplified_description": "crispy fried risotto + mozzarella, marinara sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SICILIAN OLIVES",
+      "price": 9.0,
+      "description": "garlic + herb marinated",
+      "category": "APPETIZER",
+      "simplified_description": "garlic + herb marinated",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TUNA CRUDO",
+      "price": 22.0,
+      "description": "rare ahi tuna, panna, mandarin, radish, toasted almonds, pickled capers",
+      "category": "APPETIZER",
+      "simplified_description": "rare ahi tuna, panna, mandarin, radish, toasted almonds, pickled capers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARPACCIO",
+      "price": 21.0,
+      "description": "alberta beef, garlic crema, capers, shallots, pickled mustard seeds, shaved parmesan, toasted focaccia",
+      "category": "APPETIZER",
+      "simplified_description": "alberta beef, garlic crema, capers, shallots, pickled mustard seeds, shaved parm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHIPPED RICOTTA",
+      "price": 19.0,
+      "description": "salted pistachio, hot calabrian honey, cracked black pepper, crostini",
+      "category": "APPETIZER",
+      "simplified_description": "salted pistachio, hot calabrian honey, cracked black pepper, crostini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI",
+      "price": 18.0,
+      "description": "crispy fried, parmesan, pesto aioli",
+      "category": "APPETIZER",
+      "simplified_description": "crispy fried, parmesan, pesto aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GAMBERI ALL'AGLIO",
+      "price": 19.0,
+      "description": "pan seared garlic prawns, butter, chili flakes, toasted focaccia",
+      "category": "APPETIZER",
+      "simplified_description": "pan seared garlic prawns, butter, chili flakes, toasted focaccia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BURRATA POMODORO",
+      "price": 24.0,
+      "description": "garlic roasted tomatoes, basil pesto, toasted focaccia",
+      "category": "APPETIZER",
+      "simplified_description": "garlic roasted tomatoes, basil pesto, toasted focaccia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR",
+      "price": 15.0,
+      "description": "crispy pancetta, romaine leaves, croutons, creamy dressing, shaved parmesan",
+      "category": "SIDE",
+      "simplified_description": "crispy pancetta, romaine leaves, croutons, creamy dressing, shaved parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SUNDAY SALAD",
+      "price": 15.0,
+      "description": "mixed greens, pepperoncini, tomato, red onion, croutons, black olive, parmesan, house vinaigrette",
+      "category": "SIDE",
+      "simplified_description": "mixed greens, pepperoncini, tomato, red onion, croutons, black olive, parmesan, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RUCOLA",
+      "price": 15.0,
+      "description": "arugula, sultanas, toasted almonds, parm, balsamico, honey vinaigrette",
+      "category": "SIDE",
+      "simplified_description": "arugula, sultanas, toasted almonds, parm, balsamico, honey vinaigrette",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BISTECCA",
+      "price": 38.0,
+      "description": "grilled sirloin steak, roasted carrots, potato oreganata, red wine sauce",
+      "category": "FOOD",
+      "simplified_description": "grilled sirloin steak, roasted carrots, potato oreganata, red wine sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POLLO ALLA PIZZAIOLO",
+      "price": 31.0,
+      "description": "baked herbed chicken w/ pomodoro sauce, pesto + provolone, house fusilli w/ rose cream",
+      "category": "FOOD",
+      "simplified_description": "baked herbed chicken w/ pomodoro sauce, pesto + provolone, house fusilli w/ rose",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PESCE",
+      "price": 37.0,
+      "description": "grilled arctic char, panna, sicilian caponata, roasted baby potatoes",
+      "category": "FOOD",
+      "simplified_description": "grilled arctic char, panna, sicilian caponata, roasted baby potatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEAL MARSALA",
+      "price": 37.0,
+      "description": "crispy breaded veal, mushroom marsala cream, linguine, parmesan",
+      "category": "FOOD",
+      "simplified_description": "crispy breaded veal, mushroom marsala cream, linguine, parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DUCK CACCIATORE",
+      "price": 41.0,
+      "description": "braised duck leg w/ n'duja sausage, mushroom, eggplant + pomodoro sugo, creamy white polenta",
+      "category": "FOOD",
+      "simplified_description": "braised duck leg w/ n'duja sausage, mushroom, eggplant + pomodoro sugo, creamy w",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PALLOTINE",
+      "price": 28.0,
+      "description": "beef meatballs, tomato sauce, parmesan, linguine",
+      "category": "PASTA",
+      "simplified_description": "beef meatballs, tomato sauce, parmesan, linguine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POMODORO",
+      "price": 23.0,
+      "description": "marina sauce, basil, parmesan, linguine",
+      "category": "PASTA",
+      "simplified_description": "marina sauce, basil, parmesan, linguine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOLOGNESE",
+      "price": 28.0,
+      "description": "beef + veal ragu, basil, parmesan, fusilli",
+      "category": "PASTA",
+      "simplified_description": "beef + veal ragu, basil, parmesan, fusilli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VONGOLE",
+      "price": 29.0,
+      "description": "clams, oregano, chili flakes, garlic, wine, parsley, linguine",
+      "category": "PASTA",
+      "simplified_description": "clams, oregano, chili flakes, garlic, wine, parsley, linguine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NORCINA",
+      "price": 28.0,
+      "description": "fennel sausage, mushroom, red pepper, cream sauce, parmesan, reginette",
+      "category": "PASTA",
+      "simplified_description": "fennel sausage, mushroom, red pepper, cream sauce, parmesan, reginette",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GAMBERONI AL PESTO",
+      "price": 29.0,
+      "description": "garlic prawns, roasted tomato, pesto, cream sauce, fettuccine",
+      "category": "PASTA",
+      "simplified_description": "garlic prawns, roasted tomato, pesto, cream sauce, fettuccine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVIOLI",
+      "price": 26.0,
+      "description": "mushroom ravioli, pangrattato, alfredo, truffle oil",
+      "category": "PASTA",
+      "simplified_description": "mushroom ravioli, pangrattato, alfredo, truffle oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RONI",
+      "price": 22.0,
+      "description": "cup + crisp pepperoni, roasted red peppers, oregano",
+      "category": "PIZZA",
+      "simplified_description": "cup + crisp pepperoni, roasted red peppers, oregano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 21.0,
+      "description": "tomato, provolone, parmesan, fresh basil",
+      "category": "PIZZA",
+      "simplified_description": "tomato, provolone, parmesan, fresh basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SALSICCIA",
+      "price": 23.0,
+      "description": "fennel sausage, green olive, house hot honey",
+      "category": "PIZZA",
+      "simplified_description": "fennel sausage, green olive, house hot honey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CARCIOFO",
+      "price": 22.0,
+      "description": "grilled artichokes, roasted red peppers, mozzarella, arugula, parmesan",
+      "category": "PIZZA",
+      "simplified_description": "grilled artichokes, roasted red peppers, mozzarella, arugula, parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

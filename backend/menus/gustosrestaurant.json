@@ -1,0 +1,61 @@
+{
+  "restaurant": "gustosrestaurant",
+  "parsed_at": "2025-12-25T00:29:57.208290",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "WINGS 1 LB",
+      "price": 5.0,
+      "description": "HAPPY HOUR (3-6PM)",
+      "simplified_description": "Wings available during happy hour",
+      "category": "Starters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUP OF THE DAY",
+      "price": null,
+      "description": "Served daily with a variety of flavors.",
+      "simplified_description": "Daily soup with different flavors",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEAL PARMESAN SPECIAL",
+      "price": null,
+      "description": "Served with your choice of rigatoni or spaghetti.",
+      "simplified_description": "Veal parmesan served with pasta",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GUSTOS DRY RIBS",
+      "price": 7.0,
+      "description": "A delicious appetizer option.",
+      "simplified_description": "Tasty dry ribs as an appetizer",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Bottle Beer",
+      "price": 5.0,
+      "description": "Available during happy hour.",
+      "simplified_description": "Domestic beer offered in happy hour",
+      "category": "Happy Hour Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUVLAKI SPECIAL",
+      "price": null,
+      "description": "Chicken or pork served with rice & caesar salad.",
+      "simplified_description": "Souvlaki with chicken or pork, rice, and salad",
+      "category": "Chef's Specials",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

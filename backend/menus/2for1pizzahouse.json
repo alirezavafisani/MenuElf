@@ -1,0 +1,304 @@
+{
+  "restaurant": "2for1pizzahouse",
+  "parsed_at": "2026-02-06T00:27:22.027789",
+  "item_count": 30,
+  "items": [
+    {
+      "name": "CHEESE SINGLE",
+      "price": 12.99,
+      "description": "10” Small Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Small 10-inch cheese pizza.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE SINGLE",
+      "price": 15.25,
+      "description": "12” Medium Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Medium 12-inch cheese pizza.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE SINGLE",
+      "price": 17.49,
+      "description": "14” Large Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Large 14-inch cheese pizza.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1",
+      "price": 13.99,
+      "description": "10” Small Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Small 10-inch single pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1",
+      "price": 16.25,
+      "description": "12” Medium Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Medium 12-inch single pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1",
+      "price": 18.49,
+      "description": "14” Large Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Large 14-inch single pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2 TOPPINGS",
+      "price": 14.99,
+      "description": "10” Small Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Small 10-inch pizza with two toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2 TOPPINGS",
+      "price": 17.25,
+      "description": "12” Medium Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Medium 12-inch pizza with two toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2 TOPPINGS",
+      "price": 19.49,
+      "description": "14” Large Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Large 14-inch pizza with two toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "3",
+      "price": 15.99,
+      "description": "10” Small Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Small 10-inch single pizza with three toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "3",
+      "price": 18.25,
+      "description": "12” Medium Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Medium 12-inch single pizza with three toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "3",
+      "price": 20.49,
+      "description": "14” Large Single 2 for 1",
+      "category": "FOOD",
+      "simplified_description": "Large 14-inch single pizza with three toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA TOPPINGS",
+      "price": 2.25,
+      "description": "10” Small Per Pizza",
+      "category": "FOOD",
+      "simplified_description": "Extra toppings for small 10-inch pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA TOPPINGS",
+      "price": 2.5,
+      "description": "12” Medium Per Pizza",
+      "category": "FOOD",
+      "simplified_description": "Extra toppings for medium 12-inch pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA TOPPINGS",
+      "price": 2.75,
+      "description": "14” Large Per Pizza",
+      "category": "FOOD",
+      "simplified_description": "Extra toppings for large 14-inch pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA CHEESE, CHICKEN, PANEER",
+      "price": 2.5,
+      "description": "10” Small per pizza",
+      "category": "FOOD",
+      "simplified_description": "Small 10-inch pizza with extra cheese, chicken, and paneer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA CHEESE, CHICKEN, PANEER",
+      "price": 3.0,
+      "description": "12” Medium per pizza",
+      "category": "FOOD",
+      "simplified_description": "Medium 12-inch pizza with extra cheese, chicken, and paneer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EXTRA CHEESE, CHICKEN, PANEER",
+      "price": 3.5,
+      "description": "14” Large per pizza",
+      "category": "FOOD",
+      "simplified_description": "Large 14-inch pizza with extra cheese, chicken, and paneer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 1",
+      "price": 31.79,
+      "description": "Pizza & Wings Deal 1 large 3 toppings plus 12 chicken wings FREE 1 can of pop",
+      "category": "FOOD",
+      "simplified_description": "Large 3-topping pizza with 12 chicken wings and a free soda.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 2",
+      "price": 30.49,
+      "description": "Double Deal 2 large pepperoni, cheese, or Hawaiian pizzas",
+      "category": "FOOD",
+      "simplified_description": "Two large pizzas with pepperoni, cheese, or Hawaiian toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 3",
+      "price": 47.99,
+      "description": "Triple Deal Order any 2 large specialty pizzas & 1 large cheese pizza",
+      "category": "FOOD",
+      "simplified_description": "Three large pizzas: two specialty and one cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 4",
+      "price": 29.99,
+      "description": "Pizza & Pasta 1 large pizza 2 topping + 1 lasagna + 2 pieces of garlic bread (beef or veggie) FREE 1 can of pop",
+      "category": "FOOD",
+      "simplified_description": "Large 2-topping pizza, lasagna, garlic bread, and a free soda.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 5",
+      "price": 54.99,
+      "description": "Mega Dinner Order any 2 large specialty pizzas and 20 tasty chicken wings 2 FREE dipping sauces.",
+      "category": "FOOD",
+      "simplified_description": "Two large specialty pizzas with 20 chicken wings and dipping sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 6",
+      "price": 58.99,
+      "description": "Pizza Party Order any 3 large specialty pizzas and get 10” cheesy breadsticks FREE.",
+      "category": "FOOD",
+      "simplified_description": "Three large specialty pizzas with free 10-inch cheesy breadsticks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 7",
+      "price": 38.49,
+      "description": "Dinner For 2 2 medium pizza, 2 toppings plus 10 chicken wings 2 FREE cans of pop",
+      "category": "FOOD",
+      "simplified_description": "Two medium 2-topping pizzas, 10 chicken wings, and two free sodas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 8",
+      "price": 25.49,
+      "description": "Perfect Meal 1 Large Pizza with 3 toppings, 10-piece chicken nuggets, and 1 dipping sauce",
+      "category": "FOOD",
+      "simplified_description": "Large 3-topping pizza with 10 chicken nuggets and dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 9",
+      "price": 39.99,
+      "description": "Family Get Together Order 2 medium, 2 topping pizzas and 1 medium cheese pizza",
+      "category": "FOOD",
+      "simplified_description": "Two medium 2-topping pizzas plus one medium cheese pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 10",
+      "price": 71.95,
+      "description": "Pizza Feast Order any 4 large specialty pizzas of your choice and get FREE 4 dipping sauce and 1 2L pop",
+      "category": "FOOD",
+      "simplified_description": "Four large specialty pizzas with four dipping sauces and a 2L soda.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Walk-in Special",
+      "price": 11.99,
+      "description": "Pepperoni or Cheese Small",
+      "category": "FOOD",
+      "simplified_description": "Small pepperoni or cheese pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Walk-in Special",
+      "price": 14.29,
+      "description": "Large",
+      "category": "FOOD",
+      "simplified_description": "Large pepperoni or cheese pizza.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

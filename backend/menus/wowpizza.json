@@ -1,0 +1,88 @@
+{
+  "restaurant": "wowpizza",
+  "parsed_at": "2026-02-06T04:51:35.071445",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "Chicken Alfredo Pasta",
+      "price": null,
+      "description": "Creamy fettuccine tossed with succulent grilled chicken, bathed in",
+      "category": "FOOD",
+      "simplified_description": "Creamy fettuccine tossed with succulent grilled chicken, bathed in",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 12.0,
+      "description": "Juicy, flavorful wings available in your choice of spicy,",
+      "category": "FOOD",
+      "simplified_description": "Juicy, flavorful wings available in your choice of spicy,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COMBO OFFER",
+      "price": 37.95,
+      "description": "3 Medium 12\" Pizzas with 3 Toppings",
+      "category": "FOOD",
+      "simplified_description": "3 Medium 12\" Pizzas with 3 Toppings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham Pizza",
+      "price": 12.0,
+      "description": "Pizza ipsum dolor amet pepperoni mozzarella bbq rib banana",
+      "category": "FOOD",
+      "simplified_description": "Pizza ipsum dolor amet pepperoni mozzarella bbq rib banana",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margherita pizza",
+      "price": 9.0,
+      "description": "Pizza ipsum dolor amet pepperoni mozzarella bbq rib banana",
+      "category": "FOOD",
+      "simplified_description": "Pizza ipsum dolor amet pepperoni mozzarella bbq rib banana",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 9.0,
+      "description": "Pizza ipsum dolor amet pepperoni mozzarella bbq rib banana",
+      "category": "FOOD",
+      "simplified_description": "Pizza ipsum dolor amet pepperoni mozzarella bbq rib banana",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIZZA",
+      "price": 10.95,
+      "description": "Get any 10\" Pizza at an unbeatable price",
+      "category": "FOOD",
+      "simplified_description": "Get any 10\" Pizza at an unbeatable price",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIZZA",
+      "price": 13.55,
+      "description": "Get ant 2 Topping 14\" Pizza at never before",
+      "category": "FOOD",
+      "simplified_description": "Get ant 2 Topping 14\" Pizza at never before",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ribs",
+      "price": null,
+      "description": "Tender, slow-cooked ribs glazed with a rich, smoky barbecue",
+      "category": "FOOD",
+      "simplified_description": "Tender, slow-cooked ribs glazed with a rich, smoky barbecue",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

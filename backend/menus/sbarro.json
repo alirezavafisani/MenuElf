@@ -1,0 +1,232 @@
+{
+  "restaurant": "sbarro",
+  "parsed_at": "2026-02-06T04:03:12.118551",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "ookie Regular.",
+      "price": 4.25,
+      "description": "ookie Regular.",
+      "category": "DESSERT",
+      "simplified_description": "ookie Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yogwiche Regular.",
+      "price": 5.99,
+      "description": "Yogwiche Regular.",
+      "category": "OTHER",
+      "simplified_description": "Yogwiche Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Regular.",
+      "price": 2.79,
+      "description": "Cookie Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Cookie Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Cup / 3 Minis Regular.",
+      "price": 4.25,
+      "description": "Cookie Cup / 3 Minis Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Cookie Cup / 3 Minis Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookies (10) Regular.",
+      "price": 24.25,
+      "description": "Cookies (10) Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Cookies (10) Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookies (12) Regular.",
+      "price": 25.11,
+      "description": "Cookies (12) Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Cookies (12) Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Special - Buy 3, Get 1 Free Regular.",
+      "price": 8.37,
+      "description": "Cookie Special - Buy 3, Get 1 Free Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Cookie Special - Buy 3, Get 1 Free Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frosted Cookie Sandwich Regular.",
+      "price": 5.25,
+      "description": "Frosted Cookie Sandwich Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Frosted Cookie Sandwich Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brownie Regular.",
+      "price": 3.89,
+      "description": "Brownie Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Brownie Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nibblers Regular.",
+      "price": 0.99,
+      "description": "Nibblers Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Nibblers Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Cookie Cup Regular.",
+      "price": 1.25,
+      "description": "Mini Cookie Cup Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Mini Cookie Cup Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Cookies Sandwich Regular.",
+      "price": 1.99,
+      "description": "Mini Cookies Sandwich Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Mini Cookies Sandwich Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nibbler Special",
+      "price": 19.99,
+      "description": "Nibbler Special",
+      "category": "DESSERT",
+      "simplified_description": "Nibbler Special",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "9\" Heart Regular.",
+      "price": 21.99,
+      "description": "9\" Heart Regular.",
+      "category": "DESSERT",
+      "simplified_description": "9\" Heart Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "9\" Heart Cake with Box Regular.",
+      "price": 24.99,
+      "description": "9\" Heart Cake with Box Regular.",
+      "category": "DESSERT",
+      "simplified_description": "9\" Heart Cake with Box Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cakes",
+      "price": 10.99,
+      "description": "Cakes",
+      "category": "DESSERT",
+      "simplified_description": "Cakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Slice Regular.",
+      "price": 4.99,
+      "description": "Cookie Slice Regular.",
+      "category": "DESSERT",
+      "simplified_description": "Cookie Slice Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TCBY",
+      "price": 3.99,
+      "description": "TCBY",
+      "category": "DESSERT",
+      "simplified_description": "TCBY",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Angry Birds Box",
+      "price": 0.75,
+      "description": "Angry Birds Box",
+      "category": "OTHER",
+      "simplified_description": "Angry Birds Box",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Box",
+      "price": 1.0,
+      "description": "Box",
+      "category": "OTHER",
+      "simplified_description": "Box",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Heart Box",
+      "price": 2.89,
+      "description": "Small Heart Box",
+      "category": "OTHER",
+      "simplified_description": "Small Heart Box",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini V Ribbon Box",
+      "price": 21.99,
+      "description": "Mini V Ribbon Box",
+      "category": "OTHER",
+      "simplified_description": "Mini V Ribbon Box",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bucket / Tins",
+      "price": 16.99,
+      "description": "Bucket / Tins",
+      "category": "OTHER",
+      "simplified_description": "Bucket / Tins",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Balloons Regular.",
+      "price": 2.0,
+      "description": "Balloons Regular.",
+      "category": "OTHER",
+      "simplified_description": "Balloons Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Big Balloon Regular.",
+      "price": 4.0,
+      "description": "Big Balloon Regular.",
+      "category": "OTHER",
+      "simplified_description": "Big Balloon Regular.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

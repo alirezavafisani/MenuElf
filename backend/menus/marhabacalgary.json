@@ -1,0 +1,592 @@
+{
+  "restaurant": "marhabacalgary",
+  "parsed_at": "2026-02-06T03:14:00.893177",
+  "item_count": 65,
+  "items": [
+    {
+      "name": "Chicken 65",
+      "price": 15.99,
+      "description": "INDO CHINESE - Deep fried boneless Chicken cubes tossed in hot and spicy Indo-Chinese sauces",
+      "category": "FOOD",
+      "simplified_description": "INDO CHINESE - Deep fried boneless Chicken cubes tossed in hot and spicy Indo-Ch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appolo Fish",
+      "price": 15.99,
+      "description": "INDO CHINESE - Deep fried boneless Basa fish pakora cubes tossed in special sauces",
+      "category": "FOOD",
+      "simplified_description": "INDO CHINESE - Deep fried boneless Basa fish pakora cubes tossed in special sauc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Chicken",
+      "price": 15.99,
+      "description": "INDO CHINESE - Tender deep-fried boneless chicken cubes tossed in hot and spicy Indo-Chinese sauce.",
+      "category": "FOOD",
+      "simplified_description": "INDO CHINESE - Tender deep-fried boneless chicken cubes tossed in hot and spicy ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Paneer",
+      "price": 15.99,
+      "description": "INDO CHINESE - Deep-fried cottage cheese tossed in hot and spicy Indo-Chinese sauce",
+      "category": "FOOD",
+      "simplified_description": "INDO CHINESE - Deep-fried cottage cheese tossed in hot and spicy Indo-Chinese sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechwan Noodles",
+      "price": 13.99,
+      "description": "INDO CHINESE - Stir-fried noodles and veggies cooked with Indo-Chinese sauce.",
+      "category": "FOOD",
+      "simplified_description": "INDO CHINESE - Stir-fried noodles and veggies cooked with Indo-Chinese sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice",
+      "price": 12.99,
+      "description": "INDO CHINESE - Long grain Basmati rice sautéed with vegetable or Chicken with Indo-Chinese sauce",
+      "category": "FOOD",
+      "simplified_description": "INDO CHINESE - Long grain Basmati rice sautéed with vegetable or Chicken with In",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Paneer Tikka Platter",
+      "price": 17.99,
+      "description": "MIXED PLATTERS - Chunks of pressed cottage cheese marinated in Indian Spices & cooked in traditional clay oven, with rice or naan",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Chunks of pressed cottage cheese marinated in Indian Spices & c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Paneer Tikka Platter",
+      "price": 17.99,
+      "description": "MIXED PLATTERS - Chunks of pressed cottage cheese marinated in Indian Spices and grilled in traditional clay oven, with rice or naan",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Chunks of pressed cottage cheese marinated in Indian Spices and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sheek Kebab Platter (Chicken)",
+      "price": 17.99,
+      "description": "MIXED PLATTERS - Ground chicken with traditional blend of chefs secret spice mix skewered and grilled in clay oven, with rice or naan",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Ground chicken with traditional blend of chefs secret spice mix",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sheek Kebab Platter (Lamb)",
+      "price": 19.99,
+      "description": "MIXED PLATTERS - Ground lamb with traditional blend of chefs secret spice mix skewered and grilled in clay oven, with rice or naan",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Ground lamb with traditional blend of chefs secret spice mix sk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Platter (Spicy)",
+      "price": 17.99,
+      "description": "MIXED PLATTERS - Tender boneless chicken cubes marinated with Indian spices and yogurt.",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Tender boneless chicken cubes marinated with Indian spices and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Tikka Platter (Mild)",
+      "price": 17.99,
+      "description": "MIXED PLATTERS - Tender boneless chicken cubes marinated with Indian spices, cashew paste and cream.",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Tender boneless chicken cubes marinated with Indian spices, cas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken Platter",
+      "price": 19.99,
+      "description": "MIXED PLATTERS - Chicken legs with thigh attached marinated with tandoori masala and yogurt.",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Chicken legs with thigh attached marinated with tandoori masala",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka Platter",
+      "price": 16.99,
+      "description": "MIXED PLATTERS - Tender fish marinated with Indian spices and yogurt, with rice or naan",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Tender fish marinated with Indian spices and yogurt, with rice ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Boti Kabab Platter",
+      "price": 23.99,
+      "description": "MIXED PLATTERS - 3 piece of tandoori chicken with rice or naan",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - 3 piece of tandoori chicken with rice or naan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Prawn Platter",
+      "price": 19.99,
+      "description": "MIXED PLATTERS",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Soya Chaap Platter",
+      "price": 16.99,
+      "description": "MIXED PLATTERS",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Platter",
+      "price": 19.99,
+      "description": "MIXED PLATTERS - Mix of 2 BBQ",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Mix of 2 BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Platter",
+      "price": 34.99,
+      "description": "MIXED PLATTERS - Fish tikka and a mix of 3 other BBQ with naan or rice; served with dips.",
+      "category": "FOOD",
+      "simplified_description": "MIXED PLATTERS - Fish tikka and a mix of 3 other BBQ with naan or rice; served w",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 16.99,
+      "description": "MAIN COURSE NON-VEG - Chicken cooked in smooth and creamy tomato based gravy with butter",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Chicken cooked in smooth and creamy tomato based gravy wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 16.99,
+      "description": "MAIN COURSE NON-VEG - Chicken gravy cooked with capsicum and onions with hot Indian spices",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Chicken gravy cooked with capsicum and onions with hot Ind",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 16.99,
+      "description": "MAIN COURSE NON-VEG - Tender chicken cooked with cashew gravy.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Tender chicken cooked with cashew gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 16.99,
+      "description": "MAIN COURSE NON-VEG - Tender chicken cooked in a tandoor and mixed with tomato-based gravy with a smoky flavor.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Tender chicken cooked in a tandoor and mixed with tomato-b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Prawn Curry",
+      "price": 16.99,
+      "description": "MAIN COURSE NON-VEG - Prawn or fish cooked with onion, coconut cream and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Prawn or fish cooked with onion, coconut cream and Indian ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Kadai",
+      "price": 19.99,
+      "description": "MAIN COURSE NON-VEG - Goat or Lamb gravy cooked with capsicum and onions with hot Indian spices",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Goat or Lamb gravy cooked with capsicum and onions with ho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Rogan Josh",
+      "price": 19.99,
+      "description": "MAIN COURSE NON-VEG - Marinated goat or lamb cooked in kashmiri style yogurt and onion sauce",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Marinated goat or lamb cooked in kashmiri style yogurt and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hyderabadi Dum Ka Chicken",
+      "price": 17.99,
+      "description": "MAIN COURSE NON-VEG - Chicken legs marinated with Indo-Chinese spices, cooked over a slow heat flame for smoky flavour.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Chicken legs marinated with Indo-Chinese spices, cooked ov",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Curry",
+      "price": 17.99,
+      "description": "MAIN COURSE NON-VEG - Cubed beef cooked with onion and tomato grave with Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - Cubed beef cooked with onion and tomato grave with Indian ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Saag Chicken/Goat",
+      "price": 16.99,
+      "description": "MAIN COURSE NON-VEG - The iconic Indian spinach curry with Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE NON-VEG - The iconic Indian spinach curry with Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Bhature",
+      "price": 13.99,
+      "description": "MAIN COURSE VEG - Tangy chickpea curry served with soft and fluffy bhature.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Tangy chickpea curry served with soft and fluffy bhature.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Fry",
+      "price": 14.99,
+      "description": "MAIN COURSE VEG - Pressure cooked lentil gravy with Indian spices",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Pressure cooked lentil gravy with Indian spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhni",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Black urad lentils simmered overnight with butter, dry fenugreek leaves and fresh tomato paste.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Black urad lentils simmered overnight with butter, dry fenugre",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bagarey Baingan (Hyderabadi)",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Shallow Fried Eggplant in rich spicy & nuts gravy",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Shallow Fried Eggplant in rich spicy & nuts gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Seasonal fresh vegetables cooked with Indian spices and sauces",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Seasonal fresh vegetables cooked with Indian spices and sauces",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 14.99,
+      "description": "MAIN COURSE VEG - Amritsari style chole, tempered with ancient Punjabi spice mix, browned onion and slow roasted crush tomatoes",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Amritsari style chole, tempered with ancient Punjabi spice mix",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Creamy Indian cheese gravy cooked in butter with Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Creamy Indian cheese gravy cooked in butter with Indian spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Indian cheese gravy cooked with capsicum, onions and hot Indian spices",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Indian cheese gravy cooked with capsicum, onions and hot India",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Lababdar",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Cubes of pressed cottage cheese served in a slow cooked chunky onion, cashew and tomatoes sauce, with bell pepper and onion",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Cubes of pressed cottage cheese served in a slow cooked chunky",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Jalferazi",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Seasonal vegetables stir fried in Chinese wok maintaining perfect balance of indo Chinese cuisine",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Seasonal vegetables stir fried in Chinese wok maintaining perf",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Okra Masala",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - Okra sautéed with onion, tomato and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - Okra sautéed with onion, tomato and Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Methi Malai Paneer",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - A rich and creamy curry with onion cashew base, mixed with sautéed fenugreek leaves, Indian spices and pressed cottage cheese cubes.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - A rich and creamy curry with onion cashew base, mixed with sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak/Saag Paneer",
+      "price": 15.99,
+      "description": "MAIN COURSE VEG - The iconic Indian spinach curry with Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "MAIN COURSE VEG - The iconic Indian spinach curry with Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 2.49,
+      "description": "BREADS",
+      "category": "BREADS",
+      "simplified_description": "BREADS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 2.99,
+      "description": "BREADS",
+      "category": "BREADS",
+      "simplified_description": "BREADS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.99,
+      "description": "BREADS",
+      "category": "BREADS",
+      "simplified_description": "BREADS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.99,
+      "description": "BREADS",
+      "category": "BREADS",
+      "simplified_description": "BREADS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Laccha Paratha",
+      "price": 3.99,
+      "description": "BREADS",
+      "category": "BREADS",
+      "simplified_description": "BREADS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 4.99,
+      "description": "BREADS - Whole wheat flatbread stuffed with a savory spiced and mashed potato.",
+      "category": "BREADS",
+      "simplified_description": "BREADS - Whole wheat flatbread stuffed with a savory spiced and mashed potato.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 5.99,
+      "description": "BREADS - Whole wheat flatbread stuffed with savory spiced cottage cheese.",
+      "category": "BREADS",
+      "simplified_description": "BREADS - Whole wheat flatbread stuffed with savory spiced cottage cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Keema Naan",
+      "price": 7.99,
+      "description": "BREADS - Flatbread with minced chicken or lamb mixed with Indian spices.",
+      "category": "BREADS",
+      "simplified_description": "BREADS - Flatbread with minced chicken or lamb mixed with Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peshwari Naan",
+      "price": 6.99,
+      "description": "BREADS - Flatbread stuffed with savory spiced dry nuts and honey.",
+      "category": "BREADS",
+      "simplified_description": "BREADS - Flatbread stuffed with savory spiced dry nuts and honey.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 5.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "SIDE",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad",
+      "price": 4.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "SIDE",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dips",
+      "price": 0.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "OTHER",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 4.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 4.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 4.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Ltr Drinks",
+      "price": 4.99,
+      "description": "EXTRA SIDES AND DRINKS - Choose Coke or Pepsi",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS - Choose Coke or Pepsi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water (500 Ml)",
+      "price": 1.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Soda",
+      "price": 2.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun (3 Pcs)",
+      "price": 5.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DESSERT",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ras Malai (2 Pcs)",
+      "price": 5.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DESSERT",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gajar Ka Halwa",
+      "price": 5.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DESSERT",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Tukda",
+      "price": 7.99,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DESSERT",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle Soda (Thumbs Up)",
+      "price": 3.0,
+      "description": "EXTRA SIDES AND DRINKS",
+      "category": "DRINK",
+      "simplified_description": "EXTRA SIDES AND DRINKS",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

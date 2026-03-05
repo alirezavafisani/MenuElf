@@ -1,0 +1,405 @@
+{
+  "restaurant": "heartschoices",
+  "parsed_at": "2026-02-06T02:35:44.675363",
+  "item_count": 34,
+  "items": [
+    {
+      "name": "French Dip Sandwich",
+      "price": 13.5,
+      "description": "House-made Seitan roast slices (gluten-based), cashew cheeze sauce, caramelized onions, horseradish mayo, pickles, and mustard served on a toasted garlic butter sub bun. Side of au jus (contains cashew) | Add F'acon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Gluten-based seitan sandwich with cashew cheese and caramelized onions on a garlic butter bun.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chick'un Caesar Wrap (Regular / Spicy Buffalo)",
+      "price": 13.0,
+      "description": "Crisp romaine, herbed gf croutons, shredded cheeze, and our amazing Caesar dressing. Choice of regular or buffalo hot style chick'un, wrapped up in a flour tortilla | Add F'acon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Romaine and chick'un with Caesar dressing in a flour tortilla, regular or spicy buffalo style.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "Reuben Sandwich",
+      "price": 13.5,
+      "description": "Sourdough bread with pastrami-style seitan, sauerkraut, and pickles all made in-house, vegan cheeze, and Russian dressing. Toasted, melty, and delicious.",
+      "category": "FOOD",
+      "simplified_description": "Toasted sourdough with seitan, sauerkraut, vegan cheese, pickles, and Russian dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Cheeze Steak",
+      "price": 13.5,
+      "description": "Chopped seitan, peppers, onions, mushrooms, melty cheeze, sautéed in rosemary gravy, pickles, and mustard on a garlic butter sub bun | Add Bacon seriously! +$1.50",
+      "category": "FOOD",
+      "simplified_description": "Seitan with peppers, onions, mushrooms, and cheese on a garlic butter sub bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeze Burger (GF Option)",
+      "price": 13.5,
+      "description": "\"Beyond meat\" patty, or our house black bean, sunflower oat patty, with caramelized onions, vegan cheeze, lettuce, tomato, pickles, red onion, burger sauce, toasted buttered bun • Sub for a GF Bun +$1.85 | Add Bacon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Burger with Beyond Meat or black bean patty, vegan cheese, and veggies; gluten-free bun optional.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Gluten-free bun available"
+    },
+    {
+      "name": "Buffalo Chick'un Burger",
+      "price": 13.5,
+      "description": "Cajun battered and deep-fried chick'un, tossed in a Valentina's style hot sauce on a toasted brioche bun with lettuce, red onion, pickles, and mayo | Add F'acon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Spicy fried chick'un in hot sauce on a brioche bun with lettuce and pickles.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Heart and Seoul Burger (GF Option)",
+      "price": 13.5,
+      "description": "Seasoned beyond meat patty, gochujang mayo, house fermented kimchi slaw, pickled cucumber, red onion, cheeze, toasted sesame seeds, and fried garlic on a toasted kaiser bun. Satisfy your soul with this masterpiece | Add F'acon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Beyond meat burger with spicy kimchi slaw, gochujang mayo, and cheese on a kaiser bun.",
+      "dietary_info": [],
+      "other_info": "Gluten-free bun available; Spicy"
+    },
+    {
+      "name": "Ginger Chickn' Wrap",
+      "price": 13.75,
+      "description": "Hearts Choices ginger chick'un, hummus, shredded beet, carrot, and cabbage, heritage mixed greens, sunflower seeds, diced peppers, Tahini garlic dressing wrapped in a flour tortilla. Served with peanut sweet chili dip | Add F'acon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Ginger chick'un wrap with veggies, hummus, tahini dressing, and peanut sweet chili dip.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chick'un Shawarma",
+      "price": 13.5,
+      "description": "Marinated chick'un, garlic sauce, lettuce, tomato, pickles, red onion, olives, and pickled turnips, hummus, all wrapped up in a flour tortilla | Add a Side of Onion Rings +$5.95",
+      "category": "FOOD",
+      "simplified_description": "Marinated chick'un with garlic sauce and veggies wrapped in a flour tortilla.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Poutine",
+      "price": 12.95,
+      "description": "| $8.95 • Hand-cut, twice-cooked fries tossed in Himalayan salt, topped with shredded cheeze, rosemary gravy, and green onions. ($8.95 for small) | Add Chick'un, Regular or Buffalo Hot +$4.50",
+      "category": "FOOD",
+      "simplified_description": "Fries with shredded cheese, rosemary gravy, and green onions; chick'un add-on available.",
+      "dietary_info": [],
+      "other_info": "Available in small size"
+    },
+    {
+      "name": "Chick'un and Waffles",
+      "price": 14.75,
+      "description": "Belgian waffles with 2 pieces of Southern style fried chick'un, house-made rosemary gravy, maple syrup, powdered sugar, and green onions • Add an Extra Piece of Chick'un +$2.50 | Add Homestyle Hashbrowns +$3.00",
+      "category": "FOOD",
+      "simplified_description": "Belgian waffles served with fried chick'un, rosemary gravy, maple syrup, and powdered sugar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pura Vegan Bowl (GF)",
+      "price": 16.5,
+      "description": "Brown red rice base, heritage greens, julienned carrots, beets and cabbage, wilted garlic kale, marinated chickpeas, sunflower seeds, glory bowl and ranch dressings | Add Chick'un, Regular or Buffalo Hot +$4.50",
+      "category": "FOOD",
+      "simplified_description": "Vegan bowl with rice, greens, veggies, chickpeas, seeds, and dressings; gluten-free.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chick'un Caesar Salad",
+      "price": 15.95,
+      "description": "Crisp romaine, herbed gf crutons, shredded cheeze, and our amazing Caesar dressing. Choice of regular or buffalo hot sauce chick'un • Extra Chick'un +$2.95 | Add Coconut F'acon +$2.00",
+      "category": "FOOD",
+      "simplified_description": "Romaine salad with chick'un, gluten-free croutons, cheese, and Caesar dressing.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "Mac N' Cheeze",
+      "price": 10.5,
+      "description": "Homemade cashew cheezy sauce, macaroni noodles, topped with veggie facon crumbles and scallions. Served with house tomato jam and a slice of toasted buttered marble rye bread | Add Chick'un, Regular or Buffalo Hot +$4.50",
+      "category": "FOOD",
+      "simplified_description": "Macaroni with cashew cheese sauce, veggie bacon, scallions, and tomato jam on rye bread.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cauliflower Wings",
+      "price": 7.5,
+      "description": "5 Pieces • Vodka battered and crispy fried cauliflower wings, choose from: Ginger Maple | Buffalo Hot with Ranch Dip | Lemon Pepper with Ranch Dip.",
+      "category": "SIDE",
+      "simplified_description": "Five crispy fried cauliflower wings with choice of three sauces and ranch dip.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "Hand-cut Fries",
+      "price": 6.0,
+      "description": "Hand-cut Kennebec potatoes, cooked twice in cold-pressed non-GMO canola oil with Himalayan salt. Shared fryer with gluten ingredients | House-made Cashew Cheezy Sauce or Rosemary Gravy +$2.00",
+      "category": "SIDE",
+      "simplified_description": "Twice-cooked hand-cut fries with Himalayan salt.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Shared fryer with gluten ingredients"
+    },
+    {
+      "name": "Side House or Caesar Salad (GF)",
+      "price": 6.95,
+      "description": "Small $6.95 | Large $11.95",
+      "category": "SIDE",
+      "simplified_description": "Small or large house or Caesar salad.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jasmine Rice (GF)",
+      "price": 2.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Plain jasmine rice.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice (GF)",
+      "price": 3.25,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Rice cooked with coconut milk.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Brown & Red Rice Mix (GF)",
+      "price": 3.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Mixed brown and red rice.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 6.95,
+      "description": "5 Crispy spring rolls, filled with cabbage, ginger, tofu, carrots, and noodles, served with peanut sweet chili dip.",
+      "category": "SIDE",
+      "simplified_description": "Five crispy spring rolls with vegetables and tofu, served with peanut chili dip.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 5.95,
+      "description": "Tossed in seasoning salt.",
+      "category": "SIDE",
+      "simplified_description": "Seasoned, fried onion rings.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Corn Dogs",
+      "price": 5.95,
+      "description": "1 Piece • Veggie dog, dipped in cornmeal batter and golden fried. Absolute fan favorite!",
+      "category": "SIDE",
+      "simplified_description": "One fried veggie dog in cornmeal batter.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": 2.0,
+      "description": "Soft, delicious, chocolate chip cookies!",
+      "category": "DESSERT",
+      "simplified_description": "Soft chocolate chip cookie.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot Cake (GF)",
+      "price": 6.0,
+      "description": "Walnuts, raisins, cream cheese frosting.",
+      "category": "DESSERT",
+      "simplified_description": "Gluten-free carrot cake with walnuts, raisins, and cream cheese frosting.",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Oatmeal Raisin Cookie",
+      "price": 2.0,
+      "description": "Gluten friendly.",
+      "category": "DESSERT",
+      "simplified_description": "Gluten-friendly oatmeal raisin cookie.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Double Chocolate Cake (GF)",
+      "price": 6.0,
+      "description": "Chocolate sponge cake with a chocolate ganache topping.",
+      "category": "DESSERT",
+      "simplified_description": "Gluten-free chocolate sponge cake with ganache.",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream Float",
+      "price": 6.95,
+      "description": "A scoop of vanilla oat nice cream with your choice of Boylan soda flavor.",
+      "category": "DRINK",
+      "simplified_description": "Vanilla oat ice cream with Boylan soda.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Boylans Sodas",
+      "price": 3.95,
+      "description": "Root Beer, Tangerine, Black Cherry, Ginger Ale, Classic Cola.",
+      "category": "DRINK",
+      "simplified_description": "Variety of Boylan soda flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bubbly",
+      "price": 2.5,
+      "description": "Assorted random flavors.",
+      "category": "DRINK",
+      "simplified_description": "Assorted sparkling water flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cup of Organic Coffee",
+      "price": 2.95,
+      "description": "Add Flavor Shot +$1.00",
+      "category": "DRINK",
+      "simplified_description": "A cup of organic coffee with optional flavor shot.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Coconut Iced Tea",
+      "price": 4.95,
+      "description": "Fragrant, delicious Thai Assam tea, topped with creamy coconut milk and served iced. Prepared sweet, it's a perfect treat!",
+      "category": "DRINK",
+      "simplified_description": "Sweet Thai Assam tea with creamy coconut milk served iced.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Coffee",
+      "price": 4.0,
+      "description": "Organic iced coffee with plant milk of choice, and a choice of French vanilla or hazelnut syrup.",
+      "category": "DRINK",
+      "simplified_description": "Organic iced coffee with plant milk and flavored syrup options.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pot of Tea",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pot of hot tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

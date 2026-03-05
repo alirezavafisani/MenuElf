@@ -1,0 +1,195 @@
+{
+  "restaurant": "chickenworldcanada",
+  "parsed_at": "2026-02-06T01:46:58.351202",
+  "item_count": 18,
+  "items": [
+    {
+      "name": "10Pcs Peri Peri Chicken",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Ten pieces of spicy peri peri chicken.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "6Pcs Chicken Wings",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Six pieces of classic chicken wings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "12Pcs Chicken Wings",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Twelve pieces of classic chicken wings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "18Pcs Peri Peri Wings",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Eighteen pieces of spicy peri peri chicken wings.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2Pcs Chicken Meal",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Meal with two pieces of chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "3Pcs Chicken Meal",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Meal with three pieces of chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1 Pc Leg",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "One piece of chicken leg.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1Pc Thigh",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "One piece of chicken thigh.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1Pc Breast",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "One piece of chicken breast.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Karizma Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A burger named Karizma, ingredients not specified.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gabbar Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A burger named Gabbar, ingredients not specified.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with grilled chicken patty.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Billo Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A burger named Billo, ingredients not specified.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with grilled beef patty.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BeWafa Beef Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A burger named BeWafa with beef patty.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Basanti Chicken Wrap",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A wrap filled with chicken and fresh ingredients.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Fillet Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A burger featuring a crispy fish fillet.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A burger made with a vegetable-based patty.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    }
+  ]
+}

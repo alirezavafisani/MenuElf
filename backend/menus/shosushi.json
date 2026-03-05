@@ -1,0 +1,628 @@
+{
+  "restaurant": "shosushi",
+  "parsed_at": "2026-02-06T04:06:22.383889",
+  "item_count": 69,
+  "items": [
+    {
+      "name": "Goku Jo",
+      "price": null,
+      "description": "Ginjo - Crisp, clean & smooth. Notes of honeydew & orange-magnolia with an anise finish",
+      "category": "DRINK",
+      "simplified_description": "Ginjo - Crisp, clean & smooth. Notes of honeydew & orange-magnolia with an anise",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moonstone Asian Pear",
+      "price": null,
+      "description": "Lush ripened pear with a mildly sweet and crisp finish",
+      "category": "DRINK",
+      "simplified_description": "Lush ripened pear with a mildly sweet and crisp finish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ume Plum Wine",
+      "price": null,
+      "description": "Umeshi - The sweet, deep essence of plum with a mildly spicy tartness",
+      "category": "DRINK",
+      "simplified_description": "Umeshi - The sweet, deep essence of plum with a mildly spicy tartness",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yamahai",
+      "price": null,
+      "description": "Junmai Ginjo - Big, rich & bold with higher acid structure, a light sweetness & notes of roasted chestnuts",
+      "category": "DRINK",
+      "simplified_description": "Junmai Ginjo - Big, rich & bold with higher acid structure, a light sweetness & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yoshi NO Gawa Daigingo",
+      "price": null,
+      "description": "Daiginjo - The pinnacle of ultra-premium sake. Fresh melons & lush ripe fruit kissed with mild spice & a rich lingering finish",
+      "category": "DRINK",
+      "simplified_description": "Daiginjo - The pinnacle of ultra-premium sake. Fresh melons & lush ripe fruit ki",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baby G",
+      "price": null,
+      "description": "Junmai Ginjo Genshu - Robust with touches of melon, a light sweetness & dry finish",
+      "category": "DRINK",
+      "simplified_description": "Junmai Ginjo Genshu - Robust with touches of melon, a light sweetness & dry fini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Momokawa Pearl Nigori",
+      "price": null,
+      "description": "Nigori GEnshu - Creamy Nigori sake with hints of melon, banana & coconut in a slightly sweet finish",
+      "category": "DRINK",
+      "simplified_description": "Nigori GEnshu - Creamy Nigori sake with hints of melon, banana & coconut in a sl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tyoutokusen Nagasaki Bijin Daiginjo",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daijinjyou Birokuten",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ikekame Ajiginjo",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nigori",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kinokawa Tokubetsu Jyunmai-Shu",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sho Chiku Bai Premium House Sake",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "See U Tonight",
+      "price": null,
+      "description": "Gin, cranberry juice, lime juice, presecco, grenadine",
+      "category": "DRINK",
+      "simplified_description": "Gin, cranberry juice, lime juice, presecco, grenadine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sho Sunshine",
+      "price": null,
+      "description": "Pineapple sake, spiced rum, pineapple juice, soda, mint",
+      "category": "DRINK",
+      "simplified_description": "Pineapple sake, spiced rum, pineapple juice, soda, mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Caesar",
+      "price": null,
+      "description": "Vodka, clamato juice, tabasco, celery worcestershire, celery salt, pepperoncini",
+      "category": "DRINK",
+      "simplified_description": "Vodka, clamato juice, tabasco, celery worcestershire, celery salt, pepperoncini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosa",
+      "price": null,
+      "description": "Prosecco & choice of orange, pineapple, grapefruit or mango juice",
+      "category": "DRINK",
+      "simplified_description": "Prosecco & choice of orange, pineapple, grapefruit or mango juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Whiskey Sour",
+      "price": null,
+      "description": "Whisky, pineapple juice, lemon juice, angostura bitters",
+      "category": "DRINK",
+      "simplified_description": "Whisky, pineapple juice, lemon juice, angostura bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita on the Rocks",
+      "price": null,
+      "description": "Tequila, triple sec, lime juice, salted rim",
+      "category": "DRINK",
+      "simplified_description": "Tequila, triple sec, lime juice, salted rim",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whisky & Yuzu Ginger",
+      "price": null,
+      "description": "Whisky, home-made yuzu ginger ale, angostura bitters",
+      "category": "DRINK",
+      "simplified_description": "Whisky, home-made yuzu ginger ale, angostura bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Fashioned",
+      "price": null,
+      "description": "Whisky, sugar, angostura bitters",
+      "category": "DRINK",
+      "simplified_description": "Whisky, sugar, angostura bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake Bomb",
+      "price": null,
+      "description": "Hot sake (1oz) & cold beer",
+      "category": "DRINK",
+      "simplified_description": "Hot sake (1oz) & cold beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Instant Crush",
+      "price": null,
+      "description": "Vodka, peach liqueur, pink grapefruit juice, home-made yuzu ginger ale, lemon",
+      "category": "DRINK",
+      "simplified_description": "Vodka, peach liqueur, pink grapefruit juice, home-made yuzu ginger ale, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shoju Ramune Mojito",
+      "price": null,
+      "description": "Japanese shoju, ramune soda, lime juice, mint",
+      "category": "DRINK",
+      "simplified_description": "Japanese shoju, ramune soda, lime juice, mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Mint Paloma",
+      "price": null,
+      "description": "Tequila, grapefruit & lime juice, fresh ginger, mint",
+      "category": "DRINK",
+      "simplified_description": "Tequila, grapefruit & lime juice, fresh ginger, mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Momojito",
+      "price": null,
+      "description": "Vodka, peach sake, peach liqueur, soda, lime, fresh mint leaves",
+      "category": "DRINK",
+      "simplified_description": "Vodka, peach sake, peach liqueur, soda, lime, fresh mint leaves",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Tea",
+      "price": null,
+      "description": "Hennessy VS, chilled fresh green tea, fresh ginger, lemon juice, mint",
+      "category": "DRINK",
+      "simplified_description": "Hennessy VS, chilled fresh green tea, fresh ginger, lemon juice, mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ocean Breeze",
+      "price": null,
+      "description": "Gin, Nigori sake, Blue curaçao, Lime juice, Champagne",
+      "category": "DRINK",
+      "simplified_description": "Gin, Nigori sake, Blue curaçao, Lime juice, Champagne",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Belvedere Blush",
+      "price": null,
+      "description": "Belvedere pink grapefruit vodka, pink grapefruit, cranberry juice",
+      "category": "DRINK",
+      "simplified_description": "Belvedere pink grapefruit vodka, pink grapefruit, cranberry juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lychee Martini",
+      "price": null,
+      "description": "Vodka, Soho, lychee juice",
+      "category": "DRINK",
+      "simplified_description": "Vodka, Soho, lychee juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bending In The River Riesling",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gunderloch Riesling Fritz's",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banfi Le Rime Pinot Grigo",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Scarpetta Pinot Grigio",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kettle Valley Chardonnay",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ara Pathway Sauvignon Blanc",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oyster Bay Sauvignon Blanc",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "St. Francis Chardonnay",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gray Monk Pinot Gris",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cloudy Bay Sauvignon Blanc",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Torrontes Terrazas",
+      "price": null,
+      "description": "",
+      "category": "WINE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vina Santa Carolina Carbernet",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Montalto Carbernet Savignon",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trivento Malbec",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Santa Julia Organica",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ara Pathway Pinot Noir",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mission Hill Pinot Noir",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matua Pinot Noir",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasqua Passimento",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bouchard Ainé & Fils Beaujolais",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perez Crus Reserva",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Lacky Shiraz",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Terrazas Reserva Malbec",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "St. Francis Old Vines Zinfandel",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "King Estate",
+      "price": null,
+      "description": "",
+      "category": "RED",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "La Marca Prosecco",
+      "price": null,
+      "description": "",
+      "category": "SPARKLING & ROSÉ",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "La Vieilla Rosé",
+      "price": null,
+      "description": "",
+      "category": "SPARKLING & ROSÉ",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Draft (16oz)",
+      "price": 8.5,
+      "description": "Asahi, Sapporo, Heineken, Wild Rose IPA or Electric Avenue (ask server for details)",
+      "category": "BEER",
+      "simplified_description": "Asahi, Sapporo, Heineken, Wild Rose IPA or Electric Avenue (ask server for detai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Bottles",
+      "price": 7.9,
+      "description": "Asahi, Sapporo, Tsing Tao, Tiger, Corona, Heineken, Stella Artois, Budweiser, Canadian, Coors Light, Kokanee, Okanagan Pear Cider",
+      "category": "BEER",
+      "simplified_description": "Asahi, Sapporo, Tsing Tao, Tiger, Corona, Heineken, Stella Artois, Budweiser, Ca",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Non-alcohol",
+      "price": 6.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Bottles",
+      "price": 11.0,
+      "description": "Asahi",
+      "category": "BEER",
+      "simplified_description": "Asahi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orion",
+      "price": 14.0,
+      "description": "",
+      "category": "BEER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese Tea",
+      "price": 2.0,
+      "description": "(per cup)",
+      "category": "BEVERAGES",
+      "simplified_description": "(per cup)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 8.0,
+      "description": "",
+      "category": "BEVERAGES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": 4.0,
+      "description": "",
+      "category": "BEVERAGES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House-made Yuzu Ginger ale",
+      "price": 6.5,
+      "description": "",
+      "category": "BEVERAGES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 5.0,
+      "description": "Apple, Orange, Pineapple, Mango, Cranberry, Grapefruit",
+      "category": "BEVERAGES",
+      "simplified_description": "Apple, Orange, Pineapple, Mango, Cranberry, Grapefruit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese Ramune Soda",
+      "price": 4.0,
+      "description": "",
+      "category": "BEVERAGES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Virgin Cocktail",
+      "price": 6.5,
+      "description": "",
+      "category": "BEVERAGES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

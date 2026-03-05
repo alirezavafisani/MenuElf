@@ -1,0 +1,522 @@
+{
+  "restaurant": "whitehorn786pizza",
+  "parsed_at": "2025-12-24T23:23:13.697766",
+  "item_count": 57,
+  "items": [
+    {
+      "name": "Chicken Combo",
+      "price": 16.99,
+      "description": "2 Chicken Pieces, Fries, Lettuce Salad, Sauce & Pop Can",
+      "simplified_description": "A meal with chicken, fries, salad, sauce, and a can of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Twin (12 Inch)",
+      "price": 31.99,
+      "description": "Get Two 4-Topper Pizzas",
+      "simplified_description": "Two pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Twin (14 Inch)",
+      "price": 37.99,
+      "description": "Get Two 4-Topper Pizzas",
+      "simplified_description": "Two pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Twin (16 Inch)",
+      "price": 41.99,
+      "description": "Get Two 4-Topper Pizzas",
+      "simplified_description": "Two pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Twin (18 Inch)",
+      "price": 52.99,
+      "description": "Get Two 4-Topper Pizzas",
+      "simplified_description": "Two pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Triple (12 Inch)",
+      "price": 48.99,
+      "description": "Get Three 4-Topper Pizzas",
+      "simplified_description": "Three pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Triple (14 Inch)",
+      "price": 56.99,
+      "description": "Get Three 4-Topper Pizzas",
+      "simplified_description": "Three pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Try Triple (16 Inch)",
+      "price": 61.99,
+      "description": "Get Three 4-Topper Pizzas",
+      "simplified_description": "Three pizzas with four toppings each",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Special (18 Inch)",
+      "price": 62.99,
+      "description": "Get Two 4-Topper 18\" Pizzas, 12 Chicken Wings & 2L Pop",
+      "simplified_description": "Two large pizzas, twelve chicken wings, and two liters of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Packs (12 Inch)",
+      "price": 25.99,
+      "description": "Get One 5-Topper Pizza, One Cheesy Bread & 2 Cans of Pop",
+      "simplified_description": "One pizza with five toppings, cheesy bread, and two cans of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Packs (14 Inch)",
+      "price": 28.99,
+      "description": "Get One 5-Topper Pizza, One Cheesy Bread & 2 Cans of Pop",
+      "simplified_description": "One pizza with five toppings, cheesy bread, and two cans of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Packs (16 Inch)",
+      "price": 29.99,
+      "description": "Get One 5-Topper Pizza, One Cheesy Bread & 2 Cans of Pop",
+      "simplified_description": "One pizza with five toppings, cheesy bread, and two cans of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo Special (12 Inch)",
+      "price": 41.99,
+      "description": "Get Two Unlimited Pizzas, 12 Chicken Wings & 2L Pop",
+      "simplified_description": "Two unlimited pizzas, twelve chicken wings, and two liters of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo Special (14 Inch)",
+      "price": 46.99,
+      "description": "Get Two Unlimited Pizzas, 12 Chicken Wings & 2L Pop",
+      "simplified_description": "Two unlimited pizzas, twelve chicken wings, and two liters of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo Special (16 Inch)",
+      "price": 53.99,
+      "description": "Get Two Unlimited Pizzas, 12 Chicken Wings & 2L Pop",
+      "simplified_description": "Two unlimited pizzas, twelve chicken wings, and two liters of soda",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pickup Special",
+      "price": 12.99,
+      "description": "Get 4-Topper Pizza",
+      "simplified_description": "A pizza with four toppings",
+      "category": "Combos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whitehorn Specialty (Build Your Own Pizza)",
+      "price": null,
+      "description": "Chicken Ham, Pineapple, Cheese & Pizza Sauce",
+      "simplified_description": "A customizable pizza with chicken ham, pineapple, cheese, and sauce",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Loaded Pizza",
+      "price": null,
+      "description": "Pepperoni, Mushrooms, Onions, Green Peppers, Ham, Beef, Sausage, Olives, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza loaded with various meats and vegetables",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$13.99 - Small 10\", $17.99 - Medium 12\", $20.99 - Large 14\", $22.99 - X-Large 16\", $31.99 - Giant 18\""
+    },
+    {
+      "name": "Meat Lovers Pizza",
+      "price": null,
+      "description": "Pepperoni, Chicken Ham, Ground Beef, Sausage, Bacon, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza for meat lovers with various types of meat",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Deluxe Pizza",
+      "price": null,
+      "description": "Onions, Green Peppers, Mushrooms, Pepperoni, Sausages, Cheese & Pizza Sauce",
+      "simplified_description": "A deluxe pizza with a variety of toppings",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Greek Pizza",
+      "price": null,
+      "description": "Ground Beef, Feta Cheese, Tomatoes, Onions, Black Olives, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza with Greek-inspired toppings",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Donair Pizza",
+      "price": null,
+      "description": "Onions, Green Peppers, Donair Meat, Tomatoes, Donair Sauce, Banana Peppers, Cheese & Sweet Sauce",
+      "simplified_description": "A pizza with donair meat and various toppings",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Mexican Pizza",
+      "price": null,
+      "description": "Beef, Onions, Green Peppers, Black Olives, Hot Peppers, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza with a spicy Mexican twist",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": null,
+      "description": "Double Pepperoni, Extra Sauce & Cheese",
+      "simplified_description": "A pizza with extra pepperoni and cheese",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "price": null,
+      "description": "Chicken Ham, Pineapple, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza with chicken ham and pineapple",
+      "category": "Specialty Pizzas",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "price": null,
+      "description": "Onions, BBQ Chicken & BBQ Sauce",
+      "simplified_description": "A pizza with BBQ chicken and onions",
+      "category": "Chicken Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Chicken Ranch Pizza",
+      "price": null,
+      "description": "Chicken, Onions, Mushrooms & Ranch Sauce",
+      "simplified_description": "A pizza with chicken, onions, mushrooms, and ranch sauce",
+      "category": "Chicken Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Chicken Donair Pizza",
+      "price": null,
+      "description": "Chicken, Onion, Green Pepper, Black Olives, Hot Peppers, Cheese & Sweet Sauce",
+      "simplified_description": "A pizza with chicken and donair toppings",
+      "category": "Chicken Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": null,
+      "description": "Onion, Green Peppers, Butter Chicken & Butter Chicken Sauce",
+      "simplified_description": "A pizza with butter chicken and vegetables",
+      "category": "Chicken Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Chicken Delight Pizza",
+      "price": null,
+      "description": "Onions, Jalapeno Peppers, Tandoori Chicken",
+      "simplified_description": "A pizza with tandoori chicken and spicy peppers",
+      "category": "Chicken Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Chicken Veggie Pizza",
+      "price": null,
+      "description": "Chicken, Mushrooms, Onions, Green Pepper, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza with chicken and vegetables",
+      "category": "Chicken Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Gluten Free Pizza",
+      "price": 14.99,
+      "description": "Small 10\" $16.99, Medium 12\"",
+      "simplified_description": "A gluten-free pizza option",
+      "category": "Veggie Specialty",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": null,
+      "description": "Mushrooms, Onions, Green Peppers, Tomatoes, Cheese & Pizza Sauce",
+      "simplified_description": "A pizza with various vegetables",
+      "category": "Veggie Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Veggie Greek Pizza",
+      "price": null,
+      "description": "Onions, Jalapeno Peppers, Tomato, Black Olives, Cheese & Pizza Sauce",
+      "simplified_description": "A Greek-style veggie pizza",
+      "category": "Veggie Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Paneer Pizza",
+      "price": null,
+      "description": "Mushrooms, Onions, Green Pepper, Black Olives, Jalapeno Peppers & Paneer",
+      "simplified_description": "A pizza with paneer cheese and vegetables",
+      "category": "Veggie Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Punjabi Pizza",
+      "price": null,
+      "description": "Mushrooms, Onions, Hot Pepper, Green Peppers, Garlic & Ginger",
+      "simplified_description": "A pizza with Punjabi spices and vegetables",
+      "category": "Veggie Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Veggie Mexican Pizza",
+      "price": null,
+      "description": "Onions, Green Peppers, Hot Peppers, Black Olives, Cheese & Pizza Sauce",
+      "simplified_description": "A spicy veggie pizza",
+      "category": "Veggie Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "Cheese Pizza",
+      "price": null,
+      "description": "Extra Cheese & Pizza Sauce",
+      "simplified_description": "A pizza with extra cheese",
+      "category": "Veggie Specialty",
+      "dietary_info": [],
+      "other_info": "$12.99 - Small 10\", $16.99 - Medium 12\", $19.99 - Large 14\", $21.99 - X-Large 16\", $30.99 - Giant 18\""
+    },
+    {
+      "name": "12 Chicken Wings",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "A dozen chicken wings",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "24 Chicken Wings",
+      "price": 24.99,
+      "description": "",
+      "simplified_description": "Two dozen chicken wings",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "36 Chicken Wings",
+      "price": 36.99,
+      "description": "",
+      "simplified_description": "Three dozen chicken wings",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Nuggets",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Chicken nuggets",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 Pieces",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "Ten pieces of chicken",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20 Pieces",
+      "price": null,
+      "description": "",
+      "simplified_description": "Twenty pieces of chicken",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Legs",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "Chicken legs",
+      "category": "Chicken Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "A serving of lasagna",
+      "category": "Pasta & Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Bread (8 Pieces)",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "Eight pieces of cheesy bread",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Twisty Bread (8 Pieces)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Eight pieces of twisty bread",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "A calzone",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "French fries",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "Onion rings",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Poutine",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "Mozzarella sticks",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pieces",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "Six pieces of chicken",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 Pieces",
+      "price": null,
+      "description": "",
+      "simplified_description": "Ten pieces of chicken",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "A can of soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Pop",
+      "price": 4.5,
+      "description": "",
+      "simplified_description": "Two liters of soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

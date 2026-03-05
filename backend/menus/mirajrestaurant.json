@@ -1,0 +1,79 @@
+{
+  "restaurant": "mirajrestaurant",
+  "parsed_at": "2025-12-24T23:35:27.577502",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Beef Karahi",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kala Bhuna",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tehari",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kacchi w/ lamb shank",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Murog pulao",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Buffet",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": null,
+      "description": "[Original description exactly as written]",
+      "simplified_description": "",
+      "category": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

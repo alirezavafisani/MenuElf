@@ -1,0 +1,61 @@
+{
+  "restaurant": "chiligardenrestaurant",
+  "parsed_at": "2026-02-06T01:47:05.157743",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "Grilled Pork Dumplings (8 pcs)",
+      "price": 13.22,
+      "description": "Grilled Pork Dumplings (8 pcs)",
+      "category": "OTHER",
+      "simplified_description": "Eight grilled dumplings filled with pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Fried Beef",
+      "price": 16.84,
+      "description": "Ginger Fried Beef",
+      "category": "FOOD",
+      "simplified_description": "Beef stir-fried with ginger flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet-and-Sour Boneless Pork",
+      "price": 15.63,
+      "description": "Sweet-and-Sour Boneless Pork",
+      "category": "FOOD",
+      "simplified_description": "Boneless pork cooked in sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton Soup",
+      "price": 3.95,
+      "description": "Wonton Soup",
+      "category": "SOUP",
+      "simplified_description": "Soup with wontons filled with meat or seafood.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 13.22,
+      "description": "Chicken Fried Rice",
+      "category": "FOOD",
+      "simplified_description": "Fried rice mixed with chicken pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Your Choice of Greens",
+      "price": 16.84,
+      "description": "Beef with Your Choice of Greens",
+      "category": "FOOD",
+      "simplified_description": "Beef served with your selected green vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

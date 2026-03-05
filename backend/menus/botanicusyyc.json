@@ -1,0 +1,103 @@
+{
+  "restaurant": "botanicusyyc",
+  "parsed_at": "2026-02-06T01:13:04.038033",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "Seared Endive Salad",
+      "price": null,
+      "description": "Red Berry Champagne Dressing │ Candied Walnuts │Shaved Pear (GF, VE, N*)",
+      "category": "FOOD",
+      "simplified_description": "Salad with endive, red berry dressing, candied walnuts, and shaved pear.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Citrus Cured Wild Trout",
+      "price": null,
+      "description": "Fennel & Green Apple │ Trout Roe │ Westin Honey Vinaigrette (GF, DF)",
+      "category": "FOOD",
+      "simplified_description": "Wild trout cured with citrus, served with fennel, apple, trout roe, and honey vinaigrette.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Handmade Gnocchi “Carbonara”",
+      "price": null,
+      "description": "Wild Mushrooms │ Prosciutto │ Egg Yolk Cream",
+      "category": "FOOD",
+      "simplified_description": "Gnocchi with wild mushrooms, prosciutto, and creamy egg yolk sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Halibut",
+      "price": null,
+      "description": "Shellfish Cream │ Red Pepper Risotto │ Green Olive Gremolata (GF, DF*)",
+      "category": "FOOD",
+      "simplified_description": "Grilled halibut with shellfish cream, red pepper risotto, and olive gremolata.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Slow Cooked Duck Breast",
+      "price": null,
+      "description": "Duck Confit Croquette │ Maple Glazed Carrot │ Orange Poultry Jus (GF, DF*)",
+      "category": "FOOD",
+      "simplified_description": "Slow cooked duck breast with croquette, glazed carrot, and orange jus.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moroccan Spiced Eggplant",
+      "price": null,
+      "description": "Tahini Parsley Coulis │ Chickpea Ragout │ Raisins │ Crisp Flat Bread (GF*, VE)",
+      "category": "FOOD",
+      "simplified_description": "Eggplant with tahini parsley sauce, chickpeas, raisins, and flatbread.",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "XO Rosé",
+      "price": null,
+      "description": "(3oz)",
+      "category": "DRINK",
+      "simplified_description": "A 3oz serving of XO Rosé wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pelee Island Pinot Grigio",
+      "price": null,
+      "description": "(5oz)",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Pelee Island Pinot Grigio wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pelee Island Shiraz Cabernet",
+      "price": null,
+      "description": "(5oz)",
+      "category": "DRINK",
+      "simplified_description": "A 5oz serving of Pelee Island Shiraz Cabernet wine.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

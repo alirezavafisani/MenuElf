@@ -1,0 +1,655 @@
+{
+  "restaurant": "mrschnappspubandgrill",
+  "parsed_at": "2026-02-06T03:27:08.733619",
+  "item_count": 72,
+  "items": [
+    {
+      "name": "crosscut fries",
+      "price": 11.99,
+      "description": "oned crosscut fries with green onions, bacon bits & mixed cheese with Schnapps Sauce & Sour Creme",
+      "category": "SIDE",
+      "simplified_description": "oned crosscut fries with green onions, bacon bits & mixed cheese with Schnapps S",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mr Schnapp’s Nacho",
+      "price": 14.99,
+      "description": "• Add Chicken $7 • Add Ground Beef $6",
+      "category": "APPETIZER",
+      "simplified_description": "• Add Chicken $7 • Add Ground Beef $6",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "O’Rings",
+      "price": 8.99,
+      "description": "Lightly Tossed in Garlic and Parmesan",
+      "category": "APPETIZER",
+      "simplified_description": "Lightly Tossed in Garlic and Parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Skins",
+      "price": 8.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatball Mix",
+      "price": 10.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Dry Ribs",
+      "price": 13.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Calamari & Jalapeno",
+      "price": 15.99,
+      "description": "Served with Tzatziki",
+      "category": "APPETIZER",
+      "simplified_description": "Served with Tzatziki",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": 12.99,
+      "description": "Served with Plum Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Served with Plum Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pickles",
+      "price": 9.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 7.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peanuts Sandheko",
+      "price": 7.99,
+      "description": "Chopped Red/Green onion , Garlic ,Ginger , Chili and lemon juice ",
+      "category": "OTHER",
+      "simplified_description": "Chopped Red/Green onion , Garlic ,Ginger , Chili and lemon juice ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Pineapple",
+      "price": 17.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Pineapple",
+      "price": 21.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni",
+      "price": 17.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni",
+      "price": 21.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni & Mushrooms",
+      "price": 17.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni & Mushrooms",
+      "price": 21.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": 19.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Meat",
+      "price": 23.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 18.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 21.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "George’s Special",
+      "price": 19.5,
+      "description": "Back Bacon, Ham, Pepperoni, Mushrooms & Green Pepper",
+      "category": "FOOD",
+      "simplified_description": "Back Bacon, Ham, Pepperoni, Mushrooms & Green Pepper",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "George’s Special",
+      "price": 23.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni ,Mushrooms & Green Pepper",
+      "price": 18.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni ,Mushrooms & Green Pepper",
+      "price": 22.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Back Bacon, Mushrooms & Pineapple",
+      "price": 19.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Back Bacon, Mushrooms & Pineapple",
+      "price": 23.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mr. Schnapp’s Special",
+      "price": 21.5,
+      "description": "BACK BACON,ITALIAN SAUSAGE,SALAMI BEEF,MUSHROOMS,ONION & GREEN PEPPER",
+      "category": "FOOD",
+      "simplified_description": "BACK BACON,ITALIAN SAUSAGE,SALAMI BEEF,MUSHROOMS,ONION & GREEN PEPPER",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mr. Schnapp’s Special",
+      "price": 24.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireman’s Special",
+      "price": 20.5,
+      "description": "Ham, Back bacon , Shrimp , Pepperoni , Mushroom , Green pepper & Black olives .",
+      "category": "FOOD",
+      "simplified_description": "Ham, Back bacon , Shrimp , Pepperoni , Mushroom , Green pepper & Black olives .",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireman’s Special",
+      "price": 23.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pizza",
+      "price": 17.5,
+      "description": "10 inches",
+      "category": "FOOD",
+      "simplified_description": "10 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pizza",
+      "price": 21.5,
+      "description": "12 inches",
+      "category": "FOOD",
+      "simplified_description": "12 inches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Momo -Steamed/Fried",
+      "price": 11.99,
+      "description": "Both Momos chicken and Vegetable ( Fried momo -$13.99) Very famous Nepali street food- Momo dumpling served with sauce influenced by the spice and herbs used with in south Asian cuisines.",
+      "category": "FOOD",
+      "simplified_description": "Both Momos chicken and Vegetable ( Fried momo -$13.99) Very famous Nepali street",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Sekuwa",
+      "price": 11.99,
+      "description": "Pork belly marinated with flavor of Nepalese spices. Served with cucumber, lemon wedges and Nepalese style roasted tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "Pork belly marinated with flavor of Nepalese spices. Served with cucumber, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti Nepali Style",
+      "price": 13.99,
+      "description": "Spaghetti with Cabbage, Red/Green pepper , onion , mushroom with mixed spices",
+      "category": "FOOD",
+      "simplified_description": "Spaghetti with Cabbage, Red/Green pepper , onion , mushroom with mixed spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 12.99,
+      "description": "Cucumber, Red Onion, Tomato, Feta Cheese, Black Olives & Home Made Greek Dressing",
+      "category": "SALAD",
+      "simplified_description": "Cucumber, Red Onion, Tomato, Feta Cheese, Black Olives & Home Made Greek Dressin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 12.99,
+      "description": "Fresh Crisp Romaine Lettuce, Croutons & Parm Caesar Dressing • Add Chicken $6.99 • Add 6OZ Steak $7.99",
+      "category": "SALAD",
+      "simplified_description": "Fresh Crisp Romaine Lettuce, Croutons & Parm Caesar Dressing • Add Chicken $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Chicken Wrap",
+      "price": 14.99,
+      "description": "Grilled chicken in a wrap with lettuce, feta, tomato & red onion served with a greek or caesar salad",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken in a wrap with lettuce, feta, tomato & red onion served with a g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fire Burger",
+      "price": 14.99,
+      "description": "Sirloin Patty Served on a Toasted Bun with Fried Onion, Crispy Jalapenos, Lettuce, Mayo, Tomato, Pickle, Bacon, and Cheese",
+      "category": "FOOD",
+      "simplified_description": "Sirloin Patty Served on a Toasted Bun with Fried Onion, Crispy Jalapenos, Lettuc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Club House",
+      "price": 14.99,
+      "description": "Chicken breast ,Cheese, Bacon , Lettuce ,Tomato and Mayo",
+      "category": "FOOD",
+      "simplified_description": "Chicken breast ,Cheese, Bacon , Lettuce ,Tomato and Mayo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Burger",
+      "price": 14.99,
+      "description": "Sirloin Patty Served on a Toasted Bun with Lettuce, Mayo, Tomato, Bacon, Onion, Pickle & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Sirloin Patty Served on a Toasted Bun with Lettuce, Mayo, Tomato, Bacon, Onion, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Burger",
+      "price": 13.99,
+      "description": "Breaded Chicken Breast Served on a Toasted Bun with Lettuce, Mayo, Tomato, Onion, Pickle & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Breaded Chicken Breast Served on a Toasted Bun with Lettuce, Mayo, Tomato, Onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Dip",
+      "price": 14.99,
+      "description": "Served with Ground Beef Sauce and Oven-Baked mix Cheese",
+      "category": "FOOD",
+      "simplified_description": "Served with Ground Beef Sauce and Oven-Baked mix Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Carbonara",
+      "price": 17.99,
+      "description": "Bacon ,Roasted Garlic cream, parmesan, Garlic toast , Crispy chicken & Egg yolk",
+      "category": "FOOD",
+      "simplified_description": "Bacon ,Roasted Garlic cream, parmesan, Garlic toast , Crispy chicken & Egg yolk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lasagna or Baked Spaghetti",
+      "price": 15.99,
+      "description": "Served with Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Served with Garlic Toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Seafood Lasagna",
+      "price": 16.99,
+      "description": "Crab, Shrimp, Scallops – Served with Garlic Toast. Choice of Alfredo or Rose Sauce",
+      "category": "FOOD",
+      "simplified_description": "Crab, Shrimp, Scallops – Served with Garlic Toast. Choice of Alfredo or Rose Sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mr. Schnapps Quesadilla",
+      "price": 16.99,
+      "description": "Seasoned chicken, diced tomatoes, red peppers, green onions & Mixed cheese served with sour cream & salsa",
+      "category": "FOOD",
+      "simplified_description": "Seasoned chicken, diced tomatoes, red peppers, green onions & Mixed cheese serve",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepper Steak",
+      "price": 17.99,
+      "description": "Sirloin Cubed with Mushrooms, Onions, and Green Peppers Sauteed in our Peppercorn Sauce – Served with Rice and Garlic Toast",
+      "category": "FOOD",
+      "simplified_description": "Sirloin Cubed with Mushrooms, Onions, and Green Peppers Sauteed in our Peppercor",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pepper",
+      "price": 13.99,
+      "description": "Chicken cubed , Onions, G. peppers flavors of Asian spices served with rice or garlic toast .",
+      "category": "FOOD",
+      "simplified_description": "Chicken cubed , Onions, G. peppers flavors of Asian spices served with rice or g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "7oz Steak",
+      "price": 18.99,
+      "description": "Served with Sautéed mix Veggies ,Toast and Gravy",
+      "category": "FOOD",
+      "simplified_description": "Served with Sautéed mix Veggies ,Toast and Gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 18.99,
+      "description": "Served with cod , coleslaw ,Dill tartar sauce fresh cut fries.",
+      "category": "FOOD",
+      "simplified_description": "Served with cod , coleslaw ,Dill tartar sauce fresh cut fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Burger",
+      "price": 11.99,
+      "description": "Canadian Burger",
+      "category": "FOOD",
+      "simplified_description": "Canadian Burger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 5.0,
+      "description": "Corona",
+      "category": "DRINK",
+      "simplified_description": "Corona",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tequila Shots",
+      "price": 5.0,
+      "description": "Tequila Shots",
+      "category": "DRINK",
+      "simplified_description": "Tequila Shots",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lasagna",
+      "price": 11.99,
+      "description": "Baked Lasagna",
+      "category": "FOOD",
+      "simplified_description": "Baked Lasagna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Spaghetti",
+      "price": 11.99,
+      "description": "Baked Spaghetti",
+      "category": "FOOD",
+      "simplified_description": "Baked Spaghetti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Lasagna",
+      "price": 12.99,
+      "description": "Seafood Lasagna",
+      "category": "FOOD",
+      "simplified_description": "Seafood Lasagna",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Wine",
+      "price": 6.0,
+      "description": "Red Wine",
+      "category": "DRINK",
+      "simplified_description": "Red Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Wine",
+      "price": 5.0,
+      "description": "White Wine",
+      "category": "DRINK",
+      "simplified_description": "White Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ribs",
+      "price": 5.0,
+      "description": "Ribs",
+      "category": "FOOD",
+      "simplified_description": "Ribs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Chicken Wrap",
+      "price": 11.99,
+      "description": "Greek Chicken Wrap",
+      "category": "FOOD",
+      "simplified_description": "Greek Chicken Wrap",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Highballs",
+      "price": 3.99,
+      "description": "Highballs",
+      "category": "DRINK",
+      "simplified_description": "Highballs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3oz Highball Mini Jug",
+      "price": 11.0,
+      "description": "3oz Highball Mini Jug",
+      "category": "DRINK",
+      "simplified_description": "3oz Highball Mini Jug",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken wings Basket",
+      "price": 4.0,
+      "description": "Chicken wings Basket",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jugs of Draft Beer",
+      "price": 18.0,
+      "description": "Jugs of Draft Beer",
+      "category": "DRINK",
+      "simplified_description": "Jugs of Draft Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3oz Vodka Mini Jug",
+      "price": 11.0,
+      "description": "3oz Vodka Mini Jug",
+      "category": "DRINK",
+      "simplified_description": "3oz Vodka Mini Jug",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8″ 3 Topping Pizza",
+      "price": 11.99,
+      "description": "8″ 3 Topping Pizza",
+      "category": "FOOD",
+      "simplified_description": "8″ 3 Topping Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish ‘n’ Chips",
+      "price": 11.99,
+      "description": "Fish ‘n’ Chips",
+      "category": "FOOD",
+      "simplified_description": "Fish ‘n’ Chips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paralyzers",
+      "price": 4.5,
+      "description": "Paralyzers",
+      "category": "DRINK",
+      "simplified_description": "Paralyzers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken wings Basket",
+      "price": 6.0,
+      "description": "Chicken wings Basket",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings Basket",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Long Island Ice Tea",
+      "price": 4.5,
+      "description": "Long Island Ice Tea",
+      "category": "DRINK",
+      "simplified_description": "Long Island Ice Tea",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "restaurant": "jimmythegreek",
+  "parsed_at": "2026-02-06T02:46:58.271275",
+  "item_count": 18,
+  "items": [
+    {
+      "name": "Chicken Souvlaki",
+      "price": 15.49,
+      "description": "Our famous Chicken Souvlaki is seasoned and marinated in-store for 24 hours, then grilled to juicy perfection daily. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated chicken served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fillet",
+      "price": 15.49,
+      "description": "Our Chicken Fillet is seasoned and marinated in-store for 24 hours, then grilled to juicy perfection daily. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated chicken fillet with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Chicken",
+      "price": 13.99,
+      "description": "Our Roast Chicken leg is marinated in-store for 24 hours, then oven roasted to a tender golden brown. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Oven roasted marinated chicken leg with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Schnitzel",
+      "price": 15.49,
+      "description": "Our Chicken Schnitzel is breaded and seasoned in-store, then fried to a perfect golden brown. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Breaded fried chicken served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Souvlaki",
+      "price": 14.99,
+      "description": "Our Pork Souvlaki is seasoned and marinated in-store for 24 hours, then grilled to juicy perfection each day. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated pork served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Souvlaki",
+      "price": 18.24,
+      "description": "Our tender Beef Souvlaki is seasoned and marinated in-store for 24 hours, then grilled to juicy perfection daily. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated beef served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gyros",
+      "price": 15.49,
+      "description": "Our signature minced beef and lamb Gyros seasoned with Jimmy’s spice blend and slow-cooked on the rotisserie! Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Slow-cooked spiced beef and lamb served with potatoes, rice, and salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Lamb",
+      "price": 18.24,
+      "description": "Our Lamb Shank is seasoned and marinated in-store for 24 hours, then slow-roasted to juicy perfection. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Slow-roasted marinated lamb shank with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Lamb Chops",
+      "price": 18.24,
+      "description": "Our Lamb Chops are seasoned and marinated in-store for 24 hours, then grilled fresh to order. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated lamb chops served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Moussaka",
+      "price": 14.49,
+      "description": "A hearty Greek classic with layers of eggplant, potato, ground beef and parmesan cheese, topped with creamy béchamel sauce. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Layered eggplant, potato, beef, and cheese casserole with béchamel sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Calamari",
+      "price": 16.24,
+      "description": "Our seasoned Calamari is fried to crispy perfection. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Crispy fried seasoned calamari with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Salmon Fillet",
+      "price": 18.24,
+      "description": "Our Salmon Fillet is seasoned and marinated in-store for 24 hours, then grilled to perfection daily. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated salmon fillet with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Griller",
+      "price": 16.24,
+      "description": "Our succulent Shrimp skewer is seasoned and marinated in-store for 24 hours, then grilled fresh to order. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grilled marinated shrimp skewer with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel",
+      "price": 13.79,
+      "description": "Our Falafel’s are formed fresh in-store from ground chickpeas and spices, then fried to a perfect golden brown. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Fried chickpea patties served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Veggie Souvlaki",
+      "price": 13.79,
+      "description": "A vibrant mix of zucchini, eggplant, red pepper, onion, cherry tomatoes and button mushrooms, grill fresh to order. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad",
+      "category": "MEAL",
+      "simplified_description": "Grilled mixed vegetables served with potatoes, rice, and Greek salad.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Dolmades",
+      "price": 13.49,
+      "description": "A Greek classic, featuring grape leaves stuffed with rice and herbs then boiled to tender deliciousness. Served with Oven Roasted Potatoes and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Grape leaves stuffed with rice and herbs, served with potatoes and salad.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach Cheese Pie",
+      "price": 13.49,
+      "description": "Our flaky Greek phyllo pastry is filled with feta cheese, spinach, and spices, and then baked to a perfect golden brown. Served with Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "Phyllo pastry filled with spinach and feta cheese, served with potatoes, rice, and salad.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie",
+      "price": 12.49,
+      "description": "Our Veggie Meal features our Oven Roasted Potatoes, Oven Baked Rice, and Greek Salad.",
+      "category": "MEAL",
+      "simplified_description": "A meal with roasted potatoes, baked rice, and Greek salad.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

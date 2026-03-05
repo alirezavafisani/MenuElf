@@ -1,0 +1,205 @@
+{
+  "restaurant": "richmondspub",
+  "parsed_at": "2026-02-06T03:54:25.068776",
+  "item_count": 22,
+  "items": [
+    {
+      "name": "BUD AND BUD LIGHT (16oz)",
+      "price": 5.0,
+      "description": "BUD AND BUD LIGHT (16oz)",
+      "category": "DRINK",
+      "simplified_description": "BUD AND BUD LIGHT (16oz)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8\" + 32oz",
+      "price": 26.0,
+      "description": "8\" + 32oz",
+      "category": "FOOD",
+      "simplified_description": "8\" + 32oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10\" + 60oz",
+      "price": 32.0,
+      "description": "10\" + 60oz",
+      "category": "FOOD",
+      "simplified_description": "10\" + 60oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12\" + 60oz",
+      "price": 36.0,
+      "description": "12\" + 60oz",
+      "category": "FOOD",
+      "simplified_description": "12\" + 60oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita 2oz",
+      "price": 10.0,
+      "description": "Margarita 2oz | $10\nJust Peachy, Apple Cider, Classic Lime",
+      "category": "DRINK",
+      "simplified_description": "Margarita 2oz | $10\nJust Peachy, Apple Cider, Classic Lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Craft beer",
+      "price": 6.0,
+      "description": "Craft beer | $6",
+      "category": "DRINK",
+      "simplified_description": "Craft beer | $6",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hiballs 1oz",
+      "price": 5.0,
+      "description": "Hiballs 1oz | $5",
+      "category": "DRINK",
+      "simplified_description": "Hiballs 1oz | $5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hiballs 2oz",
+      "price": 8.5,
+      "description": "Hiballs 2oz | $8.5",
+      "category": "DRINK",
+      "simplified_description": "Hiballs 2oz | $8.5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jamesons 1oz",
+      "price": 5.0,
+      "description": "Jamesons 1oz | $5",
+      "category": "DRINK",
+      "simplified_description": "Jamesons 1oz | $5",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine Not!",
+      "price": null,
+      "description": "Any 9oz Wine for the price of a 6oz",
+      "category": "DRINK",
+      "simplified_description": "Any 9oz Wine for the price of a 6oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beerpocalypse 12oz",
+      "price": 4.5,
+      "description": "Beerpocalypse 12oz | $4.50\nWR Wraspberry, Duke Lager, Wildrose IPA, Mount Crushmore",
+      "category": "DRINK",
+      "simplified_description": "Beerpocalypse 12oz | $4.50\nWR Wraspberry, Duke Lager, Wildrose IPA, Mount Crushm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$5 Shafts",
+      "price": 5.0,
+      "description": "$5 Shafts",
+      "category": "DRINK",
+      "simplified_description": "$5 Shafts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brunch Buffet",
+      "price": 20.0,
+      "description": "Brunch Buffet - $20\nComes with a bud, bud light, mimosa, or 1oz Caesar",
+      "category": "FOOD",
+      "simplified_description": "Brunch Buffet - $20\nComes with a bud, bud light, mimosa, or 1oz Caesar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wingsanity!!",
+      "price": 10.0,
+      "description": "Wingsanity!! | 1LB - $10",
+      "category": "FOOD",
+      "simplified_description": "Wingsanity!! | 1LB - $10",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8″ – **$15**",
+      "price": 15.0,
+      "description": "8″ – **$15**",
+      "category": "FOOD",
+      "simplified_description": "8″ – **$15**",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10″ – **$18**",
+      "price": 18.0,
+      "description": "10″ – **$18**",
+      "category": "FOOD",
+      "simplified_description": "10″ – **$18**",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12″ – **$20**",
+      "price": 20.0,
+      "description": "12″ – **$20**",
+      "category": "FOOD",
+      "simplified_description": "12″ – **$20**",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$6 Bud, BUD LIGHT, KOKANEE GOLD",
+      "price": 6.0,
+      "description": "$6   \nBud, BUD LIGHT, KOKANEE GOLD",
+      "category": "DRINK",
+      "simplified_description": "$6   \nBud, BUD LIGHT, KOKANEE GOLD",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$6 Caesar 1oz",
+      "price": 6.0,
+      "description": "$6   \nCaesar 1oz",
+      "category": "DRINK",
+      "simplified_description": "$6   \nCaesar 1oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "C OF RED - $4 EVERY FLAME GAME",
+      "price": 4.0,
+      "description": "C OF RED - $4 EVERY FLAME GAME\nWiser’s Whiskey, Cranberry, Amaretto",
+      "category": "DRINK",
+      "simplified_description": "C OF RED - $4 EVERY FLAME GAME\nWiser’s Whiskey, Cranberry, Amaretto",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$5 Canadian, Coors Light, Coors Original",
+      "price": 5.0,
+      "description": "$5  \nCanadian, Coors Light, Coors Original   \n16oz  \n## *** flames games only ***",
+      "category": "DRINK",
+      "simplified_description": "$5  \nCanadian, Coors Light, Coors Original   \n16oz  \n## *** flames games only **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$6 Bud OR BUD LIGHT",
+      "price": 6.0,
+      "description": "$6  \nBud OR BUD LIGHT",
+      "category": "DRINK",
+      "simplified_description": "$6  \nBud OR BUD LIGHT",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

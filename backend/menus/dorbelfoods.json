@@ -1,0 +1,247 @@
+{
+  "restaurant": "dorbelfoods",
+  "parsed_at": "2026-02-06T02:04:46.422468",
+  "item_count": 16,
+  "items": [
+    {
+      "name": "Salmon Sockeye 10 Pcs 6oz",
+      "price": 128.0,
+      "description": "Salmon Sockeye 10 Pcs 6oz Regular price \n     $128.00  Sale price \n     $128.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Ten 6oz pieces of Sockeye salmon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Halibut Filets Box(6oz) 10 pcs",
+      "price": 170.0,
+      "description": "Halibut Filets Box(6oz) 10 pcs Regular price \n     $170.00  Sale price \n     $170.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Ten 6oz pieces of halibut filets.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Alaskan Cod",
+      "price": 90.0,
+      "description": "Alaskan Cod Regular price \n     $90.00  Sale price \n     $90.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Fresh Alaskan cod fish.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Haddock 12-16 Pcs/Box",
+      "price": 90.0,
+      "description": "Haddock 12-16 Pcs/Box Regular price \n     $90.00  Sale price \n     $90.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Box of 12 to 16 pieces of haddock.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mahi Mahi BOX 10 Pcs",
+      "price": 130.0,
+      "description": "Mahi Mahi BOX 10 Pcs Regular price \n     $130.00  Sale price \n     $130.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Box of 10 pieces of mahi mahi fish.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon/Halibut/Trout -4/4/4",
+      "price": 156.0,
+      "description": "Salmon/Halibut/Trout -4/4/4 Regular price \n     $156.00  Sale price \n     $156.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Four pieces each of salmon, halibut, and trout.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pickerel BOX 8-12 -6-10 oz",
+      "price": 125.0,
+      "description": "Pickerel BOX 8-12 -6-10 oz Regular price \n     $125.00  Sale price \n     $125.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Box of 8 to 12 pickerel pieces weighing 6-10 oz each.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "4 Pack Seafood w halibut/salmon",
+      "price": 149.0,
+      "description": "4 Pack Seafood w halibut/salmon Regular price \n     $149.00  Sale price \n     $149.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Four-pack seafood including halibut and salmon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steelhead Trout Box 6oz-10 pcs",
+      "price": 145.0,
+      "description": "Steelhead Trout Box 6oz-10 pcs Regular price \n     $145.00  Sale price \n     $145.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Box of ten 6oz steelhead trout pieces.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna, Ahi 10 Pcs 6 oz",
+      "price": 130.0,
+      "description": "Tuna, Ahi 10 Pcs 6 oz Regular price \n     $130.00  Sale price \n     $130.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Ten 6oz pieces of Ahi tuna.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Arctic Char 10 Pcs /BOX",
+      "price": 170.0,
+      "description": "Arctic Char 10 Pcs /BOX Regular price \n     $170.00  Sale price \n     $170.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Box of 10 pieces of Arctic char fish.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "5/5-Salmon/Halibut 11-6oz Pcs",
+      "price": 150.0,
+      "description": "5/5-Salmon/Halibut 11-6oz Pcs Regular price \n     $150.00  Sale price \n     $150.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Five pieces each of salmon and halibut, 6oz each.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rainbow Trout BOX 12Pcs",
+      "price": 124.0,
+      "description": "Rainbow Trout BOX 12Pcs Regular price \n     $124.00  Sale price \n     $124.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Box of 12 pieces of rainbow trout.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "4 Pack Seafood w Pickerel/Salmon",
+      "price": 145.0,
+      "description": "4 Pack Seafood w Pickerel/Salmon Regular price \n     $145.00  Sale price \n     $145.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "FISH",
+      "simplified_description": "Four-pack seafood with pickerel and salmon.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Bubba Shrimp 1 Pack",
+      "price": 45.0,
+      "description": "Jumbo Bubba Shrimp 1 Pack Regular price \n     $45.00  Sale price \n     $45.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "SHELLFISH",
+      "simplified_description": "One pack of jumbo Bubba shrimp.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Bubba Shrimp Boxes",
+      "price": 180.0,
+      "description": "Jumbo Bubba Shrimp Boxes Regular price \n     $180.00  Sale price \n     $180.00  Regular price \nUnit price \n     /per \nSale Sold out",
+      "category": "SHELLFISH",
+      "simplified_description": "Large boxes of jumbo shrimp.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "restaurant": "crustbuds",
+  "parsed_at": "2026-02-06T01:53:09.475569",
+  "item_count": 55,
+  "items": [
+    {
+      "name": "Hick Strips & 5 Veggie Rolls",
+      "price": 41.99,
+      "description": "Choose 3 Toppings (1st Pizza) \nBacon\nBBQ Chicken\nBanana Pepper\nShow More",
+      "category": "OTHER",
+      "simplified_description": "A combo with hick strips and five vegetable rolls with customizable pizza toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chubby BUDS",
+      "price": 51.99,
+      "description": "Choose 3 Toppings (1st Pizza) \nBacon\nBBQ Chicken\nBanana Pepper\nShow More",
+      "category": "OTHER",
+      "simplified_description": "A large pizza with three customizable toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chunky BUDS",
+      "price": 84.99,
+      "description": "Choose 3 Toppings (1st Pizza) \nBacon\nBBQ Chicken\nBanana Pepper\nShow More",
+      "category": "OTHER",
+      "simplified_description": "Extra large pizza with three customizable toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Dressed",
+      "price": 15.99,
+      "description": "Pepperoni, Salami, Italian Sausage, Beef, Onion, Mushroom, Green Peppers, Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with various meats, vegetables, and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 15.99,
+      "description": "BBQ Sauce, Chicken BBQ, Onion, Green Peppers, Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza with BBQ chicken, sauce, onions, peppers, and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Delight",
+      "price": 15.99,
+      "description": "Chicken, Onion, Green Pepper, Tomatoes, Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with chicken and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crust Buds Special",
+      "price": 15.99,
+      "description": "Ham, Pepperoni, Shrimp, Mushroom, Black Olives, Onion, Green Peppers",
+      "category": "FOOD",
+      "simplified_description": "Pizza with ham, pepperoni, shrimp, and mixed vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Buds",
+      "price": 16.99,
+      "description": "Donair Meat, Onion, Tomatoes, Donair Sauce",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with donair meat, onions, tomatoes, and sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Delight",
+      "price": 15.99,
+      "description": "Black Olives, Green Pepper, Mushroom, Pineapple, Onion, Tomatoes",
+      "category": "FOOD",
+      "simplified_description": "Vegetable pizza with olives, peppers, mushrooms, pineapple, and tomatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Style",
+      "price": 15.99,
+      "description": "Pepperoni, Salami, Italian Sausage, Green Peppers, Black Olives",
+      "category": "FOOD",
+      "simplified_description": "Pizza with Italian meats, green peppers, and black olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Hawaiian",
+      "price": 15.99,
+      "description": "Bacon, Double Ham, Double Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with bacon, ham, and extra pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Buds",
+      "price": 15.99,
+      "description": "Feta Cheese, Onion, Ground Beef, Tomatoes, Green Peppers, Black Olives",
+      "category": "FOOD",
+      "simplified_description": "Pizza with feta, ground beef, vegetables, and olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Style",
+      "price": 15.99,
+      "description": "Green Peppers, Onion, Beef, Jalapeno, Chili Peppers",
+      "category": "FOOD",
+      "simplified_description": "Spicy pizza with beef, peppers, onions, and chili peppers.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mighty Meaty",
+      "price": 15.99,
+      "description": "Ham, Pepperoni, Salami, Beef, Italian Sausage",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with various meats including ham and sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Deluxe",
+      "price": 15.99,
+      "description": "Pepperoni, Bacon, Pineapple, Green Pepper, Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni, bacon, pineapple, peppers, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Superior Load",
+      "price": 15.99,
+      "description": "Pepperoni, Salami, Ham, Green Pepper, Onion, Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni, salami, ham, green pepper, onion, and mushroom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taco Supreme",
+      "price": 15.99,
+      "description": "Tomato Sauce, Beef, Onion, Fresh Tomatoes, Iceberg Lettuce, Ranch (Hot Sauce optional)",
+      "category": "FOOD",
+      "simplified_description": "Taco pizza with beef, tomato sauce, fresh veggies, and ranch dressing.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "CB1-A (Pepperoni)",
+      "price": 12.99,
+      "description": "Pepperoni\n10\"\n$12.99\n* * *\n12\"\n$14.99\n* * *\n14\"\n$16.99",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni pizza available in 10\", 12\", and 14\" sizes.",
+      "dietary_info": [],
+      "other_info": "Multiple sizes available"
+    },
+    {
+      "name": "Cheese",
+      "price": 13.99,
+      "description": "10\"\n$13.99\n* * *\n12\"\n$15.99\n* * *\n14\"\n$17.99",
+      "category": "FOOD",
+      "simplified_description": "Classic cheese pizza available in 10\", 12\", and 14\" sizes.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Multiple sizes available"
+    },
+    {
+      "name": "CB2-A (Ham & Pineapple)",
+      "price": 13.99,
+      "description": "Ham & Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with ham and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB2-B (Pepperoni & Pineapple)",
+      "price": 13.99,
+      "description": "Pepperoni & Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni and pineapple toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB2-C (Chicken & Pineapple)",
+      "price": 13.99,
+      "description": "Chicken & Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with chicken and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB2-D (Shrimp & Mushroom)",
+      "price": 13.99,
+      "description": "Shrimp & Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Pizza with shrimp and mushroom toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB2-E (Beef & Onion)",
+      "price": 13.99,
+      "description": "Beef & Onion",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with beef and onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB3-A (Ham, Pineapple & Mushroom)",
+      "price": 14.99,
+      "description": "Ham, Pineapple & Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Pizza with ham, pineapple, and mushroom toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB3-B (Pepperoni, Bacon & Mushroom)",
+      "price": 14.99,
+      "description": "Pepperoni, Bacon & Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with pepperoni, bacon, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB3-C (Beef, Mushroom & Green Pepper)",
+      "price": 14.99,
+      "description": "Beef, Mushroom & Green Pepper",
+      "category": "FOOD",
+      "simplified_description": "Pizza with beef, mushrooms, and green peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB3-D (Pepperoni, Mushroom & Green Pepper)",
+      "price": 14.99,
+      "description": "Pepperoni, Mushroom & Green Pepper",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with pepperoni, mushrooms, and green peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB3-E (Mushroom, Green Pepper & Onion)",
+      "price": 14.99,
+      "description": "Mushroom, Green Pepper & Onion",
+      "category": "FOOD",
+      "simplified_description": "Vegetable pizza with mushrooms, green peppers, and onions.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CB-Small (Make Your Own Tops)",
+      "price": 14.99,
+      "description": "10\" pizza w/ custom Toppings\nChoose Up To 3 Toppings (10\")\nCheese Only\nBacon\nBanana Pepper\nShow More",
+      "category": "FOOD",
+      "simplified_description": "10\" pizza with choice of up to 3 custom toppings.",
+      "dietary_info": [],
+      "other_info": "Customizable toppings"
+    },
+    {
+      "name": "CB-Medium (Make Your Own Tops)",
+      "price": 16.99,
+      "description": "12\" pizza w/ customToppings\nChoose Up To 3 Toppings (12\")\nCheese Only\nBacon\nBanana Pepper\nShow More",
+      "category": "FOOD",
+      "simplified_description": "12-inch pizza with up to 3 custom toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CB-Large (Make Your Own Tops)",
+      "price": 18.99,
+      "description": "14\" pizza w/ Custom Toppings\nChoose Up To 3 Toppings (14\")\nCheese Only\nBacon\nBanana Pepper\nShow More",
+      "category": "FOOD",
+      "simplified_description": "14-inch pizza with up to 3 custom toppings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza-Pasta (Large)",
+      "price": 52.99,
+      "description": "2 Large Pizzas (3 toppings) + 2 Baked Pasta",
+      "category": "OTHER",
+      "simplified_description": "Combo of 2 large pizzas with 3 toppings and 2 baked pasta dishes.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Pizza-Pasta (Med)",
+      "price": 48.99,
+      "description": "2 Medium Pizzas (3 toppings) + 2 Baked Pasta",
+      "category": "OTHER",
+      "simplified_description": "Combo of 2 medium pizzas with 3 toppings and 2 baked pasta dishes.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Pasta-Pasta",
+      "price": 23.99,
+      "description": "2 Baked Pasta w/ Meatballs & Garlic Toast **Baked Pasta comes with 2 Meatballs each & Garlic Toast",
+      "category": "OTHER",
+      "simplified_description": "Two baked pasta dishes with meatballs and garlic toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta-Ribs",
+      "price": 23.99,
+      "description": "1 Baked Pasta + Dry Ribs **Baked Pasta comes with Garlic Toast",
+      "category": "OTHER",
+      "simplified_description": "One baked pasta with garlic toast and dry ribs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strips-Fries (6 Strips + Fries)",
+      "price": 11.99,
+      "description": "6 Chicken Strips + Fries",
+      "category": "OTHER",
+      "simplified_description": "Six chicken strips served with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta",
+      "price": 12.99,
+      "description": "Meatballs are made up of Beef & Chicken \nNo Meatballs",
+      "category": "SIDE",
+      "simplified_description": "Pasta served with or without beef and chicken meatballs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "w/ 2 Meatballs",
+      "price": 13.99,
+      "description": "Pasta\nLasagna\nSpaghetti",
+      "category": "SIDE",
+      "simplified_description": "Pasta, lasagna, or spaghetti served with 2 meatballs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad",
+      "price": 3.99,
+      "description": "Tossed Salad",
+      "category": "SIDE",
+      "simplified_description": "Fresh tossed salad with mixed greens.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic Caesar salad with romaine and dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "price": 11.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Caesar salad topped with grilled chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dips",
+      "price": 1.99,
+      "description": "Ranch\nCheddar Chipotle\nGarlic",
+      "category": "SIDE",
+      "simplified_description": "Selection of ranch, cheddar chipotle, and garlic dips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Meatballs, 3 Veggie Rolls & Fries",
+      "price": 9.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Two meatballs, three vegetable rolls, and fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Chicken Wings",
+      "price": 10.99,
+      "description": "10 pcs of Baked Chicken Wings",
+      "category": "SIDE",
+      "simplified_description": "Ten pieces of baked chicken wings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips",
+      "price": 7.99,
+      "description": "6 pcs of Chicken Strips",
+      "category": "SIDE",
+      "simplified_description": "Six pieces of fried chicken strips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Spring Rolls",
+      "price": 7.99,
+      "description": "10 pcs Veggie Spring Rolls",
+      "category": "SIDE",
+      "simplified_description": "Ten vegetable spring rolls.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread with Pop in can",
+      "price": 4.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Garlic bread served with a canned soda.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Garlic Bread",
+      "price": 4.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Garlic bread topped with melted cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 6.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Classic fried potato French fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Wrap / Donair Wrap",
+      "price": 9.99,
+      "description": "Wrap\nChicken Caesar\nDonair",
+      "category": "SIDE",
+      "simplified_description": "Wraps with chicken Caesar or donair fillings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Ribs",
+      "price": 10.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Dry seasoned pork ribs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Ribs & Fries",
+      "price": 17.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Barbecue ribs served with French fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop in Can",
+      "price": 1.99,
+      "description": "Coke\nCanada Dry\nRootbeer",
+      "category": "DRINK",
+      "simplified_description": "Canned soda: Coke, Canada Dry, or Rootbeer.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2-Litre Pop",
+      "price": 4.99,
+      "description": "Coke\nCanada Dry\nRootbeer",
+      "category": "DRINK",
+      "simplified_description": "2-litre bottle of soda: Coke, Canada Dry, or Rootbeer.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

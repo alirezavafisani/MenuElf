@@ -1,0 +1,254 @@
+{
+  "restaurant": "fabrizios",
+  "parsed_at": "2026-02-06T02:09:43.100920",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "MISTA SALAD",
+      "price": 45.0,
+      "description": "A fresh mix of lettuce, cherry tomatoes, cucumbers, and red onion, lightly dressed in a classic red wine vinaigrette and Extra Virgin Olive Oil",
+      "category": "FOOD",
+      "simplified_description": "Fresh mixed salad with vegetables and red wine vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 45.0,
+      "description": "Classic caesar salad romaine, croutons, parmesan, classic dressing",
+      "category": "FOOD",
+      "simplified_description": "Romaine salad with croutons, parmesan, and classic Caesar dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MORTADELLA",
+      "price": null,
+      "description": "Mortadella, calabrese salami, sliced mozzarella, banana peppers, house vegi spread, arugula",
+      "category": "FOOD",
+      "simplified_description": "Sandwich with mortadella, salami, mozzarella, peppers, and arugula.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRUDO",
+      "price": null,
+      "description": "Proscuitto crudo, bocconcini, arugula, house balsamic drizzle, exrta virgin olive oil, oregano",
+      "category": "FOOD",
+      "simplified_description": "Prosciutto with bocconcini, arugula, balsamic, and olive oil.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VERDURA",
+      "price": null,
+      "description": "Bocconcini, cherry tomato, arugula, roasted red pepper, house balsamic drizzle, extra virgin olive oil, oregano",
+      "category": "FOOD",
+      "simplified_description": "Cheese and vegetable salad with balsamic and olive oil.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PENNE ROSÉ",
+      "price": 85.0,
+      "description": "penne in a creamy rosé sauce with ham and fresh mushrooms",
+      "category": "FOOD",
+      "simplified_description": "Penne pasta with creamy rosé sauce, ham, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI POMODORO",
+      "price": 75.0,
+      "description": "Spaghetti with San Marzano tomato sauce, parmesan and fresh basil",
+      "category": "FOOD",
+      "simplified_description": "Spaghetti with tomato sauce, parmesan cheese, and fresh basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TORTELLINI ROMANOFF",
+      "price": 85.0,
+      "description": "Beef tortellini in creamy vodka sauce with bacon, mushrooms and onions",
+      "category": "FOOD",
+      "simplified_description": "Beef tortellini in creamy vodka sauce with bacon and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA",
+      "price": 80.0,
+      "description": "Fresh pasta layered with beef and pork bolognese sauce, mozzarella & fresh basil",
+      "category": "FOOD",
+      "simplified_description": "Layered pasta with meat sauce, mozzarella, and basil.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PENNE ALFREDO",
+      "price": 85.0,
+      "description": "House made alfredo cream sauce, with parmigiano reggiano",
+      "category": "FOOD",
+      "simplified_description": "Penne pasta with creamy Alfredo sauce and parmesan cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "AMARETTI COOKIES",
+      "price": 35.0,
+      "description": "Homemade amaretti - gluten free",
+      "category": "DESSERT",
+      "simplified_description": "Gluten-free homemade amaretti cookies.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TIRAMISU",
+      "price": 80.0,
+      "description": "Layers of ladyfingers, smothered in sweet mascarpone cheese, espresso and cocoa powder",
+      "category": "DESSERT",
+      "simplified_description": "Layered dessert with ladyfingers, mascarpone, espresso, and cocoa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ASSORTED DESSERT PLATTER",
+      "price": 48.0,
+      "description": "Homemade peaches - siciliano cannoli - cream horn",
+      "category": "DESSERT",
+      "simplified_description": "Platter with peaches, Sicilian cannoli, and cream horn pastries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese cannoli",
+      "price": 3.95,
+      "description": "3.95. each",
+      "category": "DESSERT",
+      "simplified_description": "Single Calabrese cannoli pastry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Siciliano cannoli",
+      "price": 3.95,
+      "description": "3.95. each",
+      "category": "DESSERT",
+      "simplified_description": "Single Sicilian cannoli pastry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 28.0,
+      "description": "Tomato sauce, mozzarella, fresh basil",
+      "category": "FOOD",
+      "simplified_description": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PEPPERONI",
+      "price": 32.0,
+      "description": "Tomato sauce, mozzarella, pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with tomato sauce, mozzarella, and spicy pepperoni slices.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CALABRESE",
+      "price": 34.0,
+      "description": "Tomato sauce, mozzarella, home-made sausage, marinated roasted red peppers, mushrooms",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, sausage, roasted peppers, and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "STAGIONI",
+      "price": 34.0,
+      "description": "Tomato sauce, mozzarella, ham, mushrooms, olives, marinated artichokes",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with tomato sauce, mozzarella, ham, mushrooms, olives, and artichokes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "STUZZ",
+      "price": 35.0,
+      "description": "Tomato sauce, mozzarella, sliced tomato, bocconcini, fresh sliced prosciutto",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, tomato, bocconcini, and prosciutto.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CARNE",
+      "price": 34.0,
+      "description": "Tomato sauce, mozzarella, ham, pepperoni, house sausage",
+      "category": "FOOD",
+      "simplified_description": "Meat lover's pizza with tomato sauce, mozzarella, ham, pepperoni, and sausage.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETARIAN",
+      "price": 33.0,
+      "description": "Tomato sauce, mozzarella, marinated artichokes, mushrooms, black olives, red peppers",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pizza with tomato sauce, mozzarella, artichokes, mushrooms, olives, and peppers.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FABRI",
+      "price": 34.0,
+      "description": "Tomato sauce, mozzarella, anchovies, calabrese salami, mushrooms",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mozzarella, anchovies, salami, and mushrooms.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

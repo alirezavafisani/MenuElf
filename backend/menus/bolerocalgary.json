@@ -1,0 +1,406 @@
+{
+  "restaurant": "bolerocalgary",
+  "parsed_at": "2026-02-06T01:07:18.819537",
+  "item_count": 30,
+  "items": [
+    {
+      "name": "Johnnie Walker Red",
+      "price": 7.0,
+      "description": "### Johnnie Walker Red",
+      "category": "DRINK",
+      "simplified_description": "A popular blended Scotch whisky with a smooth, smoky flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chivas Regal",
+      "price": 7.0,
+      "description": "### Chivas Regal",
+      "category": "DRINK",
+      "simplified_description": "A rich and smooth blended Scotch whisky with honey and vanilla notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cointreau",
+      "price": 6.25,
+      "description": "### Cointreau",
+      "category": "DRINK",
+      "simplified_description": "A clear orange-flavored triple sec liqueur used in cocktails.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jagermeister",
+      "price": 6.25,
+      "description": "### Jagermeister",
+      "category": "DRINK",
+      "simplified_description": "A herbal liqueur with a complex blend of 56 herbs and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dubonnet Red",
+      "price": 6.25,
+      "description": "### Dubonnet Red",
+      "category": "DRINK",
+      "simplified_description": "A sweet, fortified wine with herbs and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Limoncello",
+      "price": 6.25,
+      "description": "### Limoncello",
+      "category": "DRINK",
+      "simplified_description": "A sweet Italian lemon liqueur served chilled.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Campari",
+      "price": 6.25,
+      "description": "### Campari",
+      "category": "DRINK",
+      "simplified_description": "A bitter, bright red Italian aperitif with herbal flavors.",
+      "dietary_info": [],
+      "other_info": "Bitter flavor"
+    },
+    {
+      "name": "Vermouth",
+      "price": 6.25,
+      "description": "### Vermouth",
+      "category": "DRINK",
+      "simplified_description": "A fortified wine flavored with various botanicals.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Remy Martin VSOP",
+      "price": 7.0,
+      "description": "### Remy Martin VSOP",
+      "category": "DRINK",
+      "simplified_description": "A fine aged cognac with rich and smooth flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Courvoisier VS",
+      "price": 7.0,
+      "description": "### Courvoisier VS",
+      "category": "DRINK",
+      "simplified_description": "A young cognac with fresh and fruity notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hennessy VS",
+      "price": 7.0,
+      "description": "### Hennessy VS",
+      "category": "DRINK",
+      "simplified_description": "A classic cognac with bold and spicy flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bordeaux",
+      "price": 10.5,
+      "description": "### Bordeaux\nTrois Maison, France",
+      "category": "DRINK",
+      "simplified_description": "A red wine from Bordeaux, France with rich and balanced flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cabernet Sauvignon",
+      "price": 9.0,
+      "description": "### Cabernet Sauvignon\nStone Cap, USA",
+      "category": "DRINK",
+      "simplified_description": "A full-bodied red wine with dark fruit and oak flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Carménère",
+      "price": 8.5,
+      "description": "### Carménère\nCasillero del Diablo, Chile",
+      "category": "DRINK",
+      "simplified_description": "A Chilean red wine with soft tannins and spicy notes.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chianti DOCG",
+      "price": 9.0,
+      "description": "### Chianti DOCG\nDa Vinci, Italy",
+      "category": "DRINK",
+      "simplified_description": "An Italian red wine with bright acidity and cherry flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Malbec",
+      "price": 9.5,
+      "description": "### Malbec\nLa Linda Old Vine, Argentina",
+      "category": "DRINK",
+      "simplified_description": "Red wine from Argentina with rich flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Merlot",
+      "price": 12.0,
+      "description": "### Merlot\nSandhill, Canada",
+      "category": "DRINK",
+      "simplified_description": "Smooth Canadian red wine with fruity notes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pinot Noir",
+      "price": 10.0,
+      "description": "### Pinot Noir\nSeven Terraces, New Zealand",
+      "category": "DRINK",
+      "simplified_description": "Light-bodied red wine from New Zealand.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shiraz",
+      "price": 7.5,
+      "description": "### Shiraz\nOxford Landing, Australia",
+      "category": "DRINK",
+      "simplified_description": "Bold Australian red wine with spicy flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tempranillo",
+      "price": 12.0,
+      "description": "### Tempranillo\nCeleste, Torres, Spain",
+      "category": "DRINK",
+      "simplified_description": "Spanish red wine with rich and fruity taste.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vinho Regional",
+      "price": 11.0,
+      "description": "### Vinho Regional\nLisboa Portada, Spain",
+      "category": "DRINK",
+      "simplified_description": "Regional Spanish wine with balanced flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Zinfandel",
+      "price": 9.0,
+      "description": "### Zinfandel\nSledgehammer, USA",
+      "category": "DRINK",
+      "simplified_description": "American red wine with bold and fruity notes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chardonnay",
+      "price": 10.0,
+      "description": "### Chardonnay\nJip Jip Rocks Unwooded, Australia",
+      "category": "DRINK",
+      "simplified_description": "Australian white wine with crisp, fresh taste.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gewürztraminer",
+      "price": 9.0,
+      "description": "### Gewürztraminer\nFetzer, USA",
+      "category": "DRINK",
+      "simplified_description": "Aromatic white wine from the USA with floral notes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pinot Grigio",
+      "price": 10.0,
+      "description": "### Pinot Grigio\nBollini, Italy",
+      "category": "DRINK",
+      "simplified_description": "Light Italian white wine with crisp flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Riesling",
+      "price": 10.0,
+      "description": "### Riesling\nVineland Semi Dry, Canada",
+      "category": "DRINK",
+      "simplified_description": "Semi-dry Canadian white wine with fruity aroma.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sauvignon Blanc",
+      "price": 9.0,
+      "description": "### Sauvignon Blanc\nJa Ja de Jau, France",
+      "category": "DRINK",
+      "simplified_description": "French white wine with fresh and zesty taste.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rosé",
+      "price": 10.0,
+      "description": "### Rosé\nLa Demoiselle, France",
+      "category": "DRINK",
+      "simplified_description": "French rosé wine with light and fruity flavor.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prosecco",
+      "price": 9.0,
+      "description": "### Prosecco\nCanella, Italy",
+      "category": "DRINK",
+      "simplified_description": "Italian sparkling white wine, light and bubbly.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vidal Ice Wine",
+      "price": 12.0,
+      "description": "### Vidal Ice Wine\nInniskillin, Canada",
+      "category": "DRINK",
+      "simplified_description": "Sweet Canadian ice wine made from Vidal grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

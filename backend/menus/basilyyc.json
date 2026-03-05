@@ -1,0 +1,619 @@
+{
+  "restaurant": "basilyyc",
+  "parsed_at": "2026-02-06T00:59:28.750659",
+  "item_count": 59,
+  "items": [
+    {
+      "name": "Deep Fried Quails (4)",
+      "price": 14.75,
+      "description": "Marinated deep fried quails",
+      "category": "FOOD",
+      "simplified_description": "Four marinated quails deep fried to a crispy finish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Basil’s Special Salad",
+      "price": 11.5,
+      "description": "Mixed greens, tomato, cucumbers & Boiled eggs tossed with Basil’s homemade vinaigrette",
+      "category": "FOOD",
+      "simplified_description": "Mixed greens salad with tomato, cucumber, boiled eggs, and vinaigrette.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Thịt Nướng Chả Giò",
+      "price": 17.5,
+      "description": "Grilled Pork & Spring Rolls Vermicelli",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with grilled pork and spring rolls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Thịt Nướng",
+      "price": 17.5,
+      "description": "Grilled Pork & Vermicelli",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles served with grilled pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Chả Giò",
+      "price": 17.5,
+      "description": "Spring Rolls Vermicelli",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with spring rolls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Tôm Chiên, Chả Giò",
+      "price": 18.75,
+      "description": "Grilled Prawns & Spring Rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with grilled prawns and spring rolls.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Bò Xào Xả, Chả Giò",
+      "price": 18.5,
+      "description": "Lemongrass Beef & Spring Rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with lemongrass beef and spring rolls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Gà Xào Xả, Chả Giò",
+      "price": 18.5,
+      "description": "Lemongrass Chicken & Fried Pork Spring rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with lemongrass chicken and fried pork spring rolls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Bò Sate & Chả Giò",
+      "price": 18.5,
+      "description": "Sate Beef & Fried Pork Spring Rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with sate beef and fried pork spring rolls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Gà Sate & Chả Giò (Spicy)",
+      "price": 18.5,
+      "description": "Sate Chicken (Spicy) & Fried Pork Spring rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with spicy sate chicken and fried pork spring rolls.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bún Nem Nướng, Chả Giò",
+      "price": 18.5,
+      "description": "Grilled marinated Pork Meat Balls & Fried Pork Spring Rolls",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli noodles with grilled pork meatballs and fried pork spring rolls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Bò, Gà, Tôm Sate (Spicy)",
+      "price": 19.0,
+      "description": "Basil’s Sate Combo (Spicy)",
+      "category": "FOOD",
+      "simplified_description": "Spicy sate combo with beef, chicken, and prawns.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bún Cà Ri Gà",
+      "price": 19.0,
+      "description": "Curry Chicken chicken, potato & carrots in curry & coconut milk broth served with vermicelli noodles, side bean sprouts, basil, lime & chili peppers",
+      "category": "FOOD",
+      "simplified_description": "Chicken curry with vegetables and vermicelli noodles, served with fresh sides.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bún Cà Ri Bò",
+      "price": 19.0,
+      "description": "Curry Beef Beef, potato & carrots in curry & coconut milk broth served with vermicelli noodles, side bean sprouts, basil, lime & chili peppers.",
+      "category": "FOOD",
+      "simplified_description": "Beef curry with vegetables and vermicelli noodles, served with fresh sides.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cá Chiên Cuốn Bánh Tráng",
+      "price": 21.95,
+      "description": "Salmon Wrap (Dinner only for one) “Do it yourself” soft salad roll wrapped with Grilled Salmon, lettuce, cucumber, basil & rice vermicelli served with “Nước Mắm” dipping sauce.",
+      "category": "FOOD",
+      "simplified_description": "DIY salmon salad roll with grilled salmon and fresh vegetables.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": "Dinner only for one"
+    },
+    {
+      "name": "Grilled Pork Chop",
+      "price": 17.55,
+      "description": "Grilled Pork Chop served with steamed rice, top with Vietnamese scallion oil, Nuoc Man dipping sauce & side of seasonal green.",
+      "category": "FOOD",
+      "simplified_description": "Grilled pork chop with rice, scallion oil, dipping sauce, and seasonal greens.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Sườn Nướng, Trứng Chiên",
+      "price": 19.0,
+      "description": "Grilled Pork Chop & Pan Fried Egg served with steamed rice, top with Vietnamese scallion oil, Nuớc Mắn dipping sauce & side of seasonal green.",
+      "category": "FOOD",
+      "simplified_description": "Grilled pork chop and fried egg with rice, scallion oil, dipping sauce, and greens.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Com Cà Ri Gà",
+      "price": 19.0,
+      "description": "Chicken potato & carrots in curry & coconut milk sauce served with steamed rice & side of seasonal green.",
+      "category": "FOOD",
+      "simplified_description": "Chicken curry with potatoes, carrots, coconut milk, rice, and seasonal greens.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Com Cà Ri Bò",
+      "price": 19.0,
+      "description": "Beef, potato & carrots in curry & coconut milk sauce served with steamed rice & side of seasonal green.",
+      "category": "FOOD",
+      "simplified_description": "Beef curry with potatoes, carrots, coconut milk, rice, and seasonal greens.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Cà Ri Hải Sản",
+      "price": 20.75,
+      "description": "Assorted Seafood, potato & carrots in curry & coconut milk sauce served with steamed rice & side of seasonal green.",
+      "category": "FOOD",
+      "simplified_description": "Seafood curry with potatoes, carrots, coconut milk, rice, and seasonal greens.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Gà Xào, Rau Cải",
+      "price": 19.5,
+      "description": "Chicken Stir-fried with mixed vegetables served with steamed rice.",
+      "category": "FOOD",
+      "simplified_description": "Chicken stir-fried with vegetables served with steamed rice.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Bò Xào, Rau Cải",
+      "price": 19.5,
+      "description": "Beef stir-fried with mixed vegetables served with steamed rice.",
+      "category": "FOOD",
+      "simplified_description": "Beef stir-fried with vegetables served with steamed rice.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Hải Sản Xào Rau Cải",
+      "price": 20.75,
+      "description": "Assorted seafood & mixed vegetables served with steamed rice.",
+      "category": "FOOD",
+      "simplified_description": "Seafood stir-fried with vegetables served with steamed rice.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Cá Hồi Chiên xả",
+      "price": 21.95,
+      "description": "Salmon filet marinated with lemongrass served with steam rice & side of seasonal greens.",
+      "category": "FOOD",
+      "simplified_description": "Lemongrass marinated salmon with steamed rice and seasonal greens.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Cá Kho Tộ",
+      "price": 21.95,
+      "description": "Salmon filet simmered in black pepper, scallion & Basil’s special sauce served with steamed rice & side of seasonal greens.",
+      "category": "FOOD",
+      "simplified_description": "Salmon simmered in pepper and special sauce with rice and greens.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Bò Lúc Lắc",
+      "price": 19.5,
+      "description": "Shaking Beef. Wok tossed marinated steak cubes & sauteed onions served with steamed rice & side of seasonal greens.",
+      "category": "FOOD",
+      "simplified_description": "Marinated steak cubes with onions, rice, and seasonal greens.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Chim Cút Chiên",
+      "price": 19.5,
+      "description": "Deep Fried Quails on Marinated Rice.",
+      "category": "FOOD",
+      "simplified_description": "Deep fried quail served on marinated rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bò Kho",
+      "price": 19.5,
+      "description": "Vietnamese Beef Stew Beef stew simmered with carrots & potatoes served with choice of baguette, rice or rice noodles",
+      "category": "FOOD",
+      "simplified_description": "Beef stew with carrots and potatoes served with bread, rice, or noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Chiên",
+      "price": 19.5,
+      "description": "Chicken or Seafood Fried Rice (Dinner only)",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with chicken or seafood, available at dinner only.",
+      "dietary_info": [],
+      "other_info": "Dinner only"
+    },
+    {
+      "name": "Phở Sate Bò",
+      "price": 17.5,
+      "description": "Beef Sate (Spicy) (contains peanut sauce) Mekong style beef sate in spicy coconut cream broth noodle",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef sate noodle soup with peanut sauce in coconut cream broth.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Contains peanut sauce"
+    },
+    {
+      "name": "Phở Sate Gà",
+      "price": 17.5,
+      "description": "Chicken Sate (Spicy) (contains peanut sauce) Mekong style chicken sate in spicy coconut cream broth noodle soup.",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken sate noodle soup with peanut sauce and coconut cream broth.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Sate Hải Sản",
+      "price": 18.75,
+      "description": "Seafood Sate (Spicy) (contains peanut sauce) Mekong style seafood sate in spicy coconut cream broth noodle soup",
+      "category": "FOOD",
+      "simplified_description": "Spicy seafood sate noodle soup with peanut sauce and coconut cream broth.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Đặc Biệt",
+      "price": 16.5,
+      "description": "Noodle soup with eye round steak, flank, tendon, tripe, fatty flan and beef balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with various beef cuts and beef balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái",
+      "price": 16.5,
+      "description": "Noodle soup with rare eye round steak",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with rare eye round steak.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái Bò Viên",
+      "price": 16.5,
+      "description": "Noodle soup with eye round steak and beef balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with eye round steak and beef balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái Gân",
+      "price": 16.5,
+      "description": "Noodle soup with eye round steak and Tendon",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with eye round steak and tendon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái Gầu, Bò Viên",
+      "price": 16.5,
+      "description": "Noodle soup with eye round steak, tendon and beef balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with eye round steak, tendon, and beef balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái Sách",
+      "price": 16.5,
+      "description": "Noodle soup with eye round steak, tripe",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with eye round steak and tripe.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái Sách Bò Viên",
+      "price": 16.5,
+      "description": "Noodle soup with eye round steak, tripe and beef balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with eye round steak, tripe, and beef balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Chín Nạm",
+      "price": 16.5,
+      "description": "Noodle soup with Cooked Beef and Flank",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with cooked beef and flank.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Chín Nam Về Dòn",
+      "price": 16.5,
+      "description": "Noodle soup with Cooked Beef, Skirt flank",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with cooked beef and skirt flank.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Chín Nam Bò Viên",
+      "price": 16.5,
+      "description": "Noodle soup with Cooked Beef, flank and beef balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with cooked beef, flank, and beef balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Bò Viên",
+      "price": 16.5,
+      "description": "Noodle soup with Beef Balls",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with beef balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Gà",
+      "price": 16.5,
+      "description": "Noodle soup with Shredded Chicken",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with shredded chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Hải Sản",
+      "price": 17.5,
+      "description": "Noodle soup with mixed seafood",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with mixed seafood.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hoành Thánh",
+      "price": 15.25,
+      "description": "Shrimp, Pork Won Ton & mixed vegetables in clear soup",
+      "category": "FOOD",
+      "simplified_description": "Shrimp and pork wontons with mixed vegetables in clear soup.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hoành Thánh Mì",
+      "price": 15.25,
+      "description": ".",
+      "category": "FOOD",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Đặc Biệt",
+      "price": 11.95,
+      "description": "Oven warm French baguette served with Sate Beef and Chicken, spread with whipped mayo, pickled carrots, cucumber & cilantro.",
+      "category": "FOOD",
+      "simplified_description": "French baguette with sate beef, chicken, mayo, and pickled vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Bò Sate",
+      "price": 10.25,
+      "description": "Oven warm French baguette served with Sate Beef, spread with whipped mayo, pickled carrots, cucumber & cilantro",
+      "category": "FOOD",
+      "simplified_description": "French baguette with sate beef, mayo, and pickled vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Gà Sate",
+      "price": 10.25,
+      "description": "Oven warm French baguette served with Sate Chicken, spread with whipped mayo, pickled carrots, cucumber & cilantro",
+      "category": "FOOD",
+      "simplified_description": "French baguette with sate chicken, mayo, and pickled vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Gà Xé",
+      "price": 10.25,
+      "description": "Oven warm French baguette served with Shredded Chicken, spread with whipped mayo, pickled carrots, cucumber & cilantro.",
+      "category": "FOOD",
+      "simplified_description": "French baguette with shredded chicken, mayo, and pickled vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Chay",
+      "price": 9.5,
+      "description": "Oven warm French baguette served with tofu, pickled carrots, cucumber & cilantro, spread with whipped mayo",
+      "category": "FOOD",
+      "simplified_description": "French baguette with tofu, mayo, and pickled vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gỏi Cuốn Chay",
+      "price": 10.25,
+      "description": "Vegetarian Summer Rolls (3) Soft Salad roll, filled with lettuce, fresh herbs, tofu, jicama, carrots & rice vermicelli served with peanut sauce dipping.",
+      "category": "FOOD",
+      "simplified_description": "Three vegetarian summer rolls with tofu and vegetables, served with peanut sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chả Giò Chay",
+      "price": 10.25,
+      "description": "Vegetarian Fried Spring Rolls (4) Deep fried spring rolls filled with Taro, clear noodles, carrots & onions served with “Nước Mắm” dipping sauce.",
+      "category": "FOOD",
+      "simplified_description": "Four vegetarian fried spring rolls with taro and vegetables, served with dipping sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pho Sate Chay",
+      "price": 14.95,
+      "description": "Vegetarian Pho Sate (spicy) Mekongstyle vegetarian pho sate in creamy, spicy beef broth served with side bean sprouts, basil, lime & chili peppers",
+      "category": "FOOD",
+      "simplified_description": "Spicy vegetarian pho in creamy broth with herbs and chili peppers.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Pho Chay",
+      "price": 13.75,
+      "description": "Vegetarian Pho Served with side bean sprouts, basil, lime & chili peppers in beef broth",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pho with herbs, bean sprouts, lime, and chili peppers.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Xào Rau Cải Chay",
+      "price": 18.5,
+      "description": "Vegetarian stir Fry With Vermicelli Noodles Mixed vegetables & tofu served with rice vermicelli noodles. Stir fried in Basil’s special vegetarian sauce.",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian stir-fry with tofu, vegetables, and vermicelli noodles.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Xào Rau Cải Chay",
+      "price": 18.5,
+      "description": "Vegetarian Stir Fry & Rice Mixed Vegetables & Tofu stir fried in Basil’s special vegetarian sauce served with steamed rice.",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian stir-fried tofu and vegetables served with steamed rice.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Cà Ri Rau Cải Chay",
+      "price": 18.5,
+      "description": "Vegetarian Curry With Rice Mixed vegetables & Tofu in Curry & Coconut Sauce served with steamed rice.",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian curry with tofu and vegetables in coconut sauce with rice.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    }
+  ]
+}

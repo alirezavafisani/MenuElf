@@ -1,0 +1,337 @@
+{
+  "restaurant": "unapizzeria",
+  "total_items": 47,
+  "text_items": 47,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "margherita",
+      "price": "21",
+      "description": "tomato sauce, fior di latte, grana padano, basil oil, maldon salt",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "margherita deluxe",
+      "price": "31",
+      "description": "tomato sauce, burrata, basil pesto, fresh basil, grana padano, maldon salt",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "the local",
+      "price": "27",
+      "description": "no sauce, smoked bacon + fennel sausage, smoked mozzarella, maple syrup, cracked pepper",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "vegetarian",
+      "price": "26",
+      "description": "sun-dried tomato pesto, roasted red peppers, mushrooms, red onion, artichokes, local honey, mozzarella + feta, fresh parsley",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "buffalo cali club",
+      "price": "27",
+      "description": "frank\u2019s tomato sauce, chicken, bacon, provolone, red onion, green onion, garlic butter + avocado ranch",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "mushroom",
+      "price": "26",
+      "description": "no sauce, cremini mushrooms, smoked mozzarella, grana padano, truffle oil, fresh arugula",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "4-maggi",
+      "price": "27",
+      "description": "no sauce, provolone, mozzarella, fior di latte, pecorino romano, UNA\u2019s truffle honey, cracked pepper",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "prawn pesto",
+      "price": "27",
+      "description": "creamy pesto, fior di latte, sun-dried tomatoes, grana padano",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "quattro carn\u00e9",
+      "price": "26",
+      "description": "tomato sauce, prosciutto, pepperoni, fennel sausage, bacon, mozzarella, grana padano",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "pepperoni",
+      "price": "24",
+      "description": "tomato sauce, pepperoni, mozzarella",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "sweet + spicy",
+      "price": "26",
+      "description": "tomato sauce, prosciutto + chorizo, mozzarella, banana peppers, habanero honey, fresh arugula",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "tiki",
+      "price": "25",
+      "description": "tomato sauce, shaved pineapple, prosciutto, mozzarella, jalape\u00f1o oil",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "herbivore",
+      "price": "24",
+      "description": "tomato sauce, cremini mushrooms, cherry tomatoes, roasted red peppers, kalamata olives, red onion, spinach, banana peppers, basil oil \u2013 add vegan cheese or mozzarella +$3 \u2013",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "kids cheese pizza",
+      "price": "10",
+      "description": "8\u2033 pizza (four slices). tomato sauce + cheese",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "kids pepperoni pizza",
+      "price": "12",
+      "description": "8\u2033 pizza (four slices). tomato sauce + pepperoni + cheese",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "kids spaghettini bolognese",
+      "price": "10",
+      "description": "spaghettini + bolognese + cheese",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "kids spaghettini pomodoro",
+      "price": "9.00",
+      "description": "spaghettini + tomato sauce + cheese",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "kids spaghettini with butter",
+      "price": "9",
+      "description": "spaghettini + butter + cheese",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "caramel pot de cr\u00e8me",
+      "price": "13",
+      "description": "whipped cream, dulce de leche, maldon salt",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "potted vanilla cheesecake",
+      "price": "13",
+      "description": "graham cracker crust, mixed berry compote",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "panna cotta",
+      "price": "13",
+      "description": "pistachio panna cotta, white chocolate ganache",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "tiramisu donuts",
+      "price": "13",
+      "description": "chocolate mascarpone espresso cream, cinnamon sugar",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "dessert tasting",
+      "price": "35",
+      "description": "all three of our potted desserts | pot de cr\u00e8me, vanilla cheesecake, pistachio panna cotta",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "community love plate",
+      "price": "18",
+      "description": "grilled cheese + tomato soup: roasted red pepper + tomato soup, sourdough grilled cheese sandwich (mozzarella, gruyere swiss cheese, dijon mustard, pickle)",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "community love pizza",
+      "price": "30",
+      "description": "the love child : the love child of our two top selling pizzas: the local and the 4-maggi. no sauce, provolone, mozzarella, fior di latte, pecorino romano, smoked bacon, fennel sausage, UNA\u2019s truffle honey, cracked black pepper",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "red sangria",
+      "price": "12",
+      "description": "red wine, raspberry, cranberry, triple sec, simple syrup, lime",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "white sangria",
+      "price": "12",
+      "description": "white wine, lychee, triple sec, simple syrup, lime",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "pink sangria",
+      "price": "12",
+      "description": "ros\u00e9 wine, sparkling wine, apricot brandy, triple sec, simple syrup, lime",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "cucumber melon pisco sour",
+      "price": "17",
+      "description": "cucumber melon green tea infused pisco, melon liqueur, vanilla syrup, lime (2.5oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "brown butter old fashioned",
+      "price": "14",
+      "description": "brown butter washed bourbon, demerara sugar, bitters (2oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "cousins beach",
+      "price": "16",
+      "description": "tequila, green chartreuse, guava, grapefruit, lime, himalayan salt rim (2oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "bombay dreams",
+      "price": "14",
+      "description": "chai infused bourbon, vanilla liqueur, sweet vermouth, vanilla chai syrup, citrus, bitters (2oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "poison + wine",
+      "price": "16",
+      "description": "gin, rosemary infused dry vermouth, cocchi americano, tarragon red wine syrup (2.5oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "minute maid",
+      "price": "13",
+      "description": "gin, ginger liqueur, spiced apple syrup, bitters (2oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "tan lines",
+      "price": "18",
+      "description": "turmeric ginger peach tea infused rum, lime, pineapple, banana + ginger liqueurs, tiki bitters (2.5oz)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "sand castles",
+      "price": "15",
+      "description": "zero proof mango + passion fruit rum, turmeric ginger peach tea, pineapple, lime",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "sunset squeeze",
+      "price": "11",
+      "description": "zero proof mezcal, guava, grapefruit, lime",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "queen of queens",
+      "price": "11",
+      "description": "zero proof whisky, chai tea, vanilla chai syrup, citrus",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "jam jar",
+      "price": "14",
+      "description": "zero proof whisky, raspberry, vanilla syrup, oat milk, lemon, soda",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "UNA lager",
+      "price": null,
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "UNA House Sparkling",
+      "price": "12",
+      "description": "Cr\u00e8mant de Limoux Brut, chardonnay/chenin blanc/pinot noir, France",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Paltrinieri, 'Solco'",
+      "price": "13",
+      "description": "Lambrusco dell\u2019Emilia IGT, lambrusco salamino, Emilia-Romagna, Italy",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "L'Ora",
+      "price": "13",
+      "description": "pinot grigio,Veneto, Italy",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Jackson Estate, 'Stich'",
+      "price": "13",
+      "description": "sauvignon blanc, Marlborough, New Zealand",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Protea",
+      "price": "13",
+      "description": "chenin blanc, Western Cape, South Africa",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Giuliana Vicini",
+      "price": "13",
+      "description": "pecorino, Abruzzo, Italy",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "UNA House White",
+      "price": "12",
+      "description": "sauvignon blanc/s\u00e9millon/muscadelle, Bordeaux",
+      "category": "DRINK",
+      "source": "text"
+    }
+  ]
+}

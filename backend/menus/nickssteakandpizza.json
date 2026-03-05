@@ -1,0 +1,825 @@
+{
+  "restaurant": "nickssteakandpizza",
+  "parsed_at": "2025-12-25T01:10:48.230804",
+  "item_count": 90,
+  "items": [
+    {
+      "name": "NICK'S STEAK SANDWICH",
+      "price": 46,
+      "description": "Top sirloin served on a thick slice of garlic toast.",
+      "simplified_description": "A steak sandwich made with top sirloin on garlic toast.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOP SIRLOIN",
+      "price": 37,
+      "description": "6 oz. center cut",
+      "simplified_description": "A 6 oz. cut of top sirloin steak.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOP SIRLOIN",
+      "price": 45,
+      "description": "8 oz. center cut",
+      "simplified_description": "An 8 oz. cut of top sirloin steak.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOP SIRLOIN",
+      "price": 65,
+      "description": "12 oz. center cut",
+      "simplified_description": "A 12 oz. cut of top sirloin steak.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RIBEYE",
+      "price": 82,
+      "description": "12 oz. Marbled and tender–this boneless cut comes from the centre of the prime rib.",
+      "simplified_description": "A tender 12 oz. ribeye steak from the prime rib.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NEW YORK STRIPLOIN",
+      "price": 73,
+      "description": "10 oz. Full-bodied flavour–this steak is the favourite of many beef connoisseurs.",
+      "simplified_description": "A flavorful 10 oz. New York striploin steak.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FILET",
+      "price": 60,
+      "description": "6 oz. The most tender of all cuts–melts in your mouth.",
+      "simplified_description": "A 6 oz. filet steak, very tender.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALGARY CUT",
+      "price": 110,
+      "description": "24 oz. 1 ½ Lbs. of center cut Alberta sirloin. Hope you’re hungry!",
+      "simplified_description": "A large 24 oz. Alberta sirloin steak.",
+      "category": "Steak",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NICK'S SPECIAL",
+      "price": 28,
+      "description": "Pepperoni, mushroom, ham, green pepper, sliced olive, onion.",
+      "simplified_description": "A pizza with various toppings including pepperoni and vegetables.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "10\""
+    },
+    {
+      "name": "NICK'S SPECIAL",
+      "price": 38,
+      "description": "Pepperoni, mushroom, ham, green pepper, sliced olive, onion.",
+      "simplified_description": "A pizza with various toppings including pepperoni and vegetables.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "14\""
+    },
+    {
+      "name": "VEGETARIAN",
+      "price": 28,
+      "description": "Mushroom, green pepper, fresh tomato, pineapple, onion.",
+      "simplified_description": "A vegetarian pizza with various vegetables.",
+      "category": "Pizza",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "10\""
+    },
+    {
+      "name": "VEGETARIAN",
+      "price": 38,
+      "description": "Mushroom, green pepper, fresh tomato, pineapple, onion.",
+      "simplified_description": "A vegetarian pizza with various vegetables.",
+      "category": "Pizza",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "14\""
+    },
+    {
+      "name": "PETROS SPECIAL",
+      "price": 28,
+      "description": "Pepperoni, salami, ham, beef, meat sauce.",
+      "simplified_description": "A meat lover's pizza with various meats.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "10\""
+    },
+    {
+      "name": "PETROS SPECIAL",
+      "price": 38,
+      "description": "Pepperoni, salami, ham, beef, meat sauce.",
+      "simplified_description": "A meat lover's pizza with various meats.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "14\""
+    },
+    {
+      "name": "ATHENIAN",
+      "price": 28,
+      "description": "Ham, Kalamata olive, fresh tomato, feta.",
+      "simplified_description": "A pizza with ham, olives, tomatoes, and feta cheese.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "10\""
+    },
+    {
+      "name": "ATHENIAN",
+      "price": 38,
+      "description": "Ham, Kalamata olive, fresh tomato, feta.",
+      "simplified_description": "A pizza with ham, olives, tomatoes, and feta cheese.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "14\""
+    },
+    {
+      "name": "MEATBALL",
+      "price": 28,
+      "description": "Meat sauce, crumbled meatballs, chili flake, mozzarella, parmesan, parsley chimichurri.",
+      "simplified_description": "A pizza with meat sauce and meatballs.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "10\""
+    },
+    {
+      "name": "MEATBALL",
+      "price": 38,
+      "description": "Meat sauce, crumbled meatballs, chili flake, mozzarella, parmesan, parsley chimichurri.",
+      "simplified_description": "A pizza with meat sauce and meatballs.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "14\""
+    },
+    {
+      "name": "DIAVOLO",
+      "price": 28,
+      "description": "Calabrese pepperoni, Spolumbo sausage, red and green onion, chili flake, mozzarella, parmesan, house-made spicy honey.",
+      "simplified_description": "A spicy pizza with various meats and honey.",
+      "category": "Pizza",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "10\""
+    },
+    {
+      "name": "DIAVOLO",
+      "price": 38,
+      "description": "Calabrese pepperoni, Spolumbo sausage, red and green onion, chili flake, mozzarella, parmesan, house-made spicy honey.",
+      "simplified_description": "A spicy pizza with various meats and honey.",
+      "category": "Pizza",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "14\""
+    },
+    {
+      "name": "TACO SPECIAL",
+      "price": 28,
+      "description": "Taco beef, lettuce, fresh tomato, cheddar, salsa, sour cream.",
+      "simplified_description": "A taco-themed pizza with beef and toppings.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "10\""
+    },
+    {
+      "name": "TACO SPECIAL",
+      "price": 38,
+      "description": "Taco beef, lettuce, fresh tomato, cheddar, salsa, sour cream.",
+      "simplified_description": "A taco-themed pizza with beef and toppings.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": "14\""
+    },
+    {
+      "name": "BUILD YOUR OWN PIZZA",
+      "price": 22,
+      "description": "10\" Cheese",
+      "simplified_description": "A 10\" cheese pizza.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUILD YOUR OWN PIZZA",
+      "price": null,
+      "description": "Each Additional Regular Topping - $2.5",
+      "simplified_description": "Cost for each regular topping on the pizza.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUILD YOUR OWN PIZZA",
+      "price": 30,
+      "description": "14\" Cheese",
+      "simplified_description": "A 14\" cheese pizza.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUILD YOUR OWN PIZZA",
+      "price": null,
+      "description": "Each Additional Regular Topping - $3",
+      "simplified_description": "Cost for each regular topping on the pizza.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUILD YOUR OWN PIZZA",
+      "price": null,
+      "description": "Each Additional Specialty Topping - $4",
+      "simplified_description": "Cost for each specialty topping on the pizza.",
+      "category": "Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC TOAST",
+      "price": 2.5,
+      "description": "Available in a single piece or a five-piece basket - $11.",
+      "simplified_description": "Garlic toast available in single or basket.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC CHEESE TOAST",
+      "price": 4,
+      "description": "Available as a single piece or 3-piece basket - $11.",
+      "simplified_description": "Garlic toast with cheese available in single or basket.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POTATO SKINS",
+      "price": 15,
+      "description": "Mozzarella, cheddar, green onions, bacon, sour cream.",
+      "simplified_description": "Potato skins topped with cheese and bacon.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIZZA BREAD",
+      "price": 17,
+      "description": "With house dipping sauce. Add meat sauce for $4.",
+      "simplified_description": "Bread with dipping sauce, optional meat sauce.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BRUSCHETTA",
+      "price": 15,
+      "description": "Sliced baguette, tomatoes, onions, garlic, feta.",
+      "simplified_description": "Bread topped with tomatoes, onions, garlic, and feta.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DRY RIBS (1lb)",
+      "price": 18,
+      "description": "Bone-in riblets with a choice of sauce: Nick's Special, Original, Hot, Medium, Greek, Sweet & Sour, Honey Mustard, Salt & Pepper.",
+      "simplified_description": "Riblets with various sauce options.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WINGS (1lb)",
+      "price": 18,
+      "description": "Choice of sauce: Nick's Special, Hot, Medium, Honey Mustard, Honey Garlic, Greek, Salt & Pepper.",
+      "simplified_description": "Chicken wings with various sauce options.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BASKET OF FRIES",
+      "price": 12,
+      "description": "",
+      "simplified_description": "A basket of fries.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAUTÉED MUSHROOMS",
+      "price": 15,
+      "description": "Sizzling skillet with wine, lemon, herbs & spices.",
+      "simplified_description": "Mushrooms sautéed with wine and herbs.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC PRAWNS",
+      "price": 19,
+      "description": "White wine, butter, garlic, cream.",
+      "simplified_description": "Prawns cooked in garlic and cream sauce.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION CHIPS",
+      "price": 14,
+      "description": "Lightly breaded, served with house or ranch dipping sauce.",
+      "simplified_description": "Breaded onion chips with dipping sauce.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NACHOS",
+      "price": 25,
+      "description": "Cheese, jalapeño, olives, tomatoes, salsa, sour cream. Half Order - $17. Add guacamole or taco beef for $5 each.",
+      "simplified_description": "Nachos with cheese and toppings.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAUTÉED MUSSELS",
+      "price": 20,
+      "description": "In creamy house-made Italian sauce.",
+      "simplified_description": "Mussels in a creamy Italian sauce.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEATBALLS",
+      "price": 16,
+      "description": "Homemade meatballs in tomato sauce, parmesan.",
+      "simplified_description": "Meatballs served in tomato sauce with cheese.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI",
+      "price": 19,
+      "description": "Lightly breaded and fried with chopped tomato, jalapeño, red onion, and lemon, side of tzatziki.",
+      "simplified_description": "Fried calamari served with vegetables and tzatziki.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POUTINE",
+      "price": 15,
+      "description": "Hand-cut fries, homemade gravy, cheese.",
+      "simplified_description": "Fries topped with gravy and cheese.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TACO SALAD",
+      "price": 17,
+      "description": "Lettuce, tomatoes, onions, black beans, cheese, salsa, sour cream, served in a tortilla bowl. Add taco beef - $5 or chicken - $9.",
+      "simplified_description": "A salad with taco ingredients in a tortilla bowl.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAINFOREST SALAD",
+      "price": 22,
+      "description": "Mixed greens, cranberries, feta, spicy candied pecans, hard boiled egg, chicken, lemon herb vinaigrette.",
+      "simplified_description": "A salad with mixed greens and various toppings.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 16,
+      "description": "House-made dressing, croutons, parmesan. Side - $9.",
+      "simplified_description": "A Caesar salad with dressing and croutons.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SALAD",
+      "price": 18,
+      "description": "Tomato, cucumber, green pepper, red onion, Kalamata olive, feta, lettuce, house dressing. Side - $11.",
+      "simplified_description": "A Greek salad with vegetables and feta.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOSSED SALAD",
+      "price": 13,
+      "description": "Greens with a choice of dressing: House, Italian, Thousand Island, Ranch, French, Roquefort, Raspberry Vinaigrette, Balsamic Vinaigrette. Side - $7.",
+      "simplified_description": "A mixed salad with various dressing options.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KITCHEN SINK SALAD",
+      "price": 21,
+      "description": "Lettuce, cubed salami, cubed cheddar, banana pepper, tomato, cucumber, red onion, boiled egg, balsamic dressing.",
+      "simplified_description": "A hearty salad with various ingredients.",
+      "category": "Appetizers & Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC",
+      "price": 22,
+      "description": "Half pound house-made beef patty, secret sauce. Add cheddar, mozzarella, or bacon - $2.",
+      "simplified_description": "A classic burger with a beef patty and secret sauce.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STAMPede",
+      "price": 24,
+      "description": "Half pound house-made beef patty, smoky BBQ sauce, onion chips.",
+      "simplified_description": "A burger with BBQ sauce and onion chips.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE ONE",
+      "price": 33,
+      "description": "Massive 1 LB. house-made beef patty, onion chips, secret sauce.",
+      "simplified_description": "A large burger with a 1 lb. beef patty.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN KAISER",
+      "price": 25,
+      "description": "Charbroiled or crispy chicken breast, secret sauce. Add blackened spice or make it buffalo style - $2.",
+      "simplified_description": "A chicken burger with secret sauce.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF DIP",
+      "price": 25,
+      "description": "Baguette with thinly sliced AAA Alberta beef, au jus. Add sautéed onions, mushrooms or mozzarella - $2 each.",
+      "simplified_description": "A beef sandwich served with dipping sauce.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ CHEESESTEAK",
+      "price": 26,
+      "description": "Baguette sandwich with sirloin, onions, mushrooms, green peppers, smoky BBQ sauce, cheese.",
+      "simplified_description": "A cheesesteak sandwich with sirloin and BBQ sauce.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN FINGERS",
+      "price": 19,
+      "description": "With plum sauce and fries.",
+      "simplified_description": "Fried chicken fingers served with plum sauce.",
+      "category": "Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN BREAST",
+      "price": 31,
+      "description": "Charbroiled, lemon, oregano, spices.",
+      "simplified_description": "A charbroiled chicken breast with spices.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN PARMESAN",
+      "price": 37,
+      "description": "Breaded or charbroiled, meat sauce, mozzarella.",
+      "simplified_description": "Chicken with meat sauce and cheese.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SCALOPPINI",
+      "price": 35,
+      "description": "Charbroiled chicken breast in a lemon and mushroom cream sauce.",
+      "simplified_description": "Chicken in a creamy lemon and mushroom sauce.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CREOLE CHICKEN",
+      "price": 33,
+      "description": "Charbroiled, blackened spice, Creole butter.",
+      "simplified_description": "Charbroiled chicken with Creole spices.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LIVER & ONIONS",
+      "price": 22,
+      "description": "Lightly breaded beef liver, sautéed onions, gravy, bacon (2 pc - $29).",
+      "simplified_description": "Breaded beef liver with onions and gravy.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB CHOPS",
+      "price": 39,
+      "description": "Charbroiled, bone-in, lemon, oregano, spices.",
+      "simplified_description": "Charbroiled lamb chops with spices.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BABY BACK RIBS",
+      "price": 37,
+      "description": "Choice of house-made BBQ sauce or Greek seasoning with lemon. Half - $28.",
+      "simplified_description": "Ribs with BBQ sauce or Greek seasoning.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SALMON",
+      "price": 36,
+      "description": "Boneless and skinless filet, lemon, spices. Choice of charbroiled, pan-fried, or poached.",
+      "simplified_description": "Salmon filet cooked with lemon and spices.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOLE",
+      "price": 25,
+      "description": "Lightly breaded, pan-fried, lemon (2 pc - $29).",
+      "simplified_description": "Breaded sole fish, pan-fried.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LOBBER DINNER",
+      "price": 65,
+      "description": "8oz lobster tail, hot drawn butter. (2 tails for $110).",
+      "simplified_description": "A lobster dinner with drawn butter.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NY STRIP WITH PEPPERCORN SAUCE & GREEK SALAD",
+      "price": 62,
+      "description": "",
+      "simplified_description": "NY strip steak with peppercorn sauce and Greek salad.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BROILED SALMON WITH CREOLE BUTTER & RICE",
+      "price": 39,
+      "description": "",
+      "simplified_description": "Broiled salmon with Creole butter and rice.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10” PRIMAVERA PIZZA WITH SAUSAGE",
+      "price": 31.5,
+      "description": "",
+      "simplified_description": "A 10” primavera pizza with sausage.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA",
+      "price": 28,
+      "description": "Meat sauce, baked with a blend of cheeses. Half size - $21. Add two meatballs for $8.",
+      "simplified_description": "Lasagna with meat sauce and cheese.",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAUSAGE RIGATONI",
+      "price": 28,
+      "description": "Italian cream sauce with Spolumbo’s sausage, green pepper, onion, garlic.",
+      "simplified_description": "Rigatoni pasta with sausage and cream sauce.",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN TETRAZZINI",
+      "price": 28,
+      "description": "Rigatoni, cream sauce, baked with chicken, mushroom, green pepper, onion, topped with cheese.",
+      "simplified_description": "Rigatoni with chicken and cream sauce.",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI & MEATBALLS",
+      "price": 29,
+      "description": "Meat sauce, house-made meatballs, parmesan.",
+      "simplified_description": "Spaghetti with meat sauce and meatballs.",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEAFOOD FETTUCCINE",
+      "price": 34,
+      "description": "Mussels, scallops, shrimp. Choice of marinara, cream, or rosé sauce.",
+      "simplified_description": "Fettuccine with seafood and sauce options.",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TORTELLINI CARBONARA",
+      "price": 28,
+      "description": "Beef stuffed tortellini, alfredo sauce, bacon, onions.",
+      "simplified_description": "Tortellini with alfredo sauce and bacon.",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONE MINI BURGER & FRIES",
+      "price": 11,
+      "description": "One mini burger on fresh bun with BBQ Sauce and served alongside golden home-cut fries.",
+      "simplified_description": "A mini burger with fries.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6\" PIZZA",
+      "price": 12,
+      "description": "With two regular toppings.",
+      "simplified_description": "A small pizza with two toppings.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE QUESADILLA",
+      "price": 12,
+      "description": "Crispy flour tortilla filled with melted cheese.",
+      "simplified_description": "A cheese-filled tortilla.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN FINGERS & FRIES",
+      "price": 13,
+      "description": "Tender, fried chicken fingers and home-cut fries.",
+      "simplified_description": "Chicken fingers served with fries.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRILLED CHEESE & FRIES",
+      "price": 12,
+      "description": "A kid's menu classic - grilled sandwich filled with melted cheese and served with home-cut fries.",
+      "simplified_description": "A grilled cheese sandwich with fries.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PASTA",
+      "price": 13,
+      "description": "With meat, alfredo, or tomato sauce.",
+      "simplified_description": "Pasta with sauce options.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NICK'S FAMOUS CHEESECAKE",
+      "price": 14,
+      "description": "Homemade, creamy cheesecake baked from scratch for over 40 years - choice of blueberry or strawberry topping.",
+      "simplified_description": "A homemade cheesecake with topping options.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MILE-HIGH MUD PIE",
+      "price": 14,
+      "description": "Combination of espresso, vanilla, and chocolate ice creams, topped with chocolate sauce and whipped cream.",
+      "simplified_description": "A dessert with ice cream and chocolate sauce.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FROZEN PEANUT BUTTER PIE",
+      "price": 14,
+      "description": "Blend of chocolate and peanut butter ice cream cake.",
+      "simplified_description": "A frozen dessert with chocolate and peanut butter.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HIGH-FIVE CHOCOLATE CAKE",
+      "price": 14,
+      "description": "Five layers of rich chocolate cake, chocolate filling, chocolate glaze.",
+      "simplified_description": "A rich chocolate cake with layers.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COOKIES N' CREAM CAKE",
+      "price": 14,
+      "description": "Brownie pieces, cream cheese, broken soft-centered chocolate cookies, chocolate ganache.",
+      "simplified_description": "A cake with cookies and brownie pieces.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIE JUNKIE APPLE PIE",
+      "price": 14,
+      "description": "Locally made, apples, brown sugar, cinnamon, nutmeg, served with rum sauce, á la mode +$2.",
+      "simplified_description": "An apple pie served with rum sauce.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIE JUNKIE ROTATING PIE",
+      "price": 14,
+      "description": "Locally made; flavour rotates seasonally; ask your server for details.",
+      "simplified_description": "A seasonal pie with rotating flavors.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NOTO GELATO ROTATING FLAVOUR",
+      "price": 11,
+      "description": "Two scoops of locally made gelato; flavour rotates seasonally; ask your server.",
+      "simplified_description": "Gelato with seasonal flavors.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ICE CREAM",
+      "price": 7,
+      "description": "Chocolate, vanilla, or espresso flake.",
+      "simplified_description": "Ice cream with flavor options.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

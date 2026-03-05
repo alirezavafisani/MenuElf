@@ -1,0 +1,331 @@
+{
+  "restaurant": "toscanagrill",
+  "parsed_at": "2026-02-06T04:40:24.720163",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "CAESAR SALAD",
+      "price": 13.0,
+      "description": "Romaine hearts, parmsan, house-made croutons, and creamy garlic caesar dressing",
+      "category": "SALAD",
+      "simplified_description": "Romaine hearts, parmsan, house-made croutons, and creamy garlic caesar dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRECO SALAD",
+      "price": 16.0,
+      "description": "Romaine hearts, tomatoes, cucumbers, red onions, bell peppers, olives, feta, and house vinaigrette dressing",
+      "category": "SALAD",
+      "simplified_description": "Romaine hearts, tomatoes, cucumbers, red onions, bell peppers, olives, feta, and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ITALIAN PLATTER",
+      "price": 39.0,
+      "description": "Calamari, arancini, and polpette salsiccia",
+      "category": "APPETIZER",
+      "simplified_description": "Calamari, arancini, and polpette salsiccia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ANTIPASTI BOARD",
+      "price": 29.0,
+      "description": "Chefs selection of 2 cheeses, 2 meats, sweet & savoury bites, and focaccia bread",
+      "category": "APPETIZER",
+      "simplified_description": "Chefs selection of 2 cheeses, 2 meats, sweet & savoury bites, and focaccia bread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PARMESAN TRUFFLE FRIES",
+      "price": 11.0,
+      "description": "Crispy fries tossed with white truffle oil, Parmesan, and sea salt",
+      "category": "SIDE",
+      "simplified_description": "Crispy fries tossed with white truffle oil, Parmesan, and sea salt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARINATED OLIVES",
+      "price": 13.0,
+      "description": "Mixed mediterranean olives marinated in herbs and spices served with focaccia bread",
+      "category": "SIDE",
+      "simplified_description": "Mixed mediterranean olives marinated in herbs and spices served with focaccia br",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI FRITTI",
+      "price": 17.0,
+      "description": "Lightly breaded calamari fried until golden, served with spicy tomato sauce and lemon",
+      "category": "APPETIZER",
+      "simplified_description": "Lightly breaded calamari fried until golden, served with spicy tomato sauce and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GAMBERI",
+      "price": 16.0,
+      "description": "Prawns, rosé sauce and focaccia bread",
+      "category": "OTHER",
+      "simplified_description": "Prawns, rosé sauce and focaccia bread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BRUSCHETTA",
+      "price": 12.0,
+      "description": "Tomato, onion, basil, garlic EVOO, focaccia bread, grana padano",
+      "category": "APPETIZER",
+      "simplified_description": "Tomato, onion, basil, garlic EVOO, focaccia bread, grana padano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MUSSELS SALSICCIA",
+      "price": 19.0,
+      "description": "Sautéed mussels & spicy Italian sausage in a zesty tomato sauce",
+      "category": "OTHER",
+      "simplified_description": "Sautéed mussels & spicy Italian sausage in a zesty tomato sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOMEMADE MEATBALLS",
+      "price": 15.0,
+      "description": "Slow-cooked beef & pork meatballs in zesty tomato sauce, topped with parmesan and served with focaccia bread",
+      "category": "OTHER",
+      "simplified_description": "Slow-cooked beef & pork meatballs in zesty tomato sauce, topped with parmesan an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ARANCINI",
+      "price": 15.0,
+      "description": "Fried homemade crispy risotto balls stuffed with fior di latte in zesty tomato sauce",
+      "category": "OTHER",
+      "simplified_description": "Fried homemade crispy risotto balls stuffed with fior di latte in zesty tomato s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Jalapeno",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Toast",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Evoo & Balsalmic",
+      "price": 3.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CIOPPINO",
+      "price": 23.0,
+      "description": "Tomato-based seafood soup with shrimp, scallops, mussels, and clams",
+      "category": "SOUP",
+      "simplified_description": "Tomato-based seafood soup with shrimp, scallops, mussels, and clams",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUP OF THE DAY",
+      "price": 9.0,
+      "description": "Chefs daily creation featuring fresh seasonal ingredients",
+      "category": "SOUP",
+      "simplified_description": "Chefs daily creation featuring fresh seasonal ingredients",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI POMODORO",
+      "price": 21.0,
+      "description": "Spaghetti, parmesan, tomato, and basil sauce",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti, parmesan, tomato, and basil sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PENNE TOSCANA",
+      "price": 24.0,
+      "description": "Penne, chicken, mushrooms, parmesan, and rosé sauce",
+      "category": "PASTA",
+      "simplified_description": "Penne, chicken, mushrooms, parmesan, and rosé sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCINE PICCANTE",
+      "price": 26.0,
+      "description": "Fettucine, shrimp, roasted jalapeños, parmesan, and white wine sauce",
+      "category": "PASTA",
+      "simplified_description": "Fettucine, shrimp, roasted jalapeños, parmesan, and white wine sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUTTERNUT SQUASH RAVIOLI",
+      "price": 25.0,
+      "description": "Ravioli, parmesan, and pesto cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Ravioli, parmesan, and pesto cream sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI CARBONARA",
+      "price": 24.0,
+      "description": "Spaghetti, bacon, parmesan, black pepper, and cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti, bacon, parmesan, black pepper, and cream sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA",
+      "price": 25.0,
+      "description": "Lasagna, beef, pork, mozzarella, and tomato sauce",
+      "category": "PASTA",
+      "simplified_description": "Lasagna, beef, pork, mozzarella, and tomato sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCCINE ALFREDO",
+      "price": 21.0,
+      "description": "Fettuccine, parmesan, and cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Fettuccine, parmesan, and cream sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GNOCCHI",
+      "price": 22.0,
+      "description": "Hand rolled potato gnocchi, parmesan, and house-made roasted red pepper cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Hand rolled potato gnocchi, parmesan, and house-made roasted red pepper cream sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PENNE SALSICCIA",
+      "price": 24.0,
+      "description": "Penne, Italian sausage, mushrooms, chilli pepper, roasted jalapenos, and tomato sauce",
+      "category": "PASTA",
+      "simplified_description": "Penne, Italian sausage, mushrooms, chilli pepper, roasted jalapenos, and tomato ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI PESCATORE",
+      "price": 29.0,
+      "description": "Spaghetti, shrimp, clams, scallops, and mussels in white wine or tomato sauce",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti, shrimp, clams, scallops, and mussels in white wine or tomato sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OCEANO RISOTTO",
+      "price": 29.0,
+      "description": "Risotto, shrimp, scallops, parmesan and rosé sauce",
+      "category": "PASTA",
+      "simplified_description": "Risotto, shrimp, scallops, parmesan and rosé sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVIOLI ARAGOSTA",
+      "price": 28.0,
+      "description": "Lobster and crab-suffed ravioli parmesan, and house-made sun-dried tomato pesto cream sauce",
+      "category": "PASTA",
+      "simplified_description": "Lobster and crab-suffed ravioli parmesan, and house-made sun-dried tomato pesto ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BURRATA & MORTADELLA",
+      "price": 29.0,
+      "description": "Basil pesto sauce, Fior di latte, mortadella, olives, arugula, burrata, olive oil, and balsamic vinagerette",
+      "category": "PIZZA",
+      "simplified_description": "Basil pesto sauce, Fior di latte, mortadella, olives, arugula, burrata, olive oi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SICILIANA",
+      "price": 26.0,
+      "description": "Tomato sauce, Fior di latte, italian sausage, roasted peppers, and onions",
+      "category": "PIZZA",
+      "simplified_description": "Tomato sauce, Fior di latte, italian sausage, roasted peppers, and onions",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "QUATTRO CARNI",
+      "price": 28.0,
+      "description": "Tomato sauce, Fior di latte, pepperoni, Italian sausage, prosciutto di parma, and mortadella",
+      "category": "PIZZA",
+      "simplified_description": "Tomato sauce, Fior di latte, pepperoni, Italian sausage, prosciutto di parma, an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 21.0,
+      "description": "Tomato sauce, Fior di latte, fresh basil & olive oil",
+      "category": "PIZZA",
+      "simplified_description": "Tomato sauce, Fior di latte, fresh basil & olive oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DIAVOLO",
+      "price": 25.0,
+      "description": "Tomato sauce, Fior di latte, spicy Calabrese salami, and roasted jalapeños",
+      "category": "PIZZA",
+      "simplified_description": "Tomato sauce, Fior di latte, spicy Calabrese salami, and roasted jalapeños",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PARMA E FUNGHI",
+      "price": 27.0,
+      "description": "Basil pesto sauce, Fior di latte, mushrooms, arugula, finished with prosciutto di Parma & truffle oil",
+      "category": "PIZZA",
+      "simplified_description": "Basil pesto sauce, Fior di latte, mushrooms, arugula, finished with prosciutto d",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

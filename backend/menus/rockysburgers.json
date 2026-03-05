@@ -1,0 +1,190 @@
+{
+  "restaurant": "rockysburgers",
+  "total_items": 26,
+  "text_items": 26,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "Rocky Special",
+      "price": "$18",
+      "description": "8.5oz Homemade made all beef pattie, topped with Cheese, mustard, relish and onions. Served with a medium frie and can of pop",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Cheese Burger",
+      "price": "$10.25",
+      "description": "8.5oz Homemade all beef patty, served on a Brioche bun topped with Cheese, Mustard, Relish and Onion",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Bacon Cheese Burger",
+      "price": "$11.50",
+      "description": "8.5oz Homemade all beef patty, topped with thick cut bacon, cheese and then mustard, relish and onion.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Burger",
+      "price": "$8.75",
+      "description": "8.5oz Homemade all beef patty, topped with Mustard, Relish and Onion",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Slim Jim Burger",
+      "price": "$7",
+      "description": "5oz all beef homemade patty, topped with mustard, relish and onion. Cheese and bacon can be added for a fee.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Double Cheese Burger",
+      "price": "$18",
+      "description": "2 8.5oz homemade all beef patties, topped with mustard, elish and onion.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Double Burger",
+      "price": "$16",
+      "description": "2 8.5oz homemade all beef patties, topped with mustard, relish and onion.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Bacon and Egg Sandwhich",
+      "price": "$8",
+      "description": "2 Large Farm Fresh Eggs, whipped and the topped with bacon. Served on a hamburger bun. Made to order",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Bacon Egg and Cheese Sandwich",
+      "price": "$9",
+      "description": "2 Large Farm Fresh Eggs, whipped and the topped with bacon and cheese. Served on a hamburger bun. Made to order",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "BLT Sandwich",
+      "price": "$9",
+      "description": "Made with Fresh Chongos Lettuce and Tomatoes and thick sliced applewood bacon.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "BCLT Sandwich",
+      "price": "$10.25",
+      "description": "Made with Fresh Chongos Lettuce and Tomatoes and thick sliced applewood bacon topped with melted cheddar cheese.",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Home Fries",
+      "price": "$4.5",
+      "description": "Hand Punched Fresh Springvale hutterite potatoes. Made daily",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Onion Rings/ Fring",
+      "price": "$7.5",
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Poutine",
+      "price": "$7",
+      "description": "Fresh Cut Fries, topped with real cheese curds and covered in brown gravy",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Homestyle Poutine",
+      "price": "$13",
+      "description": "Poutine topped with hamburger -Fresh fries, Poutine Cheese, Hamburger, Fried Onion and Salt and Pepper",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Steamer Hot Dog",
+      "price": "$7.5",
+      "description": "All Beef Steamed Hot Dog",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Smokey",
+      "price": "$8.5",
+      "description": "Traditional Smokey",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Can of Pop",
+      "price": "$2.00",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Water",
+      "price": "$2.00",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Juice",
+      "price": "$3",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Snapple",
+      "price": "$3.5",
+      "description": "Peach",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Coffee",
+      "price": "$2.50",
+      "description": "Kureg",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Milk",
+      "price": "$3",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Hard Ice Cream Milkshake",
+      "price": "$7",
+      "description": "Vanilla, Strawberry, Chocolate, Cherry, Banana, Orange, Creamsicle, Tigertail, Licorice",
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Floats",
+      "price": "$7",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Ice Cream Cup",
+      "price": "$4.50",
+      "description": "$1 per topping",
+      "category": "DESSERT",
+      "source": "text"
+    }
+  ]
+}

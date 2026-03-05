@@ -1,0 +1,277 @@
+{
+  "restaurant": "ribeyebutcher",
+  "parsed_at": "2026-02-06T03:54:01.816775",
+  "item_count": 30,
+  "items": [
+    {
+      "name": "Japanese A5 Wagyu Ribeye",
+      "price": 172.49,
+      "description": "Japanese A5 Wagyu Ribeye",
+      "category": "OTHER",
+      "simplified_description": "Japanese A5 Wagyu Ribeye",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese A5 Wagyu Striploin",
+      "price": 115.0,
+      "description": "Japanese A5 Wagyu Striploin",
+      "category": "OTHER",
+      "simplified_description": "Japanese A5 Wagyu Striploin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Burger",
+      "price": 8.99,
+      "description": "Using fresh lamb shoulders and ground once and adding only salt & pepper.  7 oz each",
+      "category": "OTHER",
+      "simplified_description": "Using fresh lamb shoulders and ground once and adding only salt & pepper.  7 oz ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Kebab",
+      "price": 9.99,
+      "description": "Using only tender lamb leg, peppers, onions and our fresh herb kebab marinade, a simple crowd pleaser on the grill or under the broiler.  Sold by the unit. Approx. 7-8oz each",
+      "category": "OTHER",
+      "simplified_description": "Using only tender lamb leg, peppers, onions and our fresh herb kebab marinade, a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lean Ground Beef 1 lb",
+      "price": 11.99,
+      "description": "Ground twice, our beef is raised w on grasses and finished with grains from our exclusive network of Alberta farms. Lean ground beef has no more than 10 percent fat. Ground fresh daily.",
+      "category": "OTHER",
+      "simplified_description": "Ground twice, our beef is raised w on grasses and finished with grains from our ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Maple Sage Bratwurst - Pork Breakfast Sausage",
+      "price": 1.05,
+      "description": "Maple Sage Bratwurst - Pork Breakfast Sausage",
+      "category": "OTHER",
+      "simplified_description": "Maple Sage Bratwurst - Pork Breakfast Sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marrow Bone",
+      "price": 12.0,
+      "description": "Marrow Bone",
+      "category": "OTHER",
+      "simplified_description": "Marrow Bone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Ground Beef 1 lb",
+      "price": 10.99,
+      "description": "Medium Ground Beef 1 lb",
+      "category": "OTHER",
+      "simplified_description": "Medium Ground Beef 1 lb",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Partridge",
+      "price": 20.0,
+      "description": "Partridge",
+      "category": "OTHER",
+      "simplified_description": "Partridge",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Partridge",
+      "price": 29.0,
+      "description": "Partridge",
+      "category": "OTHER",
+      "simplified_description": "Partridge",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pheasant",
+      "price": 39.99,
+      "description": "Pheasant",
+      "category": "OTHER",
+      "simplified_description": "Pheasant",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prime Grade Standing Rib Roast",
+      "price": 119.96,
+      "description": "Prime Grade Standing Rib Roast",
+      "category": "OTHER",
+      "simplified_description": "Prime Grade Standing Rib Roast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quail",
+      "price": 15.0,
+      "description": "Quail",
+      "category": "OTHER",
+      "simplified_description": "Quail",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage Meat",
+      "price": 9.99,
+      "description": "Sausage Meat",
+      "category": "OTHER",
+      "simplified_description": "Sausage Meat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sirloin Steak Special",
+      "price": 20.0,
+      "description": "Sirloin Steak Special",
+      "category": "OTHER",
+      "simplified_description": "Sirloin Steak Special",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Pork Hock",
+      "price": 6.39,
+      "description": "Smoked Pork Hock",
+      "category": "OTHER",
+      "simplified_description": "Smoked Pork Hock",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southwest Chicken Burger",
+      "price": 7.49,
+      "description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high quality ingredients but also being very fresh. We use a mixture on 70% white breast meat and 30% dark leg meat. Note: All poultry burgers have panko to help maintain shape when cooking.  7 oz each.",
+      "category": "OTHER",
+      "simplified_description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high qualit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak and Bacon Burger",
+      "price": 6.99,
+      "description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients only, utilizing only bacon, steak trimmings and chuck cuts.  7 oz each.",
+      "category": "OTHER",
+      "simplified_description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Leek Burger",
+      "price": 7.49,
+      "description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high quality ingredients but also being very fresh. We use a mixture on 70% white breast meat and 30% dark leg meat. Note: All poultry burgers are made with panko to maintain the burger's shape when cooking.  7 oz each.",
+      "category": "OTHER",
+      "simplified_description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high qualit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Wings",
+      "price": 11.99,
+      "description": "Alberta raised turkey that is air-chilled. Always fresh, never frozen.  Sold by the lb.",
+      "category": "OTHER",
+      "simplified_description": "Alberta raised turkey that is air-chilled. Always fresh, never frozen.  Sold by ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Boneless Loin",
+      "price": 47.99,
+      "description": "Veal Boneless Loin",
+      "category": "OTHER",
+      "simplified_description": "Veal Boneless Loin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Chop",
+      "price": 37.49,
+      "description": "Veal Chop",
+      "category": "OTHER",
+      "simplified_description": "Veal Chop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Liver",
+      "price": 26.99,
+      "description": "Veal Liver",
+      "category": "OTHER",
+      "simplified_description": "Veal Liver",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Sweetbreads",
+      "price": 26.0,
+      "description": "Veal Sweetbreads",
+      "category": "OTHER",
+      "simplified_description": "Veal Sweetbreads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Tenderloin",
+      "price": 98.99,
+      "description": "Veal Tenderloin",
+      "category": "OTHER",
+      "simplified_description": "Veal Tenderloin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wagyu Beef Burger",
+      "price": 10.99,
+      "description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients only, utilizing only wagyu steak trimmings and chuck cuts.  7 oz each.",
+      "category": "OTHER",
+      "simplified_description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Alberta Chicken",
+      "price": 22.72,
+      "description": "High quality local chicken raised in Alberta. Our air chilled chicken is brought in every three days.  Average 3.25 lbs",
+      "category": "OTHER",
+      "simplified_description": "High quality local chicken raised in Alberta. Our air chilled chicken is brought",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Alberta Turkey",
+      "price": 134.25,
+      "description": "Whole Alberta Turkey",
+      "category": "OTHER",
+      "simplified_description": "Whole Alberta Turkey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Goose",
+      "price": 144.0,
+      "description": "Whole Goose",
+      "category": "OTHER",
+      "simplified_description": "Whole Goose",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Rabbit",
+      "price": 53.97,
+      "description": "Whole rabbit for roasting whole or into a stew. Average 3 lb.",
+      "category": "OTHER",
+      "simplified_description": "Whole rabbit for roasting whole or into a stew. Average 3 lb.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

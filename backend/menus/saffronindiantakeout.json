@@ -1,0 +1,304 @@
+{
+  "restaurant": "saffronindiantakeout",
+  "parsed_at": "2026-02-06T04:00:46.420511",
+  "item_count": 33,
+  "items": [
+    {
+      "name": "Chicken Curry",
+      "price": 17.95,
+      "description": "Chicken prepared with tomatoes, onions and potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Chicken prepared with tomatoes, onions and potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Karahi",
+      "price": 17.95,
+      "description": "Tender boneless pieces of chicken cooked in a rich flavorful gravy.",
+      "category": "FOOD",
+      "simplified_description": "Tender boneless pieces of chicken cooked in a rich flavorful gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Chicken",
+      "price": 17.95,
+      "description": "Chicken prepared in coconut cream with potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Chicken prepared in coconut cream with potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 17.95,
+      "description": "Boneless chicken cooked with tandoori spices and simmered in cream.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked with tandoori spices and simmered in cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kofta Curry",
+      "price": 17.95,
+      "description": "Beef meatball curry prepared with fresh spices, tomatoes, onions, potatoes and fresh coriander.",
+      "category": "FOOD",
+      "simplified_description": "Beef meatball curry prepared with fresh spices, tomatoes, onions, potatoes and f",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Vindaloo",
+      "price": 17.95,
+      "description": "Spicy beef curry prepared with onions, green peppers, and hot chillies.",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef curry prepared with onions, green peppers, and hot chillies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Karahi Ghost",
+      "price": 17.95,
+      "description": "Beef cubes prepared with garlic, ginger, and green chillies in a tomato based sauce.",
+      "category": "FOOD",
+      "simplified_description": "Beef cubes prepared with garlic, ginger, and green chillies in a tomato based sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Keema Matar Curry",
+      "price": 17.95,
+      "description": "Ground beef and peas curry prepared with tomatoes, onions, garlic, and fresh spices.",
+      "category": "FOOD",
+      "simplified_description": "Ground beef and peas curry prepared with tomatoes, onions, garlic, and fresh spi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Curry",
+      "price": 17.95,
+      "description": "Beef cubes prepared with tomatoes, onions, and potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Beef cubes prepared with tomatoes, onions, and potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Curry",
+      "price": 24.99,
+      "description": "Lamb cubes spiced and served in a tomato based sauce.",
+      "category": "FOOD",
+      "simplified_description": "Lamb cubes spiced and served in a tomato based sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Masala",
+      "price": 21.95,
+      "description": "Shrimp marinated and cooked in a tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp marinated and cooked in a tomato sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Biryani",
+      "price": 18.95,
+      "description": "Beef or Chicken cooked in yogurt, cinnamon, cardamom, ginger, garlic and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Beef or Chicken cooked in yogurt, cinnamon, cardamom, ginger, garlic and tomatoe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Channa Masala",
+      "price": 13.95,
+      "description": "Chickpeas cooked in a blend of flavorful spices.",
+      "category": "FOOD",
+      "simplified_description": "Chickpeas cooked in a blend of flavorful spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Okra Masala",
+      "price": 13.95,
+      "description": "Okra prepared with onions and garlic served with tomatoes and hot chillies.",
+      "category": "FOOD",
+      "simplified_description": "Okra prepared with onions and garlic served with tomatoes and hot chillies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Masala",
+      "price": 13.95,
+      "description": "Potatoes prepared with tomatoes and spices.",
+      "category": "FOOD",
+      "simplified_description": "Potatoes prepared with tomatoes and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggplant Curry",
+      "price": 13.95,
+      "description": "Eggplant marinated and cooked with onions and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Eggplant marinated and cooked with onions and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Bean Curry",
+      "price": 13.95,
+      "description": "Mung beans cooked with tomatoes, garlic, fresh spices and coriander.",
+      "category": "FOOD",
+      "simplified_description": "Mung beans cooked with tomatoes, garlic, fresh spices and coriander.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 13.95,
+      "description": "Paneer is cooked in a creamy sauce made with onions, yogurt, nut and seeds.",
+      "category": "FOOD",
+      "simplified_description": "Paneer is cooked in a creamy sauce made with onions, yogurt, nut and seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matar Paneer",
+      "price": 13.95,
+      "description": "Paneer and peas cooked with fresh tomatoes ad potatoes garnished with coriander.",
+      "category": "FOOD",
+      "simplified_description": "Paneer and peas cooked with fresh tomatoes ad potatoes garnished with coriander.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobhi",
+      "price": 13.95,
+      "description": "Cauliflower and potatoes prepared with spices served in a tomato based sauce and garnished with fresh coriander.",
+      "category": "FOOD",
+      "simplified_description": "Cauliflower and potatoes prepared with spices served in a tomato based sauce and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 13.95,
+      "description": "Spinach and paneer cooked with tomatoes to perfection.",
+      "category": "FOOD",
+      "simplified_description": "Spinach and paneer cooked with tomatoes to perfection.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal",
+      "price": 13.95,
+      "description": "Soup made from various types of lentils.",
+      "category": "FOOD",
+      "simplified_description": "Soup made from various types of lentils.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Jalfrezi",
+      "price": 13.95,
+      "description": "Freshly marinated vegetables tossed in a tangy curry.",
+      "category": "FOOD",
+      "simplified_description": "Freshly marinated vegetables tossed in a tangy curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Makhni",
+      "price": 13.95,
+      "description": "Black lentils cooked with a blend of spices and cream.",
+      "category": "FOOD",
+      "simplified_description": "Black lentils cooked with a blend of spices and cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Eyed Peas Curry",
+      "price": 13.95,
+      "description": "Shrimp marinated and cooked in a tomato sauce. Black eyed peas prepared with coconut cream and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp marinated and cooked in a tomato sauce. Black eyed peas prepared with coc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable Curry",
+      "price": 13.95,
+      "description": "Various vegetables cooked with garlic, tomatoes, and spices.",
+      "category": "FOOD",
+      "simplified_description": "Various vegetables cooked with garlic, tomatoes, and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo & Matar Curry",
+      "price": 13.95,
+      "description": "Potatoes and peas cooked with tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Potatoes and peas cooked with tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 1",
+      "price": 11.95,
+      "description": "Choice of one vegetarian entree.",
+      "category": "OTHER",
+      "simplified_description": "Choice of one vegetarian entree.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 2",
+      "price": 12.95,
+      "description": "Choice of one non-vegetarian entree.",
+      "category": "OTHER",
+      "simplified_description": "Choice of one non-vegetarian entree.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 3",
+      "price": 14.95,
+      "description": "Choice of two vegetarian entrees.",
+      "category": "OTHER",
+      "simplified_description": "Choice of two vegetarian entrees.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 4",
+      "price": 15.95,
+      "description": "Choice of one vegetarian and one non-vegetarian entree.",
+      "category": "OTHER",
+      "simplified_description": "Choice of one vegetarian and one non-vegetarian entree.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 5",
+      "price": 18.95,
+      "description": "Choice of two non-vegetarian entrees.",
+      "category": "OTHER",
+      "simplified_description": "Choice of two non-vegetarian entrees.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner for 2 Special",
+      "price": 30.0,
+      "description": "Two Samosas (Veg or Beef or Chicken). * Butter Chicken * Choice of any daily vegetable dish. * Rice and Naan foe two.",
+      "category": "OTHER",
+      "simplified_description": "Two Samosas (Veg or Beef or Chicken). * Butter Chicken * Choice of any daily veg",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

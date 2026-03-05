@@ -1,0 +1,61 @@
+{
+  "restaurant": "mbistrocalgary",
+  "parsed_at": "2026-02-06T03:18:29.835724",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "Fried Beef Ho‐Fan 大排檔炒牛河",
+      "price": 19.95,
+      "description": "**4209. Fried Beef Ho‐Fan 大排檔炒牛河 $19.95 **",
+      "category": "FOOD",
+      "simplified_description": "**4209. Fried Beef Ho‐Fan 大排檔炒牛河 $19.95 **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Shrimp Dumplings 金牌虾饺",
+      "price": 9.75,
+      "description": "**101. Steamed Shrimp Dumplings 金牌虾饺 $9.75 **",
+      "category": "FOOD",
+      "simplified_description": "**101. Steamed Shrimp Dumplings 金牌虾饺 $9.75 **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp & Pork Siu Mai with Tobiko 蟹籽烧麦",
+      "price": 9.75,
+      "description": "**103. Shrimp & Pork Siu Mai with Tobiko 蟹籽烧麦 $9.75 **",
+      "category": "FOOD",
+      "simplified_description": "**103. Shrimp & Pork Siu Mai with Tobiko 蟹籽烧麦 $9.75 **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Shrimp Dumpling 沙律明虾角",
+      "price": 9.95,
+      "description": "**401. Deep-Fried Shrimp Dumpling 沙律明虾角 $9.95 **",
+      "category": "FOOD",
+      "simplified_description": "**401. Deep-Fried Shrimp Dumpling 沙律明虾角 $9.95 **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky Rice Lotus Leaf Wrap 野米珍珠鸡",
+      "price": 8.95,
+      "description": "**107. Sticky Rice Lotus Leaf Wrap 野米珍珠鸡 $8.95 **",
+      "category": "FOOD",
+      "simplified_description": "**107. Sticky Rice Lotus Leaf Wrap 野米珍珠鸡 $8.95 **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Scallop & Crab Roe Egg White Fried Rice 瑶柱蟹子蛋白炒饭",
+      "price": 21.95,
+      "description": "**4101. Scallop & Crab Roe Egg White Fried Rice 瑶柱蟹子蛋白炒饭 $21.95 **",
+      "category": "FOOD",
+      "simplified_description": "**4101. Scallop & Crab Roe Egg White Fried Rice 瑶柱蟹子蛋白炒饭 $21.95 **",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

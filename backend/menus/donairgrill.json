@@ -1,0 +1,500 @@
+{
+  "restaurant": "donairgrill",
+  "parsed_at": "2026-02-06T02:02:29.414857",
+  "item_count": 43,
+  "items": [
+    {
+      "name": "BEEF DONAIR",
+      "price": 11.0,
+      "description": "$ 11/ $12.50 / $13.75 / $19",
+      "category": "FOOD",
+      "simplified_description": "Beef donair sandwich with meat and sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SHAWARMA",
+      "price": 11.5,
+      "description": "$11.50 / $13.25 / $14.75 / $19.75",
+      "category": "FOOD",
+      "simplified_description": "Chicken shawarma sandwich with meat and sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN & BEEF MIXED",
+      "price": 11.25,
+      "description": "$11.25/ $13 /$14.25 / $19.25",
+      "category": "FOOD",
+      "simplified_description": "Mixed chicken and beef donair sandwich.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FALAFEL",
+      "price": 11.0,
+      "description": "$11 / $12.50 / $13.75 / $19",
+      "category": "FOOD",
+      "simplified_description": "Falafel sandwich with fried chickpea balls and sauce.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAKE IT A COMBO - $5.50",
+      "price": 5.5,
+      "description": "REGULAR FRIES & POP",
+      "category": "OTHER",
+      "simplified_description": "Add regular fries and a pop to your order.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "UPGRADE TO POUTINE OR ONION RINGS +$2.50",
+      "price": 2.5,
+      "description": "UPGRADE TO POUTINE OR ONION RINGS +$2.50",
+      "category": "OTHER",
+      "simplified_description": "Upgrade your side to poutine or onion rings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PLATTERS",
+      "price": 16.0,
+      "description": "COMES WITH YOUR CHOICE OF MEAT & SAUCE, RICE, SALAD & PITA",
+      "category": "FOOD",
+      "simplified_description": "Platter with meat, sauce, rice, salad, and pita bread.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Meat",
+      "price": 5.0,
+      "description": "Extra Meat $5",
+      "category": "OTHER",
+      "simplified_description": "Add extra meat to your order.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FRIES",
+      "price": 5.0,
+      "description": "$5 / $7.50",
+      "category": "SIDE",
+      "simplified_description": "Side of crispy fries.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POUTINE",
+      "price": null,
+      "description": "$7 .50/ $11",
+      "category": "SIDE",
+      "simplified_description": "Fries topped with cheese curds and gravy.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DONAIR POUTINE",
+      "price": 12.0,
+      "description": "$12 / $15",
+      "category": "SIDE",
+      "simplified_description": "Poutine topped with donair meat and sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ONION RINGS",
+      "price": 6.5,
+      "description": "$6.50/ $12",
+      "category": "SIDE",
+      "simplified_description": "Crispy battered onion rings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "RICE BOWL",
+      "price": 7.5,
+      "description": "$7.50 / $10",
+      "category": "SIDE",
+      "simplified_description": "Bowl of rice as a side dish.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ADD CHICKEN OR BEEF - $5",
+      "price": 5.0,
+      "description": "ADD CHICKEN OR BEEF - $5",
+      "category": "OTHER",
+      "simplified_description": "Add chicken or beef meat to your order.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HUMMUS",
+      "price": 6.0,
+      "description": "$6",
+      "category": "SIDE",
+      "simplified_description": "Creamy chickpea hummus dip.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAMOSA",
+      "price": 3.75,
+      "description": "BEEF, CHICKEN, VEGGIE $3.75ea. ",
+      "category": "SIDE",
+      "simplified_description": "Fried pastry filled with beef, chicken, or vegetables.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRAPE LEAF ROLLS",
+      "price": 10.0,
+      "description": "$10",
+      "category": "SIDE",
+      "simplified_description": "Stuffed grape leaves served as a side dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PITA CHIPS W/DIP",
+      "price": 10.0,
+      "description": "$10",
+      "category": "SIDE",
+      "simplified_description": "Crispy pita chips served with a dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SALAD",
+      "price": null,
+      "description": "$7 .50",
+      "category": "SALAD",
+      "simplified_description": "Fresh salad with vegetables and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 6.5,
+      "description": "$6.50 \nADD CHICKEN - $5",
+      "category": "SALAD",
+      "simplified_description": "Classic Caesar salad with optional chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Add chicken for extra cost"
+    },
+    {
+      "name": "DONAIR SALAD",
+      "price": 11.0,
+      "description": "$11 / $12.50",
+      "category": "SALAD",
+      "simplified_description": "Salad topped with donair meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SHAWARMA SALAD",
+      "price": 11.5,
+      "description": "$11.50 / $13.25",
+      "category": "SALAD",
+      "simplified_description": "Salad served with shawarma meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FALAFEL SALAD",
+      "price": 11.0,
+      "description": "$11 / $12.50",
+      "category": "SALAD",
+      "simplified_description": "Salad topped with falafel balls.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF",
+      "price": 6.25,
+      "description": "$6.25 (100G)",
+      "category": "EXTRAS",
+      "simplified_description": "100 grams of cooked beef meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN",
+      "price": 6.75,
+      "description": "$6.75 (100G)",
+      "category": "EXTRAS",
+      "simplified_description": "100 grams of cooked chicken meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SWEET SAUCE",
+      "price": 3.0,
+      "description": "$3",
+      "category": "EXTRAS",
+      "simplified_description": "Sweet flavored sauce for dipping or topping.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC SAUCE",
+      "price": 6.0,
+      "description": "$6",
+      "category": "EXTRAS",
+      "simplified_description": "Creamy garlic sauce for dipping or topping.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FALAFEL",
+      "price": 6.0,
+      "description": "$6 (6PC)",
+      "category": "EXTRAS",
+      "simplified_description": "Six pieces of fried falafel balls.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRAVY / DIP",
+      "price": 2.0,
+      "description": "$2",
+      "category": "EXTRAS",
+      "simplified_description": "Savory gravy or dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKLAVA",
+      "price": 1.5,
+      "description": "$1.50 - $2\n$7.50 (5 pack)",
+      "category": "EXTRAS",
+      "simplified_description": "Sweet layered pastry with nuts and syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": "Available in single or 5-pack"
+    },
+    {
+      "name": "KID'S MEALS - $12",
+      "price": 12.0,
+      "description": "SERVED WITH FRIES & A JUICE BOX",
+      "category": "OTHER",
+      "simplified_description": "Kids meal served with fries and a juice box.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF DONAIR",
+      "price": null,
+      "description": "#### BEEF DONAIR",
+      "category": "FOOD",
+      "simplified_description": "Beef donair sandwich with seasoned meat.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SHAWARMA",
+      "price": null,
+      "description": "#### CHICKEN SHAWARMA",
+      "category": "FOOD",
+      "simplified_description": "Chicken shawarma sandwich with spiced chicken.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN NUGGETS",
+      "price": null,
+      "description": "_served with plum sauce_",
+      "category": "OTHER",
+      "simplified_description": "Breaded chicken nuggets served with plum sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN QUESADILLA",
+      "price": null,
+      "description": "#### CHICKEN QUESADILLA",
+      "category": "OTHER",
+      "simplified_description": "Grilled tortilla filled with chicken and cheese.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRILLED CHEESE",
+      "price": null,
+      "description": "#### GRILLED CHEESE",
+      "category": "OTHER",
+      "simplified_description": "Toasted sandwich with melted cheese inside.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TRAY OF WRAPS",
+      "price": 75.0,
+      "description": "A selection of our signature wraps, sure to please any group. All wraps come complete with your choice of our house made sauces and your choice of toppings. Wraps are cut in half, and arranged on a tray. We recommend one wrap per person.",
+      "category": "OTHER",
+      "simplified_description": "Assorted wraps with sauces and toppings, served on a tray.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "HALF TRAY",
+      "price": 75.0,
+      "description": "12PC (6 LARGE WRAPS CUT IN HALF)\nCHOOSE FROM BEEF, CHICKEN, FALAFEL",
+      "category": "OTHER",
+      "simplified_description": "Half tray of 12 wraps with beef, chicken, or falafel.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "FULL TRAY",
+      "price": 145.0,
+      "description": "24PC (12 LARGE WRAPS CUT IN HALF)\nCHOOSE FROM BEEF, CHICKEN, FALAFEL",
+      "category": "OTHER",
+      "simplified_description": "Full tray of 24 wraps with beef, chicken, or falafel.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "DIY KITS",
+      "price": null,
+      "description": "Bring it home, do it yourself...",
+      "category": "OTHER",
+      "simplified_description": "Take-home kit to prepare your own meal.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FAMILY PLATE",
+      "price": 90.0,
+      "description": "2LBS OF YOUR CHOICE OF MEAT (Beef or Chicken)\nFAMILY RICE\nFAMILY FRIES\nFAMILY SALAD (Greek or Caesar)\n2 SAUCES (Sweet, Garlic, Tzatziki, Hummus)\nPITA BREAD",
+      "category": "OTHER",
+      "simplified_description": "Large family meal with meat, sides, sauces, and pita bread.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "TAKE HOME KIT",
+      "price": 24.0,
+      "description": "BUILD YOUR OWN\n1LB OF YOUR CHOICE OF MEAT $24\nVEGGIES - $8\nSWEET SAUCE - $3\nGARLIC SAUCE - $6\nPITA BREAD - $4",
+      "category": "OTHER",
+      "simplified_description": "Customizable take-home kit with meat, veggies, sauces, and pita.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKLAVA",
+      "price": 30.0,
+      "description": "MAMA'S HOMEMADE\nHALF TRAY - $30\nFULL TRAY - $55",
+      "category": "DESSERT",
+      "simplified_description": "Sweet layered pastry dessert with nuts and syrup.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    }
+  ]
+}

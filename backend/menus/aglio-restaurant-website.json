@@ -1,0 +1,297 @@
+{
+  "restaurant": "aglio-restaurant-website",
+  "parsed_at": "2026-02-06T00:32:57.114936",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "ARANCINI",
+      "price": 12.0,
+      "description": "Arborio rice, bocconcini, tomato sauce, parmesan, arugula",
+      "category": "APPETIZER",
+      "simplified_description": "Fried rice balls with cheese and tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI",
+      "price": 16.0,
+      "description": "Buttermilk marinated squid and shishito peppers, flour coated, truffle mayo",
+      "category": "APPETIZER",
+      "simplified_description": "Fried squid with peppers and truffle mayonnaise.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COZZE MUSSELS",
+      "price": 19.0,
+      "description": "Mussels 1lb, white wine, spicy/zesty tomato sauce, toasted focaccia",
+      "category": "APPETIZER",
+      "simplified_description": "Spicy mussels in tomato sauce with toasted bread.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GAMBERI ALLA ROSÉ",
+      "price": 18.0,
+      "description": "Prawn, 'nduja' sausage, white wine, rosé sauce, toasted focaccia",
+      "category": "APPETIZER",
+      "simplified_description": "Prawns with spicy sausage and rosé sauce with bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRUFFLE PARMESAN FRIES",
+      "price": 11.0,
+      "description": "Crispy fries, truffle oil, shredded grana padano, truffle garlic aioli",
+      "category": "APPETIZER",
+      "simplified_description": "Fries with truffle oil, cheese, and garlic aioli.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MODERN CAPRESE SALAD",
+      "price": 16.0,
+      "description": "Heirloom tomatoes, burrata, basil oil, balsamic, baby arugula, candied walnut",
+      "category": "APPETIZER",
+      "simplified_description": "Tomato and burrata salad with basil and candied walnuts.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR SALAD",
+      "price": 14.0,
+      "description": "Chopped romaine, guanciale crisp, focaccia croutons, radish, grilled lemon",
+      "category": "APPETIZER",
+      "simplified_description": "Romaine salad with crispy pork, croutons, and lemon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI POMODORO",
+      "price": 16.0,
+      "description": "San Marzano tomato sauce, white wine, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti with tomato sauce, herbs, and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FETTUCCINE CHICKEN ALFREDO",
+      "price": 19.0,
+      "description": "Butter cream sauce, chicken, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Fettuccine with creamy butter sauce and chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PAPPARDELLE AL PESTO CON POLLO ARROSTO",
+      "price": 20.0,
+      "description": "Pine nut pesto, chicken, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Pappardelle pasta with pine nut pesto and chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "RIGATONI ALLA BOLOGNESE",
+      "price": 23.0,
+      "description": "Slow braised ragu, soffritto, grana padano, herb mix",
+      "category": "PASTA",
+      "simplified_description": "Rigatoni pasta with slow-cooked meat sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LINGUINE ALL VONGOLE",
+      "price": 22.0,
+      "description": "Clams, garlic, white wine, chili flakes, parsley",
+      "category": "PASTA",
+      "simplified_description": "Linguine with clams, garlic, and chili flakes.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETTI AGLI OLIO",
+      "price": 15.0,
+      "description": "Olive oil, garlic, chili flakes, black pepper, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti with olive oil, garlic, and chili flakes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SEAFOOD LINGUINE",
+      "price": 26.0,
+      "description": "San Marzano tomato sauce, white wine, shrimp, mussels, squid, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Linguine with mixed seafood in tomato sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CARBONARA",
+      "price": 24.0,
+      "description": "Spaghetti, guanciale, egg yolk, grana padano, black pepper, herb mix",
+      "category": "PASTA",
+      "simplified_description": "Spaghetti with cured pork, egg yolk, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "RIGATONI ALLA VODKA CON GAMBERI",
+      "price": 24.0,
+      "description": "Vodka rosé sauce, shrimp, chili flakes, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Pasta with vodka rosé sauce, shrimp, and chili flakes.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "LOBSTER RAVIOLI",
+      "price": 26.0,
+      "description": "Lemon cream sauce, grana padano, herb mix",
+      "category": "PASTA",
+      "simplified_description": "Lobster-filled ravioli with lemon cream sauce and herbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FOUR CHEESE RAVIOLI WITH ROSÉ SAUCE",
+      "price": 23.0,
+      "description": "White wine, rosé sauce, grana padano, herb mix",
+      "category": "PASTA",
+      "simplified_description": "Cheese ravioli served with rosé sauce and herbs.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GNOCCHI",
+      "price": 25.0,
+      "description": "Roasted red pepper gorgonzola sauce, nduja sausage, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Gnocchi with spicy sausage and creamy gorgonzola sauce.",
+      "dietary_info": [
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "RISOTTO AI FUNGHI",
+      "price": 20.0,
+      "description": "Assorted garlic mushrooms, truffle oil, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Mushroom risotto with garlic, truffle oil, and herbs.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "RISOTTO AL PESCATORE",
+      "price": 26.0,
+      "description": "Clams, mussels, squid, tomato broth, herb mix",
+      "category": "PASTA",
+      "simplified_description": "Seafood risotto with clams, mussels, squid, and tomato broth.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN PARMIGIANA",
+      "price": 25.0,
+      "description": "Breaded chicken, spaghetti pomodoro, mozzarella, herb mix, grana padano",
+      "category": "PASTA",
+      "simplified_description": "Breaded chicken with spaghetti, tomato sauce, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LASAGNA",
+      "price": 24.0,
+      "description": "Slow braised ragu, bechamel, mozzarella, herb mix",
+      "category": "PASTA",
+      "simplified_description": "Layered pasta with meat sauce, béchamel, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HOUSE-MADE TIRAMISU",
+      "price": 11.0,
+      "description": "Espresso-soaked ladyfingers, mascarpone cream, cocoa powder, vanilla",
+      "category": "DESSERT",
+      "simplified_description": "Coffee-flavored dessert with mascarpone and cocoa.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAFFRON CRÈME BRÛLÉE",
+      "price": 13.0,
+      "description": "Saffron infused custard, brûlée sugar, fresh fruit and berries",
+      "category": "DESSERT",
+      "simplified_description": "Saffron custard dessert with caramelized sugar and fresh fruit.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

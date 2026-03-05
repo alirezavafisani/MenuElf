@@ -1,0 +1,185 @@
+{
+  "restaurant": "boosterjuice",
+  "parsed_at": "2026-02-06T01:12:30.643736",
+  "item_count": 16,
+  "items": [
+    {
+      "name": "Artisan Grilled Cheese",
+      "price": null,
+      "description": "###  [ Artisan Grilled Cheese ](https://boosterjuice.com/products/artisan-grilled-cheese?variant=44115960004866) Sold out ###  [ Artisan Grilled Cheese ](https://boosterjuice.com/products/artisan-grilled-cheese?variant=44115960004866) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "A grilled cheese sandwich made with artisan bread and cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Chicken Panini",
+      "price": null,
+      "description": "###  [ Chipotle Chicken Panini ](https://boosterjuice.com/products/chipotle-chicken-panini?variant=44115922911490) Sold out ###  [ Chipotle Chicken Panini ](https://boosterjuice.com/products/chipotle-chicken-panini?variant=44115922911490) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "A panini sandwich with chipotle-flavored chicken.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chipotle Steak Panini",
+      "price": null,
+      "description": "###  [ Chipotle Steak Panini ](https://boosterjuice.com/products/chipotle-steak-panini?variant=44115945095426) Sold out ###  [ Chipotle Steak Panini ](https://boosterjuice.com/products/chipotle-steak-panini?variant=44115945095426) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "A panini sandwich with chipotle-seasoned steak.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": null,
+      "description": "###  [ Grilled Cheese ](https://boosterjuice.com/products/grilled-cheese?variant=44115958989058) Sold out ###  [ Grilled Cheese ](https://boosterjuice.com/products/grilled-cheese?variant=44115958989058) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Classic grilled cheese sandwich with melted cheese on toasted bread.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Guacamole Chicken Panini",
+      "price": null,
+      "description": "###  [ Guacamole Chicken Panini ](https://boosterjuice.com/products/guacamole-chicken-panini?variant=46005092221186) Sold out ###  [ Guacamole Chicken Panini ](https://boosterjuice.com/products/guacamole-chicken-panini?variant=46005092221186) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Panini sandwich with chicken and guacamole spread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Chicken Panini",
+      "price": null,
+      "description": "###  [ Pesto Chicken Panini ](https://boosterjuice.com/products/pesto-chicken-panini?variant=44115929792770) Sold out ###  [ Pesto Chicken Panini ](https://boosterjuice.com/products/pesto-chicken-panini?variant=44115929792770) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Panini sandwich with chicken and pesto sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Quesadilla",
+      "price": null,
+      "description": "###  [ Chicken Quesadilla ](https://boosterjuice.com/products/chicken-quesadilla?variant=44115949322498) Sold out ###  [ Chicken Quesadilla ](https://boosterjuice.com/products/chicken-quesadilla?variant=44115949322498) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Grilled tortilla filled with chicken and melted cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Chicken Wrap",
+      "price": null,
+      "description": "###  [ Chipotle Chicken Wrap ](https://boosterjuice.com/products/chipotle-chicken-wrap?variant=44115952533762) Sold out ###  [ Chipotle Chicken Wrap ](https://boosterjuice.com/products/chipotle-chicken-wrap?variant=44115952533762) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Wrap filled with chipotle-seasoned chicken and other ingredients.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chipotle Steak Wrap",
+      "price": null,
+      "description": "###  [ Chipotle Steak Wrap ](https://boosterjuice.com/products/chipotle-steak-wrap?variant=44115953123586) Sold out ###  [ Chipotle Steak Wrap ](https://boosterjuice.com/products/chipotle-steak-wrap?variant=44115953123586) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Wrap filled with chipotle-seasoned steak and other ingredients.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egg & Chipotle Black Bean",
+      "price": null,
+      "description": "###  [ Egg & Chipotle Black Bean ](https://boosterjuice.com/products/egg-chipotle-black-bean?variant=46005016690946) Sold out ###  [ Egg & Chipotle Black Bean ](https://boosterjuice.com/products/egg-chipotle-black-bean?variant=46005016690946) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Dish with eggs and chipotle-flavored black beans.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egg White & Cheese Wrap",
+      "price": null,
+      "description": "###  [ Egg White & Cheese Wrap ](https://boosterjuice.com/products/egg-white-cheese-wrap?variant=44115954761986) Sold out ###  [ Egg White & Cheese Wrap ](https://boosterjuice.com/products/egg-white-cheese-wrap?variant=44115954761986) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Wrap filled with egg whites and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg White & Chorizo Wrap (Salsa)",
+      "price": null,
+      "description": "###  [ Egg White & Chorizo Wrap (Salsa) ](https://boosterjuice.com/products/egg-white-chorizo-wrap-salsa?variant=44115958432002) Sold out ###  [ Egg White & Chorizo Wrap (Salsa) ](https://boosterjuice.com/products/egg-white-chorizo-wrap-salsa?variant=44115958432002) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "FOOD",
+      "simplified_description": "Wrap with egg whites, chorizo, and salsa.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Apple Lemon Ginger Shot",
+      "price": null,
+      "description": "###  [ Apple Lemon Ginger Shot ](https://boosterjuice.com/products/apple-lemon-ginger?variant=44115988644098) Sold out ###  [ Apple Lemon Ginger Shot ](https://boosterjuice.com/products/apple-lemon-ginger?variant=44115988644098) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "DRINK",
+      "simplified_description": "A small shot with apple, lemon, and ginger flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon & Ginger Shot",
+      "price": null,
+      "description": "###  [ Lemon & Ginger Shot ](https://boosterjuice.com/products/lemon-ginger?variant=44115992215810) Sold out ###  [ Lemon & Ginger Shot ](https://boosterjuice.com/products/lemon-ginger?variant=44115992215810) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "DRINK",
+      "simplified_description": "A small shot with lemon and ginger flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Ginger Turmeric & Coconut Shot",
+      "price": null,
+      "description": "###  [ Lemon Ginger Turmeric & Coconut Shot ](https://boosterjuice.com/products/lemon-ginger-turmeric-coconut?variant=44115992510722) Sold out ###  [ Lemon Ginger Turmeric & Coconut Shot ](https://boosterjuice.com/products/lemon-ginger-turmeric-coconut?variant=44115992510722) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "DRINK",
+      "simplified_description": "A small shot with lemon, ginger, turmeric, and coconut flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wheatgrass Shot",
+      "price": null,
+      "description": "###  [ Wheatgrass Shot ](https://boosterjuice.com/products/wheatgrass?variant=44115993035010) Sold out ###  [ Wheatgrass Shot ](https://boosterjuice.com/products/wheatgrass?variant=44115993035010) $0.00 CAD ~~$0 CAD~~ $0.00 CAD Sold out",
+      "category": "DRINK",
+      "simplified_description": "A concentrated shot of wheatgrass juice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Sold out"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "restaurant": "teatro",
+  "parsed_at": "2026-02-06T04:26:30.289262",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "Daddy's Dram",
+      "price": 18.0,
+      "description": "Banana Butter Fat Washed Zaya Rum, Old Grand-Dad Bourbon, Giffard Banane du Brésil",
+      "category": "DRINK",
+      "simplified_description": "Banana Butter Fat Washed Zaya Rum, Old Grand-Dad Bourbon, Giffard Banane du Brés",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mom! Make Me a Sandwich",
+      "price": 18.0,
+      "description": "Macallan 12yr Scotch, Chica Chida Peanut Butter Spirit, Concord Grape Foam",
+      "category": "DRINK",
+      "simplified_description": "Macallan 12yr Scotch, Chica Chida Peanut Butter Spirit, Concord Grape Foam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brothers Before Others",
+      "price": 18.0,
+      "description": "Rémy Martin VSOP Cognac, Nonino Amaro, Nutmeg, Mandarin Orange",
+      "category": "DRINK",
+      "simplified_description": "Rémy Martin VSOP Cognac, Nonino Amaro, Nutmeg, Mandarin Orange",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sibling Rivalry",
+      "price": 18.0,
+      "description": "Botanist Gin, Empress Bitter Bianca, Jasmine Tea, Lemon, Egg",
+      "category": "DRINK",
+      "simplified_description": "Botanist Gin, Empress Bitter Bianca, Jasmine Tea, Lemon, Egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Middle Child",
+      "price": 18.0,
+      "description": "Avocado Infused El Tequileño, Cristalino Tequila, Licor 43, Lime",
+      "category": "DRINK",
+      "simplified_description": "Avocado Infused El Tequileño, Cristalino Tequila, Licor 43, Lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "It's 5 O'Clock Somewhere",
+      "price": 15.0,
+      "description": "Undone Mezcal, Dho's Orange Liqueur, Yuzu, Orange Blossom",
+      "category": "DRINK",
+      "simplified_description": "Undone Mezcal, Dho's Orange Liqueur, Yuzu, Orange Blossom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tropic Thunder",
+      "price": 15.0,
+      "description": "Undone Rum, Dr Zero Zero AmaNo, Tropic Juice Blend",
+      "category": "DRINK",
+      "simplified_description": "Undone Rum, Dr Zero Zero AmaNo, Tropic Juice Blend",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spiked Berry",
+      "price": 13.0,
+      "description": "Undone Gin, Raspberry, Basil, Annex Ginger Beer",
+      "category": "DRINK",
+      "simplified_description": "Undone Gin, Raspberry, Basil, Annex Ginger Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Passion Project",
+      "price": 13.0,
+      "description": "Rooibos Infused Undone Gin, Passion Fruit, Vanilla, Lemon, Egg",
+      "category": "DRINK",
+      "simplified_description": "Rooibos Infused Undone Gin, Passion Fruit, Vanilla, Lemon, Egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Marinated Olives",
+      "price": 15.0,
+      "description": "garlic, fried rosemary, citrus",
+      "category": "SIDE",
+      "simplified_description": "garlic, fried rosemary, citrus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WAGYU BEEF CARPACCIO",
+      "price": 25.0,
+      "description": "tomato oil, olive, parmigiano reggiano",
+      "category": "APPETIZER",
+      "simplified_description": "tomato oil, olive, parmigiano reggiano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI",
+      "price": 25.0,
+      "description": "grilled lemon aioli, crispy leek, nori salt",
+      "category": "APPETIZER",
+      "simplified_description": "grilled lemon aioli, crispy leek, nori salt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAESAR",
+      "price": 23.0,
+      "description": "romaine lettuce, guanciale crumb, anchovy",
+      "category": "APPETIZER",
+      "simplified_description": "romaine lettuce, guanciale crumb, anchovy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED BEET",
+      "price": 23.0,
+      "description": "pomegranate aril, pistachio, labneh",
+      "category": "APPETIZER",
+      "simplified_description": "pomegranate aril, pistachio, labneh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ENDIVE & RADICCHIO",
+      "price": 23.0,
+      "description": "grapefruit, ricotta salata, walnut vinaigrette",
+      "category": "APPETIZER",
+      "simplified_description": "grapefruit, ricotta salata, walnut vinaigrette",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARKET SOUP",
+      "price": 15.0,
+      "description": "details provided by your server",
+      "category": "SIDE",
+      "simplified_description": "details provided by your server",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHARCUTERIE",
+      "price": 43.0,
+      "description": "rotating selection, curated accompaniments",
+      "category": "APPETIZER",
+      "simplified_description": "rotating selection, curated accompaniments",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUCATINI CARBONARA",
+      "price": 33.0,
+      "description": "egg yolk, guanciale, pecorino",
+      "category": "FOOD",
+      "simplified_description": "egg yolk, guanciale, pecorino",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AGNOLOTTI",
+      "price": 35.0,
+      "description": "braised beef short rib, confit tomato, pistou",
+      "category": "FOOD",
+      "simplified_description": "braised beef short rib, confit tomato, pistou",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PAPPARDELLE BOLOGNESE",
+      "price": 33.0,
+      "description": "beef & pork ragù, basil, fior di latte",
+      "category": "FOOD",
+      "simplified_description": "beef & pork ragù, basil, fior di latte",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RISOTTO",
+      "price": 31.0,
+      "description": "asiago, pickled mushroom, crispy kale",
+      "category": "FOOD",
+      "simplified_description": "asiago, pickled mushroom, crispy kale",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 23.0,
+      "description": "tomato, fior di latte, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato, fior di latte, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carne",
+      "price": 25.0,
+      "description": "pepperoni, pomodoro, pepperoncini",
+      "category": "FOOD",
+      "simplified_description": "pepperoni, pomodoro, pepperoncini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FUNGHI",
+      "price": 25.0,
+      "description": "grana padano, truffle honey, arugula",
+      "category": "FOOD",
+      "simplified_description": "grana padano, truffle honey, arugula",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ICELANDIC COD",
+      "price": 45.0,
+      "description": "butternut squash, fregola sarda, trapanese pesto",
+      "category": "FOOD",
+      "simplified_description": "butternut squash, fregola sarda, trapanese pesto",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROAST CHICKEN",
+      "price": 35.0,
+      "description": "pipperade, fingerling potato, salmoriglio",
+      "category": "FOOD",
+      "simplified_description": "pipperade, fingerling potato, salmoriglio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FLANK STEAK",
+      "price": 39.0,
+      "description": "pomme purée, roast mushroom, peppercorn jus",
+      "category": "FOOD",
+      "simplified_description": "pomme purée, roast mushroom, peppercorn jus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EGGPLANT PARMESAN",
+      "price": 25.0,
+      "description": "tomato sauce, basil, fior di latte",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, basil, fior di latte",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRILLED CAULIFLOWER",
+      "price": 33.0,
+      "description": "toum, fried panisse, zucchini",
+      "category": "FOOD",
+      "simplified_description": "toum, fried panisse, zucchini",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WARM OLIVES",
+      "price": 15.0,
+      "description": "garlic, rosemary, citrus",
+      "category": "SIDE",
+      "simplified_description": "garlic, rosemary, citrus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HALF-DOZEN OYSTERS",
+      "price": 31.0,
+      "description": "horseradish, red wine shallot mignonette, lemon",
+      "category": "APPETIZER",
+      "simplified_description": "horseradish, red wine shallot mignonette, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN LIVER MOUSSE",
+      "price": 25.0,
+      "description": "blackberry preserve, shallot, hazelnut",
+      "category": "APPETIZER",
+      "simplified_description": "blackberry preserve, shallot, hazelnut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GNOCCHI",
+      "price": 31.0,
+      "description": "leek & kale fondue, artichoke, pistachio",
+      "category": "FOOD",
+      "simplified_description": "leek & kale fondue, artichoke, pistachio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tiramisù",
+      "price": 15.0,
+      "description": "Berloni family recipe",
+      "category": "DESSERT",
+      "simplified_description": "Berloni family recipe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frangelico Crème Brûlée",
+      "price": 15.0,
+      "description": "Hazelnut streusel, raspberry, vanilla bean",
+      "category": "DESSERT",
+      "simplified_description": "Hazelnut streusel, raspberry, vanilla bean",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pear Frangipane Torta",
+      "price": 15.0,
+      "description": "Almond, tonka bean, pomegranate gel",
+      "category": "DESSERT",
+      "simplified_description": "Almond, tonka bean, pomegranate gel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cherries & Chocolate",
+      "price": 15.0,
+      "description": "Cherry mousse, vanilla gelato, callebaut dark chocolate",
+      "category": "DESSERT",
+      "simplified_description": "Cherry mousse, vanilla gelato, callebaut dark chocolate",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Feature Dessert",
+      "price": 17.0,
+      "description": "please ask your server for details",
+      "category": "DESSERT",
+      "simplified_description": "please ask your server for details",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,769 @@
+{
+  "restaurant": "appnatiffin0",
+  "parsed_at": "2026-02-06T00:41:48.433780",
+  "item_count": 61,
+  "items": [
+    {
+      "name": "Small Tiffin (8oz)",
+      "price": 220.0,
+      "description": "* 4 Roti, One Dal, One Sabzi",
+      "category": "FOOD",
+      "simplified_description": "Meal with 4 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Small Tiffin (8oz)",
+      "price": 240.0,
+      "description": "* 6 Roti, One Dal, One Sabz",
+      "category": "FOOD",
+      "simplified_description": "Meal with 6 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Tiffin (12OZ)",
+      "price": 260.0,
+      "description": "* 6 Roti, One Dal, One Sabzi",
+      "category": "FOOD",
+      "simplified_description": "Meal with 6 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Tiffin (12OZ)",
+      "price": 280.0,
+      "description": "* 8 Roti, One Dal, One Sabzi",
+      "category": "FOOD",
+      "simplified_description": "Meal with 8 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Tiffin (16OZ)",
+      "price": 300.0,
+      "description": "* 8 Roti, One Dal, One Sabzi",
+      "category": "FOOD",
+      "simplified_description": "Meal with 8 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Tiffin (16OZ)",
+      "price": 320.0,
+      "description": "* 10 Roti, One Dal, One Sabzi",
+      "category": "FOOD",
+      "simplified_description": "Meal with 10 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "4 Roti, One Dal, One Sabzi (8oz)",
+      "price": 70.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Meal with 4 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "6 Roti, One Dal, One Sabzi (12oz)",
+      "price": 80.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Meal with 6 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "8 Roti, One Dal, One Sabzi (16oz)",
+      "price": 90.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Meal with 8 rotis, one lentil dish, and one vegetable dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Truck Meal",
+      "price": 40.0,
+      "description": "20 Roti, 24oz One Dal, One Sabzi, Salad and Sweet",
+      "category": "FOOD",
+      "simplified_description": "Large meal with 20 rotis, dal, vegetable, salad, and dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves two or more"
+    },
+    {
+      "name": "Truck Meal",
+      "price": 25.0,
+      "description": "10 Roti, 16oz One Dal, One Sabzi, Salad and Sweet",
+      "category": "FOOD",
+      "simplified_description": "Meal with 10 rotis, dal, vegetable, salad, and dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Thali",
+      "price": 12.99,
+      "description": "2 Roti or Rice, One Dal, One Sabzi, Salad, Dahi and Sweet Dish",
+      "category": "FOOD",
+      "simplified_description": "Plate with roti or rice, dal, vegetable, salad, yogurt, and dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DESI SAAG Thali",
+      "price": 16.99,
+      "description": "2 Makki Roti, Saag, Sabzi, Salad, Dahi and Sweet Dish",
+      "category": "FOOD",
+      "simplified_description": "Plate with corn rotis, greens, vegetable, salad, yogurt, and dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal",
+      "price": 3.99,
+      "description": "8 oz",
+      "category": "FOOD",
+      "simplified_description": "8 oz serving of daily vegetable or lentil dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal",
+      "price": 5.99,
+      "description": "12 oz",
+      "category": "FOOD",
+      "simplified_description": "12 oz serving of daily vegetable or lentil dish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal",
+      "price": 7.99,
+      "description": "16 oz",
+      "category": "FOOD",
+      "simplified_description": "16 oz serving of daily vegetable curry or lentil soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Sabzi/Dal",
+      "price": 11.99,
+      "description": "24 oz",
+      "category": "FOOD",
+      "simplified_description": "24 oz serving of daily vegetable curry or lentil soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal",
+      "price": 5.99,
+      "description": "8 oz",
+      "category": "FOOD",
+      "simplified_description": "8 oz serving of spinach-based vegetable curry or lentil soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal",
+      "price": 7.99,
+      "description": "12 oz",
+      "category": "FOOD",
+      "simplified_description": "12 oz serving of spinach-based vegetable curry or lentil soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal",
+      "price": 9.99,
+      "description": "16 oz",
+      "category": "FOOD",
+      "simplified_description": "16 oz serving of spinach-based vegetable curry or lentil soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG Sabzi/Dal",
+      "price": 13.99,
+      "description": "24 oz",
+      "category": "FOOD",
+      "simplified_description": "24 oz serving of spinach-based vegetable curry or lentil soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal",
+      "price": 4.99,
+      "description": "8 oz",
+      "category": "FOOD",
+      "simplified_description": "8 oz serving of paneer cheese vegetable curry or lentil soup.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal",
+      "price": 6.99,
+      "description": "12 oz",
+      "category": "FOOD",
+      "simplified_description": "12 oz serving of paneer cheese vegetable curry or lentil soup.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal",
+      "price": 8.99,
+      "description": "16 oz",
+      "category": "FOOD",
+      "simplified_description": "16 oz serving of paneer cheese vegetable curry or lentil soup.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER Sabzi/Dal",
+      "price": 12.99,
+      "description": "24 oz",
+      "category": "FOOD",
+      "simplified_description": "24 oz serving of paneer cheese vegetable curry or lentil soup.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Tiffin",
+      "price": 12.99,
+      "description": "4 Roti, One Sabzi, One Daal and Dahi (Small)",
+      "category": "FOOD",
+      "simplified_description": "Small meal with 4 rotis, one vegetable, one lentil dish, and yogurt.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Tiffin",
+      "price": 17.99,
+      "description": "6 Roti, One Sabzi, One Dal and Dahi (Medium)",
+      "category": "FOOD",
+      "simplified_description": "Medium meal with 6 rotis, one vegetable, one lentil dish, and yogurt.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daily Tiffin",
+      "price": 23.99,
+      "description": "8 Roti, One Sabzi, One Daal and Dahi (Large)",
+      "category": "FOOD",
+      "simplified_description": "Large meal with 8 rotis, one vegetable, one lentil dish, and yogurt.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tawa Roti",
+      "price": 0.79,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread cooked on a griddle.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Makki Di Roti",
+      "price": 2.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Cornmeal flatbread traditional in Punjabi cuisine.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Parantha",
+      "price": 1.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A simple flatbread made from wheat flour.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Parantha",
+      "price": 3.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with spiced mashed potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gobhi Parantha",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with spiced cauliflower filling.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Parantha",
+      "price": 3.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with seasoned onions.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mooli Parantha",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with spiced grated radish.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Parantha",
+      "price": 4.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with seasoned Indian cottage cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Parantha",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread stuffed with a mix of various vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Besan Chilla 1pec",
+      "price": 5.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Savory pancake made from gram flour batter.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lacha Parantha",
+      "price": 3.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Layered flaky flatbread made from wheat flour.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Appni Special Chai",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Traditional Indian spiced tea.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gur Chai",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Indian tea sweetened with jaggery.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sugar free Chai",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Traditional Indian spiced tea without sugar.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet yogurt-based traditional Indian drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Savory yogurt-based traditional Indian drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 5.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet mango-flavored yogurt drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pudina (mint) Lassi",
+      "price": 4.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A refreshing yogurt-based mint drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nimbu Pani",
+      "price": 3.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A traditional Indian lemonade made with fresh lemon juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 4.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Chilled coffee drink with milk and sugar.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 5.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Creamy chocolate milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 5.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet strawberry milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Smooth mango-flavored milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Pakoda",
+      "price": 9.99,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Assorted fried Indian snack fritters.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pakoda",
+      "price": 12.99,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Fried paneer cheese fritters.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Pakoda",
+      "price": null,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Bread slices coated and fried in spiced batter.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Roll",
+      "price": null,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Fried bread roll with savory filling.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Papdi Chaat",
+      "price": 8.99,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Crispy wafers topped with yogurt and chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chana Chaat",
+      "price": 9.99,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Samosa pieces mixed with chickpeas and chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tikki Chana Chaat",
+      "price": 9.99,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Potato patties served with chickpeas and chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dhai Bhalla",
+      "price": 9.99,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Lentil dumplings soaked in yogurt and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kachori Chaat",
+      "price": 10.0,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "Spiced fried pastry served with chickpeas and chutneys.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Samosa",
+      "price": 2.0,
+      "description": "",
+      "category": "SNACKS",
+      "simplified_description": "A fried or baked pastry with savory filling.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

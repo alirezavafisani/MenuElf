@@ -1,0 +1,304 @@
+{
+  "restaurant": "topintownpizza",
+  "parsed_at": "2026-02-06T04:39:47.042917",
+  "item_count": 33,
+  "items": [
+    {
+      "name": "Vegetarian",
+      "price": 12.99,
+      "description": "Mushrooms, Onions, Green Peppers, Black Olives, Pineapple, Tomatoes, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Mushrooms, Onions, Green Peppers, Black Olives, Pineapple, Tomatoes, Mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer",
+      "price": 12.99,
+      "description": "Onions, Green Peppers, Tomatoes, Jalapeno, Paneer, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Onions, Green Peppers, Tomatoes, Jalapeno, Paneer, Mozzarella Cheese & Tomato Sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 12.99,
+      "description": "Onions, Green Peppers, Tomatoes, Jalapeno, Paneer, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Onions, Green Peppers, Tomatoes, Jalapeno, Paneer, Mozzarella Cheese & Tomato Sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Veggie",
+      "price": 13.99,
+      "description": "Spinach, Onions, Green Olives, Feta Cheese, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Spinach, Onions, Green Olives, Feta Cheese, Mozzarella Cheese & Tomato Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 13.99,
+      "description": "Mushrooms, Red Onion, Green Pepper, Tomatoes, Chicken, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Mushrooms, Red Onion, Green Pepper, Tomatoes, Chicken, Mozzarella Cheese & Tomat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 13.99,
+      "description": "Mushroom, Red Onion, Green Pepper, Tomatoes, BBQ Chicken, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Mushroom, Red Onion, Green Pepper, Tomatoes, BBQ Chicken, Mozzarella Cheese & To",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": 13.99,
+      "description": "Red Onion, Green Pepper, Tomatoes, Chicken, Mozzarella Cheese & Butter Chikcen Sauce",
+      "category": "FOOD",
+      "simplified_description": "Red Onion, Green Pepper, Tomatoes, Chicken, Mozzarella Cheese & Butter Chikcen S",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Chicken",
+      "price": 13.99,
+      "description": "Red Onion, Green Pepper, Jalapeno, Banana Peppers, Chicken, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Red Onion, Green Pepper, Jalapeno, Banana Peppers, Chicken, Mozzarella Cheese & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican",
+      "price": 13.99,
+      "description": "Red Onion, Green Pepper, Tomatoes, Jalapeno & Ground Beef, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Red Onion, Green Pepper, Tomatoes, Jalapeno & Ground Beef, Mozzarella Cheese & T",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian",
+      "price": 13.99,
+      "description": "Pepperoni, Green Pepper, Tomatoes, Italian Sausage, Bacon, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Green Pepper, Tomatoes, Italian Sausage, Bacon, Mozzarella Cheese & T",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Special",
+      "price": 13.99,
+      "description": "Pepperoni, Capicollo, Green Pepper, Black Olives, Italian Sausage, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Capicollo, Green Pepper, Black Olives, Italian Sausage, Mozzarella Ch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme",
+      "price": 13.99,
+      "description": "Ham, Pepperoni, Onion, Green Peppers, Pineapple, Black Olives, Ground Beef, Mozzarella Cheese & Tomato Sauce",
+      "category": "FOOD",
+      "simplified_description": "Ham, Pepperoni, Onion, Green Peppers, Pineapple, Black Olives, Ground Beef, Mozz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushrooms",
+      "price": null,
+      "description": "Mushrooms",
+      "category": "OTHER",
+      "simplified_description": "Mushrooms",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onions",
+      "price": null,
+      "description": "Onions",
+      "category": "OTHER",
+      "simplified_description": "Onions",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Peppers",
+      "price": null,
+      "description": "Green Peppers",
+      "category": "OTHER",
+      "simplified_description": "Green Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Olives",
+      "price": null,
+      "description": "Black Olives",
+      "category": "OTHER",
+      "simplified_description": "Black Olives",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple",
+      "price": null,
+      "description": "Pineapple",
+      "category": "OTHER",
+      "simplified_description": "Pineapple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomatoes",
+      "price": null,
+      "description": "Tomatoes",
+      "category": "OTHER",
+      "simplified_description": "Tomatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "price": null,
+      "description": "Mozzarella Cheese",
+      "category": "OTHER",
+      "simplified_description": "Mozzarella Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Sauce",
+      "price": null,
+      "description": "Tomato Sauce",
+      "category": "OTHER",
+      "simplified_description": "Tomato Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer",
+      "price": null,
+      "description": "Paneer",
+      "category": "OTHER",
+      "simplified_description": "Paneer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeno",
+      "price": null,
+      "description": "Jalapeno",
+      "category": "OTHER",
+      "simplified_description": "Jalapeno",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Feta Cheese",
+      "price": null,
+      "description": "Feta Cheese",
+      "category": "OTHER",
+      "simplified_description": "Feta Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach",
+      "price": null,
+      "description": "Spinach",
+      "category": "OTHER",
+      "simplified_description": "Spinach",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": null,
+      "description": "BBQ Chicken",
+      "category": "OTHER",
+      "simplified_description": "BBQ Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Sauce",
+      "price": null,
+      "description": "Butter Chicken Sauce",
+      "category": "OTHER",
+      "simplified_description": "Butter Chicken Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Peppers",
+      "price": null,
+      "description": "Banana Peppers",
+      "category": "OTHER",
+      "simplified_description": "Banana Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ground Beef",
+      "price": null,
+      "description": "Ground Beef",
+      "category": "OTHER",
+      "simplified_description": "Ground Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni",
+      "price": null,
+      "description": "Pepperoni",
+      "category": "OTHER",
+      "simplified_description": "Pepperoni",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Sausage",
+      "price": null,
+      "description": "Italian Sausage",
+      "category": "OTHER",
+      "simplified_description": "Italian Sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Capicollo",
+      "price": null,
+      "description": "Capicollo",
+      "category": "OTHER",
+      "simplified_description": "Capicollo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham",
+      "price": null,
+      "description": "Ham",
+      "category": "OTHER",
+      "simplified_description": "Ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon",
+      "price": null,
+      "description": "Bacon",
+      "category": "OTHER",
+      "simplified_description": "Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "restaurant": "poachedyyc",
+  "parsed_at": "2026-02-06T03:51:39.798842",
+  "item_count": 60,
+  "items": [
+    {
+      "name": "EARLY BIRD BREAKFAST",
+      "price": 10.0,
+      "description": "2 EGGS, 2 STRIPS of BACON, SIGNATURE HASHBROWNS, 1 SLICE of TOAST",
+      "category": "FOOD",
+      "simplified_description": "2 EGGS, 2 STRIPS of BACON, SIGNATURE HASHBROWNS, 1 SLICE of TOAST",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TWO EGGER",
+      "price": 16.0,
+      "description": "local farm fresh eggs, choice of bacon, maple saskatoon berry beef sausage, ham or ½ avocado, toast, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "local farm fresh eggs, choice of bacon, maple saskatoon berry beef sausage, ham ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAPLE BREAKFAST BISCUIT",
+      "price": 17.5,
+      "description": "toasted buttermilk & chive biscuit, maple pork sausage smash patty, folded cheddar omelette, fresh avocado and tomato, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "toasted buttermilk & chive biscuit, maple pork sausage smash patty, folded chedd",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EYE OPENER",
+      "price": 24.0,
+      "description": "Two local farm fresh eggs, bacon, ham and maple saskatoon berry beef sausage, baked beans, grilled tomatoes & wild mushrooms, toast",
+      "category": "FOOD",
+      "simplified_description": "Two local farm fresh eggs, bacon, ham and maple saskatoon berry beef sausage, ba",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RANCHER",
+      "price": 22.0,
+      "description": "Charbroiled striploin steak, roasted tomatoes & wild mushrooms, two local farm fresh eggs, toast",
+      "category": "FOOD",
+      "simplified_description": "Charbroiled striploin steak, roasted tomatoes & wild mushrooms, two local farm f",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKING PIG",
+      "price": 18.5,
+      "description": "homemade buttermilk biscuit, smoked pork belly, bacon jam, maple bourbon bbq sauce, chicharrons",
+      "category": "FOOD",
+      "simplified_description": "homemade buttermilk biscuit, smoked pork belly, bacon jam, maple bourbon bbq sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FLORENTINE",
+      "price": 18.5,
+      "description": "homemade buttermilk biscuit, avocado, tomato, spinach, feta",
+      "category": "FOOD",
+      "simplified_description": "homemade buttermilk biscuit, avocado, tomato, spinach, feta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC",
+      "price": 17.5,
+      "description": "homemade buttermilk biscuit, shaved honey ham",
+      "category": "FOOD",
+      "simplified_description": "homemade buttermilk biscuit, shaved honey ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRIED CHICKEN",
+      "price": 18.5,
+      "description": "homemade buttermilk biscuit, buttermilk marinated chicken thigh, honey sriracha sauce",
+      "category": "FOOD",
+      "simplified_description": "homemade buttermilk biscuit, buttermilk marinated chicken thigh, honey sriracha ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPANISH BOWL",
+      "price": 19.5,
+      "description": "chorizo sausage, bacon, peppers, green onions, sunny eggs, fresh salsa, hollandaise",
+      "category": "FOOD",
+      "simplified_description": "chorizo sausage, bacon, peppers, green onions, sunny eggs, fresh salsa, hollanda",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH CANADIAN BOWL",
+      "price": 19.5,
+      "description": "Montreal smoked meat, maple baked beans, arugula, cheese curds, poached eggs, hollandaise",
+      "category": "FOOD",
+      "simplified_description": "Montreal smoked meat, maple baked beans, arugula, cheese curds, poached eggs, ho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HALIFAX BOWL",
+      "price": 19.0,
+      "description": "Canadian style donair meat, sweet sauce, Alberta cheese curds, grilled onions, tomatoes, sunny eggs",
+      "category": "FOOD",
+      "simplified_description": "Canadian style donair meat, sweet sauce, Alberta cheese curds, grilled onions, t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE BEYOND BOWL",
+      "price": 18.5,
+      "description": "plant based spicy Italian sausage, caramelized onions, mushrooms & spinach, fresh salsa, poached eggs",
+      "category": "FOOD",
+      "simplified_description": "plant based spicy Italian sausage, caramelized onions, mushrooms & spinach, fres",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BELGIUM WAFFLE",
+      "price": 15.0,
+      "description": "homemade buttermilk waffle, whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "homemade buttermilk waffle, whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE STACK",
+      "price": 15.0,
+      "description": "triple stacked buttermilk pancakes, whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "triple stacked buttermilk pancakes, whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH TOAST NEAT",
+      "price": 16.0,
+      "description": "double stacked thick cut brioche, whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "double stacked thick cut brioche, whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FAT ELVIS WAFFLE",
+      "price": 18.0,
+      "description": "buttermilk waffle, caramelized bananas, candied maple bacon, peanut butter drizzle",
+      "category": "FOOD",
+      "simplified_description": "buttermilk waffle, caramelized bananas, candied maple bacon, peanut butter drizz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLUEBERRY LEMON STACK",
+      "price": 17.5,
+      "description": "triple stacked buttermilk pancakes, maple blueberry compote, house made lemon curd",
+      "category": "FOOD",
+      "simplified_description": "triple stacked buttermilk pancakes, maple blueberry compote, house made lemon cu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BRISKET WAFFLE",
+      "price": 20.0,
+      "description": "House smoked brisket, bourbon bbq, pickled cabbage, maple jalapeno sour cream, green onions, cilantro, sunny eggs",
+      "category": "FOOD",
+      "simplified_description": "House smoked brisket, bourbon bbq, pickled cabbage, maple jalapeno sour cream, g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHORIZO BREAKFAST TACOS",
+      "price": 18.0,
+      "description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli and salsa in 3 buttermilk pancake tacos",
+      "category": "FOOD",
+      "simplified_description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH POULET",
+      "price": 22.5,
+      "description": "battered Challah French toast, crispy buttermilk chicken thighs, whipped maple butter, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "battered Challah French toast, crispy buttermilk chicken thighs, whipped maple b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BURNT END CORNBREAD",
+      "price": 19.0,
+      "description": "Grilled homemade cornbread, BBQ pork belly burnt ends, pickled cabbage, maple jalapeno sour cream, green onions, cilantro, sunny eggs, signature hash",
+      "category": "FOOD",
+      "simplified_description": "Grilled homemade cornbread, BBQ pork belly burnt ends, pickled cabbage, maple ja",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE MORNING BURGER",
+      "price": 22.0,
+      "description": "House made beef patty, ham, bacon, cheddar cheese, hickory sticks, sunny egg, brioche bun, skinny fries",
+      "category": "FOOD",
+      "simplified_description": "House made beef patty, ham, bacon, cheddar cheese, hickory sticks, sunny egg, br",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WILD MUSHROOM",
+      "price": 19.5,
+      "description": "smoked pork belly, wild mushrooms, cheddar & asiago cheese",
+      "category": "FOOD",
+      "simplified_description": "smoked pork belly, wild mushrooms, cheddar & asiago cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARDEN",
+      "price": 18.75,
+      "description": "spinach, fire roasted tomatoes, avocado, goat cheese",
+      "category": "FOOD",
+      "simplified_description": "spinach, fire roasted tomatoes, avocado, goat cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WEST COAST",
+      "price": 21.0,
+      "description": "cold smoked Pacific coho salmon, grilled asparagus, double cream brie, herb aioli",
+      "category": "FOOD",
+      "simplified_description": "cold smoked Pacific coho salmon, grilled asparagus, double cream brie, herb aiol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LITTLE EGGER",
+      "price": 11.0,
+      "description": "one egg, bacon or beef sausage, signature hash browns, one slice of toast",
+      "category": "FOOD",
+      "simplified_description": "one egg, bacon or beef sausage, signature hash browns, one slice of toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH TOAST",
+      "price": 11.0,
+      "description": "egg dipped brioche, whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "egg dipped brioche, whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WAFFLE FINGERS",
+      "price": 12.0,
+      "description": "1/2 waffle with icing sugar and whipped maple butter, 2 chicken fingers, plum sauce",
+      "category": "FOOD",
+      "simplified_description": "1/2 waffle with icing sugar and whipped maple butter, 2 chicken fingers, plum sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOC BANANA STACK",
+      "price": 11.0,
+      "description": "5 silver dollar pancakes, sliced banana, chocolate sauce, icing sugar, whipped maple butter",
+      "category": "FOOD",
+      "simplified_description": "5 silver dollar pancakes, sliced banana, chocolate sauce, icing sugar, whipped m",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHORT STACK",
+      "price": 9.0,
+      "description": "two pancakes, whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "two pancakes, whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 4.2,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Espresso",
+      "price": 5.2,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Con Panna",
+      "price": 5.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": 5.45,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Café Latte",
+      "price": 5.2,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Latte",
+      "price": 5.45,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Latte",
+      "price": 5.45,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hazelnut Latte",
+      "price": 5.45,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pumpkin Spice Latte",
+      "price": 5.45,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai Latte",
+      "price": 5.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Café Mocha",
+      "price": 5.2,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Macchiato",
+      "price": 5.45,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BREWED ICED COFFEE",
+      "price": 5.2,
+      "description": "Angel’s Coffee, simple syrup, half & half over Ice",
+      "category": "DRINK",
+      "simplified_description": "Angel’s Coffee, simple syrup, half & half over Ice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ICED CARAMEL MACCHIATO",
+      "price": 5.7,
+      "description": "Espresso, vanilla, milk, whipped cream, caramel sauce, over ice",
+      "category": "DRINK",
+      "simplified_description": "Espresso, vanilla, milk, whipped cream, caramel sauce, over ice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRESH DRIP COFFEE",
+      "price": 3.95,
+      "description": "Angels Organic by Paradise Mountain",
+      "category": "DRINK",
+      "simplified_description": "Angels Organic by Paradise Mountain",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEA",
+      "price": 4.0,
+      "description": "Orange Pekoe, English Breakfast, Earl Grey, Jasmine Green, Peppermint, Chamomile",
+      "category": "DRINK",
+      "simplified_description": "Orange Pekoe, English Breakfast, Earl Grey, Jasmine Green, Peppermint, Chamomile",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOT CHOCOLATE",
+      "price": 4.75,
+      "description": "with whipped cream, chocolate sauce",
+      "category": "DRINK",
+      "simplified_description": "with whipped cream, chocolate sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC MIMOSA",
+      "price": 8.5,
+      "description": "Fresh Squeezed OJ, Benvolio Prosecco 3oz",
+      "category": "DRINK",
+      "simplified_description": "Fresh Squeezed OJ, Benvolio Prosecco 3oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RUBY RED MIMOSA",
+      "price": 9.0,
+      "description": "Grapefruit Juice, Benvolio Prosecco, St. Germain Elderflower Liqueur 3.5oz",
+      "category": "DRINK",
+      "simplified_description": "Grapefruit Juice, Benvolio Prosecco, St. Germain Elderflower Liqueur 3.5oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRADITIONAL CAESAR",
+      "price": 8.5,
+      "description": "Motts Clamato, Vodka, Worcestershire, Tabasco, Pickled Bean 1.5oz",
+      "category": "DRINK",
+      "simplified_description": "Motts Clamato, Vodka, Worcestershire, Tabasco, Pickled Bean 1.5oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIXED FRUIT",
+      "price": 6.5,
+      "description": "mixed berries, banana, yogurt, crushed ice",
+      "category": "DRINK",
+      "simplified_description": "mixed berries, banana, yogurt, crushed ice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLEAN START",
+      "price": 6.5,
+      "description": "pineapple, mango, kale, spinach, banana, apple juice, orange juice, yogurt, crushed Ice",
+      "category": "DRINK",
+      "simplified_description": "pineapple, mango, kale, spinach, banana, apple juice, orange juice, yogurt, crus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY PEACH",
+      "price": 6.5,
+      "description": "strawberry, peach, banana, cranberry juice, apple juice, yogurt, crushed ice",
+      "category": "DRINK",
+      "simplified_description": "strawberry, peach, banana, cranberry juice, apple juice, yogurt, crushed ice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRANBERRY JUICE",
+      "price": 3.85,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOCOLATE MILK",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE MILK",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ORANGE JUICE",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRAPEFRUIT JUICE",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "APPLE JUICE",
+      "price": 3.85,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "restaurant": "bonjoursaigonyyc",
+  "parsed_at": "2026-02-06T01:11:50.018011",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "The Chicken & The Pancake",
+      "price": 18.0,
+      "description": "Jumbo fried chicken, cheese scallion pancake, spicy glaze, chive. Crema and egg your way",
+      "category": "FOOD",
+      "simplified_description": "Fried chicken with cheese pancake, spicy glaze, and customizable egg.",
+      "dietary_info": [
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BUILD YOUR BRUNCH",
+      "price": 18.0,
+      "description": "Two egg your ways\nChoice of Buttersauce Baguette or Two pancakes or Buttered Toast or Steamed Rice\nChoice of Marinated Steak or Pork Chop or Crispy Pork Bellies or Spicy Chorizo or Grilled Tomato and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Custom brunch with eggs, bread or rice, and choice of meat or veggies.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bò Né (Viet steak and Eggs )",
+      "price": 18.0,
+      "description": "Marinated steak, two eggs as you like, pate, French cheese, Baguette with Bonjour Saigon Butter sauce",
+      "category": "FOOD",
+      "simplified_description": "Marinated steak and eggs with pate, cheese, and buttered baguette.",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Tấm ( Viet’s famous breakfast broken rice)",
+      "price": 18.0,
+      "description": "Choice of Pork Chop or Chicken , fried egg, pickle, tomato, cucumber, confit scallion, broken rice served with house fish sauce.",
+      "category": "FOOD",
+      "simplified_description": "Broken rice with pork or chicken, egg, pickles, and fish sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mama Hoa “Hangover” Fried Rice",
+      "price": 18.0,
+      "description": "Jambon, chorizo, pork bellies, house sauce, veggies topped with fried egg, crispy onion, cilantro, green onion – Substitute Wild Mushroom and Tofu for Vegetarian option",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with meats, veggies, egg, and crispy onion; vegetarian option available.",
+      "dietary_info": [
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Vegetarian option available"
+    },
+    {
+      "name": "Extra Side",
+      "price": 3.0,
+      "description": "Hashbrown – House salad – Pancake (1) – Crispy pork belly – Spicy Chorizo sausage",
+      "category": "SIDE",
+      "simplified_description": "Choice of hashbrown, salad, pancake, pork belly, or spicy chorizo sausage.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chả Giò (Traditional Viet spring rolls)",
+      "price": 10.0,
+      "description": "Three crispy fried spring rolls, minced pork, taro, carrot, chives served with traditional fish sauce or creamy sesame peanut sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Three fried pork spring rolls with taro and veggies, served with sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gỏi Cuốn (salad rolls)",
+      "price": 10.0,
+      "description": "Three rolls, choice of Pork & Prawn or Tofu & Mushroom, vermicelli, herbs served with creamy sesame hoisin sauce, roasted peanut",
+      "category": "APPETIZER",
+      "simplified_description": "Three fresh rolls with pork & prawn or tofu & mushroom, herbs, and sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saigon Fries",
+      "price": 8.0,
+      "description": "House seasoning served with butter & sugar",
+      "category": "SIDE",
+      "simplified_description": "Fries with house seasoning, butter, and sugar.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gỏi Đu Đủ Trộn Tôm Thịt (Viet papaya salad)",
+      "price": 16.0,
+      "description": "Pork & Prawn or Tofu and Mushroom (V), papaya, carrot, Vietnamese herb, toasted peanut, prawn crackers served with pineapple fish sauce vinaigrette",
+      "category": "APPETIZER",
+      "simplified_description": "Papaya salad with pork & prawn or tofu, peanuts, and prawn crackers.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Tiger Prawn & Wonton Chip",
+      "price": 17.0,
+      "description": "Tossed in tangy creamy chili sauce, peanut, sesame seed, green onion",
+      "category": "APPETIZER",
+      "simplified_description": "Tiger prawns with wonton chips in creamy chili sauce with peanuts.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Má Heo Nướng (Charbroiled Pork Jowl)",
+      "price": 17.0,
+      "description": "Marinated pork jowl, house pickle, greens spicy peanut sauce",
+      "category": "FOOD",
+      "simplified_description": "Charbroiled pork jowl with pickles, greens, and spicy peanut sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cánh Gà Chiên (Crispy Chicken Wings)",
+      "price": 17.0,
+      "description": "Mama Hoa’s caramelized Fish sauce/ Vietnamese style Garlic Butter",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken wings with caramelized fish sauce or garlic butter.",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Bánh Mì",
+      "price": 15.0,
+      "description": "Jambon, Viet ham, house pate, cucumber, butter sauce, pickle, cilantro, crispy onion.",
+      "category": "OTHER",
+      "simplified_description": "Vietnamese sandwich with ham, pate, cucumber, butter sauce, and pickles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Thịt Nướng (BBQ Pork)",
+      "price": 15.0,
+      "description": "Charbroiled pork, pickle, cucumber, butter sauce, cilantro, crispy onion, house BBQ sauce.",
+      "category": "OTHER",
+      "simplified_description": "Vietnamese sandwich with BBQ pork, pickles, cucumber, and butter sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh mì Bò nướng bơ Sa tế (Butter Satay Lemongrass)",
+      "price": 15.0,
+      "description": "Grilled lemongrass beef, butter, butter sauce, cilantro, pickle, cucumber and crispy onion.",
+      "category": "OTHER",
+      "simplified_description": "Grilled lemongrass beef sandwich with butter sauce and fresh vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh mì Gà nướng (Grilled Lemongrass Chicken)",
+      "price": 15.0,
+      "description": "Grilled lemongrass chicken, butter sauce, cilantro, pickle, cucumber and crispy onion.",
+      "category": "OTHER",
+      "simplified_description": "Grilled lemongrass chicken sandwich with butter sauce and fresh vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese beef dip (French & Viet fusion)",
+      "price": 16.0,
+      "description": "Braised tender brisket, creamy cheese sauce, crispy shallot dip with mama Hoa’s stew.",
+      "category": "OTHER",
+      "simplified_description": "Braised beef with creamy cheese sauce and crispy shallot dip.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Satay Chop Cheese",
+      "price": 16.0,
+      "description": "Choice of Steak or Chicken Or Tofu & Mushroom, cheddar and swiss, tomato, lettuce, spicy peanut sauce, crispy onion, scallion oil.",
+      "category": "OTHER",
+      "simplified_description": "Sandwich with choice of protein, cheese, spicy peanut sauce, and vegetables.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried chicken Sandwich",
+      "price": 16.0,
+      "description": "Jumbo Fried Chicken with creamy chili sauce, fresh green, tomato, pickle onion, buttered toast",
+      "category": "OTHER",
+      "simplified_description": "Fried chicken sandwich with creamy chili sauce and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Wild Mushroom Grilled Cheese",
+      "price": 15.0,
+      "description": "Soy marinated mushroom, mixed cheese, tomato & basil remoulade.",
+      "category": "OTHER",
+      "simplified_description": "Grilled cheese sandwich with soy-marinated mushrooms and tomato basil sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bún thịt nướng chả giò (Vermicelli bowl)",
+      "price": 17.0,
+      "description": "Charbroiled Pork or Steak , springroll, herbs, pickle, toasted peanut and fried shallot.  Sub Tofu & Mushroom and seasoned soya sauce for vegetarian options.",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli bowl with choice of meat or tofu, springroll, herbs, and peanuts.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Vegetarian option available"
+    },
+    {
+      "name": "Bò Hầm ( Mama Hoa’s signature braised beef stew)",
+      "price": 17.0,
+      "description": "Vietnamese twist on tradition French beef stew, tender braised brisket & flank in a slight spiced coconut tomato broth, touch of wine served with tradition baguette for dipping or rice noodle",
+      "category": "FOOD",
+      "simplified_description": "Braised beef stew in spiced coconut tomato broth with baguette or rice noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nui Xào (Vietnamese Stir Fried Pasta & Egg)",
+      "price": 16.0,
+      "description": "Vietnamese style stir fried pasta, caramelized onion & pepper, touch of butter  Add Steak or Shrimp – $3  Chicken or Tofu and Mushroom – $2",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried pasta with egg, onion, pepper, and butter; add protein for extra cost.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hủ Tiếu Sa Tế ( District 5 peanut satay soup)",
+      "price": 17.0,
+      "description": "Satay marinated steak, beef ball, rice noodle, tomato, cucumber topped with peanut and crispy onion",
+      "category": "FOOD",
+      "simplified_description": "Peanut satay soup with marinated steak, beef balls, rice noodles, and vegetables.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bonjour Saigon’s PHở",
+      "price": 18.0,
+      "description": "Thick sliced of beef flank, beef shank, beef balls, shaved fresh sirloin, in our version of Phở broth, comes with fresh Vietnamese herb & beansprout. No MSG added.  Recommended with pickled garlic.",
+      "category": "FOOD",
+      "simplified_description": "Beef pho with various cuts of beef, herbs, and beansprouts in broth.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "No MSG added"
+    },
+    {
+      "name": "Chicken & Wonton Chip Tossed Egg Noodle",
+      "price": 17.0,
+      "description": "Crispy chicken & wonton, fresh cucumber, egg noodle with sweet chilli aioli & toasted peanut",
+      "category": "FOOD",
+      "simplified_description": "Egg noodles with crispy chicken, wonton chips, cucumber, chili aioli, and peanuts.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Tấm (Vietnamese broken rice)",
+      "price": 18.0,
+      "description": "Choice of pork chop or chicken, fried egg, fish sauce, pickle.",
+      "category": "FOOD",
+      "simplified_description": "Broken rice with choice of pork or chicken, fried egg, and pickles.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cơm Chiên ( Viet Fried Rice)",
+      "price": 16.0,
+      "description": "Assorted vegetable, special stir fried sauce, eggs garnished with crispy onion, cilantro and  scallion  Add Steak or Shrimp – $3  Chicken or Tofu and Mushroom – $2",
+      "category": "FOOD",
+      "simplified_description": "Fried rice with vegetables, eggs, and herbs; add protein for extra cost.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Family BBQ Platter for 4",
+      "price": 75.0,
+      "description": "Charbroiled pork chop, Grilled lemongrass steak & chicken, spring rolls, rice, choice of salad or fries, fresh herb, house pickle, two dipping sauces, crispy onion & toasted peanut, scallion oil.",
+      "category": "FOOD",
+      "simplified_description": "BBQ platter with assorted meats, spring rolls, rice, sides, and dipping sauces for four.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "Platter for 2 (Shareable)",
+      "price": null,
+      "description": "Choice of one Shareable Choice of two Main mix and match (brunches are not included) Choice of one Dessert",
+      "category": "OTHER",
+      "simplified_description": "A shareable platter with one shareable, two mains, and one dessert.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Cà phê sữa (Vietnamese espresso with condensed milk)",
+      "price": 6.0,
+      "description": "Hot / Cold – 16oz  Add topping $2  Coconut cream or Salted cream",
+      "category": "DRINK",
+      "simplified_description": "Vietnamese espresso with sweet condensed milk, served hot or cold.",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAFE DU MONDE COFFEE",
+      "price": 4.0,
+      "description": "16oz",
+      "category": "DRINK",
+      "simplified_description": "A 16oz serving of Cafe Du Monde coffee.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEA SELECTION",
+      "price": 3.0,
+      "description": "Jasmine / Earls grey / Green tea / Citrus",
+      "category": "DRINK",
+      "simplified_description": "Choice of jasmine, Earl Grey, green, or citrus tea.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Citrus Peach Orange Tea",
+      "price": 7.0,
+      "description": "House blend cold brew, fresh orange, house lemongrass & peach syrup",
+      "category": "DRINK",
+      "simplified_description": "Cold brew tea with fresh orange, lemongrass, and peach syrup.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lychee Mint Tea",
+      "price": 7.0,
+      "description": "House blend cold brew, lychee, crushed mint, lime juice",
+      "category": "DRINK",
+      "simplified_description": "Cold brew tea with lychee, mint, and lime juice.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Citrus lime honey tea",
+      "price": 7.0,
+      "description": "House blend cold brew, fresh lime juice, honey, orange",
+      "category": "DRINK",
+      "simplified_description": "Cold brew tea with lime juice, honey, and orange.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

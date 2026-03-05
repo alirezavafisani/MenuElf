@@ -1,0 +1,397 @@
+{
+  "restaurant": "kildares",
+  "parsed_at": "2026-02-06T02:57:02.849230",
+  "item_count": 41,
+  "items": [
+    {
+      "name": "TWO EGGER",
+      "price": 16.0,
+      "description": "local farm fresh eggs, choice of ham, bacon, saskatoon berry beef sausage or ½ avocado, toast, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "Two eggs with choice of meat or avocado, toast, and fresh fruit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAPLE BREAKFAST BISCUIT",
+      "price": 17.5,
+      "description": "Toasted buttermilk & chive biscuit, maple pork sausage smash patty, folded cheddar omelette, fresh avocado & tomato, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "Buttermilk biscuit with sausage, cheddar omelette, avocado, tomato, and fresh fruit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EYE OPENER",
+      "price": 24.0,
+      "description": "Two local farm fresh eggs, bacon, ham and saskatoon berry beef sausage, baked beans, grilled tomatoes & wild mushrooms, toast",
+      "category": "FOOD",
+      "simplified_description": "Eggs with bacon, ham, sausage, beans, tomatoes, mushrooms, and toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RANCHER",
+      "price": 22.0,
+      "description": "Charbroiled striploin steak, roasted tomatoes & wild mushrooms, two local farm fresh eggs, toast",
+      "category": "FOOD",
+      "simplified_description": "Steak with roasted tomatoes, mushrooms, eggs, and toast.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC",
+      "price": 17.5,
+      "description": "homemade buttermilk biscuit, shaved honey ham",
+      "category": "FOOD",
+      "simplified_description": "Buttermilk biscuit with shaved honey ham.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKING PIG",
+      "price": 18.5,
+      "description": "homemade buttermilk biscuit, smoked pork belly, bacon jam, maple bourbon bbq sauce, chicharrons",
+      "category": "FOOD",
+      "simplified_description": "Buttermilk biscuit with smoked pork belly, bacon jam, BBQ sauce, and chicharrons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FLORENTINE",
+      "price": 18.5,
+      "description": "homemade buttermilk biscuit, avocado, tomato, spinach, feta",
+      "category": "FOOD",
+      "simplified_description": "Buttermilk biscuit with avocado, tomato, spinach, and feta cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FRIED CHICKEN",
+      "price": 18.5,
+      "description": "homemade buttermilk biscuit, buttermilk marinated chicken thigh, honey sriracha sauce",
+      "category": "FOOD",
+      "simplified_description": "Buttermilk biscuit with fried chicken thigh and honey sriracha sauce.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "FRENCH POULET",
+      "price": 22.5,
+      "description": "Battered Challah French Toast, crispy buttermilk chicken thighs, whipped maple butter, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "French toast with crispy chicken thighs, maple butter, and fresh fruit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BURNT END CORNBREAD",
+      "price": 19.0,
+      "description": "Grilled homemade cornbread, BBQ pork belly burnt ends, pickled cabbage, maple jalapeno sour cream, green onions, cilantro, sunny eggs, signature hash",
+      "category": "FOOD",
+      "simplified_description": "Cornbread with BBQ pork, pickled cabbage, jalapeno sour cream, eggs, and hash.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "THE MORNING BURGER",
+      "price": 22.0,
+      "description": "House made beef patty, ham, bacon, cheddar cheese, hickory sticks, sunny egg, brioche bun, skinny fries",
+      "category": "FOOD",
+      "simplified_description": "Beef burger with ham, bacon, cheddar, egg, and fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPANISH BOWL",
+      "price": 19.0,
+      "description": "Chorizo, sausage, bacon, peppers, green onions, sunny side eggs, salsa, hollandaise, signature hash browns",
+      "category": "FOOD",
+      "simplified_description": "Bowl with chorizo, sausage, bacon, eggs, peppers, salsa, and hash browns.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "FRENCH CANADIAN BOWL",
+      "price": 19.0,
+      "description": "Montreal smoked meat, baked beans, arugula, cheese curds, poached eggs, hollandaise, signature hash browns",
+      "category": "FOOD",
+      "simplified_description": "Bowl with smoked meat, beans, arugula, cheese curds, eggs, and hash browns.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HALIFAX BOWL",
+      "price": 19.0,
+      "description": "Canadian style donair meat, sweet sauce, Alberta cheese curds, grilled onions, tomatoes, sunny eggs, signature hash browns",
+      "category": "FOOD",
+      "simplified_description": "Bowl with donair meat, cheese curds, onions, tomatoes, eggs, and hash browns.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE BEYOND BOWL",
+      "price": 18.5,
+      "description": "plant based spicy italian sausage, caramelized onions, mushrooms & spinach, signature hash browns, fresh salsa, poached eggs",
+      "category": "FOOD",
+      "simplified_description": "Bowl with plant-based spicy sausage, veggies, salsa, eggs, and hash browns.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "GARDEN",
+      "price": 18.75,
+      "description": "Spinach, fire roasted tomatoes, avocado, goat cheese",
+      "category": "FOOD",
+      "simplified_description": "Spinach, fire roasted tomatoes, avocado, goat cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WILD MUSHROOM",
+      "price": 19.5,
+      "description": "Smoked pork belly, wild mushrooms, cheddar and asiago cheese garnish",
+      "category": "FOOD",
+      "simplified_description": "Smoked pork belly, wild mushrooms, cheddar and asiago cheese garnish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WEST COAST",
+      "price": 21.0,
+      "description": "Cold smoked Pacific coho salmon, grilled asparagus, double cream brie, herb aioli",
+      "category": "FOOD",
+      "simplified_description": "Cold smoked Pacific coho salmon, grilled asparagus, double cream brie, herb aiol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BELGIUM WAFFLE",
+      "price": 15.0,
+      "description": "Whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "Whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE STACK",
+      "price": 15.0,
+      "description": "3 stacked buttermilk pancakes, whippped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "3 stacked buttermilk pancakes, whippped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH TOAST NEAT",
+      "price": 16.0,
+      "description": "Double stacked thick cut brioche, whipped maple butter, icing sugar",
+      "category": "FOOD",
+      "simplified_description": "Double stacked thick cut brioche, whipped maple butter, icing sugar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FAT ELVIS WAFFLE",
+      "price": 18.0,
+      "description": "Buttermilk waffle, caramelized bananas, candied maple bacon, peanut butter drizzle",
+      "category": "FOOD",
+      "simplified_description": "Buttermilk waffle, caramelized bananas, candied maple bacon, peanut butter drizz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLUEBERRY LEMON STACK",
+      "price": 17.5,
+      "description": "Triple stacked buttermilk pancakes, maple blueberry compote, house made lemon curd",
+      "category": "FOOD",
+      "simplified_description": "Triple stacked buttermilk pancakes, maple blueberry compote, house made lemon cu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE BRISKET WAFFLE",
+      "price": 20.0,
+      "description": "House smoked brisket, bourbon BBQ sauce, pickled cabbage, maple jalapeno sour cream, green onions, cilantro, sunny eggs",
+      "category": "FOOD",
+      "simplified_description": "House smoked brisket, bourbon BBQ sauce, pickled cabbage, maple jalapeno sour cr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHORIZO BREAKFAST TACOS",
+      "price": 18.0,
+      "description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli and salsa in 3 buttermilk pancake tacos",
+      "category": "FOOD",
+      "simplified_description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LITTLE EGGER",
+      "price": 11.0,
+      "description": "One egg, 2 slices of bacon or maple pork sausage smash patty, one slice of toast, signature hash browns, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "One egg, 2 slices of bacon or maple pork sausage smash patty, one slice of toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH TOAST",
+      "price": 11.0,
+      "description": "One slice French toast, whipped maple butter, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "One slice French toast, whipped maple butter, fresh fruit garnish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WAFFLE FINGERS",
+      "price": 12.0,
+      "description": "1/2 waffle, whipped maple butter, 2 chicken fingers, plum sauce, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "1/2 waffle, whipped maple butter, 2 chicken fingers, plum sauce, fresh fruit gar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHOCOLATE BANANA STACK",
+      "price": 11.0,
+      "description": "5 silver dollar pancakes, sliced banana, chocolate sauce, maple butter, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "5 silver dollar pancakes, sliced banana, chocolate sauce, maple butter, fresh fr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANCAKES",
+      "price": 9.0,
+      "description": "2 pancakes, whipped maple butter, icing sugar, fresh fruit garnish",
+      "category": "FOOD",
+      "simplified_description": "2 pancakes, whipped maple butter, icing sugar, fresh fruit garnish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Striploin Steak Sandwich and Fries",
+      "price": 16.0,
+      "description": "*$3 extra for yam fries, soup or salad",
+      "category": "FOOD",
+      "simplified_description": "Steak sandwich served with fries, with optional yam fries, soup, or salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Truck Amber Pint",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pint of Red Truck Amber beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Red and White Wine (6oz)",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A 6oz glass of house red or white wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Okanagan Springs 1516 Lager Pint",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pint of Okanagan Springs 1516 Lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$2.00 Off House Cocktails",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Discount of $2.00 on house cocktails.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phillips Blue Buck Pint",
+      "price": 6.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pint of Phillips Blue Buck beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phillips Gorilla Mode Yacht Rocker Hazy IPA",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pint of Phillips Gorilla Mode Yacht Rocker Hazy IPA beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hard Knox Grunt Work Amber Ale Pint",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pint of Hard Knox Grunt Work Amber Ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pabst Blue Ribbon Pint",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A pint of Pabst Blue Ribbon beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ketel One Vodka (1 oz)",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A 1 oz serving of Ketel One Vodka.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Lime Mussels",
+      "price": 18.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Mussels cooked with chili and lime flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "restaurant": "masheats",
+  "parsed_at": "2026-02-06T03:18:18.828618",
+  "item_count": 7,
+  "items": [
+    {
+      "name": "PEPPERONI + MUSHROOM",
+      "price": null,
+      "description": "Tomato sauce, with zesty pepperoni and wild mushrooms. Topped with mozzarella and fresh herbs.",
+      "category": "OTHER",
+      "simplified_description": "Tomato sauce, with zesty pepperoni and wild mushrooms. Topped with mozzarella an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC PIZZA",
+      "price": 18.75,
+      "description": "10\" $18.75 | 14\" $29.25",
+      "category": "OTHER",
+      "simplified_description": "10\" $18.75 | 14\" $29.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC CHEESE",
+      "price": null,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC PEPPERONI",
+      "price": null,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC HAWAIIAN",
+      "price": null,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC PEPPERONI + BACON",
+      "price": null,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "pawsome pizza",
+      "price": 15.0,
+      "description": "For every purchase of a pawsome pizza, The Mash donates $1 to local animal shelter AARCS. Crust: Rolled oats Spent grain Honey vegetable oil peanut butter ​Toppings: Pumpkin puree Chicken Roasted red pepper Mozzarella cheese *Not intended for meal replacement, please feed as a treat only, suggested serving size 1/4 pizza per 25lb.",
+      "category": "OTHER",
+      "simplified_description": "For every purchase of a pawsome pizza, The Mash donates $1 to local animal shelt",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

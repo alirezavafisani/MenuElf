@@ -1,0 +1,587 @@
+{
+  "restaurant": "bootleggers",
+  "parsed_at": "2025-12-25T01:59:43.557303",
+  "item_count": 64,
+  "items": [
+    {
+      "name": "Szechuan Lettuce Wraps",
+      "price": 18,
+      "description": "Grilled chicken, chow mein, mixed vegetables, sweet and spicy sauce, peanuts.",
+      "simplified_description": "Grilled chicken wrapped in lettuce with noodles and a spicy sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pot Stickers",
+      "price": 14,
+      "description": "Chicken & vegetable dumplings served with soya sauce and chili oil.",
+      "simplified_description": "Dumplings filled with chicken and vegetables, served with soy sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari",
+      "price": 15.5,
+      "description": "In-house breaded calamari, garnished with mixed onions, and served with house-made Tzatziki.",
+      "simplified_description": "Breaded squid served with a yogurt sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Skins",
+      "price": 15,
+      "description": "Bacon, shredded cheese, onion, and tomato baked in crispy potato skins.",
+      "simplified_description": "Crispy potato skins topped with bacon and cheese.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 17,
+      "description": "House-made chicken fingers served with fries and plum sauce. Dipping sauce substitutions available by request.",
+      "simplified_description": "Fried chicken strips served with fries and plum sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Dipping sauce substitutions available"
+    },
+    {
+      "name": "Crispy Pickle Spears",
+      "price": 15,
+      "description": "Crispy fried pickle spears served with ranch.",
+      "simplified_description": "Fried pickles served with ranch dressing.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 13,
+      "description": "Cheese curds, fries, house made gravy.",
+      "simplified_description": "Fries topped with cheese curds and gravy.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perogy Poutine",
+      "price": 15,
+      "description": "Mini perogies, cheese curds, bacon, house-made gravy, sour cream.",
+      "simplified_description": "Fries topped with perogies, cheese, bacon, and gravy.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 15,
+      "description": "House made mozza sticks with marinara dip.",
+      "simplified_description": "Fried cheese sticks served with marinara sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Pork Dry Ribs",
+      "price": 15,
+      "description": "Breaded pork ribs served with ranch or blue cheese. *See flavours below.",
+      "simplified_description": "Breaded pork ribs served with ranch or blue cheese dressing.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blackened Steak Strips",
+      "price": 18.5,
+      "description": "6oz Alberta AAA sirloin served with chippers and cayenne aioli.",
+      "simplified_description": "Blackened steak strips served with chips and spicy aioli.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 18,
+      "description": "1 lb fresh wings served with ranch or blue cheese. *See flavours below.",
+      "simplified_description": "Fresh chicken wings served with ranch or blue cheese dressing.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Choice of wing sauces: Mild, Hot, BBQ, Apple BBQ, Teriyaki, Hot Teriyaki, Honey Garlic, Hot Honey Garlic. Seasonings: Salt & pepper, Lemon Pepper, Cajun."
+    },
+    {
+      "name": "Nacho Platter",
+      "price": 26,
+      "description": "House-made tri-coloured corn chips, marble cheese, green onions, black olives, jalapenos, and tomato served with salsa and sour cream. (Serves 3-4 people)",
+      "simplified_description": "A large platter of nachos with cheese and toppings, served with salsa.",
+      "category": "For the Group",
+      "dietary_info": [],
+      "other_info": "ADD Cajun Chicken or beef +$4.5 / Guacamole +$3 / Extra Cheese, salsa or sour cream +$3"
+    },
+    {
+      "name": "Bootkicker Platter",
+      "price": 48,
+      "description": "Crispy pickle spears, mozza sticks, chicken wings, potato skins, and nacho’s served with sour cream, salsa, and marinara sauce. (Serves 4-6 people) *no alterations or substitutions.",
+      "simplified_description": "A large platter with various appetizers served with dips.",
+      "category": "For the Group",
+      "dietary_info": [],
+      "other_info": "No alterations or substitutions."
+    },
+    {
+      "name": "Wing Platter",
+      "price": 65,
+      "description": "40 Wings, 4 flavors of your choice.",
+      "simplified_description": "A large platter of wings with four different sauces.",
+      "category": "For the Group",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Dip",
+      "price": 17,
+      "description": "Cream cheese, ranch, buffalo chicken, roasted artichokes, shredded cheese, topped with green onions and sour cream. Served with naan bread and nacho chips.",
+      "simplified_description": "A creamy dip with buffalo chicken served with naan and chips.",
+      "category": "For the Group",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soup of the Day",
+      "price": 7,
+      "description": "A bowl of the Chef’s daily creation, served with garlic baguette.",
+      "simplified_description": "A daily soup served with garlic bread.",
+      "category": "Salads & Soups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 9,
+      "description": "Romaine lettuce, parmesan cheese, croutons.",
+      "simplified_description": "A salad with romaine lettuce, cheese, and croutons.",
+      "category": "Salads & Soups",
+      "dietary_info": [],
+      "other_info": "Starter size"
+    },
+    {
+      "name": "Cobb Salad",
+      "price": 18,
+      "description": "Tuscan mix greens, tomatoes, mixed cheese, avocado, egg, bacon, grilled chicken, ham with a light lemon honey dressing.",
+      "simplified_description": "A salad with greens, cheese, avocado, egg, bacon, and chicken.",
+      "category": "Salads & Soups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Asian Peanut Chicken Salad",
+      "price": 18,
+      "description": "Grilled chicken, cabbage, shredded carrots, green onions, romaine lettuce and chow mein noodles. Topped with wonton crisps and tossed in our house made peanut sauce.",
+      "simplified_description": "A salad with grilled chicken, cabbage, and a peanut dressing.",
+      "category": "Salads & Soups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southwestern Chicken",
+      "price": 18,
+      "description": "Grilled chicken, Tuscan mix greens, black beans, corn salsa, tomatoes, black olives, tortilla strips, avocado, cheddar cheese with a creamy chipotle dressing.",
+      "simplified_description": "A salad with grilled chicken, beans, corn, and a spicy dressing.",
+      "category": "Salads & Soups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Burger",
+      "price": 19.5,
+      "description": "Homemade ground chuck patty, leaf lettuce, tomato, red onion, pickles, mayo. Choice of two extra toppings.",
+      "simplified_description": "A classic burger with lettuce, tomato, and your choice of toppings.",
+      "category": "Gourmet Burgers",
+      "dietary_info": [],
+      "other_info": "Choice of two extra toppings."
+    },
+    {
+      "name": "Jalapeno Jack Burger",
+      "price": 19.5,
+      "description": "Homemade ground chuck patty, bacon, jalapeno jack cheese, leaf lettuce, tomato, red onion, jalapenos, and spicy chipotle aioli.",
+      "simplified_description": "A spicy burger with jalapeno cheese and bacon.",
+      "category": "Gourmet Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southern Fried Chicken Burger",
+      "price": 19.5,
+      "description": "Cornflake crusted chicken smothered in hot sauce with bacon, cheddar, leaf lettuce, tomato, mayo.",
+      "simplified_description": "A fried chicken burger with hot sauce and bacon.",
+      "category": "Gourmet Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Burger",
+      "price": 19.5,
+      "description": "BBQ glazed chicken, mozzarella cheese, crispy onion ring bacon, leaf lettuce, tomato, and mayo.",
+      "simplified_description": "A BBQ chicken burger with cheese and onion rings.",
+      "category": "Gourmet Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Buffalo Wrap",
+      "price": 18,
+      "description": "Chicken tenders, buffalo sauce, lettuce, tomato, mozzarella with ranch dressing wrapped in a flour tortilla with your choice of side.",
+      "simplified_description": "A wrap with chicken tenders and buffalo sauce.",
+      "category": "Handhelds",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Street Side Tacos",
+      "price": 18,
+      "description": "Three blackened ocean wise basa tacos with coleslaw, pico de gallo, and avocado served in a flour tortilla, Served with a sweet and tangy hot sauce on the side, on request.",
+      "simplified_description": "Three fish tacos with coleslaw and avocado.",
+      "category": "Handhelds",
+      "dietary_info": [],
+      "other_info": "Sweet and tangy hot sauce available on request."
+    },
+    {
+      "name": "Chicken Tacos",
+      "price": 18,
+      "description": "Three Cajun chicken tacos with coleslaw, pico de gallo, and chipotle aioli served in a flour tortilla and garnished with cilantro and hot sauce on the side on request.",
+      "simplified_description": "Three chicken tacos with coleslaw and chipotle sauce.",
+      "category": "Handhelds",
+      "dietary_info": [],
+      "other_info": "Hot sauce available on request."
+    },
+    {
+      "name": "Supreme Beef Dip",
+      "price": 19,
+      "description": "Alberta shaved beef, jack cheese, and garlic aioli on a pretzel baguette served with au jus and your choice of side.",
+      "simplified_description": "A beef sandwich with cheese and garlic sauce.",
+      "category": "Sandwiches & Such",
+      "dietary_info": [],
+      "other_info": "ADD mushrooms or onions +$1"
+    },
+    {
+      "name": "Beef Brisket Sandwich",
+      "price": 20.5,
+      "description": "Pulled beef, Jack Daniels BBQ, caramelized onions, cheddar and jalapeno jack cheese and your choice of side.",
+      "simplified_description": "A pulled beef sandwich with BBQ sauce and cheese.",
+      "category": "Sandwiches & Such",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Meat Sandwich",
+      "price": 19,
+      "description": "Montreal smoked meat on marble rye bread served with grainy mustard and your choice of side. Add swiss cheese and sauerkraut +$1.50",
+      "simplified_description": "A smoked meat sandwich served with mustard.",
+      "category": "Sandwiches & Such",
+      "dietary_info": [],
+      "other_info": "Add swiss cheese and sauerkraut +$1.50"
+    },
+    {
+      "name": "Chicken Quesadilla",
+      "price": 19,
+      "description": "Onion, tomato, jalapeno, green pepper, shredded chipotle chicken, and marble cheese grilled in a flour tortilla, served with salsa and sour cream and your choice of side.",
+      "simplified_description": "A quesadilla with chicken and cheese.",
+      "category": "Sandwiches & Such",
+      "dietary_info": [],
+      "other_info": "ADD jalapenos +$1"
+    },
+    {
+      "name": "Bootlegger’s Cab. Steak Sandwich",
+      "price": 23,
+      "description": "6oz 100% Alberta sirloin cooked to perfection, served with garlic toast, steak sauce and your choice of side.",
+      "simplified_description": "A steak sandwich served with garlic toast.",
+      "category": "From the Broiler",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Steak",
+      "price": 35,
+      "description": "9oz AAA New York striploin cooked to perfection served with seasonal vegetables and your choice of mashed potato, fries or rice.",
+      "simplified_description": "A New York strip steak served with vegetables and a side.",
+      "category": "From the Broiler",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "price": 21.5,
+      "description": "Choice of chicken or shrimp in a parmesan alfredo sauce. Diced tomato, mushrooms, green onions, with garlic toast.",
+      "simplified_description": "Pasta with chicken or shrimp in a creamy sauce.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lasagna",
+      "price": 19.5,
+      "description": "Ground beef, mozzarella, parmesan, and tomato sauce served with a tossed salad and garlic toast. Substitute a Caesar salad for +$1",
+      "simplified_description": "Lasagna with beef and cheese served with salad.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": "Substitute a Caesar salad for +$1"
+    },
+    {
+      "name": "Lobster & Chorizo Mac and Cheese",
+      "price": 19.5,
+      "description": "Cavatappi pasta, lobster and chorizo sausage with homemade cheese sauce and garlic toast.",
+      "simplified_description": "Mac and cheese with lobster and sausage.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chipotle Pasta",
+      "price": 19.5,
+      "description": "Scooby-doo noodles, Cajun chicken, green onions, tomatoes with spicy chipotle sauce, shaved parmesan and garlic toast.",
+      "simplified_description": "Pasta with Cajun chicken and a spicy sauce.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 19.5,
+      "description": "Haddock served with fries, coleslaw, and tartar sauce.",
+      "simplified_description": "Fried fish served with fries and coleslaw.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Maple Dijon Salmon",
+      "price": 23,
+      "description": "Salmon fillets served with basmati rice and seasonal vegetables. Substitute for cajun blackened salmon available.",
+      "simplified_description": "Salmon served with rice and vegetables.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": "Substitute for cajun blackened salmon available."
+    },
+    {
+      "name": "Beef Short Ribs",
+      "price": 24,
+      "description": "Slow roasted short rib served with mashed potatoes, seasonal vegetables, and au jus.",
+      "simplified_description": "Slow-cooked beef ribs served with potatoes and vegetables.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peppercorn Chicken",
+      "price": 21,
+      "description": "Chicken in a creamy peppercorn sauce with mushroom, red onion, served with mashed potatoes and seasonal vegetables.",
+      "simplified_description": "Chicken in a creamy sauce served with potatoes and vegetables.",
+      "category": "Entrees",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bootlegger’s Classic",
+      "price": 19,
+      "description": "Bacon, pepperoni, beef, shrimp, mushrooms, green peppers, onions, tomato sauce, and mozzarella.",
+      "simplified_description": "A classic pizza with various toppings.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Pepperoni",
+      "price": 18,
+      "description": "3 types of pepperoni, tomato sauce, and mozzarella.",
+      "simplified_description": "A pizza with three kinds of pepperoni.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Lovers",
+      "price": 19,
+      "description": "Spicy sausage, pepperoni, shaved ham, ground beef, bacon, tomato sauce, and mozzarella.",
+      "simplified_description": "A pizza loaded with various meats.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barbecue Pulled Pork",
+      "price": 18,
+      "description": "Pulled pork, red onions, bacon, applewood smoked cheddar, barbeque sauce, crispy fried onions, jalapenos, and mozzarella.",
+      "simplified_description": "A pizza with pulled pork and BBQ sauce.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Supreme",
+      "price": 18,
+      "description": "Beef, onion, jalapeno, lettuce, sliced tomatoes, mozzarella and cheddar. Served with sour cream and salsa on the side.",
+      "simplified_description": "A pizza with beef and fresh toppings.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clubhouse",
+      "price": 18,
+      "description": "Chicken, bacon, ham, diced tomatoes, tomato sauce, mozzarella, and cheddar.",
+      "simplified_description": "A pizza with chicken, bacon, and ham.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 18,
+      "description": "Red onion, mushrooms, diced tomatoes, green peppers, pineapple, black olives, tomato sauce, and mozzarella.",
+      "simplified_description": "A pizza with various vegetables.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek",
+      "price": 18,
+      "description": "Ground beef, green peppers, mushrooms, black olives, feta, tomato sauce, and mozzarella.",
+      "simplified_description": "A pizza with beef and Greek toppings.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian",
+      "price": 17,
+      "description": "Ham, pineapple, tomato sauce, and mozzarella.",
+      "simplified_description": "A pizza with ham and pineapple.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build Your Own (3 Toppings)",
+      "price": 18,
+      "description": "TOPPING CHOICES: Chicken, Beef, Ham, Bacon, Shrimp, Italian Sausage, Pepperoni, Mozzarella, Feta, Cheddar, Tomato, Onion, Red Onion, Mushroom, Green Pepper, Black Olives, Pineapple, Banana Pepper, Jalapenos.",
+      "simplified_description": "Create your own pizza with three toppings.",
+      "category": "Oven Fresh Gourmet Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 15,
+      "description": "Grilled chicken, red onions, green onions, BBQ sauce, and mozzarella cheese.",
+      "simplified_description": "A flatbread with BBQ chicken and cheese.",
+      "category": "Fresh Flatbreads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Honey Pepperoni",
+      "price": 15,
+      "description": "Pepperoni, mozzarella cheese, topped with a sriracha honey drizzle.",
+      "simplified_description": "A flatbread with pepperoni and a spicy honey drizzle.",
+      "category": "Fresh Flatbreads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 15,
+      "description": "Roasted red pepper, caramelized onions, roma tomato, feta cheese.",
+      "simplified_description": "A flatbread with roasted vegetables and feta.",
+      "category": "Fresh Flatbreads",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky Toffee Cake",
+      "price": 9,
+      "description": "Warm vanilla cake, layer of toffee, whipped cream, served with a scoop of vanilla bean ice cream.",
+      "simplified_description": "A warm cake with toffee and ice cream.",
+      "category": "For the Sweet Tooth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Brownie Sundae",
+      "price": 9.5,
+      "description": "Two chocolate chip cookies topped with vanilla ice cream and two slices of chocolate pecan brownies, drizzled with chocolate sauce, caramel sauce.",
+      "simplified_description": "A dessert with cookies, ice cream, and brownies.",
+      "category": "For the Sweet Tooth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Bean or Mocha Ice Cream",
+      "price": 5,
+      "description": "Two scoops of vanilla bean or mocha ice cream, with your choice of chocolate or caramel drizzle.",
+      "simplified_description": "Ice cream with a choice of drizzle.",
+      "category": "For the Sweet Tooth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bootleggers Classic Breakfast",
+      "price": 16,
+      "description": "2 eggs, toast, cubed hash browns. Choice of bacon, ham, or sausage.",
+      "simplified_description": "A classic breakfast with eggs and choice of meat.",
+      "category": "Daily Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hungry Man’s Breakfast",
+      "price": 21,
+      "description": "3 eggs, 2 strips of bacon, 2 sausage, 2 ham, cubed hash browns and toast.",
+      "simplified_description": "A hearty breakfast with eggs and multiple meats.",
+      "category": "Daily Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sirloin Steak & Eggs",
+      "price": 22,
+      "description": "6oz 100% Alberta AAA sirloin, 2 eggs, toast, cubed hash browns.",
+      "simplified_description": "Steak and eggs served with toast and hash browns.",
+      "category": "Daily Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Cheese Omelette",
+      "price": 16,
+      "description": "3 eggs, ham, cheddar cheese, cubed hash browns and toast.",
+      "simplified_description": "An omelette with ham and cheese.",
+      "category": "Daily Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage Breakfast Burger",
+      "price": 17,
+      "description": "Chorizo sausage patty, fried egg, cheddar, lettuce, tomato and strawberry jam.",
+      "simplified_description": "A breakfast burger with sausage and egg.",
+      "category": "Daily Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Toast Sticks",
+      "price": 16,
+      "description": "Strips of Texas toast, battered and fried crispy. Topped with icing sugar. Served with berry compote and maple syrup. Choice of bacon, ham or sausage.",
+      "simplified_description": "Fried French toast sticks served with syrup.",
+      "category": "Daily Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

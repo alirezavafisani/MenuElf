@@ -1,0 +1,769 @@
+{
+  "restaurant": "banukabob",
+  "parsed_at": "2026-02-06T00:57:50.372657",
+  "item_count": 62,
+  "items": [
+    {
+      "name": "Chicken Tikka Plate",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kofta Plate",
+      "price": 18.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Ground chicken meatballs with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tandoori Plate",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Spiced grilled chicken served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tikka Plate",
+      "price": 19.5,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Grilled beef served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shami Plate",
+      "price": 18.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Beef patties served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Tikka Plate",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Grilled lamb served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Shank Plate",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Slow-cooked lamb shank with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka Plate",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Grilled fish served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chopan Kabob Plate",
+      "price": 24.5,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Mixed grilled meats served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Chop Plate",
+      "price": 24.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Grilled lamb chops served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Steak Plate",
+      "price": 24.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Grilled beef steak served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chapli Kabob Plate",
+      "price": 16.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Spiced beef patty served with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beef & Chicken Plate",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Combination of beef and chicken with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Chicken Kofta",
+      "price": 19.99,
+      "description": "(Served with Rice, Salad, Red Bean Curry, Chutney, Yogurt Sauce)",
+      "category": "FOOD",
+      "simplified_description": "Mixed beef and chicken meatballs with rice, salad, curry, chutney, and yogurt sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Add Beef/Chicken/Lamb skewer",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Manty (10 pcs)",
+      "price": 13.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Steamed dumplings, usually filled with meat or vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ashak (10 pcs)",
+      "price": 12.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Afghan-style dumplings typically filled with leeks and topped with sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bolani",
+      "price": 7.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Stuffed flatbread with vegetables or potatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Pakora (10 pcs)",
+      "price": 11.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried battered fish pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll (10 pcs)",
+      "price": 10.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy rolls filled with vegetables or meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa (Veggie, Chicken, Beef)-(2 pcs)",
+      "price": 3.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Fried pastry pockets filled with vegetables or meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings (10 pcs)",
+      "price": 15.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Ten pieces of seasoned chicken wings.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hummus",
+      "price": 5.99,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Creamy chickpea dip with tahini.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 5.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "Deep-fried potato sticks.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Wrap",
+      "price": 10.5,
+      "description": "(Wrapped in Pita, Topped with Lettuce, Tomato, Onion, Garlic Sauce, Yogurt Sauce, Chutney)",
+      "category": "FOOD",
+      "simplified_description": "Pita wrap with grilled chicken and fresh vegetables.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kofta Wrap",
+      "price": 10.5,
+      "description": "(Wrapped in Pita, Topped with Lettuce, Tomato, Onion, Garlic Sauce, Yogurt Sauce, Chutney)",
+      "category": "FOOD",
+      "simplified_description": "Pita wrap with spiced ground chicken and fresh vegetables.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tandoori Wrap",
+      "price": 10.5,
+      "description": "(Wrapped in Pita, Topped with Lettuce, Tomato, Onion, Garlic Sauce, Yogurt Sauce, Chutney)",
+      "category": "FOOD",
+      "simplified_description": "Pita wrap with tandoori chicken and fresh vegetables.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tikka Wrap",
+      "price": 11.5,
+      "description": "(Wrapped in Pita, Topped with Lettuce, Tomato, Onion, Garlic Sauce, Yogurt Sauce, Chutney)",
+      "category": "FOOD",
+      "simplified_description": "Pita wrap with grilled beef and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kofta Wrap",
+      "price": 10.5,
+      "description": "(Wrapped in Pita, Topped with Lettuce, Tomato, Onion, Garlic Sauce, Yogurt Sauce, Chutney)",
+      "category": "FOOD",
+      "simplified_description": "Pita wrap with spiced ground beef and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Tikka Wrap",
+      "price": 11.5,
+      "description": "(Wrapped in Pita, Topped with Lettuce, Tomato, Onion, Garlic Sauce, Yogurt Sauce, Chutney)",
+      "category": "FOOD",
+      "simplified_description": "Pita wrap with grilled lamb and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Qabuli Rice",
+      "price": 11.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "A flavorful Afghan rice dish with raisins and carrots.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 9.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Simple steamed white rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spiced rice cooked with chicken and aromatic herbs.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beef Qorma",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Tender beef cooked in a rich, creamy sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Qorma",
+      "price": 10.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Chicken simmered in a creamy, spiced sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Dopiaza",
+      "price": 14.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Lamb cooked with a double onion sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chickpea Qorma",
+      "price": 9.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Chickpeas cooked in a creamy, spiced sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Qorma",
+      "price": 7.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Lentils cooked in a flavorful, spiced sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bean Qorma",
+      "price": 9.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Red beans cooked in a creamy, spiced sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sabji Palak",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Spinach cooked with mixed vegetables and spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Borani Banjan",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Eggplant cooked with yogurt and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in a creamy tomato and butter sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shiryakh",
+      "price": 6.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "A traditional Afghan rice pudding dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Firnee",
+      "price": 4.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Creamy milk pudding flavored with cardamom.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava (4 pcs)",
+      "price": 4.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Sweet pastry layers filled with nuts and honey syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soup of the Day",
+      "price": 9.99,
+      "description": "(Everyday different soup depending on the chef)",
+      "category": "DESSERT",
+      "simplified_description": "A different soup made fresh daily by the chef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun (2pcs)",
+      "price": 4.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "Two pieces of sweet, fried dough balls soaked in syrup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Afghani Naan",
+      "price": 2.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Traditional plain Afghani flatbread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Flatbread topped with garlic flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yogurt Sauce (Chukka)",
+      "price": 12.99,
+      "description": "",
+      "category": "SAUCE",
+      "simplified_description": "Creamy yogurt-based sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chutney Sauce",
+      "price": 12.99,
+      "description": "",
+      "category": "SAUCE",
+      "simplified_description": "Tangy and spicy condiment sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Sauce",
+      "price": 12.99,
+      "description": "",
+      "category": "SAUCE",
+      "simplified_description": "Sauce with strong garlic flavor.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ketchup Sauce",
+      "price": 12.99,
+      "description": "",
+      "category": "SAUCE",
+      "simplified_description": "Classic tomato ketchup sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Doogh",
+      "price": 4.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Yogurt-based savory drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango lassi",
+      "price": 4.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet mango and yogurt smoothie.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pop can",
+      "price": 1.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Canned carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jarritos",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Mexican fruit-flavored soda.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Green tea pot- (medium)",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Medium pot of brewed green tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Green tea pot- (large)",
+      "price": 5.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Large pot of brewed green tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black tea pot (medium)",
+      "price": 3.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Medium pot of brewed black tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black tea pot (Large)",
+      "price": 5.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A large pot of black tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 1.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A bottle or glass of water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

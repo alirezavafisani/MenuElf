@@ -1,0 +1,304 @@
+{
+  "restaurant": "edenbistro",
+  "parsed_at": "2025-12-25T01:44:20.664747",
+  "item_count": 33,
+  "items": [
+    {
+      "name": "East Coast Oysters",
+      "price": 26,
+      "description": "on the 1/2 shell w/ all the fixings",
+      "simplified_description": "Oysters served on the half shell with various toppings",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": "half dozen"
+    },
+    {
+      "name": "East Coast Oysters",
+      "price": 48,
+      "description": "on the 1/2 shell w/ all the fixings",
+      "simplified_description": "Oysters served on the half shell with various toppings",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": "dozen"
+    },
+    {
+      "name": "The Parfait",
+      "price": 26,
+      "description": "chicken liver, foie gras, rhubarb crumble bar, amarena cherries",
+      "simplified_description": "A dish with chicken liver, foie gras, a rhubarb dessert bar, and cherries",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "‘Jambon Beurre’ Tartine",
+      "price": 26,
+      "description": "baked brie, bayonne ham, sourdough, cultured butter",
+      "simplified_description": "A tartine with baked brie cheese, ham, sourdough bread, and butter",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patatas Bravas",
+      "price": 28,
+      "description": "crispy baby yellow potato, spanish chorizo, grilled octopus, aioli",
+      "simplified_description": "Crispy potatoes with Spanish sausage, grilled octopus, and garlic sauce",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Tartare",
+      "price": 28,
+      "description": "beef flank, capers, red onion, tabasco, dijon mustard, comté cheese, served on paillasson duck fat fries",
+      "simplified_description": "Raw beef dish with various toppings served with fries cooked in duck fat",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hokkaido Scallops",
+      "price": 32,
+      "description": "braised endive, crispy guanciale, beurre noisette",
+      "simplified_description": "Scallops served with braised endive, crispy pork cheek, and brown butter",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Salad",
+      "price": 26,
+      "description": "heirloom tomatoes, rosemary, umeboshi vinaigrette, 1608 cheese from Charlevoix",
+      "simplified_description": "Salad made with heirloom tomatoes, rosemary, a special vinaigrette, and cheese",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vadouvan Roasted Cauliflower",
+      "price": 30,
+      "description": "pistachio dukkah, tahini vinaigrette, fried capers, fresh herbs",
+      "simplified_description": "Roasted cauliflower with a nut mix, tahini dressing, fried capers, and herbs",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ling Cod",
+      "price": 40,
+      "description": "ling cod ‘en croute’, mousseline, tallow fingerlings, broccolini, tomato butter",
+      "simplified_description": "Ling cod wrapped in pastry with a creamy sauce, potatoes, and broccolini",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carbonara",
+      "price": 42,
+      "description": "pici pasta, egg yolk, romano, parmesan, roasted bone marrow w/ gremolata",
+      "simplified_description": "Pasta dish with egg yolk, cheeses, and roasted bone marrow with herbs",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Eden Burger",
+      "price": 30,
+      "description": "1/2 lb house ground chuck burger, cheddar, onions, pickles, burger sauce, served w/ fries",
+      "simplified_description": "A half-pound burger with cheese, onions, pickles, and sauce, served with fries",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak",
+      "price": 54,
+      "description": "ancho crusted pan seared 12oz coulotte, créma, salsa verde, corn tortillas",
+      "simplified_description": "12oz steak with a spicy crust, cream, green sauce, and tortillas",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Choucroute Garnie",
+      "price": 60,
+      "description": "baby back ribs, saltcraft mortadella, braised coppa, eh farms mangalitsa toulouse crépinette & slow roasted pork belly, sauerkraut, confit marble potato, juniper, cornichons, grainy mustard",
+      "simplified_description": "A hearty dish with various meats, sauerkraut, potatoes, and mustard",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Sando",
+      "price": 24,
+      "description": "mayak egg, capers, gherkins, chili crunch, sesame oil, kewpie mayo, lime zest, kettle chips",
+      "simplified_description": "Egg sandwich with various toppings and kettle chips",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Toast Donut",
+      "price": 24,
+      "description": "blueberry jam & cream cheese stuffed, cinnamon toast crunch",
+      "simplified_description": "Donut filled with blueberry jam and cream cheese, coated in cinnamon",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bayonne Benny",
+      "price": 26,
+      "description": "bayonne ham, 2 poached eggs, english muffin hollandaise, served w/ tots",
+      "simplified_description": "Dish with ham, poached eggs, hollandaise sauce, and tater tots",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monte Cristo",
+      "price": 26,
+      "description": "black forest ham, comté cheese, raspberry jam & honey, served w/ bistro salad, yuzu vanilla vinaigrette",
+      "simplified_description": "Sandwich with ham and cheese, served with salad and a special dressing",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Waffles",
+      "price": 28,
+      "description": "rossdown fried chicken breast, crispy waffles, spicy n’deja maple country gravy",
+      "simplified_description": "Fried chicken served with waffles and spicy maple gravy",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Le Croissant",
+      "price": 25,
+      "description": "soft scrambled eggs, comté cheese, truffle, served w/ bistro salad, yuzu vanilla vinaigrette",
+      "simplified_description": "Croissant with scrambled eggs and cheese, served with salad and dressing",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Huevos Rancheros",
+      "price": 25,
+      "description": "chorizo, shredded hash browns, 2 sunny up eggs, roasted peppers, avocado, cream cheese, crispy corn tortilla, lime, cilantro",
+      "simplified_description": "Dish with chorizo, hash browns, eggs, peppers, avocado, and tortilla",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burger",
+      "price": 30,
+      "description": "1/2 lb house ground chuck burger, cheddar, onions, pickles, burger sauce, served w fries",
+      "simplified_description": "A half-pound burger with cheese, onions, pickles, and sauce, served with fries",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": "add egg +$2, add bacon +$3"
+    },
+    {
+      "name": "Salted Caesar",
+      "price": 14,
+      "description": "vodka, clamato, worchestershire, tabasco",
+      "simplified_description": "Cocktail made with vodka, clam juice, and spices",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aperol Spritz",
+      "price": 14,
+      "description": "aperol, sparkling wine, soda",
+      "simplified_description": "Cocktail made with Aperol, sparkling wine, and soda",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "St Germain Spritz",
+      "price": 15,
+      "description": "gin, st germain, lemon juice, soda",
+      "simplified_description": "Cocktail made with gin, elderflower liqueur, lemon juice, and soda",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zest of Eden",
+      "price": 18,
+      "description": "vodka, limoncello, triple sec, lemon juice, honey syrup",
+      "simplified_description": "Cocktail made with vodka, lemon liqueur, and honey syrup",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Le Concorde",
+      "price": 15,
+      "description": "vodka, chambord, pineapple juice",
+      "simplified_description": "Cocktail made with vodka, raspberry liqueur, and pineapple juice",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Inglewood Sunrise",
+      "price": 6,
+      "description": "beer + orange juice",
+      "simplified_description": "A drink made with beer and orange juice",
+      "category": "Brunchtails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosa",
+      "price": 6,
+      "description": "sparkling wine + orange juice",
+      "simplified_description": "A drink made with sparkling wine and orange juice",
+      "category": "Brunchtails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cafe De Paris Brut",
+      "price": 12,
+      "description": "Chardonnay/Colombard – France",
+      "simplified_description": "A sparkling wine from France made with Chardonnay and Colombard grapes",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": "glass"
+    },
+    {
+      "name": "Montrubi L’Ancestral Pét Nat",
+      "price": 80,
+      "description": "Penedès — Spain",
+      "simplified_description": "A natural sparkling wine from Penedès, Spain",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Griesel & Compagnie Blanc de Blancs",
+      "price": 95,
+      "description": "Chardonnay/Pinot Noir — Hessische Bergstraße, Germany",
+      "simplified_description": "A sparkling wine from Germany made with Chardonnay and Pinot Noir grapes",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Champagne Servaux Fils",
+      "price": 155,
+      "description": "Pinot Noir/Meunier – Vallée de la Marne, France",
+      "simplified_description": "A champagne from France made with Pinot Noir and Meunier grapes",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

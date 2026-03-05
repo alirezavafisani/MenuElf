@@ -1,0 +1,277 @@
+{
+  "restaurant": "river-cafe",
+  "parsed_at": "2026-02-06T03:55:36.811425",
+  "item_count": 30,
+  "items": [
+    {
+      "name": "Mans Farm Eggs",
+      "price": null,
+      "description": "Soft Poached, Scrambled or Over Easy. Served with Poplar Bluff Potato Hash & Sourdough Toast. Choice of: Creamed Spinach & Oyster Mushrooms Hillview Heritage Farm Double Smoked Bacon Fennel & Coriander Lambtastic Sausage Hillview Heritage Farm Honey Ham",
+      "category": "FOOD",
+      "simplified_description": "Soft Poached, Scrambled or Over Easy. Served with Poplar Bluff Potato Hash & Sou",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eggs Benedict",
+      "price": 24.0,
+      "description": "Roasted Garlic & Herb Biscuit, Soft Poached Eggs Hollandaise, Poplar Bluff Potato Hash Choice of: Oyster Mushrooms, Spinach & Cheese Curds Braised Beef Short Rib & Caramelized Onion Arctic Char Croquette, Crispy Shallot, Dill",
+      "category": "FOOD",
+      "simplified_description": "Roasted Garlic & Herb Biscuit, Soft Poached Eggs Hollandaise, Poplar Bluff Potat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Haida Gwaii Halibut Cakes",
+      "price": 24.0,
+      "description": "Brandade, Beurre Monté Trout Roe, Soft Poached Eggs",
+      "category": "FOOD",
+      "simplified_description": "Brandade, Beurre Monté Trout Roe, Soft Poached Eggs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Cape D'Or Salmon Bagel",
+      "price": 25.0,
+      "description": "Fried Mans Farm Egg, Herb Cream Cheese Sudo Farms Red Onion, Barrel Pickels, Dill",
+      "category": "FOOD",
+      "simplified_description": "Fried Mans Farm Egg, Herb Cream Cheese Sudo Farms Red Onion, Barrel Pickels, Dil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham and Cheese Vol-au-Vent",
+      "price": 24.0,
+      "description": "Mans Farms Egg Royale, Sylvan Star Klondyke Gruyere Caramelized Poplar Bluff Leek, Lyalta Gardens Frisée",
+      "category": "FOOD",
+      "simplified_description": "Mans Farms Egg Royale, Sylvan Star Klondyke Gruyere Caramelized Poplar Bluff Lee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Benchmark Beef Burger",
+      "price": 29.0,
+      "description": "Fried Mans Farm Egg, Sylvan Star Klondyke Gruyere Ceres Oyster Mushroom Jam, Red Onion, Romaine, Potato Bun",
+      "category": "FOOD",
+      "simplified_description": "Fried Mans Farm Egg, Sylvan Star Klondyke Gruyere Ceres Oyster Mushroom Jam, Red",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brioche French Toast",
+      "price": 24.0,
+      "description": "Maple Dulce de Leche, Pear Butter Fraser Valley Hazelnut, Crème Fraîche",
+      "category": "FOOD",
+      "simplified_description": "Maple Dulce de Leche, Pear Butter Fraser Valley Hazelnut, Crème Fraîche",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pastry Trio",
+      "price": 15.0,
+      "description": "Fresh Every Morning From Our Bakery",
+      "category": "FOOD",
+      "simplified_description": "Fresh Every Morning From Our Bakery",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Shucked Oysters",
+      "price": null,
+      "description": "House Made Hot Sauce & Seasonal Mignonette, Pickled Mans Organic Ginger",
+      "category": "FOOD",
+      "simplified_description": "House Made Hot Sauce & Seasonal Mignonette, Pickled Mans Organic Ginger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Lentil Hummus",
+      "price": 18.0,
+      "description": "Okanagan Sumac, Basil & Spinach Pistou Flax Seed Cracker",
+      "category": "FOOD",
+      "simplified_description": "Okanagan Sumac, Basil & Spinach Pistou Flax Seed Cracker",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vital Green Farm Yogurt Parfait",
+      "price": 10.0,
+      "description": "Highwood Crossing Oat Granola, Sunrise Saskatoon Berries",
+      "category": "FOOD",
+      "simplified_description": "Highwood Crossing Oat Granola, Sunrise Saskatoon Berries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Game Board",
+      "price": 35.0,
+      "description": "Selection of Cured Meats, Seasonal Potted Seafood, Smoked Salmon, Preserves and Flax Seed Crackers (Serves 2)",
+      "category": "FOOD",
+      "simplified_description": "Selection of Cured Meats, Seasonal Potted Seafood, Smoked Salmon, Preserves and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Selection of Artisan Cheese",
+      "price": 33.0,
+      "description": "Sylvan Star Grizzly Gouda, Red Deer, Alberta Avonlea Clothbound Cheddar, PEI Bleu d'Elizabeth, Warwick, Quebec, Pickles, Preserves and Flax Seed Crackers",
+      "category": "FOOD",
+      "simplified_description": "Sylvan Star Grizzly Gouda, Red Deer, Alberta Avonlea Clothbound Cheddar, PEI Ble",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1/2 Order French Toast",
+      "price": 11.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poplar Bluff Potato Hash",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Single Fresh Baked Pastry",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lambtastic Lamb and Honey Sausages",
+      "price": 16.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prairie West Smoked Bacon",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prairie West Honey Ham",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Greens, Honey Mustard Dressing",
+      "price": 7.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Sandwich",
+      "price": 9.0,
+      "description": "Fried Mans Farm Egg, Sylvan Star Gouda Cheese Smoked Bacon, Ketchup",
+      "category": "FOOD",
+      "simplified_description": "Fried Mans Farm Egg, Sylvan Star Gouda Cheese Smoked Bacon, Ketchup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids French Toast",
+      "price": 11.0,
+      "description": "Maple Dulce de Leche, Pear Butter Fraser Valley Hazelnut, Crème Chantilly",
+      "category": "FOOD",
+      "simplified_description": "Maple Dulce de Leche, Pear Butter Fraser Valley Hazelnut, Crème Chantilly",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "One Egg & Toast",
+      "price": 12.0,
+      "description": "Mans Farm Egg Cooked the way You Like Served with Toast and Bacon",
+      "category": "FOOD",
+      "simplified_description": "Mans Farm Egg Cooked the way You Like Served with Toast and Bacon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Freshly Baked Oatmeal Cookie",
+      "price": 4.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Freshly Baked Chocolate Chip Cookie",
+      "price": 4.0,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brown Butter Crème Brûlée",
+      "price": 16.0,
+      "description": "Molnar Farms Maple Roasted Pumpkin Pepita Praline, Crispy Sage",
+      "category": "DESSERT",
+      "simplified_description": "Molnar Farms Maple Roasted Pumpkin Pepita Praline, Crispy Sage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Pavlova",
+      "price": 16.0,
+      "description": "Cherry Compote, Mascarpone Candied Cocoa Nib",
+      "category": "DESSERT",
+      "simplified_description": "Cherry Compote, Mascarpone Candied Cocoa Nib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramelized Honey Mousse",
+      "price": 16.0,
+      "description": "Poached Bartlett Pear, Quince Sorbet Buckwheat Granola, Black Walnut",
+      "category": "DESSERT",
+      "simplified_description": "Poached Bartlett Pear, Quince Sorbet Buckwheat Granola, Black Walnut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seasonal Sorbet",
+      "price": 9.0,
+      "description": "Smoked Gosford Maple, Meringue",
+      "category": "DESSERT",
+      "simplified_description": "Smoked Gosford Maple, Meringue",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Artisan Cheese Selection",
+      "price": 33.0,
+      "description": "Sylvan Star Grizzly Gouda - Red Deer, Alberta One year aged Gouda. Strong firm texture while remaining smooth and creamy on the palate. Hints of nuts & caramel with a salty tang. Avonlea Clothbound Cheddar - Prince Edward Island Complex flavours with the aroma of fruit and toasted nuts. Firm texture with rich, full bodied flavors with a tangy bite at the end. Fromagerie du Presbytére Bleu d'Elizabeth - Warwick, Quebec This pasteurized cow's milk blue cheese is aromatic with a perfect salt balance. It is made in the style of a Roquefort. River Café Preserve, Pickles, House Made Flax Seed Crackers",
+      "category": "DESSERT",
+      "simplified_description": "Sylvan Star Grizzly Gouda - Red Deer, Alberta One year aged Gouda. Strong firm t",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

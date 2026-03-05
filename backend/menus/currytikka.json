@@ -1,0 +1,1078 @@
+{
+  "restaurant": "currytikka",
+  "parsed_at": "2026-02-06T01:55:18.186639",
+  "item_count": 86,
+  "items": [
+    {
+      "name": "Tandoori Chicken",
+      "price": 17.99,
+      "description": "Half chicken marinated with authentic Indian spices and grilled in tandoor for perfection.",
+      "category": "FOOD",
+      "simplified_description": "Half chicken marinated in Indian spices and grilled in a tandoor oven.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Fish",
+      "price": 20.99,
+      "description": "Fish marinated in fresh garlic, ginger, Indian spices and grilled in tandoor to perfection.",
+      "category": "FOOD",
+      "simplified_description": "Fish marinated with garlic, ginger, and spices, grilled in a tandoor oven.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Prawns",
+      "price": 21.99,
+      "description": "Jumbo prawns marinated in a special yogurt and then cooked in the tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Jumbo prawns marinated in yogurt and grilled in a tandoor oven.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 17.99,
+      "description": "Boneless chicken breast cooked in our special creamy tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked in a creamy tomato sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 17.99,
+      "description": "Chicken cooked with our signature gravy and in house spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked in signature gravy with house spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Methi",
+      "price": 18.99,
+      "description": "Boneless chicken, dry fenugreek leaves cooked with garlic in a special curry sauce.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked with fenugreek leaves and garlic in curry sauce.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Mughlai",
+      "price": 18.99,
+      "description": "Boneless chicken cooked in fresh garlic, ginger and rich cashew nut sauce with fenugreek leaves.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked in cashew nut sauce with garlic, ginger, and fenugreek.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 17.99,
+      "description": "Grilled chicken cooked in a creamy tomato-based sauce, infused with garlic, ginger, and a blend of aromatic Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken in creamy tomato sauce with garlic, ginger, and spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 17.99,
+      "description": "Boneless chicken and potatoes, zesty curry cooked in tangy sauce with vinegar.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken and potatoes in a tangy, zesty curry sauce.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Coconut Chicken",
+      "price": 17.99,
+      "description": "Boneless chicken cooked in a unique combination of coriander & creamy coconut curry.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked in coriander and creamy coconut curry.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Chicken",
+      "price": 17.99,
+      "description": "Boneless chicken breast cooked with onion, garlic, ginger and tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked with onion, garlic, ginger, and tomato sauce.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Chicken Curry",
+      "price": 17.99,
+      "description": "Boneless chicken cooked with mango sauce, onions, and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked with mango sauce, onions, and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Chicken",
+      "price": 17.99,
+      "description": "Boneless chicken with spinach, cooked with garlic, ginger & Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken cooked with spinach, garlic, ginger, and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Curry",
+      "price": 18.99,
+      "description": "Goat with bone cooked with our signature gravy and in house spices – Our dad’s recipe.",
+      "category": "FOOD",
+      "simplified_description": "Goat meat cooked with signature gravy and house spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Spinach",
+      "price": 18.99,
+      "description": "Traditional goat simmered in creamy spinach and aromatic spices for a delicious, hearty dish.",
+      "category": "FOOD",
+      "simplified_description": "Goat meat simmered in creamy spinach and aromatic spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Vindaloo",
+      "price": 18.99,
+      "description": "Boneless pieces of lamb cooked with lamb mince in Indian masala gravy garnished with coriander and garam masala.",
+      "category": "FOOD",
+      "simplified_description": "Lamb pieces cooked in spicy Indian masala gravy with coriander and garam masala.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Curry",
+      "price": 18.99,
+      "description": "Boneless pieces of lamb cooked with lamb mince in Indian masala gravy garnished with coriander and garam masala.",
+      "category": "FOOD",
+      "simplified_description": "Lamb pieces cooked in Indian masala gravy with coriander and garam masala.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Methi",
+      "price": 19.99,
+      "description": "Boneless lamb, dry fenugreek leaves cooked with garlic in a special curry sauce.",
+      "category": "FOOD",
+      "simplified_description": "Lamb cooked with fenugreek leaves and garlic in a special curry sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Spinach",
+      "price": 18.99,
+      "description": "Boneless lamb cooked with spinach & Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Lamb cooked with spinach and Indian spices.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Vindaloo",
+      "price": 18.99,
+      "description": "Boneless lamb and potatoes, zesty curry cooked in tangy sauce with vinegar.",
+      "category": "FOOD",
+      "simplified_description": "Lamb and potatoes cooked in a tangy, zesty curry with vinegar.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Coconut Curry",
+      "price": 18.99,
+      "description": "Fish cooked in a unique combination of coriander & coconut curry.",
+      "category": "FOOD",
+      "simplified_description": "Fish cooked in a coriander and coconut curry sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Masala",
+      "price": 18.99,
+      "description": "Fish cooked in thick onion sauce, ginger, garlic and tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fish cooked in a thick onion, ginger, garlic, and tomato sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Goa Curry",
+      "price": 19.99,
+      "description": "Jumbo prawns cooked in coconut, our onion sauce & Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Jumbo prawns cooked in coconut and onion sauce with Indian spices.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Masala",
+      "price": 19.99,
+      "description": "Jumbo prawns cooked in a thick onion sauce, ginger, garlic and tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Jumbo prawns cooked in thick onion, ginger, garlic, and tomato sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Kulche Chole",
+      "price": 12.99,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Traditional Indian stuffed bread served with chickpea curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 14.99,
+      "description": "Cauliflower & potatoes cooked in garlic, ginger, tomato and spices.",
+      "category": "FOOD",
+      "simplified_description": "Cauliflower and potatoes cooked with garlic, ginger, tomato, and spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Paneer",
+      "price": 15.99,
+      "description": "Homemade cheese cooked in creamy tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cheese cooked in a creamy tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 14.99,
+      "description": "Chickpeas cooked in onion, garlic, ginger and tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chickpeas cooked in onion, garlic, ginger, and tomato sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 14.99,
+      "description": "Black lentils cooked in traditional handi: slow fire cooking to taste the best with Indian spices, cream and butter.",
+      "category": "FOOD",
+      "simplified_description": "Black lentils slow-cooked with spices, cream, and butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Paneer",
+      "price": 15.99,
+      "description": "Homemade cheese cooked with onion, garlic, ginger, and tomato paste.",
+      "category": "FOOD",
+      "simplified_description": "Cheese cooked with onion, garlic, ginger, and tomato paste.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Matar Paneer",
+      "price": 15.99,
+      "description": "Homemade cheese & green peas cooked in rich onion sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cheese and green peas cooked in a rich onion sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg",
+      "price": 14.99,
+      "description": "Assorted vegetables stir-fried with a touch of lemon curry sauce.",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables stir-fried with lemon curry sauce.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 15.99,
+      "description": "Homemade cheese cooked with spinach, onions and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Cheese cooked with spinach, onions, and Indian spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Methi",
+      "price": 16.99,
+      "description": "Soft paneer cubes cooked with fresh fenugreek leaves in a mildly spiced, creamy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Paneer cubes cooked with fenugreek leaves in a creamy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 16.99,
+      "description": "Diced cheese cooked in onion, homemade cashew nut paste & tomato sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cheese cooked with onion, cashew nut paste, and tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 17.99,
+      "description": "Chicken breast cooked in Basmati rice and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken breast cooked with Basmati rice and Indian spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Biryani",
+      "price": 19.99,
+      "description": "Basmati rice cooked with fish and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with fish and Indian spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Biryani",
+      "price": 18.99,
+      "description": "Basmati rice cooked with goat and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with goat meat and Indian spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Biryani",
+      "price": 18.99,
+      "description": "Basmati rice cooked with lamb and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with lamb and Indian spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pea Pulao",
+      "price": 5.99,
+      "description": "Basmati rice cooked with green peas and onions.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with green peas and onions.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn Biryani",
+      "price": 20.99,
+      "description": "Basmati rice cooked with jumbo prawns and Indian spices",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with jumbo prawns and Indian spices.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Pulao",
+      "price": 4.99,
+      "description": "Basmati rice cooked with onions in their own aromatic flavor.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with onions and aromatic flavors.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 15.99,
+      "description": "Basmati rice cooked with mixed vegetables and Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with mixed vegetables and Indian spices.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Naan",
+      "price": 4.5,
+      "description": "White leavened bread stuffed with potatoes and spices.",
+      "category": "FOOD",
+      "simplified_description": "Leavened bread stuffed with potatoes and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Breads",
+      "price": 6.99,
+      "description": "One each of plain naan, garlic basil naan and tandoori roti.",
+      "category": "FOOD",
+      "simplified_description": "A selection of plain naan, garlic basil naan, and tandoori roti.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Naan",
+      "price": 4.99,
+      "description": "White leavened bread stuffed with mildly spiced chicken.",
+      "category": "FOOD",
+      "simplified_description": "Bread stuffed with mildly spiced chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic & Basil Naan",
+      "price": 2.99,
+      "description": "White leavened bread flavored with garlic and basil.",
+      "category": "FOOD",
+      "simplified_description": "Bread flavored with garlic and basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lachedar Parantha",
+      "price": 3.99,
+      "description": "Multi-layered flaky, whole wheat bread with bread / butter.",
+      "category": "FOOD",
+      "simplified_description": "Flaky whole wheat bread with butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Kulcha",
+      "price": 4.5,
+      "description": "White leavened bread stuffed with onions.",
+      "category": "FOOD",
+      "simplified_description": "Bread stuffed with onions.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer Naan",
+      "price": 4.5,
+      "description": "White leavened bread stuffed with spinach and cottage cheese.",
+      "category": "FOOD",
+      "simplified_description": "Bread stuffed with spinach and cottage cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peshawri Naan",
+      "price": 5.99,
+      "description": "White leavened bread filled with a sweet mixture of nuts, raisins, and coconut, offering a delightful blend of textures and flavors.",
+      "category": "FOOD",
+      "simplified_description": "Bread filled with sweet nuts, raisins, and coconut.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 2.5,
+      "description": "A must for every meal; white leavened bread.",
+      "category": "FOOD",
+      "simplified_description": "Plain white leavened bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.49,
+      "description": "Whole wheat bread, thin baked in tandoor in seconds.",
+      "category": "FOOD",
+      "simplified_description": "Thin whole wheat bread baked in tandoor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Indian Salad",
+      "price": 4.99,
+      "description": "iced cucumbers, tomatoes, onions, tossed with lemon, cilantro, spices.",
+      "category": "SIDE",
+      "simplified_description": "Salad with cucumbers, tomatoes, onions, lemon, and spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Chutney",
+      "price": 3.99,
+      "description": "Sweet & Tangy chutney made with real mangoes. Combine to dip with your sizzlers or appetizers.",
+      "category": "SIDE",
+      "simplified_description": "Sweet and tangy mango chutney for dipping.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Salad",
+      "price": 2.99,
+      "description": "Crisp, tangy, and refreshing onion salad with zesty flavors.",
+      "category": "SIDE",
+      "simplified_description": "Tangy and crisp onion salad.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Yogurt",
+      "price": 2.99,
+      "description": "Creamy, tangy, probiotic-rich yogurt, versatile for both sweet and savory dishes.",
+      "category": "SIDE",
+      "simplified_description": "Creamy and tangy probiotic yogurt.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Raita",
+      "price": 4.99,
+      "description": "Homemade yogurt with cucumber and carrots, mildly spiced.",
+      "category": "SIDE",
+      "simplified_description": "Yogurt with cucumber, carrots, and mild spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garam Gulab Jamun",
+      "price": null,
+      "description": "Pastry balls deep fried, served hot in syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Deep-fried pastry balls served hot in syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Served hot"
+    },
+    {
+      "name": "Mango Ice Cream",
+      "price": 5.49,
+      "description": "Yummy! Ice cream with real mango flavour and pistachio.",
+      "category": "DESSERT",
+      "simplified_description": "Ice cream with mango flavor and pistachio nuts.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ras Malai",
+      "price": null,
+      "description": "Indian style cheese patties served in saffron and cardamom cream.",
+      "category": "DESSERT",
+      "simplified_description": "Soft cheese patties in creamy saffron and cardamom sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mumbai Mule",
+      "price": 11.0,
+      "description": "Vodka, ginger beer, lime, a splash of masala.",
+      "category": "DRINK",
+      "simplified_description": "Vodka cocktail with ginger beer, lime, and Indian spices.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Indian Sunrise",
+      "price": 11.0,
+      "description": "Tequila, orange juice, pineapple juice, grenadine.",
+      "category": "DRINK",
+      "simplified_description": "Tequila cocktail with orange, pineapple juice, and grenadine.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Gulabi Queen",
+      "price": 11.0,
+      "description": "Empress gin, sweet & sour mix, grenadine.",
+      "category": "DRINK",
+      "simplified_description": "Gin cocktail with sweet and sour mix and grenadine.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rose Martini",
+      "price": 11.0,
+      "description": "Vodka, rose syrup, Vermouth, dried rose petals.",
+      "category": "DRINK",
+      "simplified_description": "Vodka martini with rose syrup and vermouth.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Orange",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Classic orange-flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Delight",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Sweet mango-flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Twist",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Refreshing pineapple-flavored drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Tea",
+      "price": 2.99,
+      "description": "English Breakfast, Peppermint, Chamomile & Green Tea to choose from.",
+      "category": "DRINK",
+      "simplified_description": "Choice of English Breakfast, Peppermint, Chamomile, or Green Tea.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water",
+      "price": 1.49,
+      "description": "Pure, refreshing, convenient hydration in a portable sealed bottle.",
+      "category": "DRINK",
+      "simplified_description": "Sealed bottled water for hydration.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gurh Chai",
+      "price": 4.99,
+      "description": "Sweet, spiced tea with jaggery, offering rich, earthy flavors.",
+      "category": "DRINK",
+      "simplified_description": "Sweet spiced tea made with jaggery.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 5.5,
+      "description": "A blend of ripe mangoes, yogurt, and a touch of sweetness, offering a creamy and fruity beverage.",
+      "category": "DRINK",
+      "simplified_description": "Creamy mango and yogurt drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Chai",
+      "price": 3.99,
+      "description": "Spiced tea brewed with ginger, cardamom, cinnamon, and cloves. Offered warm.",
+      "category": "DRINK",
+      "simplified_description": "Warm spiced tea with ginger, cardamom, cinnamon, and cloves.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Pop Can",
+      "price": 2.99,
+      "description": "A Pop Can with carbonated soft drinks, convenient for on - the - go enjoyment.",
+      "category": "DRINK",
+      "simplified_description": "Carbonated soft drink in a can.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salty Lassi",
+      "price": 4.99,
+      "description": "Refreshing yogurt-based drink with a hint of salt.",
+      "category": "DRINK",
+      "simplified_description": "Yogurt drink with a salty flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 4.99,
+      "description": "Refreshing, creamy yogurt drink with sugar, cardamom, and rose.",
+      "category": "DRINK",
+      "simplified_description": "Creamy yogurt drink flavored with sugar, cardamom, and rose.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kingfisher",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Popular Indian beer.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bira 91",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Craft Indian beer with a smooth taste.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Molson Canadian",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Classic Canadian lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Light American lager beer.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crown Royal",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Canadian blended whisky.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Label",
+      "price": 9.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Premium blended Scotch whisky.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Amrut Indian Single Malt",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Indian single malt whisky with rich flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vodka",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Clear distilled spirit made from grains or potatoes.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gin",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Distilled spirit flavored with juniper berries.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rum",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Distilled spirit made from sugarcane byproducts.",
+      "dietary_info": [
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    }
+  ]
+}

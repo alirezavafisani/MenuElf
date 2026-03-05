@@ -1,0 +1,88 @@
+{
+  "restaurant": "prairiedonair",
+  "parsed_at": "2026-02-06T03:52:02.078992",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "The PD Signature Platter",
+      "price": 11.49,
+      "description": "* 2 The Spicy PD\n* 2 Falafel Pita\n* 2 PD Traditional Chicken\n* 2 Greek Gyro\n* 2 PD Famous Chicken & Lamb",
+      "category": "FOOD",
+      "simplified_description": "* 2 The Spicy PD\n* 2 Falafel Pita\n* 2 PD Traditional Chicken\n* 2 Greek Gyro\n* 2 ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat-Lovers Platter",
+      "price": 12.49,
+      "description": "* 2 Philly Steak Shawarma\n* 2 PD Greek Gyro\n* 2 PD Famous Chicken & Lamb\n* 2 The Spicy PD\n* 2 East Coast Beef Donair",
+      "category": "FOOD",
+      "simplified_description": "* 2 Philly Steak Shawarma\n* 2 PD Greek Gyro\n* 2 PD Famous Chicken & Lamb\n* 2 The",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Mixed Platter",
+      "price": 11.49,
+      "description": "* 2 PD Greek Gyro\n* 2 Teriyaki Crunch\n* 2 Falafel Pita\n* 2 PD Famous Chicken & Lamb\n* 2 PD Traditional Chicken Shawarma",
+      "category": "FOOD",
+      "simplified_description": "* 2 PD Greek Gyro\n* 2 Teriyaki Crunch\n* 2 Falafel Pita\n* 2 PD Famous Chicken & L",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Ultimate Pita Platter",
+      "price": 12.49,
+      "description": "* 1 Classic Mixed Platter\n* 10 assorted drinks\n* 2 bags of 2 Bite Brownies",
+      "category": "FOOD",
+      "simplified_description": "* 1 Classic Mixed Platter\n* 10 assorted drinks\n* 2 bags of 2 Bite Brownies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Rice Bowl Platter",
+      "price": 13.49,
+      "description": "* 2 Greek Goddess Bowl\n* 2 Hot Honey Beef Bowl\n* 2 Crispy Thai Chicken Bowl\n* 2 Falafel Buddha Bowl",
+      "category": "FOOD",
+      "simplified_description": "* 2 Greek Goddess Bowl\n* 2 Hot Honey Beef Bowl\n* 2 Crispy Thai Chicken Bowl\n* 2 ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monster Poutine Platter",
+      "price": 13.49,
+      "description": "* 2 Classic Poutine\n* 2 Buffalo Chicken Poutine\n* 2 Canadian Maple Poutine\n* 2 Butter Chicken Poutine\n* 2 Carnivore Poutine",
+      "category": "FOOD",
+      "simplified_description": "* 2 Classic Poutine\n* 2 Buffalo Chicken Poutine\n* 2 Canadian Maple Poutine\n* 2 B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build Your Own Catering",
+      "price": 10.0,
+      "description": "* Our food the way you want",
+      "category": "FOOD",
+      "simplified_description": "* Our food the way you want",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The PD Signature Platter",
+      "price": 11.49,
+      "description": "* 2 Falafel Donairs\n* 2 Greek Gyro Donairs\n* 2 Traditional Chicken Donairs\n* 2 Spicy P.D. Signature Donairs\n* 2 Famous PD Chicken/Lamb Mix Donairs",
+      "category": "FOOD",
+      "simplified_description": "* 2 Falafel Donairs\n* 2 Greek Gyro Donairs\n* 2 Traditional Chicken Donairs\n* 2 S",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The PD Meat Lovers Platter",
+      "price": 12.49,
+      "description": "* 2 East Coast Donairs\n* 2 Philly Cheese Steak Donairs\n* 2 Greek Gyro Donairs\n* 2 Spicy P.D. Signature Donairs\n* 2 Famous PD Chicken/Lamb Mix Donairs",
+      "category": "FOOD",
+      "simplified_description": "* 2 East Coast Donairs\n* 2 Philly Cheese Steak Donairs\n* 2 Greek Gyro Donairs\n* ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

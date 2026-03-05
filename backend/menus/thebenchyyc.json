@@ -1,0 +1,306 @@
+{
+  "restaurant": "thebenchyyc",
+  "parsed_at": "2025-12-25T02:12:50.870333",
+  "item_count": 33,
+  "items": [
+    {
+      "name": "Bacon Cheese Burger with Fries",
+      "price": 15,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bench Lager",
+      "price": 5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Beef Soft Shell Tacos",
+      "price": 7,
+      "description": "(salsa & sour cream included)",
+      "simplified_description": "Two soft shell tacos with beef, salsa, and sour cream",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": "2 for $7"
+    },
+    {
+      "name": "Margarita (single)",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bench Michelada",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PBR Tallboys",
+      "price": 6,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12\" pizzas",
+      "price": null,
+      "description": "$5 off",
+      "simplified_description": "12-inch pizzas available at a discount",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "All Tool Shed Pints",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Basket of Wings",
+      "price": 10,
+      "description": "(dipping sauce is extra)",
+      "simplified_description": "A basket of chicken wings, extra charge for dipping sauce",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House-made chips and dip",
+      "price": 5.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shareables",
+      "price": null,
+      "description": "Buy one, get the second 1/2 off (Nachos excluded)",
+      "simplified_description": "Buy one shareable item and get the second at half price, except nachos",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Grizzly Paw Cocktails",
+      "price": null,
+      "description": "$2 off",
+      "simplified_description": "Discount on canned cocktails",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesars",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Daily Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nocturnal G&T",
+      "price": 14,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Margarita",
+      "price": 14,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beetroot Martini",
+      "price": 14,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Negroni",
+      "price": 14,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Martini",
+      "price": 14,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sauvignon Blanc, NZ",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chablis, FR",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cabernet Sauvignon, USA",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Riesling, GR",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Priorat, SP",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Witbier, BELG",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pale Ale, EN",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pilsner, GR",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "IPA, USA",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heavy Ale, SCT",
+      "price": 13,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marinated Artichoke Hearts",
+      "price": 12,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegan Truffle Arancini",
+      "price": 14,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Food",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Burrata & Heirloom Tomato Salad",
+      "price": 15,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charred Octopus Skewers",
+      "price": 16,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Tartare",
+      "price": 17,
+      "description": "I’m a dish description. Click “Edit Menu” to open the Restaurant Menu editor and change my text.",
+      "simplified_description": "The dish includes sushi-grade tuna, spiced for flavor.",
+      "category": "Food",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

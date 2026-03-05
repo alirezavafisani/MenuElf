@@ -1,0 +1,231 @@
+{
+  "restaurant": "goodearthcoffeehouse",
+  "parsed_at": "2026-02-06T02:22:51.648872",
+  "item_count": 19,
+  "items": [
+    {
+      "name": "Iced Dark Chocolate Cherry Caffe Mocha",
+      "price": 0.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Iced mocha drink with dark chocolate and cherry flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dark Chocolate Cherry Caffe Mocha",
+      "price": 0.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Hot mocha drink with dark chocolate and cherry flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Sweet Cream Americano",
+      "price": 0.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Americano coffee with salted sweet cream added.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hand Crafted Cold Brew",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 0Calories    * 0.1gFat    * 5mgSodium    * 0gCarbs    * 0gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Cold brewed coffee with zero calories and no carbs.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Coffee",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Lightly sweetened    * 70Calories    * 0.5gFat    * 40mgSodium    * 16gCarbs    * 0gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Lightly sweetened iced coffee with moderate calories.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Americano",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 0Calories    * 0gFat    * 10mgSodium    * 0gCarbs    * 0gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced Americano coffee with zero calories and no carbs.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Caffe Latte",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 80Calories    * 3.5gFat    * 75mgSodium    * 8gCarbs    * 5gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced latte made with 2% milk, moderate calories and protein.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Caffe Mocha",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 140Calories    * 3gFat    * 95mgSodium    * 22gCarbs    * 6gProtein    * 1gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced mocha with 2% milk, chocolate flavor, and moderate calories.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Flavoured Caffe Latte",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 120Calories    * 3gFat    * 70mgSodium    * 18gCarbs    * 5gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced flavored latte with 2% milk and moderate calories.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Coffee with Milk",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 130Calories    * 6gFat    * 70mgSodium    * 16gCarbs    * 2gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced coffee served with 2% milk and moderate calories.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Chai Latte",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 110Calories    * 1.5gFat    * 70mgSodium    * 23gCarbs    * 2gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced chai latte with 2% milk and chai spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Matcha",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 120Calories    * 4gFat    * 100mgSodium    * 11gCarbs    * 9gProtein    * 1gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced matcha green tea with moderate calories and protein.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Rooibos Fruit Tea",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 45Calories    * 0gFat    * 10mgSodium    * 10gCarbs    * 0gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Iced rooibos fruit tea with low calories and no fat.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Tea Lemonade",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 0Calories    * 0gFat    * 10mgSodium    * 1gCarbs    * 0gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "Black tea mixed with lemonade, zero calories and fat.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Oat Latte Frappe",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 215Calories    * 2gFat    * 95mgSodium    * 52gCarbs    * 2gProtein    * 2gFibre",
+      "category": "DRINK",
+      "simplified_description": "Blended frappe with banana and oat flavors, high in carbs.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caffe Latte Frappe",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 160Calories    * 2gFat    * 95mgSodium    * 36gCarbs    * 3gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "A cold blended coffee drink made with 2% milk.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha Frappe",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Nutritional information is based on a 12 oz drink and 2% milk.    * 240Calories    * 3gFat    * 135mgSodium    * 53gCarbs    * 3gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "A cold blended coffee and chocolate drink made with 2% milk.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peach & Honey Smoothie",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)    * 215Calories    * 0gFat    * 0mgSodium    * 54gCarbs    * 0gProtein    * 0gFibre",
+      "category": "DRINK",
+      "simplified_description": "A sweet smoothie made with peach and honey.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Oat Smoothie",
+      "price": null,
+      "description": "[DETAILS ](https://goodearthcoffeehouse.com/menu/iced-blended-smoothies/)Fresh and pureed berries blended with fruit juice and oat milk    * 200Calories    * 2gFat    * 45mgSodium    * 47gCarbs    * 2gProtein    * 1gFibre",
+      "category": "DRINK",
+      "simplified_description": "A smoothie with fresh berries, fruit juice, and oat milk.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

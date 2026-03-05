@@ -1,0 +1,52 @@
+{
+  "restaurant": "phinhung",
+  "parsed_at": "2025-12-25T03:24:57.350949",
+  "item_count": 5,
+  "items": [
+    {
+      "name": "Lunch Special 1",
+      "price": 15,
+      "description": "1 Rare Beef Noodle Soup\n1 Soft Drink",
+      "simplified_description": "A noodle soup with rare beef and a soft drink",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch Special 2",
+      "price": 16,
+      "description": "1 Vermicelli Bowl (Pork/ Beef/ Chicken & Spring Roll)\n1 Soft Drink",
+      "simplified_description": "A vermicelli bowl with choice of meat and a spring roll, plus a soft drink",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": 19.9,
+      "description": "Come with Rice Paper, Vermicelli, Fresh Herbs, Lettuces & Fish Sauce.\n1. 1 Satay Chicken Skewer, 1 Satay Beef Skewer & 1 Satay Shrimp Skewer",
+      "simplified_description": "A special dish with rice paper, vermicelli, fresh herbs, lettuce, and fish sauce, including satay chicken, beef, and shrimp skewers",
+      "category": "House Special",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": 25.15,
+      "description": "Come with Rice Paper, Vermicelli, Fresh Herbs, Lettuces & Fish Sauce.\n2. Ground Pork Sausage, Grill Minced Beef & Grill Pork Chop",
+      "simplified_description": "A special dish with rice paper, vermicelli, fresh herbs, lettuce, and fish sauce, including ground pork sausage, grilled minced beef, and grilled pork chop",
+      "category": "House Special",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": 25.15,
+      "description": "Come with Rice Paper, Vermicelli, Fresh Herbs, Lettuces & Fish Sauce.\n3. Ground Pork Sausage, Grill Minced Beef & Shrimp Paste",
+      "simplified_description": "A special dish with rice paper, vermicelli, fresh herbs, lettuce, and fish sauce, including ground pork sausage, grilled minced beef, and shrimp paste",
+      "category": "House Special",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

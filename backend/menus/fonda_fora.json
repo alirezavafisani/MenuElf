@@ -1,0 +1,350 @@
+{
+  "restaurant": "fonda fora",
+  "parsed_at": "2025-12-25T04:19:42.065833",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "Warm Olives",
+      "price": 12,
+      "description": "citrus, chili, garlic",
+      "simplified_description": "Olives with citrus, chili, and garlic",
+      "category": "Pa’ Picar",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Oaxaca Cheese",
+      "price": 20,
+      "description": "Oaxacan cheese, honey macha dressing, crispy chili flakes",
+      "simplified_description": "Fried cheese with a honey chili dressing and crispy flakes",
+      "category": "Pa’ Picar",
+      "dietary_info": [
+        "nut-free",
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Guacamole & Chips",
+      "price": 22,
+      "description": "pico de gallo, herbs, totopos",
+      "simplified_description": "Guacamole with pico de gallo, herbs, and tortilla chips",
+      "category": "Pa’ Picar",
+      "dietary_info": [
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salsa Tasting",
+      "price": 20,
+      "description": "seasonal salsas, totopos",
+      "simplified_description": "A selection of seasonal salsas with tortilla chips",
+      "category": "Pa’ Picar",
+      "dietary_info": [
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Esquites",
+      "price": 12,
+      "description": "heirloom corn, epazote butter, chipotle aioli, queso, crispy chili flakes",
+      "simplified_description": "Corn with butter, chipotle sauce, cheese, and crispy flakes",
+      "category": "Pa’ Picar",
+      "dietary_info": [
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Scallop Crudo",
+      "price": 29,
+      "description": "yellow aji chile sauce, avocado, cucumber, pickled serrano, hemp hearts",
+      "simplified_description": "Raw scallops with a spicy sauce, avocado, cucumber, and pickled peppers",
+      "category": "Del Mar y Del Huerto",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ceviche Nayarit",
+      "price": 28,
+      "description": "poached shrimp, cucumber, avocado, aioli, salsa picante, flour chicharrón",
+      "simplified_description": "Shrimp ceviche with cucumber, avocado, spicy sauce, and crispy flour chips",
+      "category": "Del Mar y Del Huerto",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tijuana Caesar Salad",
+      "price": 17,
+      "description": "romaine hearts, potato chip, parmesan, anchovy",
+      "simplified_description": "Caesar salad with romaine, potato chips, cheese, and anchovy",
+      "category": "Del Mar y Del Huerto",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Citrus & Beet Salad",
+      "price": 25,
+      "description": "macha verde, winter citrus, whipped goat cheese, cilantro",
+      "simplified_description": "Salad with citrus, beets, cheese, and cilantro",
+      "category": "Del Mar y Del Huerto",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Burrata & Squash Salad",
+      "price": 35,
+      "description": "warm winter squash, honey macha, avocado purée, hoja santa",
+      "simplified_description": "Salad with warm squash, honey sauce, and avocado",
+      "category": "Del Mar y Del Huerto",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ahi Tuna Tostadas",
+      "price": 25,
+      "description": "salsa macha, chipotle aioli, avocado purée, radish, cilantro",
+      "simplified_description": "Tostadas with tuna, spicy sauce, avocado, radish, and cilantro",
+      "category": "Antojitos (2 per order)",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tinga Tostadas",
+      "price": 18,
+      "description": "refritos, braised chicken, queso fresco, avocado, greens, pickled onion",
+      "simplified_description": "Tostadas with refried beans, chicken, cheese, avocado, and greens",
+      "category": "Antojitos (2 per order)",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Panela Tostadas",
+      "price": 22,
+      "description": "grilled panela, charred avocado, tomato confit, honey macha, cilantro",
+      "simplified_description": "Tostadas with grilled cheese, charred avocado, and honey sauce",
+      "category": "Antojitos (2 per order)",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pescado Tostadas",
+      "price": 28,
+      "description": "salsa negra marinated cod, lime aioli, cucumber, avocado purée, cilantro",
+      "simplified_description": "Tostadas with marinated cod, lime sauce, cucumber, and avocado",
+      "category": "Antojitos (2 per order)",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tacos de Pulpo",
+      "price": 20,
+      "description": "octopus, avocado, greens, macha roja",
+      "simplified_description": "Tacos with octopus, avocado, and spicy sauce",
+      "category": "Antojitos (2 per order)",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Enchiladas Rajas con Crema",
+      "price": 25,
+      "description": "poblano, onion, sweet corn, crema, panela, salsa roja",
+      "simplified_description": "Enchiladas with poblano, onion, corn, cream, and red sauce",
+      "category": "Fuertes",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pescado al Pipián",
+      "price": 35,
+      "description": "cod fillet, mole pipián, roasted squash, cilantro",
+      "simplified_description": "Cod with mole sauce, roasted squash, and cilantro",
+      "category": "Fuertes",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hamburguesa",
+      "price": 29,
+      "description": "two beef patties, cheddar, tomato, onion, lettuce, pickle, fries",
+      "simplified_description": "Burger with two beef patties, cheese, and fries",
+      "category": "Fuertes",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Short Rib Birria",
+      "price": 40,
+      "description": "short ribs, three quesadillas, consomé, cilantro, onion, lime",
+      "simplified_description": "Short ribs with quesadillas and broth",
+      "category": "Fuertes",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Scallop and Chorizo",
+      "price": 45,
+      "description": "pan seared scallops, crispy potatoes, avocado, chipotle aioli",
+      "simplified_description": "Scallops with crispy potatoes and chipotle sauce",
+      "category": "Fuertes",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Side Salsa",
+      "price": 4,
+      "description": "",
+      "simplified_description": "A side of salsa",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Guacamole",
+      "price": 5,
+      "description": "",
+      "simplified_description": "A side of guacamole",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frijoles",
+      "price": 4,
+      "description": "",
+      "simplified_description": "A side of beans",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Rice",
+      "price": 6,
+      "description": "",
+      "simplified_description": "A side of Mexican rice",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pollo Tinga",
+      "price": 6,
+      "description": "",
+      "simplified_description": "A side of chicken tinga",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churros",
+      "price": 11,
+      "description": "passion fruit white chocolate ganache, cinnamon sugar, roasted coconut flakes",
+      "simplified_description": "Churros with passion fruit chocolate sauce and coconut flakes",
+      "category": "Postres",
+      "dietary_info": [
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mandarine Chamoyada",
+      "price": 8,
+      "description": "mandarin orange sorbet, chamoy, candied guava",
+      "simplified_description": "Sorbet with mandarin orange, spicy sauce, and candied guava",
+      "category": "Postres",
+      "dietary_info": [
+        "nut-free",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tamales Dulce",
+      "price": 10,
+      "description": "masa tamal, coconut milk dulce de leche, mixed berries",
+      "simplified_description": "Sweet tamales with coconut sauce and berries",
+      "category": "Postres",
+      "dietary_info": [
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buñuelos",
+      "price": 12,
+      "description": "mantecado ice cream, guava syrup, cinnamon sugar",
+      "simplified_description": "Fried dough with ice cream and guava syrup",
+      "category": "Postres",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

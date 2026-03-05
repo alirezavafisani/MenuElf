@@ -1,0 +1,1230 @@
+{
+  "restaurant": "koreanvillageyyc",
+  "parsed_at": "2026-02-06T03:00:44.724887",
+  "item_count": 105,
+  "items": [
+    {
+      "name": "Seasoned Beef Entrails Hot Pot",
+      "price": 209.95,
+      "description": "Includes:   -Special Seafood Pancake   -Spicy Salmon Salad   -BBQ Prime Rib (3 Pcs)   -Deep-fried Shrimp in Spicy Sauce   -Special Crab Hot Pot (Fresh Crab, Clam, Prawns)",
+      "category": "OTHER",
+      "simplified_description": "A hot pot with beef entrails, seafood pancake, spicy salmon salad, BBQ ribs, shrimp, and crab.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Combo A",
+      "price": 113.95,
+      "description": "Includes:   -Deep-fried Dumpling (6 Pcs)  -Seafood Pancake or Clear Noodle or Spicy Rice Cake  -Marinated Beef Rib (1 Pc)   -Marinated Beef Bulgogi   -Marinated Chicken Bulgogi   -Marinated Pork Bulgogi   -Pork Bone Soup or Dumpling Soup",
+      "category": "OTHER",
+      "simplified_description": "Combo with dumplings, seafood pancake or noodles, various marinated meats, and soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Combo B",
+      "price": 117.95,
+      "description": "Includes:   -Deep-fried Dumpling (6 Pcs)  -Seafood Pancake or Clear Noodle or Spicy Rice Cake  -Premium Beef Rib (1 Pc)  -Sirloin Beef  -Sliced Pork Belly  -Pork Shoulder Loin  -Pork Bone Soup or Dumpling Soup",
+      "category": "OTHER",
+      "simplified_description": "Combo with dumplings, seafood pancake or noodles, premium beef, pork cuts, and soup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Combo C",
+      "price": 107.95,
+      "description": "Includes:   -Deep-fried Dumpling (6 Pcs)  -Seafood Pancake or Clear Noodle or Spicy Rice Cake  -Marinated Pork Rib  -Marinated Pork Bulgogi  -Sliced Pork Belly  -Pork Shoulder Loin  -Kimchi Stew or Miso Stew",
+      "category": "OTHER",
+      "simplified_description": "Combo with dumplings, seafood pancake or noodles, marinated pork, and kimchi or miso stew.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Combo for 6",
+      "price": 209.95,
+      "description": "Includes:   -Seaweed Soup or Dumpling Soup   -Seafood Pancake or Clear Noodle with Seafood   -Hamul Jjim or Spicy Rice Cake  -Marinated Beef Rib (2 Pcs)  -Marinated Beef Bulgogi   -Marinated Chicken Bulgogi   -Marinated Pork Bulgogi",
+      "category": "OTHER",
+      "simplified_description": "Large combo with soups, seafood pancake or noodles, steamed seafood, and marinated meats.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves six"
+    },
+    {
+      "name": "H1. Kimchi Hot Pot",
+      "price": 50.95,
+      "description": "Kimchi Hot Pot with pork, tofu, noodle and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with kimchi, pork, tofu, noodles, and vegetables.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H2. Potato Hot Pot",
+      "price": 50.95,
+      "description": "Potato Hot Pot with pork bone, perilla seeds and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with potatoes, pork bone broth, perilla seeds, and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H3. Beef & Mushroom Hot Pot",
+      "price": 54.95,
+      "description": "Broiled thin sliced beef, mushroom and clear noodle marinated in special sauce with vegtables",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with sliced beef, mushrooms, clear noodles, and vegetables in special sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H4. Spicy Soft Tofu Hotpot",
+      "price": 52.95,
+      "description": "Spicy Soft Tofu Hot Pot with Pork, Shrimp, kimchi and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Spicy hot pot with soft tofu, pork, shrimp, kimchi, and vegetables.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H5. Budae Jjigae",
+      "price": 52.95,
+      "description": "Spicy mixed meat (ham, sausages, spam and pork belly), kimchi, clear noodle and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Spicy stew with mixed meats, kimchi, clear noodles, and vegetables.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H6. Skate Fish Hot Pot",
+      "price": 56.95,
+      "description": "Skatefish Hot Pot with vegetables, tofu and noodle",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with skatefish, vegetables, tofu, and noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H7. Seafood Hot Pot",
+      "price": 56.95,
+      "description": "Seadfood Hot Pot (squid, shrimp, mussel and fish) with vegetables, tofu and noodle",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with seafood, vegetables, tofu, and noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "H8. Gob Chang Hot Pot",
+      "price": 56.95,
+      "description": "Seasoned beef entrails with vegetables and noodle",
+      "category": "FOOD",
+      "simplified_description": "Hot pot with seasoned beef entrails, vegetables, and noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ramen Noodle",
+      "price": 2.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Ramen noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clear Noodle",
+      "price": 3.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Clear noodles.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Udon Noodle",
+      "price": 3.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Thick wheat flour noodles commonly used in Japanese cuisine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "B1. Wang Galbi",
+      "price": 91.95,
+      "description": "Premium marinated BBQ Ribs",
+      "category": "FOOD",
+      "simplified_description": "Premium marinated BBQ ribs with rich flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "B2. LA Galbi",
+      "price": 77.95,
+      "description": "BBQ LA short ribs in house speical sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ LA short ribs cooked in a special house sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "B3. Bulgogi",
+      "price": 56.95,
+      "description": "BBQ sliced beef in house speical sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ sliced beef marinated in a special house sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "B4. Chicken",
+      "price": 52.95,
+      "description": "BBQ Chicken in house special sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ chicken cooked in a special house sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "B5. Pork",
+      "price": 50.95,
+      "description": "BBQ Pork in house special sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ pork prepared with a special house sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "B6. Spicy Beef",
+      "price": 56.95,
+      "description": "BBQ Beef in house spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ beef cooked in a spicy house sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "B7. Spicy Chicken",
+      "price": 52.95,
+      "description": "BBQ Chicken in house spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ chicken cooked in a spicy house sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "B8. Spicy Pork",
+      "price": 50.95,
+      "description": "BBQ Pork in house spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "BBQ pork cooked in a spicy house sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "B9. Saeng Galbi",
+      "price": 91.95,
+      "description": "Premium beef ribs seasoned with salt and black pepper",
+      "category": "FOOD",
+      "simplified_description": "Premium beef ribs seasoned simply with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "B10. Galbisal Sogeum Guih",
+      "price": 82.95,
+      "description": "Sliced prime rib meat seasoned with salt and black pepper",
+      "category": "FOOD",
+      "simplified_description": "Sliced prime rib seasoned with salt and black pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "B11. Grilled Sirloin Beef",
+      "price": 78.95,
+      "description": "Seasoned sliced beef with mushroom and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Grilled sliced beef served with mushrooms and vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "B12. Sam Gyup Sal",
+      "price": 52.95,
+      "description": "Sliced pork belly meat seasoned with salt and black pepper",
+      "category": "FOOD",
+      "simplified_description": "Sliced pork belly seasoned with salt and black pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kimchi Jigye",
+      "price": 8.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Traditional Korean kimchi stew with spicy fermented vegetables.",
+      "dietary_info": [
+        "spicy",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Dwenjang Jjigye",
+      "price": 8.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Korean soybean paste stew with vegetables and tofu.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "A1. Deep-Fried Dumpling",
+      "price": 7.95,
+      "description": "Deep-fried dumpling with pork, beef and vegetables",
+      "category": "APPETIZER",
+      "simplified_description": "Fried dumplings filled with pork, beef, and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A2. Steamed Dumpling",
+      "price": 10.95,
+      "description": "Steamed dumpling with pork, beef and vegetables",
+      "category": "APPETIZER",
+      "simplified_description": "Steamed dumplings filled with pork, beef, and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A3. Seafood Pajeon",
+      "price": 20.95,
+      "description": "Korean style pancake with green onions and seafood   Available with green onions only",
+      "category": "APPETIZER",
+      "simplified_description": "Korean pancake with green onions and seafood or just green onions.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A4. Corn Cheese",
+      "price": 9.95,
+      "description": "Sweet corn topped with melted cheese and creamy mayo  Served warm and bubbly",
+      "category": "APPETIZER",
+      "simplified_description": "Warm sweet corn with melted cheese and creamy mayonnaise.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Served warm and bubbly"
+    },
+    {
+      "name": "E1. Tangsu Yuk",
+      "price": 24.95,
+      "description": "Deep-fried pork with sweet and sour sauce",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried pork served with sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "E2. Sogogi Tangsu Yuk",
+      "price": 29.95,
+      "description": "Deep-fried beef with sweet and sour sauce",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried beef served with sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "E3. Saewoo Tangsu Yuk",
+      "price": 31.95,
+      "description": "Deep-fried shrimp with sweet and sour sauce",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried shrimp served with sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "E4. Japchae",
+      "price": 24.95,
+      "description": "Stir-fried clear noodle with pork and vegetables   Available with vegetables only",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried clear noodles with pork and vegetables or vegetables only.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "E5. Kkan Pung Ki",
+      "price": 24.95,
+      "description": "Deep-fried chicken in spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Deep-fried chicken coated in a spicy sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "E6. Pork Rib (2 Pcs)",
+      "price": 27.95,
+      "description": "Hot and spicy pork ribs",
+      "category": "FOOD",
+      "simplified_description": "Two pieces of hot and spicy pork ribs.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "E7. Ddeok Galbi (2 Pcs)",
+      "price": 29.95,
+      "description": "Grilled prime rib meat patties",
+      "category": "FOOD",
+      "simplified_description": "Two grilled prime rib meat patties.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "E8. Jeyuk Bokkum",
+      "price": 27.95,
+      "description": "Stir-fried pork with mushroom and green onion in hot and spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Spicy stir-fried pork with mushrooms and green onions.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "E9. Oh Jing Eo Bokkum",
+      "price": 30.95,
+      "description": "Stir-fried squid with vegetables, in a red chili sauce",
+      "category": "FOOD",
+      "simplified_description": "Squid stir-fried with vegetables in spicy red chili sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "E10. Oh Sam Bokkum",
+      "price": 29.95,
+      "description": "Stir-fried squid, pork and assorted vegetables in hot and spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Spicy stir-fried squid, pork, and vegetables.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "E11. Ddeok Bok Ki",
+      "price": 22.95,
+      "description": "Stir-fried rice cake, vegetables and fish cake in a special spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Spicy stir-fried rice cakes with vegetables and fish cake.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "E11a. Spicy Rose Ddeok Bok Ki",
+      "price": 24.95,
+      "description": "Stir-fried rice cakes, vegetables and fish cakes in a special creamy, mildly spicy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Rice cakes and fish cakes stir-fried in a creamy, mildly spicy sauce with vegetables.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "E11b. Squid Ddeok Bok Ki (For Two)",
+      "price": 46.95,
+      "description": "Stir-fried rice cake, squid, vegetables, mixed fish cake, and clear noodle in a special spicy sauce",
+      "category": "FOOD",
+      "simplified_description": "Rice cakes, squid, fish cakes, vegetables, and noodles stir-fried in spicy sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "E12. Chuncheon Dak-Galbi (For Two)",
+      "price": 46.95,
+      "description": "Stir-fried chicke, rice cakes and vegetables in a special spicy sauce   Add:   Ramen Noodle $2.00   Clear Noodle $3.00   Udon Noodle $3.00   Cheese $3.00",
+      "category": "FOOD",
+      "simplified_description": "Spicy stir-fried chicken, rice cakes, and vegetables, with optional noodles or cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "E13. Yookhwe",
+      "price": 38.95,
+      "description": "Thin strips of raw beef in special sauce with eggs and apples",
+      "category": "FOOD",
+      "simplified_description": "Raw beef strips served with special sauce, eggs, and apples.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "E14. Dogani Sooyook",
+      "price": 36.95,
+      "description": "Beef tendon with fresh garlic and special dipping sauce on the side",
+      "category": "FOOD",
+      "simplified_description": "Beef tendon served with fresh garlic and a special dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K1. Wang Galbi",
+      "price": 45.95,
+      "description": "Marinated 3 inches prime rib served on sizzling hot plate",
+      "category": "FOOD",
+      "simplified_description": "Marinated prime rib served sizzling hot on a plate.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K2. LA Galbi",
+      "price": 38.95,
+      "description": "Grilled prime short rib marinated in house special sauce served on sizzling hot plate",
+      "category": "FOOD",
+      "simplified_description": "Grilled marinated prime short ribs served sizzling hot.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K3. Dolsotbap + Soon Tofu",
+      "price": 20.95,
+      "description": "Sizzling stone pot rice and spicy soft tofu stew with seafood and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Stone pot rice with spicy soft tofu stew, seafood, and vegetables.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "K3 A. Soft Tofu Stew Only",
+      "price": 18.95,
+      "description": "Spicy soft tofu stew with seafood and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Spicy soft tofu stew with seafood and vegetables.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "K4. Skate Fish Maeun Tang",
+      "price": 20.95,
+      "description": "Spicy stew with skate fish, tofu and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Spicy stew with skate fish, tofu, and vegetables.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "K5. Duk Bae Ki Bulgogi",
+      "price": 20.95,
+      "description": "Broiled thin sliced beef, vegetables and clear noodles in house sauce",
+      "category": "FOOD",
+      "simplified_description": "Broiled thin beef slices with vegetables and clear noodles in sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K6. Gam Ja Tang",
+      "price": 18.95,
+      "description": "Traditional potato and pork bone soup topped with perilla seed",
+      "category": "FOOD",
+      "simplified_description": "Potato and pork bone soup topped with perilla seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K7. Galbi Tang",
+      "price": 19.95,
+      "description": "Beef rib soup with clear noodle, green onion and eggs",
+      "category": "FOOD",
+      "simplified_description": "Beef rib soup with clear noodles, green onions, and eggs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K8. Dogani Tang",
+      "price": 20.95,
+      "description": "Milky, unsalted beef bone soup with beef tendon and noodle",
+      "category": "FOOD",
+      "simplified_description": "Milky beef bone soup with beef tendon and noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K9. Seol Leong Tang",
+      "price": 19.95,
+      "description": "Nutritious milky white soup made with beef bones and slices of beef noodle. Salt and pepper may be added to taste",
+      "category": "FOOD",
+      "simplified_description": "Milky beef bone soup with beef slices and noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "K10. Yukgye Jang",
+      "price": 19.95,
+      "description": "Spicy beef soup with clear noodle, green onion and eggs",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef soup with noodles, green onions, and eggs.",
+      "dietary_info": [
+        "spicy",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "K11. Kimchi Jjigye",
+      "price": 17.95,
+      "description": "Spicy stew made with kimchi, pork and tofu",
+      "category": "FOOD",
+      "simplified_description": "Spicy stew with kimchi, pork, and tofu.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "K12. Dwenjang Jjigye",
+      "price": 17.95,
+      "description": "Stew made with soybean paste, seafood, tofu and vegetables",
+      "category": "FOOD",
+      "simplified_description": "Soybean paste stew with seafood, tofu, and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "K13. Grilled Mackerel + Miso Stew",
+      "price": 20.95,
+      "description": "Add one extra Mackerel for $10.95",
+      "category": "FOOD",
+      "simplified_description": "Grilled mackerel served with miso stew.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Add extra mackerel for $10.95"
+    },
+    {
+      "name": "K14. Mandoo Guk",
+      "price": 18.95,
+      "description": "Dumpling soup with green onions eggs",
+      "category": "FOOD",
+      "simplified_description": "Soup with dumplings, green onions, and eggs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "K15. Ddeok Mandoo Guk",
+      "price": 19.95,
+      "description": "Dumpling soup with sliced rice cake, green onion and eggs",
+      "category": "FOOD",
+      "simplified_description": "Dumpling soup with rice cakes, green onions, and eggs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB1. Dolsot Bibimbap",
+      "price": 18.95,
+      "description": "Assorted seasoned vegetables, beef, and raw egg with steamed rice in a Hot Stone Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with vegetables, beef, raw egg, and rice.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB2. Veggie Dolsot Bibimbap",
+      "price": 18.95,
+      "description": "Assorted seasoned vegetables, and raw egg with steamed rice in a Hot Stone Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with vegetables, raw egg, and rice.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB3. Bibimbap",
+      "price": 17.95,
+      "description": "Assorted seasoned vegetables, beef and fried egg with steamed rice",
+      "category": "BIBIMBAP",
+      "simplified_description": "Rice with vegetables, beef, and fried egg.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB4. Veggie Bibimbap",
+      "price": 17.95,
+      "description": "Assorted seasoned vegetables and fried egg with steamed rice",
+      "category": "BIBIMBAP",
+      "simplified_description": "Rice with vegetables and fried egg.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB5. Spicy Squid Doltsot Bibimbap",
+      "price": 20.95,
+      "description": "Assorted seasoned vegetables, spicy squid with steamed rice in a Hot Stone Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with vegetables, spicy squid, and rice.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "BB6. Spicy Pork Doltsot Bibimbap",
+      "price": 18.95,
+      "description": "Assorted seasoned vegetables, spicy pork with steamed rice in a Hot Stone Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with vegetables, spicy pork, and rice.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "BB7. Bulgogi Doltsot Bibimbap",
+      "price": 20.95,
+      "description": "Marinated beef, assorted seasoned vegetables and clear noodle with steamed rice in a Hot Stone Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with marinated beef, vegetables, noodles, and rice.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB8. Kimchi Doltsot Bibimbap",
+      "price": 18.95,
+      "description": "Stir-fried kimchi with pork and fried egg with steamed rice in a Hot Stone Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with kimchi, pork, fried egg, and rice.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BB9. Spicy Chicken Doltsot Bibimbap",
+      "price": 18.95,
+      "description": "Assorted seasoned vegetables, spicy chicken with steamed rice in a Hot Stone Rice Bowl",
+      "category": "BIBIMBAP",
+      "simplified_description": "Hot stone bowl with vegetables, spicy chicken, and rice.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "N1. Jajang Myeon",
+      "price": 16.95,
+      "description": "Noodle in black bean sauce with pork and vegetables",
+      "category": "NOODLES",
+      "simplified_description": "Noodles with black bean sauce, pork, and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "N2. Haemul Jajang",
+      "price": 17.95,
+      "description": "Noodles in black bean sauce with seafood, pork and vegetables with fried eggs",
+      "category": "NOODLES",
+      "simplified_description": "Noodles with black bean sauce, seafood, pork, vegetables, and fried eggs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "N3. SamSun Jambong",
+      "price": 18.95,
+      "description": "Noodle spicy soup with mixed seafood and various vegetables6",
+      "category": "NOODLES",
+      "simplified_description": "Spicy noodle soup with mixed seafood and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "N4. Bibim Naeng Myeon",
+      "price": 18.95,
+      "description": "Spicy buckwheat noodle. Served cold",
+      "category": "NOODLES",
+      "simplified_description": "Cold spicy buckwheat noodles.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "spicy",
+        "gluten-free"
+      ],
+      "other_info": "Served cold, Spicy"
+    },
+    {
+      "name": "N5. Mul Naeng Myeon",
+      "price": 18.95,
+      "description": "Chewy buckwheat noodle in chilled beef borth",
+      "category": "NOODLES",
+      "simplified_description": "Cold chewy buckwheat noodles in beef broth.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Served cold"
+    },
+    {
+      "name": "N6. Ul-Chi-Gi Naeng Myeon",
+      "price": 19.95,
+      "description": "Spicy buckwheat noodle in chilled beef broth",
+      "category": "NOODLES",
+      "simplified_description": "Cold spicy buckwheat noodles in beef broth.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Served cold, Spicy"
+    },
+    {
+      "name": "Domestic Beer",
+      "price": 6.95,
+      "description": "Budweiser, Canadian, Coor Light, Kokanee",
+      "category": "DRINK",
+      "simplified_description": "Selection of domestic beers including Budweiser and Canadian.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imported Beer",
+      "price": 7.95,
+      "description": "Cass, Heineken",
+      "category": "DRINK",
+      "simplified_description": "Imported beers including Cass and Heineken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kloud (Large)",
+      "price": 13.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Large serving of Kloud beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake",
+      "price": 7.0,
+      "description": "Small 6 oz",
+      "category": "DRINK",
+      "simplified_description": "Small 6 oz serving of sake.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake",
+      "price": 28.0,
+      "description": "Bottle 24 oz",
+      "category": "DRINK",
+      "simplified_description": "24 oz bottle of sake.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Traditional Rice Wine",
+      "price": 16.95,
+      "description": "750 mL  Orginial",
+      "category": "DRINK",
+      "simplified_description": "750 mL bottle of original Korean traditional rice wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Traditional Rice Wine",
+      "price": 16.95,
+      "description": "750 mL  Chestnut",
+      "category": "DRINK",
+      "simplified_description": "750 mL bottle of chestnut-flavored Korean traditional rice wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Traditional Rice Wine",
+      "price": 16.95,
+      "description": "750 mL  White Grape",
+      "category": "DRINK",
+      "simplified_description": "750 mL bottle of white grape-flavored Korean traditional rice wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jinro Soju",
+      "price": 18.95,
+      "description": "360 mL  Orginial",
+      "category": "DRINK",
+      "simplified_description": "360 mL bottle of original Jinro Soju.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jinro Soju",
+      "price": 18.95,
+      "description": "360 mL  Fresh",
+      "category": "DRINK",
+      "simplified_description": "A fresh 360 mL bottle of Jinro Soju.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jinro Is Back",
+      "price": 18.95,
+      "description": "375 mL",
+      "category": "DRINK",
+      "simplified_description": "A 375 mL bottle of Jinro Is Back Soju.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ChumChurum Zero Sugar Soju",
+      "price": 18.95,
+      "description": "375 mL",
+      "category": "DRINK",
+      "simplified_description": "A 375 mL bottle of sugar-free ChumChurum Soju.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ChumChurum Flavored Soju",
+      "price": 18.95,
+      "description": "360 mL  Apple-Mango, Peach, Yogurt",
+      "category": "DRINK",
+      "simplified_description": "A 360 mL flavored Soju with apple-mango, peach, or yogurt flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BokBunJaJoo",
+      "price": 18.95,
+      "description": "375 mL  Black Raspberry Wine",
+      "category": "DRINK",
+      "simplified_description": "A 375 mL bottle of black raspberry wine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Red / White",
+      "price": 6.95,
+      "description": "Glass 4 oz",
+      "category": "DRINK",
+      "simplified_description": "A 4 oz glass of house red or white wine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Red / White",
+      "price": 12.95,
+      "description": "Half Liter",
+      "category": "DRINK",
+      "simplified_description": "A half liter of house red or white wine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Red / White",
+      "price": 19.95,
+      "description": "One Liter",
+      "category": "DRINK",
+      "simplified_description": "A one liter bottle of house red or white wine.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coke / Diet Coke",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A can or glass of Coke or Diet Coke soda.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Ale",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A glass or can of ginger ale soda.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A glass or can of Sprite lemon-lime soda.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Tea",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A glass of iced tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Juice",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A glass of apple juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Juice",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A glass of orange juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Juice",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A glass of pineapple juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

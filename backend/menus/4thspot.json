@@ -1,0 +1,1233 @@
+{
+  "restaurant": "4thspot",
+  "parsed_at": "2026-02-06T00:32:16.138491",
+  "item_count": 94,
+  "items": [
+    {
+      "name": "shake it up margarita",
+      "price": 11.0,
+      "description": "cazadores tequila, cointreau, and our premuim margarita blend, salted rim, on the rocks",
+      "category": "DRINK",
+      "simplified_description": "Tequila and cointreau margarita with a salted rim served on the rocks.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "aperol spritz",
+      "price": 16.0,
+      "description": "2oz aperol, 3oz benvolio prosecco, fresh orange and soda",
+      "category": "DRINK",
+      "simplified_description": "Aperol, prosecco, orange, and soda mixed for a refreshing spritz.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "mojito",
+      "price": 11.0,
+      "description": "captain morgan white rum, simple syrup, mint, lime, soda",
+      "category": "DRINK",
+      "simplified_description": "Classic mojito with white rum, mint, lime, and soda water.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "old fashioned",
+      "price": 15.0,
+      "description": "buffalo trace bourbon, bitters, simple syrup (2oz)",
+      "category": "DRINK",
+      "simplified_description": "Bourbon cocktail with bitters and simple syrup.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "new york sour",
+      "price": 15.0,
+      "description": "red bank whiskey, lime juice, simple syrup, aquafaba, with a red wine float (2oz)",
+      "category": "DRINK",
+      "simplified_description": "Whiskey sour topped with red wine float and aquafaba.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "spicy bean caesar",
+      "price": 10.5,
+      "description": "eau claire flourish vodka, clamato, worcestershire, tabasco, pickle juice and our special celery salt rim (1oz)",
+      "category": "DRINK",
+      "simplified_description": "Vodka cocktail with clamato, Worcestershire, Tabasco, and pickle juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "espresso martini",
+      "price": 15.0,
+      "description": "smirnoff vanilla vodka, kahlua, simple syrup, espresso (2oz)",
+      "category": "DRINK",
+      "simplified_description": "Vanilla vodka and coffee liqueur with espresso.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "the prickly lady",
+      "price": 15.0,
+      "description": "fandango mezcal, el tequileno tequila, maraschino liqueur, lime juice with pear and serrano pepper syrup. with a cinnamon sugar rim (2oz)",
+      "category": "DRINK",
+      "simplified_description": "Mezcal and tequila cocktail with pear, serrano pepper syrup, and cinnamon sugar rim.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "mount pleasant",
+      "price": 12.0,
+      "description": "citrus vodka, basil, strawberries, lemonade, soda",
+      "category": "DRINK",
+      "simplified_description": "Citrus vodka with basil, strawberries, lemonade, and soda.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "garden hoe",
+      "price": 18.5,
+      "description": "cucumber infused Fandango mezcal,elderflower liquer, aperol, lime juice. (3oz)",
+      "category": "DRINK",
+      "simplified_description": "Cucumber mezcal cocktail with elderflower liqueur, Aperol, and lime.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "el jeffe's \"i'm on a boat\"",
+      "price": 12.0,
+      "description": "a refreshing blend of eau clair flourish gin, lychee and melon liquer, coconut syrup and soda (1oz)",
+      "category": "DRINK",
+      "simplified_description": "Gin cocktail with lychee, melon liqueur, coconut syrup, and soda.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "*NEW dill with it",
+      "price": 16.0,
+      "description": "peppercorn & dill infused gin, grapefruit juice, lime juice, simple syrup(2oz)",
+      "category": "DRINK",
+      "simplified_description": "Gin infused with peppercorn and dill, mixed with grapefruit and lime juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "*NEW monkey business",
+      "price": 17.0,
+      "description": "banana infused bourbon, galliano, amaro, black walnut & mole bitters. think grandma's banana bread, but with bourbon (2oz)",
+      "category": "DRINK",
+      "simplified_description": "Banana bourbon cocktail with Galliano, amaro, black walnut, and mole bitters.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "*NEW midnight in tulum",
+      "price": 16.0,
+      "description": "coconut cartel rum, kahlua, mole bitters, simple syrup, shaken with espresso.(2oz)",
+      "category": "DRINK",
+      "simplified_description": "Rum and coffee cocktail with mole bitters and espresso.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "*NEW root remedy",
+      "price": 16.5,
+      "description": "fandango mezcal, carrot juice, lime juice, ginger & cinnamon syrup. (2oz)",
+      "category": "DRINK",
+      "simplified_description": "Mezcal cocktail with carrot, lime, ginger, and cinnamon syrup.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "spot sangria",
+      "price": 17.0,
+      "description": "your choice of 5oz red, white or rose wine, brandy and peach schnapps, raspberries, soda, fresh lemon and orange",
+      "category": "DRINK",
+      "simplified_description": "Wine with brandy, peach schnapps, berries, soda, lemon, and orange.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "last best - 'tokyo drift' hazy ipa [473ml]",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Hazy India Pale Ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "xhale - 'see ya next tuesday' Aussie style c-olsch [473ml]",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Australian style Kölsch beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "fernie ' what the huck' berry ale [473ml]",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Berry flavored ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "88 'good morning vietnamese' coffee stout [473ml]",
+      "price": 9.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Coffee flavored stout beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cabin 'super saturation' NEPA [473ml]",
+      "price": 10.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "New England Pale Ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "canadian",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Canadian style beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "miller lite",
+      "price": 9.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Light lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "sol",
+      "price": 9.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Mexican pale lager beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "guiness stout [500ml]",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Classic Irish stout beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "grey fox \"prolific' pale ale gluten free beer [355ml]",
+      "price": 10.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Gluten-free pale ale beer.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "grey fox \"agile\" ipa gluten free beer [355ml]",
+      "price": 10.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Gluten-free India Pale Ale beer.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "vizzy hard seltzer blueberry pomegranate [355ml]",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Blueberry pomegranate flavored hard seltzer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "eau claire prickly pear pink lemonade [355ml]",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Prickly pear flavored pink lemonade soda.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "village cider [473ml]",
+      "price": 9.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Apple cider beverage.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "atypique non-alcoholic cocktails (355ml)",
+      "price": 8.0,
+      "description": "ask about our current selection",
+      "category": "DRINK",
+      "simplified_description": "Ask about the current non-alcoholic cocktail options available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "lavender lemonade",
+      "price": 7.0,
+      "description": "lavender infused simple syrup, lemon juice, grapefruit juice and soda",
+      "category": "DRINK",
+      "simplified_description": "A refreshing lemonade with lavender, lemon, grapefruit, and soda water.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "heinekin 0.0 (341ml)",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Non-alcoholic Heineken beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "village cr*ft hazy ipa (473ml)",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A hazy India Pale Ale beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "one for the road saskaberry blonde ale (355ml)",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A blonde ale beer with Saskaberry flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "grizzly paw sodas (355ml)",
+      "price": 5.0,
+      "description": "ask about our current selection",
+      "category": "DRINK",
+      "simplified_description": "Ask about the current selection of Grizzly Paw sodas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "village blonde",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A blonde beer from Village brewery.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "trolley 5 'hasta manana' cerveza",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A cerveza beer named 'Hasta Manana' from Trolley 5.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "trolley 5 rotating tap 'conductor'",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A rotating tap beer called 'Conductor' from Trolley 5.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "wild rose 'velvet fog'",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A beer called 'Velvet Fog' from Wild Rose brewery.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "wild rose rotating tap 'wraspberry' raspberry ale",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A raspberry ale called 'Wraspberry' from Wild Rose rotating tap.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ol'beautiful 'brass monkey' blood orange blonde",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A blood orange blonde beer named 'Brass Monkey' from Ol'Beautiful.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ol'beautiful 'okami kasu' japanese ale",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A Japanese ale called 'Okami Kasu' from Ol'Beautiful.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "eighty-eight brewing co. 'night gallery' hazy pale ale",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A hazy pale ale named 'Night Gallery' from Eighty-Eight Brewing Co.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cabin brewing 'sunshine rain' west coast ipa",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A West Coast IPA called 'Sunshine Rain' from Cabin Brewing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "cabin brewing 'luminosity' pilsner",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A light and crisp pilsner beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "cold garden beverage co. 'red smashed in buffalo jump' red ale",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A rich and flavorful red ale beer.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "cold garden beverage co. 'Inglewood Iced Tea' hard iced tea",
+      "price": 6.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A refreshing hard iced tea beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "lass chance 'golden child' apple cider",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A crisp and fruity apple cider.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "granville island 'lions' winter ale",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A seasonal winter ale with rich flavors.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "granville island 'kitsilano' juicy ipa",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A juicy and hoppy India Pale Ale.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "blue moon",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A smooth wheat beer with citrus notes.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "coors original",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A classic American lager beer.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "molson canadian",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A popular Canadian lager beer.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "coors light",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A light and crisp lager beer.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "strongbow cider",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A dry and refreshing apple cider.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "prosecco doc extra dry serena 1881 [prosecco]",
+      "price": 9.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A dry and sparkling Italian prosecco.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "prosecco rose millesimato doc brut, Villa Sandi 'il fresco'",
+      "price": 60.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A dry sparkling rosé prosecco wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "l'ostal cazes rose syrah",
+      "price": 9.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A fruity and dry rosé wine with Syrah grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "mr. pink rose sangiovese",
+      "price": 60.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A dry rosé wine made from Sangiovese grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "hester creek rose cabernet franc",
+      "price": 70.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A rosé wine made from Cabernet Franc grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "st. supery rose cabernet sauvignon",
+      "price": 85.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A rosé wine made from Cabernet Sauvignon grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "campo maccione [vermentino]",
+      "price": 9.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Vermentino grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "benvolio [pinot grigio]",
+      "price": 9.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Pinot Grigio grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "invivo [sauvignon blanc]",
+      "price": 10.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Sauvignon Blanc grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boschendal 1685 [chardonnay]",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Chardonnay grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "journey's end 'honey bee' [chenin blanc-viogner]",
+      "price": 55.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine blend of Chenin Blanc and Viognier grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "truffle hunter 'leda' [favorita]",
+      "price": 60.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Favorita grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "poplar grove [pinot gris]",
+      "price": 65.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Pinot Gris grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "gruber roschitz[gruner veltliner]",
+      "price": 68.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Grüner Veltliner grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "catena 'white clay' [semillion-chenin blanc]",
+      "price": 70.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine blend of Semillon and Chenin Blanc grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "michael david 'freakshow' [chardonnay]",
+      "price": 70.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Chardonnay grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "joie farm 'en famille reserve' [reisling]",
+      "price": 85.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Riesling grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "st.supery [sauvignon blanc]",
+      "price": 95.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Sauvignon Blanc grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "hartford court [chardonnay]",
+      "price": 90.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A white wine made from Chardonnay grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "benvolio rosso[refosco-merlot]",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine blend of Refosco and Merlot grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "rocca delle macie \"sasyr\" [sangiovese]",
+      "price": 9.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Sangiovese grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "tilia [malbec]",
+      "price": 10.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Malbec grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Laroche 'la chevalière' [pinot noir]",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Pinot Noir grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "leaping horse [cabernet sauvignon]",
+      "price": 10.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Cabernet Sauvignon grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "illuminati \"the ripper\" [montepulciano]",
+      "price": 60.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Montepulciano grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "corryton burge[shiraz]",
+      "price": 60.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Shiraz grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "allegrini doc [valpolicella classico]",
+      "price": 60.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A classic Valpolicella red wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "bel colle langhe doc [nebbiolo]",
+      "price": 68.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A Nebbiolo red wine from Langhe region.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "nabal [tempranillo]",
+      "price": 68.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Tempranillo grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "decero remolinos [malbec]",
+      "price": 70.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A Malbec red wine from Decero Remolinos.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "edmeades [zinfandel]",
+      "price": 70.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Zinfandel grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "field & flight [pinot noir]",
+      "price": 68.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A Pinot Noir red wine from Field & Flight.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "michael david ' freakshow' [petite-petit]",
+      "price": 72.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine blend of Petite Sirah and Petit Verdot grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "quails gate [old vine foch]",
+      "price": 80.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Old Vine Foch grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "michael david [cabernet sauvignon]",
+      "price": 72.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Cabernet Sauvignon grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "giant steps [pinot noir]",
+      "price": 110.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A red wine made from Pinot Noir grapes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "st. suprey [cabernet sauvignon]",
+      "price": 150.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A premium Cabernet Sauvignon red wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "freemark abbey [cabernet sauvignon]",
+      "price": 150.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A high-quality Cabernet Sauvignon red wine.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

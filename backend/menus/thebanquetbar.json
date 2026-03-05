@@ -1,0 +1,790 @@
+{
+  "restaurant": "thebanquetbar",
+  "parsed_at": "2026-02-06T04:29:10.562133",
+  "item_count": 87,
+  "items": [
+    {
+      "name": "Strawberry Lemonade",
+      "price": null,
+      "description": "Lemonade, Seedlip Grove, Strawberry Puree, Soda",
+      "category": "DRINK",
+      "simplified_description": "Lemonade, Seedlip Grove, Strawberry Puree, Soda",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Margarita",
+      "price": null,
+      "description": "Seedlip Agave, lime juice, orange juice, coconut cream.",
+      "category": "DRINK",
+      "simplified_description": "Seedlip Agave, lime juice, orange juice, coconut cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caymus Napa Cabernet Sauvignon",
+      "price": 228.99,
+      "description": "**Bottle** $228.99",
+      "category": "DRINK",
+      "simplified_description": "**Bottle** $228.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Prisoner Cabernet Sauvignon",
+      "price": 122.99,
+      "description": "**Bottle** $122.99",
+      "category": "DRINK",
+      "simplified_description": "**Bottle** $122.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bonanza Cabernet Sauvignon",
+      "price": 14.99,
+      "description": "**6oz** $14.99 | **9oz** $18.99 | **Bottle** $54.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $14.99 | **9oz** $18.99 | **Bottle** $54.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wolf Blass Yellow Label Merlot",
+      "price": 9.99,
+      "description": "**6oz** $9.99 | **9oz** $13.99 | **Bottle** $37.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $9.99 | **9oz** $13.99 | **Bottle** $37.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cavit Collection Pinot Noir",
+      "price": 9.99,
+      "description": "**6oz** $9.99 | **9oz** $13.99 | **Bottle** $36.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $9.99 | **9oz** $13.99 | **Bottle** $36.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Finca Los Primos Malbec (House)",
+      "price": 7.99,
+      "description": "**6oz** $7.99 | **9oz** $11.99 | **Bottle** $24.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $7.99 | **9oz** $11.99 | **Bottle** $24.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cloudy Bay Sauvignon Blanc",
+      "price": 85.99,
+      "description": "**Bottle** $85.99",
+      "category": "DRINK",
+      "simplified_description": "**Bottle** $85.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bread and Butter Chardonnay",
+      "price": 10.99,
+      "description": "**6oz** $10.99 | **9oz** $14.99 | **Bottle** $44.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $10.99 | **9oz** $14.99 | **Bottle** $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oyster Bay Sauvignon Blanc",
+      "price": 10.99,
+      "description": "**6oz** $10.99 | **9oz** $14.99 | **Bottle** $41.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $10.99 | **9oz** $14.99 | **Bottle** $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gabbiano Pinot Grigio (House)",
+      "price": 7.99,
+      "description": "**6oz** $7.99 | **9oz** $11.99 | **Bottle** $29.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $7.99 | **9oz** $11.99 | **Bottle** $29.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Studio Rosé",
+      "price": 9.99,
+      "description": "**6oz** $9.99 | **9oz** $13.99 | **Bottle** $39.99",
+      "category": "DRINK",
+      "simplified_description": "**6oz** $9.99 | **9oz** $13.99 | **Bottle** $39.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Sangria",
+      "price": 7.99,
+      "description": "10oz $7.99 | Pitcher $49.99",
+      "category": "DRINK",
+      "simplified_description": "10oz $7.99 | Pitcher $49.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rosé Sangria",
+      "price": 7.99,
+      "description": "10oz $7.99 | Pitcher $49.99",
+      "category": "DRINK",
+      "simplified_description": "10oz $7.99 | Pitcher $49.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Sangria",
+      "price": 7.99,
+      "description": "10oz $7.99 | Pitcher $49.99",
+      "category": "DRINK",
+      "simplified_description": "10oz $7.99 | Pitcher $49.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moët & Chandon",
+      "price": 69.99,
+      "description": "$69.99",
+      "category": "DRINK",
+      "simplified_description": "$69.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "La Marca",
+      "price": 49.99,
+      "description": "$49.99",
+      "category": "DRINK",
+      "simplified_description": "$49.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bud Light",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Molson Canadian",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokanee",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pilsner",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Michelob Ultra",
+      "price": 7.99,
+      "description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $7.99 | 22oz $10.99 | Beer Tower $41.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alexander Keith’s India Pale Ale",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rickard’s Red",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Granville Island Cypress Honey Lager",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Granville Island English Bay Pale Ale",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stanley Park Trail Hopper IPA",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Mount Crushmore Pilsner",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Plainsbreaker",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Approach Amber Lager",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Microburst Hazy IPA",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phillips Electric Unicorn White IPA",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Tallgrass Tango",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goose Island IPA",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Moon",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Wraspberry Ale",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Peaks Hard Steeped Tea",
+      "price": 8.99,
+      "description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $8.99 | 22oz $11.99 | Beer Tower $44.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Original",
+      "price": 9.99,
+      "description": "16oz $9.99 | 22oz $12.99 | Beer Tower $50.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $9.99 | 22oz $12.99 | Beer Tower $50.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stanley Park Sun Setter",
+      "price": 9.99,
+      "description": "16oz $9.99 | 22oz $12.99 | Beer Tower $50.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $9.99 | 22oz $12.99 | Beer Tower $50.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sea Change Prairie Fairy",
+      "price": 9.99,
+      "description": "16oz $9.99 | 22oz $12.99 | Beer Tower $50.99",
+      "category": "DRINK",
+      "simplified_description": "16oz $9.99 | 22oz $12.99 | Beer Tower $50.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Southern Aspect IPA",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pabst Blue Ribbon",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Original",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "No Boats On Sunday",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pilsner",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miller High Life",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Big Rock Grasshopper Wheat Ale",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Michelob Ultra",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sea Change Man Crush Mandarin Ale",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sea Change The Wolf Hazy Pale Ale",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phillips Dinosour",
+      "price": 8.49,
+      "description": "Tall Boy $8.49",
+      "category": "DRINK",
+      "simplified_description": "Tall Boy $8.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Molson Canadian",
+      "price": 6.99,
+      "description": "Domestic Bottle $6.99",
+      "category": "DRINK",
+      "simplified_description": "Domestic Bottle $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": 6.99,
+      "description": "Domestic Bottle $6.99",
+      "category": "DRINK",
+      "simplified_description": "Domestic Bottle $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pilsner",
+      "price": 6.99,
+      "description": "Domestic Bottle $6.99",
+      "category": "DRINK",
+      "simplified_description": "Domestic Bottle $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokanee",
+      "price": 6.99,
+      "description": "Domestic Bottle $6.99",
+      "category": "DRINK",
+      "simplified_description": "Domestic Bottle $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 6.99,
+      "description": "Domestic Bottle $6.99",
+      "category": "DRINK",
+      "simplified_description": "Domestic Bottle $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bud Light",
+      "price": 6.99,
+      "description": "Domestic Bottle $6.99",
+      "category": "DRINK",
+      "simplified_description": "Domestic Bottle $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Modelo",
+      "price": 7.99,
+      "description": "Premium/Import Bottle $7.99",
+      "category": "DRINK",
+      "simplified_description": "Premium/Import Bottle $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rickard’s Red",
+      "price": 7.99,
+      "description": "Premium/Import Bottle $7.99",
+      "category": "DRINK",
+      "simplified_description": "Premium/Import Bottle $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken",
+      "price": 7.99,
+      "description": "Premium/Import Bottle $7.99",
+      "category": "DRINK",
+      "simplified_description": "Premium/Import Bottle $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miller Lite",
+      "price": 7.99,
+      "description": "Premium/Import Bottle $7.99",
+      "category": "DRINK",
+      "simplified_description": "Premium/Import Bottle $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 7.99,
+      "description": "Premium/Import Bottle $7.99",
+      "category": "DRINK",
+      "simplified_description": "Premium/Import Bottle $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona Light",
+      "price": 7.99,
+      "description": "Premium/Import Bottle $7.99",
+      "category": "DRINK",
+      "simplified_description": "Premium/Import Bottle $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phillips IOTA Hazy IPA",
+      "price": 6.99,
+      "description": "Non-Alcoholic",
+      "category": "DRINK",
+      "simplified_description": "Non-Alcoholic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phillips IOTA Pale Ale",
+      "price": 6.99,
+      "description": "Non-Alcoholic",
+      "category": "DRINK",
+      "simplified_description": "Non-Alcoholic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona Cero",
+      "price": 5.99,
+      "description": "Non-Alcoholic",
+      "category": "DRINK",
+      "simplified_description": "Non-Alcoholic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken 0.0",
+      "price": 5.99,
+      "description": "Non-Alcoholic",
+      "category": "DRINK",
+      "simplified_description": "Non-Alcoholic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Ice",
+      "price": 7.99,
+      "description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "category": "DRINK",
+      "simplified_description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Claw",
+      "price": 7.99,
+      "description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "category": "DRINK",
+      "simplified_description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Olé",
+      "price": 7.99,
+      "description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "category": "DRINK",
+      "simplified_description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Happy Dad",
+      "price": 7.99,
+      "description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "category": "DRINK",
+      "simplified_description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mountain Joe",
+      "price": 7.99,
+      "description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "category": "DRINK",
+      "simplified_description": "Coolers, Seltzers & More $7.99 | Ask server for flavours.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Baller",
+      "price": 7.99,
+      "description": "Apple Vodka and Melon Liqueur in Sprite and lime juice.",
+      "category": "DRINK",
+      "simplified_description": "Apple Vodka and Melon Liqueur in Sprite and lime juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Bread Espresso Bomb",
+      "price": 7.99,
+      "description": "Chilled espresso in Buffalo Trace, Creme de Banane, chocolate bitters and simple syrup.",
+      "category": "DRINK",
+      "simplified_description": "Chilled espresso in Buffalo Trace, Creme de Banane, chocolate bitters and simple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Bomb",
+      "price": 7.99,
+      "description": "Vanilla vodka and Galliano in orange juice",
+      "category": "DRINK",
+      "simplified_description": "Vanilla vodka and Galliano in orange juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea",
+      "price": 7.99,
+      "description": "Jameson and Peach Schnapps in lime juice.",
+      "category": "DRINK",
+      "simplified_description": "Jameson and Peach Schnapps in lime juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Punch in the Face",
+      "price": 7.99,
+      "description": "Vanilla vodka and peach schnapps in pineapple juice.",
+      "category": "DRINK",
+      "simplified_description": "Vanilla vodka and peach schnapps in pineapple juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BQT OG Shaft",
+      "price": 12.99,
+      "description": "Baileys, Coffee Liqueur, Vanilla Vodka, and Espresso.",
+      "category": "DRINK",
+      "simplified_description": "Baileys, Coffee Liqueur, Vanilla Vodka, and Espresso.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Orange",
+      "price": 12.99,
+      "description": "Orange Vodka, Creme de Cacao, Espresso, Simple Syrup, and Splash Milk.",
+      "category": "DRINK",
+      "simplified_description": "Orange Vodka, Creme de Cacao, Espresso, Simple Syrup, and Splash Milk.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peppermint Mocha",
+      "price": 12.99,
+      "description": "Creme de Cacao, Peppermint Schnapps, Espresso, Simple Syrup, and Splash Milk.",
+      "category": "DRINK",
+      "simplified_description": "Creme de Cacao, Peppermint Schnapps, Espresso, Simple Syrup, and Splash Milk.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House",
+      "price": 7.49,
+      "description": "1oz $7.49 2oz $11.99",
+      "category": "DRINK",
+      "simplified_description": "1oz $7.49 2oz $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium",
+      "price": 8.49,
+      "description": "1oz $8.49 2oz $13.49",
+      "category": "DRINK",
+      "simplified_description": "1oz $8.49 2oz $13.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Top Shelf",
+      "price": 9.49,
+      "description": "1oz $9.49 2oz $15.49",
+      "category": "DRINK",
+      "simplified_description": "1oz $9.49 2oz $15.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ultra Premium",
+      "price": 10.49,
+      "description": "1oz $10.49 2oz $17.49",
+      "category": "DRINK",
+      "simplified_description": "1oz $10.49 2oz $17.49",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

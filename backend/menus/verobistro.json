@@ -1,0 +1,214 @@
+{
+  "restaurant": "verobistro",
+  "parsed_at": "2025-12-25T01:29:47.909243",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "Butternut Squash Veloute",
+      "price": 15,
+      "description": "Creme fraiche, toasted pumpkin seeds",
+      "simplified_description": "A creamy butternut squash soup with sour cream and pumpkin seeds",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Crudo",
+      "price": 19,
+      "description": "Kumquat salsa, horseradish aioli, pasta chips (3pcs)",
+      "simplified_description": "Raw tuna served with a sweet and tangy kumquat sauce, spicy aioli, and pasta chips",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Salmon w House Baked Croissant",
+      "price": 19,
+      "description": "Dill creme fraiche, crispy fried shallots, lemon EVOO (3pcs)",
+      "simplified_description": "Smoked salmon served with a dill-flavored sour cream, crispy shallots, and lemon olive oil on croissants",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosciutto di San Daniele 24 months",
+      "price": 24,
+      "description": "Sauteed oyster mushrooms w butter, lemon & parmesan",
+      "simplified_description": "Cured ham served with sautéed mushrooms in butter, lemon, and cheese",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arancini al Tartufo",
+      "price": 18,
+      "description": "Stuffed with fontina, porcini & truffle, truffle pecorino (3pcs)",
+      "simplified_description": "Fried rice balls filled with cheese, mushrooms, and truffle flavor",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Fried Coconut Prawns",
+      "price": 24,
+      "description": "Russian potato salad, Mango curry aioli (3pcs)",
+      "simplified_description": "Fried prawns coated in coconut served with potato salad and mango curry sauce",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frissee Ceasar",
+      "price": 19,
+      "description": "Crispy guanciale, Medjool dates, shaved parmigiano reggiano, roasted garlic dressing",
+      "simplified_description": "A Caesar salad with crispy pork, dates, cheese, and garlic dressing",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Escargot de Bourgogne",
+      "price": 19,
+      "description": "Garlic parsley butter, lemon parmesan",
+      "simplified_description": "Snails cooked in garlic butter with lemon and cheese",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Lamb Arrosticini",
+      "price": 19,
+      "description": "Traditional lamb skewers of Abruzzo, chili lime sea salt (5pcs)",
+      "simplified_description": "Grilled lamb skewers seasoned with chili and lime salt",
+      "category": "Antipasti",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taglioni al Tartufo in Cheese Basket",
+      "price": 36,
+      "description": "Parmigiano Reggiano 36 months and homemade black truffle butter",
+      "simplified_description": "Pasta served in a cheese basket with truffle butter",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Agnolotti",
+      "price": 39,
+      "description": "Lobster bisque, saffron crema",
+      "simplified_description": "Pasta filled with lobster served in a creamy lobster sauce",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Venetian Seafood Stew",
+      "price": 48,
+      "description": "Mussels, clams, prawns, scallop, calamari, cod, prosecco, tomato broth, crostino",
+      "simplified_description": "A seafood stew with various shellfish and fish in a tomato broth",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Alberta Free Range Lamb Chops",
+      "price": 56,
+      "description": "Roasted vegetables, Barolo reduction",
+      "simplified_description": "Grilled lamb chops served with roasted vegetables and a wine sauce",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add Ons – Atlantic Lobster Tail",
+      "price": 38,
+      "description": "",
+      "simplified_description": "Extra lobster tail",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add Ons – Parmesan Frites, lemon aioli",
+      "price": 12,
+      "description": "",
+      "simplified_description": "French fries with parmesan and lemon dipping sauce",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hand Made Tortellini",
+      "price": 33,
+      "description": "Stuffed with roasted pork shoulder & mortadella, toasted spice, slow cooked pork ragu, parmigiano reggiano",
+      "simplified_description": "Pasta filled with pork and spices served with a rich sauce",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Our Signature Sweet Potato Gnocchi",
+      "price": 35,
+      "description": "Wild boar bacon, gorgonzola dolce, spinach, toasted walnuts, sage maple butter",
+      "simplified_description": "Sweet potato pasta with bacon, cheese, spinach, and walnuts in a sage butter sauce",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Seared BC Salmon",
+      "price": 42,
+      "description": "Spinach, radicchio, arugula, cucumber, radish, walnuts, dates, honey thyme vinaigrette",
+      "simplified_description": "Seared salmon served with mixed greens and a honey dressing",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Frites",
+      "price": 56,
+      "description": "Grilled Beef Tenderloin, green peppercorn sauce, parmesan frites, lemon aioli",
+      "simplified_description": "Grilled steak served with fries and a peppercorn sauce",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add Ons – Tiger Prawns (3pcs)",
+      "price": 24,
+      "description": "",
+      "simplified_description": "Extra prawns",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add Ons – Marinated Warm Olives",
+      "price": 12,
+      "description": "",
+      "simplified_description": "Extra marinated olives",
+      "category": "Entree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Style Dinner – A Multi Course Dinner",
+      "price": 105,
+      "description": "Wine Pairing $55/guest - Whole Table Participation Required",
+      "simplified_description": "A multi-course dinner that requires everyone at the table to participate",
+      "category": "Dinner Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Our Signature Seafood Platter for 2",
+      "price": 185,
+      "description": "Mussels, clams, prawns, scallops, 2 kinds of seasonal fish, calamari, Champagne butter poached Atlantic lobster tail",
+      "simplified_description": "A seafood platter for two with various shellfish and lobster",
+      "category": "Dinner Menu",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

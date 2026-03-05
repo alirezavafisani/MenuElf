@@ -1,0 +1,232 @@
+{
+  "restaurant": "meltwich",
+  "parsed_at": "2026-02-06T03:19:17.002833",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "Bottled Water",
+      "price": null,
+      "description": "Bottled Water / Canned Pop / Dole Juice / Bottled Pop / Gatorade / Iced Tea",
+      "category": "DRINK",
+      "simplified_description": "Bottled Water / Canned Pop / Dole Juice / Bottled Pop / Gatorade / Iced Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": null,
+      "description": "Coors Light",
+      "category": "DRINK",
+      "simplified_description": "Coors Light",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken",
+      "price": null,
+      "description": "Heineken / Sol",
+      "category": "DRINK",
+      "simplified_description": "Heineken / Sol",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian",
+      "price": null,
+      "description": "Canadian / Coors Light / Rickard's Red / Belgian Moon",
+      "category": "DRINK",
+      "simplified_description": "Canadian / Coors Light / Rickard's Red / Belgian Moon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Claw Hard Seltzers",
+      "price": null,
+      "description": "White Claw Hard Seltzers",
+      "category": "DRINK",
+      "simplified_description": "White Claw Hard Seltzers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vodka",
+      "price": null,
+      "description": "Vodka / Rye / Rum",
+      "category": "DRINK",
+      "simplified_description": "Vodka / Rye / Rum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Cheeseburger",
+      "price": null,
+      "description": "Comes with fries and juice",
+      "category": "FOOD",
+      "simplified_description": "Comes with fries and juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": null,
+      "description": "Comes with fries and a juice",
+      "category": "FOOD",
+      "simplified_description": "Comes with fries and a juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kids Grilled Cheese",
+      "price": null,
+      "description": "Comes with fries and juice",
+      "category": "FOOD",
+      "simplified_description": "Comes with fries and juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": null,
+      "description": "Hand Spun & Served with Whipped Cream",
+      "category": "DESSERT",
+      "simplified_description": "Hand Spun & Served with Whipped Cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oreo Milkshake",
+      "price": null,
+      "description": "Hand Spun & Served with Whipped Cream",
+      "category": "DESSERT",
+      "simplified_description": "Hand Spun & Served with Whipped Cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Shake",
+      "price": null,
+      "description": "Chocolate / Vanilla / Strawberry / Salted Caramel",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate / Vanilla / Strawberry / Salted Caramel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peanut Butter Shake",
+      "price": null,
+      "description": "Hand Spun & Served with Whipped Cream",
+      "category": "DESSERT",
+      "simplified_description": "Hand Spun & Served with Whipped Cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Bisque Soup",
+      "price": null,
+      "description": "The perfect pairing with Grilled Cheese!",
+      "category": "SIDE",
+      "simplified_description": "The perfect pairing with Grilled Cheese!",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Russet Potato Fries",
+      "price": null,
+      "description": "Sea Salted",
+      "category": "SIDE",
+      "simplified_description": "Sea Salted",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mac & Cheese Wedges",
+      "price": null,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southern Fried Chicken Strips",
+      "price": null,
+      "description": "3pcs / 5pcs / 10pcs",
+      "category": "SIDE",
+      "simplified_description": "3pcs / 5pcs / 10pcs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Standard Burger Combo",
+      "price": 12.0,
+      "description": "Standard Burger Combo $12  Substitute dom. bottle or pint +$3.00",
+      "category": "OTHER",
+      "simplified_description": "Standard Burger Combo $12  Substitute dom. bottle or pint +$3.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Grilled Cheese",
+      "price": 4.5,
+      "description": "Classic Grilled Cheese $4.50",
+      "category": "OTHER",
+      "simplified_description": "Classic Grilled Cheese $4.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southern Fried Chicken Melt",
+      "price": 9.75,
+      "description": "Southern Fried Chicken Melt $9.75",
+      "category": "OTHER",
+      "simplified_description": "Southern Fried Chicken Melt $9.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Cheesesteak Combo",
+      "price": 13.0,
+      "description": "Philly Cheesesteak Combo $13 / Upgrade to domestic bottle or pint for $3",
+      "category": "OTHER",
+      "simplified_description": "Philly Cheesesteak Combo $13 / Upgrade to domestic bottle or pint for $3",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic bottles of beer",
+      "price": 4.25,
+      "description": "Domestic bottles of beer $4.25",
+      "category": "DRINK",
+      "simplified_description": "Domestic bottles of beer $4.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Poutine",
+      "price": 8.5,
+      "description": "Classic Poutine $8.50",
+      "category": "OTHER",
+      "simplified_description": "Classic Poutine $8.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips",
+      "price": 1.95,
+      "description": "$1.95 each – no limit",
+      "category": "OTHER",
+      "simplified_description": "$1.95 each – no limit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottles of Sol or Heineken",
+      "price": 5.25,
+      "description": "Bottles of Sol or Heineken $5.25 /  Mac Attack Melt $9",
+      "category": "OTHER",
+      "simplified_description": "Bottles of Sol or Heineken $5.25 /  Mac Attack Melt $9",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

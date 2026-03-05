@@ -1,0 +1,124 @@
+{
+  "restaurant": "superpub",
+  "parsed_at": "2026-02-06T04:18:08.111685",
+  "item_count": 13,
+  "items": [
+    {
+      "name": "Antojitos",
+      "price": null,
+      "description": "Satisfying Cravings, One Bite at a Time!",
+      "category": "FOOD",
+      "simplified_description": "Satisfying Cravings, One Bite at a Time!",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": null,
+      "description": "Burgers are great, but chicken burgers are magic.",
+      "category": "FOOD",
+      "simplified_description": "Burgers are great, but chicken burgers are magic.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Steelhead Trout",
+      "price": null,
+      "description": "See food, eat food.",
+      "category": "FOOD",
+      "simplified_description": "See food, eat food.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich with Caesar salad",
+      "price": null,
+      "description": "Becoming a vegetarian is a huge missed steak.",
+      "category": "FOOD",
+      "simplified_description": "Becoming a vegetarian is a huge missed steak.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Reuben Sandwich with fries",
+      "price": null,
+      "description": "Don't Reuben A Good Thing.",
+      "category": "FOOD",
+      "simplified_description": "Don't Reuben A Good Thing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clubhouse",
+      "price": null,
+      "description": "Let's Hit The Club",
+      "category": "FOOD",
+      "simplified_description": "Let's Hit The Club",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Burger",
+      "price": null,
+      "description": "Why are you looking at my \"meat\"",
+      "category": "FOOD",
+      "simplified_description": "Why are you looking at my \"meat\"",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Damn Good Burger",
+      "price": null,
+      "description": "I'm tasty and you know it.",
+      "category": "FOOD",
+      "simplified_description": "I'm tasty and you know it.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Molson Canadian 20oz pints",
+      "price": 7.0,
+      "description": "$7 Molson Canadian 20oz pints & miller light tallboys, $4 touchdown fireball shots",
+      "category": "DRINK",
+      "simplified_description": "$7 Molson Canadian 20oz pints & miller light tallboys, $4 touchdown fireball sho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "miller light tallboys",
+      "price": null,
+      "description": "$7 Molson Canadian 20oz pints & miller light tallboys, $4 touchdown fireball shots",
+      "category": "DRINK",
+      "simplified_description": "$7 Molson Canadian 20oz pints & miller light tallboys, $4 touchdown fireball sho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "touchdown fireball shots",
+      "price": 4.0,
+      "description": "$7 Molson Canadian 20oz pints & miller light tallboys, $4 touchdown fireball shots",
+      "category": "DRINK",
+      "simplified_description": "$7 Molson Canadian 20oz pints & miller light tallboys, $4 touchdown fireball sho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "wings",
+      "price": 6.0,
+      "description": "$6 wings, $5.50 Flavoured Vodka",
+      "category": "OTHER",
+      "simplified_description": "$6 wings, $5.50 Flavoured Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flavoured Vodka",
+      "price": 5.5,
+      "description": "$6 wings, $5.50 Flavoured Vodka",
+      "category": "OTHER",
+      "simplified_description": "$6 wings, $5.50 Flavoured Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

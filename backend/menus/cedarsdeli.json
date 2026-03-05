@@ -1,0 +1,368 @@
+{
+  "restaurant": "cedarsdeli",
+  "parsed_at": "2026-02-06T01:43:26.049770",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "Greek Salad",
+      "price": 44.99,
+      "description": "A combination of fresh peppers, cucumbers, feta cheese, olives and a tangy lemon dressing. **Medium (Serves 8-12), Large (Serves 20-25).**",
+      "category": "OTHER",
+      "simplified_description": "Fresh vegetables with feta cheese, olives, and lemon dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Serves 8-12 or 20-25"
+    },
+    {
+      "name": "Bean Salad",
+      "price": 44.99,
+      "description": "Bean medley, green pepper, red pepper and garlic served with a tangy lemon dressing. **Medium (Serves 8-12), Large (Serves 20-25).**",
+      "category": "OTHER",
+      "simplified_description": "Mixed beans and peppers with garlic and lemon dressing.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Serves 8-12 or 20-25"
+    },
+    {
+      "name": "Lentil Salad",
+      "price": 44.99,
+      "description": "Steamed lentil, bulgur wheat, fried onions served with Tzatziki. **Medium (Serves 8-12), Large (Serves 20-25).**",
+      "category": "OTHER",
+      "simplified_description": "Lentils, bulgur, onions with yogurt-based Tzatziki sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Serves 8-12 or 20-25"
+    },
+    {
+      "name": "Saffi Salad",
+      "price": 44.99,
+      "description": "Bulgur wheat, parsley, chick peas, green onion and lemon dressing. **Medium (Serves 8-12), Large (Serves 20-25).**",
+      "category": "OTHER",
+      "simplified_description": "Bulgur, parsley, chickpeas, and green onions with lemon dressing.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Serves 8-12 or 20-25"
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 12.99,
+      "description": "Roasted Chicken cooked on rotisserie, served in pita bread with lettuce, onion, tomato, topped with our special garlic sauce.",
+      "category": "FOOD",
+      "simplified_description": "Rotisserie chicken in pita with veggies and garlic sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair",
+      "price": 12.99,
+      "description": "Tender beef marinated and spiced, roasted on rotisserie served in a pita with lettuce, onion, tomato, and our sweet sauce.",
+      "category": "FOOD",
+      "simplified_description": "Spiced rotisserie beef in pita with veggies and sweet sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix (Chicken & Beef)",
+      "price": 13.99,
+      "description": "A mix of chicken & beef served in a pita with lettuce, onion, tomato, and with garlic and sweet sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken and beef in pita with veggies, garlic, and sweet sauces.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cornerstone (Chicken & Falafel)",
+      "price": 13.99,
+      "description": "A mixture of chicken and falafel balls. Served in a pita with lettuce, onion, tomato with hummus and tahini sauce.",
+      "category": "FOOD",
+      "simplified_description": "Chicken and falafel in pita with veggies, hummus, and tahini.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tabouli & Hummus",
+      "price": 10.99,
+      "description": "Fresh hummus with Tabouli salad with Mediterranean veggies served in a pita.",
+      "category": "FOOD",
+      "simplified_description": "Hummus and tabouli salad with Mediterranean veggies in pita.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Sandwich",
+      "price": 10.99,
+      "description": "Spiced chickpea patties, served in a pita bread with our blend of authentic Mediterranean veggies and sauces.",
+      "category": "FOOD",
+      "simplified_description": "Spiced chickpea patties in pita with Mediterranean veggies and sauces.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Plate",
+      "price": 17.99,
+      "description": "Roasted chicken served on a bed of rice with Mediterranean veggies and pita.",
+      "category": "FOOD",
+      "simplified_description": "Roasted chicken with rice, Mediterranean veggies, and pita bread.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Plate",
+      "price": 17.99,
+      "description": "Tender beef marinated and spiced served on a bed of rice with Mediterranean veggies and pita.",
+      "category": "FOOD",
+      "simplified_description": "Spiced beef with rice, Mediterranean veggies, and pita bread.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Beef Mix Plate",
+      "price": 18.99,
+      "description": "A mix of chicken & beef served served on a bed of rice with Mediterranean veggies and pita.",
+      "category": "FOOD",
+      "simplified_description": "Chicken and beef with rice, Mediterranean veggies, and pita bread.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Falafel Mix Plate",
+      "price": 17.99,
+      "description": "Roasted chicken with greek salad, bean salad, tabouli, hommous, tzatziki and garden salad and a falafel ball.",
+      "category": "FOOD",
+      "simplified_description": "Chicken with various salads, hummus, tzatziki, and falafel ball.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel Plate",
+      "price": 15.99,
+      "description": "(Vegetarian) five chick pea patties spiced and served with Mediterranean veggies topped with Tahini sauce with a pita bread.",
+      "category": "FOOD",
+      "simplified_description": "Five spiced chickpea patties with veggies, tahini sauce, and pita.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Plate",
+      "price": 16.99,
+      "description": "(Flavors of the Mediterranean) 1 Kibi ball, 3 vine leaves, hummus, tabouli, 2 falafel patties served with tahini sauce and pita bread.",
+      "category": "FOOD",
+      "simplified_description": "A Mediterranean mix with kibi ball, vine leaves, hummus, tabouli, falafel, tahini, and pita.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mini-Mezza Plate",
+      "price": 15.99,
+      "description": "Tabouli, hummus, 3 falafel patties served with tahini sauce and pita bread.",
+      "category": "FOOD",
+      "simplified_description": "Small plate with tabouli, hummus, falafel, tahini sauce, and pita bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Tray",
+      "price": 69.99,
+      "description": "Spinach fyllo, stuffed vine leaves, falafel balls, hommous, tzatziki & pita wedges. **Medium (Serves 12-15), Large (Serves 20-25).**",
+      "category": "OTHER",
+      "simplified_description": "Tray with spinach fyllo, stuffed vine leaves, falafel, hummus, tzatziki, and pita wedges.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Medium serves 12-15, Large serves 20-25"
+    },
+    {
+      "name": "3 Dips & Pita Chips",
+      "price": 44.99,
+      "description": "Tray serves 12-15. Hummus, Tzatziki, Baba Ghanoush, Pita wedges and Pita Chips.",
+      "category": "OTHER",
+      "simplified_description": "Tray with hummus, tzatziki, baba ghanoush, pita wedges, and pita chips.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves 12-15"
+    },
+    {
+      "name": "Baklava Desert Platter",
+      "price": 1.49,
+      "description": "Rich, sweet pastry made of layers of filo filled with chopped nuts and sweetened and held together with honey.",
+      "category": "DESSERT",
+      "simplified_description": "Sweet filo pastry layered with chopped nuts and honey.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Vine Leaves",
+      "price": 6.99,
+      "description": "Rice, green onion, mint, parsley with a touch of lemon. 6 per order.",
+      "category": "SIDE",
+      "simplified_description": "Vine leaves stuffed with rice, herbs, and lemon, six per order.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "6 per order"
+    },
+    {
+      "name": "Spinach Phyllo",
+      "price": 4.99,
+      "description": "Spinach and feta cheese, onion baked inside phyllo.",
+      "category": "SIDE",
+      "simplified_description": "Phyllo pastry filled with spinach, feta cheese, and onion.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kibi Balls",
+      "price": 1.5,
+      "description": "Ground sirloin and bulgur wheat filled with ground beef.",
+      "category": "SIDE",
+      "simplified_description": "Ground sirloin and bulgur wheat meatballs.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas (6-pack)",
+      "price": 9.99,
+      "description": "Vegetarian: Potato, carrots, corn, peas. Beef: Ground beef, onions, ground chili pepper. **6 per order.**",
+      "category": "SIDE",
+      "simplified_description": "Six samosas with vegetarian or beef filling, some spicy.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "6 per order; beef version is spicy"
+    },
+    {
+      "name": "Falafel Balls (6-pack)",
+      "price": 5.99,
+      "description": "Ground chick peas and spices, fried to golden perfection. **6 per order.**",
+      "category": "SIDE",
+      "simplified_description": "Six fried falafel balls made from chickpeas and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "6 per order"
+    },
+    {
+      "name": "Pepsi Products",
+      "price": 1.85,
+      "description": "Assorted Pepsi drinks.",
+      "category": "DRINK",
+      "simplified_description": "Variety of Pepsi soft drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "San Pellegrino Cans",
+      "price": 2.85,
+      "description": "Assorted San Pellegrino drinks.",
+      "category": "DRINK",
+      "simplified_description": "Variety of San Pellegrino sparkling drinks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottles",
+      "price": 2.59,
+      "description": "Refreshing water in a bottle.",
+      "category": "DRINK",
+      "simplified_description": "Bottled refreshing water.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

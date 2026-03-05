@@ -1,0 +1,367 @@
+{
+  "restaurant": "waves coffee house",
+  "parsed_at": "2025-12-25T03:21:17.121415",
+  "item_count": 40,
+  "items": [
+    {
+      "name": "Fresh Brewed Coffee",
+      "price": null,
+      "description": "Our medium roast is a classic balance between sweet caramel, nutty chocolate, and tropical fruits.",
+      "simplified_description": "A medium roast coffee with sweet and nutty flavors.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Waves Au Lait",
+      "price": null,
+      "description": "Like brewed coffee on steroids: simply select a coffee on tap and we’ll add some deliciously steamed milk.",
+      "simplified_description": "Brewed coffee with steamed milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": null,
+      "description": "Espresso mingles with smoothly steamed milk into a sublimely satisfying handcrafted beverage.",
+      "simplified_description": "Espresso with steamed milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "150-104 Cal"
+    },
+    {
+      "name": "Cappuccino",
+      "price": null,
+      "description": "A stronger espresso experience than a latte, with densely foamed milk.",
+      "simplified_description": "Stronger espresso with foamed milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "132-186 Cal"
+    },
+    {
+      "name": "Canadiano",
+      "price": null,
+      "description": "Our patriotic take on the Americano, watered down espresso.",
+      "simplified_description": "A Canadian version of Americano coffee.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "6-12 Cal"
+    },
+    {
+      "name": "Espresso",
+      "price": null,
+      "description": "Our signature espresso blend features strong notes of semi-sweet chocolate and caramel.",
+      "simplified_description": "Strong espresso with chocolate and caramel notes.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso Macchiato",
+      "price": null,
+      "description": "Our signature espresso with a smidge of thickly steamed milk.",
+      "simplified_description": "Espresso with a little steamed milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "150 Cal"
+    },
+    {
+      "name": "Caramel Macchiato",
+      "price": null,
+      "description": "Sweet caramel balanced against intense espresso.",
+      "simplified_description": "Espresso with sweet caramel.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "237-318 Cal"
+    },
+    {
+      "name": "Maple Macchiato",
+      "price": null,
+      "description": "A tribute to Canada’s legendary syrup.",
+      "simplified_description": "Espresso with maple syrup.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "203-281 Cal"
+    },
+    {
+      "name": "Belgian Mocha",
+      "price": null,
+      "description": "Freshly melted Belgian chocolate with espresso and steamed milk.",
+      "simplified_description": "Espresso with melted Belgian chocolate.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "203-281 Cal"
+    },
+    {
+      "name": "Belgian Hot Chocolate",
+      "price": null,
+      "description": "Belgian chocolate melted with steamed milk.",
+      "simplified_description": "Hot chocolate made with Belgian chocolate.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "538-665 Cal"
+    },
+    {
+      "name": "White Chocolate Matcha",
+      "price": null,
+      "description": "Delicious matcha latte sweetened with Belgian white chocolate.",
+      "simplified_description": "Matcha latte with white chocolate.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Brew",
+      "price": null,
+      "description": "Bright Costa Rican coffee brewed over ice.",
+      "simplified_description": "Iced coffee from Costa Rica.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "71-104 Cal"
+    },
+    {
+      "name": "Iced Latte",
+      "price": null,
+      "description": "Espresso with notes of chocolate poured over ice and milk.",
+      "simplified_description": "Iced espresso with chocolate and milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "132-186 Cal"
+    },
+    {
+      "name": "Iced Canadiano",
+      "price": null,
+      "description": "Smooth and bold iced espresso.",
+      "simplified_description": "Iced espresso.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "6-12 Cal"
+    },
+    {
+      "name": "Iced Maple Macchiato",
+      "price": null,
+      "description": "Iced version of the maple macchiato.",
+      "simplified_description": "Iced espresso with maple syrup.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "185-263 Cal"
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "price": null,
+      "description": "Sweet caramel and vanilla with rich espresso.",
+      "simplified_description": "Iced espresso with caramel and vanilla.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "192-273 Cal"
+    },
+    {
+      "name": "Iced Belgian Mocha",
+      "price": null,
+      "description": "Made with real chocolate and double espresso.",
+      "simplified_description": "Iced mocha with real chocolate.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "394-535 Cal"
+    },
+    {
+      "name": "Iced Rooibos Latte",
+      "price": null,
+      "description": "Pure rooibos tea shaken over ice with milk.",
+      "simplified_description": "Iced rooibos tea with milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "114-168 Cal"
+    },
+    {
+      "name": "Iced Matcha Latte",
+      "price": null,
+      "description": "Naturally unsweetened matcha with milk over ice.",
+      "simplified_description": "Iced matcha with milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "168-234 Cal"
+    },
+    {
+      "name": "Organic Loose Leaf Tea",
+      "price": null,
+      "description": "Varieties include Black, Herbal, White, and Green teas.",
+      "simplified_description": "Different types of loose leaf tea.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "4 Cal"
+    },
+    {
+      "name": "Matcha latte",
+      "price": null,
+      "description": "Pure Matcha tea whisked with steamed milk.",
+      "simplified_description": "Matcha tea with steamed milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "London Fog",
+      "price": null,
+      "description": "Earl Grey tea with steamed milk and vanilla.",
+      "simplified_description": "Earl Grey tea with milk and vanilla.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "125-185 Cal"
+    },
+    {
+      "name": "Chai latte",
+      "price": null,
+      "description": "Brewed with organic ingredients and steamed milk.",
+      "simplified_description": "Chai tea with steamed milk.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "190-266 Cal"
+    },
+    {
+      "name": "Rooibos Canadiano",
+      "price": null,
+      "description": "Caffeine-free rooibos brewed like espresso.",
+      "simplified_description": "Rooibos tea made like espresso.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "6 Cal"
+    },
+    {
+      "name": "Espresso Frapp-eh",
+      "price": null,
+      "description": "Real ice cream with freshly extracted espresso.",
+      "simplified_description": "Ice cream with espresso.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "139-164 Cal"
+    },
+    {
+      "name": "Fruit Smoothie",
+      "price": null,
+      "description": "Blended with ice cream, yogurt, or straight fruit.",
+      "simplified_description": "Smoothie made with fruit and ice cream.",
+      "category": "Espresso & Speciality",
+      "dietary_info": [],
+      "other_info": "338-395 Cal"
+    },
+    {
+      "name": "Butter Croissant",
+      "price": null,
+      "description": "Irresistibly flaky traditional French croissant.",
+      "simplified_description": "Flaky French pastry.",
+      "category": "Bakery Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nanaimo Bar",
+      "price": null,
+      "description": "Chocolate graham crumb base with creamy custard and chocolate.",
+      "simplified_description": "Dessert bar with chocolate and custard.",
+      "category": "Bakery Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oatmeal Raisin Cookie",
+      "price": null,
+      "description": "Chewy, warm, packed with wholesome oats and raisins.",
+      "simplified_description": "Cookie with oats and raisins.",
+      "category": "Bakery Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Loaf",
+      "price": null,
+      "description": "Moist and flavorful banana loaf.",
+      "simplified_description": "Banana-flavored bread.",
+      "category": "Bakery Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Citrus Loaf",
+      "price": null,
+      "description": "Light and lemony with citrus icing.",
+      "simplified_description": "Lemon-flavored bread with icing.",
+      "category": "Bakery Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": null,
+      "description": "Big cookie with three kinds of chocolate chunks.",
+      "simplified_description": "Cookie with chocolate chunks.",
+      "category": "Bakery Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Wrap",
+      "price": null,
+      "description": "Tortilla, egg salad, ricotta, black beans, spinach, mayo.",
+      "simplified_description": "Wrap with egg salad and veggies.",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Muffin Sandwich",
+      "price": null,
+      "description": "Whole wheat muffin with eggs, sausage, and cheddar cheese.",
+      "simplified_description": "Muffin sandwich with eggs and sausage.",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Bagel",
+      "price": null,
+      "description": "Egg, cheddar cheese, bacon, chipotle sauce on a bagel.",
+      "simplified_description": "Bagel with egg, cheese, and bacon.",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Croissanwich",
+      "price": null,
+      "description": "French croissant with egg, bacon, and cheddar cheese.",
+      "simplified_description": "Croissant sandwich with egg and bacon.",
+      "category": "Breakfast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry Wrap",
+      "price": null,
+      "description": "Tortilla with curry chicken, chickpeas, and veggies.",
+      "simplified_description": "Wrap with curry chicken and veggies.",
+      "category": "Lunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham And Cheese Sandwich",
+      "price": null,
+      "description": "Ciabatta with ham, cheese, and honey-mustard sauce.",
+      "simplified_description": "Sandwich with ham and cheese.",
+      "category": "Lunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pesto Sandwich",
+      "price": null,
+      "description": "Ciabatta with pesto chicken, cheese, spinach, and tomato.",
+      "simplified_description": "Sandwich with pesto chicken and veggies.",
+      "category": "Lunch",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

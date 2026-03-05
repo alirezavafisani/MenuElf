@@ -1,0 +1,670 @@
+{
+  "restaurant": "kabuku",
+  "parsed_at": "2026-02-06T02:53:18.802678",
+  "item_count": 45,
+  "items": [
+    {
+      "name": "Tuna Tataki",
+      "price": 16.0,
+      "description": "_ Roasted seaweed and seven spice seared tuna loin sashimi in gluten free ponzu sauce_",
+      "category": "FOOD",
+      "simplified_description": "Seared tuna loin with roasted seaweed and gluten-free ponzu sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salt & pepper steamed vegetable",
+      "price": 5.0,
+      "description": "Salt & pepper steamed vegetable",
+      "category": "SIDE",
+      "simplified_description": "Steamed vegetables seasoned with salt and pepper.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & pepper grilled chicken",
+      "price": 6.0,
+      "description": "Salt & pepper grilled chicken",
+      "category": "SIDE",
+      "simplified_description": "Grilled chicken seasoned with salt and pepper.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & pepper grilled black tiger shrimp",
+      "price": 9.0,
+      "description": "Salt & pepper grilled black tiger shrimp",
+      "category": "SIDE",
+      "simplified_description": "Grilled black tiger shrimp with salt and pepper seasoning.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAGURO",
+      "price": 8.8,
+      "description": "_ Yellowfin Tuna_",
+      "category": "FOOD",
+      "simplified_description": "Fresh yellowfin tuna sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAMACHI",
+      "price": 9.0,
+      "description": "_ Japanese Amberjack (Yellowtail)_",
+      "category": "FOOD",
+      "simplified_description": "Fresh Japanese amberjack (yellowtail) sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAKE",
+      "price": 8.0,
+      "description": "_ Atlantic salmon_",
+      "category": "FOOD",
+      "simplified_description": "Fresh Atlantic salmon sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BENI SAKE",
+      "price": 8.8,
+      "description": "_ Wild sockeye salmon_",
+      "category": "FOOD",
+      "simplified_description": "Wild sockeye salmon sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED SAKE",
+      "price": 9.2,
+      "description": "_ Smoked salmon_",
+      "category": "FOOD",
+      "simplified_description": "Smoked salmon slices.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALBERTA GYU",
+      "price": 8.0,
+      "description": "_ Blue rare Alberta beef striploin with ginger and green onion_",
+      "category": "FOOD",
+      "simplified_description": "Blue rare Alberta beef with ginger and green onion.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SHIME-SABA",
+      "price": 7.0,
+      "description": "_ Marinated mackerel with ginger and green onion_",
+      "category": "FOOD",
+      "simplified_description": "Marinated mackerel with ginger and green onion.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GLT Free IKA",
+      "price": 7.6,
+      "description": "_ Squid_",
+      "category": "FOOD",
+      "simplified_description": "Fresh squid sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TAKO",
+      "price": 8.0,
+      "description": "_ Steamed Japanese Akashi octopus_",
+      "category": "FOOD",
+      "simplified_description": "Steamed Japanese Akashi octopus.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "EBI (2 pieces)",
+      "price": 7.0,
+      "description": "_ Steamed Prawn_",
+      "category": "FOOD",
+      "simplified_description": "Two pieces of steamed prawn.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HOKKAIDO HOTATE",
+      "price": 10.0,
+      "description": "_ Japanese Hokkaido Scallop_",
+      "category": "FOOD",
+      "simplified_description": "Japanese Hokkaido scallop sashimi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAGURO",
+      "price": 4.4,
+      "description": "_ Yellowfin Tuna_",
+      "category": "FOOD",
+      "simplified_description": "Fresh yellowfin tuna sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HAMACHI",
+      "price": 4.5,
+      "description": "_ Japanese Amberjack (Yellowtail)_",
+      "category": "FOOD",
+      "simplified_description": "Fresh Japanese amberjack (yellowtail) sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAKE",
+      "price": 4.0,
+      "description": "_ Atlantic salmon_",
+      "category": "FOOD",
+      "simplified_description": "Fresh Atlantic salmon sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BENI SAKE",
+      "price": 4.4,
+      "description": "_ Wild sockeye salmon_",
+      "category": "FOOD",
+      "simplified_description": "Wild sockeye salmon sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED SAKE",
+      "price": 4.6,
+      "description": "_ Smoked salmon_",
+      "category": "FOOD",
+      "simplified_description": "Smoked salmon sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALBERTA GYU",
+      "price": 4.0,
+      "description": "_ Blue rare Alberta beef striploin with ginger and green onion_",
+      "category": "FOOD",
+      "simplified_description": "Blue rare Alberta beef with ginger and green onion.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SHIME-SABA",
+      "price": 3.5,
+      "description": "_ Marinated mackerel with ginger and green onion_",
+      "category": "FOOD",
+      "simplified_description": "Marinated mackerel with ginger and green onion.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GLT Free IKA",
+      "price": 3.8,
+      "description": "_ Squid_",
+      "category": "FOOD",
+      "simplified_description": "Fresh squid sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TAKO",
+      "price": 4.0,
+      "description": "_ Steamed Japanese Akashi octopus_",
+      "category": "FOOD",
+      "simplified_description": "Steamed Japanese Akashi octopus sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "EBI",
+      "price": 3.5,
+      "description": "_ Steamed Black tiger prawn_",
+      "category": "FOOD",
+      "simplified_description": "Steamed black tiger prawn sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "EBI SPECIAL",
+      "price": 3.8,
+      "description": "_ Black tiger prawn mixed with seven spice & mayo_",
+      "category": "FOOD",
+      "simplified_description": "Black tiger prawn with seven spice and mayo.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "HOKKAIDO HOTATE",
+      "price": 5.0,
+      "description": "_ Japanese Hokkaido scallop_",
+      "category": "FOOD",
+      "simplified_description": "Fresh Japanese Hokkaido scallop sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GLT Free HOTATE SPECIAL",
+      "price": 5.0,
+      "description": "_ Scallop mixed with mayo_",
+      "category": "FOOD",
+      "simplified_description": "Scallop mixed with mayonnaise.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "KANI",
+      "price": 5.0,
+      "description": "_ Steamed crab_",
+      "category": "FOOD",
+      "simplified_description": "Steamed crab sushi.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "AVOCADO",
+      "price": 3.5,
+      "description": "_ Fresh avocado_",
+      "category": "FOOD",
+      "simplified_description": "Fresh avocado sushi.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ABURI EBI SHRIMP",
+      "price": 8.0,
+      "description": "_ Seared steamed black tiger prawn with aioli sauce_",
+      "category": "FOOD",
+      "simplified_description": "Seared black tiger prawn served with aioli sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ABURI SALMON TORO",
+      "price": 9.6,
+      "description": "_ Seared BC Atlantic salmon belly with aioli sauce_",
+      "category": "FOOD",
+      "simplified_description": "Seared Atlantic salmon belly served with aioli sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SPICY TUNA CONE",
+      "price": 7.0,
+      "description": "_ Tuna, cucumber, lettuce, volcano sauce_",
+      "category": "FOOD",
+      "simplified_description": "Tuna with cucumber, lettuce, and spicy volcano sauce in a cone.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "GEISHA CONE",
+      "price": 8.0,
+      "description": "_ Japanese Amberjack (yellowtail) mixed with volcano sauce cucumber, lettuce, avocado, carrot_",
+      "category": "FOOD",
+      "simplified_description": "Yellowtail with volcano sauce, cucumber, lettuce, avocado, and carrot in a cone.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "SPICY SALMON CONE",
+      "price": 7.0,
+      "description": "_ Salmon, cucumber, lettuce, volcano sauce_",
+      "category": "FOOD",
+      "simplified_description": "Salmon with cucumber, lettuce, and spicy volcano sauce in a cone.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "REAL CRAB ALASKAN BEAUTY",
+      "price": 17.0,
+      "description": "_ smoked salmon on top of avocado, steamed crab, cucumber roll_",
+      "category": "FOOD",
+      "simplified_description": "Smoked salmon over avocado, steamed crab, and cucumber roll.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "JALAPENO HAMACHI",
+      "price": 16.0,
+      "description": "_ Inside - Japanese Amberjack, Cucumber, Jalapeno / Jalapeno, Mayo on top_",
+      "category": "FOOD",
+      "simplified_description": "Yellowtail and cucumber inside with jalapeno and mayo on top.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "SPICY TUNA",
+      "price": 13.0,
+      "description": "_ Inside - Tuna, Cucumber / Volcano sauce on top_",
+      "category": "FOOD",
+      "simplified_description": "Tuna and cucumber inside with spicy volcano sauce on top.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "REAL CRAB NINJA",
+      "price": 22.0,
+      "description": "_ Chopped Hokkaido scallops (raw) on top of avocado, cucumber, steamed crab roll_",
+      "category": "FOOD",
+      "simplified_description": "Raw scallops on avocado, cucumber, and steamed crab roll.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "KAMIKAZE GLT Free",
+      "price": 16.0,
+      "description": "_ Spicy tuna, seaweed flack on top of salmon, avocado roll_",
+      "category": "FOOD",
+      "simplified_description": "Spicy tuna and seaweed flakes on salmon and avocado roll.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Gluten-free, Spicy"
+    },
+    {
+      "name": "REAL CRAB CALIFORNIA",
+      "price": 13.5,
+      "description": "_ Avocado, steamed crab, cucumber_",
+      "category": "FOOD",
+      "simplified_description": "Avocado, steamed crab, and cucumber roll.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALBERTA GLT Free",
+      "price": 14.0,
+      "description": "_ Blue rare Alberta beef striploin, pea shoots, mayo on top of avocado, asparagus, cucumber, carrot roll_",
+      "category": "FOOD",
+      "simplified_description": "Rare beef with pea shoots and mayo on avocado, asparagus, cucumber, and carrot roll.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Gluten-free"
+    },
+    {
+      "name": "REAL CRAB LAST SAMURAI",
+      "price": 19.0,
+      "description": "_ Chopped black tiger prawn mixed with seven spice & mayo, green onion on top of avocado, cucumber, steamed real crab roll_",
+      "category": "FOOD",
+      "simplified_description": "Prawn with seven spice, mayo, and green onion on avocado, cucumber, and crab roll.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "REFEREE STOP",
+      "price": 16.0,
+      "description": "_ Sashimi of atlantic salmon on top of salmon, avocado roll, sriracha & volcano sauce_",
+      "category": "FOOD",
+      "simplified_description": "Atlantic salmon sashimi on salmon and avocado roll with spicy sauces.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "RAINBOW STAMPEDE",
+      "price": 17.0,
+      "description": "_ Sashimi of BC salmon, tuna, prawn on top of avocado, salmon roll_",
+      "category": "FOOD",
+      "simplified_description": "Salmon, tuna, and prawn sashimi on avocado and salmon roll.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

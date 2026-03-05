@@ -1,0 +1,573 @@
+{
+  "restaurant": "sammysworldsgreatestpizza",
+  "parsed_at": "2025-12-24T23:21:38.711196",
+  "item_count": 62,
+  "items": [
+    {
+      "name": "Cheese Pizza",
+      "price": 18,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with just cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham Pizza",
+      "price": 19.5,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza topped with ham",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 19.5,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza topped with pepperoni",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Mushroom Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with ham and mushrooms",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Pineapple (Hawaiian) Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with ham and pineapple",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Onion Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with beef and onions",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni, Mushroom, Green Pepper Pizza",
+      "price": 22.5,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with pepperoni, mushrooms, and green peppers",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Pepperoni Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with ham and pepperoni",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni & Mushroom Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with pepperoni and mushrooms",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salami & Mushroom Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with salami and mushrooms",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham, Pepperoni, Sliced Cooked Tomatoes Pizza",
+      "price": 22.5,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with ham, pepperoni, and cooked tomatoes",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Mushroom Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with beef and mushrooms",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Sausage & Mushroom Pizza",
+      "price": 21,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with Italian sausage and mushrooms",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham, Mushroom, Green Pepper Pizza",
+      "price": 22.5,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with ham, mushrooms, and green peppers",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham, Mushroom, Pineapple Pizza",
+      "price": 22.5,
+      "description": "10\" Small, 12\" Medium, 14\" Large",
+      "simplified_description": "Pizza with ham, mushrooms, and pineapple",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sammy's Special Pizza",
+      "price": 24,
+      "description": "Our popular house special. Signature homemade pizza sauce, mushrooms, onions, green peppers, pepperoni, ham, salami, shrimp and olives.",
+      "simplified_description": "A special pizza with various toppings including shrimp and olives",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sammy's Canadian Pizza",
+      "price": 24,
+      "description": "Signature homemade pizza sauce, mushrooms, bacon, ham and pepperoni.",
+      "simplified_description": "Pizza with Canadian toppings including bacon and ham",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nightmare Pizza (All Meat)",
+      "price": 24,
+      "description": "Satisfying for those who love an all-meat pizza. Signature homemade pizza sauce, italian sausage, beef, donair meat, pepperoni, ham and salami.",
+      "simplified_description": "A meat lover's pizza with various meats",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sammy's Mediterranean Pizza",
+      "price": 24,
+      "description": "Signature homemade pizza sauce, onions, mushrooms, beef, black olives and cooked diced tomatoes.",
+      "simplified_description": "Pizza with Mediterranean toppings including olives and beef",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fajita Pizza",
+      "price": 24,
+      "description": "Spicy sauce, onions, chopped chicken breast, green peppers and cooked diced tomatoes. 🌶️",
+      "simplified_description": "Pizza with spicy chicken and vegetables",
+      "category": "Pizzas",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Sensation Pizza",
+      "price": 24,
+      "description": "Signature homemade pizza sauce, barbecue chopped chicken breast, onion and bacon.",
+      "simplified_description": "Pizza with BBQ chicken and bacon",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Spicy Chicken Pizza",
+      "price": 24,
+      "description": "Signature homemade pizza sauce, teriyaki chicken breast, jalapeno and pineapple. 🌶️",
+      "simplified_description": "Pizza with sweet teriyaki chicken and jalapenos",
+      "category": "Pizzas",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo Pizza",
+      "price": 24,
+      "description": "Signature homemade cream sauce, chopped chicken breast, mushroom.",
+      "simplified_description": "Pizza with creamy sauce and chicken",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sammy's Greek Pizza",
+      "price": 24,
+      "description": "Feta, onions, green peppers, black olives and cooked tomatoes.",
+      "simplified_description": "Pizza with Greek toppings including feta and olives",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach Delight Pizza",
+      "price": 24,
+      "description": "Signature homemade pizza sauce, feta cheese, loads of spinach, mozzarella cheese and cooked sliced tomatoes.",
+      "simplified_description": "Pizza with spinach and feta cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Delight Pizza",
+      "price": 24,
+      "description": "Signature homemade pizza sauce, mushrooms, onions, green peppers, olives, pineapple, finished with fresh sliced tomatoes.",
+      "simplified_description": "Vegetarian pizza with various vegetables",
+      "category": "Pizzas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Four Cheese X-Treme Pizza",
+      "price": 24,
+      "description": "For the cheese lovers! Signature homemade pizza sauce, parmesan cheese, feta cheese, cheddar cheese and mozzarella cheese.",
+      "simplified_description": "Pizza with four types of cheese",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sammy's Great Creation Pizza",
+      "price": 25,
+      "description": "Signature homemade pizza sauce, spiced beef, topped with mozzarella, baked crispy and finished with sour cream, fresh diced tomatoes and shredded romaine lettuce. 🌶️",
+      "simplified_description": "Pizza with spiced beef and toppings",
+      "category": "Pizzas",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Special Pizza",
+      "price": 25,
+      "description": "Signature garlic sauce, Sammy’s famous donair meat, topped with mozzarella, baked and finished with Sammy’s famous sweet sauce, fresh diced tomatoes, diced onions and shredded iceberg lettuce served on the side.",
+      "simplified_description": "Pizza with donair meat and garlic sauce",
+      "category": "Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Beef Donair",
+      "price": 12.5,
+      "description": "Extra lean Alberta ground beef, mixed in house with Sammy’s signature donair seasoning, sliced and grilled to perfection, served on a 10” pita. Topped with lettuce, tomato, onion, and Sammy’s famous sweet sauce.",
+      "simplified_description": "Beef donair served in pita with toppings",
+      "category": "Donairs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Super Beef Donair",
+      "price": 14.5,
+      "description": "Extra lean Alberta ground beef, mixed in house with Sammy’s signature donair seasoning, sliced and grilled to perfection, served on a 10” pita. Topped with lettuce, tomato, onion, banana peppers, mozzarella cheese, and Sammy’s famous sweet sauce.",
+      "simplified_description": "Beef donair with extra toppings in pita",
+      "category": "Donairs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Donair",
+      "price": 15.5,
+      "description": "100% chicken breast, seasoned with Sammy's signature seasoning, sliced and grilled in garlic butter to perfection. Served on a 10” pita. Topped with lettuce, tomato, onion, banana peppers and Sammy’s famous sweet sauce.",
+      "simplified_description": "Chicken donair served in pita with toppings",
+      "category": "Donairs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Donair",
+      "price": 16.5,
+      "description": "100% chicken breast & extra lean Alberta ground beef, seasoned with Sammy's signature seasoning, sliced and grilled in garlic butter to perfection. Served on a 10” pita. Chicken and beef mix, topped with lettuce, tomato, onion, banana peppers and Sammy’s famous sweet sauce.",
+      "simplified_description": "Mixed chicken and beef donair in pita",
+      "category": "Donairs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna, Spaghetti or 3-Cheese Stuffed Tortellini",
+      "price": 16.95,
+      "description": "Our delicious popular meat sauce is a combination of vine ripened tomatoes, sautéed caramelized onions, with a blend of extra virgin olive oil, along with a few of Sammy’s special spices finished with Sammy’s extra lean seasoned beef.",
+      "simplified_description": "Choice of pasta with meat sauce",
+      "category": "Pasta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Fingers",
+      "price": 13,
+      "description": "Sammy’s handmade dough, brushed with garlic butter then topped with Sammy’s famous donair meat and loads of mozzarella cheese and baked to perfection. Served with a side of our signature sweet sauce (12 pieces).",
+      "simplified_description": "Baked dough with donair meat and cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Fingers",
+      "price": 11,
+      "description": "Sammy’s handmade dough, brushed with garlic butter and topped with a blend of cheddar and mozzarella cheese, baked to perfection. Served with a side of pizza sauce and ranch (12 pieces).",
+      "simplified_description": "Baked dough with garlic butter and cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Sticks",
+      "price": 9,
+      "description": "Sammy’s handmade pizza dough baked to perfection. Brushed with our signature garlic butter and topped with parmesan cheese. Served with a side of pizza sauce and ranch (12 pieces).",
+      "simplified_description": "Baked breadsticks with garlic butter",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Parmesan Fries",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Half Order - $8.5, Full Order - $11.5"
+    },
+    {
+      "name": "Garlic Toast",
+      "price": 4,
+      "description": "2 pieces of Texas bread, brushed with garlic butter, and toasted to perfection.",
+      "simplified_description": "Toasted garlic bread",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Toast",
+      "price": 6,
+      "description": "2 pieces of Texas bread, brushed with garlic butter, topped with a blend of shredded mozzarella and cheddar cheese and toasted to perfection.",
+      "simplified_description": "Toasted garlic bread with cheese",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 9,
+      "description": "Always a favorite. Battered onion rings tossed with Sammy’s signature seasoning salt.",
+      "simplified_description": "Battered and seasoned onion rings",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perogies",
+      "price": 9,
+      "description": "Potato and cheddar perogies, brushed with garlic butter and tossed with Sammy’s signature seasoning salt. Served with a side of sour cream (8 per order).",
+      "simplified_description": "Potato and cheese dumplings with garlic butter",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 10,
+      "description": "Lightly seasoned battered mozzarella cheese. Served with a side of ranch (8 per order).",
+      "simplified_description": "Battered mozzarella cheese sticks",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": "Half Order - $5, Full Order - $7"
+    },
+    {
+      "name": "Chicken Fingers & Fries",
+      "price": 15,
+      "description": "Crispy chicken fingers, served with western cut seasoned fries and a side of plum sauce.",
+      "simplified_description": "Fried chicken strips with fries",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Wings & Bites",
+      "dietary_info": [],
+      "other_info": "Single (1 lb) - $16, Double up (2 lbs) - $30, Family pack (3 lbs) - $43, Party pack (4 lbs) - $55"
+    },
+    {
+      "name": "Chicken Bites",
+      "price": 15,
+      "description": "Bite-size, breaded chicken breast pieces, tossed in your favorite sauce.",
+      "simplified_description": "Breaded chicken pieces with sauce",
+      "category": "Wings & Bites",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": "Starter - $11, Full Size - $14.5"
+    },
+    {
+      "name": "Greek Salad",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": "Starter - $11, Full Size - $15.5"
+    },
+    {
+      "name": "Garden Salad",
+      "price": 13,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecakes",
+      "price": 7.5,
+      "description": "per slice",
+      "simplified_description": "Slice of cheesecake",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": "Turtle (Gluten Free), Very Berry (Gluten Free), Skor Cheesecake, Caramel Apple Cheesecake, Peanut Butter Cheesecake, Tiramisu Cake, Carrot Cake"
+    },
+    {
+      "name": "591mL Bottle Soda",
+      "price": 2.75,
+      "description": "(Pepsi, Diet Pepsi, Crush, Cream Soda, Ginger Ale, Iced Tea, 7-Up, Dr. Pepper, Mug Root Beer)",
+      "simplified_description": "Bottle of soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4-Pack Soda",
+      "price": 8.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "473mL Bubly",
+      "price": 3,
+      "description": "(Flavours: Lime, Cherry, Blackberry)",
+      "simplified_description": "Flavored sparkling water",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Still or Sparkling Water",
+      "price": 2,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pure Leaf Iced Tea",
+      "price": 3,
+      "description": "(Flavours: Lemon, Peach, Raspberry)",
+      "simplified_description": "Flavored iced tea",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Minhas' Specialty Soda",
+      "price": 2.75,
+      "description": "(Flavours: Orange Soda, Root Beer, Black Cherry Soda)",
+      "simplified_description": "Specialty flavored soda",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2L Bottle Soda",
+      "price": 4,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Pack",
+      "price": 71.99,
+      "description": "(w/ 2 mediums)",
+      "simplified_description": "Meal deal with two medium pizzas",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": "Includes 1 lb Wings, Full Size Caesar Salad, 2 Litre Soda (Upgrade to 2-Large Pizzas – add $8.99)"
+    },
+    {
+      "name": "Monday Madness",
+      "price": 41.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": "2-Medium, 2-Topping Pizzas (Premium toppings not included)"
+    },
+    {
+      "name": "Pasta Tuesdays",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": "15% off Choose from any one of our 3 Pastas. Includes Garlic Bread"
+    },
+    {
+      "name": "Every Day Special",
+      "price": 45.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": "2 Pastas, 1 Full-size Caesar Salad, 2 591ml Bottles of Pop"
+    }
+  ]
+}

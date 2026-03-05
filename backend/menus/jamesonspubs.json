@@ -1,0 +1,238 @@
+{
+  "restaurant": "jamesonspubs",
+  "parsed_at": "2026-02-06T02:43:22.664025",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "Highballs",
+      "price": 5.5,
+      "description": "Highballs $5.50",
+      "category": "DRINK",
+      "simplified_description": "Classic highball cocktail served at $5.50.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Bottles",
+      "price": 5.5,
+      "description": "Domestic Bottles $5.50",
+      "category": "DRINK",
+      "simplified_description": "Domestic bottled beer priced at $5.50.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Lager",
+      "price": 5.75,
+      "description": "House Lager $5.75",
+      "category": "DRINK",
+      "simplified_description": "House lager beer available for $5.75.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Red Wine",
+      "price": 6.0,
+      "description": "House Red Wine $6",
+      "category": "DRINK",
+      "simplified_description": "House red wine served at $6.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House White Wine",
+      "price": 6.0,
+      "description": "House White Wine $6",
+      "category": "DRINK",
+      "simplified_description": "House white wine served at $6.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Street Tacos",
+      "price": 5.5,
+      "description": "$5.50 each Street Tacos _(2 min)_",
+      "category": "FOOD",
+      "simplified_description": "Individual street tacos available for $5.50 each.",
+      "dietary_info": [],
+      "other_info": "Preparation time about 2 minutes"
+    },
+    {
+      "name": "AAA 5oz Steak Sandwich",
+      "price": 16.0,
+      "description": "$16 AAA 5oz Steak Sandwich",
+      "category": "FOOD",
+      "simplified_description": "5oz AAA steak sandwich priced at $16.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadilla",
+      "price": 17.0,
+      "description": "$17 Quesadilla + Fries",
+      "category": "FOOD",
+      "simplified_description": "Quesadilla served with fries for $17.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Molson Canadian",
+      "price": 7.0,
+      "description": "$7 Molson Canadian & Coors Light",
+      "category": "DRINK",
+      "simplified_description": "Molson Canadian beer available for $7.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 7.0,
+      "description": "$7 Molson Canadian & Coors Light",
+      "category": "DRINK",
+      "simplified_description": "Coors Light beer available for $7.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moscow Mules",
+      "price": 8.0,
+      "description": "$8 Moscow Mules\n_Original | Cucumber | Orange | Blueberry | Pomegranate_",
+      "category": "DRINK",
+      "simplified_description": "Moscow Mule cocktails in various flavors for $8.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crushable Cocktails",
+      "price": 11.0,
+      "description": "$11 Crushable Cocktails",
+      "category": "DRINK",
+      "simplified_description": "Cocktails priced at $11 each.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizzas",
+      "price": 36.0,
+      "description": "2 x Pizzas for **$36**",
+      "category": "FOOD",
+      "simplified_description": "Two pizzas offered together for $36.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Sliders",
+      "price": 5.5,
+      "description": "$5.50 each Sliders _(min 2)_",
+      "category": "FOOD",
+      "simplified_description": "Small sliders available at $5.50 each, minimum order two.",
+      "dietary_info": [],
+      "other_info": "Minimum order of two"
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 14.0,
+      "description": "$14 Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Chicken wings served for $14.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Half Nachos",
+      "price": 13.0,
+      "description": "Half Nachos $13",
+      "category": "FOOD",
+      "simplified_description": "A half portion of nachos.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gourmet Burger",
+      "price": null,
+      "description": "$2 OFF Gourmet Burger + Side",
+      "category": "FOOD",
+      "simplified_description": "Discount on gourmet burger with a side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 15.0,
+      "description": "$15 1 pc | $20 2 pc Fish & Chips",
+      "category": "FOOD",
+      "simplified_description": "One or two pieces of fish with chips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hiballs",
+      "price": 5.5,
+      "description": "$5.50 Hiballs",
+      "category": "DRINK",
+      "simplified_description": "A $5.50 hiball drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shafts",
+      "price": 6.0,
+      "description": "$6 Shafts",
+      "category": "DRINK",
+      "simplified_description": "A $6 shaft drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Michelob Ultra",
+      "price": 7.0,
+      "description": "$7 Michelob Ultra",
+      "category": "DRINK",
+      "simplified_description": "A $7 Michelob Ultra beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Slushies",
+      "price": 11.0,
+      "description": "$11 Slushies\n**_Strawberry Margarita | Lime Margarita | Peach Bellini | Fraperol Spritz_**",
+      "category": "DRINK",
+      "simplified_description": "Frozen slushie drinks in various flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona Buckets",
+      "price": 28.0,
+      "description": "$28 Corona Buckets (4 x 330ml)",
+      "category": "DRINK",
+      "simplified_description": "Bucket of four 330ml Corona beers.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "Caesars",
+      "price": 6.0,
+      "description": "$6 Caesars & Mimosas",
+      "category": "DRINK",
+      "simplified_description": "A $6 Caesar cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosas",
+      "price": 6.0,
+      "description": "$6 Caesars & Mimosas",
+      "category": "DRINK",
+      "simplified_description": "A $6 mimosa cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

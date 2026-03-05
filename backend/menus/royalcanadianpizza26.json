@@ -1,0 +1,241 @@
+{
+  "restaurant": "royalcanadianpizza26",
+  "parsed_at": "2026-02-06T03:56:11.461677",
+  "item_count": 26,
+  "items": [
+    {
+      "name": "Chicken Wings",
+      "price": 24.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings Pizza Deal - 14 Inch",
+      "price": 26.99,
+      "description": "Pizza & 10 Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Pizza & 10 Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings Pizza Deal - 16 Inch",
+      "price": 28.99,
+      "description": "Pizza & 10 Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Pizza & 10 Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build Your Own Pizza - 4 Topper",
+      "price": 13.99,
+      "description": "Up to 4 Toppings",
+      "category": "FOOD",
+      "simplified_description": "Up to 4 Toppings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Veggie Pizza",
+      "price": 13.99,
+      "description": "Tandoori or BBQ Chicken, Onion, Mushroom, Green Pepper & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Tandoori or BBQ Chicken, Onion, Mushroom, Green Pepper & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": 13.99,
+      "description": "Onion, Mushroom, Green Pepper, Tomato & Mozzarella ",
+      "category": "FOOD",
+      "simplified_description": "Onion, Mushroom, Green Pepper, Tomato & Mozzarella ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Delight Pizza",
+      "price": 13.99,
+      "description": "Onion, Jalapeno Pepper, Tandoori or BBQ Chicken & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Onion, Jalapeno Pepper, Tandoori or BBQ Chicken & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Pizza",
+      "price": 13.99,
+      "description": "Onion, Mushroom, Green Pepper, Ham, Ground Beef, Sausage, Black Olive & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Onion, Mushroom, Green Pepper, Ham, Ground Beef, Sausage, Black Olive & Mozzarel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Pizza",
+      "price": 13.99,
+      "description": "Onion, Mushroom, Green Pepper, Ground Beef & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Onion, Mushroom, Green Pepper, Ground Beef & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Pizza",
+      "price": 13.99,
+      "description": "Feta Cheese, Onion, Ground Beef, Black Olive, Tomato & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Feta Cheese, Onion, Ground Beef, Black Olive, Tomato & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo Pizza",
+      "price": 13.99,
+      "description": "Pepperoni, Mushroom, Bacon & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Mushroom, Bacon & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Pizza",
+      "price": 13.99,
+      "description": "Onion, Mushroom, Green Pepper, Pepperoni, Sausage & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Onion, Mushroom, Green Pepper, Pepperoni, Sausage & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 13.99,
+      "description": "Pepperoni & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Pizza",
+      "price": 13.99,
+      "description": "Onion, Green Pepper, Ground Beef, Black Olive, Banana Pepper & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Onion, Green Pepper, Ground Beef, Black Olive, Banana Pepper & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Pizza",
+      "price": 13.99,
+      "description": "Ham, Pineapple & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Ham, Pineapple & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pizza",
+      "price": 13.99,
+      "description": "Donair Beef, Onion, Green Pepper, Tomato & Mozzarella",
+      "category": "FOOD",
+      "simplified_description": "Donair Beef, Onion, Green Pepper, Tomato & Mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 10.99,
+      "description": "Flavors: Hot/Spicy, Mild, BBQ, Honey Garlic, Salt & Pepper or Teriyaki",
+      "category": "SIDE",
+      "simplified_description": "Flavors: Hot/Spicy, Mild, BBQ, Honey Garlic, Salt & Pepper or Teriyaki",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Bread",
+      "price": 9.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Twisty Bread",
+      "price": 5.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 2.5,
+      "description": "Chicken, Veggie or Beef\nOut Of Stock",
+      "category": "SIDE",
+      "simplified_description": "Chicken, Veggie or Beef\nOut Of Stock",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Fries",
+      "price": 6.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dippings",
+      "price": 1.0,
+      "description": "Ranch, Hot Sauce, Marinara Sauce or Creamy Garlic",
+      "category": "SIDE",
+      "simplified_description": "Ranch, Hot Sauce, Marinara Sauce or Creamy Garlic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can",
+      "price": 1.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pack Pop",
+      "price": 8.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Litre",
+      "price": 3.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 1.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

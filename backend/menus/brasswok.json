@@ -1,0 +1,369 @@
+{
+  "restaurant": "brasswok",
+  "parsed_at": "2026-02-06T01:14:21.670733",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "Crispy Vegetarian Spring Rolls",
+      "price": 10.0,
+      "description": "4 Rolls",
+      "category": "APPETIZER",
+      "simplified_description": "Four crispy vegetarian spring rolls.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Lettuce Wrap",
+      "price": 11.0,
+      "description": "Chicken, carrots, red pepper, snap peas, zucchini, crispy rice noodles",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken and vegetables served in crispy rice noodle lettuce wraps.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sa-te & Peanut Sauce",
+      "price": 14.0,
+      "description": "Beef, Chicken, or Pork Marinated Grilled Skewers Served with Peanut Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Grilled meat skewers served with peanut sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Prawns",
+      "price": 14.0,
+      "description": "4 Prawns",
+      "category": "APPETIZER",
+      "simplified_description": "Four prawns coated in coconut.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Fried Chicken",
+      "price": 14.0,
+      "description": "Deep Fried Chicken Drumettes in Thai Seasoning Served with Prik Nam Pao Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Deep fried chicken drumettes with Thai seasoning and spicy sauce.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Som Tom",
+      "price": 16.0,
+      "description": "Prawns, carrots, green papaya, tomatoes, peanuts",
+      "category": "APPETIZER",
+      "simplified_description": "Spicy green papaya salad with prawns and peanuts.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Stuffed Chicken Wings",
+      "price": 16.0,
+      "description": "De-boned chicken wing, long beans, shrimp, thai herbs",
+      "category": "APPETIZER",
+      "simplified_description": "Deboned chicken wings stuffed with shrimp and long beans.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tom Yum Goong",
+      "price": 8.0,
+      "description": "Hot and Sour Soup with Prawns, Thai Herbs, Tomatoes, Mushrooms",
+      "category": "SOUP",
+      "simplified_description": "Hot and sour prawn soup with Thai herbs and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Tom Kha Gai",
+      "price": 8.0,
+      "description": "Creamy Coconut Soup with Chicken, Thai Herbs, Mushrooms",
+      "category": "SOUP",
+      "simplified_description": "Creamy coconut soup with chicken, mushrooms, and Thai herbs.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tom Yum Goong Nam Kon",
+      "price": 9.0,
+      "description": "Creamy Tom Yum Soup with Prawns, Thai herbs, Tomatoes, Mushrooms",
+      "category": "SOUP",
+      "simplified_description": "Creamy hot and sour prawn soup with Thai herbs and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Red Vegetable Curry",
+      "price": 20.0,
+      "description": "Tofu, asparagus, broccoli, carrots, cauliflower, red pepper, zucchini",
+      "category": "CURRIES",
+      "simplified_description": "Red curry with tofu and mixed vegetables.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Panang Chicken Curry",
+      "price": 22.0,
+      "description": "Chicken, eggplant, long beans, red peppers",
+      "category": "CURRIES",
+      "simplified_description": "Panang curry with chicken and vegetables.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Yellow Chicken Curry",
+      "price": 22.0,
+      "description": "Chicken, broccoli, carrots, snap peas",
+      "category": "CURRIES",
+      "simplified_description": "Yellow curry with chicken and mixed vegetables.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Green Chicken Curry",
+      "price": 22.0,
+      "description": "Chicken Breast, Cauliflower, Red Peppers, Snap Peas, Spinach, Thai Herbs",
+      "category": "CURRIES",
+      "simplified_description": "Green curry with chicken breast and assorted vegetables.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Musamum Beef Curry",
+      "price": 24.0,
+      "description": "Beef, broccoli, potatoes, onions",
+      "category": "CURRIES",
+      "simplified_description": "Musamun beef curry with broccoli, potatoes, and onions.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Green Prawn Curry",
+      "price": 25.0,
+      "description": "Prawns, cauliflower, red pepper, snap peas, spinach",
+      "category": "CURRIES",
+      "simplified_description": "Prawns cooked with cauliflower, red pepper, snap peas, and spinach.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rainbow Stir-Fry with Peanut Sauce",
+      "price": 20.0,
+      "description": "Seasonal Vegetables with Peanut Sauce",
+      "category": "FROM THE WOK",
+      "simplified_description": "Seasonal vegetables stir-fried with peanut sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Rama",
+      "price": 22.0,
+      "description": "Chicken Breast, Spinach, Peanut sauce",
+      "category": "FROM THE WOK",
+      "simplified_description": "Chicken breast with spinach and peanut sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cashew Chicken",
+      "price": 22.0,
+      "description": "Chicken, cashews, celery, onions, pineapples, red peppers",
+      "category": "FROM THE WOK",
+      "simplified_description": "Chicken stir-fried with cashews, celery, onions, pineapples, and red peppers.",
+      "dietary_info": [
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger chicken",
+      "price": 22.0,
+      "description": "Chicken Breast, Asparagus, Red peppers,Snap peas",
+      "category": "FROM THE WOK",
+      "simplified_description": "Chicken breast with asparagus, red peppers, and snap peas.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork",
+      "price": 22.0,
+      "description": "Pork, broccoli, onions, pineapples, red peppers, tomatoes",
+      "category": "FROM THE WOK",
+      "simplified_description": "Pork with broccoli, onions, pineapples, red peppers, and tomatoes.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Basil Chicken",
+      "price": 22.0,
+      "description": "Chicken Breast, Seasonal Vegetables, Thai Basil Sauce",
+      "category": "FROM THE WOK",
+      "simplified_description": "Chicken breast with seasonal vegetables and Thai basil sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jungle beef",
+      "price": 24.0,
+      "description": "Beef, long beans, red peppers, thai herbs",
+      "category": "FROM THE WOK",
+      "simplified_description": "Beef stir-fried with long beans, red peppers, and Thai herbs.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Pepper Beef",
+      "price": 24.0,
+      "description": "Beef, button mushrooms, onions, red peppers, zucchini",
+      "category": "FROM THE WOK",
+      "simplified_description": "Beef with mushrooms, onions, red peppers, and zucchini in black pepper sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Broccoli",
+      "price": 24.0,
+      "description": "Beef, broccoli, onions, red peppers",
+      "category": "FROM THE WOK",
+      "simplified_description": "Beef stir-fried with broccoli, onions, and red peppers.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemongrass Curry Prawns",
+      "price": 25.0,
+      "description": "Prawns, red peppers, spinach, zucchini",
+      "category": "FROM THE WOK",
+      "simplified_description": "Prawns cooked with lemongrass curry, red peppers, spinach, and zucchini.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Pepper Prawns",
+      "price": 25.0,
+      "description": "Prawns, button mushrooms, onions, red peppers, zucchini",
+      "category": "FROM THE WOK",
+      "simplified_description": "Prawns with mushrooms, onions, red peppers, and zucchini in black pepper sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lime Chili Butter Salmon",
+      "price": 27.0,
+      "description": "Pan fried salmon, asparagus, red peppers",
+      "category": "FROM THE WOK",
+      "simplified_description": "Pan-fried salmon with asparagus and red peppers in lime chili butter.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    }
+  ]
+}

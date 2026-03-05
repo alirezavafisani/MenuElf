@@ -1,0 +1,266 @@
+{
+  "restaurant": "403local",
+  "parsed_at": "2026-02-06T00:29:48.209756",
+  "item_count": 24,
+  "items": [
+    {
+      "name": "Dawn’s Chicken Tenders",
+      "price": 22.0,
+      "description": "Comes with homemade Kennebec fries or house salad.",
+      "category": "FOOD",
+      "simplified_description": "Chicken tenders served with fries or house salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni",
+      "price": 20.0,
+      "description": "All pizzas are made with our homemade dough and mozzarella cheese. Gluten-free crust available for an additional $4.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni pizza with homemade dough and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Gluten-free crust available for $4 extra"
+    },
+    {
+      "name": "My New Option",
+      "price": 16.0,
+      "description": "8\"$16 12\"$20 Double$25",
+      "category": "FOOD",
+      "simplified_description": "Pizza available in 8\", 12\", or double size.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 22.0,
+      "description": "Seasoned chicken, BBQ sauce, red pepper and red onion. 8\" $16 | 12\" $22 | Double $28",
+      "category": "FOOD",
+      "simplified_description": "BBQ chicken pizza with red pepper and red onion.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Truffle Mushroom",
+      "price": 26.0,
+      "description": "Roasted mushrooms, red onion, truffle oil, green onion and parmesan. 8\" $18 | 12\" $26 | Double $30",
+      "category": "FOOD",
+      "simplified_description": "Pizza with roasted mushrooms, truffle oil, and parmesan cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Doug’s Pizza",
+      "price": 24.0,
+      "description": "In-house fresh dough, topped with ham, pepperoni, chicken, bacon and mozzarella. 8\" $20 | 12\" $24 | Double $32",
+      "category": "FOOD",
+      "simplified_description": "Meat lover's pizza with ham, pepperoni, chicken, bacon, and cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese",
+      "price": 16.0,
+      "description": "My New Option 8\"$13 12\"$16 Double $18",
+      "category": "FOOD",
+      "simplified_description": "Classic cheese pizza available in three sizes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie",
+      "price": 20.0,
+      "description": "Roasted mushrooms, black olives, red onions, tomatoes, red and green peppers.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable pizza with mushrooms, olives, onions, tomatoes, and peppers.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliders",
+      "price": 17.0,
+      "description": "Three mini buns filled with your choice of: BBQ Pulled pork, creamy coleslaw, mayo and pickles, or Crispy chicken with hot sauce, coleslaw, mayo and pickles.",
+      "category": "FOOD",
+      "simplified_description": "Three mini sandwiches with BBQ pork or crispy chicken and toppings.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "403 Tacos",
+      "price": 16.0,
+      "description": "Three flour tortillas filled with your choice of: Cajun Chicken topped with coleslaw and c Seasoned Chicken topped with coleslaw an BBQ Pulled Pork topped with coleslaw and.",
+      "category": "FOOD",
+      "simplified_description": "Three flour tortilla tacos with chicken or pulled pork and coleslaw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 14.0,
+      "description": "Veggie patty, cheese, lettuce, tomato, pickle, onion, mayo",
+      "category": "FOOD",
+      "simplified_description": "Burger with veggie patty, cheese, and fresh vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Sweet Chili Bowl",
+      "price": 20.0,
+      "description": "Sautéed red and green peppers, red onions and carrots tossed in Thai sweet chili sauce. Topped with crispy tortilla chips and green onions. Your choice of protein: Breaded Lemon Pepper Chicken",
+      "category": "FOOD",
+      "simplified_description": "Vegetables in sweet chili sauce with crispy chips and chicken option.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef Bowl",
+      "price": null,
+      "description": "Beef strips tossed in ginger sauce, served with red onions, carrots, celery, red and green peppers. Topped with crispy wonton strips, sesame seeds and green onions. Served on rice or chow mein.",
+      "category": "FOOD",
+      "simplified_description": "Beef with ginger sauce and vegetables served on rice or chow mein.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Skor Cheesecake",
+      "price": 10.0,
+      "description": "Cheesecake topped with crunchy Skor bits, caramel and drizzled with rich chocolate sauce.",
+      "category": "DESSERT",
+      "simplified_description": "Cheesecake topped with Skor bits, caramel, and chocolate sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Donuts",
+      "price": 8.0,
+      "description": "Ten mini donuts topped with cinnamon sugar, served with chocolate or caramel dip",
+      "category": "DESSERT",
+      "simplified_description": "Ten mini cinnamon sugar donuts with chocolate or caramel dip.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kids 8\" Pizza",
+      "price": 15.0,
+      "description": "Choose from Cheese or Pepperoni.",
+      "category": "FOOD",
+      "simplified_description": "Small pizza with either cheese or pepperoni topping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled cheese",
+      "price": 15.0,
+      "description": "Toasted white bread with melted cheese.",
+      "category": "FOOD",
+      "simplified_description": "Toasted white bread sandwich with melted cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": 15.0,
+      "description": "Two crispy chicken tenders served with plum sauce.",
+      "category": "FOOD",
+      "simplified_description": "Two crispy fried chicken tenders with plum sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 15.0,
+      "description": "3oz beef patty with cheddar cheese, pickles and mayo.",
+      "category": "FOOD",
+      "simplified_description": "Beef patty burger with cheddar, pickles, and mayo.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 15.0,
+      "description": "Five wings and choice of wing sauce with veggies, fries and ranch dip.",
+      "category": "FOOD",
+      "simplified_description": "Five chicken wings with sauce, veggies, fries, and ranch dip.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Sandwich",
+      "price": 15.0,
+      "description": "A fried egg, bacon, cheese, lettuce, tomato, and mayo, served on a brioche bun.",
+      "category": "FOOD",
+      "simplified_description": "Sandwich with fried egg, bacon, cheese, lettuce, tomato, and mayo.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic 403 Breakfast",
+      "price": 15.0,
+      "description": "Two fried eggs, three pieces of crispy bacon and toast.",
+      "category": "FOOD",
+      "simplified_description": "Two fried eggs, crispy bacon, and toast.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Cheese Sandwich",
+      "price": 15.0,
+      "description": "Ham and melted cheese on toasted white bread.",
+      "category": "FOOD",
+      "simplified_description": "Toasted white bread sandwich with ham and melted cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BLT Sandwich",
+      "price": 15.0,
+      "description": "Toasted white bread with three pieces of bacon, lettuce and tomato.",
+      "category": "FOOD",
+      "simplified_description": "Toasted sandwich with bacon, lettuce, and tomato.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "restaurant": "winebarkensington",
+  "parsed_at": "2026-02-06T04:49:32.390188",
+  "item_count": 101,
+  "items": [
+    {
+      "name": "2019 Pinot Noir Blanc",
+      "price": 110.0,
+      "description": "Haywire Free Form (Okanagan, CA)",
+      "category": "DRINK",
+      "simplified_description": "Haywire Free Form (Okanagan, CA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 Abymes",
+      "price": 90.0,
+      "description": "Domaine Labbe, (Savoie, FR)",
+      "category": "DRINK",
+      "simplified_description": "Domaine Labbe, (Savoie, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Chardonnay",
+      "price": 100.0,
+      "description": "La Girouette, (Cevennes, FR)",
+      "category": "DRINK",
+      "simplified_description": "La Girouette, (Cevennes, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Las Blancas",
+      "price": 110.0,
+      "description": "Bruno Murciano, (Utiel-Requene, ES)",
+      "category": "DRINK",
+      "simplified_description": "Bruno Murciano, (Utiel-Requene, ES)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Gavi Del Comune di Gavi",
+      "price": 90.0,
+      "description": "Olim Bauda, (Gavi, IT)",
+      "category": "DRINK",
+      "simplified_description": "Olim Bauda, (Gavi, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Semillon Blanco",
+      "price": 90.0,
+      "description": "Dormilona, (Margaret River, AU)",
+      "category": "DRINK",
+      "simplified_description": "Dormilona, (Margaret River, AU)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2020 Chardonnay",
+      "price": 140.0,
+      "description": "Ramey (Russian River Valley, Sonoma, US)",
+      "category": "DRINK",
+      "simplified_description": "Ramey (Russian River Valley, Sonoma, US)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 San Benedetto Rosado",
+      "price": 85.0,
+      "description": "Zeneto (Veneto, IT)",
+      "category": "DRINK",
+      "simplified_description": "Zeneto (Veneto, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Pinot Grigio Blush",
+      "price": 100.0,
+      "description": "Terre Di Rai, (Delle Venezie, IT)",
+      "category": "DRINK",
+      "simplified_description": "Terre Di Rai, (Delle Venezie, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2023 AIX Rose",
+      "price": 110.0,
+      "description": "Maison Saint Aix (Provence, FR)",
+      "category": "DRINK",
+      "simplified_description": "Maison Saint Aix (Provence, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Cabernet Frank Rose",
+      "price": 85.0,
+      "description": "Hester Creek Estate (British Columbia, CA)",
+      "category": "DRINK",
+      "simplified_description": "Hester Creek Estate (British Columbia, CA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Violet Hour Shiraz",
+      "price": 130.0,
+      "description": "Bondar (McLauren Vale, AU)",
+      "category": "DRINK",
+      "simplified_description": "Bondar (McLauren Vale, AU)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2018 Montefalco Rosso Riserva DOC",
+      "price": 160.0,
+      "description": "Tenuta di Saragano (Montefalco, IT)",
+      "category": "DRINK",
+      "simplified_description": "Tenuta di Saragano (Montefalco, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2020 Salvaje Malbec",
+      "price": 110.0,
+      "description": "Desquiciado,(Tupungato, AR)",
+      "category": "DRINK",
+      "simplified_description": "Desquiciado,(Tupungato, AR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2020 Pylos Cabernet Sauvignon",
+      "price": 110.0,
+      "description": "Nestor, (Peloponnesos, GR)",
+      "category": "DRINK",
+      "simplified_description": "Nestor, (Peloponnesos, GR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2019 Tullum Rosso DOCG",
+      "price": 110.0,
+      "description": "Vigneti Radica, (Montepulciano, IT)",
+      "category": "DRINK",
+      "simplified_description": "Vigneti Radica, (Montepulciano, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2024 Pinot Noir",
+      "price": 90.0,
+      "description": "Cellier des Desmoiselles, (Pays d'Oc, FR)",
+      "category": "DRINK",
+      "simplified_description": "Cellier des Desmoiselles, (Pays d'Oc, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Elevation Red Blend",
+      "price": 130.0,
+      "description": "Little Engine Wines, (Naramata Bench, CA)",
+      "category": "DRINK",
+      "simplified_description": "Little Engine Wines, (Naramata Bench, CA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 Barolo DOCG",
+      "price": 150.0,
+      "description": "Cascina Boschetti Gomba, (Barolo, IT)",
+      "category": "DRINK",
+      "simplified_description": "Cascina Boschetti Gomba, (Barolo, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "202 Ronan Clinet Bordeaux",
+      "price": 110.0,
+      "description": "Chateau Clinet, (Bordeaux, FR)",
+      "category": "DRINK",
+      "simplified_description": "Chateau Clinet, (Bordeaux, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Saint-Emilion Grand Cru",
+      "price": 180.0,
+      "description": "Chateau Tour de Yon, (Saint-Emilion, FR)",
+      "category": "DRINK",
+      "simplified_description": "Chateau Tour de Yon, (Saint-Emilion, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "N/V Champagne Grand Cru",
+      "price": 300.0,
+      "description": "Mailly (Champagne, FR)",
+      "category": "DRINK",
+      "simplified_description": "Mailly (Champagne, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2010 Dom Perignon",
+      "price": 800.0,
+      "description": "(Champagne, FR)",
+      "category": "DRINK",
+      "simplified_description": "(Champagne, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Sancerre (WBK Exclusive)",
+      "price": 220.0,
+      "description": "Domaine Henri Bourgeois d'ANTAN (Sancerre, FR)",
+      "category": "DRINK",
+      "simplified_description": "Domaine Henri Bourgeois d'ANTAN (Sancerre, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2022 Chateauneuf-Du-Pape Blanc",
+      "price": 260.0,
+      "description": "La Ferme Du Mont \"Vendange\" (Chateauneuf-Du-Pape, Rhone Valley, FR)",
+      "category": "DRINK",
+      "simplified_description": "La Ferme Du Mont \"Vendange\" (Chateauneuf-Du-Pape, Rhone Valley, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2019 Chianti Classico DOCG Gran Selezione",
+      "price": 320.0,
+      "description": "Cari(Tuscany, IT)",
+      "category": "DRINK",
+      "simplified_description": "Cari(Tuscany, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2019 Cabernet Franc/Merlot",
+      "price": 290.0,
+      "description": "Ruffino Alauda (Tuscany, IT)",
+      "category": "DRINK",
+      "simplified_description": "Ruffino Alauda (Tuscany, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2008 Amarone Della Valpolicella Classico DOC",
+      "price": 300.0,
+      "description": "Tommasi (Amarone Della Valpolicella, IT)",
+      "category": "DRINK",
+      "simplified_description": "Tommasi (Amarone Della Valpolicella, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Elder Sour",
+      "price": 15.0,
+      "description": "Wild Life Barrel Aged Gin, Elderflower Liqueur, Lemon, Simple Syrup, Egg White",
+      "category": "COCKTAIL",
+      "simplified_description": "Wild Life Barrel Aged Gin, Elderflower Liqueur, Lemon, Simple Syrup, Egg White",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Boulevardier",
+      "price": 16.0,
+      "description": "Wild Life Sherry Cask Whiskey, Campari, Sweet Vermouth, Dry Orange",
+      "category": "COCKTAIL",
+      "simplified_description": "Wild Life Sherry Cask Whiskey, Campari, Sweet Vermouth, Dry Orange",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Brainer Martini",
+      "price": 16.0,
+      "description": "Last Best \"No Brainer\" Gin, Olive Juice",
+      "category": "COCKTAIL",
+      "simplified_description": "Last Best \"No Brainer\" Gin, Olive Juice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Cherry Old Fashioned",
+      "price": 15.0,
+      "description": "Two Rivers Oolong Cherry Rye, Orange syrup",
+      "category": "COCKTAIL",
+      "simplified_description": "Two Rivers Oolong Cherry Rye, Orange syrup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mezcal Mule",
+      "price": 15.0,
+      "description": "Mezcal, Hendrick’s Gin, Elderflower, Lemon, Basil, Ginger Beer",
+      "category": "COCKTAIL",
+      "simplified_description": "Mezcal, Hendrick’s Gin, Elderflower, Lemon, Basil, Ginger Beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Cherry Old Fashioned",
+      "price": 14.0,
+      "description": "Undone Whiskey, Cherry Juice, Orange syrup",
+      "category": "COCKTAIL",
+      "simplified_description": "Undone Whiskey, Cherry Juice, Orange syrup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dalmore 15yr",
+      "price": 19.0,
+      "description": "(Highlands, GB-SCT)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "(Highlands, GB-SCT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WLD Sherry Cask Single Malt",
+      "price": 13.0,
+      "description": "(Canmore, CA)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "(Canmore, CA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OBAN 14yr Single Malt",
+      "price": 15.0,
+      "description": "(Western Highlands, GB-SCT)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "(Western Highlands, GB-SCT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arran sherry Cask",
+      "price": 10.0,
+      "description": "Single Malt Scotch (Scotland, UK)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "Single Malt Scotch (Scotland, UK)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenlivet 12 Year",
+      "price": 10.0,
+      "description": "Whiskey (Scotland, UK)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "Whiskey (Scotland, UK)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glen Garioch Highland Single Malt",
+      "price": 15.0,
+      "description": "(Aberdeenshire, GB-SCT)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "(Aberdeenshire, GB-SCT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arran 18yr Single Malt",
+      "price": 30.0,
+      "description": "(Lochranza, GB-SCT)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "(Lochranza, GB-SCT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenfiddich Experimental Series Project XX",
+      "price": 20.0,
+      "description": "(Banffshire, GB-SCT)",
+      "category": "WHISKEY & SCOTCH",
+      "simplified_description": "(Banffshire, GB-SCT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kentucky Straight Bourbon",
+      "price": 20.0,
+      "description": "Kentucky Spirits Ltd Barrel #24 (Kentucky, US)",
+      "category": "BOURBON & RYE",
+      "simplified_description": "Kentucky Spirits Ltd Barrel #24 (Kentucky, US)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Trace",
+      "price": 10.0,
+      "description": "(Kentucky, US)",
+      "category": "BOURBON & RYE",
+      "simplified_description": "(Kentucky, US)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oolong Cherry Rye",
+      "price": 12.0,
+      "description": "Two Rivers (Calgary, AB)",
+      "category": "BOURBON & RYE",
+      "simplified_description": "Two Rivers (Calgary, AB)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "No. 3 London Dry",
+      "price": 12.0,
+      "description": "(Amsterdam, NL)",
+      "category": "GIN",
+      "simplified_description": "(Amsterdam, NL)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WLD Barrel-Aged Gin",
+      "price": 11.0,
+      "description": "(Canmore, CA)",
+      "category": "GIN",
+      "simplified_description": "(Canmore, CA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Rivers Hibiscus",
+      "price": 11.0,
+      "description": "Hibiscus (Calgary, CA)",
+      "category": "GIN",
+      "simplified_description": "Hibiscus (Calgary, CA)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bumbu Original",
+      "price": 11.0,
+      "description": "(Barbados, Caribbean)",
+      "category": "RUM",
+      "simplified_description": "(Barbados, Caribbean)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Havana Club 7 Year",
+      "price": 10.0,
+      "description": "Rum (La Habana, Cuba)",
+      "category": "RUM",
+      "simplified_description": "Rum (La Habana, Cuba)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "A.D. Rattray Cask Collection 12 yr",
+      "price": 12.0,
+      "description": "(Panama)",
+      "category": "RUM",
+      "simplified_description": "(Panama)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cascahuin Blanco",
+      "price": 13.0,
+      "description": "(Jalisco, MX)",
+      "category": "TEQUILA",
+      "simplified_description": "(Jalisco, MX)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Don Julio 1942",
+      "price": 30.0,
+      "description": "Tequila (Jalisco, MEX)",
+      "category": "TEQUILA",
+      "simplified_description": "Tequila (Jalisco, MEX)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tommy Bahama",
+      "price": 10.0,
+      "description": "Vodka (Washington, US)",
+      "category": "VODKA",
+      "simplified_description": "Vodka (Washington, US)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Haku Vodka",
+      "price": 12.0,
+      "description": "(Japan)",
+      "category": "VODKA",
+      "simplified_description": "(Japan)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Courvoisier VS",
+      "price": 13.0,
+      "description": "Cognac (Cognac, FR)",
+      "category": "APERITIF",
+      "simplified_description": "Cognac (Cognac, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hennessey VS",
+      "price": 15.0,
+      "description": "Cognac (cognac, FR)",
+      "category": "APERITIF",
+      "simplified_description": "Cognac (cognac, FR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ouzo",
+      "price": 13.0,
+      "description": "Meltemi (Arta, GR)",
+      "category": "APERITIF",
+      "simplified_description": "Meltemi (Arta, GR)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Disaronno",
+      "price": 10.0,
+      "description": "(Soronno, IT)",
+      "category": "APERITIF",
+      "simplified_description": "(Soronno, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rojo Amargo Vermouth",
+      "price": 12.5,
+      "description": "Padró & Co (Tarragona, ES)",
+      "category": "APERITIF",
+      "simplified_description": "Padró & Co (Tarragona, ES)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Portal 6 Barrels Tawny Reserve",
+      "price": 24.0,
+      "description": "(Portugal)",
+      "category": "APERITIF",
+      "simplified_description": "(Portugal)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Portal Fine Tawny",
+      "price": 20.0,
+      "description": "(Portugal)",
+      "category": "APERITIF",
+      "simplified_description": "(Portugal)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fine Pale Cream Sherry",
+      "price": 10.0,
+      "description": "Croft, (Jerez de la Frontera, ES)",
+      "category": "APERITIF",
+      "simplified_description": "Croft, (Jerez de la Frontera, ES)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grappa Moscato D'Oro",
+      "price": 17.0,
+      "description": "Poli 'Cleopatra' (Veneto, IT)",
+      "category": "APERITIF",
+      "simplified_description": "Poli 'Cleopatra' (Veneto, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Limoncello",
+      "price": 16.0,
+      "description": "Rossi D'Asiago (Asiago, IT)",
+      "category": "APERITIF",
+      "simplified_description": "Rossi D'Asiago (Asiago, IT)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rootbeer",
+      "price": 4.0,
+      "description": "Dad's",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "Dad's",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Water",
+      "price": 7.5,
+      "description": "Ferrarelle Italian Sparkling Mineral Water 750mL",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "Ferrarelle Italian Sparkling Mineral Water 750mL",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vitaliteas",
+      "price": 4.5,
+      "description": "Prairie Breakfast, Jasmine Blossom, Mint Bliss, Ginger Green, Earl Grey, Twist of Lemon",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "Prairie Breakfast, Jasmine Blossom, Mint Bliss, Ginger Green, Earl Grey, Twist o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano",
+      "price": 5.0,
+      "description": "The Roasterie Espresso",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "The Roasterie Espresso",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Shucked Oysters (GF, DF)",
+      "price": 25.0,
+      "description": "Grated Horseradish, Mignonette, Jalapeno Hot Sauce, Lemon Gel",
+      "category": "FOOD",
+      "simplified_description": "Grated Horseradish, Mignonette, Jalapeno Hot Sauce, Lemon Gel",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marinated Olives (VG, DF, GF)",
+      "price": 9.0,
+      "description": "Rosemary, Fennel Seed, Citrus",
+      "category": "FOOD",
+      "simplified_description": "Rosemary, Fennel Seed, Citrus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Lentil Dip (V)",
+      "price": 15.0,
+      "description": "Pickled Peppers, Honey Yoghurt, Garlic Flatbread",
+      "category": "FOOD",
+      "simplified_description": "Pickled Peppers, Honey Yoghurt, Garlic Flatbread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Cheesy Potatoes (V, GF)",
+      "price": 18.0,
+      "description": "Baby Potato, Three Cheese Sauce, Pickled Peppers",
+      "category": "FOOD",
+      "simplified_description": "Baby Potato, Three Cheese Sauce, Pickled Peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brussel Sprouts (DF, GF)",
+      "price": 20.0,
+      "description": "Teriyaki Glaze, Pancetta, Sesame Seeds, Candied Ginger",
+      "category": "FOOD",
+      "simplified_description": "Teriyaki Glaze, Pancetta, Sesame Seeds, Candied Ginger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wagyu Beef Gyoza (DF)",
+      "price": 20.0,
+      "description": "Garlic Scapes, Shitake, Mushroom Soy, Scallion Chili Oil",
+      "category": "FOOD",
+      "simplified_description": "Garlic Scapes, Shitake, Mushroom Soy, Scallion Chili Oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Truffle Arancini (V)",
+      "price": 17.0,
+      "description": "Arborio, Fior de Latte, Pecorino, Spinach & Basil Pesto, Black Truffle,",
+      "category": "FOOD",
+      "simplified_description": "Arborio, Fior de Latte, Pecorino, Spinach & Basil Pesto, Black Truffle,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Tuna Tataki (DF)",
+      "price": 24.0,
+      "description": "Roasted Plum Hoisin, Pickled Rhubarb, Plums & Ginger, Togarashi Spiced Crispy Won Ton",
+      "category": "FOOD",
+      "simplified_description": "Roasted Plum Hoisin, Pickled Rhubarb, Plums & Ginger, Togarashi Spiced Crispy Wo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Portobello Fritters (V)",
+      "price": 17.0,
+      "description": "Chive Aioli, Greens, Pecorino",
+      "category": "FOOD",
+      "simplified_description": "Chive Aioli, Greens, Pecorino",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tartare",
+      "price": 23.0,
+      "description": "House Beer Mustard, Caramelized Onions, Pretzel Crostini, Parm Crisp, Pickles",
+      "category": "FOOD",
+      "simplified_description": "House Beer Mustard, Caramelized Onions, Pretzel Crostini, Parm Crisp, Pickles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Pork Meatballs",
+      "price": 21.0,
+      "description": "Pomodoro Sauce, Olive Oil, Grana Padano, Garlic Buttered Milk Buns",
+      "category": "FOOD",
+      "simplified_description": "Pomodoro Sauce, Olive Oil, Grana Padano, Garlic Buttered Milk Buns",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fondue",
+      "price": 32.0,
+      "description": "Regular / Large - Gluten Free - Add $3 Classic (V) Sylvan Star Gouda, Gruyere, White Wine, Cracked Pepper, Selection of House Breads",
+      "category": "FOOD",
+      "simplified_description": "Regular / Large - Gluten Free - Add $3 Classic (V) Sylvan Star Gouda, Gruyere, W",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dark Chocolate Fondue (V)",
+      "price": 29.0,
+      "description": "Lindt 70% Dark Chocolate, Creme de Cacao, Vanilla Marshmallow, Cake, Fresh Fruit",
+      "category": "DESSERT",
+      "simplified_description": "Lindt 70% Dark Chocolate, Creme de Cacao, Vanilla Marshmallow, Cake, Fresh Fruit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Forest Cake (V)",
+      "price": 13.0,
+      "description": "Rich Dark Chocolate Cake, Raspberry and Strawberry Compote, Vanilla Whipped Cream, Crushed Mixed Nuts",
+      "category": "DESSERT",
+      "simplified_description": "Rich Dark Chocolate Cake, Raspberry and Strawberry Compote, Vanilla Whipped Crea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha Tres Leche Cake (V)",
+      "price": 14.0,
+      "description": "Matcha Sponge, Berry White Chocolate Ganache, Berry Coulis, Pistachio",
+      "category": "DESSERT",
+      "simplified_description": "Matcha Sponge, Berry White Chocolate Ganache, Berry Coulis, Pistachio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Herbed Chevre",
+      "price": 13.0,
+      "description": "Soft | Goat Milk | Tangy",
+      "category": "OTHER",
+      "simplified_description": "Soft | Goat Milk | Tangy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old White Cheddar",
+      "price": 14.0,
+      "description": "Hard | Cow Milk | Sharp",
+      "category": "OTHER",
+      "simplified_description": "Hard | Cow Milk | Sharp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Manchego DOP 6 Month",
+      "price": 14.0,
+      "description": "Sheep Milk | Firm | Mild",
+      "category": "OTHER",
+      "simplified_description": "Sheep Milk | Firm | Mild",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Gorgonzola",
+      "price": 14.0,
+      "description": "Creamy | Blue | Salty",
+      "category": "OTHER",
+      "simplified_description": "Creamy | Blue | Salty",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cabernet Sauvignon Bellavitano",
+      "price": 14.0,
+      "description": "Cow Milk | Nutty | Hard",
+      "category": "OTHER",
+      "simplified_description": "Cow Milk | Nutty | Hard",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peasant Cheese Selections",
+      "price": 14.0,
+      "description": "Some Favorites From Our Friends At Peasant Cheese",
+      "category": "OTHER",
+      "simplified_description": "Some Favorites From Our Friends At Peasant Cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chateau de Bourgogne",
+      "price": 14.0,
+      "description": "Rich | Buttery | Triple Creme",
+      "category": "OTHER",
+      "simplified_description": "Rich | Buttery | Triple Creme",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Comtesse de Brugge",
+      "price": 14.0,
+      "description": "Firm | Hard | Rich",
+      "category": "OTHER",
+      "simplified_description": "Firm | Hard | Rich",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cendre de Grand Jardin",
+      "price": 14.0,
+      "description": "Ash | Cow Milk | Supple",
+      "category": "OTHER",
+      "simplified_description": "Ash | Cow Milk | Supple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Landjaeger",
+      "price": 14.0,
+      "description": "Beef & Pork | Air Dried | Smokey",
+      "category": "OTHER",
+      "simplified_description": "Beef & Pork | Air Dried | Smokey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sarment",
+      "price": 14.0,
+      "description": "Pork | Salty | Dry Cure",
+      "category": "OTHER",
+      "simplified_description": "Pork | Salty | Dry Cure",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mild Soppressata",
+      "price": 14.0,
+      "description": "Pork | Robust | Cured",
+      "category": "OTHER",
+      "simplified_description": "Pork | Robust | Cured",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bresaola*",
+      "price": 15.0,
+      "description": "Air Dried | Salty | Cured",
+      "category": "OTHER",
+      "simplified_description": "Air Dried | Salty | Cured",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Finocchiona",
+      "price": 14.0,
+      "description": "Pork Salami | Fennel Seed | Garlic",
+      "category": "OTHER",
+      "simplified_description": "Pork Salami | Fennel Seed | Garlic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosciutto Di Parma*",
+      "price": 15.0,
+      "description": "Pork Leg | Salty | Sweet",
+      "category": "OTHER",
+      "simplified_description": "Pork Leg | Salty | Sweet",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Genoa",
+      "price": 14.0,
+      "description": "Spicy | Pork | Cured",
+      "category": "OTHER",
+      "simplified_description": "Spicy | Pork | Cured",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Terrine",
+      "price": 14.0,
+      "description": "Confit Chicken Thigh | Pickled Peppers & Onion | House Made",
+      "category": "OTHER",
+      "simplified_description": "Confit Chicken Thigh | Pickled Peppers & Onion | House Made",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

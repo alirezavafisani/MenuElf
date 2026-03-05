@@ -1,0 +1,268 @@
+{
+  "restaurant": "nativetongues",
+  "parsed_at": "2025-12-25T01:08:18.359499",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "Tacos \"De Guisado\"",
+      "price": 4.99,
+      "description": "Tacos topped with cilantro & served with house salsas and lime.",
+      "simplified_description": "Tacos with cilantro and house salsas.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Birria",
+      "price": 4.99,
+      "description": "Braised beef in adobo, onion, cilantro.",
+      "simplified_description": "Braised beef with spices, onions, and cilantro.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add side birria broth",
+      "price": 2.99,
+      "description": "Optional side of birria broth.",
+      "simplified_description": "Extra birria broth on the side.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carnitas",
+      "price": 3.99,
+      "description": "Confit pork, onions en escabeche, cilantro.",
+      "simplified_description": "Slow-cooked pork with pickled onions and cilantro.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cochinita Pibil",
+      "price": 3.99,
+      "description": "Braised pork with achiote and pickled onions, cilantro.",
+      "simplified_description": "Braised pork with a spice blend and pickled onions.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Barbacoa de Cordero",
+      "price": 5.5,
+      "description": "Slow braised lamb, onions, cilantro.",
+      "simplified_description": "Slow-cooked lamb with onions and cilantro.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frijoles",
+      "price": 3.99,
+      "description": "Black bean in adobo, queso fresco, crema, onions, cilantro.",
+      "simplified_description": "Black beans with spices, cheese, cream, onions, and cilantro.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Margs & Draft Beer",
+      "price": 7.0,
+      "description": "Classic Lime - triple sec, lime juice, simple syrup.",
+      "simplified_description": "Classic lime margarita with triple sec and lime juice.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Other Draft",
+      "price": null,
+      "description": "Ol'Beautiful Abrazo, Ol'Beautiful Obscura, 33 Acres Mezcal Gose, Sunny Cider Just Peachy.",
+      "simplified_description": "Various draft beers available.",
+      "category": "Happy Hour",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Birria Fries",
+      "price": 16.0,
+      "description": "3oz of birria, french fries, birria broth, 3x cheese, crema, bacon, green onions.",
+      "simplified_description": "Fries topped with birria, cheese, cream, bacon, and green onions.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips y Guacamole",
+      "price": 17.0,
+      "description": "Fresh, house made guacamole with pico de gallo & totopos.",
+      "simplified_description": "Fresh guacamole with salsa and tortilla chips.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Contramar",
+      "price": 13.0,
+      "description": "Ahi tuna, chipotle mayonesa, fried leeks, avocado, serranos.",
+      "simplified_description": "Ahi tuna with chipotle mayo, fried leeks, avocado, and serrano peppers.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilaquiles",
+      "price": 13.0,
+      "description": "Totopos, salsa verde or morita, crema, queso, cilantro.",
+      "simplified_description": "Tortilla chips with green or red salsa, cream, cheese, and cilantro.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Papas Norteñas",
+      "price": 17.0,
+      "description": "Loaded baked potato with corn tortillas & salsa roja.",
+      "simplified_description": "Baked potato with corn tortillas and red salsa.",
+      "category": "Lunch & Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork belly pastor",
+      "price": 6.5,
+      "description": "Pork belly, pineapple, pickled red onion, cilantro.",
+      "simplified_description": "Pork belly with pineapple, pickled onions, and cilantro.",
+      "category": "Tacos \"A la Plancha\"",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pollo Asado",
+      "price": 6.5,
+      "description": "Mustard marinated chicken, guacasalsa, cilantro, onion, salsa taquera.",
+      "simplified_description": "Mustard-marinated chicken with salsa and cilantro.",
+      "category": "Tacos \"A la Plancha\"",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Birria Tortas",
+      "price": 19.95,
+      "description": "Crispy pitalka bread, refritos, guacamole, salsa taquera, onion, cilantro.",
+      "simplified_description": "Torta with crispy bread, refried beans, guacamole, and salsa.",
+      "category": "Tortas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donas!",
+      "price": 5.0,
+      "description": "Original glazed donuts, made in house daily.",
+      "simplified_description": "Freshly made glazed donuts.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flan Mexicana",
+      "price": 12.0,
+      "description": "Spanish flan, caramel, coconut, almond, plantain.",
+      "simplified_description": "Spanish flan with caramel, coconut, almonds, and plantains.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresas con crema",
+      "price": 6.0,
+      "description": "Whipped cream cheese, strawberries, hibiscus merengue.",
+      "simplified_description": "Strawberries with whipped cream cheese and hibiscus meringue.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salsa",
+      "price": 3.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guacamole",
+      "price": 3.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crema",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tortilla chips",
+      "price": 2.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Rice",
+      "price": 3.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilaquiles",
+      "price": 16.0,
+      "description": "Totopos, choice of salsa, frijoles, crema, queso, gouda, cilantro, fried egg.",
+      "simplified_description": "Tortilla chips with choice of salsa, beans, cream, cheese, gouda, cilantro, and a fried egg.",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Contramar",
+      "price": 13.0,
+      "description": "Ahi tuna, chipotle mayonesa, fried leeks, avocado, serranos.",
+      "simplified_description": "Ahi tuna with chipotle mayo, fried leeks, avocado, and serrano peppers.",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flautas",
+      "price": 18.0,
+      "description": "Creamy potato filling, salsa morita, crema, queso, iceberg lettuce, pickled red onions.",
+      "simplified_description": "Rolled tortillas with creamy potato filling, red salsa, cream, cheese, lettuce, and pickled onions.",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Postres",
+      "price": null,
+      "description": "Various prices for desserts.",
+      "simplified_description": "Desserts with varying prices.",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

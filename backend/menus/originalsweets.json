@@ -1,0 +1,952 @@
+{
+  "restaurant": "originalsweets",
+  "parsed_at": "2025-12-25T02:52:00.591707",
+  "item_count": 105,
+  "items": [
+    {
+      "name": "Samosa",
+      "price": 1.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Pakoras – Mixed",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pav Bhaji",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Paneer Pakora",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki",
+      "price": 1.49,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Samosa",
+      "price": 2.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsar Fish Pakora",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Samosa",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Patty",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Patty",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bread Kulcha",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nimbu Pani (sweet or salted)",
+      "price": 3.99,
+      "description": "Freshly made sparkling lemonade sweet or salted.",
+      "simplified_description": "Sparkling lemonade with sweet or salty flavor.",
+      "category": "Chilled Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lassi (Mango, sweet, salted, Strawberry)",
+      "price": 4.99,
+      "description": "Freshly made sparkling lemonade sweet or salted.",
+      "simplified_description": "A yogurt-based drink available in mango, sweet, salted, or strawberry flavors.",
+      "category": "Chilled Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pops",
+      "price": 1.99,
+      "description": "Coke, Sprite, Diet Coke, Ginger ale, Ice tea.",
+      "simplified_description": "Various soft drinks including Coke and Sprite.",
+      "category": "Chilled Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 1.25,
+      "description": "Bottle water.",
+      "simplified_description": "Bottled water.",
+      "category": "Chilled Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 2.99,
+      "description": "Orange, Mango, Apple.",
+      "simplified_description": "Juice options include orange, mango, and apple.",
+      "category": "Chilled Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Hot & Sour Soup",
+      "price": 7.99,
+      "description": "Hot and sour soup with mixed vegetables and Indo Chinese sauce and spices.",
+      "simplified_description": "Spicy and tangy soup with mixed vegetables.",
+      "category": "Soup & Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Hot and Sour",
+      "price": 7.99,
+      "description": "Hot and sour soup with mixed vegetables, chicken, and Indo Chinese spices.",
+      "simplified_description": "Spicy and tangy soup with chicken and vegetables.",
+      "category": "Soup & Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Salad",
+      "price": 7.99,
+      "description": "Fresh Romaine lettuce tossed with cucumbers, carrots, onions, and tomatoes sprinkled with chat masala.",
+      "simplified_description": "Salad with fresh greens and vegetables.",
+      "category": "Soup & Salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Tea",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hot Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Hot Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Burger",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original Papdi Chat",
+      "price": 8.99,
+      "description": "Homemade pastry crisps topped with boiled potatoes, chopped onions, cilantro leaves, smothered with sweet chutney and chilled light yogurt.",
+      "simplified_description": "Crispy pastry with potatoes, onions, and yogurt.",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa Chat",
+      "price": 7.99,
+      "description": "Deep fry cone pastry filled with potatoes, green peas topped with onion, tomatoes, cilantro, sweet chutney, green chutney, and chilled light yogurt.",
+      "simplified_description": "Samosa served with various toppings and chutneys.",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Tikki Chaat",
+      "price": 9.99,
+      "description": "Potato patties filled with herbs and spices topped with chickpeas, onion, cilantro, sweet tamarind chutney, mint chutney, and sweet yogurt.",
+      "simplified_description": "Spiced potato patties with chickpeas and chutneys.",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chole Bhature",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg/Chicken Kathi Roll",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dahi Bhalla",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tikki Noodle Burger",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gol Gappe",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Other Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Soya Chaap Tikka",
+      "price": 14.99,
+      "description": "Juicy soya marinated in red masala and cooked in a clay oven.",
+      "simplified_description": "Spicy marinated soya cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Soya Chaap",
+      "price": 15.99,
+      "description": "Juicy soya marinated in white masala and cooked in a clay oven and served with cream sauce.",
+      "simplified_description": "Creamy marinated soya cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Soya Chaap",
+      "price": 14.99,
+      "description": "Juicy soya chaap marinated with yellow masala and mixed with pickles.",
+      "simplified_description": "Soya chaap with tangy pickle flavor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Paneer Tikka",
+      "price": 15.99,
+      "description": "Juicy cubes of cottage cheese marinated in red masala and roasted in a clay oven.",
+      "simplified_description": "Spicy marinated paneer cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Paneer Tikka",
+      "price": 15.99,
+      "description": "Juicy cubes of cottage cheese marinated in yellow masala and mixed with pickles, cooked in a clay oven.",
+      "simplified_description": "Paneer with tangy pickle flavor cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Chicken Tikka",
+      "price": 15.99,
+      "description": "Succulent cubes of boneless chicken marinated in yogurt and spices roasted in clay oven.",
+      "simplified_description": "Marinated boneless chicken cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Malai Tikka",
+      "price": 16.99,
+      "description": "Marinated chicken in a creamy mixture of yogurt, cheese, and spices cooked in clay oven.",
+      "simplified_description": "Creamy marinated chicken cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Hariyali Tikka",
+      "price": 15.99,
+      "description": "Chicken marinated in a blend of mint, cilantro, and spinach roasted to perfection.",
+      "simplified_description": "Mint and cilantro marinated chicken cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 16.99,
+      "description": "Chicken marinated in yogurt with a blend of colorful Indian herbs and spices, roasted in clay oven.",
+      "simplified_description": "Herb-marinated chicken cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Seekh Kabab",
+      "price": 16.99,
+      "description": "Minced lamb marinated in our own combination of herbs, spices, skewered and roasted in clay oven.",
+      "simplified_description": "Spiced minced lamb skewers cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Chops",
+      "price": 18.99,
+      "description": "Grilled lamb chops marinated in yogurt and Indian herbs.",
+      "simplified_description": "Grilled lamb chops with yogurt marinade.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Shrimp",
+      "price": 20.99,
+      "description": "King-sized shrimp marinated in mild spices and roasted in clay oven.",
+      "simplified_description": "Large shrimp cooked in a tandoor.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka",
+      "price": 16.99,
+      "description": "Barbecued pieces of seasoned fish with the flavor of Indian herbs and spices.",
+      "simplified_description": "Spiced fish cooked on a grill.",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amritsari Kulcha",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Fish",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Tandoori Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 12.99,
+      "description": "An aromatic blend of lentil simmered on a slow fire until tender, tempered with onions, ginger, garlic, and tomatoes.",
+      "simplified_description": "Slow-cooked lentils with spices.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yellow Dal Tadka",
+      "price": 12.99,
+      "description": "Yellow lentils cooked to perfection in a traditional Indian wok with rare herbs and spices.",
+      "simplified_description": "Perfectly cooked yellow lentils with spices.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala",
+      "price": 12.99,
+      "description": "Delicious chickpeas cooked in an exotic blend of North Indian spices.",
+      "simplified_description": "Spiced chickpeas dish.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Makhani",
+      "price": 13.99,
+      "description": "Fresh cottage cheese cooked with a creamy tomato sauce.",
+      "simplified_description": "Cottage cheese in creamy tomato sauce.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mattar Paneer",
+      "price": 14.99,
+      "description": "Fresh cottage cheese cubes prepared with green peas.",
+      "simplified_description": "Cottage cheese with green peas.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Paneer",
+      "price": 14.99,
+      "description": "Homemade cottage cheese cooked with green pepper and onions in a tangy gravy.",
+      "simplified_description": "Cottage cheese with peppers and onions.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Bhurji",
+      "price": 15.99,
+      "description": "Fresh cottage cheese grated and prepared with green peppers, tomatoes, and onions.",
+      "simplified_description": "Scrambled cottage cheese with vegetables.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 14.99,
+      "description": "Fresh cottage cheese cubes in spicy spinach sauce.",
+      "simplified_description": "Cottage cheese in spicy spinach sauce.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 14.99,
+      "description": "Mix vegetable cheese dumplings cooked in a creamy hot sauce with herbs and spices.",
+      "simplified_description": "Vegetable dumplings in creamy sauce.",
+      "category": "Vegetable Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Thali",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Thali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Non-Veg Thali",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Thali",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 15.99,
+      "description": "Chicken cooked with a delicately spiced curry sauce.",
+      "simplified_description": "Chicken in spiced curry sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 15.99,
+      "description": "Chicken pieces roasted in a clay oven and folded into a creamy tomato cashew nut sauce.",
+      "simplified_description": "Clay oven roasted chicken in creamy sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 15.99,
+      "description": "Chunks of chicken roasted in a clay oven and then folded into a masala sauce.",
+      "simplified_description": "Roasted chicken in spiced sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 15.99,
+      "description": "Chicken cubes cooked in a rich Cashew Nut sauce.",
+      "simplified_description": "Chicken in rich cashew sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Madras",
+      "price": 15.99,
+      "description": "Boneless pieces of chicken cooked with South Indian spices flavored with coconut.",
+      "simplified_description": "Chicken with South Indian spices and coconut.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 15.99,
+      "description": "A delicious combination of chicken marinated in vinegar, hot peppers, and spices cooked over a low heat.",
+      "simplified_description": "Spicy chicken with vinegar and peppers.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Rogan Josh",
+      "price": 16.99,
+      "description": "Succulent pieces of lamb in a cardamom-flavored sauce.",
+      "simplified_description": "Lamb in spiced cardamom sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Bhuna",
+      "price": 16.99,
+      "description": "Lamb cubes cooked with ginger, garlic, tomatoes, onions, green chilies, and Indian spices.",
+      "simplified_description": "Lamb cooked with spices and vegetables.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Curry",
+      "price": 16.99,
+      "description": "Shrimp cooked in specially prepared herbs and spiced with a touch of garlic and ginger.",
+      "simplified_description": "Shrimp in spiced herb sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Curry",
+      "price": 16.99,
+      "description": "Seasonal fish cooked with grated coconut in a spicy sauce.",
+      "simplified_description": "Fish in spicy coconut sauce.",
+      "category": "Non-Veg Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 4.99,
+      "description": "Basmati steam rice.",
+      "simplified_description": "Steamed basmati rice.",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peas Pulau",
+      "price": 7.99,
+      "description": "Basmati rice cooked with green peas, saffron, and Indian herbs.",
+      "simplified_description": "Basmati rice with peas and saffron.",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 5.99,
+      "description": "Basmati rice cooked in coconut milk garnished with dry fruits.",
+      "simplified_description": "Basmati rice cooked in coconut milk.",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 13.99,
+      "description": "Basmati rice and vegetables flavored with saffron and cooked on a low heat.",
+      "simplified_description": "Biryani with rice and vegetables.",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Biryani",
+      "price": 14.99,
+      "description": "Basmati rice and chicken richly flavored with saffron and cooked with Indian herbs on a low heat.",
+      "simplified_description": "Biryani with chicken and saffron.",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb/Goat Biryani",
+      "price": 15.99,
+      "description": "Basmati rice and meat richly flavored with saffron and cooked with exotic herbs on a low heat.",
+      "simplified_description": "Biryani with lamb or goat and saffron.",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zeera Rice",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Specialties",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Naan",
+      "price": 2.99,
+      "description": "Flat leavened bread baked on the wall lining of the tandoor oven.",
+      "simplified_description": "Leavened flatbread baked in a tandoor.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Kulcha",
+      "price": 3.99,
+      "description": "A light flat bread stuffed with onion and fresh green cilantro leaves.",
+      "simplified_description": "Flatbread stuffed with onions and cilantro.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.99,
+      "description": "Made of dough of fine flour with the taste of garlic.",
+      "simplified_description": "Garlic-flavored flatbread.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Kulcha",
+      "price": 4.99,
+      "description": "A light flat bread stuffed with homemade cottage cheese.",
+      "simplified_description": "Flatbread stuffed with cottage cheese.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lachcha Paratha",
+      "price": 3.99,
+      "description": "Whole wheat layered bread from tandoor.",
+      "simplified_description": "Layered whole wheat flatbread.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Paratha / Gobi / Paneer / Mix",
+      "price": 3.99,
+      "description": "Whole wheat bread stuffed with seasoned mashed potatoes.",
+      "simplified_description": "Stuffed whole wheat flatbread.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.99,
+      "description": "Whole wheat bread baked in clay oven.",
+      "simplified_description": "Whole wheat flatbread baked in a tandoor.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Keema Naan",
+      "price": 5.99,
+      "description": "Naan baked with tender minced lamb stuffing.",
+      "simplified_description": "Naan stuffed with minced lamb.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Keema Naan",
+      "price": 5.99,
+      "description": "A soft, fluffy naan stuffed with flavorful minced chicken and aromatic spices, baked to perfection for a deliciously satisfying treat.",
+      "simplified_description": "Naan stuffed with minced chicken.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pudina Naan",
+      "price": 3.99,
+      "description": "Soft, unleavened bread stuffed with fresh mint leaves, prepared in tandoor.",
+      "simplified_description": "Mint-flavored flatbread.",
+      "category": "Breads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ras Malai",
+      "price": 4.99,
+      "description": "Flat round discs of Indian cottage cheese poached in milk and served with pistachio.",
+      "simplified_description": "Cottage cheese discs in milk with pistachio.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 4.99,
+      "description": "Golden fried balls of milk pastry soaked in sweet saffron syrup and served hot.",
+      "simplified_description": "Fried milk pastry balls in syrup.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gajar Ka Halwa",
+      "price": 5.99,
+      "description": "Grated carrots cooked gently in milk as it reduced to form halwa, generously sprinkled with nuts and allowed to set.",
+      "simplified_description": "Carrot dessert cooked in milk.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kulfi - Mango & Pistachio",
+      "price": 2.75,
+      "description": "Traditional Indian ice-cream.",
+      "simplified_description": "Indian-style ice cream.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream - Vanilla, Strawberry, Chocolate",
+      "price": 4.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moong Daal Halwa",
+      "price": 5.99,
+      "description": "A rich and aromatic dessert made with slow-cooked moong dal, ghee, and a touch of cardamom, garnished with nuts for a delightful finish.",
+      "simplified_description": "Moong dal dessert with nuts.",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Paneer",
+      "price": 15.99,
+      "description": "Pieces of cottage cheese marinated in Indo Chinese blend of spices and sautéed in a chilly gravy.",
+      "simplified_description": "Spicy cottage cheese in gravy.",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gobi Manchurian",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Chilli Cauliflower",
+      "price": 14.99,
+      "description": "Indo Chinese flavored vegetables dumpling served in a hot and sour manchurin sauce.",
+      "simplified_description": "Vegetable dumplings in hot and sour sauce.",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetables Noodle",
+      "price": 14.99,
+      "description": "Thin noodles sautéed with finely chopped vegetables and house sauce.",
+      "simplified_description": "Noodles with vegetables.",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Chicken",
+      "price": 15.99,
+      "description": "Pieces of chicken marinated in Indo Chinese blend of spices and sautéed in chilly gravy.",
+      "simplified_description": "Spicy chicken in gravy.",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 14.95,
+      "description": "Fresh diced chicken fried with rice and Chinese spices.",
+      "simplified_description": "Fried rice with chicken.",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chilly Momos",
+      "price": 15.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steam Momos",
+      "price": 15.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Momos",
+      "price": 15.0,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Manchurian",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Noodle Spring Roll",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Spring Roll - 8 pc",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings Spicy",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Chicken Wings",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Spring Roll",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Indian Chinese Specialities",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

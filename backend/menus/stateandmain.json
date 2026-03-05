@@ -1,0 +1,277 @@
+{
+  "restaurant": "stateandmain",
+  "parsed_at": "2026-02-06T04:13:39.499109",
+  "item_count": 30,
+  "items": [
+    {
+      "name": "Corona Draft",
+      "price": null,
+      "description": "mexican lager. 50cl",
+      "category": "DRINK",
+      "simplified_description": "mexican lager. 50cl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margaritas",
+      "price": null,
+      "description": "TOMMY'S MARGARITA cuervo blanco tradicional tequila, agave syrup, lime juice. 2oz",
+      "category": "DRINK",
+      "simplified_description": "TOMMY'S MARGARITA cuervo blanco tradicional tequila, agave syrup, lime juice. 2o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margaritas",
+      "price": null,
+      "description": "SPICY HONEY MARGARITA cuervo blanco tradicional tequila, orange liqueur, lime, hot honey syrup & togarashi salt rim. 2oz",
+      "category": "DRINK",
+      "simplified_description": "SPICY HONEY MARGARITA cuervo blanco tradicional tequila, orange liqueur, lime, h",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Draft",
+      "price": null,
+      "description": "SOUTHERN ASPECT IPA 70 IBU's mosaic, ekuanot, west coast. 16oz",
+      "category": "DRINK",
+      "simplified_description": "SOUTHERN ASPECT IPA 70 IBU's mosaic, ekuanot, west coast. 16oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banded Peak Draft",
+      "price": null,
+      "description": "SEASONAL ask your server what's pouring today. 16oz",
+      "category": "DRINK",
+      "simplified_description": "SEASONAL ask your server what's pouring today. 16oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": null,
+      "description": "buffalo, hot, salt & pepper, bbq, teriyaki, honey garlic. 1lb after 2pm",
+      "category": "FOOD",
+      "simplified_description": "buffalo, hot, salt & pepper, bbq, teriyaki, honey garlic. 1lb after 2pm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lawn Mower Yard Lager Draft",
+      "price": null,
+      "description": "4.3% ABV light, crisp, refreshing, crushable. 16oz",
+      "category": "DRINK",
+      "simplified_description": "4.3% ABV light, crisp, refreshing, crushable. 16oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine by the Glass",
+      "price": null,
+      "description": "5oz | 8oz",
+      "category": "DRINK",
+      "simplified_description": "5oz | 8oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine by the Bottle",
+      "price": null,
+      "description": "By the Bottle Only",
+      "category": "DRINK",
+      "simplified_description": "By the Bottle Only",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Sangria",
+      "price": null,
+      "description": "white wine, vodka, lemon juice, stonefruit syrup, white cranberry juice, fruit & topped w/ state slush. 3.5oz",
+      "category": "DRINK",
+      "simplified_description": "white wine, vodka, lemon juice, stonefruit syrup, white cranberry juice, fruit &",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Caesar",
+      "price": null,
+      "description": "vodka or gin served w/ caesar skewer. 2oz",
+      "category": "DRINK",
+      "simplified_description": "vodka or gin served w/ caesar skewer. 2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Churchill Radler Draft",
+      "price": null,
+      "description": "light, refreshing, grapefruit & orange juice. 16oz",
+      "category": "DRINK",
+      "simplified_description": "light, refreshing, grapefruit & orange juice. 16oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Wine",
+      "price": null,
+      "description": "5oz",
+      "category": "DRINK",
+      "simplified_description": "5oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "State Soda",
+      "price": null,
+      "description": "vodka, soda, state slush. 1oz",
+      "category": "DRINK",
+      "simplified_description": "vodka, soda, state slush. 1oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SM Draft",
+      "price": 7.0,
+      "description": "BLONDE LAGER  light bodied, golden crisp lager. 16oz",
+      "category": "DRINK",
+      "simplified_description": "BLONDE LAGER  light bodied, golden crisp lager. 16oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SM Draft",
+      "price": null,
+      "description": "BLONDE LAGER  light bodied, golden crisp lager. 21oz",
+      "category": "DRINK",
+      "simplified_description": "BLONDE LAGER  light bodied, golden crisp lager. 21oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stella Artois",
+      "price": null,
+      "description": "clean, crisp, premium european lager. 50cl",
+      "category": "DRINK",
+      "simplified_description": "clean, crisp, premium european lager. 50cl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "State Smash",
+      "price": 11.0,
+      "description": "absolut raspberri vodka, raspberries, mango, mint, simple syrup & soda. 1.5oz",
+      "category": "DRINK",
+      "simplified_description": "absolut raspberri vodka, raspberries, mango, mint, simple syrup & soda. 1.5oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink State Mint",
+      "price": 11.0,
+      "description": "gin, st. germain elderflower liqueur, dragon fruit, cucumber, lime, mint & soda. 1.5oz",
+      "category": "DRINK",
+      "simplified_description": "gin, st. germain elderflower liqueur, dragon fruit, cucumber, lime, mint & soda.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Old Fashioned",
+      "price": null,
+      "description": "maker’s mark, simple syrup, clingstone peach bitters, orange peel. 2oz",
+      "category": "DRINK",
+      "simplified_description": "maker’s mark, simple syrup, clingstone peach bitters, orange peel. 2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Taco",
+      "price": null,
+      "description": "battered white fish, avocado, crisp slaw, pico de gallo, garlic aioli.",
+      "category": "FOOD",
+      "simplified_description": "battered white fish, avocado, crisp slaw, pico de gallo, garlic aioli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Truffle Parm Fries",
+      "price": null,
+      "description": "truffle oil, shaved parmesan, garlic aioli.",
+      "category": "FOOD",
+      "simplified_description": "truffle oil, shaved parmesan, garlic aioli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soup Dumplings",
+      "price": null,
+      "description": "pork dumplings, chili oil, scallions, pickled carrot & crispy garlic.",
+      "category": "FOOD",
+      "simplified_description": "pork dumplings, chili oil, scallions, pickled carrot & crispy garlic.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baja Brussels Sprouts",
+      "price": 13.0,
+      "description": "red pepper, bacon, parmesan, cilantro, lime crema.",
+      "category": "FOOD",
+      "simplified_description": "red pepper, bacon, parmesan, cilantro, lime crema.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeno Mac & Cheese",
+      "price": null,
+      "description": "creamy cheese sauce, toasted parmesan panko w/ garlic bread.",
+      "category": "FOOD",
+      "simplified_description": "creamy cheese sauce, toasted parmesan panko w/ garlic bread.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pretzel Bites",
+      "price": 15.0,
+      "description": "garlic butter, sea salt w/ bacon beer cheese dip.",
+      "category": "FOOD",
+      "simplified_description": "garlic butter, sea salt w/ bacon beer cheese dip.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Coconut Calamari",
+      "price": null,
+      "description": "buttermilk marinated, coconut breaded calamari, crispy veg, fresh chiles, lime w/ chipotle sauce.",
+      "category": "FOOD",
+      "simplified_description": "buttermilk marinated, coconut breaded calamari, crispy veg, fresh chiles, lime w",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 20.0,
+      "description": "curried tomato cream sauce, cashew butter, spiced yogurt, cilantro & naan, over basmati rice.",
+      "category": "FOOD",
+      "simplified_description": "curried tomato cream sauce, cashew butter, spiced yogurt, cilantro & naan, over ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Poke Bowl",
+      "price": null,
+      "description": "sesame brown rice, cabbage, pickled cucumber, avocado, green onion, ahi tuna.",
+      "category": "FOOD",
+      "simplified_description": "sesame brown rice, cabbage, pickled cucumber, avocado, green onion, ahi tuna.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Truffle & Shrimp Rigatoni",
+      "price": 25.0,
+      "description": "crispy prosciutto, mushrooms, peas, parmesan w/ black truffle cream sauce.",
+      "category": "FOOD",
+      "simplified_description": "crispy prosciutto, mushrooms, peas, parmesan w/ black truffle cream sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

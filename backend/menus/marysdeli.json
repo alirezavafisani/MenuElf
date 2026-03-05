@@ -1,0 +1,457 @@
+{
+  "restaurant": "marysdeli",
+  "parsed_at": "2026-02-06T03:14:50.885390",
+  "item_count": 50,
+  "items": [
+    {
+      "name": "Club House Sandwich",
+      "price": 9.4,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Texas Club House Sandwich",
+      "price": 9.4,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "B.L.T.C",
+      "price": 9.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Reuben Sandwich",
+      "price": 9.25,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Cut Sub",
+      "price": 9.75,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad Sandwich",
+      "price": 8.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Salad Sandwich",
+      "price": 7.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Salad Sandwich",
+      "price": 8.25,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blackforest Ham & Cheese Sandwich",
+      "price": 8.25,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey & Cheese Sandwich",
+      "price": 8.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Beef & Cheese Sandwich",
+      "price": 8.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Sandwich",
+      "price": 7.25,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Soup",
+      "price": 3.99,
+      "description": "null",
+      "category": "SOUP",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Soup",
+      "price": 4.59,
+      "description": "null",
+      "category": "SOUP",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": 5.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Ham&Cheese",
+      "price": 7.25,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Dip & Fries",
+      "price": 11.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Burger & Fries",
+      "price": 11.45,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips & Fries",
+      "price": 10.45,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Fries",
+      "price": 4.25,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Fries w/ Gravy",
+      "price": 5.75,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sm Poutine",
+      "price": 6.5,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lg Poutine",
+      "price": 8.5,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sm Onion Rings",
+      "price": 5.49,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lg Onion RIngs",
+      "price": 6.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sm Garden Salad",
+      "price": 6.5,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lg Garden Salad",
+      "price": 8.55,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sm Caesar Salad",
+      "price": 6.5,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lg Caesar Salad",
+      "price": 7.99,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sm Greek Salad",
+      "price": 6.99,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lg Greek Salad",
+      "price": 8.55,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sm Chef Salad",
+      "price": 6.99,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lg Chef Salad",
+      "price": 8.55,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Swiss Cheese Basil Pesto w/ Fries & Soup",
+      "price": 11.99,
+      "description": "** Soups : Chicken Noodle & Corn Chowder **",
+      "category": "FOOD",
+      "simplified_description": "** Soups : Chicken Noodle & Corn Chowder **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bulgogi Quesadillas w/ Fries",
+      "price": 11.99,
+      "description": "** Soups : Chicken Noodle & Cheddar Broccoli **",
+      "category": "FOOD",
+      "simplified_description": "** Soups : Chicken Noodle & Cheddar Broccoli **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Chicken Burger w/ Fries & Gravy",
+      "price": 11.99,
+      "description": "** Soups : Chicken Noodle & Beef Barley **",
+      "category": "FOOD",
+      "simplified_description": "** Soups : Chicken Noodle & Beef Barley **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Sub w/ Fries",
+      "price": 11.99,
+      "description": "** Soups : Chicken Noodle & Cream of Mushroom **",
+      "category": "FOOD",
+      "simplified_description": "** Soups : Chicken Noodle & Cream of Mushroom **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Grilled Garlic Chicken Wrap w/ Fries & Gravy",
+      "price": 11.99,
+      "description": "** Soups : Chicken Noodle & Ham & Potato **",
+      "category": "FOOD",
+      "simplified_description": "** Soups : Chicken Noodle & Ham & Potato **",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Tray",
+      "price": 7.49,
+      "description": "a delicious assortment of Pastries, Muffins and Danishes",
+      "category": "OTHER",
+      "simplified_description": "a delicious assortment of Pastries, Muffins and Danishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Sandwich Tray",
+      "price": 7.99,
+      "description": "2 eggs, bacon or ham or sausage and cheddar cheese",
+      "category": "OTHER",
+      "simplified_description": "2 eggs, bacon or ham or sausage and cheddar cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Platter",
+      "price": 7.99,
+      "description": "sandwiches served on an assortment of Croissants, Wraps and variety of Kaise buns",
+      "category": "OTHER",
+      "simplified_description": "sandwiches served on an assortment of Croissants, Wraps and variety of Kaise bun",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie & Dip Platter",
+      "price": 5.99,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit & Dip Tray",
+      "price": 5.99,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Goodie Tray",
+      "price": 4.75,
+      "description": "a delightful assortment of deserts including nanaimo bars, brownies and fancy squares.",
+      "category": "OTHER",
+      "simplified_description": "a delightful assortment of deserts including nanaimo bars, brownies and fancy sq",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roast Beef Dinner",
+      "price": 18.95,
+      "description": "served with Mashed Potato & Gravy, Mixed Roasted Veggies and Dinner bun.",
+      "category": "OTHER",
+      "simplified_description": "served with Mashed Potato & Gravy, Mixed Roasted Veggies and Dinner bun.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Dinner",
+      "price": 16.95,
+      "description": "served with Mashed Potato & Gravy, Stuffing, Mixed Roasted Veggies and Dinner bun.",
+      "category": "OTHER",
+      "simplified_description": "served with Mashed Potato & Gravy, Stuffing, Mixed Roasted Veggies and Dinner bu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Fried Boneless Chicken",
+      "price": 10.49,
+      "description": "Crispy and Juicy Korean style fried chicken.",
+      "category": "OTHER",
+      "simplified_description": "Crispy and Juicy Korean style fried chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili w/ bun & Salad",
+      "price": 10.49,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Creamy Garlic Chicken",
+      "price": 13.99,
+      "description": "Juicy creamy garlic chicken made from chicken , served with bun and fresh salad.",
+      "category": "OTHER",
+      "simplified_description": "Juicy creamy garlic chicken made from chicken , served with bun and fresh salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Spicy Pork Rice Bowl & Spring Roll",
+      "price": 11.49,
+      "description": "Spicy marinated pork served over steamed rice with fresh vegetables and spring roll",
+      "category": "OTHER",
+      "simplified_description": "Spicy marinated pork served over steamed rice with fresh vegetables and spring r",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

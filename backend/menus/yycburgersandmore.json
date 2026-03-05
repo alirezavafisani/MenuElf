@@ -1,0 +1,214 @@
+{
+  "restaurant": "yycburgersandmore",
+  "parsed_at": "2026-02-06T04:55:41.434656",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "Classic Burger",
+      "price": 12.0,
+      "description": "6 oz patty topped with lettuce, slice tomato and red onion serve with toasted brioche bun",
+      "category": "FOOD",
+      "simplified_description": "6 oz patty topped with lettuce, slice tomato and red onion serve with toasted br",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 12.0,
+      "description": "Veggie patty topped with lettuce, slice tomato red onion and guacamole serve with toasted brioche bun",
+      "category": "FOOD",
+      "simplified_description": "Veggie patty topped with lettuce, slice tomato red onion and guacamole serve wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MushroomSwiss Burger",
+      "price": 16.0,
+      "description": "6 oz patty topped with salsa and guacamole serve with toasted brioche bun",
+      "category": "FOOD",
+      "simplified_description": "6 oz patty topped with salsa and guacamole serve with toasted brioche bun",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheddar Burger",
+      "price": 16.0,
+      "description": "6 oz patty topped with lettuce, slice tomato and red onion, 2 bacon strips and slice of cheddar serve with toasted brioche bun",
+      "category": "FOOD",
+      "simplified_description": "6 oz patty topped with lettuce, slice tomato and red onion, 2 bacon strips and s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Over the top Burger",
+      "price": 20.0,
+      "description": "Double 6 oz patties with lettuce, slice tomato, red onion, a fried pickle and cheese slice serve with toasted brioche bun",
+      "category": "FOOD",
+      "simplified_description": "Double 6 oz patties with lettuce, slice tomato, red onion, a fried pickle and ch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ pulled pork",
+      "price": 16.0,
+      "description": "Served with 4oz pulled pork,BBQ sauce and garnish with traditional coleslaw.",
+      "category": "FOOD",
+      "simplified_description": "Served with 4oz pulled pork,BBQ sauce and garnish with traditional coleslaw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy chicken",
+      "price": 14.0,
+      "description": "Served with lettuce,tomatos and house made sauce",
+      "category": "FOOD",
+      "simplified_description": "Served with lettuce,tomatos and house made sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet potato Fries",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Poutine",
+      "price": 10.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy chicken poutine",
+      "price": 14.0,
+      "description": "tossed with either hot or BBQ sauce",
+      "category": "SIDE",
+      "simplified_description": "tossed with either hot or BBQ sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic hot dog",
+      "price": 12.0,
+      "description": "Served with Fries",
+      "category": "SIDE",
+      "simplified_description": "Served with Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef burger",
+      "price": 12.0,
+      "description": "Served with Fries",
+      "category": "SIDE",
+      "simplified_description": "Served with Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "chicken tenders",
+      "price": 12.0,
+      "description": "Served with Fries and sauce",
+      "category": "SIDE",
+      "simplified_description": "Served with Fries and sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese slice",
+      "price": 2.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 2.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon",
+      "price": 3.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluton Free bun",
+      "price": 3.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Patty 6 oz",
+      "price": 4.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle of water",
+      "price": 2.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 2.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemonade",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

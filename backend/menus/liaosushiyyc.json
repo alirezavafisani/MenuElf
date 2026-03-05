@@ -1,0 +1,502 @@
+{
+  "restaurant": "liaosushiyyc",
+  "parsed_at": "2026-02-06T03:06:29.251223",
+  "item_count": 55,
+  "items": [
+    {
+      "name": "158. Spicy Roll Combo (24pcs)",
+      "price": 22.99,
+      "description": "Sesame Seeds, 8pcs Spicy Salmon Roll, 8pcs Spicy Tuna Roll, 8pcs Volcano Roll",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds, 8pcs Spicy Salmon Roll, 8pcs Spicy Tuna Roll, 8pcs Volcano Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "159. Vegetarian Combo (22pcs)",
+      "price": 19.99,
+      "description": "Sesame Seeds, 6pcs Avocado Roll, 6pcs Cucumber Roll, 8pcs Yam Tempura Roll, 2pcs Bean Cake",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds, 6pcs Avocado Roll, 6pcs Cucumber Roll, 8pcs Yam Tempura Roll, 2pcs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "160. Assorted Sashimi",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "161. Assorted Sushi Combo (16pcs)",
+      "price": 24.99,
+      "description": "Sesame Seeds, 8pcs Assorted Sushi, 8pcs California Roll",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds, 8pcs Assorted Sushi, 8pcs California Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "162. Sushi & Sashimi Combo (18pcs)",
+      "price": 26.99,
+      "description": "5pcs Assorted Sushi, 5pcs Assorted Sashimi, 8pcs California Roll",
+      "category": "OTHER",
+      "simplified_description": "5pcs Assorted Sushi, 5pcs Assorted Sashimi, 8pcs California Roll",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "163. Sushi & Sashimi Plater (50pcs)",
+      "price": 65.99,
+      "description": "8pcs Assorted Sashimi, 10pcs Assorted Sushi, 8pcs California Roll, 8pcs Dynamite Roll, 8pcs Volcano Roll, 8pcs Spicy Roll",
+      "category": "OTHER",
+      "simplified_description": "8pcs Assorted Sashimi, 10pcs Assorted Sushi, 8pcs California Roll, 8pcs Dynamite",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "164. Teriyaki Chicken Don",
+      "price": 18.99,
+      "description": "Sesame Seeds, Teriyaki Chicken, Egg, Rice and Ham",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds, Teriyaki Chicken, Egg, Rice and Ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "165. Teriyaki Salmon Don",
+      "price": 19.99,
+      "description": "Sesame Seeds, Teriyaki Salmon, Egg, Rice and Ham",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds, Teriyaki Salmon, Egg, Rice and Ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "166. Teriyaki Beef Don",
+      "price": 18.99,
+      "description": "Sesame Seeds, Teriyaki Beef, Egg, Rice and Ham",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds, Teriyaki Beef, Egg, Rice and Ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "167. Teriyaki Steak Don",
+      "price": 19.99,
+      "description": "Teriyaki Steak, Egg, Rice and Ham",
+      "category": "OTHER",
+      "simplified_description": "Teriyaki Steak, Egg, Rice and Ham",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "169. Udon",
+      "price": 16.99,
+      "description": "(Chicken / Beef / Seafood)",
+      "category": "OTHER",
+      "simplified_description": "(Chicken / Beef / Seafood)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "170. Fried Udon",
+      "price": 16.99,
+      "description": "(Chicken / Beef / Seafood)",
+      "category": "OTHER",
+      "simplified_description": "(Chicken / Beef / Seafood)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "171. Salmon or Tuna Don",
+      "price": 16.99,
+      "description": "Sesame Seeds",
+      "category": "OTHER",
+      "simplified_description": "Sesame Seeds",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "172. Signature Ramen",
+      "price": 17.99,
+      "description": "(Pork / Chicken / Seafood)",
+      "category": "OTHER",
+      "simplified_description": "(Pork / Chicken / Seafood)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "173. Black Garlic Ramen",
+      "price": 17.99,
+      "description": "(Pork / Chicken / Seafood)",
+      "category": "OTHER",
+      "simplified_description": "(Pork / Chicken / Seafood)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "174. Spicy Ramen",
+      "price": 17.99,
+      "description": "(Pork / Chicken / Seafood)",
+      "category": "OTHER",
+      "simplified_description": "(Pork / Chicken / Seafood)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Mayo",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad dressing",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unagi Sauce",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sauce",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Miso",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Chili",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tempura Sauce",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gyoza Sauce",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mayo",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guacamole",
+      "price": 0.75,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pops",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taro Bubble Tea can",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honeydew Bubble Tea can",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brown Sugar Bubble Tea can",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha Latte Bubble Tea can",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "bottle water",
+      "price": 1.5,
+      "description": "500ml",
+      "category": "DRINK",
+      "simplified_description": "500ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese Green Tea",
+      "price": 1.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jelly Fruit Tea",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese Plum Wine",
+      "price": null,
+      "description": "Plum Wine is one of the most popular Japanese liqueur. It is made of a base alcohol such as sake and Japanese plums and has a very nice sweet flavour",
+      "category": "DRINK",
+      "simplified_description": "Plum Wine is one of the most popular Japanese liqueur. It is made of a base alco",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sake",
+      "price": null,
+      "description": "Sake probably is the best known Japanese drink in the world. You can drink it cold or warm and there are hundreds of different brands from hundreds of breweries. Learn more about the qualification system to distinguish sake qualities and flavours.",
+      "category": "DRINK",
+      "simplified_description": "Sake probably is the best known Japanese drink in the world. You can drink it co",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Wine",
+      "price": 8.99,
+      "description": "5 oz.",
+      "category": "DRINK",
+      "simplified_description": "5 oz.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Wine",
+      "price": 8.99,
+      "description": "5 oz.",
+      "category": "DRINK",
+      "simplified_description": "5 oz.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Molson Canadian",
+      "price": 6.99,
+      "description": "5%, 341ml",
+      "category": "DRINK",
+      "simplified_description": "5%, 341ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": 6.99,
+      "description": "5%, 341ml",
+      "category": "DRINK",
+      "simplified_description": "5%, 341ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 6.99,
+      "description": "4%, 341ml",
+      "category": "DRINK",
+      "simplified_description": "4%, 341ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokanee",
+      "price": 6.99,
+      "description": "5%, 341ml",
+      "category": "DRINK",
+      "simplified_description": "5%, 341ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 6.99,
+      "description": "4.6%, 330ml",
+      "category": "DRINK",
+      "simplified_description": "4.6%, 330ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sapporo (Japanese beer)",
+      "price": 7.99,
+      "description": "5%, 355ml",
+      "category": "DRINK",
+      "simplified_description": "5%, 355ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kirin (Japanese beer)",
+      "price": 7.99,
+      "description": "5%, 355ml",
+      "category": "DRINK",
+      "simplified_description": "5%, 355ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Asahi (Japanese beer)",
+      "price": 7.99,
+      "description": "5%, 330ml",
+      "category": "DRINK",
+      "simplified_description": "5%, 330ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sapporo Draft",
+      "price": 6.99,
+      "description": "16 oz.",
+      "category": "DRINK",
+      "simplified_description": "16 oz.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 4.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Ice Cream",
+      "price": 4.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake",
+      "price": 5.99,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tray A (64pc)",
+      "price": 67.99,
+      "description": "Volcano roll 8 pc, Dynamite roll 8pc, California roll 8pc, Spicy tuna roll 8pc, Philadelphia roll 8pc, Spicy salmon roll 8pc, Rainbow roll 8pc, Salmon mango roll 8pc",
+      "category": "OTHER",
+      "simplified_description": "Volcano roll 8 pc, Dynamite roll 8pc, California roll 8pc, Spicy tuna roll 8pc, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tray B (58pc)",
+      "price": 75.99,
+      "description": "Assorted sushi 18pc, Salmon mango roll 8pc, Dynamite roll 8pc, Spicy roll 8pc, Volcano roll 8pc, California roll 8pc",
+      "category": "OTHER",
+      "simplified_description": "Assorted sushi 18pc, Salmon mango roll 8pc, Dynamite roll 8pc, Spicy roll 8pc, V",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tray C (58pc)",
+      "price": 75.99,
+      "description": "Assorted sushi: 10pc, Assorted sashimi: 8pc, Salmon mango roll: 8pc, Dynamite roll: 8pc, Spicy roll: 8pc, Volcano roll: 8pc, California roll: 8pc",
+      "category": "OTHER",
+      "simplified_description": "Assorted sushi: 10pc, Assorted sashimi: 8pc, Salmon mango roll: 8pc, Dynamite ro",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tray D (80pc)",
+      "price": 121.99,
+      "description": "Assorted sushi: 16pc, Assorted sashimi: 16pc, Salmon mango roll: 8pc, Rainbow roll: 8pc, Dynamite roll: 8pc, Spicy roll: 8pc, Volcano roll: 8pc, California roll: 8pc",
+      "category": "OTHER",
+      "simplified_description": "Assorted sushi: 16pc, Assorted sashimi: 16pc, Salmon mango roll: 8pc, Rainbow ro",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

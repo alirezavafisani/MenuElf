@@ -1,0 +1,87 @@
+{
+  "restaurant": "bori-korean",
+  "parsed_at": "2026-02-06T01:12:37.834446",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "Deep-Fried Chicken",
+      "price": 9.0,
+      "description": "Deep-Fried Chicken",
+      "category": "FOOD",
+      "simplified_description": "Crispy deep-fried chicken pieces.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bulgogi (450 g)",
+      "price": 25.0,
+      "description": "Beef Bulgogi (450 g)",
+      "category": "FOOD",
+      "simplified_description": "Marinated grilled beef slices.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jap Chae",
+      "price": 17.5,
+      "description": "Jap Chae",
+      "category": "FOOD",
+      "simplified_description": "Stir-fried glass noodles with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bibimbap",
+      "price": 17.0,
+      "description": "Beef Bibimbap",
+      "category": "FOOD",
+      "simplified_description": "Mixed rice with beef and vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Pancake",
+      "price": 18.0,
+      "description": "Seafood Pancake",
+      "category": "FOOD",
+      "simplified_description": "Savory pancake with mixed seafood.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "L.A. Galbi (4 Strips)",
+      "price": 28.0,
+      "description": "L.A. Galbi (4 Strips)",
+      "category": "FOOD",
+      "simplified_description": "Grilled marinated beef short ribs.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    }
+  ]
+}

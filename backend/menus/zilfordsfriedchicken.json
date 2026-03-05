@@ -1,0 +1,286 @@
+{
+  "restaurant": "zilfordsfriedchicken",
+  "parsed_at": "2026-02-06T04:56:41.864842",
+  "item_count": 31,
+  "items": [
+    {
+      "name": "Hot Chicken Sammie",
+      "price": 22.5,
+      "description": "Toasted potato roll, house slaw, creamy ranch & sweet pickles.",
+      "category": "FOOD",
+      "simplified_description": "Toasted potato roll, house slaw, creamy ranch & sweet pickles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nashville Hot Chicken",
+      "price": 22.5,
+      "description": "On white bread with house slaw & sweet pickles.",
+      "category": "FOOD",
+      "simplified_description": "On white bread with house slaw & sweet pickles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Imposter Hot Chicken Sammie (Plant-Based)",
+      "price": 23.5,
+      "description": "Plant-based chicken breaded in our famous Zilford’s breading. Your choice of sauce.",
+      "category": "FOOD",
+      "simplified_description": "Plant-based chicken breaded in our famous Zilford’s breading. Your choice of sau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chicken Sliders (3)",
+      "price": 18.5,
+      "description": "Mini potato rolls, house slaw, creamy ranch & sweet pickles. _No sides._",
+      "category": "FOOD",
+      "simplified_description": "Mini potato rolls, house slaw, creamy ranch & sweet pickles. _No sides._",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Chicken Tenders",
+      "price": 18.5,
+      "description": "Three juicy tenders with your choice of dipping sauce. Comes with fries.",
+      "category": "FOOD",
+      "simplified_description": "Three juicy tenders with your choice of dipping sauce. Comes with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ZFC Feast",
+      "price": 31.0,
+      "description": "Five juicy chicken thighs, house slaw & sweet pickles. Includes two dipping sauces.",
+      "category": "FOOD",
+      "simplified_description": "Five juicy chicken thighs, house slaw & sweet pickles. Includes two dipping sauc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flock of Chicken (Serves 2–4)",
+      "price": 45.5,
+      "description": "Ten juicy tenders, popcorn chicken, pickles & one side. Includes choice of dipping sauce.",
+      "category": "FOOD",
+      "simplified_description": "Ten juicy tenders, popcorn chicken, pickles & one side. Includes choice of dippi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Caesar Buffalo Wrap",
+      "price": 19.0,
+      "description": "Flour tortilla, crispy fried chicken, lettuce, tomato, choice of buffalo sauce or hot blue.",
+      "category": "FOOD",
+      "simplified_description": "Flour tortilla, crispy fried chicken, lettuce, tomato, choice of buffalo sauce o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Chicken Wrap",
+      "price": 19.0,
+      "description": "Crispy chicken, house slaw, Thai peanut dressing, peppers, shredded carrots & crispy noodles.",
+      "category": "FOOD",
+      "simplified_description": "Crispy chicken, house slaw, Thai peanut dressing, peppers, shredded carrots & cr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Wings (1 lb)",
+      "price": 19.0,
+      "description": "Salt & Pepper, Lemon Pepper, Hot Parm, Mild, Comin’ in Hot, Lava Juice, Honey Butter, Hot Honey Butter. Served with celery & carrots. Add ranch or Zilly +$2.",
+      "category": "FOOD",
+      "simplified_description": "Salt & Pepper, Lemon Pepper, Hot Parm, Mild, Comin’ in Hot, Lava Juice, Honey Bu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popcorn Chicken",
+      "price": 16.25,
+      "description": "Crunchy bite-sized chicken thigh pieces with a side of Zilly sauce.",
+      "category": "FOOD",
+      "simplified_description": "Crunchy bite-sized chicken thigh pieces with a side of Zilly sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corkscrew Mac & Cheese",
+      "price": 15.0,
+      "description": "House cheese sauce, corkscrew noods, parmesan & spicy Cheeto dust.",
+      "category": "FOOD",
+      "simplified_description": "House cheese sauce, corkscrew noods, parmesan & spicy Cheeto dust.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Parm Fries",
+      "price": 15.0,
+      "description": "Straight-cut fries topped with honey butter, truffle salt & parmesan.",
+      "category": "FOOD",
+      "simplified_description": "Straight-cut fries topped with honey butter, truffle salt & parmesan.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded ZHC Fries",
+      "price": 16.5,
+      "description": "Straight-cut fries topped with jalapeño, pico de gallo, scallions & cheese sauce.",
+      "category": "FOOD",
+      "simplified_description": "Straight-cut fries topped with jalapeño, pico de gallo, scallions & cheese sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Chicken Salad",
+      "price": 23.0,
+      "description": "Lettuce & cold linguini tossed in Thai peanut dressing, peppers, green onions, shredded carrots & diced crispy chicken.",
+      "category": "FOOD",
+      "simplified_description": "Lettuce & cold linguini tossed in Thai peanut dressing, peppers, green onions, s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Caesar Salad",
+      "price": 21.0,
+      "description": "Romaine, parmesan sprinkle, bacon bits & fried chicken skin croutons.",
+      "category": "FOOD",
+      "simplified_description": "Romaine, parmesan sprinkle, bacon bits & fried chicken skin croutons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop (Coke, Coke Zero, Ginger Ale, Sprite)",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arizona Iced Tea",
+      "price": 5.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cove Soda",
+      "price": 5.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zilly Sauce",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mild Child",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Comin’ in Hot",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lava Juice",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Blue",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cheese",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Peanut",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ranch",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Mustard",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plum",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ",
+      "price": 2.0,
+      "description": "",
+      "category": "DIPPING SAUCE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

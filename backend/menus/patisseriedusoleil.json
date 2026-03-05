@@ -1,0 +1,97 @@
+{
+  "restaurant": "patisseriedusoleil",
+  "parsed_at": "2026-02-06T03:39:14.969348",
+  "item_count": 10,
+  "items": [
+    {
+      "name": "wedding cake",
+      "price": 25.0,
+      "description": "Everything we do for a wedding cake is done in a 48 hour period prior to the wedding. Many other companies will make your cake up to a week before your wedding. If they are doing this you know they are not using high quality ingredients. We know fresh ingredients taste and look best. So we put the extra effort in to prepare cakes in a short period of time.",
+      "category": "OTHER",
+      "simplified_description": "Everything we do for a wedding cake is done in a 48 hour period prior to the wed",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "Today’s Cronut is Skor!!!!! Maybe it will help with the hockey game? 😆 #skor #score #mmmm #cronut #yyc #yyceats #calgary",
+      "category": "DESSERT",
+      "simplified_description": "Today’s Cronut is Skor!!!!! Maybe it will help with the hockey game? 😆 #skor #sc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "Piña Colada Cronut Today. Available at the BOW and WOODBINE #cronut #coconut #mmmmm #getinmymouth #omnomnom",
+      "category": "DESSERT",
+      "simplified_description": "Piña Colada Cronut Today. Available at the BOW and WOODBINE #cronut #coconut #mm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "Today’s Cronut Citrus elderflower with St.Germain liquor #cronut #yyc #calgary #citrus #elderflower",
+      "category": "DESSERT",
+      "simplified_description": "Today’s Cronut Citrus elderflower with St.Germain liquor #cronut #yyc #calgary #",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "Tomorrows Cronut #cronut #yyc #mmmmm #calgary #yyceats",
+      "category": "DESSERT",
+      "simplified_description": "Tomorrows Cronut #cronut #yyc #mmmmm #calgary #yyceats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "This Thursday #cronut #yyc #calgary #buzz",
+      "category": "DESSERT",
+      "simplified_description": "This Thursday #cronut #yyc #calgary #buzz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "#londonfog #cronut #yyc #mmm #getinmybelly #calgaryalberta",
+      "category": "DESSERT",
+      "simplified_description": "#londonfog #cronut #yyc #mmm #getinmybelly #calgaryalberta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "This Thursday #cronut #yyc #mmm",
+      "category": "DESSERT",
+      "simplified_description": "This Thursday #cronut #yyc #mmm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cronut",
+      "price": null,
+      "description": "This weeks Treat. #yyc #cronut #mmmmm",
+      "category": "DESSERT",
+      "simplified_description": "This weeks Treat. #yyc #cronut #mmmmm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Delivery charge",
+      "price": 20.0,
+      "description": "Delivery charge within city limits $20.00",
+      "category": "OTHER",
+      "simplified_description": "Delivery charge within city limits $20.00",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

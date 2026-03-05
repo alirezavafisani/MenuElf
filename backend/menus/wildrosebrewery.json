@@ -1,0 +1,70 @@
+{
+  "restaurant": "wildrosebrewery",
+  "parsed_at": "2026-02-06T04:48:06.047789",
+  "item_count": 7,
+  "items": [
+    {
+      "name": "Roasted Pork Bites",
+      "price": 10.0,
+      "description": "1 lb of oven baked pork ribs. Choose hot, teriyaki, or salt & pepper. Served with ranch dip, carrots and celery sticks.",
+      "category": "FOOD",
+      "simplified_description": "1 lb of oven baked pork ribs. Choose hot, teriyaki, or salt & pepper. Served wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni, pretzel & pickle",
+      "price": null,
+      "description": "Pepperoni stick, 2 oven baked salted pretzels and a pickle. Served with Alberta crude grainy dijon.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni stick, 2 oven baked salted pretzels and a pickle. Served with Alberta ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan pork tacos",
+      "price": null,
+      "description": "Braised pulled pork with bell peppers and red onions, tossed in Szechuan sauce. Served in flour tortillas. Topped with radish and green onions (2 per order).",
+      "category": "FOOD",
+      "simplified_description": "Braised pulled pork with bell peppers and red onions, tossed in Szechuan sauce. ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ed’s overstuffed baked potato",
+      "price": null,
+      "description": "Baked potato stuffed with beef queso, red onions, red peppers, and jalapeños. Topped with green onions.",
+      "category": "FOOD",
+      "simplified_description": "Baked potato stuffed with beef queso, red onions, red peppers, and jalapeños. To",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips & dips sampler",
+      "price": null,
+      "description": "Choice of 2 dips (buffalo chicken dip, spinach & artichoke dip, salsa, or jalapeño cheese sauce). Served with corn chips. Add extra dip +$2.",
+      "category": "FOOD",
+      "simplified_description": "Choice of 2 dips (buffalo chicken dip, spinach & artichoke dip, salsa, or jalape",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20 oz Pint Special",
+      "price": null,
+      "description": "Excludes seasonals & Brewer’s Tap",
+      "category": "DRINK",
+      "simplified_description": "Excludes seasonals & Brewer’s Tap",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Weekly Specials",
+      "price": null,
+      "description": "Monday & Tuesday $14.50 4-packs Taproom only* Friday & Saturday 20% off Wearable Merch Taproom and online* Wednesday $8.50 Crowlers Taproom only* Sunday $13 Growler Fills Taproom only* Thursday $6 Pints All Day Excludes seasonals & Brewer’s Tap. Dine-in only.",
+      "category": "DRINK",
+      "simplified_description": "Monday & Tuesday $14.50 4-packs Taproom only* Friday & Saturday 20% off Wearable",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

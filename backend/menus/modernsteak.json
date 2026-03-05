@@ -1,0 +1,79 @@
+{
+  "restaurant": "modernsteak",
+  "parsed_at": "2026-02-06T03:23:44.713196",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "25% OFF seafood towers, oysters, tartare & more",
+      "price": null,
+      "description": "RAW. RARE. INDULGENT. Only at **Modern Steak**.",
+      "category": "DRINK",
+      "simplified_description": "RAW. RARE. INDULGENT. Only at **Modern Steak**.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "$12 Buckle Vodka Martinis",
+      "price": 12.0,
+      "description": "🍸 $12 Buckle Vodka Martinis",
+      "category": "DRINK",
+      "simplified_description": "🍸 $12 Buckle Vodka Martinis",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "40oz ALBERTA BEEF TOMAHAWK",
+      "price": 149.0,
+      "description": "40oz ALBERTA BEEF TOMAHAWK Seasonal Risotto & Chef’s Vegetable | $149 Feeds Two!",
+      "category": "FOOD",
+      "simplified_description": "40oz ALBERTA BEEF TOMAHAWK Seasonal Risotto & Chef’s Vegetable | $149 Feeds Two!",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Steaks, 2 Sides & A Bottle Of Wine $108.00",
+      "price": 108.0,
+      "description": "2 Steaks, 2 Sides & A Bottle Of Wine $108.00",
+      "category": "FOOD",
+      "simplified_description": "2 Steaks, 2 Sides & A Bottle Of Wine $108.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "15% OFF Domestic & International Wagyu",
+      "price": null,
+      "description": "**15% OFF** Domestic & International Wagyu",
+      "category": "FOOD",
+      "simplified_description": "**15% OFF** Domestic & International Wagyu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "20% OFF Japanese A5 Wagyu",
+      "price": null,
+      "description": "**20% OFF** Japanese A5 Wagyu",
+      "category": "FOOD",
+      "simplified_description": "**20% OFF** Japanese A5 Wagyu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "25% OFF Certified Wagyu",
+      "price": null,
+      "description": "**25% OFF** Certified Wagyu",
+      "category": "FOOD",
+      "simplified_description": "**25% OFF** Certified Wagyu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4-course Wagyu menu",
+      "price": null,
+      "description": "Our **4-course Wagyu menu** , plus **classic or premium wine pairings** , available for a limited time.",
+      "category": "FOOD",
+      "simplified_description": "Our **4-course Wagyu menu** , plus **classic or premium wine pairings** , availa",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

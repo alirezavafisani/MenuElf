@@ -1,0 +1,438 @@
+{
+  "restaurant": "homeyfood",
+  "parsed_at": "2026-02-06T02:39:35.700198",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "Shrimp Rice Rolls (3)",
+      "price": 8.99,
+      "description": "(Chung Fun)",
+      "category": "OTHER",
+      "simplified_description": "Rice rolls filled with shrimp in a soft rice noodle wrap.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Puff (3)",
+      "price": 6.99,
+      "description": "##### Ingredients\nFlour, vegetable oil, soy curls, potatoes, mixed vegetable, onion, curry paste, cumin, and salt",
+      "category": "OTHER",
+      "simplified_description": "Pastry filled with curried soy curls, potatoes, and vegetables.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sticky rice wrap in Bamboo leaf (1)",
+      "price": 5.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Sticky rice wrapped in a bamboo leaf for a traditional flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut sticky rice (1)",
+      "price": 3.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Sweet sticky rice cooked with coconut milk.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Banana sticky rice (1)",
+      "price": 3.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Sticky rice served with banana for a sweet treat.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Rice Rolls (3)",
+      "price": 8.99,
+      "description": "(Chung Fun)",
+      "category": "OTHER",
+      "simplified_description": "Rice rolls filled with beef in a soft rice noodle wrap.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Rice Rolls (3)",
+      "price": 8.99,
+      "description": "(Chung Fun)",
+      "category": "OTHER",
+      "simplified_description": "Rice rolls filled with BBQ pork in a soft rice noodle wrap.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Rice Rolls (3)",
+      "price": 8.99,
+      "description": "(Chung Fun)",
+      "category": "OTHER",
+      "simplified_description": "Rice rolls filled with chicken in a soft rice noodle wrap.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pan fried Tofu skin wrap (3)",
+      "price": 7.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Tofu skin wraps pan-fried to a crispy texture.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Congee",
+      "price": 10.9,
+      "description": "##### Ingredients\nRice, beefy bites, mushroom seasoning, salt, soy floss, sesame oil and cilantro.",
+      "category": "OTHER",
+      "simplified_description": "Rice porridge with beef, mushrooms, and sesame oil.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood congee",
+      "price": 10.9,
+      "description": "##### Ingredients\nRice, vegan shrimp, nori seaweed, mushroom seasoning, salt, sesame oil and cilantro",
+      "category": "OTHER",
+      "simplified_description": "Rice porridge with vegan shrimp and seaweed flavor.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken congee",
+      "price": 10.9,
+      "description": "##### Ingredients\nRice, soy chunk, mushroom seasoning, salt, soy floss, sesame oil and cilantro",
+      "category": "OTHER",
+      "simplified_description": "Rice porridge with soy chunks and mushroom seasoning.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie and tofu congee",
+      "price": 10.9,
+      "description": "##### Ingredients\nRice, mix vegetable, tofu, mushroom seasoning, salt, soy floss, sesame oil and cilantro",
+      "category": "OTHER",
+      "simplified_description": "Rice porridge with mixed vegetables and tofu.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken wings (5)",
+      "price": 12.99,
+      "description": "##### Ingredients\nSoya Bean Protein, Wheat Starch, Isolated Soy Protein, Wheat Gluten, Vegetable Oil (Palm Oil), Soya Bean, Sugar, Salt, Vegetable Gum, Vegan Spices",
+      "category": "OTHER",
+      "simplified_description": "Vegan chicken wings made from soy protein and wheat gluten.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mee Sui (4)",
+      "price": 9.99,
+      "description": "##### Ingredients\n",
+      "category": "OTHER",
+      "simplified_description": "No description available for this noodle dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tender (6)",
+      "price": 12.99,
+      "description": "##### Ingredients\nPrawn wrap with tofu skin (4)",
+      "category": "OTHER",
+      "simplified_description": "Prawn wrapped in tofu skin, served in a set of four.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burito(1)",
+      "price": 10.5,
+      "description": "##### Ingredients\nBBQ soy curls, fresh vegetable, mushroom seasoning",
+      "category": "OTHER",
+      "simplified_description": "BBQ soy curls with fresh vegetables in a burrito.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Taquitos (3)",
+      "price": 10.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Three rolled and fried Mexican-style snacks.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Taco (3)",
+      "price": 10.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Three soft tacos with unspecified fillings.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Curry",
+      "price": 12.99,
+      "description": "##### Ingredients\nsoy textured protein chunk, tofu slices, with fresh vegetable cooked in special curry sauce with coconut milk, mushroom seasoning and salt.",
+      "category": "OTHER",
+      "simplified_description": "Soy protein and tofu cooked in coconut milk curry with vegetables.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Rice",
+      "price": 12.99,
+      "description": "##### Ingredients\ndeep fried cispy wings with sweet and sour sauce. seasoned rice with vegetable",
+      "category": "OTHER",
+      "simplified_description": "Deep-fried crispy wings with sweet and sour sauce and seasoned rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spare Rib rice",
+      "price": 12.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Rice served with spare ribs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kung Pao",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Beefy Bites (Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Sugars, Salt, Vegetarian Seasoning, Carrots, Broccoli, Water Chestnuts, Red Pepper, Green Beans, Baby Corn, Vegetable Oil (Soybean Oil), Cashews",
+      "category": "OTHER",
+      "simplified_description": "Vegan beef bites with vegetables, cashews, and jasmine rice.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Nasi Lemak (coconut rice)",
+      "price": 14.99,
+      "description": "##### Ingredients \nCoconut rice with satay skewers or fish cake served with cucumber, sambal and mushroom slices (anchovies)",
+      "category": "OTHER",
+      "simplified_description": "Coconut rice with satay or fish cake, cucumber, sambal, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet and sour",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Soy Protein, Vegetable Oil, Sugars , Salt, Vegetarian Seasoning, Green Pepper, Red Pepper, Pineapple, Cucumber",
+      "category": "OTHER",
+      "simplified_description": "Sweet and sour vegan soy protein with vegetables and jasmine rice.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black pepper steak rice",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Beefy Bites [Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Sugars , Salt, Vegetarian Seasoning, Green Pepper, Red Pepper, Pineapple, Cucumber, Vegetable Oil.",
+      "category": "OTHER",
+      "simplified_description": "Vegan beef bites with black pepper, vegetables, and jasmine rice.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried rice",
+      "price": 10.8,
+      "description": "##### Ingredients\nRice, wild rice, flavored soy roll, mushroom, mixed vegetable, just egg, mushroom seasoning, salt, soy sauce, oyster sauce cooked with sesame oil.",
+      "category": "OTHER",
+      "simplified_description": "Fried rice with soy roll, vegetables, egg, and mushroom seasoning.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Spicy Soup",
+      "price": 12.99,
+      "description": "##### Ingredients\nTofu strips, wood ear fungus, shitake mushroom, homemade chilli sauce, lemon juice with homemade noodles.",
+      "category": "OTHER",
+      "simplified_description": "Spicy tofu and mushroom soup with homemade noodles.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Wonton noodle soup",
+      "price": 12.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with wontons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef noodle soup",
+      "price": 12.99,
+      "description": "##### Ingredients\nHomemade noodle with Vegan Beefy Bites [Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Salt, Vegetarian Seasoning, with bok choi",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with vegan beef bites and bok choi.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken chunk noodle soup",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Beefy Bites [Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Sugars , Salt, Vegetarian Seasoning, Green Pepper, Red Pepper, Pineapple, Cucumber, Vegetable Oil.",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with vegan beefy bites, jasmine rice, and vegetables in broth.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soy curls noodle soup",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Beefy Bites [Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Sugars , Salt, Vegetarian Seasoning, Green Pepper, Red Pepper, Pineapple, Cucumber, Vegetable Oil.",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with vegan beefy bites, jasmine rice, and vegetables in broth.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood noodle soup",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Beefy Bites [Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Sugars , Salt, Vegetarian Seasoning, Green Pepper, Red Pepper, Pineapple, Cucumber, Vegetable Oil.",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with vegan beefy bites, jasmine rice, and vegetables in broth.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie noodle soup",
+      "price": 12.99,
+      "description": "##### Ingredients\nWater, Jasmine Rice, Vegan Beefy Bites [Isolated Soy Protein, Mushroom Stem, Gluten, Vegetable Oil (Palm Oil), Sugars , Salt, Vegetarian Seasoning, Green Pepper, Red Pepper, Pineapple, Cucumber, Vegetable Oil.",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with vegan beefy bites, jasmine rice, and vegetables in broth.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Laksa Noodle soup",
+      "price": 14.99,
+      "description": "##### Ingredients\nHomemade noodles or rice stick noodle with seafood or soy curls or beefy bites or chicken chunk with veggies cooked in special tangy sauce and coconut milk.",
+      "category": "OTHER",
+      "simplified_description": "Noodle soup with choice of protein, veggies, tangy sauce, and coconut milk.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegan Hot Pot",
+      "price": null,
+      "description": "**Friday, Saturday and Sunday** – 23.99 per person (regular soup base)\n  * Note : Single serving using cast iron pot only, additional of $2.00\n  * Flavored soup base, additional of $2.00 per pot",
+      "category": "OTHER",
+      "simplified_description": "Vegan hot pot served in cast iron pot with optional flavored soup base.",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": "Available Friday to Sunday; additional charges apply for cast iron pot and flavored soup base"
+    }
+  ]
+}

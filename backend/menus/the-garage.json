@@ -1,0 +1,187 @@
+{
+  "restaurant": "the-garage",
+  "parsed_at": "2026-02-06T04:27:54.400489",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "Chrysler Crispy Chicken Burger",
+      "price": 18.0,
+      "description": "$18 Chrysler Crispy Chicken Burger",
+      "category": "FOOD",
+      "simplified_description": "$18 Chrysler Crispy Chicken Burger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alberta Draft",
+      "price": 6.0,
+      "description": "$6 Alberta Draft (Excluding Cider)",
+      "category": "DRINK",
+      "simplified_description": "$6 Alberta Draft (Excluding Cider)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chevy chicken quesadilla",
+      "price": 16.0,
+      "description": "$16 Chevy chicken quesadilla",
+      "category": "FOOD",
+      "simplified_description": "$16 Chevy chicken quesadilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Elvis Salted Lime Lager",
+      "price": 6.0,
+      "description": "$6 Elvis Salted Lime Lager",
+      "category": "DRINK",
+      "simplified_description": "$6 Elvis Salted Lime Lager",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Well Tequila",
+      "price": 6.0,
+      "description": "$6 Well Tequila",
+      "category": "DRINK",
+      "simplified_description": "$6 Well Tequila",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Firebird Chicken Burger",
+      "price": 18.0,
+      "description": "$18 Firebird Chicken Burger",
+      "category": "FOOD",
+      "simplified_description": "$18 Firebird Chicken Burger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": null,
+      "description": "½ Price Wings from 2:00-close",
+      "category": "FOOD",
+      "simplified_description": "½ Price Wings from 2:00-close",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wildrose Raspberry",
+      "price": 6.0,
+      "description": "$6 Wildrose Raspberry",
+      "category": "DRINK",
+      "simplified_description": "$6 Wildrose Raspberry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Clubman",
+      "price": 15.0,
+      "description": "$15 The Clubman",
+      "category": "FOOD",
+      "simplified_description": "$15 The Clubman",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rotating tap",
+      "price": 6.0,
+      "description": "$6 Rotating tap (see server for details)",
+      "category": "DRINK",
+      "simplified_description": "$6 Rotating tap (see server for details)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cadillac Burger",
+      "price": 19.0,
+      "description": "$19 Cadillac Burger",
+      "category": "FOOD",
+      "simplified_description": "$19 Cadillac Burger",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6oz Red & White House wine",
+      "price": 6.0,
+      "description": "$6 6oz Red & White House wine",
+      "category": "DRINK",
+      "simplified_description": "$6 6oz Red & White House wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "9oz Red & White House Wine",
+      "price": 9.0,
+      "description": "$9 9oz Red & White House Wine",
+      "category": "DRINK",
+      "simplified_description": "$9 9oz Red & White House Wine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trans-Am Buffalo Chicken Wrap",
+      "price": 15.0,
+      "description": "$15 Trans-Am Buffalo Chicken Wrap",
+      "category": "FOOD",
+      "simplified_description": "$15 Trans-Am Buffalo Chicken Wrap",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Origin Draft",
+      "price": 6.0,
+      "description": "$6 Origin Draft",
+      "category": "DRINK",
+      "simplified_description": "$6 Origin Draft",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireball",
+      "price": 5.0,
+      "description": "$5 Fireball",
+      "category": "DRINK",
+      "simplified_description": "$5 Fireball",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Backfire BBQ Ribs",
+      "price": 19.0,
+      "description": "$19 Backfire BBQ Ribs",
+      "category": "FOOD",
+      "simplified_description": "$19 Backfire BBQ Ribs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic bottles",
+      "price": 5.0,
+      "description": "$5 Domestic bottles",
+      "category": "DRINK",
+      "simplified_description": "$5 Domestic bottles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Well-Highballs",
+      "price": 5.0,
+      "description": "$5 Well-Highballs",
+      "category": "DRINK",
+      "simplified_description": "$5 Well-Highballs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Redtruck",
+      "price": 6.0,
+      "description": "$6 Redtruck",
+      "category": "DRINK",
+      "simplified_description": "$6 Redtruck",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

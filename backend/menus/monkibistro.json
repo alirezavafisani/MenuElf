@@ -1,0 +1,411 @@
+{
+  "restaurant": "monkibistro",
+  "parsed_at": "2025-12-25T02:23:52.693138",
+  "item_count": 40,
+  "items": [
+    {
+      "name": "Bacon Bene",
+      "price": null,
+      "description": "Thick-cut bacon, basil pesto, grape tomato.\nGluten Free Available. Contains Pork.",
+      "simplified_description": "Bacon with pesto and tomatoes, gluten-free option available.",
+      "category": "Signature Benedicts",
+      "dietary_info": [
+        "gluten-free",
+        "contains pork"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Brisket",
+      "price": null,
+      "description": "Overnight braised Alberta Beef, roasted mushrooms, arugula, crispy onions.\nGluten Free Available.",
+      "simplified_description": "Braised beef with mushrooms and onions, gluten-free option available.",
+      "category": "Signature Benedicts",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Salmon Lox",
+      "price": null,
+      "description": "West coast smoked salmon, spinach, pickled red onion, crispy capers.\nGluten Free Available. Contains Fish.",
+      "simplified_description": "Smoked salmon with spinach and onions, gluten-free option available.",
+      "category": "Signature Benedicts",
+      "dietary_info": [
+        "gluten-free",
+        "contains fish"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Florentine",
+      "price": null,
+      "description": "Baby spinach & mushroom sauté.\nGluten Free Available.",
+      "simplified_description": "Spinach and mushrooms, gluten-free option available.",
+      "category": "Signature Benedicts",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta",
+      "price": null,
+      "description": "Balsamic marinated tomatoes, basil roasted red pepper, pickled red onion, goat cheese.\nGluten Free Available. Vegetarian.",
+      "simplified_description": "Tomatoes and peppers with goat cheese, gluten-free option available.",
+      "category": "Signature Benedicts",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Ham",
+      "price": null,
+      "description": "Smoked Alberta ham served on English muffin.\nGluten Free Available. Contains Pork.",
+      "simplified_description": "Ham on an English muffin, gluten-free option available.",
+      "category": "Signature Benedicts",
+      "dietary_info": [
+        "gluten-free",
+        "contains pork"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Full Monki",
+      "price": null,
+      "description": "Three farm fresh eggs, thick-cut bacon, Spolumbo’s breakfast sausage, Monki hashbrowns, fresh tomato, avocado & choice of sourdough or seven-grain toast.\nGluten Free Available.",
+      "simplified_description": "Eggs with bacon, sausage, hashbrowns, and toast, gluten-free option available.",
+      "category": "Morning Classics",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Half Monki",
+      "price": null,
+      "description": "Two farm fresh eggs, Monki hashbrowns, choice of thick-cut bacon or Spolumbo’s breakfast sausage, choice of sourdough or seven-grain artisan toast.\nGluten Free Available.",
+      "simplified_description": "Two eggs with hashbrowns and choice of bacon or sausage, gluten-free option available.",
+      "category": "Morning Classics",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Farmer’s French Toast",
+      "price": null,
+      "description": "Brioche stuffed with cheesy scrambled egg, chopped bacon, served with syrup.",
+      "simplified_description": "French toast with scrambled eggs and bacon.",
+      "category": "Morning Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Perogies & Kielbasa",
+      "price": null,
+      "description": "Butter sautéed cheese and potato perogies with sliced kielbasa sausage, red cabbage sauerkraut, spinach, sweet and green onions, sour cream.",
+      "simplified_description": "Cheese and potato dumplings with sausage and vegetables.",
+      "category": "Bowls & Global Eats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean BBQ Bowl",
+      "price": null,
+      "description": "Korean BBQ beef, kimchi, pickled cabbage, Monki hashbrowns, spinach, Gochujang Aioli, sesame seeds, fried farm egg.",
+      "simplified_description": "Korean beef with vegetables and hashbrowns.",
+      "category": "Bowls & Global Eats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Vegetable Shakshuka",
+      "price": null,
+      "description": "Sweet peppers, onions, squash, eggplant, yams, spinach in a Mediterranean spiced tomato sauce, poached eggs, crispy chickpeas, crumbled goat cheese.",
+      "simplified_description": "Vegetables in a spiced tomato sauce with poached eggs.",
+      "category": "Bowls & Global Eats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Brisket Hash",
+      "price": null,
+      "description": "Overnight braised Alberta Beef, roasted mushrooms, Monki hashbrowns, roasted red peppers, jalapeno crisps, two sunnyside farm fresh eggs and Monki spiced hollandaise.\nGluten Free Available. Contains Pork.",
+      "simplified_description": "Beef hash with eggs and hollandaise, gluten-free option available.",
+      "category": "Hash & Skillets",
+      "dietary_info": [
+        "gluten-free",
+        "contains pork"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monki Perogies",
+      "price": null,
+      "description": "Butter sautéed cheese and potato perogies with bacon, garlic, onions, mushrooms, sour cream, chipotle aioli.\nContains Pork.",
+      "simplified_description": "Dumplings with bacon and vegetables.",
+      "category": "Hash & Skillets",
+      "dietary_info": [
+        "contains pork"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Brisket Poutine",
+      "price": null,
+      "description": "Overnight braised Alberta Beef Brisket, Quebec cheese curds, onions, grape tomatoes, scallions, birria sauce served on tater tots.\nGluten Free Available.",
+      "simplified_description": "Beef poutine with cheese curds and sauce, gluten-free option available.",
+      "category": "Hash & Skillets",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Scrambler Hash",
+      "price": null,
+      "description": "Alberta ham, thick-cut bacon, Spolumbo’s sausage, Monki hashbrowns tossed with roasted peppers, scallions, scrambled eggs, signature cheeses.\nGluten Free Available.",
+      "simplified_description": "Hash with ham, bacon, sausage, and eggs, gluten-free option available.",
+      "category": "Hash & Skillets",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monki Avocado Toast",
+      "price": null,
+      "description": "Fresh avocado smash, pickled beet hummus, tomato, goat’s cheese, scallions, seven-grain artisan toast, Monki hashbrowns.\nGluten Free Available. Contains Pork.",
+      "simplified_description": "Avocado toast with beet hummus and goat cheese, gluten-free option available.",
+      "category": "Avocado Toasts & More",
+      "dietary_info": [
+        "gluten-free",
+        "contains pork"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Waffocado Toast",
+      "price": null,
+      "description": "Buttered golden waffles, fresh avocado smash, arugula, tomato, poached farm eggs, scallions, balsamic glaze, Monki hashbrowns.\nGluten Free Available. Vegetarian.",
+      "simplified_description": "Waffles with avocado and eggs, gluten-free option available.",
+      "category": "Avocado Toasts & More",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado Lox",
+      "price": null,
+      "description": "West coast smoked salmon, pickled beet hummus, tomato, goat’s cheese, chives, seven-grain artisan toast, Monki hashbrowns.\nGluten Free Available. Contains Fish.",
+      "simplified_description": "Smoked salmon on avocado toast, gluten-free option available.",
+      "category": "Avocado Toasts & More",
+      "dietary_info": [
+        "gluten-free",
+        "contains fish"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monki Birria Beef Brisket Melt",
+      "price": null,
+      "description": "Overnight braised Alberta Beef, caramelized onion, signature cheese, served on choice of grilled sourdough or seven grain artisan bread.",
+      "simplified_description": "Beef melt with cheese and onions on bread.",
+      "category": "Avocado Toasts & More",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cremini Mushroom, Brioche & Egg",
+      "price": null,
+      "description": "Buttery thick-cut brioche, sautéed cremini mushrooms, velvety dijon cream over wilted spinach, poached local farm egg, crispy onion, fresh scallions.\nGluten Free Available. Vegetarian.",
+      "simplified_description": "Brioche with mushrooms and egg, gluten-free option available.",
+      "category": "Avocado Toasts & More",
+      "dietary_info": [
+        "gluten-free",
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monki Dubai Chocolate French Toast",
+      "price": null,
+      "description": "Brioche stuffed with rich pistachio cream, Phyllo pastry crisps, topped with dark chocolate fudge sauce, whipped cream, chocolate curls and pistachio.",
+      "simplified_description": "French toast with pistachio cream and chocolate.",
+      "category": "Sweet Indulgences",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Reverse French Toast",
+      "price": null,
+      "description": "Caramelized banana cream cheese & strawberry compote stuffed French Toast topped with Cream Anglaise & Hazelnut chocolate sauce.",
+      "simplified_description": "French toast with banana and strawberry filling.",
+      "category": "Sweet Indulgences",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Caramel Bacon Pancake Stack",
+      "price": null,
+      "description": "Buttermilk pancakes, bacon, house made salted caramel.",
+      "simplified_description": "Pancakes with bacon and caramel.",
+      "category": "Sweet Indulgences",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lil’ Monki",
+      "price": null,
+      "description": "Scrambled egg, bacon, hashbrowns, fruit, toast.\nGluten Free Available. Contains Pork.",
+      "simplified_description": "Kids meal with eggs, bacon, and toast, gluten-free option available.",
+      "category": "Kids Menu",
+      "dietary_info": [
+        "gluten-free",
+        "contains pork"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Le Petit French Toast",
+      "price": null,
+      "description": "French toast with banana, hazelnut chocolate sauce.",
+      "simplified_description": "French toast with banana and chocolate sauce.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lil’ Pancakes Party",
+      "price": null,
+      "description": "Mini pancake stack, choice of fresh fruit or mixed berry compote, whipped cream & syrup.",
+      "simplified_description": "Mini pancakes with fruit or berry compote.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Tenders",
+      "price": null,
+      "description": "Served with tater tots and ketchup.",
+      "simplified_description": "Chicken tenders with tater tots.",
+      "category": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee and Hot Drinks",
+      "price": null,
+      "description": "Choose from Bottomless Drip Coffee, Cappuccino, Lattes and more.",
+      "simplified_description": "Various coffee drinks available.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": null,
+      "description": "Tea Time! Choose from our selection of organic teas: English Breakfast, Earl Grey, Peppermint, Chamomile, or Genmaicha.",
+      "simplified_description": "Selection of organic teas.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Showstopper Mimosas",
+      "price": null,
+      "description": "Classic Mimosa - $[Price not listed]\nThe Classic Brunch Cocktail, choose from Orange, Grapefruit, Pineapple or Lemonade Flavours! (Ask about any special features we may have).",
+      "simplified_description": "Mimosas with various flavors.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bad A Caesar",
+      "price": null,
+      "description": "Choose between vodka, gin, or tequila and enjoy!",
+      "simplified_description": "Caesar cocktail with choice of spirit.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monki Pick me Up",
+      "price": null,
+      "description": "Double Brewed Iced Coffee, with Kahula & Baileys, topped with whipped cream and a caramel drizzle! 1oz of alcohol. 18+.",
+      "simplified_description": "Iced coffee with alcohol and toppings.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "Contains alcohol, 18+ only."
+    },
+    {
+      "name": "Banana Coffee",
+      "price": null,
+      "description": "Double Brewed Iced Coffee, with Baileys, milk and banana syrup shaken and poured over ice! 1oz of alcohol. 18+.",
+      "simplified_description": "Iced coffee with banana and alcohol.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": "Contains alcohol, 18+ only."
+    },
+    {
+      "name": "Juice",
+      "price": null,
+      "description": "Selection of Orange, Grapefruit, Pineapple and Lemonade.",
+      "simplified_description": "Various juice options.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Sodas",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Sodas",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Water",
+      "price": null,
+      "description": "Select from Sparkling Water and more.",
+      "simplified_description": "Sparkling water options.",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MONKI Hollandaise (6oz)",
+      "price": null,
+      "description": "A mason jar with 6oz of our MONKI's famous Prosecco Hollandaise!",
+      "simplified_description": "Jar of hollandaise sauce.",
+      "category": "Hot Sauce & Merch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gift Card",
+      "price": null,
+      "description": "Stylish Gift Cards that can put a smile on anyone. Starting from $25.",
+      "simplified_description": "Gift cards available starting at $25.",
+      "category": "Hot Sauce & Merch",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "restaurant": "thecountrypizza",
+  "parsed_at": "2026-02-06T04:29:56.687148",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "BROASTER FRIED CHICKEN COMBO",
+      "price": null,
+      "description": "3PC, 4PC, 5PC COMBO \n_*_ Fries, Gravy & 1 can of pop",
+      "category": "OTHER",
+      "simplified_description": "3PC, 4PC, 5PC COMBO \n_*_ Fries, Gravy & 1 can of pop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EVERYDAY SPECIAL",
+      "price": 28.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDDY SPECIAL",
+      "price": 31.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hand in Hand Pizza & Chicken",
+      "price": 32.99,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FAMILY DINNER",
+      "price": 43.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings Hot, Suicide Hot, Honey Garlic, Teriyaki, Sweet & Sour, BBQ, Honey Hot, Salt & Pepper, Lemon & Pepper, BBQ Bold ",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips Only",
+      "price": null,
+      "description": "Chicken Strips Only Chicken Strips",
+      "category": "FOOD",
+      "simplified_description": "Chicken Strips Only Chicken Strips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tender Bite Hot, Suicide Hot, Honey Garlic, Teriyaki, Sweet Chili, BBQ, Honey Hot, Salt & Pepper, Lemon & Pepper, BBQ Bold ",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two For One Deal - Small",
+      "price": 29.95,
+      "description": "Choose any two speciality Pizzas from list",
+      "category": "OTHER",
+      "simplified_description": "Choose any two speciality Pizzas from list",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two For One Deal - Medium",
+      "price": 35.95,
+      "description": "Choose any two speciality Pizzas from list",
+      "category": "OTHER",
+      "simplified_description": "Choose any two speciality Pizzas from list",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two For One Deal - Large",
+      "price": 41.95,
+      "description": "Choose any two speciality Pizzas from list",
+      "category": "OTHER",
+      "simplified_description": "Choose any two speciality Pizzas from list",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two For One Deal - XLarge",
+      "price": 47.95,
+      "description": "Choose any two speciality Pizzas from list",
+      "category": "OTHER",
+      "simplified_description": "Choose any two speciality Pizzas from list",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich Only",
+      "price": null,
+      "description": "Only Sandwich \nJuicy and crispy seasoned chicken breast, topped with fresh ice berg lettuce, thick layer of mayo, served on a sesame bun",
+      "category": "FOOD",
+      "simplified_description": "Only Sandwich \nJuicy and crispy seasoned chicken breast, topped with fresh ice b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich Combo",
+      "price": null,
+      "description": "Includes Fries & Pop Juicy and crispy seasoned chicken breast, topped with fresh ice berg lettuce, thick layer of mayo, served on a sesame bun",
+      "category": "FOOD",
+      "simplified_description": "Includes Fries & Pop Juicy and crispy seasoned chicken breast, topped with fresh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broaster Chicken Only",
+      "price": null,
+      "description": "Only Chicken",
+      "category": "FOOD",
+      "simplified_description": "Only Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broaster Chicken Family Meal",
+      "price": null,
+      "description": "Includes Fries and Gravy/Coleslaw.",
+      "category": "FOOD",
+      "simplified_description": "Includes Fries and Gravy/Coleslaw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Broaster Chicken Combo",
+      "price": null,
+      "description": "Includes Fries, Gravy and 1 can of pop.",
+      "category": "FOOD",
+      "simplified_description": "Includes Fries, Gravy and 1 can of pop.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NEW MANAGEMENT DEAL",
+      "price": null,
+      "description": "CHICKEN PIECE (Leg/Thigh)",
+      "category": "OTHER",
+      "simplified_description": "CHICKEN PIECE (Leg/Thigh)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUY ONE GET ONE FREE.",
+      "price": null,
+      "description": "BUY ONE GET ONE FREE",
+      "category": "OTHER",
+      "simplified_description": "BUY ONE GET ONE FREE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Twin Pack Special Pizza",
+      "price": null,
+      "description": "3 Toppings Pizzas",
+      "category": "OTHER",
+      "simplified_description": "3 Toppings Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Special Pizzas",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hand in Hand Pizza & Chicken",
+      "price": null,
+      "description": "1 Medium Specialty Pizza \n3 Pcs Broaster Chicken (Mild/Spicy) \n1 Regular Fries \n1 Small Gravy \n2 Cans of Pop",
+      "category": "OTHER",
+      "simplified_description": "1 Medium Specialty Pizza \n3 Pcs Broaster Chicken (Mild/Spicy) \n1 Regular Fries \n",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SUPPER DINNER",
+      "price": null,
+      "description": "1 Medium (12\") 2-Topping Pizza \nGarlic Cheesy Bread \n12 Boneless Bites \n2 Cans Of Pop",
+      "category": "OTHER",
+      "simplified_description": "1 Medium (12\") 2-Topping Pizza \nGarlic Cheesy Bread \n12 Boneless Bites \n2 Cans O",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": null,
+      "description": "Romaine lettuce, Croutons, Feta cheese with garlic Caesar dressing",
+      "category": "OTHER",
+      "simplified_description": "Romaine lettuce, Croutons, Feta cheese with garlic Caesar dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": null,
+      "description": "Romaine Lettuce, Red Onion, Tomatoes, Black olives, Feta cheese served with Greek dressing",
+      "category": "OTHER",
+      "simplified_description": "Romaine Lettuce, Red Onion, Tomatoes, Black olives, Feta cheese served with Gree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": null,
+      "description": "Hot, Suicide Hot, Honey Garlic, Teriyaki, Sweet & Sour, BBQ, Honey Hot, Salt & Pepper, Lemon & Pepper, BBQ Bold ",
+      "category": "FOOD",
+      "simplified_description": "Hot, Suicide Hot, Honey Garlic, Teriyaki, Sweet & Sour, BBQ, Honey Hot, Salt & P",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Cheesy Sticks",
+      "price": null,
+      "description": "12 Pieces   \nServe With Maninara Sauce",
+      "category": "FOOD",
+      "simplified_description": "12 Pieces   \nServe With Maninara Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Pizza",
+      "price": null,
+      "description": "100% Gluten Free Crust   \nOnly Medium  \nYou can choose 4 free topping of your choice.",
+      "category": "OTHER",
+      "simplified_description": "100% Gluten Free Crust   \nOnly Medium  \nYou can choose 4 free topping of your ch",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

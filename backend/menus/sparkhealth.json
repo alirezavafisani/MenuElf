@@ -1,0 +1,124 @@
+{
+  "restaurant": "sparkhealth",
+  "parsed_at": "2026-02-06T04:11:15.016948",
+  "item_count": 13,
+  "items": [
+    {
+      "name": "THE BEACH BABE",
+      "price": 14.0,
+      "description": "Regular price $14",
+      "category": "DRINK",
+      "simplified_description": "Regular price $14",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE BUSY BODY",
+      "price": 14.0,
+      "description": "Regular price $14",
+      "category": "DRINK",
+      "simplified_description": "Regular price $14",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE GOOD GUY",
+      "price": 14.0,
+      "description": "Regular price $14",
+      "category": "DRINK",
+      "simplified_description": "Regular price $14",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE HEALTH NUT",
+      "price": 14.0,
+      "description": "Regular price $14",
+      "category": "DRINK",
+      "simplified_description": "Regular price $14",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLAY TIME",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DANDY-LION",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LOVENDER",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ORANGE YOU GLAD",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PAPAYA PARTY",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SUB-LIME ROSEMARY",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "XOXO",
+      "price": 12.0,
+      "description": "Regular price $12",
+      "category": "DRINK",
+      "simplified_description": "Regular price $12",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RESOLUTION CLEANSE",
+      "price": 80.0,
+      "description": "From $80",
+      "category": "DRINK",
+      "simplified_description": "From $80",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPARK CLEANSE",
+      "price": 80.0,
+      "description": "From $80",
+      "category": "DRINK",
+      "simplified_description": "From $80",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

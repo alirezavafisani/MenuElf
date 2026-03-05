@@ -1,0 +1,745 @@
+{
+  "restaurant": "wasimpizza",
+  "parsed_at": "2026-02-06T04:46:55.806595",
+  "item_count": 82,
+  "items": [
+    {
+      "name": "3 Pizzas Special",
+      "price": 43.99,
+      "description": "Medium $43.99 | Large $48.99 | Extra Large $56.99",
+      "category": "FOOD",
+      "simplified_description": "Medium $43.99 | Large $48.99 | Extra Large $56.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4 Pizzas Special",
+      "price": 55.99,
+      "description": "Medium $55.99 | Large $63.99 | Extra Large $75.99",
+      "category": "FOOD",
+      "simplified_description": "Medium $55.99 | Large $63.99 | Extra Large $75.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "5 Pizzas Special",
+      "price": 69.99,
+      "description": "Medium $69.99 | Large $79.99 | Extra Large $94.99",
+      "category": "FOOD",
+      "simplified_description": "Medium $69.99 | Large $79.99 | Extra Large $94.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pizzas Special",
+      "price": 83.99,
+      "description": "Medium $83.99 | Large $95.99 | Extra Large $113.99",
+      "category": "FOOD",
+      "simplified_description": "Medium $83.99 | Large $95.99 | Extra Large $113.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "7 Pizzas Special",
+      "price": 97.99,
+      "description": "Medium $97.99 | Large $111.99 | Extra Large $132.99",
+      "category": "FOOD",
+      "simplified_description": "Medium $97.99 | Large $111.99 | Extra Large $132.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8 Pizzas Special",
+      "price": 111.99,
+      "description": "Medium $111.99 | Large $127.99 | Extra Large $151.99",
+      "category": "FOOD",
+      "simplified_description": "Medium $111.99 | Large $127.99 | Extra Large $151.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheese Burger Pizza",
+      "price": null,
+      "description": "Meat Sauce, Bacon, Red Onion, Tomato & Cheddar.",
+      "category": "FOOD",
+      "simplified_description": "Meat Sauce, Bacon, Red Onion, Tomato & Cheddar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": null,
+      "description": "BBQ Sauce, BBQ Chicken, Red Onion, Green Peppers & Mushrooms.",
+      "category": "FOOD",
+      "simplified_description": "BBQ Sauce, BBQ Chicken, Red Onion, Green Peppers & Mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Steak Pizza",
+      "price": null,
+      "description": "BBQ Sauce, Steak, Red Onion, Mushrooms, Green Peppers & Cheddar Cheese.",
+      "category": "FOOD",
+      "simplified_description": "BBQ Sauce, Steak, Red Onion, Mushrooms, Green Peppers & Cheddar Cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Hawaiian",
+      "price": null,
+      "description": "BBQ Sauce, Ham, Bacon & Pineapple.",
+      "category": "FOOD",
+      "simplified_description": "BBQ Sauce, Ham, Bacon & Pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Lovers Pizza",
+      "price": null,
+      "description": "Beef Pepperoni, Beef Salami & Beef Donair.",
+      "category": "FOOD",
+      "simplified_description": "Beef Pepperoni, Beef Salami & Beef Donair.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Pizza",
+      "price": null,
+      "description": "Ranch Sauce, Green Peppers, Mushrooms, Red Onion & Spicy Buffalo Chicken.",
+      "category": "FOOD",
+      "simplified_description": "Ranch Sauce, Green Peppers, Mushrooms, Red Onion & Spicy Buffalo Chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Pizza",
+      "price": null,
+      "description": "Pepperoni, Mushrooms & Bacon.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Mushrooms & Bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Burger Pizza",
+      "price": null,
+      "description": "Meat Sauce, Tomato, Red Onion, Mushrooms & Cheddar Cheese.",
+      "category": "FOOD",
+      "simplified_description": "Meat Sauce, Tomato, Red Onion, Mushrooms & Cheddar Cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lover",
+      "price": null,
+      "description": "Chicken, Mushroom, Onion, Green Peppers & Black Olives.",
+      "category": "FOOD",
+      "simplified_description": "Chicken, Mushroom, Onion, Green Peppers & Black Olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe",
+      "price": null,
+      "description": "Pepperoni, Mushroom, Bacon, Green Peppers & Onion.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Mushroom, Bacon, Green Peppers & Onion.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Desi Chicken Pizza",
+      "price": null,
+      "description": "Chicken Spicy Pizza, Onion, Green Peppers, Mushroom, Garlic, Tomato & Ginger.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Spicy Pizza, Onion, Green Peppers, Mushroom, Garlic, Tomato & Ginger.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Desi Vegetable Pizza",
+      "price": null,
+      "description": "Spicy Pizza Sauce, Onion, Green Pepper, Mushroom, Garlic, Tomato & Ginger.",
+      "category": "FOOD",
+      "simplified_description": "Spicy Pizza Sauce, Onion, Green Pepper, Mushroom, Garlic, Tomato & Ginger.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Pizza",
+      "price": null,
+      "description": "Donair Meat, Sweet Sauce, Extra Cheese. (Extra Meat Small $2.49, Med $3.49, Large $4.49 & X-Large $5.59)",
+      "category": "FOOD",
+      "simplified_description": "Donair Meat, Sweet Sauce, Extra Cheese. (Extra Meat Small $2.49, Med $3.49, Larg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Veggie",
+      "price": null,
+      "description": "Tomato, Mushroom, Onion, Green Pepper, Black Olives & Spinach.",
+      "category": "FOOD",
+      "simplified_description": "Tomato, Mushroom, Onion, Green Pepper, Black Olives & Spinach.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gourmet Hawaiian",
+      "price": null,
+      "description": "Double Ham & Double Pineapple.",
+      "category": "FOOD",
+      "simplified_description": "Double Ham & Double Pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek",
+      "price": null,
+      "description": "Black Olives, Feta Cheese, Onions Tomato & Spinach.",
+      "category": "FOOD",
+      "simplified_description": "Black Olives, Feta Cheese, Onions Tomato & Spinach.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham Lover Pizza",
+      "price": null,
+      "description": "Double Ham & Extra Cheese.",
+      "category": "FOOD",
+      "simplified_description": "Double Ham & Extra Cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian Deluxe",
+      "price": null,
+      "description": "Ham, Pineapple & Bacon.",
+      "category": "FOOD",
+      "simplified_description": "Ham, Pineapple & Bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Special",
+      "price": null,
+      "description": "Pepperoni, Ham, Bacon, Onion, Green Pepper & Mushroom.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Ham, Bacon, Onion, Green Pepper & Mushroom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Lover(Classic)",
+      "price": null,
+      "description": "Pepperoni, Ham, Bacon & Italian Sausage.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Ham, Bacon & Italian Sausage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meet Lover Extreme",
+      "price": null,
+      "description": "Pepperoni, Salami, Ham, Bacon, Italian Sausage & Ground Beef.",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, Salami, Ham, Bacon, Italian Sausage & Ground Beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean",
+      "price": null,
+      "description": "Red Onion, Feta Cheese, Fresh Garlic, Tomato & Black Olives.",
+      "category": "FOOD",
+      "simplified_description": "Red Onion, Feta Cheese, Fresh Garlic, Tomato & Black Olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican",
+      "price": null,
+      "description": "Ground Beef, Onion, Tomato & Jalapeno Peppers.",
+      "category": "FOOD",
+      "simplified_description": "Ground Beef, Onion, Tomato & Jalapeno Peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mom's Favorite",
+      "price": null,
+      "description": "Seasoned Chicken, Spinach, Feta Cheese, Black Olives & Red Onion.",
+      "category": "FOOD",
+      "simplified_description": "Seasoned Chicken, Spinach, Feta Cheese, Black Olives & Red Onion.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Lovers",
+      "price": null,
+      "description": "Double Pepperoni & Extra Cheese.",
+      "category": "FOOD",
+      "simplified_description": "Double Pepperoni & Extra Cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ranch Pizza",
+      "price": null,
+      "description": "Ranch Sauce, BBQ Chicken, Green Pepper & Bacon.",
+      "category": "FOOD",
+      "simplified_description": "Ranch Sauce, BBQ Chicken, Green Pepper & Bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Vegetarian Pizza",
+      "price": null,
+      "description": "Spicy Pizza Sauce, Tomato, Onion, Mushroom & Green Pepper.",
+      "category": "FOOD",
+      "simplified_description": "Spicy Pizza Sauce, Tomato, Onion, Mushroom & Green Pepper.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Lover Pizza",
+      "price": null,
+      "description": "Steak, Green Pepper, Red Onion & Mushroom.",
+      "category": "FOOD",
+      "simplified_description": "Steak, Green Pepper, Red Onion & Mushroom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak & Mushroom Pizza",
+      "price": null,
+      "description": "Steak, Mushroom & Cheddar Cheese.",
+      "category": "FOOD",
+      "simplified_description": "Steak, Mushroom & Cheddar Cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Pizza",
+      "price": null,
+      "description": "Tandoori Chicken, Green Pepper, Onion, Mushroom, Cilantro & Tomato.",
+      "category": "FOOD",
+      "simplified_description": "Tandoori Chicken, Green Pepper, Onion, Mushroom, Cilantro & Tomato.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Cheese Pizza",
+      "price": null,
+      "description": "Feta Cheese, Mozzarella Cheese & Cheddar Cheese.",
+      "category": "FOOD",
+      "simplified_description": "Feta Cheese, Mozzarella Cheese & Cheddar Cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuscan Pizza",
+      "price": null,
+      "description": "Marinara Sauce, Tomato, Spinach, Feta Cheese & Seasoned Chicken.",
+      "category": "FOOD",
+      "simplified_description": "Marinara Sauce, Tomato, Spinach, Feta Cheese & Seasoned Chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Beef",
+      "price": 8.99,
+      "description": "Small $8.99 | Medium $10.99 | Large $12.99 | Extra Large $14.99",
+      "category": "OTHER",
+      "simplified_description": "Small $8.99 | Medium $10.99 | Large $12.99 | Extra Large $14.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken",
+      "price": 7.99,
+      "description": "Small $7.99 | Medium $9.99 | Large $11.99 | Extra Large $12.99",
+      "category": "OTHER",
+      "simplified_description": "Small $7.99 | Medium $9.99 | Large $11.99 | Extra Large $12.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef",
+      "price": 6.99,
+      "description": "Small $6.99 | Medium $8.99 | Large $9.99 | Extra Large $11.99",
+      "category": "OTHER",
+      "simplified_description": "Small $6.99 | Medium $8.99 | Large $9.99 | Extra Large $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel",
+      "price": 6.99,
+      "description": "Small $6.99 | Medium $7.99 | Large $9.99 | Extra Large $11.99",
+      "category": "OTHER",
+      "simplified_description": "Small $6.99 | Medium $7.99 | Large $9.99 | Extra Large $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Meat",
+      "price": 1.99,
+      "description": "Small $1.99 | Medium $2.99 | Large $3.99 | Extra Large $4.99",
+      "category": "OTHER",
+      "simplified_description": "Small $1.99 | Medium $2.99 | Large $3.99 | Extra Large $4.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad (Regular)",
+      "price": 4.99,
+      "description": "$4.99",
+      "category": "SALAD",
+      "simplified_description": "$4.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad (Large)",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SALAD",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad (Regular)",
+      "price": 5.99,
+      "description": "$5.99",
+      "category": "SALAD",
+      "simplified_description": "$5.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad (Large)",
+      "price": 8.99,
+      "description": "$8.99",
+      "category": "SALAD",
+      "simplified_description": "$8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Salad (Regular)",
+      "price": 4.99,
+      "description": "$4.99",
+      "category": "SALAD",
+      "simplified_description": "$4.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Salad (Large)",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SALAD",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Salad (Regular)",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SALAD",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Salad (Large)",
+      "price": 9.99,
+      "description": "$9.99",
+      "category": "SALAD",
+      "simplified_description": "$9.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Caesar Salad (Regular)",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SALAD",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Caesar Salad (Large)",
+      "price": 9.99,
+      "description": "$9.99",
+      "category": "SALAD",
+      "simplified_description": "$9.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Garden Salad (Regular)",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SALAD",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Garden Salad (Large)",
+      "price": 9.99,
+      "description": "$9.99",
+      "category": "SALAD",
+      "simplified_description": "$9.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Break Sticks (8 Pieces)",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SIDE",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Bread (8 Pieces)",
+      "price": 10.99,
+      "description": "$10.99",
+      "category": "SIDE",
+      "simplified_description": "$10.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheesy Bread (8 Pieces)",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "SIDE",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Cheesy Bread (8 Pieces)",
+      "price": 11.99,
+      "description": "$11.99",
+      "category": "SIDE",
+      "simplified_description": "$11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Toast (2 Pieces)",
+      "price": 2.99,
+      "description": "$2.99",
+      "category": "SIDE",
+      "simplified_description": "$2.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Toast (2 Pieces)",
+      "price": 4.99,
+      "description": "$4.99",
+      "category": "SIDE",
+      "simplified_description": "$4.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Wedges",
+      "price": 5.99,
+      "description": "$5.99",
+      "category": "SIDE",
+      "simplified_description": "$5.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa (Vegetable) 1 Piece",
+      "price": 1.49,
+      "description": "$1.49",
+      "category": "SIDE",
+      "simplified_description": "$1.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa (Vegetable) 3 Pieces",
+      "price": 3.0,
+      "description": "$3.00",
+      "category": "SIDE",
+      "simplified_description": "$3.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Potato Wedges",
+      "price": 6.99,
+      "description": "$6.99",
+      "category": "SIDE",
+      "simplified_description": "$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips",
+      "price": 1.75,
+      "description": "$1.75",
+      "category": "SIDE",
+      "simplified_description": "$1.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dipping Sauces",
+      "price": 0.75,
+      "description": "$0.75",
+      "category": "SIDE",
+      "simplified_description": "$0.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava 2 Pieces",
+      "price": 2.99,
+      "description": "$2.99",
+      "category": "DESSERT",
+      "simplified_description": "$2.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava 4 Pieces",
+      "price": 4.99,
+      "description": "$4.99",
+      "category": "DESSERT",
+      "simplified_description": "$4.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava 10 Pieces",
+      "price": 9.99,
+      "description": "$9.99",
+      "category": "DESSERT",
+      "simplified_description": "$9.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Cake",
+      "price": 3.49,
+      "description": "$3.49",
+      "category": "DESSERT",
+      "simplified_description": "$3.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Full Apple Pie",
+      "price": 8.99,
+      "description": "$8.99",
+      "category": "DESSERT",
+      "simplified_description": "$8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Bar",
+      "price": 1.75,
+      "description": "$1.75",
+      "category": "DESSERT",
+      "simplified_description": "$1.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop Can",
+      "price": 1.75,
+      "description": "Pepsi, Coke, Dr. Pepper, Red Rain, Crush Grape, Crush Orange, Crush Cream Soda, Nestea, Mug, Diet Coke & Canada Dry.",
+      "category": "DRINK",
+      "simplified_description": "Pepsi, Coke, Dr. Pepper, Red Rain, Crush Grape, Crush Orange, Crush Cream Soda, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pop Cans",
+      "price": 8.49,
+      "description": "Pepsi, Coke, Dr. Pepper, Crush Grape, Crush Orange, Crush Cream Soda, Nestea, Mug, Diet Coke & Canada Dry.",
+      "category": "DRINK",
+      "simplified_description": "Pepsi, Coke, Dr. Pepper, Crush Grape, Crush Orange, Crush Cream Soda, Nestea, Mu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle 750ml",
+      "price": 2.5,
+      "description": "Pepsi, Coke, Dr. Pepper, Crush Grape, Crush Orange, Crush Cream Soda, Brisk, 7up, Mountain Dew, Mug, Diet Coke & Canada Dry.",
+      "category": "DRINK",
+      "simplified_description": "Pepsi, Coke, Dr. Pepper, Crush Grape, Crush Orange, Crush Cream Soda, Brisk, 7up",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Liter Bottle",
+      "price": 3.75,
+      "description": "Pepsi, Coke, Dr. Pepper, Crush Grape, Crush Orange, Crush Cream Soda, Brisk, 7up, Mountain Dew, Mug, Diet Coke & Canada Dry.",
+      "category": "DRINK",
+      "simplified_description": "Pepsi, Coke, Dr. Pepper, Crush Grape, Crush Orange, Crush Cream Soda, Brisk, 7up",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gatorade",
+      "price": 2.5,
+      "description": "Cool Blue, Citron Lime, Orange & Fruit Punch.",
+      "category": "DRINK",
+      "simplified_description": "Cool Blue, Citron Lime, Orange & Fruit Punch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Rain (Can)",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice Bottle",
+      "price": 2.49,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Milk",
+      "price": 2.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle (Small)",
+      "price": 1.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

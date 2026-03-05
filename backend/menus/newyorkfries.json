@@ -1,0 +1,209 @@
+{
+  "restaurant": "newyorkfries",
+  "parsed_at": "2025-12-25T03:21:59.073041",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "FRIES",
+      "price": null,
+      "description": "Hand cut. Skins on. Cooked to order in non-hydrogenated Sunflower Oil. Served hot and crisp. Perfect fries every time.",
+      "simplified_description": "Freshly cut fries cooked in healthy oil, served hot and crispy.",
+      "category": "Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRUFFLE FRIES",
+      "price": null,
+      "description": "Crispy fries topped with truffle aioli, real parmesan and a sprinkle of parsley. Yup... we got a little fancy with this one!",
+      "simplified_description": "Crispy fries with fancy truffle sauce, parmesan cheese, and parsley.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PULLED PORK",
+      "price": null,
+      "description": "Spicy and smokey sauce with cheese curds. Time to load up on the heat and meat!",
+      "simplified_description": "Fries with spicy pulled pork and cheese curds.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FLAMIN' BACON",
+      "price": null,
+      "description": "Chipotle aioli, hot pepper rings, bacon crumble and hot sauce... it's a four-alarm fire of awesomeness!",
+      "simplified_description": "Fries with spicy chipotle sauce, bacon, and hot peppers.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC POUTINE",
+      "price": null,
+      "description": "A delicious marriage of New York Fries, premium cheese curd and our signature gravy. Which also happens to be vegetarian! (Don't tell the carnivores.)",
+      "simplified_description": "Fries with cheese curds and gravy, suitable for vegetarians.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NACHO FRIES",
+      "price": null,
+      "description": "Hot, crispy fries topped with spicy queso, salsa, sour cream and green onions. It gives your taste buds something to sing about!",
+      "simplified_description": "Fries with spicy cheese sauce, salsa, sour cream, and green onions.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VEGGIE FRIES",
+      "price": null,
+      "description": "A fresh, vegetarian alternative. New York Fries topped with our creamy cheese sauce, real sour cream, and fresh green onions and tomatoes.",
+      "simplified_description": "Vegetarian fries with cheese sauce, sour cream, green onions, and tomatoes.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACON DOUBLE CHEESE",
+      "price": null,
+      "description": "Delicious cheese curd smothered in steaming cheese sauce, sprinkled with crumbled bacon and fresh green onions... it’s simply irresistible!",
+      "simplified_description": "Fries with cheese curds, cheese sauce, bacon, and green onions.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUTTER CHICKEN",
+      "price": null,
+      "description": "Our own take on the classic Poutine. Delicious, mildly spiced Butter Chicken served over real Quebec cheese curd and fresh cut fries... could we have actually improved on the classic?",
+      "simplified_description": "Fries with butter chicken and cheese curds.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE WORKS",
+      "price": null,
+      "description": "A hearty meal. Our delicious beef chili over New York Fries, topped with real sour cream, creamy cheese sauce, fresh green onions and real bacon.",
+      "simplified_description": "Fries with beef chili, sour cream, cheese sauce, green onions, and bacon.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHILI CHEESE FRIES",
+      "price": null,
+      "description": "Delicious beef chili, real cheese sauce and fresh sour cream covering our signature hand-cut fries.",
+      "simplified_description": "Fries with beef chili, cheese sauce, and sour cream.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHILI POUTINE",
+      "price": null,
+      "description": "Delicious beef chili, real Canadian cheese curds and fresh green onions smothering our signature hand cut fries.",
+      "simplified_description": "Fries with beef chili, cheese curds, and green onions.",
+      "category": "Poutine & Loaded Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PREMIUM HOT DOG",
+      "price": null,
+      "description": "Made with a blend of chicken and beef, 1/4 pound of deliciousness.",
+      "simplified_description": "A hot dog made from chicken and beef.",
+      "category": "Premium Dogs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRUFFLE AIOLI",
+      "price": null,
+      "description": "Vegetarian",
+      "simplified_description": "A fancy garlic sauce suitable for vegetarians.",
+      "category": "Dips",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE SAUCE",
+      "price": null,
+      "description": "Vegetarian",
+      "simplified_description": "A creamy cheese sauce suitable for vegetarians.",
+      "category": "Dips",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRAVY",
+      "price": null,
+      "description": "Vegetarian",
+      "simplified_description": "A savory sauce suitable for vegetarians.",
+      "category": "Dips",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHIPOTLE AIOLI",
+      "price": null,
+      "description": "Vegetarian",
+      "simplified_description": "A spicy garlic sauce suitable for vegetarians.",
+      "category": "Dips",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SOUR CREAM",
+      "price": null,
+      "description": "Vegetarian",
+      "simplified_description": "Creamy dairy topping suitable for vegetarians.",
+      "category": "Dips",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "QUESO",
+      "price": null,
+      "description": "Vegetarian",
+      "simplified_description": "A spicy cheese dip suitable for vegetarians.",
+      "category": "Dips",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "POUTINE KIT",
+      "price": null,
+      "description": "Our new Poutine Kit lets you release your inner poutine maker ensuring your poutine stays as fresh as if you had just purchased it from your favourite NYF location! We provide all your poutine ingredients, already cooked, ready to re-heat and assemble... keeping your fries crispy, your gravy steamy and your cheese curds nice and melty! Available in LARGE size only.",
+      "simplified_description": "A kit to make your own poutine at home with all ingredients included.",
+      "category": "Poutine Kit",
+      "dietary_info": [],
+      "other_info": "Available in LARGE size only."
+    }
+  ]
+}

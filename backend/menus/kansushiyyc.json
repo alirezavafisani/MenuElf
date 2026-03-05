@@ -1,0 +1,139 @@
+{
+  "restaurant": "kansushiyyc",
+  "parsed_at": "2026-02-06T02:53:43.225505",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "Basic Tray",
+      "price": 49.0,
+      "description": "California Roll, Salmon Roll, Philadelphia Roll, Avocado Roll, Dynamite Roll, Bakudan Maki, Chopped Scallop Roll",
+      "category": "OTHER",
+      "simplified_description": "Assorted sushi rolls including salmon, avocado, and scallop varieties.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Tray",
+      "price": 43.0,
+      "description": "Oh Jeny Roll, Vege Bakudan, Avocado Roll, Avo & Shitake Roll, Vege California Roll, AAC Roll, Kappa Roll",
+      "category": "OTHER",
+      "simplified_description": "Variety of vegetarian sushi rolls with avocado and vegetables.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tray",
+      "price": 54.0,
+      "description": "Spicy Salmon Roll, Spicy California Roll, Spicy Dynamite Roll, Spicy Oklahoma Roll, Sumo Roll, Double Salmon Roll",
+      "category": "OTHER",
+      "simplified_description": "Selection of spicy sushi rolls featuring salmon and California rolls.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Monter Tray",
+      "price": 81.4,
+      "description": "Red Dragon Roll, Surek Roll, Dark Horse Roll, Teriyaki Beef Roll, Teriyaki Chicken Roll, Spicy Crispy Roll, California Roll",
+      "category": "OTHER",
+      "simplified_description": "Mixed sushi rolls including teriyaki beef, chicken, and spicy options.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aburi Eel with Miso Cream Cheese",
+      "price": 21.0,
+      "description": "Flame seared eel on Kura specialty sushi rice drizzled in miso sauce and topped with cream cheese",
+      "category": "FOOD",
+      "simplified_description": "Flame-seared eel sushi with miso sauce and cream cheese topping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aburi Salmon with Miso Cream Cheese*",
+      "price": 28.0,
+      "description": "Flame seared salmon on Kura specialty sushi rice drizzled in miso sauce and topped with cream cheese",
+      "category": "FOOD",
+      "simplified_description": "Flame-seared salmon sushi with miso sauce and cream cheese topping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Albacore Otoro*",
+      "price": 15.0,
+      "description": "Melt in your mouth tenderness albacore tuna belly on Kura specialty sushi rice",
+      "category": "FOOD",
+      "simplified_description": "Tender albacore tuna belly sushi on specialty rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Conch*",
+      "price": 7.0,
+      "description": "Conch on Kura specialty sushi rice",
+      "category": "FOOD",
+      "simplified_description": "Conch sushi served on specialty sushi rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dashi Olive Salmon*",
+      "price": 14.0,
+      "description": "Salmon on Kura specialty sushi rice drizzled in dashi olive oil with lemon garnish",
+      "category": "FOOD",
+      "simplified_description": "Salmon sushi with dashi olive oil and lemon garnish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dashi Olive Sweet Shrimp*",
+      "price": 17.0,
+      "description": "Sweet shrimp on Kura specialty sushi rice drizzled in dashi olive oil with lemon garnish",
+      "category": "FOOD",
+      "simplified_description": "Sweet shrimp sushi with dashi olive oil and lemon garnish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Ponzu Salmon*",
+      "price": 22.0,
+      "description": "Salmon on Kura specialty sushi rice drizzled in a garlic and citrus-based oil topped with green onion and sesame",
+      "category": "FOOD",
+      "simplified_description": "Salmon sushi with garlic citrus oil, green onion, and sesame seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hamachi Tataki with Ponzu Oil*",
+      "price": 12.0,
+      "description": "Sushi grade yellowtail on Kura specialty sushi rice drizzled in a citrus-based oil topped with green onion and fried onion",
+      "category": "FOOD",
+      "simplified_description": "Yellowtail sushi with citrus oil, green onion, and fried onion topping.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hokkaido Scallop*",
+      "price": 20.0,
+      "description": "Premium scallop from Hokkaido on Kura specialty sushi rice",
+      "category": "FOOD",
+      "simplified_description": "Premium Hokkaido scallop sushi on specialty rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium American Beef*",
+      "price": 20.0,
+      "description": "Premium American beef on Kura specialty sushi rice topped with a garlic chip",
+      "category": "FOOD",
+      "simplified_description": "Sushi with premium American beef and garlic chip topping.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

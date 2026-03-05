@@ -1,0 +1,403 @@
+{
+  "restaurant": "ninjatiger",
+  "parsed_at": "2026-02-06T03:29:53.944581",
+  "item_count": 44,
+  "items": [
+    {
+      "name": "Island Shaker",
+      "price": 11.0,
+      "description": "Vodka, gin, tequilla, white rum, triple sec, red bull.",
+      "category": "DRINK",
+      "simplified_description": "Vodka, gin, tequilla, white rum, triple sec, red bull.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Pudina Mojito",
+      "price": 11.0,
+      "description": "Green chili, lemon, soda, mint, coriander leaves, white rum.",
+      "category": "DRINK",
+      "simplified_description": "Green chili, lemon, soda, mint, coriander leaves, white rum.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cosmopolitan",
+      "price": 11.0,
+      "description": "Cranberry juice, lemon, vodka, triple sec",
+      "category": "DRINK",
+      "simplified_description": "Cranberry juice, lemon, vodka, triple sec",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Guava Mary",
+      "price": 10.0,
+      "description": "Guava juice, lemon, chili salt rim, vodka",
+      "category": "DRINK",
+      "simplified_description": "Guava juice, lemon, chili salt rim, vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rasamtini",
+      "price": 10.0,
+      "description": "South Indian rasam, cumin, gin",
+      "category": "DRINK",
+      "simplified_description": "South Indian rasam, cumin, gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosa",
+      "price": 9.0,
+      "description": "Orange juice & Prosecco",
+      "category": "DRINK",
+      "simplified_description": "Orange juice & Prosecco",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Virgin Margarita",
+      "price": 7.0,
+      "description": "Lime with mango/orange/cranberry.",
+      "category": "DRINK",
+      "simplified_description": "Lime with mango/orange/cranberry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Lagoon",
+      "price": 8.0,
+      "description": "Blue Curacao syrup, lemon, Sprite.",
+      "category": "DRINK",
+      "simplified_description": "Blue Curacao syrup, lemon, Sprite.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Virgin Mojito",
+      "price": 7.0,
+      "description": "Sprite, soda, lemon, sugar.",
+      "category": "DRINK",
+      "simplified_description": "Sprite, soda, lemon, sugar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kokum Fizz",
+      "price": 8.0,
+      "description": "Kokum, soda, lemon, red chili salt.",
+      "category": "DRINK",
+      "simplified_description": "Kokum, soda, lemon, red chili salt.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sol Kadi",
+      "price": 8.0,
+      "description": "Coconut milk + dried kokum - a Konkan special.",
+      "category": "DRINK",
+      "simplified_description": "Coconut milk + dried kokum - a Konkan special.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meloni",
+      "price": 8.0,
+      "description": "Watermelon, milk, vanilla ice cream",
+      "category": "DRINK",
+      "simplified_description": "Watermelon, milk, vanilla ice cream",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ninja Spritz",
+      "price": 10.0,
+      "description": "Aperitif, fresh strawberries, ginger beer, lemon juice, simple syrup",
+      "category": "DRINK",
+      "simplified_description": "Aperitif, fresh strawberries, ginger beer, lemon juice, simple syrup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Amrut Single Malt (Indian)",
+      "price": 10.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Indri Single Malt (Indian)",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenfiddich (12 Years)",
+      "price": 11.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Glenmoray (18 Years)",
+      "price": 2.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paul John",
+      "price": 9.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monkey Shoulder",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Johnnie Walker Black Label",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crown Royal",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jameson",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Woodford Reserve",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jaan Paan",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Monk",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bumbu",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgan Spiced",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Belvedere",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Park (Made In Ab)",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grey Goose",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Los Rijos (Reposado)",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Don Julio (Blanco)",
+      "price": 15.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patron Silver (Anejo)",
+      "price": 16.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Empress 1908",
+      "price": 13.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eau Claire Parlour (Made In Ab)",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hendricks",
+      "price": 14.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Chai",
+      "price": 4.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "San Pellegrino (750 Ml)",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 8.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet/Salted Lassi",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buttermilk",
+      "price": 7.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lime Soda",
+      "price": 6.0,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drink",
+      "price": 3.5,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

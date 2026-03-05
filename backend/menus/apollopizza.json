@@ -1,0 +1,396 @@
+{
+  "restaurant": "apollopizza",
+  "parsed_at": "2026-02-06T00:40:33.000386",
+  "item_count": 35,
+  "items": [
+    {
+      "name": "Tandoori Paneer Pizza",
+      "price": 13.99,
+      "description": "Veg Pizzas - Tandoori Sauce, paneer, onions, green peppers, black olives.",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pizza with tandoori sauce, paneer, and mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer Pizza",
+      "price": 13.99,
+      "description": "Veg Pizzas - Shahi sauce, Paneer, Onions, Green peppers, Tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pizza with shahi sauce, paneer, and fresh vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Peri-Peri Paneer Pizza",
+      "price": 13.99,
+      "description": "Veg Pizzas - Peri-peri sauce, paneer, pineapples, red onions, spinach.",
+      "category": "FOOD",
+      "simplified_description": "Spicy vegetarian pizza with peri-peri sauce, paneer, pineapple, and spinach.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Small Pepperoni Pizza",
+      "price": 9.99,
+      "description": "Non Veg Pizzas - pepperoni.",
+      "category": "FOOD",
+      "simplified_description": "Small pizza topped with pepperoni slices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Tandoori Sauce tandoori chicken, onions, green peppers, black olives.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tandoori chicken, sauce, onions, peppers, and olives.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peri-Peri Chicken Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Peri-peri sauce, chicken, onions, spinach, pineapples.",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken pizza with peri-peri sauce, onions, spinach, and pineapple.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "BBQ Chicken Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - BBQ sauce, chicken, onions, red and yellow pepper, mushrooms.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with BBQ chicken, onions, peppers, and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Lovers Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Marinara sauce, bacon, beef, ham, pepperoni.",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with bacon, beef, ham, and pepperoni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Marinara sauce, pepperoni.",
+      "category": "FOOD",
+      "simplified_description": "Classic pizza topped with marinara sauce and pepperoni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Chicken Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Chipotle sauce, chicken, red onions, green peppers, banana peppers.",
+      "category": "FOOD",
+      "simplified_description": "Spicy chipotle chicken pizza with onions and peppers.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Butter chicken sauce, butter chicken, red onions, green peppers, tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with butter chicken, sauce, onions, peppers, and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheese Burger Pizza",
+      "price": 13.99,
+      "description": "Non Veg Pizzas - Beef, Marinara sauce, bacon, onions, tomatoes, pickles.",
+      "category": "FOOD",
+      "simplified_description": "Pizza with beef, bacon, marinara, onions, tomatoes, and pickles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 8.99,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Fresh Greek salad with traditional ingredients.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salads",
+      "price": 8.99,
+      "description": "Sides - Caesar Salad: Lettuce, Parmesan Cheese, Bread crumbs, Meat with Special Salad Dressing",
+      "category": "SIDE",
+      "simplified_description": "Caesar salad with lettuce, parmesan, breadcrumbs, meat, and special dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Fish",
+      "price": 12.99,
+      "description": "Sides - Oven-Baked Tandoori Fish",
+      "category": "SIDE",
+      "simplified_description": "Oven-baked fish marinated in tandoori spices.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": 9.99,
+      "description": "Sides - 8 PCS",
+      "category": "SIDE",
+      "simplified_description": "Eight pieces of chicken wings as a side dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Jalapeno ( Eggless)",
+      "price": 2.49,
+      "description": "Dips",
+      "category": "DIPS",
+      "simplified_description": "A cheesy jalapeno dip without eggs.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Creamy Ranch",
+      "price": 1.49,
+      "description": "Dips",
+      "category": "DIPS",
+      "simplified_description": "A creamy ranch-flavored dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheddar Chipotle",
+      "price": 1.49,
+      "description": "Dips",
+      "category": "DIPS",
+      "simplified_description": "A cheddar cheese dip with smoky chipotle flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Creamy Garlic",
+      "price": 1.49,
+      "description": "Dips",
+      "category": "DIPS",
+      "simplified_description": "A smooth and creamy garlic-flavored dip.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Celsius Energy",
+      "price": 3.99,
+      "description": "Pop - Zero Sugar (355 ML)",
+      "category": "DRINK",
+      "simplified_description": "Zero sugar energy drink in a 355 ml can.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle",
+      "price": 1.99,
+      "description": "Pop",
+      "category": "DRINK",
+      "simplified_description": "A bottle of plain drinking water.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite",
+      "price": 2.99,
+      "description": "Pop",
+      "category": "DRINK",
+      "simplified_description": "A lemon-lime flavored carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gatorade (G2)",
+      "price": 3.99,
+      "description": "Pop - 591ML",
+      "category": "DRINK",
+      "simplified_description": "A 591 ml bottle of Gatorade G2 sports drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Milk (Lactanlia)",
+      "price": 2.99,
+      "description": "Pop - 237ML",
+      "category": "DRINK",
+      "simplified_description": "A 237 ml serving of chocolate-flavored milk.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pepsi",
+      "price": 2.99,
+      "description": "Pop - 355 ml",
+      "category": "DRINK",
+      "simplified_description": "A 355 ml can of Pepsi cola soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crush",
+      "price": 2.99,
+      "description": "Pop - 355ml",
+      "category": "DRINK",
+      "simplified_description": "A 355 ml can of fruit-flavored Crush soda.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fanta",
+      "price": 2.99,
+      "description": "Pop - 300ml",
+      "category": "DRINK",
+      "simplified_description": "A 300 ml can of orange-flavored Fanta soda.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Limca",
+      "price": 2.99,
+      "description": "Pop - 300ml",
+      "category": "DRINK",
+      "simplified_description": "A 300 ml can of lemon-lime flavored Limca soda.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Jeera",
+      "price": 2.99,
+      "description": "Pop - 299 ml",
+      "category": "DRINK",
+      "simplified_description": "A 299 ml spiced cumin-flavored soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Red Bull",
+      "price": 3.99,
+      "description": "Pop - 250 ml",
+      "category": "DRINK",
+      "simplified_description": "250 ml energy drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coke",
+      "price": 2.99,
+      "description": "Pop",
+      "category": "DRINK",
+      "simplified_description": "Classic cola soft drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zevia",
+      "price": 2.99,
+      "description": "Pop",
+      "category": "DRINK",
+      "simplified_description": "Zero-calorie soda.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Ice",
+      "price": 2.99,
+      "description": "Pop - 503 ml",
+      "category": "DRINK",
+      "simplified_description": "503 ml flavored sparkling water.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canada Dry Ginger Ale",
+      "price": 2.99,
+      "description": "Pop",
+      "category": "DRINK",
+      "simplified_description": "Ginger-flavored carbonated soft drink.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

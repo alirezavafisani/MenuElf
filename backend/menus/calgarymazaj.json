@@ -1,0 +1,187 @@
+{
+  "restaurant": "calgarymazaj",
+  "parsed_at": "2026-02-06T01:30:21.614768",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "Beef SHAWARMA",
+      "price": 14.24,
+      "description": "$14.24 MD $16.24 LG",
+      "category": "FOOD",
+      "simplified_description": "Beef marinated and cooked Middle Eastern wrap or plate.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken SHAWARMA",
+      "price": 14.24,
+      "description": "$14.24 MD $16.24 LG",
+      "category": "FOOD",
+      "simplified_description": "Chicken marinated and cooked Middle Eastern wrap or plate.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair SHAWARMA",
+      "price": 14.24,
+      "description": "$14.24 MD $16.24 LG",
+      "category": "FOOD",
+      "simplified_description": "Donair style meat served as a wrap or plate.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Falafel SHAWARMA",
+      "price": 14.24,
+      "description": "$14.24 MD $16.24 LG",
+      "category": "FOOD",
+      "simplified_description": "Falafel balls served as a wrap or plate.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional SHAWARMA",
+      "price": null,
+      "description": "$1954 LG",
+      "category": "FOOD",
+      "simplified_description": "Large traditional style shawarma platter.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "FATTOUSH SALAD",
+      "price": 8.99,
+      "description": "$8.99 SM $9.99 LG",
+      "category": "FOOD",
+      "simplified_description": "Fresh vegetable salad with toasted pita bread.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TABOULI SALAD",
+      "price": 8.99,
+      "description": "$8.99 SM $9.99 LG",
+      "category": "FOOD",
+      "simplified_description": "Parsley and bulgur wheat salad with tomatoes and lemon.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GREEK SALAD",
+      "price": 8.99,
+      "description": "$8.99 SM $9.99 LG",
+      "category": "FOOD",
+      "simplified_description": "Salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DONAIR SALAD",
+      "price": 16.99,
+      "description": "$16.99 + GST",
+      "category": "FOOD",
+      "simplified_description": "Salad topped with donair meat.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN SALAD",
+      "price": 16.99,
+      "description": "$16.99 + GST",
+      "category": "FOOD",
+      "simplified_description": "Salad topped with cooked chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "FALAFEL SALAD",
+      "price": 15.99,
+      "description": "$15.99 + GST",
+      "category": "FOOD",
+      "simplified_description": "Salad topped with falafel balls.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "VEGGI SALAD",
+      "price": 10.99,
+      "description": "$10.99 + GST",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetable salad.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAZAJ BAKLAVA",
+      "price": 1.43,
+      "description": "$1.43 EACH",
+      "category": "SIDE",
+      "simplified_description": "Sweet layered pastry with nuts and syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MAZAJ HUMMUS",
+      "price": 6.99,
+      "description": "$6.99 SM $8.99 LG",
+      "category": "SIDE",
+      "simplified_description": "Chickpea and tahini dip.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "restaurant": "sierracafe",
+  "parsed_at": "2026-02-06T04:07:48.498948",
+  "item_count": 56,
+  "items": [
+    {
+      "name": "Drip Coffee",
+      "price": 2.95,
+      "description": "Small $2.95 - Medium $3.45 Large $3.95",
+      "category": "DRINK",
+      "simplified_description": "Small $2.95 - Medium $3.45 Large $3.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 3.75,
+      "description": "$3.75",
+      "category": "DRINK",
+      "simplified_description": "$3.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano",
+      "price": 3.95,
+      "description": "Small $3.95 - Medium $3.95 Large $3.95",
+      "category": "DRINK",
+      "simplified_description": "Small $3.95 - Medium $3.95 Large $3.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": 5.75,
+      "description": "Medium $5.75 - Large $6.25",
+      "category": "DRINK",
+      "simplified_description": "Medium $5.75 - Large $6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": 4.75,
+      "description": "8oz - $4.75",
+      "category": "DRINK",
+      "simplified_description": "8oz - $4.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flat White",
+      "price": 4.75,
+      "description": "Medium $4.75",
+      "category": "DRINK",
+      "simplified_description": "Medium $4.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha",
+      "price": 6.25,
+      "description": "Medium $6.25 - Large $6.50",
+      "category": "DRINK",
+      "simplified_description": "Medium $6.25 - Large $6.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cortado",
+      "price": 4.5,
+      "description": "5oz $4.50",
+      "category": "DRINK",
+      "simplified_description": "5oz $4.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "London Fog",
+      "price": 4.85,
+      "description": "Medium $4.85 - Large $5.50",
+      "category": "DRINK",
+      "simplified_description": "Medium $4.85 - Large $5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea latte",
+      "price": 4.9,
+      "description": "Medium $4.90 - Large $5.40",
+      "category": "DRINK",
+      "simplified_description": "Medium $4.90 - Large $5.40",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai latte",
+      "price": 4.9,
+      "description": "Medium $4.90 - Large $5.40",
+      "category": "DRINK",
+      "simplified_description": "Medium $4.90 - Large $5.40",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": 3.95,
+      "description": "$3.95 (All Sizes)",
+      "category": "DRINK",
+      "simplified_description": "$3.95 (All Sizes)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 4.1,
+      "description": "Small $4.10 - Medium $4.70 - Large $5.20",
+      "category": "DRINK",
+      "simplified_description": "Small $4.10 - Medium $4.70 - Large $5.20",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamer",
+      "price": 3.35,
+      "description": "Small $3.35 - Medium $3.95 - Large $4.45",
+      "category": "DRINK",
+      "simplified_description": "Small $3.35 - Medium $3.95 - Large $4.45",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha",
+      "price": 6.0,
+      "description": "Medium $6.00 - Large $6.50",
+      "category": "DRINK",
+      "simplified_description": "Medium $6.00 - Large $6.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Hot Chocolate",
+      "price": 4.1,
+      "description": "Small $4.10 - Medium $4.70 - Large $5.20",
+      "category": "DRINK",
+      "simplified_description": "Small $4.10 - Medium $4.70 - Large $5.20",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Mocha",
+      "price": 6.3,
+      "description": "M 6.30 L 6.80",
+      "category": "DRINK",
+      "simplified_description": "M 6.30 L 6.80",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuxedo Mocha",
+      "price": 6.3,
+      "description": "M 6.30 L 6.80",
+      "category": "DRINK",
+      "simplified_description": "M 6.30 L 6.80",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Irish White Mocha",
+      "price": 6.3,
+      "description": "M 6.30 L 6.80",
+      "category": "DRINK",
+      "simplified_description": "M 6.30 L 6.80",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peppermint White Mocha",
+      "price": 6.3,
+      "description": "M 6.30 L 6.75",
+      "category": "DRINK",
+      "simplified_description": "M 6.30 L 6.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gingerbread Latte",
+      "price": 6.25,
+      "description": "M 6.25 L 6.75",
+      "category": "DRINK",
+      "simplified_description": "M 6.25 L 6.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gingerbread Chai",
+      "price": 5.7,
+      "description": "M 5.70 L 6.95",
+      "category": "DRINK",
+      "simplified_description": "M 5.70 L 6.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexican Hot chocolate",
+      "price": 5.45,
+      "description": "M 5.45 L 5.85",
+      "category": "DRINK",
+      "simplified_description": "M 5.45 L 5.85",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chamomile Rose Tea Latte",
+      "price": 5.35,
+      "description": "M 5.35 L 5.80",
+      "category": "DRINK",
+      "simplified_description": "M 5.35 L 5.80",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireside Apple Cider",
+      "price": 5.5,
+      "description": "M 5.50 L 6.25",
+      "category": "DRINK",
+      "simplified_description": "M 5.50 L 6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIERRA BREAKFAST BURRITO",
+      "price": 13.95,
+      "description": "Roasted chicken, scrambled eggs, cheddar and Havarti cheese, sour cream, pico de gallo, herbed oven roasted hash browns in a tortilla wrap.",
+      "category": "FOOD",
+      "simplified_description": "Roasted chicken, scrambled eggs, cheddar and Havarti cheese, sour cream, pico de",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BREAKFAST SANDWICH",
+      "price": 10.25,
+      "description": "Sliced turkey, scrambled egg, Havarti cheese, fresh arugula and mashed avocado on a toasted English muffin. (Available all day) Can be prepared gluten friendly (+$1.50)",
+      "category": "FOOD",
+      "simplified_description": "Sliced turkey, scrambled egg, Havarti cheese, fresh arugula and mashed avocado o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AVOCADO TOAST",
+      "price": 14.95,
+      "description": "Mashed avocado with alfalfa sprouts and roasted grape tomato on toasted sourdough. Drizzled with balsamic glaze. Add 2 sunny side up eggs (+$3.50) Can be prepared gluten friendly (+$1.50)",
+      "category": "FOOD",
+      "simplified_description": "Mashed avocado with alfalfa sprouts and roasted grape tomato on toasted sourdoug",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED SALMON AVOCADO TOAST",
+      "price": 20.95,
+      "description": "Mashed avocado, smoked salmon, topped with sour cream & fresh dill, drizzled with EVOO and balsamic glaze. Served on a toasted honey multigrain bread. Add 2 sunny side up eggs $3.00 Can be prepared gluten friendly (+$1.50)",
+      "category": "FOOD",
+      "simplified_description": "Mashed avocado, smoked salmon, topped with sour cream & fresh dill, drizzled wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED SALMON BAGEL",
+      "price": 16.25,
+      "description": "Fresh everything bagel, dill cream cheese, smoked salmon, pickled onion, capers and fresh dill.",
+      "category": "FOOD",
+      "simplified_description": "Fresh everything bagel, dill cream cheese, smoked salmon, pickled onion, capers ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TURKEY CLUB",
+      "price": 15.95,
+      "description": "Smoked Turkey, havarti cheese, alfalfa sprouts on fresh Italian sour dough with dijon Aioli. Can be prepared gluten friendly (+$1.00)",
+      "category": "FOOD",
+      "simplified_description": "Smoked Turkey, havarti cheese, alfalfa sprouts on fresh Italian sour dough with ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF DIP",
+      "price": 17.25,
+      "description": "Slow cooked premium shaved beef, Swiss cheese, horseradish aioli, au jus, on a baked pretzel bun.",
+      "category": "FOOD",
+      "simplified_description": "Slow cooked premium shaved beef, Swiss cheese, horseradish aioli, au jus, on a b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN BRIE SANDWICH",
+      "price": 16.35,
+      "description": "Roasted chicken, brie, green apple slices, Alfalfa sprouts on honey multigrain bread with cranberry aioli. Can be prepared gluten friendly (+$1.50)",
+      "category": "FOOD",
+      "simplified_description": "Roasted chicken, brie, green apple slices, Alfalfa sprouts on honey multigrain b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIERRA WRAP",
+      "price": 14.95,
+      "description": "Tortilla, cranberry aioli, arugula, smoked turkey sliced, sliced salami, sliced capicola and cheddar cheese.",
+      "category": "FOOD",
+      "simplified_description": "Tortilla, cranberry aioli, arugula, smoked turkey sliced, sliced salami, sliced ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "QUESADILLA",
+      "price": 15.25,
+      "description": "Tortilla filled with spicy chicken, black beans, red and jalapeno peppers, mushrooms, pickled and green onions and cheddar cheese. Served hot with sides of pico, guacamole and sour cream.",
+      "category": "FOOD",
+      "simplified_description": "Tortilla filled with spicy chicken, black beans, red and jalapeno peppers, mushr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THREE CHEESE GRILLED CHEESE SANDWICH",
+      "price": 11.5,
+      "description": "Cheddar, havarti and brie panini grilled on fresh honey multigrain bread Can be prepared gluten friendly (+$1.50)",
+      "category": "FOOD",
+      "simplified_description": "Cheddar, havarti and brie panini grilled on fresh honey multigrain bread Can be ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEET & ARUGULA SALAD",
+      "price": 14.95,
+      "description": "Made with locally sourced ingredients, this salad features a colourful medley of roasted beets, mixed greens, and a tangy citrus vinaigrette. Perfect for a light lunch or as a side dish. Gluten Friendly Add roasted chicken $3.00",
+      "category": "FOOD",
+      "simplified_description": "Made with locally sourced ingredients, this salad features a colourful medley of",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAJUN CHICKEN WRAP",
+      "price": 14.95,
+      "description": "Some like it hot! This spicy wrap will fill you up with Cajun pulled chicken, pico de gallo, spicy mayo and Romaine lettuce.",
+      "category": "FOOD",
+      "simplified_description": "Some like it hot! This spicy wrap will fill you up with Cajun pulled chicken, pi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COBB SALAD",
+      "price": 14.5,
+      "description": "Romaine Lettuce with roasted chicken, grape tomato, Havarti cheese, pickled egg, fresh avocado with Sierra house red wine vinaigrette. Gluten Friendly",
+      "category": "FOOD",
+      "simplified_description": "Romaine Lettuce with roasted chicken, grape tomato, Havarti cheese, pickled egg,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIERRA POWER BOWL",
+      "price": 15.95,
+      "description": "Packed with protein, this bowl is healthy and delicious! Romaine lettuce, brown basmati rice, edemame, chickpeas, peppers, red onion and topped with peanuts. Spicy peanut dressing is served on the side.",
+      "category": "FOOD",
+      "simplified_description": "Packed with protein, this bowl is healthy and delicious! Romaine lettuce, brown ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAC & CHEESE",
+      "price": 10.25,
+      "description": "Classic comfort food. Creamy cheese and noodles au Gratin",
+      "category": "FOOD",
+      "simplified_description": "Classic comfort food. Creamy cheese and noodles au Gratin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Sour Cream Muffin",
+      "price": 4.75,
+      "description": "$4.75",
+      "category": "BAKED GOODS",
+      "simplified_description": "$4.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Chocolate Chip Muffin",
+      "price": 4.75,
+      "description": "$4.75",
+      "category": "BAKED GOODS",
+      "simplified_description": "$4.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Brown Sugar Pecan Muffin",
+      "price": 6.4,
+      "description": "$6.40",
+      "category": "BAKED GOODS",
+      "simplified_description": "$6.40",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeno & Cheddar Scone",
+      "price": 5.35,
+      "description": "$5.35",
+      "category": "BAKED GOODS",
+      "simplified_description": "$5.35",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheddar Scone",
+      "price": 5.35,
+      "description": "$5.35",
+      "category": "BAKED GOODS",
+      "simplified_description": "$5.35",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croissant",
+      "price": 4.0,
+      "description": "$4.00",
+      "category": "BAKED GOODS",
+      "simplified_description": "$4.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Almond Croissant",
+      "price": 5.25,
+      "description": "$5.25",
+      "category": "BAKED GOODS",
+      "simplified_description": "$5.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Chip Cookie",
+      "price": 3.25,
+      "description": "$3.25",
+      "category": "BAKED GOODS",
+      "simplified_description": "$3.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oatmeal Cookie",
+      "price": 3.25,
+      "description": "$3.25",
+      "category": "BAKED GOODS",
+      "simplified_description": "$3.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peanut Butter Cookie",
+      "price": 3.25,
+      "description": "$3.25",
+      "category": "BAKED GOODS",
+      "simplified_description": "$3.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monster Cookie",
+      "price": 3.25,
+      "description": "$3.25",
+      "category": "BAKED GOODS",
+      "simplified_description": "$3.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Almond Brownie",
+      "price": 4.5,
+      "description": "$4.50",
+      "category": "BAKED GOODS",
+      "simplified_description": "$4.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Oat Bar",
+      "price": 4.5,
+      "description": "$4.50",
+      "category": "BAKED GOODS",
+      "simplified_description": "$4.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Poppyseed Loaf",
+      "price": 3.5,
+      "description": "$3.50",
+      "category": "BAKED GOODS",
+      "simplified_description": "$3.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banana Bread",
+      "price": 3.5,
+      "description": "$3.50",
+      "category": "BAKED GOODS",
+      "simplified_description": "$3.50",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

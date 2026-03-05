@@ -1,0 +1,250 @@
+{
+  "restaurant": "missdo",
+  "parsed_at": "2026-02-06T03:22:56.344181",
+  "item_count": 27,
+  "items": [
+    {
+      "name": "Steamed Tapioca Dumplings (Banh Bot Loc)",
+      "price": 18.0,
+      "description": "8pc. Dry Shrimp With Pork",
+      "category": "FOOD",
+      "simplified_description": "8pc. Dry Shrimp With Pork",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls (Cha Gio)",
+      "price": 14.0,
+      "description": "3pc. Pork & shrimp, Rice Noodle, Black Mushroom, Carrot, Taro",
+      "category": "FOOD",
+      "simplified_description": "3pc. Pork & shrimp, Rice Noodle, Black Mushroom, Carrot, Taro",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad Rolls (Goi Cuon)",
+      "price": 13.0,
+      "description": "Prawns, Rice Wrap, Green, Vermicelli, Served With Sesame Fish Sauce",
+      "category": "FOOD",
+      "simplified_description": "Prawns, Rice Wrap, Green, Vermicelli, Served With Sesame Fish Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Butter Wings (Canh Ga Chien Bo)",
+      "price": 16.0,
+      "description": "Black Pepper Lime Salt **Butter from Vietnam",
+      "category": "FOOD",
+      "simplified_description": "Black Pepper Lime Salt **Butter from Vietnam",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pho Ox Tail (GF)",
+      "price": 22.0,
+      "description": "Rice Noodle, Beef Broth, Ox Tail, Rare Beef, Flank, Beef Ball",
+      "category": "FOOD",
+      "simplified_description": "Rice Noodle, Beef Broth, Ox Tail, Rare Beef, Flank, Beef Ball",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pho Regular (GF)",
+      "price": 19.0,
+      "description": "Rice Noodle, Beef Broth, Short Rib, Rare Beef, Flank, Beef Ball",
+      "category": "FOOD",
+      "simplified_description": "Rice Noodle, Beef Broth, Short Rib, Rare Beef, Flank, Beef Ball",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Noodles (Bun Thit Nuong Cha Gio)",
+      "price": 19.0,
+      "description": "Spring Roll, Pork Belly With Peanuts",
+      "category": "FOOD",
+      "simplified_description": "Spring Roll, Pork Belly With Peanuts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken (w/ Paris Honey Sauce)",
+      "price": 14.0,
+      "description": ".",
+      "category": "FOOD",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Teriyaki (Onion w/ Teriyaki Sauce)",
+      "price": 15.0,
+      "description": ".",
+      "category": "FOOD",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Lamb (Onion w/ Paris Honey Sauce)",
+      "price": 16.0,
+      "description": ".",
+      "category": "FOOD",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miss Do Coffee",
+      "price": 8.0,
+      "description": "30% Gia Lai-Vietnamese Bean + 70% Local Bean",
+      "category": "DRINK",
+      "simplified_description": "30% Gia Lai-Vietnamese Bean + 70% Local Bean",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Signature Hot Or Cold Coffee",
+      "price": 8.0,
+      "description": "(Black | Condensed Milk | Cream)",
+      "category": "DRINK",
+      "simplified_description": "(Black | Condensed Milk | Cream)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Café (Bac Xiu Hot/Cold)",
+      "price": 8.0,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt (Café Muoi)",
+      "price": 10.0,
+      "description": "(Hot/Cold)",
+      "category": "DRINK",
+      "simplified_description": "(Hot/Cold)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut (Café Dua)",
+      "price": 10.0,
+      "description": "(Hot/Cold)",
+      "category": "DRINK",
+      "simplified_description": "(Hot/Cold)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha (Café Greentea)",
+      "price": 9.0,
+      "description": "(Hot/Cold)",
+      "category": "DRINK",
+      "simplified_description": "(Hot/Cold)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fancy Drinks",
+      "price": 9.0,
+      "description": "(All Cold)",
+      "category": "DRINK",
+      "simplified_description": "(All Cold)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit With Green Tea",
+      "price": 9.0,
+      "description": "Mango | Strawberry",
+      "category": "DRINK",
+      "simplified_description": "Mango | Strawberry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Coffee Martini",
+      "price": 14.0,
+      "description": "Vodka, Sugar, Kahlua",
+      "category": "DRINK",
+      "simplified_description": "Vodka, Sugar, Kahlua",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Wine",
+      "price": 10.0,
+      "description": "(5oz)",
+      "category": "DRINK",
+      "simplified_description": "(5oz)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red/White",
+      "price": 10.0,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rose/Champagne",
+      "price": 12.0,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beer",
+      "price": 8.0,
+      "description": "(Bottle)",
+      "category": "DRINK",
+      "simplified_description": "(Bottle)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saigon/333 (1-2-3 Zô)",
+      "price": 8.0,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Asahi | Sapporo | Local Beer",
+      "price": 7.5,
+      "description": ".",
+      "category": "DRINK",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Mousse",
+      "price": 8.0,
+      "description": ".",
+      "category": "DESSERT",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tiramisu (GF)",
+      "price": 9.0,
+      "description": ".",
+      "category": "DESSERT",
+      "simplified_description": ".",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,1517 @@
+{
+  "restaurant": "gingergarlicrestaurant",
+  "parsed_at": "2026-02-06T02:22:18.471527",
+  "item_count": 111,
+  "items": [
+    {
+      "name": "Egg Curry",
+      "price": 12.99,
+      "description": "Egg Curry",
+      "category": "FOOD",
+      "simplified_description": "Boiled eggs cooked in a flavorful curry sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Roast",
+      "price": 13.99,
+      "description": "Egg Roast",
+      "category": "FOOD",
+      "simplified_description": "Spiced roasted eggs with rich seasoning.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egg Kuruma",
+      "price": 13.99,
+      "description": "Egg Kuruma",
+      "category": "FOOD",
+      "simplified_description": "Eggs cooked in a creamy, mildly spiced kuruma sauce.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Kothu Porota",
+      "price": 14.99,
+      "description": "Veg Kothu Porota",
+      "category": "FOOD",
+      "simplified_description": "Chopped flatbread stir-fried with mixed vegetables and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kothu Porota",
+      "price": 16.99,
+      "description": "Chicken Kothu Porota",
+      "category": "FOOD",
+      "simplified_description": "Chopped flatbread stir-fried with chicken and spices.",
+      "dietary_info": [
+        "halal",
+        "kosher",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kothu Porota",
+      "price": 17.99,
+      "description": "Beef Kothu Porota",
+      "category": "FOOD",
+      "simplified_description": "Chopped flatbread stir-fried with beef and spices.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Kothu Porota",
+      "price": 15.99,
+      "description": "Egg Kothu Porota",
+      "category": "FOOD",
+      "simplified_description": "Chopped flatbread stir-fried with eggs and spices.",
+      "dietary_info": [
+        "nut-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kappa",
+      "price": 9.99,
+      "description": "Kappa",
+      "category": "FOOD",
+      "simplified_description": "Boiled tapioca root served plain or with spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kappa Biryani",
+      "price": 18.99,
+      "description": "Kappa Biryani",
+      "category": "FOOD",
+      "simplified_description": "Spiced tapioca root cooked biryani-style with herbs.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kappa Pothi",
+      "price": 18.99,
+      "description": "Kappa Pothi",
+      "category": "FOOD",
+      "simplified_description": "Tapioca root dumplings served with spicy sauce.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Stew",
+      "price": 12.99,
+      "description": "Veg Stew",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in a mild coconut milk stew.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Kuruma",
+      "price": 12.99,
+      "description": "Veg Kuruma",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in a creamy kuruma sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg Curry",
+      "price": 12.99,
+      "description": "Mix Veg Curry",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in a spiced curry sauce.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Masala",
+      "price": 13.99,
+      "description": "Mushroom Masala",
+      "category": "FOOD",
+      "simplified_description": "Mushrooms cooked in a rich, spiced masala sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 13.99,
+      "description": "Paneer Butter Masala",
+      "category": "FOOD",
+      "simplified_description": "Paneer cheese cooked in a creamy, buttery tomato sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Mutter Masala",
+      "price": 13.99,
+      "description": "Paneer Mutter Masala",
+      "category": "FOOD",
+      "simplified_description": "Cottage cheese and peas cooked in a spiced tomato gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Fry",
+      "price": 12.99,
+      "description": "Dal Fry",
+      "category": "FOOD",
+      "simplified_description": "Spiced and sautéed lentils cooked to a flavorful finish.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 13.49,
+      "description": "Aloo Gobi",
+      "category": "FOOD",
+      "simplified_description": "Potatoes and cauliflower cooked with spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sambar",
+      "price": 5.99,
+      "description": "Sambar",
+      "category": "FOOD",
+      "simplified_description": "Lentil-based vegetable stew with tamarind and spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Chettinad",
+      "price": 14.49,
+      "description": "Mushroom Chettinad",
+      "category": "FOOD",
+      "simplified_description": "Spicy South Indian mushroom curry with aromatic spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Porotta & Veg Khuruma",
+      "price": 14.99,
+      "description": "Porotta & Veg Khuruma",
+      "category": "FOOD",
+      "simplified_description": "Flaky flatbread served with a mixed vegetable curry.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pazhampori, Beef & Coffee",
+      "price": 16.49,
+      "description": "Pazhampori, Beef & Coffee",
+      "category": "FOOD",
+      "simplified_description": "Fried banana fritters served with beef and coffee.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Dosa, Wada, Sambar, Chutney",
+      "price": 13.49,
+      "description": "Plain Dosa, Wada, Sambar, Chutney",
+      "category": "FOOD",
+      "simplified_description": "Thin rice crepe with lentil donut, stew, and chutney.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Dosa, Wada, Sambar, Chutney",
+      "price": 14.49,
+      "description": "Masala Dosa, Wada, Sambar, Chutney",
+      "category": "FOOD",
+      "simplified_description": "Rice crepe stuffed with spiced potatoes, served with sides.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Idli, Sambar, Chutney",
+      "price": 11.99,
+      "description": "Idli, Sambar, Chutney",
+      "category": "FOOD",
+      "simplified_description": "Steamed rice cakes served with lentil stew and chutney.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Uzhunnu Wada, Sambar, Chutney",
+      "price": 11.99,
+      "description": "Uzhunnu Wada, Sambar, Chutney",
+      "category": "FOOD",
+      "simplified_description": "Fried lentil donut served with lentil stew and chutney.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Idlil, Wada, Sambar, Chutney",
+      "price": 11.99,
+      "description": "Idlil, Wada, Sambar, Chutney",
+      "category": "FOOD",
+      "simplified_description": "Steamed rice cakes and lentil donut with stew and chutney.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Appam & Veg Stew",
+      "price": 13.99,
+      "description": "Appam & Veg Stew",
+      "category": "FOOD",
+      "simplified_description": "Soft rice pancakes served with a mild vegetable stew.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Appam & Beef Curry",
+      "price": 16.49,
+      "description": "Appam & Beef Curry",
+      "category": "FOOD",
+      "simplified_description": "Soft rice pancakes served with spicy beef curry.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Appam & Chicken Curry",
+      "price": 15.49,
+      "description": "Appam & Chicken Curry",
+      "category": "FOOD",
+      "simplified_description": "Soft rice pancakes served with spicy chicken curry.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Rice, Chapati, Chicken Curry",
+      "price": 16.99,
+      "description": "Rice, Chapati, Chicken Curry",
+      "category": "FOOD",
+      "simplified_description": "Rice and chapati served with chicken curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Porotta & Beef Curry",
+      "price": 16.99,
+      "description": "Porotta & Beef Curry",
+      "category": "FOOD",
+      "simplified_description": "Flaky porotta bread served with beef curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Porotta & Chicken Curry",
+      "price": 15.99,
+      "description": "Porotta & Chicken Curry",
+      "category": "FOOD",
+      "simplified_description": "Flaky porotta bread served with chicken curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kappa & Beef Curry",
+      "price": 18.99,
+      "description": "Kappa & Beef Curry",
+      "category": "FOOD",
+      "simplified_description": "Boiled tapioca served with beef curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kappa & Chicken Curry",
+      "price": 17.99,
+      "description": "Kappa & Chicken Curry",
+      "category": "FOOD",
+      "simplified_description": "Boiled tapioca served with chicken curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kappa & Fish Curry",
+      "price": 16.99,
+      "description": "Kappa & Fish Curry",
+      "category": "FOOD",
+      "simplified_description": "Boiled tapioca served with fish curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice & Fish Curry",
+      "price": 13.99,
+      "description": "Rice & Fish Curry",
+      "category": "FOOD",
+      "simplified_description": "Rice served with fish curry.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice, Chapati, Paneer Butter",
+      "price": 15.49,
+      "description": "Rice, Chapati, Paneer Butter",
+      "category": "FOOD",
+      "simplified_description": "Rice and chapati served with paneer butter curry.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rice, Chapati, Butter Chicken",
+      "price": 16.99,
+      "description": "Rice, Chapati, Butter Chicken",
+      "category": "FOOD",
+      "simplified_description": "Rice and chapati served with butter chicken.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Payasam of the day",
+      "price": 5.99,
+      "description": "Payasam of the day",
+      "category": "DESSERT",
+      "simplified_description": "Traditional Indian sweet pudding of the day.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "Ice Cream",
+      "price": 3.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Cold and creamy ice cream dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 3.99,
+      "description": "Gulab Jamun",
+      "category": "DESSERT",
+      "simplified_description": "Sweet fried dough balls soaked in syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun with Ice Cream",
+      "price": 5.99,
+      "description": "Gulab Jamun with Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Sweet fried dough balls served with ice cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot Halwa",
+      "price": 6.99,
+      "description": "Carrot Halwa",
+      "category": "DESSERT",
+      "simplified_description": "Sweet carrot pudding dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": 2.49,
+      "description": "Tea",
+      "category": "DRINK",
+      "simplified_description": "Hot brewed tea beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 2.25,
+      "description": "Black Tea",
+      "category": "DRINK",
+      "simplified_description": "A hot cup of brewed black tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Coffee",
+      "price": 2.25,
+      "description": "Black Coffee",
+      "category": "DRINK",
+      "simplified_description": "A hot cup of brewed black coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Filter Coffee",
+      "price": 2.49,
+      "description": "Filter Coffee",
+      "category": "DRINK",
+      "simplified_description": "Traditional brewed filter coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lime",
+      "price": 5.99,
+      "description": "Lime",
+      "category": "DRINK",
+      "simplified_description": "Fresh lime drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lime",
+      "price": 5.49,
+      "description": "Fresh Lime",
+      "category": "DRINK",
+      "simplified_description": "Freshly squeezed lime juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lassi",
+      "price": 5.99,
+      "description": "Lassi",
+      "category": "DRINK",
+      "simplified_description": "A traditional yogurt-based drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Milk Shake",
+      "price": 6.99,
+      "description": "Milk Shake",
+      "category": "DRINK",
+      "simplified_description": "A cold blended milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Milk Shake With Ice Cream",
+      "price": 8.99,
+      "description": "Milk Shake With Ice Cream",
+      "category": "DRINK",
+      "simplified_description": "Milkshake blended with ice cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Masala Dosa",
+      "price": 12.99,
+      "description": "Onion Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Crispy dosa filled with spiced onion potato mix.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Podi Dosa",
+      "price": 12.99,
+      "description": "Podi Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa sprinkled with spicy podi powder.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Podi Masala Dosa",
+      "price": 13.99,
+      "description": "Podi Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with spicy podi powder and potato filling.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Podi Cheese Dosa",
+      "price": 13.99,
+      "description": "Podi Cheese Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with spicy podi powder and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Podi Cheese Masala Dosa",
+      "price": 14.99,
+      "description": "Podi Cheese Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with podi powder, cheese, and potato filling.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Curry Leaf Podi Dosa",
+      "price": 13.99,
+      "description": "Curry Leaf Podi Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with curry leaf and spicy podi powder.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Curry Leaf Masala Dosa",
+      "price": 13.99,
+      "description": "Curry Leaf Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with curry leaf and spiced potato filling.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Gobi Manchurian Dosa",
+      "price": 13.99,
+      "description": "Gobi Manchurian Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with spicy cauliflower Manchurian.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Butter Plain Dosa",
+      "price": 12.49,
+      "description": "Butter Plain Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Plain dosa served with butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Masala Dosa",
+      "price": 13.99,
+      "description": "Butter Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with spiced potato masala and butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Cheese Dosa",
+      "price": 13.99,
+      "description": "Butter Cheese Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa topped with butter and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coriander Dosa",
+      "price": 12.99,
+      "description": "Coriander Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa flavored with fresh coriander.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Plain Dosa",
+      "price": 11.99,
+      "description": "Onion Plain Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Plain dosa with onions.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paper Dosa (4ft long)",
+      "price": 19.99,
+      "description": "Paper Dosa (4ft long)",
+      "category": "DOSA - VEG",
+      "simplified_description": "Very thin, crispy dosa, 4 feet long.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Love Dosa",
+      "price": 14.99,
+      "description": "Love Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Special dosa variety called Love Dosa.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chef Special Dosa",
+      "price": 16.99,
+      "description": "Chef Special Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa prepared with the chef's special recipe.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rava Dosa",
+      "price": 14.99,
+      "description": "Rava Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Crispy dosa made from semolina (rava).",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rava Dosa",
+      "price": 15.49,
+      "description": "Onion Rava Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Crispy rava dosa with onions.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rava Masala Dosa",
+      "price": 15.99,
+      "description": "Rava Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Rava dosa filled with spiced potato masala.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rava Cheese Dosa",
+      "price": 15.99,
+      "description": "Rava Cheese Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Rava dosa topped with cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rava Podi Dosa",
+      "price": 15.99,
+      "description": "Rava Podi Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Rava dosa sprinkled with spiced powder (podi).",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Masala Uthappam",
+      "price": 14.99,
+      "description": "Masala Uthappam",
+      "category": "DOSA - VEG",
+      "simplified_description": "Thick pancake topped with spiced vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Uthappam",
+      "price": 13.99,
+      "description": "Onion Uthappam",
+      "category": "DOSA - VEG",
+      "simplified_description": "Thick pancake topped with onions.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Tomato Uthappam",
+      "price": 14.99,
+      "description": "Onion Tomato Uthappam",
+      "category": "DOSA - VEG",
+      "simplified_description": "Thick pancake topped with onions and tomatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg Uthappam",
+      "price": 16.99,
+      "description": "Mix Veg Uthappam",
+      "category": "DOSA - VEG",
+      "simplified_description": "Thick pancake topped with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chilli Paneer Dosa",
+      "price": 14.49,
+      "description": "Chilli Paneer Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with spicy paneer cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Ghee Roast",
+      "price": 10.99,
+      "description": "Ghee Roast",
+      "category": "DOSA - VEG",
+      "simplified_description": "Crispy dosa roasted with ghee.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Dosa",
+      "price": 11.99,
+      "description": "Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with spiced potato mixture.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Plain Dosa",
+      "price": 11.99,
+      "description": "Mysore Plain Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Plain dosa with spicy Mysore chutney spread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "price": 12.99,
+      "description": "Mysore Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Masala dosa with spicy Mysore chutney spread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thattu Dosa",
+      "price": 11.99,
+      "description": "Thattu Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Traditional thin and crispy dosa.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thattil Kutty Dosa",
+      "price": 13.99,
+      "description": "Thattil Kutty Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Small, thick, and soft dosas served in a stack.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Dosa",
+      "price": 13.99,
+      "description": "Spring Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with a spring roll style filling.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Dosa",
+      "price": 12.99,
+      "description": "Achari Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa flavored with pickling spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadappa Kara Dosa (Spicy)",
+      "price": 12.99,
+      "description": "Kadappa Kara Dosa (Spicy)",
+      "category": "DOSA - VEG",
+      "simplified_description": "Spicy dosa with Kadappa style seasoning.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Spicy Garlic Dosa",
+      "price": 11.99,
+      "description": "Spicy Garlic Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa flavored with spicy garlic.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Spicy Garlic Masala Dosa",
+      "price": 12.99,
+      "description": "Spicy Garlic Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Masala dosa with spicy garlic flavor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chili Cheese Masala Dosa",
+      "price": 12.99,
+      "description": "Chili Cheese Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Spicy dosa filled with cheese and masala potatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Plain Dosa",
+      "price": 10.99,
+      "description": "Plain Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Crispy plain dosa made from fermented rice batter.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Gobi Dosa",
+      "price": 13.99,
+      "description": "Chili Gobi Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Spicy dosa filled with chili cauliflower.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Paneer Manchurian Dosa",
+      "price": 13.99,
+      "description": "Paneer Manchurian Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with paneer in Manchurian sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Masala Dosa",
+      "price": 14.99,
+      "description": "Paneer Tikka Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa stuffed with paneer tikka in masala sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Masala Dosa",
+      "price": 13.49,
+      "description": "Paneer Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with spiced paneer and potato masala.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer Dosa",
+      "price": 14.99,
+      "description": "Palak Paneer Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with spinach and paneer cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Masala Dosa",
+      "price": 12.99,
+      "description": "Palak Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa stuffed with spinach and spiced potato masala.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Plain Dosa",
+      "price": 11.99,
+      "description": "Palak Plain Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Plain dosa served with spinach.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "gluten-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Plain Dosa",
+      "price": 12.99,
+      "description": "Cheese Plain Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Plain dosa filled with melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Cheese Dosa",
+      "price": 13.99,
+      "description": "Mysore Cheese Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa with spicy Mysore chutney and cheese filling.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese Masala Dosa",
+      "price": 13.99,
+      "description": "Cheese Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Dosa filled with cheese and spiced potato masala.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mysore Cheese Masala Dosa",
+      "price": 14.99,
+      "description": "Mysore Cheese Masala Dosa",
+      "category": "DOSA - VEG",
+      "simplified_description": "Spicy Mysore chutney dosa with cheese and potato masala.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Dosa",
+      "price": 16.99,
+      "description": "Chicken Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa filled with cooked chicken.",
+      "dietary_info": [
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Dosa",
+      "price": 16.99,
+      "description": "Chicken Tikka Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa stuffed with spiced chicken tikka.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Butter Chicken Dosa",
+      "price": 17.99,
+      "description": "Butter Chicken Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa filled with creamy butter chicken.",
+      "dietary_info": [
+        "halal",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Manchurian Dosa",
+      "price": 16.99,
+      "description": "Chicken Manchurian Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa filled with spicy chicken Manchurian.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chili Chicken Dosa",
+      "price": 16.99,
+      "description": "Chili Chicken Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa filled with spicy chili chicken.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Egg Dosa",
+      "price": 13.99,
+      "description": "Egg Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa filled with cooked egg.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Ghee Dosa",
+      "price": 14.99,
+      "description": "Egg Ghee Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa with egg and ghee for rich flavor.",
+      "dietary_info": [
+        "halal",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Ghee Masala Dosa",
+      "price": 15.99,
+      "description": "Egg Ghee Masala Dosa",
+      "category": "DOSA - NON VEG",
+      "simplified_description": "Dosa with egg, ghee, and spiced potato filling.",
+      "dietary_info": [
+        "halal",
+        "dairy-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

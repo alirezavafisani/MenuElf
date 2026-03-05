@@ -1,0 +1,349 @@
+{
+  "restaurant": "tuktukthai",
+  "parsed_at": "2026-02-06T04:41:26.033722",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "Roti",
+      "price": 4.49,
+      "description": "crispy pan-fried pastry served with sweetened condensed milk",
+      "category": "DESSERT",
+      "simplified_description": "crispy pan-fried pastry served with sweetened condensed milk",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Bananas (6pc)",
+      "price": 4.49,
+      "description": "banana pieces coated in coconut, sesame, wheat & rice flour with coconut dipping sauce",
+      "category": "DESSERT",
+      "simplified_description": "banana pieces coated in coconut, sesame, wheat & rice flour with coconut dipping",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Sticky Rice",
+      "price": 4.49,
+      "description": "sticky rice, coconut milk, sugar & sea salt topped with fresh mango",
+      "category": "DESSERT",
+      "simplified_description": "sticky rice, coconut milk, sugar & sea salt topped with fresh mango",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Iced Tea",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Iced Coffee",
+      "price": 3.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aquafina Water",
+      "price": 1.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canned Sodas",
+      "price": 2.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bubly Water",
+      "price": 1.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Rice Bowl",
+      "price": 6.95,
+      "description": "two chicken satay skewers served with choice of rice",
+      "category": "FOOD",
+      "simplified_description": "two chicken satay skewers served with choice of rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Rice Bowl",
+      "price": 6.95,
+      "description": "broccoli, carrots, and cauliflower in tamarind sauce and served with choice of rice",
+      "category": "FOOD",
+      "simplified_description": "broccoli, carrots, and cauliflower in tamarind sauce and served with choice of r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls (2pc)",
+      "price": 4.49,
+      "description": "carrot, cilantro, black mushroom, vermicelli & garlic, wrapped in spring roll paper, served with pineapple sauce",
+      "category": "APPETIZER",
+      "simplified_description": "carrot, cilantro, black mushroom, vermicelli & garlic, wrapped in spring roll pa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tukky Sticks (2pc)",
+      "price": 3.95,
+      "description": "chicken, onion, carrot, & vermicelli, wrapped in spring roll paper and served with pineapple sauce",
+      "category": "APPETIZER",
+      "simplified_description": "chicken, onion, carrot, & vermicelli, wrapped in spring roll paper and served wi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Candied Cauliflower",
+      "price": 6.49,
+      "description": "crispy cauliflower topped with crunchy onions in tamarind sauce",
+      "category": "APPETIZER",
+      "simplified_description": "crispy cauliflower topped with crunchy onions in tamarind sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Satay (2pc)",
+      "price": 4.49,
+      "description": "hand carved chicken breast grilled on a bamboo skewer brushed in savoury peanut sauce",
+      "category": "APPETIZER",
+      "simplified_description": "hand carved chicken breast grilled on a bamboo skewer brushed in savoury peanut ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu Satay (2pc)",
+      "price": 4.49,
+      "description": "tofu on a bamboo skewer brushed in savoury peanut sauce",
+      "category": "APPETIZER",
+      "simplified_description": "tofu on a bamboo skewer brushed in savoury peanut sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crying Cowboy Ribs",
+      "price": 6.49,
+      "description": "pork ribs tossed in our signature crying tiger sauce and topped with crispy rice crumbs",
+      "category": "APPETIZER",
+      "simplified_description": "pork ribs tossed in our signature crying tiger sauce and topped with crispy rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Rice Sticks (2pc)",
+      "price": 2.25,
+      "description": "served with choice of tamarind or sweet soy sauce",
+      "category": "APPETIZER",
+      "simplified_description": "served with choice of tamarind or sweet soy sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 9.49,
+      "description": "crispy battered with 3 sauces to choose from: crying cowboy, tamarind, or sweet chili",
+      "category": "APPETIZER",
+      "simplified_description": "crispy battered with 3 sauces to choose from: crying cowboy, tamarind, or sweet ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tom Yum",
+      "price": 5.95,
+      "description": "chicken or prawn in chicken broth with tomato, mushroom, cilantro, green onion, lime juice, chili oil, kaffir lime leaf, galangal root & lemongrass – vegetarian option- made with vegetable broth and tofu",
+      "category": "SOUP",
+      "simplified_description": "chicken or prawn in chicken broth with tomato, mushroom, cilantro, green onion, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tom Kha",
+      "price": 5.95,
+      "description": "chicken or prawn in a chicken & coconut milk broth with tomato, mushroom, cilantro, green onion, lime juice, chili oil, kaffir lime leaf, galangal root & lemongrass – vegetarian option- made with vegetable broth and tofu",
+      "category": "SOUP",
+      "simplified_description": "chicken or prawn in a chicken & coconut milk broth with tomato, mushroom, cilant",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Papaya Salad",
+      "price": 6.95,
+      "description": "green papaya with carrots, tomato, green bean & peanut with chili lime dressing",
+      "category": "SALAD",
+      "simplified_description": "green papaya with carrots, tomato, green bean & peanut with chili lime dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Thai Noodle Soup",
+      "price": 12.95,
+      "description": "rice noodles and bean sprouts in a delicious mild chicken broth, with your choice of tender chicken or beef, topped with cilantro and green onion",
+      "category": "SOUP",
+      "simplified_description": "rice noodles and bean sprouts in a delicious mild chicken broth, with your choic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Noodle Soup",
+      "price": 12.95,
+      "description": "rice noodles and bean sprouts in a delicious spicy chicken broth, with your choice of tender chicken or beef, topped with cilantro and green onion",
+      "category": "SOUP",
+      "simplified_description": "rice noodles and bean sprouts in a delicious spicy chicken broth, with your choi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuk Tuk Fried Rice",
+      "price": 14.95,
+      "description": "chicken or beef in a sweet soy & oyster sauce stir fried with rice, broccoli, carrot, cauliflower & egg, topped with green onion",
+      "category": "FOOD",
+      "simplified_description": "chicken or beef in a sweet soy & oyster sauce stir fried with rice, broccoli, ca",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuk Tuk Stir Fry",
+      "price": 14.95,
+      "description": "chicken or beef in a sweet soy & oyster sauce stir fried with rice noodle, broccoli, carrot, cauliflower & egg, topped with green onion",
+      "category": "FOOD",
+      "simplified_description": "chicken or beef in a sweet soy & oyster sauce stir fried with rice noodle, brocc",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pad Thai",
+      "price": null,
+      "description": "chicken or prawn or tofu in original pad thai sauce stir-fried with rice noodles, egg, bean sprouts, chives & salted radish, topped with peanuts, cilantro & green onions",
+      "category": "FOOD",
+      "simplified_description": "chicken or prawn or tofu in original pad thai sauce stir-fried with rice noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Swimming Rama*",
+      "price": null,
+      "description": "chicken or tofu in a peanut sauce served over fresh spinach",
+      "category": "FOOD",
+      "simplified_description": "chicken or tofu in a peanut sauce served over fresh spinach",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masman Curry*",
+      "price": null,
+      "description": "chicken or beef, red potatoes & onions in masman curry topped with pickled radish",
+      "category": "FOOD",
+      "simplified_description": "chicken or beef, red potatoes & onions in masman curry topped with pickled radis",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Stir Fry*",
+      "price": null,
+      "description": "green beans, broccoli, carrot, cauliflower, baby corn with garlic oyster sauce or peanut sauce",
+      "category": "FOOD",
+      "simplified_description": "green beans, broccoli, carrot, cauliflower, baby corn with garlic oyster sauce o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Curry*",
+      "price": null,
+      "description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai red curry",
+      "category": "FOOD",
+      "simplified_description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Curry*",
+      "price": null,
+      "description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai green curry",
+      "category": "FOOD",
+      "simplified_description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tamarind Chicken*",
+      "price": null,
+      "description": "crispy chicken, green & sweet onion, green bean & carrot in tamarind sauce topped with crispy onion",
+      "category": "FOOD",
+      "simplified_description": "crispy chicken, green & sweet onion, green bean & carrot in tamarind sauce toppe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cashew Chicken*",
+      "price": null,
+      "description": "crispy chicken, basa or tofu, green & sweet onion, green beans, carrots with sweet & sour chili sauce topped with cashew nuts",
+      "category": "FOOD",
+      "simplified_description": "crispy chicken, basa or tofu, green & sweet onion, green beans, carrots with swe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crying Tiger*",
+      "price": null,
+      "description": "beef with cilantro, green onion, romaine lettuce, carrot, chili lime dressing & crispy rice crumbs",
+      "category": "FOOD",
+      "simplified_description": "beef with cilantro, green onion, romaine lettuce, carrot, chili lime dressing & ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Devil*",
+      "price": null,
+      "description": "chicken or tofu in an extra spicy curry, lemongrass & turmeric sauce, seasoned with lime leaf & chili",
+      "category": "FOOD",
+      "simplified_description": "chicken or tofu in an extra spicy curry, lemongrass & turmeric sauce, seasoned w",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Flames*",
+      "price": null,
+      "description": "beef or chicken stir-fried with green bean, broccoli, carrot, cauliflower, basil & onion in a garlic, chili & oyster sauce",
+      "category": "FOOD",
+      "simplified_description": "beef or chicken stir-fried with green bean, broccoli, carrot, cauliflower, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Flames",
+      "price": null,
+      "description": "beef or chicken in a garlic, chili & oyster sauce stir fried with rice noodle, broccoli, carrot, cauliflower, green bean & onion",
+      "category": "FOOD",
+      "simplified_description": "beef or chicken in a garlic, chili & oyster sauce stir fried with rice noodle, b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Drunken*",
+      "price": null,
+      "description": "crispy fried fish fillet stir-fried with sweet onion, green onion, green bean & carrot in a Thai-style sweet smoky chili paste",
+      "category": "FOOD",
+      "simplified_description": "crispy fried fish fillet stir-fried with sweet onion, green onion, green bean & ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

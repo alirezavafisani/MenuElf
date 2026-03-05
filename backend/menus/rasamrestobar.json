@@ -1,0 +1,79 @@
+{
+  "restaurant": "rasamrestobar",
+  "parsed_at": "2025-12-24T23:39:20.138185",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Kerala Chicken Biriyani",
+      "price": 19.99,
+      "description": "Tender chicken pieces marinated in spices, cooked with fragrant basmati rice, garnished with fried onions, cashews, almonds, and fresh herbs.",
+      "simplified_description": "A flavorful rice dish with marinated chicken and various toppings.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Ullarthiyathu",
+      "price": null,
+      "description": "Succulent beef pieces stir-fried with aromatic spices, green chilies, and curry leaves.",
+      "simplified_description": "Stir-fried beef with spices and chilies.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chatti Meen Curry",
+      "price": null,
+      "description": "Tender fish fillets simmered in a rich, spiced coconut curry with onions, tomatoes, and curry leaves.",
+      "simplified_description": "Fish cooked in a spicy coconut curry.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Dosa",
+      "price": null,
+      "description": "Crisp, savory crepe filled with spiced potatoes and onions. A South Indian delicacy.",
+      "simplified_description": "A crispy crepe filled with spiced potatoes.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mutton Biriyani",
+      "price": null,
+      "description": "Rich, slow-cooked delicacy made with tender mutton, lentils, and broken wheat, blended into a smooth, hearty paste. Infused with aromatic spices and garnished with fried onions, mint, and lemon, it offers a perfect balance of flavor and tradition in every bite.",
+      "simplified_description": "A rich rice dish with slow-cooked mutton and spices.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vizhinjam Chicken Fry",
+      "price": null,
+      "description": "Marinated chicken pieces, deeply fried with a blend of Vizhinjam coastal spices, typically includes curry leaves and regional herbs.",
+      "simplified_description": "Fried chicken marinated with coastal spices.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Seekh Kabab mandi",
+      "price": 22.99,
+      "description": "A rich and hearty Arabian classic, our Lamb Seekh Kabab Mandi features succulent lamb seekh kababs served over fragrant, spiced mandi rice. Slow-cooked to perfection with traditional herbs and spices, this dish offers a perfect blend of smoky flavor, tender meat, and irresistible aroma in every bite.",
+      "simplified_description": "Lamb kababs served with spiced rice.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Authentic Hyderabadi Mutton Haleem",
+      "price": 14.99,
+      "description": "Rich, slow-cooked delicacy made with tender mutton, lentils, and broken wheat, blended into a smooth, hearty paste. Infused with aromatic spices and garnished with fried onions, mint, and lemon, it offers a perfect balance of flavor and tradition in every bite.",
+      "simplified_description": "A smooth, hearty dish made with mutton and lentils.",
+      "category": "Popular Dishes",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

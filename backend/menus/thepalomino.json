@@ -1,0 +1,232 @@
+{
+  "restaurant": "thepalomino",
+  "parsed_at": "2026-02-06T04:30:20.728768",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "RUSTIC CHEF SALAD (GF)",
+      "price": 24.0,
+      "description": "Greens, grilled veggies, smokehouse meats, roasted garlic, Applewood smoked cheddar, cherry tomatoes, pickled onions and hard-boiled egg. Sub with jackfruit (VEG)",
+      "category": "FOOD",
+      "simplified_description": "Greens, grilled veggies, smokehouse meats, roasted garlic, Applewood smoked ched",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ELOTE TACO SALAD (VEG)",
+      "price": 20.0,
+      "description": "Mixed greens in a cilantro crema dressing with black beans, corn, cherry tomato, feta cheese, pickled red onions, and crushed nacho chips.",
+      "category": "FOOD",
+      "simplified_description": "Mixed greens in a cilantro crema dressing with black beans, corn, cherry tomato,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED SAUSAGE ON A BUN",
+      "price": 22.0,
+      "description": "Palomino smoked sausage link topped sautéed onions and melted swiss cheese",
+      "category": "FOOD",
+      "simplified_description": "Palomino smoked sausage link topped sautéed onions and melted swiss cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALBERTA CHEESESTEAK",
+      "price": 22.0,
+      "description": "Smoked brisket, sautéed onions and peppers smothered in cheese sauce with rich gravy",
+      "category": "FOOD",
+      "simplified_description": "Smoked brisket, sautéed onions and peppers smothered in cheese sauce with rich g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PALOMINO BEEF DIP",
+      "price": 22.0,
+      "description": "Beef brisket with sautéed mushrooms, onions, zesty horseradish mayo, melted swiss cheese and a side of our special au jus",
+      "category": "FOOD",
+      "simplified_description": "Beef brisket with sautéed mushrooms, onions, zesty horseradish mayo, melted swis",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE PALOMINO CHEESEBURGER",
+      "price": 22.0,
+      "description": "Fresh ground chuck topped with Applewood smoked cheddar, house smoked bacon, bourbon mayo, lettuce, tomato, sautéed onions",
+      "category": "FOOD",
+      "simplified_description": "Fresh ground chuck topped with Applewood smoked cheddar, house smoked bacon, bou",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "APPLEWOOD SMOKED PULLED PORK",
+      "price": 22.0,
+      "description": "Add pickles + slaw (+3)",
+      "category": "FOOD",
+      "simplified_description": "Add pickles + slaw (+3)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SLICED ALBERTA BEEF BRISKET",
+      "price": 22.0,
+      "description": "Add pickles + slaw (+3)",
+      "category": "FOOD",
+      "simplified_description": "Add pickles + slaw (+3)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED TURKEY CLUB",
+      "price": 22.0,
+      "description": "Smoked and pulled turkey with bourbon mayo, lettuce, tomato, bacon and swiss",
+      "category": "FOOD",
+      "simplified_description": "Smoked and pulled turkey with bourbon mayo, lettuce, tomato, bacon and swiss",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE ULTIMATE VEGGIE BURGER (VEG)",
+      "price": 22.0,
+      "description": "The Beyond Burger topped with bourbon mayo, lettuce, tomato, pickled onions. Add Applewood smoked cheddar or house cured bacon (+3)",
+      "category": "FOOD",
+      "simplified_description": "The Beyond Burger topped with bourbon mayo, lettuce, tomato, pickled onions. Add",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PULLED SMOKED JACKFRUIT (VEG)",
+      "price": 22.0,
+      "description": "About as close as you get to the real deal! BBQ slathered, smoked and pulled jackfruit. Add pickles + slaw (+3)",
+      "category": "FOOD",
+      "simplified_description": "About as close as you get to the real deal! BBQ slathered, smoked and pulled jac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HADDOCK PO’ BOY",
+      "price": 24.0,
+      "description": "Blackened filet with bourbon mayo, lettuce, tomato, and pickled onions",
+      "category": "FOOD",
+      "simplified_description": "Blackened filet with bourbon mayo, lettuce, tomato, and pickled onions",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE PITBOSS",
+      "price": 24.0,
+      "description": "The big boy of the Palomino sandwiches, with Applewood smoked pulled pork, Alberta beef brisket, Spolumbo’s smoked sausage, slaw and pickles",
+      "category": "FOOD",
+      "simplified_description": "The big boy of the Palomino sandwiches, with Applewood smoked pulled pork, Alber",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TWO MEAT PLATTER",
+      "price": 38.0,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KANSAS CITY PORK RIBS (GF)",
+      "price": 28.0,
+      "description": "half rack 28 | full rack 38",
+      "category": "OTHER",
+      "simplified_description": "half rack 28 | full rack 38",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SLICED ALBERTA BEEF BRISKET (GF)",
+      "price": 28.0,
+      "description": "half pound 28 | full pound 38",
+      "category": "OTHER",
+      "simplified_description": "half pound 28 | full pound 38",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPOLUMBO’S SMOKED SAUSAGE LINKS (GF)",
+      "price": 28.0,
+      "description": "half pound 28 | full pound 38",
+      "category": "OTHER",
+      "simplified_description": "half pound 28 | full pound 38",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "APPLEWOOD SMOKED PULLED PORK (GF)",
+      "price": 28.0,
+      "description": "half pound 28 | full pound 38",
+      "category": "OTHER",
+      "simplified_description": "half pound 28 | full pound 38",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PULLED SMOKED TURKEY (GF)",
+      "price": 28.0,
+      "description": "half pound 28 | full pound 38",
+      "category": "OTHER",
+      "simplified_description": "half pound 28 | full pound 38",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PULLED SMOKED JACKFRUIT (GF, VEG)",
+      "price": 28.0,
+      "description": "half pound 28 | full pound 38",
+      "category": "OTHER",
+      "simplified_description": "half pound 28 | full pound 38",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED MEATLOAF (GF)",
+      "price": 22.0,
+      "description": "Smoked pork and fresh chuck, wrapped in our house cured bacon, coated in our whiskey wing BBQ sauce, topped with mornay, and served with spicy ketchup. Your choice of two fixins.",
+      "category": "FOOD",
+      "simplified_description": "Smoked pork and fresh chuck, wrapped in our house cured bacon, coated in our whi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MACARONI ‘N’ CHEESE",
+      "price": 20.0,
+      "description": "Add pulled pork, brisket, sausage, smoked turkey, house smoked bacon, or jackfruit (+6) Please note: does not come with two fixins.",
+      "category": "FOOD",
+      "simplified_description": "Add pulled pork, brisket, sausage, smoked turkey, house smoked bacon, or jackfru",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COFFEE AND DOUGHNUTS",
+      "price": 12.0,
+      "description": "Three “Stampede Style” mini donuts tossed in cinnamon sugar and served with French vanilla ice cream. Finished with a coffee caramel drizzle.",
+      "category": "DESSERT",
+      "simplified_description": "Three “Stampede Style” mini donuts tossed in cinnamon sugar and served with Fren",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOURBON APPLE CRUMBLE",
+      "price": 12.0,
+      "description": "Our bourbon apples with crunchy crumble and caramel drizzle. Served with French vanilla ice cream.",
+      "category": "DESSERT",
+      "simplified_description": "Our bourbon apples with crunchy crumble and caramel drizzle. Served with French ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKEHOUSE STRAWBERRY SHORTCAKE",
+      "price": 12.0,
+      "description": "A light sponge cake stuffed with our house made lemon curd. Topped with whipped ream and smoked strawberry compote. Served with French vanilla ice cream.",
+      "category": "DESSERT",
+      "simplified_description": "A light sponge cake stuffed with our house made lemon curd. Topped with whipped ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

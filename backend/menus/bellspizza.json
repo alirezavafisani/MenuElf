@@ -1,0 +1,682 @@
+{
+  "restaurant": "bellspizza",
+  "parsed_at": "2026-02-06T01:03:25.723454",
+  "item_count": 63,
+  "items": [
+    {
+      "name": "Vegetarian Supreme",
+      "price": 16.99,
+      "description": "Onion, Green Pepper, Mushroom, Tomato, Pineapple",
+      "category": "FOOD",
+      "simplified_description": "A vegetable pizza with onion, peppers, mushroom, tomato, and pineapple.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Goodness Oregano",
+      "price": 16.99,
+      "description": "Pesto Sauce, Spinach, Feta Cheese, Onion, Black Olives, Oregano, Mozza n Feta",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pesto, spinach, feta, onion, olives, and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mediteranean",
+      "price": 16.99,
+      "description": "Spinach, Feta Cheese, Tomato, Onion, Mozza n Feta",
+      "category": "FOOD",
+      "simplified_description": "Spinach, feta, tomato, onion, and mozzarella cheese pizza.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ranch Vegetarian (NEW)",
+      "price": 16.99,
+      "description": "Ranch Sauce, Mushrooms, Onions, Red Peppers, Pineapple, Black Olives",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian pizza with ranch sauce, mushrooms, peppers, pineapple, and olives.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Jalapeno Poppers (NEW)",
+      "price": 16.99,
+      "description": "Garlic Sauce, Onions, Green Peppers, Red Peppers, Mozza and Cheddar, Jakapeno Peppers",
+      "category": "FOOD",
+      "simplified_description": "Pizza with garlic sauce, peppers, onions, cheese, bacon, and jalapenos.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Four Cheese",
+      "price": 16.99,
+      "description": "Mozza, Parmesan, Feta, Cheddar",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with mozzarella, parmesan, feta, and cheddar cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Meatball (N)",
+      "price": 16.99,
+      "description": "Meatball, Mozza and Cheddar",
+      "category": "FOOD",
+      "simplified_description": "Pizza with meatballs and mozzarella and cheddar cheeses.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Italian",
+      "price": 16.99,
+      "description": "Pepperoni, Italian Sausage, Italian Crumble and Onion",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni, Italian sausage, crumble, and onion.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Chicken",
+      "price": 16.99,
+      "description": "Pesto Sauce, Chicken, Olives, Red Onion, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Chicken pizza with pesto sauce, olives, red onion, and mozzarella.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 16.99,
+      "description": "BBQ Sauce, onion, Chicken, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Chicken pizza with BBQ sauce, onion, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Chicken (NEW)",
+      "price": 16.99,
+      "description": "Honey Garlic Sauce, Chicken, Pineapple, Almonds, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Chicken pizza with honey garlic sauce, pineapple, almonds, and mozzarella.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Bacon & Ranch",
+      "price": 16.99,
+      "description": "Ranch Sauce, Chicken, Bacon, Green Pepper, Tomato, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Chicken and bacon pizza with ranch sauce, green pepper, tomato, and mozzarella.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Hot Chicken (NEW)",
+      "price": 16.99,
+      "description": "Honey hot sauce, Chicken, Red Peppers, Pineapple, Jalapeno Peppers, Mozza, Cheddar",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken pizza with honey hot sauce, peppers, pineapple, and cheeses.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Bacon Mushroom Melt",
+      "price": 16.99,
+      "description": "Garlic Sauce, Chicken, Bacon, Mushroom. Onion, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Chicken and bacon pizza with garlic sauce, mushrooms, onion, and mozzarella.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Buffalo",
+      "price": 16.99,
+      "description": "Buffalo Sauce, Chicken & Banana Peppers",
+      "category": "FOOD",
+      "simplified_description": "Spicy chicken pizza with buffalo sauce and banana peppers.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Supreme",
+      "price": 16.99,
+      "description": "Chicken, Onion, Green Pepper & Sliced Tomato, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Pizza with chicken, onion, green pepper, tomato, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Cheese Burger (NEW)",
+      "price": 16.99,
+      "description": "bbq sauce. lean beef, onion, mozza and cheddar, bacon, pickle",
+      "category": "FOOD",
+      "simplified_description": "Burger with BBQ sauce, beef, onion, mozzarella, cheddar, bacon, and pickle.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Double Cheese Burger",
+      "price": 16.99,
+      "description": "Bacon, Ground Beef, Onion, Cheddar+Mozza Cheese, Pickle",
+      "category": "FOOD",
+      "simplified_description": "Burger with bacon, ground beef, onion, cheddar, mozzarella, and pickle.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Taco Chicken or Beef (N)",
+      "price": 16.99,
+      "description": "Chicken/Lean Beef, Sour Cream, Lettuce, Tomatoes, Cheddar",
+      "category": "FOOD",
+      "simplified_description": "Taco with chicken or beef, sour cream, lettuce, tomato, and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Greek (N)",
+      "price": 16.99,
+      "description": "Lean Beef, Mozza and Feta, Black Olives, Tomato",
+      "category": "FOOD",
+      "simplified_description": "Pizza with lean beef, mozzarella, feta, black olives, and tomato.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Donair",
+      "price": 16.99,
+      "description": "Donair Sauce, Donair Beef, Tomato, Onion, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Donair beef with sauce, tomato, onion, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori (N)",
+      "price": 16.99,
+      "description": "Bell’s Tandoori sauce, Onions, Green Peppers, Red Peppers, Jalapeno Peppers, Mozza and Cheddar, Tandoori Chicken or Paneer",
+      "category": "FOOD",
+      "simplified_description": "Tandoori chicken or paneer with peppers, onions, jalapenos, mozzarella, and cheddar.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Mexican Spicy (NEW)",
+      "price": 16.99,
+      "description": "Pepperoni, Mexican Beef, Onion, Jalapeno Peppers, Mozza",
+      "category": "FOOD",
+      "simplified_description": "Pizza with pepperoni, Mexican beef, onion, jalapenos, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Personal Pizza 8″",
+      "price": 9.99,
+      "description": "Can Choose only from no 1-9",
+      "category": "FOOD",
+      "simplified_description": "Personal 8-inch pizza with choice from options 1 to 9.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Cheesy Breadstick",
+      "price": 9.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "Breadsticks topped with garlic and cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lasagna",
+      "price": 12.99,
+      "description": "Served Lasagna noodles with house made meat sauce, Oven baked with mozza cheese",
+      "category": "FOOD",
+      "simplified_description": "Lasagna noodles baked with meat sauce and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Alfredo",
+      "price": 11.99,
+      "description": "Pasta noodles mixed with alfredo sauce, oven baked with mozza chees",
+      "category": "FOOD",
+      "simplified_description": "Pasta baked with creamy alfredo sauce and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Chicken Alfredo",
+      "price": 10.99,
+      "description": "Pasta noodles mixed with alfredo sauce, oven baked with mozza chees",
+      "category": "FOOD",
+      "simplified_description": "Pasta baked with chicken, alfredo sauce, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Carbonara",
+      "price": 12.99,
+      "description": "Pasta Noodles tossed with Alfredo sauce, lean chicken, bacon and fresh mushrooms, Oven baked with mozza cheese",
+      "category": "FOOD",
+      "simplified_description": "Pasta with alfredo, chicken, bacon, mushrooms, baked with mozzarella.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Italian House Sauce",
+      "price": 12.99,
+      "description": "Pasta Noodles in house made sauce, tossed with sliced italian sausage and crumbles, oven baked with with mozza cheese",
+      "category": "FOOD",
+      "simplified_description": "Pasta baked with Italian sausage, sauce, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Creamy Pesto Chicken",
+      "price": 12.99,
+      "description": "Pasta Noodles and lean chicken, tossed with creamy pesto sauce, oven baked with mozza cheese",
+      "category": "FOOD",
+      "simplified_description": "Pasta with chicken in creamy pesto sauce baked with mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Poutine",
+      "price": 8.99,
+      "description": "Extra Cheese Curds – M-$1.25, L-$2.00",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with cheese curds and gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pulled Pork Poutine",
+      "price": 10.99,
+      "description": "Extra Cheese Curds – M-$1.25, L-$2.00",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with pulled pork, cheese curds, and gravy.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken",
+      "price": 10.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Popcorn Chicken Poutine",
+      "price": 10.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Lover",
+      "price": 10.99,
+      "description": "Extra Cheese Curds – M-$1.25, L-$2.00",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with various meats and cheese curds.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Double Cheese",
+      "price": 10.99,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 13.99,
+      "description": "1LB-$13.99, 2LB-$22.99",
+      "category": "SIDE",
+      "simplified_description": "Served chicken wings available in 1 or 2 pound portions.",
+      "dietary_info": [],
+      "other_info": "Available in 1LB and 2LB sizes"
+    },
+    {
+      "name": "Boneless Wingers",
+      "price": 13.99,
+      "description": "1LB-$13.99, 2LB-$22.99",
+      "category": "SIDE",
+      "simplified_description": "Boneless chicken wings available in 1 or 2 pound portions.",
+      "dietary_info": [],
+      "other_info": "Available in 1LB and 2LB sizes"
+    },
+    {
+      "name": "Dry Ribs Boneless",
+      "price": 13.99,
+      "description": "1LB-$13.99, 2LB-$22.99",
+      "category": "SIDE",
+      "simplified_description": "Boneless dry ribs available in 1 or 2 pound portions.",
+      "dietary_info": [],
+      "other_info": "Available in 1LB and 2LB sizes"
+    },
+    {
+      "name": "Onion Rings",
+      "price": 7.99,
+      "description": "R-$7.99, L-$9.99",
+      "category": "SIDE",
+      "simplified_description": "Crispy fried onion rings available in regular or large size.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Available in Regular and Large sizes"
+    },
+    {
+      "name": "Fries",
+      "price": 6.99,
+      "description": "R-$6.99, L-$8.99",
+      "category": "SIDE",
+      "simplified_description": "Classic fries available in regular or large size.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": "Available in Regular and Large sizes"
+    },
+    {
+      "name": "Popcorn Chicken",
+      "price": 9.99,
+      "description": "R-$9.99, L-$12.99",
+      "category": "SIDE",
+      "simplified_description": "Bite-sized fried chicken pieces available in regular or large size.",
+      "dietary_info": [],
+      "other_info": "Available in Regular and Large sizes"
+    },
+    {
+      "name": "Jalapeno Popper",
+      "price": 11.99,
+      "description": "10pcs-$11.99",
+      "category": "SIDE",
+      "simplified_description": "Ten pieces of jalapeno poppers.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cauliflower Bites",
+      "price": 7.99,
+      "description": "S-$7.99, L-$11.99",
+      "category": "SIDE",
+      "simplified_description": "Fried cauliflower bites available in small or large size.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Available in Small and Large sizes"
+    },
+    {
+      "name": "Tempura Shrimps",
+      "price": 13.99,
+      "description": "10pcs-$13.99, 20pcs-$22.99",
+      "category": "SIDE",
+      "simplified_description": "Battered and fried shrimp available in 10 or 20 pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Strips (4pcs)",
+      "price": 14.99,
+      "description": "null",
+      "category": "SIDE",
+      "simplified_description": "Four pieces of crispy fried chicken strips.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 15.99,
+      "description": "$15.99",
+      "category": "SIDE",
+      "simplified_description": "Classic battered fish served with fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 6.99,
+      "description": "Fresh Romaine, Croutons, Parmesan, Bacon\nFresh Lemon wedge and Caesar dressing on side",
+      "category": "SALAD",
+      "simplified_description": "Romaine salad with croutons, parmesan, bacon, and Caesar dressing on the side.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Add Chicken",
+      "price": 1.5,
+      "description": "null",
+      "category": "SALAD",
+      "simplified_description": "Add chicken to your salad.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 7.99,
+      "description": "Fresh Romaine, Red Onions, Tomatoes, Oregano, Feta Cheese, Green Pepper, Olives, Cucumbers\nGreek Dressing on Side",
+      "category": "SALAD",
+      "simplified_description": "Romaine salad with feta, olives, veggies, and Greek dressing on the side.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Double Your Hunger",
+      "price": 37.99,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "A large meal option to double your hunger.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Triple Treat",
+      "price": 49.99,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "A meal deal with three different items.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bp’s Treat 1",
+      "price": 32.99,
+      "description": "1 Pizza\n1LB Dry Ribs or Chicken Wings\n2 Can Pop",
+      "category": "OTHER",
+      "simplified_description": "Meal with pizza, 1lb ribs or wings, and two cans of soda.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Bp’s Treat 2",
+      "price": 35.99,
+      "description": "1 Pizza\n1 Reg Pasta\nGarlic Cheesy Breadstick or Small Caesar Salad",
+      "category": "OTHER",
+      "simplified_description": "Meal with pizza, pasta, and breadstick or small Caesar salad.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Bp’s Treat 3",
+      "price": 52.99,
+      "description": "2 Pizza\n1LB Dry Ribs\nChicken Wings\nGarlic Cheesy Breadstick",
+      "category": "OTHER",
+      "simplified_description": "Meal with two pizzas, ribs, wings, and cheesy breadstick.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Bp’s Treat 4",
+      "price": 72.99,
+      "description": "2 Pizza\n1.5LB Dry Ribs or Chicken Wings\nMed Meat Sauce Pasta\nLrg Caesar Salad\n2l Pop",
+      "category": "OTHER",
+      "simplified_description": "Large meal with pizzas, ribs or wings, pasta, salad, and 2L soda.",
+      "dietary_info": [],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "355ml 1 Pop",
+      "price": 1.99,
+      "description": "Pepsi, Diet Pepsi, Pepsi Zero, Ginger Ale, 7UP, Dr Pepper, Ice Tea, Crush",
+      "category": "DRINK",
+      "simplified_description": "Single 355ml can of various soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "4 Pop",
+      "price": 5.99,
+      "description": "Pepsi, Diet Pepsi, Pepsi Zero, Ginger Ale, 7UP, Dr Pepper, Ice Tea, Crush",
+      "category": "DRINK",
+      "simplified_description": "Four cans of assorted 355ml soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "1 2lt Soft Drinks",
+      "price": 3.99,
+      "description": "Pepsi, Diet Pepsi, Pepsi Zero, Ginger Ale, 7UP, Dr Pepper, Ice Tea, Crush",
+      "category": "DRINK",
+      "simplified_description": "One 2-liter bottle of assorted soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Add Dipping Sauce",
+      "price": 1.25,
+      "description": "Creamy Garlic, Sweet Chilli Thai, Buffalo, Hot, Anjo Chipotle, Ranch, Honey Garlic",
+      "category": "OTHER",
+      "simplified_description": "Choice of various flavorful dipping sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Can",
+      "price": 3.99,
+      "description": "null",
+      "category": "BEER",
+      "simplified_description": "Single can of beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Bottle",
+      "price": 5.99,
+      "description": "null",
+      "category": "BEER",
+      "simplified_description": "Single bottle of beer.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

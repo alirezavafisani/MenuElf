@@ -1,0 +1,1566 @@
+{
+  "restaurant": "calgaryhonest",
+  "parsed_at": "2026-02-06T01:27:51.238268",
+  "item_count": 124,
+  "items": [
+    {
+      "name": "Idli With Sambhar & Chutney (3 Pcs)",
+      "price": 7.99,
+      "description": "Idli - Steamed rice cake",
+      "category": "FOOD",
+      "simplified_description": "Steamed rice cakes served with lentil stew and chutney.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vada Sambhar (2 Pcs)",
+      "price": 8.99,
+      "description": "Idli",
+      "category": "FOOD",
+      "simplified_description": "Fried lentil doughnuts served with lentil stew.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Idli Vada Platter",
+      "price": 11.99,
+      "description": "Idli - Two Idli &Two Vada",
+      "category": "FOOD",
+      "simplified_description": "Two steamed rice cakes and two fried lentil doughnuts.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 5.59,
+      "description": "Soups - Spicy and tangy vegetable soup with soy and chili sauce",
+      "category": "FOOD",
+      "simplified_description": "Spicy and tangy vegetable soup with soy and chili sauce.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Tomato Soup",
+      "price": 5.49,
+      "description": "Soups - Soup made of tomato",
+      "category": "FOOD",
+      "simplified_description": "Simple soup made from tomatoes.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Manchow Soup",
+      "price": 5.99,
+      "description": "Soups - Spicy vegetable soup served with crispy noodles",
+      "category": "FOOD",
+      "simplified_description": "Spicy vegetable soup topped with crispy noodles.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sweet Corn Soup",
+      "price": 5.99,
+      "description": "Soups - Indo Chinese style mix veg. sweet corn kernels &peppers.",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetable soup with sweet corn and peppers.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Manchurian Gravy",
+      "price": 12.99,
+      "description": "Gravy - Vegetables dumplings cooked in special onion and garlic gravy",
+      "category": "FOOD",
+      "simplified_description": "Vegetable dumplings cooked in onion and garlic gravy.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gobi Manchurian Gravy",
+      "price": 12.99,
+      "description": "Gravy - Cauliflower cooked in special onion and garlic gravy",
+      "category": "FOOD",
+      "simplified_description": "Cauliflower cooked in onion and garlic gravy.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Chilli Gravy",
+      "price": 14.99,
+      "description": "Gravy - Batter fried paneer stir fried with chilies in a spicy-tangy gravy",
+      "category": "FOOD",
+      "simplified_description": "Fried paneer cooked with chilies in spicy gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Honey Chili Potato",
+      "price": 5.99,
+      "description": "Appetizer",
+      "category": "APPETIZER",
+      "simplified_description": "Potatoes cooked with honey and chili sauce.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Dry Manchurian",
+      "price": 11.99,
+      "description": "Appetizer - Fried vegetable dumplings stir-fried with Indo-Chinese spices",
+      "category": "APPETIZER",
+      "simplified_description": "Fried vegetable dumplings stir-fried with spices.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Dry Gobi Manchurian",
+      "price": 11.99,
+      "description": "Appetizer - Batter fried cauliflower stir-fried with Indo-Chinese spices",
+      "category": "APPETIZER",
+      "simplified_description": "Fried cauliflower stir-fried with Indo-Chinese spices.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Dry Paneer Chilli",
+      "price": 13.99,
+      "description": "Appetizer - Paneer stir fried with chilies in a spicy-tangy sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Paneer stir-fried with chilies in spicy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chinese Bhel",
+      "price": 14.99,
+      "description": "Appetizer - Crispy and soft noodles tossed with paneer and manchurian in a spicy-tangy sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Noodles tossed with paneer and manchurian in spicy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Paneer65",
+      "price": 12.99,
+      "description": "Appetizer - Paneer cooked in tangy sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Paneer cheese cooked in a tangy sauce appetizer.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg. Fried Rice",
+      "price": 11.99,
+      "description": "Fried Rice - Boiled rice tossed with selected vegetables & chinese seasonings",
+      "category": "FOOD",
+      "simplified_description": "Boiled rice stir-fried with vegetables and Chinese seasonings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "price": 12.99,
+      "description": "Fried Rice - Basmati rice tossed with selected vegetables in schezwan sauce",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice stir-fried with vegetables in spicy Schezwan sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Triple Schezwan Fried Rice",
+      "price": 14.99,
+      "description": "Fried Rice - Rice stir-fried with manchurian, gobi, and paneer",
+      "category": "FOOD",
+      "simplified_description": "Rice stir-fried with manchurian, cauliflower, and paneer cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg. Hakka Noodles",
+      "price": 11.99,
+      "description": "Noodles - Soft noodles stir-fried with vegetables & chinese seasonings",
+      "category": "FOOD",
+      "simplified_description": "Soft noodles stir-fried with vegetables and Chinese seasonings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Schezwan Noodles",
+      "price": 12.99,
+      "description": "Noodles - Soft noodles stir-fried with vegetables in schezwan sauce",
+      "category": "FOOD",
+      "simplified_description": "Soft noodles stir-fried with vegetables in spicy Schezwan sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Veg. Chilli Garlic Noodles",
+      "price": 12.99,
+      "description": "Noodles - Soft noodles stir-fried with vegetables & chinese seasonings with chilli & garlic",
+      "category": "FOOD",
+      "simplified_description": "Soft noodles stir-fried with vegetables, chili, and garlic.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": 11.49,
+      "description": "Starter",
+      "category": "FOOD",
+      "simplified_description": "Grilled paneer cheese cubes marinated in spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Pudina Tikka",
+      "price": 12.49,
+      "description": "Starter",
+      "category": "FOOD",
+      "simplified_description": "Grilled paneer cubes marinated with mint and spices.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kaju Curry",
+      "price": 16.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Cashew nut curry in Punjabi style gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Butter Masala",
+      "price": 16.99,
+      "description": "Punjabi Curries - (Red Gravy)",
+      "category": "FOOD",
+      "simplified_description": "Cheese cooked in rich buttery red gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 15.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Paneer cheese cooked in creamy buttery gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Paneer cheese cooked in spiced tikka masala gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Handi",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Paneer cheese cooked in traditional handi style curry.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Kadai (Brown Gravy)",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Paneer cheese cooked in spicy brown gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Bhurji",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Scrambled paneer cooked with spices in Punjabi style.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 16.99,
+      "description": "Punjabi Curries - (White Gravy)",
+      "category": "FOOD",
+      "simplified_description": "Vegetable balls in creamy white gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Paneer",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Paneer cooked in creamy sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer (Green Gravy)",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Paneer cooked in spinach-based green gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Palak (Chole)",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Chickpeas cooked with spinach in Punjabi style.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Khoya Kaju (Sweet)",
+      "price": 16.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Sweet dish made with milk solids and cashews.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg. Jaipuri",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in Jaipuri style curry.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg. Kolhapuri",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Spicy mixed vegetable curry from Kolhapur.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Veg. Hyderabadi",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetable curry in Hyderabadi style.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg. Kofta Curry",
+      "price": 15.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Vegetable balls cooked in rich curry sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Masala (Chole)",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Spiced chickpea curry in Punjabi style.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Aloo Gobi",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Potatoes and cauliflower cooked with spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veg. Karahi",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in spicy karahi sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bhindi Masala",
+      "price": 14.99,
+      "description": "Punjabi Curries",
+      "category": "FOOD",
+      "simplified_description": "Okra cooked with spices in Punjabi style.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Yogurt",
+      "price": 3.99,
+      "description": "Raita",
+      "category": "SIDE",
+      "simplified_description": "Simple plain yogurt side dish.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boondi Raita",
+      "price": 4.99,
+      "description": "Raita",
+      "category": "SIDE",
+      "simplified_description": "Yogurt-based side with small fried chickpea flour balls.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Raita",
+      "price": 4.99,
+      "description": "Raita",
+      "category": "SIDE",
+      "simplified_description": "Yogurt side with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Roti",
+      "price": 2.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Simple unleavened whole wheat flatbread.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Roti",
+      "price": 2.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Whole wheat flatbread brushed with butter.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Paratha",
+      "price": 3.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Layered whole wheat flatbread with butter.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Paratha",
+      "price": 5.49,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Whole wheat flatbread stuffed with spiced potato filling.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gobi Paratha",
+      "price": 5.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Whole wheat flatbread stuffed with spiced cauliflower filling.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Paratha",
+      "price": 6.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Whole wheat flatbread stuffed with spiced paneer cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 2.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Soft leavened flatbread baked in a tandoor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 3.49,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Soft leavened flatbread brushed with butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 3.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Leavened flatbread topped with garlic.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Naan",
+      "price": 3.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Leavened flatbread topped with chili peppers.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cheese Naan",
+      "price": 4.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Leavened flatbread stuffed with cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Cheese Naan",
+      "price": 5.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Leavened flatbread stuffed with cheese and chili peppers.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Puri",
+      "price": 3.99,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Deep-fried unleavened whole wheat bread.",
+      "dietary_info": [
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bhatura",
+      "price": 3.49,
+      "description": "Indian Breads",
+      "category": "SIDE",
+      "simplified_description": "Soft, deep-fried Indian bread.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Tadka",
+      "price": 12.99,
+      "description": "Dal",
+      "category": "FOOD",
+      "simplified_description": "Lentil curry tempered with spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 12.99,
+      "description": "Dal",
+      "category": "FOOD",
+      "simplified_description": "Creamy lentil curry with butter.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 5.99,
+      "description": "Rice",
+      "category": "FOOD",
+      "simplified_description": "Steamed plain white rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 7.99,
+      "description": "Rice",
+      "category": "FOOD",
+      "simplified_description": "Rice cooked with cumin seeds.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Biryani",
+      "price": 12.99,
+      "description": "Rice",
+      "category": "FOOD",
+      "simplified_description": "Spiced rice cooked with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Punjabi Thali",
+      "price": 14.99,
+      "description": "Combo Treats - Comes with two sabji, daal, Rice, Salad, Aachar, Papad, & Gulab jamun",
+      "category": "FOOD",
+      "simplified_description": "Assorted Punjabi dishes served with sides and dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Chole Bhatura",
+      "price": 12.99,
+      "description": "Combo Treats - Chickpeas curry with Bhatura, Salad, Aachar & Gulab jamun",
+      "category": "FOOD",
+      "simplified_description": "Chickpea curry served with fried bread and sides.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chana Puri",
+      "price": 12.99,
+      "description": "Combo Treats - Chickpeas curry with puffed bread (puri) Salad, Aachar & Gulab jamun",
+      "category": "FOOD",
+      "simplified_description": "Chickpea curry with puffed bread and accompaniments.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Puri Bhaji",
+      "price": 11.99,
+      "description": "Combo Treats - Aloo bhaji served with 2 puris & gulab jamun",
+      "category": "FOOD",
+      "simplified_description": "Potato curry served with fried bread and dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Manchurian Gravy & Fried Rice",
+      "price": 14.99,
+      "description": "Combo Treats",
+      "category": "FOOD",
+      "simplified_description": "Vegetable Manchurian with fried rice.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Manchurian Gravy & Hakka Noodles",
+      "price": 14.99,
+      "description": "Combo Treats",
+      "category": "FOOD",
+      "simplified_description": "Vegetable Manchurian served with Hakka noodles.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gujarati Thali",
+      "price": 15.99,
+      "description": "Combo Treats - Comes with two sabji, gujarati daal, Rice, kadhi, sweet, three roti, aachar, Papad, &farhsan",
+      "category": "FOOD",
+      "simplified_description": "Traditional Gujarati meal with various dishes and sweets.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves one"
+    },
+    {
+      "name": "Coke",
+      "price": 2.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "Carbonated cola soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Diet Coke",
+      "price": 2.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "Sugar-free carbonated cola soft drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite",
+      "price": 2.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A lemon-lime flavored carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Frooti",
+      "price": 2.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A mango-flavored packaged drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Canada Dry",
+      "price": 2.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A ginger ale carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kashmiri Soda",
+      "price": 3.49,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A flavored soda drink from Kashmir.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Thums Up",
+      "price": 3.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A strong cola-flavored carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water",
+      "price": 0.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A bottle of plain drinking water.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Limca",
+      "price": 3.99,
+      "description": "Package Drinks",
+      "category": "DRINK",
+      "simplified_description": "A lemon-lime flavored carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Soda",
+      "price": 4.99,
+      "description": "Mocktails",
+      "category": "DRINK",
+      "simplified_description": "A spiced soda drink with Indian flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Masala Coke",
+      "price": 4.99,
+      "description": "Mocktails",
+      "category": "DRINK",
+      "simplified_description": "A spiced version of cola with Indian flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sikhanji Soda",
+      "price": 4.99,
+      "description": "Mocktails",
+      "category": "DRINK",
+      "simplified_description": "A traditional spiced Indian soda drink.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Badam",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A milkshake flavored with almonds.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chikoo",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A milkshake made with chikoo fruit.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A creamy mango-flavored milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paan",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A milkshake flavored with paan (betel leaf).",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coffee",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A chilled coffee-flavored milkshake.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ferrero Rocher",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A milkshake inspired by Ferrero Rocher chocolate.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kaju Anjeer",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A milkshake flavored with cashew and fig.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun Shake",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A milkshake with the taste of traditional gulab jamun dessert.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coco",
+      "price": 6.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A cold chocolate milkshake.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Coco With Ice Cream",
+      "price": 7.99,
+      "description": "Milk Shakes",
+      "category": "DRINK",
+      "simplified_description": "A cold chocolate milkshake served with ice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 6.99,
+      "description": "Lassi / Chaas",
+      "category": "DRINK",
+      "simplified_description": "A sweet yogurt-based mango drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kesar Pista Lassi",
+      "price": 6.99,
+      "description": "Lassi / Chaas",
+      "category": "DRINK",
+      "simplified_description": "A saffron and pistachio flavored yogurt drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Chaas",
+      "price": 4.99,
+      "description": "Lassi / Chaas",
+      "category": "DRINK",
+      "simplified_description": "A spiced buttermilk drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Pista",
+      "price": 3.99,
+      "description": "Kulfi",
+      "category": "DESSERT",
+      "simplified_description": "A traditional pistachio-flavored frozen dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Malai",
+      "price": 3.99,
+      "description": "Kulfi",
+      "category": "DESSERT",
+      "simplified_description": "A creamy traditional frozen dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": 3.99,
+      "description": "Kulfi",
+      "category": "DESSERT",
+      "simplified_description": "A mango-flavored traditional frozen dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kesar Pista",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Saffron and pistachio flavored ice cream.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chikoo",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Ice cream flavored with chikoo fruit.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rajbhog Paan Mukhwas",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Ice cream with rajbhog and paan flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Mango-flavored ice cream.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate flavored ice cream dessert.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla flavored ice cream dessert.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tutti Frutti",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Ice cream with mixed fruit flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kaju Draksh",
+      "price": 7.99,
+      "description": "Ice Cream",
+      "category": "DESSERT",
+      "simplified_description": "Ice cream with cashew nuts and raisins.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange",
+      "price": 7.99,
+      "description": "Fresh Juice",
+      "category": "DRINK",
+      "simplified_description": "Freshly squeezed orange juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sugarcane",
+      "price": 7.99,
+      "description": "Fresh Juice",
+      "category": "DRINK",
+      "simplified_description": "Fresh juice made from sugarcane.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple",
+      "price": 7.99,
+      "description": "Fresh Juice",
+      "category": "DRINK",
+      "simplified_description": "Freshly squeezed pineapple juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ganga Jamuna",
+      "price": 7.99,
+      "description": "Fresh Juice",
+      "category": "DRINK",
+      "simplified_description": "Mixed fresh juice blend.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot",
+      "price": 7.99,
+      "description": "Fresh Juice",
+      "category": "DRINK",
+      "simplified_description": "Freshly squeezed carrot juice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 3.99,
+      "description": "Hot Drinks",
+      "category": "DRINK",
+      "simplified_description": "Hot brewed coffee.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Masala Tea",
+      "price": 3.99,
+      "description": "Hot Drinks",
+      "category": "DRINK",
+      "simplified_description": "Spiced hot tea with traditional masala flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Rose",
+      "price": 8.99,
+      "description": "Falooda",
+      "category": "DRINK",
+      "simplified_description": "Rose flavored falooda dessert drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kesar Pista",
+      "price": 8.99,
+      "description": "Falooda",
+      "category": "DRINK",
+      "simplified_description": "Falooda with saffron and pistachio flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paan",
+      "price": 8.99,
+      "description": "Falooda",
+      "category": "DRINK",
+      "simplified_description": "Falooda flavored with paan (betel leaf).",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": 8.99,
+      "description": "Falooda",
+      "category": "DRINK",
+      "simplified_description": "Mango flavored falooda dessert drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 4.99,
+      "description": "Dessert",
+      "category": "DESSERT",
+      "simplified_description": "Sweet fried dough balls soaked in syrup.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ras Malai",
+      "price": 4.99,
+      "description": "Dessert",
+      "category": "DESSERT",
+      "simplified_description": "Soft cheese patties soaked in sweetened milk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mitha Paan",
+      "price": 2.49,
+      "description": "Mitha Paan",
+      "category": "OTHER",
+      "simplified_description": "Sweet betel leaf preparation often chewed after meals.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese",
+      "price": 1.99,
+      "description": "Addings",
+      "category": "OTHER",
+      "simplified_description": "Additional cheese topping or ingredient.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

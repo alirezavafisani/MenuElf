@@ -1,0 +1,522 @@
+{
+  "restaurant": "deminicos",
+  "parsed_at": "2026-02-06T01:57:48.155506",
+  "item_count": 51,
+  "items": [
+    {
+      "name": "Lasagna (Beef & Pork) Single Serving",
+      "price": 9.0,
+      "description": "Lasagna (Beef & Pork) Single Serving",
+      "category": "FOOD",
+      "simplified_description": "Single serving of beef and pork lasagna.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna (Beef & Pork) Double",
+      "price": 18.0,
+      "description": "Lasagna (Beef & Pork) Double Serves 2-3 people",
+      "category": "FOOD",
+      "simplified_description": "Double portion of beef and pork lasagna for 2-3 people.",
+      "dietary_info": [],
+      "other_info": "Serves 2-3 people"
+    },
+    {
+      "name": "Lasagna (Beef & Pork) Half Tray",
+      "price": 60.0,
+      "description": "Lasagna (Beef & Pork) Half Tray Serves 8-10 people",
+      "category": "FOOD",
+      "simplified_description": "Half tray of beef and pork lasagna for 8-10 people.",
+      "dietary_info": [],
+      "other_info": "Serves 8-10 people"
+    },
+    {
+      "name": "Lasagna (Beef & Pork) Full Tray",
+      "price": 100.0,
+      "description": "Lasagna (Beef & Pork) Full Tray Serves 18-20 people",
+      "category": "FOOD",
+      "simplified_description": "Full tray of beef and pork lasagna for 18-20 people.",
+      "dietary_info": [],
+      "other_info": "Serves 18-20 people"
+    },
+    {
+      "name": "Cannelloni (Beef & Pork) Double",
+      "price": 19.0,
+      "description": "Cannelloni (Beef & Pork) Double (4 pieces)",
+      "category": "FOOD",
+      "simplified_description": "Four pieces of beef and pork cannelloni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cannelloni (Beef & Pork) Half Tray",
+      "price": 65.0,
+      "description": "Cannelloni (Beef & Pork) Half Tray (12 pieces)",
+      "category": "FOOD",
+      "simplified_description": "Half tray with 12 pieces of beef and pork cannelloni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Manicotti (VG) Double",
+      "price": 19.0,
+      "description": "Manicotti (VG) Double (4 pieces)",
+      "category": "FOOD",
+      "simplified_description": "Four pieces of vegetarian manicotti.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Manicotti (VG) Half Tray",
+      "price": 65.0,
+      "description": "Manicotti (VG) Half Tray (12 pieces)",
+      "category": "FOOD",
+      "simplified_description": "Half tray with 12 pieces of vegetarian manicotti.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Eggplant Parmesan Lasagna (VG) Double",
+      "price": 19.0,
+      "description": "Eggplant Parmesan Lasagna (VG) Double Serves 2-3 People",
+      "category": "FOOD",
+      "simplified_description": "Double serving of vegetarian eggplant parmesan lasagna for 2-3 people.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Serves 2-3 people"
+    },
+    {
+      "name": "Chicken Parmigiana",
+      "price": 20.0,
+      "description": "Chicken Parmigiana - 2 pieces",
+      "category": "FOOD",
+      "simplified_description": "Two pieces of chicken parmigiana.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta Sauce Variety Pack",
+      "price": 32.0,
+      "description": "Pasta Sauce Variety Pack 4 x 750ml",
+      "category": "OTHER",
+      "simplified_description": "Variety pack of four 750ml pasta sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alfredo Sauce(VG)",
+      "price": 9.0,
+      "description": "Alfredo Sauce(VG) - 500ml",
+      "category": "OTHER",
+      "simplified_description": "500ml vegetarian Alfredo sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Arrabbiatta Pasta Sauce",
+      "price": 8.5,
+      "description": "Arrabbiatta Pasta Sauce (GR, VN) - 750ML",
+      "category": "OTHER",
+      "simplified_description": "750ml spicy Arrabbiatta pasta sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Original Pasta Sauce",
+      "price": 8.5,
+      "description": "Original Pasta Sauce (GF, VN) - 750ML",
+      "category": "OTHER",
+      "simplified_description": "750ml original gluten-free vegan pasta sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Garlic Pasta Sauce",
+      "price": 8.5,
+      "description": "Roasted Garlic Pasta Sauce (GF, VN) - 750ML",
+      "category": "OTHER",
+      "simplified_description": "750ml roasted garlic gluten-free vegan pasta sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rosé Pasta Sauce",
+      "price": 9.0,
+      "description": "Rosé Pasta Sauce (GF, VN) - 750ML",
+      "category": "OTHER",
+      "simplified_description": "A gluten-free, vegan rosé pasta sauce in 750ml bottle.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Basil Marinara",
+      "price": 8.5,
+      "description": "Tomato Basil Marinara (GF, VN) - 750ML",
+      "category": "OTHER",
+      "simplified_description": "Gluten-free, vegan tomato basil marinara sauce in 750ml bottle.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Dressing",
+      "price": 8.0,
+      "description": "Caesar Dressing (GF) - 355ml *Must be refrigerated* Before and after opening.",
+      "category": "OTHER",
+      "simplified_description": "Gluten-free Caesar dressing, 355ml, requires refrigeration before and after opening.",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": "Must be refrigerated before and after opening"
+    },
+    {
+      "name": "Spicy Eggplant",
+      "price": 10.0,
+      "description": "Spicy Eggplant (GF, VN) - 250ml Preserved in oil",
+      "category": "OTHER",
+      "simplified_description": "Gluten-free, vegan spicy eggplant preserved in oil, 250ml.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "spicy"
+      ],
+      "other_info": "Preserved in oil"
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "price": 10.0,
+      "description": "Roasted Red Peppers (GF, VN) - 250ml Preserved in oil",
+      "category": "OTHER",
+      "simplified_description": "Gluten-free, vegan roasted red peppers preserved in oil, 250ml.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": "Preserved in oil"
+    },
+    {
+      "name": "Candied Jalapenos",
+      "price": 7.0,
+      "description": "Candied Jalapenos (GF, VN) - 250ml",
+      "category": "OTHER",
+      "simplified_description": "Gluten-free, vegan candied jalapenos, 250ml.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza Kit",
+      "price": 9.5,
+      "description": "Pizza Kit (13oz dough, sauce and cheese) (VG) Makes 1 large cheese pizza.",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian kit with dough, sauce, and cheese to make one large pizza.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Makes 1 large cheese pizza"
+    },
+    {
+      "name": "Pizza Dough",
+      "price": 4.0,
+      "description": "Pizza Dough - 13oz pizza dough ball, flash frozen.",
+      "category": "FOOD",
+      "simplified_description": "13oz flash frozen pizza dough ball.",
+      "dietary_info": [],
+      "other_info": "Flash frozen"
+    },
+    {
+      "name": "Pizza Sauce",
+      "price": 5.0,
+      "description": "Pizza Sauce (GF, VN) - 250ml",
+      "category": "OTHER",
+      "simplified_description": "Gluten-free, vegan pizza sauce in 250ml bottle.",
+      "dietary_info": [
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Cheese",
+      "price": 6.0,
+      "description": "Cheese",
+      "category": "FOOD",
+      "simplified_description": "Calzone filled with cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Hawaiian",
+      "price": 6.0,
+      "description": "Hawaiian",
+      "category": "FOOD",
+      "simplified_description": "Calzone with ham and pineapple filling.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Pepperoni",
+      "price": 6.0,
+      "description": "Pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Calzone filled with pepperoni.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Beef and Mushroom",
+      "price": 6.0,
+      "description": "Beef and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Calzone filled with beef and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Pepperoni and Mushroom",
+      "price": 6.0,
+      "description": "Pepperoni and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Calzone filled with pepperoni and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Pepperoni and Bacon",
+      "price": 6.0,
+      "description": "Pepperoni and Bacon",
+      "category": "FOOD",
+      "simplified_description": "Calzone filled with pepperoni and bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calzone - Barbeque Chicken",
+      "price": 6.0,
+      "description": "Barbeque Chicken",
+      "category": "FOOD",
+      "simplified_description": "Folded pizza filled with barbeque chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Cheese",
+      "price": 10.0,
+      "description": "Cheese",
+      "category": "FOOD",
+      "simplified_description": "Small pizza topped with cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Hawaiian",
+      "price": 10.0,
+      "description": "Hawaiian",
+      "category": "FOOD",
+      "simplified_description": "Small pizza with ham and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Pepperoni",
+      "price": 10.0,
+      "description": "Pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Small pizza topped with pepperoni slices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Beef and Mushroom",
+      "price": 10.0,
+      "description": "Beef and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Small pizza with beef and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Pepperoni and Mushroom",
+      "price": 10.0,
+      "description": "Pepperoni and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Small pizza topped with pepperoni and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Pepperoni and Bacon",
+      "price": 10.0,
+      "description": "Pepperoni and Bacon",
+      "category": "FOOD",
+      "simplified_description": "Small pizza with pepperoni and bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Personal 8\" pizza - Barbeque Chicken",
+      "price": 10.0,
+      "description": "Barbeque Chicken",
+      "category": "FOOD",
+      "simplified_description": "Small pizza topped with barbeque chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Cheese",
+      "price": 18.0,
+      "description": "Cheese",
+      "category": "FOOD",
+      "simplified_description": "Large pizza topped with cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Hawaiian",
+      "price": 18.0,
+      "description": "Hawaiian",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with ham and pineapple.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Pepperoni",
+      "price": 18.0,
+      "description": "Pepperoni",
+      "category": "FOOD",
+      "simplified_description": "Large pizza topped with pepperoni slices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Beef and Mushroom",
+      "price": 18.0,
+      "description": "Beef and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with beef and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Pepperoni and Mushroom",
+      "price": 18.0,
+      "description": "Pepperoni and Mushroom",
+      "category": "FOOD",
+      "simplified_description": "Large pizza topped with pepperoni and mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Pepperoni and Bacon",
+      "price": 18.0,
+      "description": "Pepperoni and Bacon",
+      "category": "FOOD",
+      "simplified_description": "Large pizza with pepperoni and bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large 13\" pizza - Barbeque Chicken",
+      "price": 20.0,
+      "description": "Barbeque Chicken",
+      "category": "FOOD",
+      "simplified_description": "Large pizza topped with barbeque chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gnocchi - Original",
+      "price": 8.5,
+      "description": "Gnocchi - Original (VG) 2-4 servings 454g, flash frozen.",
+      "category": "FOOD",
+      "simplified_description": "Original potato gnocchi, flash frozen, serves 2-4.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Serves two to four"
+    },
+    {
+      "name": "Gnocchi - Spinach",
+      "price": 8.5,
+      "description": "Gnocchi - Spinach (VG) 2-4 servings 454g, flash frozen.",
+      "category": "FOOD",
+      "simplified_description": "Spinach-flavored potato gnocchi, flash frozen, serves 2-4.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Serves two to four"
+    },
+    {
+      "name": "Gnocchi - Tomato",
+      "price": 8.5,
+      "description": "Gnocchi - Tomato (VG) 2-4 servings 454g, flash frozen.",
+      "category": "FOOD",
+      "simplified_description": "Tomato-flavored potato gnocchi, flash frozen, serves 2-4.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Serves two to four"
+    },
+    {
+      "name": "Meatballs (Beef and Pork)",
+      "price": 13.0,
+      "description": "Meatballs (Beef and Pork) Precooked, flash frozen and vacuum sealed 12cnt",
+      "category": "FOOD",
+      "simplified_description": "Precooked beef and pork meatballs, flash frozen, 12 count.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage - Mild",
+      "price": 22.0,
+      "description": "Sausage - Mild (Pork) Price per KG - Frozen",
+      "category": "FOOD",
+      "simplified_description": "Mild pork sausage sold per kilogram, frozen.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage - Spicy",
+      "price": 22.0,
+      "description": "Sausage - Spicy (Pork) Price per KG - Frozen",
+      "category": "FOOD",
+      "simplified_description": "Spicy pork sausage sold per kilogram, frozen.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    }
+  ]
+}

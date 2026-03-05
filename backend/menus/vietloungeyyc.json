@@ -1,0 +1,340 @@
+{
+  "restaurant": "vietloungeyyc",
+  "parsed_at": "2026-02-06T04:43:27.194715",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "Avocado Shake",
+      "price": 8.0,
+      "description": "Real Avocado Shake served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Real Avocado Shake served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Coffee with Condensed Milk",
+      "price": 8.0,
+      "description": "ICED COFFEE With CONDENSED MILK served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "ICED COFFEE With CONDENSED MILK served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepsi",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "7 Up",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Juice",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soda Water",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 8.0,
+      "description": "Real Mango Shake served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Real Mango Shake served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Coffee with Sugar",
+      "price": 8.0,
+      "description": "VIETNAMESE ICED COFFEE with SUGAR , NO MILK served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "VIETNAMESE ICED COFFEE with SUGAR , NO MILK served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diet Pepsi",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice-Tea",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Ale",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clamato Tomato Juice",
+      "price": 4.5,
+      "description": "Fountain drink served in large sized cup.",
+      "category": "DRINK",
+      "simplified_description": "Fountain drink served in large sized cup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Carpaccio",
+      "price": 13.0,
+      "description": "Fresh Tangy Lime Juice, Chopped Basil, Crispy Onions, Rare Beef",
+      "category": "FOOD",
+      "simplified_description": "Fresh Tangy Lime Juice, Chopped Basil, Crispy Onions, Rare Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VL Gluten-Free Spring Rolls",
+      "price": 8.5,
+      "description": "CRISPY RICE PAPER, PORK, HERBS (LETTUCE $1 EXTRA CHARGE)",
+      "category": "FOOD",
+      "simplified_description": "CRISPY RICE PAPER, PORK, HERBS (LETTUCE $1 EXTRA CHARGE)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 7.5,
+      "description": "Choose Option: PORK or VEGETARIAN CRISPY, SAVOURY, GOLDEN (LETTUCE $1 EXTRA CHARGE)",
+      "category": "FOOD",
+      "simplified_description": "Choose Option: PORK or VEGETARIAN CRISPY, SAVOURY, GOLDEN (LETTUCE $1 EXTRA CHAR",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Papaya Salad",
+      "price": 12.0,
+      "description": "Choose One Option: BEEF, PRAWNS or VEGETARIAN FRESH, CRUNCHY, SWEET, TANGY",
+      "category": "FOOD",
+      "simplified_description": "Choose One Option: BEEF, PRAWNS or VEGETARIAN FRESH, CRUNCHY, SWEET, TANGY",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Skewers",
+      "price": 8.5,
+      "description": "Choose One Option: -Skewer Combinations: SATE BEEF, SATE CHICKEN & SATE PRAWNS -PRAWNS or SATE PRAWNS -SATE BEEF or SATE CHICKEN",
+      "category": "FOOD",
+      "simplified_description": "Choose One Option: -Skewer Combinations: SATE BEEF, SATE CHICKEN & SATE PRAWNS -",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dumplings",
+      "price": 13.0,
+      "description": "Crispy, Stuffed Pork Fillings, Ginger, Green Onions",
+      "category": "FOOD",
+      "simplified_description": "Crispy, Stuffed Pork Fillings, Ginger, Green Onions",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Summer Rolls",
+      "price": 8.5,
+      "description": "Refreshing, Light, Flavourful *(Choose One) -Lemongrass Chicken -Lemongrass Beef -Grilled Pork -Sesame Shredded Pork -Prawns -Vegetarian",
+      "category": "FOOD",
+      "simplified_description": "Refreshing, Light, Flavourful *(Choose One) -Lemongrass Chicken -Lemongrass Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lettuce Wrap",
+      "price": 12.0,
+      "description": "Stir-Fry Marinated Pork, Shrimp Crackers, Lettuce & Herbs",
+      "category": "FOOD",
+      "simplified_description": "Stir-Fry Marinated Pork, Shrimp Crackers, Lettuce & Herbs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 13.0,
+      "description": "Choose One Flavour: -Tamarind -Habaneros -Siracha -Salt & Pepper -Lemongrass -Original -Fish Sauce -LEMON PEPPER & CURRY (COMING SOON!)",
+      "category": "FOOD",
+      "simplified_description": "Choose One Flavour: -Tamarind -Habaneros -Siracha -Salt & Pepper -Lemongrass -Or",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saigon Beef Noodle Soup",
+      "price": 16.0,
+      "description": "*Choose Any Or Everything -Sliced Rare Beef -Brisket -Tendon -Beef Balls -Tripe -Chicken",
+      "category": "FOOD",
+      "simplified_description": "*Choose Any Or Everything -Sliced Rare Beef -Brisket -Tendon -Beef Balls -Tripe ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ha Long Bay Crab Tomato Vermicelli Soup",
+      "price": 18.0,
+      "description": "Vermicelli Noodles, Pork Ribs, Tart, Crab Cake",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli Noodles, Pork Ribs, Tart, Crab Cake",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mekong Peanut Sate",
+      "price": 17.0,
+      "description": "Choose One Option: BEEF OR CHICKEN CREAMY BROTH, RICH, SPICY, SPECIAL SATE",
+      "category": "FOOD",
+      "simplified_description": "Choose One Option: BEEF OR CHICKEN CREAMY BROTH, RICH, SPICY, SPECIAL SATE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hanoi Vermicelli",
+      "price": 17.0,
+      "description": "*Choose Up-To 3 Items of Any Kinds **Any Additional Items Selected of More Than 3(Three) Will Be Subjected to Extra Charges. -Lemongrass Chicken -Lemongrass Beef -Grilled Pork -Sesame Shredded Pork -Pork Meat Balls -Sugarcane Prawns -Sate Beef Skewers -Sate Chicken Skewers -Sate Prawns Skewers -Spring Rolls (Pork or Vegetarian)",
+      "category": "FOOD",
+      "simplified_description": "*Choose Up-To 3 Items of Any Kinds **Any Additional Items Selected of More Than ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mien Tay Crispy Crepe",
+      "price": 16.5,
+      "description": "Crispy Egg Crepe, Stuffed with Prawns, Pork, Bean Sprouts, Lettuce & Herbs",
+      "category": "FOOD",
+      "simplified_description": "Crispy Egg Crepe, Stuffed with Prawns, Pork, Bean Sprouts, Lettuce & Herbs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bun Bo Hue Spicy Beef & Pork Noodle Soup",
+      "price": 17.0,
+      "description": "Beef Shank, Pork Meat Balls, Variety of Viet Spices",
+      "category": "FOOD",
+      "simplified_description": "Beef Shank, Pork Meat Balls, Variety of Viet Spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dalat Curry Chicken Vermicelli Soup",
+      "price": 16.0,
+      "description": "Creamy Broth, Coconut, Curry, Chicken, Vermicelli Noodles",
+      "category": "FOOD",
+      "simplified_description": "Creamy Broth, Coconut, Curry, Chicken, Vermicelli Noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southeastern Asia Sate Beef Or Chicken Noodle Soup",
+      "price": 17.0,
+      "description": "Choose One Option: BEEF OR CHICKEN CLASSIC, FLAVOURFUL, SPICY, SPECIAL SATE",
+      "category": "FOOD",
+      "simplified_description": "Choose One Option: BEEF OR CHICKEN CLASSIC, FLAVOURFUL, SPICY, SPECIAL SATE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nha Trang (Rice)",
+      "price": 17.0,
+      "description": "*Choose Up-To 3 Items of Any Kinds **Any Additional Items Selected of More Than 3(Three) Will Be Subjected to Extra Charges. -Lemongrass Chicken -Lemongrass Beef -Grilled Pork -Sesame Shredded Pork -Pork Meat Balls -Sugarcane Prawns -Sate Beef Skewers -Sate Chicken Skewers -Sate Prawns Skewers -Spring Rolls (Pork or Vegetarian)",
+      "category": "FOOD",
+      "simplified_description": "*Choose Up-To 3 Items of Any Kinds **Any Additional Items Selected of More Than ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggies On The Side",
+      "price": 4.0,
+      "description": "VEGGIES: BROCCOLI, CAULIFLOWER, CARROTS",
+      "category": "SIDE",
+      "simplified_description": "VEGGIES: BROCCOLI, CAULIFLOWER, CARROTS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Noodles On The Side",
+      "price": 4.0,
+      "description": "Choose One Option: -Rice Noodles -Vermicelli Noodles -Bun Bo Hue Noodles",
+      "category": "SIDE",
+      "simplified_description": "Choose One Option: -Rice Noodles -Vermicelli Noodles -Bun Bo Hue Noodles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Broth Only",
+      "price": 4.0,
+      "description": "Plain Beef Broth Soup",
+      "category": "SIDE",
+      "simplified_description": "Plain Beef Broth Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Order Shrimp Crackers",
+      "price": 5.0,
+      "description": "Served in large sized bowl (for dine-in only). Served in large sized bag (for delivery only).",
+      "category": "SIDE",
+      "simplified_description": "Served in large sized bowl (for dine-in only). Served in large sized bag (for de",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Meats On The Side",
+      "price": 5.0,
+      "description": "Choose One Option: -All Three Kinds: BEEF, CHICKEN, PORK -BEEF ONLY -CHICKEN ONLY -PORK ONLY",
+      "category": "SIDE",
+      "simplified_description": "Choose One Option: -All Three Kinds: BEEF, CHICKEN, PORK -BEEF ONLY -CHICKEN ONL",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Seafood On The Side",
+      "price": 6.5,
+      "description": "- CAD $7.50 Only Prawns Available For Seafood",
+      "category": "SIDE",
+      "simplified_description": "- CAD $7.50 Only Prawns Available For Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Rice",
+      "price": 3.5,
+      "description": "All of our rice dishes are cooked and served with No. 1 quality Calrose Premium Rice.",
+      "category": "SIDE",
+      "simplified_description": "All of our rice dishes are cooked and served with No. 1 quality Calrose Premium ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

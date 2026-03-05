@@ -1,0 +1,395 @@
+{
+  "restaurant": "verandayyc",
+  "parsed_at": "2025-12-24T23:52:08.603809",
+  "item_count": 42,
+  "items": [
+    {
+      "name": "PUFFED CRACKERS",
+      "price": 3,
+      "description": "Fried tapioca crisps with rotating seasonings",
+      "simplified_description": "Crispy snacks made from fried tapioca with different seasonings",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SWEET AND SPICY BAR NUTS",
+      "price": 5,
+      "description": "Spiced mixed nuts, Burwood honey",
+      "simplified_description": "Mixed nuts with spices and honey",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEER BREAD BOARD",
+      "price": 8,
+      "description": "Grilled beer bread, seasonal compound butter, fruit preserves",
+      "simplified_description": "Grilled bread served with flavored butter and fruit spreads",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED OLIVES",
+      "price": 6,
+      "description": "Mediterranean mix",
+      "simplified_description": "A mix of Mediterranean olives",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAITAKE MUSHROOM SKEWERS",
+      "price": 5,
+      "description": "Ginger soy marinade",
+      "simplified_description": "Maitake mushrooms marinated in ginger soy sauce",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHRIMP SKEWERS",
+      "price": 7,
+      "description": "Guava BBQ, Mango Salsa",
+      "simplified_description": "Shrimp grilled with guava BBQ sauce and served with mango salsa",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORK BELLY SKEWERS",
+      "price": 8,
+      "description": "Honey-Chili Glaze, Sesame",
+      "simplified_description": "Pork belly skewers glazed with honey and chili, topped with sesame",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STEAK SKEWERS",
+      "price": 8,
+      "description": "Mediterranean spiced yogurt, salsa verde",
+      "simplified_description": "Steak skewers served with spiced yogurt and green salsa",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED TUNA PATÉ",
+      "price": 14,
+      "description": "Albacore tuna, house-made brioche bun",
+      "simplified_description": "Smoked tuna spread served on homemade brioche bread",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHARCUTERIE",
+      "price": 32,
+      "description": "Assorted meats and cheeses with fruit preserves, house-made pickles and beer bread",
+      "simplified_description": "A platter of various meats and cheeses with pickles and bread",
+      "category": "Cocktail Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CUCUMBER AND WHITE BEAN HUMMUS",
+      "price": 8,
+      "description": "Lime marinated cucumber, white bean hummus, salsa macha",
+      "simplified_description": "Hummus made from white beans served with lime cucumber and spicy salsa",
+      "category": "Small Plates",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ELOTES GUACAMOLE",
+      "price": 15,
+      "description": "Guacamole, “bone-in” corn ribs, cotija cheese, lime crema, tortilla chips",
+      "simplified_description": "Guacamole served with corn ribs, cheese, cream, and chips",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHIPPED FETA & OLIVES",
+      "price": 15,
+      "description": "Local Noble Meadows goat feta, Burwood honey Medica, pistachios, house-made flatbread",
+      "simplified_description": "Whipped goat cheese served with honey, nuts, and flatbread",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRISPY CAULIFLOWER",
+      "price": 15,
+      "description": "Vegan battered cauliflower, lemon tahini, sesame",
+      "simplified_description": "Cauliflower coated in vegan batter and served with tahini sauce",
+      "category": "Small Plates",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TUNA TATAKI",
+      "price": 18,
+      "description": "Seared albacore, togarashi, cucumber, gochujang aioli, wontons, Burwood Lemongrass Grapefruit Gin ponzu",
+      "simplified_description": "Seared tuna served with spicy sauce and wontons",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEDITERRANEAN MEATBALLS",
+      "price": 16,
+      "description": "Mediterranean spiced beef meatballs, San Marzano tomato sauce, tangerine olives, cotija cheese, bread",
+      "simplified_description": "Spiced beef meatballs served with tomato sauce and olives",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RED THAI COCONUT CURRY SALMON",
+      "price": 30,
+      "description": "Pan seared Coho Salmon, beluga lentils, vegetable stir fry and red thai coconut curry sauce",
+      "simplified_description": "Salmon cooked with lentils and vegetables in a coconut curry sauce",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAULIFLOWER STEAK",
+      "price": 19,
+      "description": "Fried cauliflower, za’atar, white bean hummus, lemon tahini, salsa verde, walnuts",
+      "simplified_description": "Fried cauliflower served with hummus and various toppings",
+      "category": "Large Plates",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ROSÉ PASTA",
+      "price": 20,
+      "description": "Tagliatelle, burrata, crispy basil",
+      "simplified_description": "Pasta with cheese and crispy basil",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLACKENED CHICKEN",
+      "price": 28,
+      "description": "Chipotle spiced chicken supreme, Vaycay Hoptopus and honey butter sauce, mango salsa, coconut rice, charred broccolini",
+      "simplified_description": "Spicy chicken served with sauce, salsa, rice, and vegetables",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SALSA VERDE STEAK & POTATOES",
+      "price": 32,
+      "description": "6oz Banff sirloin steak, garlic roasted baby potatoes, salsa verde, broccolini",
+      "simplified_description": "Steak served with roasted potatoes and green salsa",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STEAK FOR TWO",
+      "price": null,
+      "description": "AAA bone-in ribeye steak, aligot potatoes, fennel slaw, red wine jus",
+      "simplified_description": "Large ribeye steak served with potatoes and slaw",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": "Market price"
+    },
+    {
+      "name": "GREEN CHICKPEA HUMMUS",
+      "price": 8,
+      "description": "Green chickpeas, cucumbers, blue corn pita",
+      "simplified_description": "Hummus made from green chickpeas served with cucumbers and pita",
+      "category": "Pub Classics",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TRUFFLE PARM FRIES",
+      "price": 14,
+      "description": "Aged parmesan, black truffle oil, garlic aioli",
+      "simplified_description": "Fries topped with cheese and truffle oil",
+      "category": "Pub Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WINGS",
+      "price": 20,
+      "description": "Wings & drums\nSalt & Pepper | House Hot | Creamy Dill Pickle",
+      "simplified_description": "Chicken wings with various seasoning options",
+      "category": "Pub Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MANGO CHIPOTLE NACHOS",
+      "price": 22,
+      "description": "In-house fried corn tortillas, lime crema, mango salsa, tangerine chili olives, fresh jalapeño, smoked gouda\nAdd Guacamole - $3\nAdd Mango Habanero Chicken - $7",
+      "simplified_description": "Nachos with various toppings including mango salsa and cheese",
+      "category": "Pub Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE BEE KEEPER",
+      "price": 19,
+      "description": "San Marzano tomato sauce, mozzarella, fior di latte, basil, Burwood honey\nAdd Mango Habanero Chicken - $7",
+      "simplified_description": "Pizza with tomato sauce, cheese, basil, and honey",
+      "category": "Forno Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE COWBOY",
+      "price": 24,
+      "description": "Cured beef sirloin, spicy soppressata, pickled peppers, red onions, San Marzano tomato sauce, fior di latte\nAdd Bacon - $3",
+      "simplified_description": "Pizza with cured beef, spicy sausage, and pickled vegetables",
+      "category": "Forno Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE FORAGER",
+      "price": 23,
+      "description": "Nut-free basil pesto sauce, charred cauliflower, crimini mushrooms, goat feta, black truffle oil\nAdd Bacon - $3",
+      "simplified_description": "Pizza with pesto, vegetables, and cheese",
+      "category": "Forno Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE JOHN DOUGH",
+      "price": null,
+      "description": "Hand-crafted seasonal pizza. Ask your server for details",
+      "simplified_description": "Seasonal pizza made by hand, ask for details",
+      "category": "Forno Pizza",
+      "dietary_info": [],
+      "other_info": "Market price"
+    },
+    {
+      "name": "THE CAVALRY BURGER",
+      "price": 20,
+      "description": "Smoked white cheddar, garlic aioli, houseketchup, lettuce, tomato, pickles, vegan brioche bun",
+      "simplified_description": "Burger with cheese, sauce, and vegetables on a vegan bun",
+      "category": "Handheld",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MEDITERRANEAN CHICKEN PITA",
+      "price": 22,
+      "description": "Tahini, greek pico, tzatziki, cilantro",
+      "simplified_description": "Pita filled with chicken and Mediterranean sauces",
+      "category": "Handheld",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FEATURE SANDWICH",
+      "price": null,
+      "description": "Our rotating feature sandwich. Ask your server for details",
+      "simplified_description": "A special sandwich that changes regularly, ask for details",
+      "category": "Handheld",
+      "dietary_info": [],
+      "other_info": "Market price"
+    },
+    {
+      "name": "SUMMER BERRY SALAD",
+      "price": 19,
+      "description": "Strawberries, blueberries, fennel, spinach and arugula, green goddess, goat cheese espuma, crispy chickpeas",
+      "simplified_description": "Salad with berries, greens, and crispy chickpeas",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOMATO BURRATA PANZANELLA",
+      "price": 22,
+      "description": "Garlic toasted beer bread croutons, burrata, heirloom tomatoes, champagne vinaigrette, pistachio dukkah, peach syrup",
+      "simplified_description": "Salad with bread, cheese, and heirloom tomatoes",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BATTLEFORD CAESAR",
+      "price": 18,
+      "description": "Romaine, Grana Padano, prosciutto, crispy chickpeas, dill and garlic dressing\nAdd Grilled Chicken - $6\nAdd Mango Habanero Chicken - $7\nAdd Seared Albacore Tuna - $8\nAdd Garlic Prawns - $10\nAdd Steak - $12\nAdd Salmon - $12",
+      "simplified_description": "Caesar salad with various toppings available",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRÈME BRÛLÉE",
+      "price": 9,
+      "description": "Chef’s latest inspiration",
+      "simplified_description": "A dessert inspired by the chef's creativity",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FUDGY BROWNIE",
+      "price": 10,
+      "description": "Vaycay Hidden Dragon salted black lager salted caramel, Noto gelato",
+      "simplified_description": "Brownie served with salted caramel and gelato",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STABLES OLD FASHIONED",
+      "price": 16,
+      "description": "Our spin on a timeless sipper. Smooth Talker Bur-Bon style whisky, Burwood’s own honey syrup, and bitters, served on a king cube.",
+      "simplified_description": "A classic cocktail made with whisky and honey",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SUMMER SCORCHER MARGARITA",
+      "price": 16,
+      "description": "A bold cocktail made from fresh watermelon, lime and jalapeño, paired with blanco tequila. Half salted rim and a bit of an edge.",
+      "simplified_description": "A spicy margarita with watermelon and lime",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE HONEY SPICED DAIQUIRI",
+      "price": 16,
+      "description": "Honey-Spiced Rhum and pineapple, shaken to silky perfection with a touch of natural sweetness.",
+      "simplified_description": "A sweet daiquiri made with rum and pineapple",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEES, BEER, BARLEY, SPIRITS",
+      "price": null,
+      "description": "Burwood Cocktails - Various prices listed.",
+      "simplified_description": "Cocktails made with local ingredients, prices vary",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

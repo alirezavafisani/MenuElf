@@ -1,0 +1,520 @@
+{
+  "restaurant": "pulcinella",
+  "parsed_at": "2026-02-06T03:53:27.617266",
+  "item_count": 57,
+  "items": [
+    {
+      "name": "e Al Pesto",
+      "price": 21.0,
+      "description": "pesto, cherry tomatoes, capers, fresh mozzarella cheese on top",
+      "category": "FOOD",
+      "simplified_description": "pesto, cherry tomatoes, capers, fresh mozzarella cheese on top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gnocchi Al Pomodoro",
+      "price": 22.0,
+      "description": "hand-made gnocchi in fresh tomato sauce with black pepper and dried basil, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "hand-made gnocchi in fresh tomato sauce with black pepper and dried basil, parmi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": 22.0,
+      "description": "with ground veal and pork in a tomato béchamel sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "with ground veal and pork in a tomato béchamel sauce, parmigiano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ravioli",
+      "price": 23.0,
+      "description": "jumbo hand-made ravioli stuffed with butternut squash, pistachio, mascarpone and ricotta cheese, served in a brown butter and fresh sage sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "jumbo hand-made ravioli stuffed with butternut squash, pistachio, mascarpone and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lumaconi",
+      "price": 23.0,
+      "description": "lumaconi pasta shells stuffed with ricotta and spinach, baked with a tomato bechamel sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "lumaconi pasta shells stuffed with ricotta and spinach, baked with a tomato bech",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Mussels",
+      "price": 24.0,
+      "description": "fresh mussels steamed in our own extra virgin olive oil with 'nduja sausage, rapini and capers",
+      "category": "FOOD",
+      "simplified_description": "fresh mussels steamed in our own extra virgin olive oil with 'nduja sausage, rap",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Anchovies",
+      "price": 20.0,
+      "description": "crispy mini anchovies with a side of lightly spiced tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "crispy mini anchovies with a side of lightly spiced tomato sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sausage & Rapini",
+      "price": 22.0,
+      "description": "sausage and rapini in a San Marzano tomato sauce, served on a bed of polenta",
+      "category": "FOOD",
+      "simplified_description": "sausage and rapini in a San Marzano tomato sauce, served on a bed of polenta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari Fritti",
+      "price": 22.0,
+      "description": "plump, crispy calamari tossed in a spicy lemon tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "plump, crispy calamari tossed in a spicy lemon tomato sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arancini",
+      "price": 19.0,
+      "description": "saffron-infused arborio rice molded and stuffed with mozzarella, breaded and topped with fresh tomato sauce",
+      "category": "FOOD",
+      "simplified_description": "saffron-infused arborio rice molded and stuffed with mozzarella, breaded and top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta Toscana",
+      "price": null,
+      "description": "house-made bruschetta with tomatoes, olives, capers, sun-dried tomatoes, all tossed in our extra virgin olive oil",
+      "category": "FOOD",
+      "simplified_description": "house-made bruschetta with tomatoes, olives, capers, sun-dried tomatoes, all tos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Polpette",
+      "price": 21.0,
+      "description": "pork and beef meatballs, tomato sauce and basil",
+      "category": "FOOD",
+      "simplified_description": "pork and beef meatballs, tomato sauce and basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosciutto with Whipped Gorgonzola",
+      "price": 18.0,
+      "description": "prosciutto served with whipped gorgonzola, mascarpone, and served with Calabrese bread",
+      "category": "FOOD",
+      "simplified_description": "prosciutto served with whipped gorgonzola, mascarpone, and served with Calabrese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese Potatoes",
+      "price": 18.0,
+      "description": "Calabrese potatoes with sautéed peppers and onions and crispy pancetta",
+      "category": "FOOD",
+      "simplified_description": "Calabrese potatoes with sautéed peppers and onions and crispy pancetta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ricotta with Honey & Walnuts",
+      "price": 20.0,
+      "description": "house-made ricotta served with a drizzle of vanilla-infused honey, topped with toasted walnuts and served with Calabrese bread on the side",
+      "category": "FOOD",
+      "simplified_description": "house-made ricotta served with a drizzle of vanilla-infused honey, topped with t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Antipasto Classico",
+      "price": 38.0,
+      "description": "an assortment of imported Italian cold cuts and cheeses from Italy, roasted and pickled vegetables and fresh bread",
+      "category": "FOOD",
+      "simplified_description": "an assortment of imported Italian cold cuts and cheeses from Italy, roasted and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zuppe del Giorno",
+      "price": 14.0,
+      "description": "ask your server about today’s soup offering",
+      "category": "FOOD",
+      "simplified_description": "ask your server about today’s soup offering",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caprese",
+      "price": 27.0,
+      "description": "with fresh ingredients including tomatoes and burrata imported from Italy, this salad is available in limited quantities – _please ask your server for availability_",
+      "category": "FOOD",
+      "simplified_description": "with fresh ingredients including tomatoes and burrata imported from Italy, this ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bresaola and Arugula",
+      "price": 22.0,
+      "description": "thinly sliced bresaola topped with arugula, tossed with lemon juice, olive oil and shaved parmigiano cheese",
+      "category": "FOOD",
+      "simplified_description": "thinly sliced bresaola topped with arugula, tossed with lemon juice, olive oil a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Insalata Mista",
+      "price": 16.0,
+      "description": "mixed greens drizzled with our house-made balsamic vinaigrette",
+      "category": "FOOD",
+      "simplified_description": "mixed greens drizzled with our house-made balsamic vinaigrette",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese",
+      "price": 20.0,
+      "description": "fresh cucumbers and Roma tomatoes in an olive oil and red wine vinegar dressing, served on an Italian friselle",
+      "category": "FOOD",
+      "simplified_description": "fresh cucumbers and Roma tomatoes in an olive oil and red wine vinegar dressing,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Osso Buco",
+      "price": 49.0,
+      "description": "slow cooked veal shank in a rich tomato and vegetable demi-glace sauce served on a bed of Risotto Milanese",
+      "category": "FOOD",
+      "simplified_description": "slow cooked veal shank in a rich tomato and vegetable demi-glace sauce served on",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wood Oven Roasted Chicken",
+      "price": 37.0,
+      "description": "chicken in an olive oil citric herb marinade roasted in our wood burning oven, served with fresh, seasonal vegetables",
+      "category": "FOOD",
+      "simplified_description": "chicken in an olive oil citric herb marinade roasted in our wood burning oven, s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rib Eye",
+      "price": 58.0,
+      "description": "min. 14 oz, grass-fed Alberta beef grilled to your liking, served with fresh, seasonal vegetables",
+      "category": "FOOD",
+      "simplified_description": "min. 14 oz, grass-fed Alberta beef grilled to your liking, served with fresh, se",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wood Oven Roasted Salmon",
+      "price": 39.0,
+      "description": "oven roasted salmon served on a bed of broccoli risotto, topped with a roasted red pepper cream sauce",
+      "category": "FOOD",
+      "simplified_description": "oven roasted salmon served on a bed of broccoli risotto, topped with a roasted r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bistecca Alla Fiorentina",
+      "price": null,
+      "description": "grilled porterhouse, served rare on a smoking hot Himalayan salt slab. Sizing varies between 1.2kg-1.9kg",
+      "category": "FOOD",
+      "simplified_description": "grilled porterhouse, served rare on a smoking hot Himalayan salt slab. Sizing va",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Cheek",
+      "price": 45.0,
+      "description": "beef cheek slowly braised in a red wine reduction, served on a bed of polenta",
+      "category": "FOOD",
+      "simplified_description": "beef cheek slowly braised in a red wine reduction, served on a bed of polenta",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margherita Gialla",
+      "price": 27.0,
+      "description": "yellow tomato sauce, olive oil, parmigiano, mozzarella, basil, yellow tomatoes",
+      "category": "FOOD",
+      "simplified_description": "yellow tomato sauce, olive oil, parmigiano, mozzarella, basil, yellow tomatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marinara (Napoletana)",
+      "price": 21.0,
+      "description": "to tomato sauce, oregano, garlic, basil",
+      "category": "FOOD",
+      "simplified_description": "to tomato sauce, oregano, garlic, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margherita",
+      "price": 25.0,
+      "description": "tomato sauce, olive oil, parmigiano, mozzarella, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, olive oil, parmigiano, mozzarella, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cotto E Funghi",
+      "price": 27.0,
+      "description": "tomato sauce, mozzarella, prosciutto cotto (ham), mushrooms, parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, prosciutto cotto (ham), mushrooms, parmigiano, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cotto",
+      "price": 26.0,
+      "description": "tomato sauce, mozzarella, prosciutto cotto (ham), parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, prosciutto cotto (ham), parmigiano, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salsiccia E Rapini",
+      "price": 31.0,
+      "description": "tomato sauce, italian house-made sausage, mozzarella, parmigiano, rapini, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, italian house-made sausage, mozzarella, parmigiano, rapini, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ripieno (Calzone)",
+      "price": 30.0,
+      "description": "ricotta, mozzarella, olive oil, salami, parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "ricotta, mozzarella, olive oil, salami, parmigiano, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Formaggio E Pomodoro",
+      "price": 26.0,
+      "description": "tomato sauce, olive oil, grated parmesan, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, olive oil, grated parmesan, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Capricciosa",
+      "price": 31.0,
+      "description": "tomato sauce, artichokes, mushrooms, black olives, mozzarella, prosciutto cotto (ham), parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, artichokes, mushrooms, black olives, mozzarella, prosciutto cotto ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Verdure Grigliate",
+      "price": 26.0,
+      "description": "tomato sauce, grilled aubergine, peppers, zucchini, mozzarella, parmigiano, basil, fresh tomato",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, grilled aubergine, peppers, zucchini, mozzarella, parmigiano, basi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diavola",
+      "price": 30.0,
+      "description": "tomato sauce, mozzarella, salamino (spicy), parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, salamino (spicy), parmigiano, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quattro Stagioni",
+      "price": 29.0,
+      "description": "tomato sauce, mozzarella, prosciutto cotto (ham), mushrooms, artichokes, anchovies, parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, prosciutto cotto (ham), mushrooms, artichokes, anchovi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Romana",
+      "price": 27.0,
+      "description": "tomato sauce, mozzarella, anchovies, oregano, parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, anchovies, oregano, parmigiano, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crudo",
+      "price": 29.0,
+      "description": "tomato sauce, mozzarella, prosciutto crudo (cured), parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, prosciutto crudo (cured), parmigiano, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "'Nduja Sausage",
+      "price": 29.0,
+      "description": "tomato sauce, mozzarella, 'nduja sausage, corn, cherry tomatoes",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, 'nduja sausage, corn, cherry tomatoes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosciutto E Rucola",
+      "price": 32.0,
+      "description": "tomato sauce, mozzarella, cherry tomatoes, arugula, prosciutto, parmigiano, basil",
+      "category": "FOOD",
+      "simplified_description": "tomato sauce, mozzarella, cherry tomatoes, arugula, prosciutto, parmigiano, basi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulcinella",
+      "price": 31.0,
+      "description": "vine ripened cherry tomatoes, parmigiano, basil, buffalo mozzarella",
+      "category": "FOOD",
+      "simplified_description": "vine ripened cherry tomatoes, parmigiano, basil, buffalo mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rapini",
+      "price": 26.0,
+      "description": "mozzarella, parmigiano, rapini, basil",
+      "category": "FOOD",
+      "simplified_description": "mozzarella, parmigiano, rapini, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rustica",
+      "price": 28.0,
+      "description": "mozzarella, parmigiano, basil, cherry tomatoes, topped with arugula and pecorino cheese",
+      "category": "FOOD",
+      "simplified_description": "mozzarella, parmigiano, basil, cherry tomatoes, topped with arugula and pecorino",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quattro Formaggi",
+      "price": 28.0,
+      "description": "mozzarella, gorgonzola, parmigiano, emmental, basil",
+      "category": "FOOD",
+      "simplified_description": "mozzarella, gorgonzola, parmigiano, emmental, basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tartufo",
+      "price": 37.0,
+      "description": "fontina cheese, mozzarella, parmigiano, shaved black truffles, topped with an egg yolk",
+      "category": "FOOD",
+      "simplified_description": "fontina cheese, mozzarella, parmigiano, shaved black truffles, topped with an eg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pancetta & Patate",
+      "price": 31.0,
+      "description": "shredded potato and pancetta with rosemary, mozzarella, topped with olive oil",
+      "category": "FOOD",
+      "simplified_description": "shredded potato and pancetta with rosemary, mozzarella, topped with olive oil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti Al Pomodoro",
+      "price": 26.0,
+      "description": "topped with fresh tomato sauce and dry ricotta cheese",
+      "category": "FOOD",
+      "simplified_description": "topped with fresh tomato sauce and dry ricotta cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rigatoni",
+      "price": 31.0,
+      "description": "in a pork and beef bolognese sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "in a pork and beef bolognese sauce, parmigiano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti Alla Carbonara",
+      "price": 31.0,
+      "description": "pancetta and egg yolk tossed with parmigiano cheese",
+      "category": "FOOD",
+      "simplified_description": "pancetta and egg yolk tossed with parmigiano cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fettuccine Al Pesto",
+      "price": 30.0,
+      "description": "pesto, cherry tomatoes, capers, fresh mozzarella cheese on top",
+      "category": "FOOD",
+      "simplified_description": "pesto, cherry tomatoes, capers, fresh mozzarella cheese on top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gnocchi Al Pomodoro",
+      "price": 33.0,
+      "description": "hand-made gnocchi in fresh tomato sauce with black pepper and dried basil, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "hand-made gnocchi in fresh tomato sauce with black pepper and dried basil, parmi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": 33.0,
+      "description": "with ground veal and pork in a tomato béchamel sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "with ground veal and pork in a tomato béchamel sauce, parmigiano",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ravioli",
+      "price": 34.0,
+      "description": "jumbo hand-made ravioli stuffed with butternut squash, pistachio, mascarpone and ricotta cheese, served in a brown butter and fresh sage sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "jumbo hand-made ravioli stuffed with butternut squash, pistachio, mascarpone and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Lumaconi",
+      "price": 33.0,
+      "description": "lumaconi pasta shells stuffed with ricotta and spinach, baked with a tomato bechamel sauce, parmigiano",
+      "category": "FOOD",
+      "simplified_description": "lumaconi pasta shells stuffed with ricotta and spinach, baked with a tomato bech",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

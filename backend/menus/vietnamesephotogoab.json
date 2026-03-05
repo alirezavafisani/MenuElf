@@ -1,0 +1,34 @@
+{
+  "restaurant": "vietnamesephotogoab",
+  "parsed_at": "2025-12-25T01:36:35.296875",
+  "item_count": 3,
+  "items": [
+    {
+      "name": "House Special Vermicelli",
+      "price": 18.33,
+      "description": "Pick two choices of proteins (pork, beef, or chicken). Serve with shrimp (2), choice of spring rolls (2), veggies, peanut, green onion oil, and fish sauce.",
+      "simplified_description": "A vermicelli dish with your choice of two proteins and shrimp, served with spring rolls and various toppings.",
+      "category": "Popular Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled (Chicken/Pork/Beef) Vermicelli",
+      "price": 17.28,
+      "description": "Pick your choice of protein (pork, beef, or chicken). Serve with your choice of spring rolls (2), veggies, peanut, green onion oil, and fish sauce.",
+      "simplified_description": "A grilled vermicelli dish with your choice of protein and spring rolls, served with various toppings.",
+      "category": "Popular Items",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll (4)",
+      "price": 9.93,
+      "description": "Choice of pork, shrimp or vegetarian spring rolls with choice of sauce. (Fish sauce, sweet chili sauce).",
+      "simplified_description": "Four spring rolls with your choice of filling and dipping sauce.",
+      "category": "Popular Items",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

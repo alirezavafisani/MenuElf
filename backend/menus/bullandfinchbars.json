@@ -1,0 +1,340 @@
+{
+  "restaurant": "bullandfinchbars",
+  "parsed_at": "2025-12-25T03:39:19.175070",
+  "item_count": 37,
+  "items": [
+    {
+      "name": "Homemade Bruschetta",
+      "price": null,
+      "description": "With Ciabatta Crostini",
+      "simplified_description": "Bruschetta served with ciabatta bread",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Cauliflower",
+      "price": null,
+      "description": "Price not specified.",
+      "simplified_description": "Crispy cauliflower dish",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Short Ribs",
+      "price": null,
+      "description": "Marinated or Salt & Pepper\nPrice not specified.",
+      "simplified_description": "Short ribs marinated or seasoned with salt and pepper",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Pepper Calamari",
+      "price": null,
+      "description": "With Tzatziki Dip",
+      "simplified_description": "Calamari seasoned with lemon pepper served with tzatziki sauce",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Shrimp Boat",
+      "price": null,
+      "description": "Mediterranean style sauteed shrimp with pita bread",
+      "simplified_description": "Sauteed shrimp served with pita bread in Mediterranean style",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": null,
+      "description": "",
+      "simplified_description": "French fries",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bull Chips With dip",
+      "price": null,
+      "description": "",
+      "simplified_description": "Chips served with dip",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mac & Cheese Wedges",
+      "price": null,
+      "description": "Macaroni and cheese in a crispy batter, served with sour cream",
+      "simplified_description": "Crispy macaroni and cheese wedges served with sour cream",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings With Ranch dip",
+      "price": null,
+      "description": "",
+      "simplified_description": "Onion rings served with ranch dip",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Breaded Brie Cheese",
+      "price": null,
+      "description": "Served with pita and jam",
+      "simplified_description": "Warm breaded brie cheese served with pita and jam",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Skins",
+      "price": null,
+      "description": "",
+      "simplified_description": "Potato skins",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perogies",
+      "price": null,
+      "description": "Onions, bacon, cream",
+      "simplified_description": "Perogies filled with onions, bacon, and cream",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perogies Poutine",
+      "price": null,
+      "description": "",
+      "simplified_description": "Perogies served as poutine",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatballs Wing Flavors 1 doz.",
+      "price": null,
+      "description": "",
+      "simplified_description": "One dozen meatballs with wing flavors",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Pickles",
+      "price": null,
+      "description": "",
+      "simplified_description": "Pickles that are deep-fried",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Celery & Carrot Sticks w/ Blue Cheese or Ranch Dip",
+      "price": null,
+      "description": "",
+      "simplified_description": "Celery and carrot sticks served with blue cheese or ranch dip",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": null,
+      "description": "Fries, cheese curds with rich beef gravy",
+      "simplified_description": "Fries topped with cheese curds and beef gravy",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Original",
+      "price": null,
+      "description": "Add Chicken, Beef or Bacon - $[Price not listed]",
+      "simplified_description": "Original dish with an option to add chicken, beef, or bacon",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crab Cake’s (3)",
+      "price": null,
+      "description": "Served on greens & garlic aioli",
+      "simplified_description": "Three crab cakes served on greens with garlic aioli",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": null,
+      "description": "With hearty meat sauce or tomato sauce",
+      "simplified_description": "Mozzarella sticks served with meat sauce or tomato sauce",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trio of Dips",
+      "price": null,
+      "description": "Hummus, Tzatziki, Spinach & Feta with Pita & Nacho Chips",
+      "simplified_description": "Three dips: hummus, tzatziki, and spinach & feta served with pita and nacho chips",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": null,
+      "description": "With Fries; Buffalo Style add $1",
+      "simplified_description": "Chicken fingers served with fries; buffalo style available for an extra charge",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach & Feta Dip",
+      "price": null,
+      "description": "With Pita or Nacho Chips",
+      "simplified_description": "Spinach and feta dip served with pita or nacho chips",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Fries With dip",
+      "price": null,
+      "description": "",
+      "simplified_description": "Yam fries served with dip",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Twisted Pretzels (2) With dip",
+      "price": null,
+      "description": "",
+      "simplified_description": "Two twisted pretzels served with dip",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Platter",
+      "price": null,
+      "description": "Dry Ribs, Crispy Cauliflower, Mac ‘n Cheese & Wings",
+      "simplified_description": "A platter with dry ribs, crispy cauliflower, mac and cheese, and wings",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Nachos",
+      "price": null,
+      "description": "Hot and crispy, topped with assorted cheeses, tomatoes, jalapenos, and chives. Salsa and sour cream on the side.",
+      "simplified_description": "Crispy nachos topped with cheese, tomatoes, jalapenos, and chives, served with salsa and sour cream",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1/2 Nachos",
+      "price": null,
+      "description": "Add Ground Beef, Chicken, extra Cheese or Guacamole - $[Price not listed]",
+      "simplified_description": "Half portion of nachos with options to add ground beef, chicken, extra cheese, or guacamole",
+      "category": "Appetizers & Snacks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Burger",
+      "price": null,
+      "description": "8oz. lean beef served on Sesame, Ciabatta, with Mustard aioli, Tomato, Onions and Pickles",
+      "simplified_description": "8oz lean beef burger served on sesame or ciabatta bread with mustard aioli, tomato, onions, and pickles",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeseburger",
+      "price": null,
+      "description": "cheddar or swiss",
+      "simplified_description": "Burger with cheddar or swiss cheese",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Schwartzenburger",
+      "price": null,
+      "description": "cheese ‘n bacon",
+      "simplified_description": "Burger with cheese and bacon",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cardiac Arrest Burger",
+      "price": null,
+      "description": "Bacon, cheese & topped with all the Fixins served between 2 grilled cheese sandwiches",
+      "simplified_description": "Burger with bacon and cheese served between two grilled cheese sandwiches",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Backyard BBQ",
+      "price": null,
+      "description": "bourbon BBQ sauce, bacon, swiss",
+      "simplified_description": "Burger with bourbon BBQ sauce, bacon, and swiss cheese",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": null,
+      "description": "",
+      "simplified_description": "Vegetarian burger",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": null,
+      "description": "cajun, teriyaki or BBQ",
+      "simplified_description": "Chicken burger with cajun, teriyaki, or BBQ flavor",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Burger",
+      "price": null,
+      "description": "Plain or Buffalo style; Breast of chicken with Panko Crumbs",
+      "simplified_description": "Crispy chicken burger served plain or buffalo style",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "More toppings:",
+      "price": null,
+      "description": "Bacon, shrooms, cheese, jalapenos, caramelized onions - $[Price not listed]",
+      "simplified_description": "Additional toppings available: bacon, mushrooms, cheese, jalapenos, caramelized onions",
+      "category": "Burgers & Sandwiches",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

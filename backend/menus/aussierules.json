@@ -1,0 +1,499 @@
+{
+  "restaurant": "aussierules",
+  "parsed_at": "2026-02-06T00:48:24.358246",
+  "item_count": 40,
+  "items": [
+    {
+      "name": "Molson Canadian",
+      "price": 8.5,
+      "description": "Molson Canadian… $8.50",
+      "category": "DRINK",
+      "simplified_description": "A classic Canadian lager beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kokanee",
+      "price": 8.5,
+      "description": "Kokanee… $8.50",
+      "category": "DRINK",
+      "simplified_description": "A crisp and refreshing Canadian pale lager.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coors Light",
+      "price": 8.5,
+      "description": "Coors Light… $8.50",
+      "category": "DRINK",
+      "simplified_description": "A light and smooth American lager beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Miller Genuine Draft",
+      "price": 10.0,
+      "description": "Miller Genuine Draft… $10.00",
+      "category": "DRINK",
+      "simplified_description": "A cold-filtered American lager beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 10.0,
+      "description": "Corona… $10.00",
+      "category": "DRINK",
+      "simplified_description": "A light Mexican lager beer often served with lime.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Heineken",
+      "price": 10.0,
+      "description": "Heineken… $10.00",
+      "category": "DRINK",
+      "simplified_description": "A popular Dutch pale lager beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stella Artois",
+      "price": 10.0,
+      "description": "Stella Artois… $10.00",
+      "category": "DRINK",
+      "simplified_description": "A Belgian pilsner-style lager beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Guinness",
+      "price": 12.0,
+      "description": "Guinness… $12.00",
+      "category": "DRINK",
+      "simplified_description": "A dark Irish stout with creamy texture.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "WILD ROSE",
+      "price": 12.0,
+      "description": "WILD ROSE… $12.00",
+      "category": "DRINK",
+      "simplified_description": "A craft beer from Wild Rose Brewery.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rocky View IPA",
+      "price": 10.0,
+      "description": "Rocky View IPA",
+      "category": "DRINK",
+      "simplified_description": "An India Pale Ale with hoppy flavors.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Rocky View Amber",
+      "price": 10.0,
+      "description": "Rocky View Amber",
+      "category": "DRINK",
+      "simplified_description": "An amber ale with rich malt character.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tool Shed House Lager",
+      "price": 10.0,
+      "description": "Tool Shed House Lager",
+      "category": "DRINK",
+      "simplified_description": "A house lager beer from Tool Shed Brewery.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Velvet Fog",
+      "price": 10.0,
+      "description": "Wild Rose Velvet Fog",
+      "category": "DRINK",
+      "simplified_description": "A smooth and creamy wheat ale.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wild Rose Wraspberry",
+      "price": 10.0,
+      "description": "Wild Rose Wraspberry",
+      "category": "DRINK",
+      "simplified_description": "A raspberry-flavored fruit beer.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Ice",
+      "price": 9.0,
+      "description": "Smirnoff Ice… $9.00",
+      "category": "DRINK",
+      "simplified_description": "A sweet, citrus-flavored malt beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Raspberry",
+      "price": 9.0,
+      "description": "Smirnoff Raspberry… $9.00",
+      "category": "DRINK",
+      "simplified_description": "Raspberry flavored Smirnoff vodka drink.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Smirnoff Peach Lemonade",
+      "price": 9.0,
+      "description": "Smirnoff Peach Lemonade… $9.00",
+      "category": "DRINK",
+      "simplified_description": "Peach lemonade flavored Smirnoff vodka drink.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "White Claw – Raspberry",
+      "price": 9.0,
+      "description": "White Claw – Raspberry… $9.00",
+      "category": "DRINK",
+      "simplified_description": "Raspberry flavored White Claw hard seltzer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "White Claw – Natural Lime",
+      "price": 9.0,
+      "description": "White Claw – Natural Lime… $9.00",
+      "category": "DRINK",
+      "simplified_description": "Natural lime flavored White Claw hard seltzer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Twisted Tea Original",
+      "price": 9.0,
+      "description": "Twisted Tea Original… $9.00",
+      "category": "DRINK",
+      "simplified_description": "Original flavor Twisted Tea alcoholic iced tea.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crazy Uncle Root Beer",
+      "price": 12.0,
+      "description": "Crazy Uncle Root Beer… $12.00",
+      "category": "DRINK",
+      "simplified_description": "Alcoholic root beer flavored drink.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strongbow",
+      "price": 12.0,
+      "description": "Strongbow… $12.00",
+      "category": "DRINK",
+      "simplified_description": "Strongbow hard cider drink.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sunny Cider Sour Cherry",
+      "price": 14.0,
+      "description": "Sunny Cider Sour Cherry… $14.00",
+      "category": "DRINK",
+      "simplified_description": "Sour cherry flavored Sunny hard cider.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sunny Ciders Apple",
+      "price": 14.0,
+      "description": "Sunny Ciders Apple… $14.00",
+      "category": "DRINK",
+      "simplified_description": "Apple flavored Sunny hard cider.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sunny Ciders Saskatoon",
+      "price": 14.0,
+      "description": "Sunny Ciders Saskatoon… $14.00",
+      "category": "DRINK",
+      "simplified_description": "Saskatoon berry flavored Sunny hard cider.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bull",
+      "price": 8.0,
+      "description": "Original, Sugarfree, Watermelon, Peach & Tropical Edition………. $8.00",
+      "category": "DRINK",
+      "simplified_description": "Various flavors of Red Bull energy drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bull Tropical Crush",
+      "price": 16.0,
+      "description": "Red Bull Tropical Edition with 1oz Captain Morgan’s Coconut Rum served with pineapple and lime juice.",
+      "category": "DRINK",
+      "simplified_description": "Tropical Red Bull with coconut rum, pineapple, and lime juice.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "JACKSON-TRIGGS Malbec (Okanagan)",
+      "price": 9.0,
+      "description": "Malbec (Okanagan) 6oz…$9.00 / 9oz…$11.50 Bottle…$38.00",
+      "category": "DRINK",
+      "simplified_description": "Malbec red wine from Okanagan region.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAWMILL CREEK Merlot (Oliver, BC)",
+      "price": 9.5,
+      "description": "Merlot (Oliver, BC) 6oz…$9.50 / 9oz…$12.00 Bottle…$40.00",
+      "category": "DRINK",
+      "simplified_description": "Merlot red wine from Oliver, BC.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HERON BAY Cabernet Sauvignon (BC)",
+      "price": 10.0,
+      "description": "Cabernet Sauvignon (BC) 6oz…$10.00 / 9oz…$15.00 Bottle…$43.00",
+      "category": "DRINK",
+      "simplified_description": "Cabernet Sauvignon red wine from BC.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LINDEMAN’S BIN 50 Shiraz (Australia)",
+      "price": 11.0,
+      "description": "Shiraz (Australia) 6oz…$11.00 / 9oz…$15.00 Bottle…$45.00",
+      "category": "DRINK",
+      "simplified_description": "Australian Shiraz wine available in various sizes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JACKSON-TRIGGS Sauvignon Blanc (Okanagan)",
+      "price": 9.0,
+      "description": "Sauvignon Blanc (Okanagan) 6oz…$9.00 / 9oz…$11.50 Bottle…$38.00",
+      "category": "DRINK",
+      "simplified_description": "Okanagan Sauvignon Blanc wine served in different sizes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BERINGER Chardonnay (USA)",
+      "price": 10.0,
+      "description": "Chardonnay (USA) 6oz…$10.00 / 9oz…$15.00 Bottle…$43.00",
+      "category": "DRINK",
+      "simplified_description": "USA Chardonnay wine offered in multiple serving sizes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BERINGER Zinfendel (Ontario VOA)",
+      "price": 10.0,
+      "description": "Zinfendel (Ontario VOA) 6oz…$10.00 / 9oz…$15.00 Bottle…$43.00",
+      "category": "DRINK",
+      "simplified_description": "Ontario Zinfandel wine available in 6oz, 9oz, or bottle.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PELEE ISLAND Pinot Grigio (Ontario VOA)",
+      "price": 12.0,
+      "description": "Pinot Grigio (Ontario VOA) 6oz…$12.00 / 9oz…$17.00 Bottle…$48.00",
+      "category": "DRINK",
+      "simplified_description": "Ontario Pinot Grigio wine served by glass or bottle.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BENVOLIO MINI Prosecco (Italy)",
+      "price": 16.0,
+      "description": "Prosecco (Italy)………….. $16.00",
+      "category": "DRINK",
+      "simplified_description": "Italian Prosecco sparkling wine in a mini bottle.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BENVOLIO Prosecco (Italy)",
+      "price": 60.0,
+      "description": "Prosecco (Italy)………….. $60.00",
+      "category": "DRINK",
+      "simplified_description": "Italian Prosecco sparkling wine by the bottle.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASOTTINA TREVISO Prosecco (Italy)",
+      "price": 67.0,
+      "description": "Prosecco (Italy)…………..$67.00",
+      "category": "DRINK",
+      "simplified_description": "Italian Masottina Treviso Prosecco sparkling wine bottle.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRIZZLY PAW",
+      "price": 8.0,
+      "description": "Orange Cream Soda, Cream Soda, Black Cherry Cola **GRIZZLY PAW** … $8.00",
+      "category": "DRINK",
+      "simplified_description": "Soft drinks including orange cream, cream soda, and cherry cola.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ANNEX",
+      "price": 8.15,
+      "description": "Rootbeer, Cola, Saskatoon Lemonade **ANNEX** … $8.15",
+      "category": "DRINK",
+      "simplified_description": "Soft drinks including rootbeer, cola, and Saskatoon lemonade.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

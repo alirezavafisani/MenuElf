@@ -1,0 +1,702 @@
+{
+  "restaurant": "southblockbbq",
+  "parsed_at": "2025-12-24T23:30:15.939302",
+  "item_count": 77,
+  "items": [
+    {
+      "name": "4 PK. TALLBOYS",
+      "price": 16.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "18 OZ. DRAUGHT",
+      "price": 9,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Big Lick",
+      "price": null,
+      "description": "Lager - 5.0% | IBU 12",
+      "simplified_description": "A light lager with low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BREEZEWOOD",
+      "price": null,
+      "description": "Blonde Ale - 5.0% | IBU 14",
+      "simplified_description": "A smooth blonde ale with mild bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHIRLIGIG",
+      "price": null,
+      "description": "Pale Ale - 5.0% | IBU 35",
+      "simplified_description": "A pale ale with moderate bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIEDMONT PEEL",
+      "price": null,
+      "description": "Orange Ale - 4.0% | IBU 5",
+      "simplified_description": "A light orange ale with very low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JUDACULLA",
+      "price": null,
+      "description": "NEIPA - 6.4% | IBU 32",
+      "simplified_description": "A New England IPA with moderate bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "east to",
+      "price": null,
+      "description": "West Coast IPA - 6.8% | IBU 70",
+      "simplified_description": "A West Coast IPA with high bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BORN & RAISED",
+      "price": null,
+      "description": "American IPA - 7.2% | IBU 58",
+      "simplified_description": "An American IPA with high bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MISSION",
+      "price": null,
+      "description": "Mango Wheat Ale - 4.5% | IBU 10",
+      "simplified_description": "A mango-flavored wheat ale with low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "lil darling",
+      "price": null,
+      "description": "Hard Tea - 5.5% | IBU 0",
+      "simplified_description": "A hard tea with no bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHORT ROWS",
+      "price": null,
+      "description": "Golden Ale (Non Alc) - 0.5% | IBU 10",
+      "simplified_description": "A non-alcoholic golden ale with low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TREE SHAKER",
+      "price": null,
+      "description": "Bourbon Peach Ale - 6.0% | IBU 15",
+      "simplified_description": "A bourbon peach ale with low to moderate bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SURF CITY",
+      "price": null,
+      "description": "Passionfruit & Guava Sour - 5.6% | IBU 10",
+      "simplified_description": "A sour ale with passionfruit and guava flavors and low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AIN'T NO SUNSHINE",
+      "price": null,
+      "description": "Oatmeal Stout - 5.0% | IBU 38",
+      "simplified_description": "A rich oatmeal stout with moderate bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SABAL PALM",
+      "price": null,
+      "description": "Pilsner - 5.0% | IBU 25",
+      "simplified_description": "A crisp pilsner with moderate bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUTH SIDE",
+      "price": null,
+      "description": "Apple Cider - 6.0% | IBU 0",
+      "simplified_description": "A sweet apple cider with no bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARNER CITY",
+      "price": null,
+      "description": "Grapefruit Radler - 3.5% | IBU 5",
+      "simplified_description": "A grapefruit-flavored radler with very low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STEEPER",
+      "price": null,
+      "description": "Rooibos Red - 5.0% | IBU 23",
+      "simplified_description": "A rooibos red ale with moderate bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PINK LEMONADE",
+      "price": null,
+      "description": "Seltzer - 5.0% | IBU 10",
+      "simplified_description": "A lemon-flavored seltzer with low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "hollow hill",
+      "price": null,
+      "description": "Raspberry Ale - 4.8% | IBU 8",
+      "simplified_description": "A raspberry-flavored ale with low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHERRY POINT",
+      "price": null,
+      "description": "Cherry Sour - 4.8% | IBU 5",
+      "simplified_description": "A cherry-flavored sour ale with very low bitterness",
+      "category": "Beers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brisket",
+      "price": 19,
+      "description": "$19 per 0.5 lb",
+      "simplified_description": "Smoked beef brisket sold by the half pound",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Apricot Pork Belly",
+      "price": 19,
+      "description": "$19 per 0.5 lb",
+      "simplified_description": "Pork belly with apricot flavor sold by the half pound",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brown Butter Herb Turkey",
+      "price": 19,
+      "description": "$19 per 0.5 lb",
+      "simplified_description": "Turkey with brown butter and herbs sold by the half pound",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Ribs",
+      "price": 18,
+      "description": "$18 per 0.5 lb",
+      "simplified_description": "Pork side ribs sold by the half pound",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulled Pork",
+      "price": 18,
+      "description": "$18 per 0.5 lb",
+      "simplified_description": "Shredded pork sold by the half pound",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Half Chicken",
+      "price": 16,
+      "description": "$16 each",
+      "simplified_description": "Half a chicken",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Link",
+      "price": 8,
+      "description": "$8 each",
+      "simplified_description": "Spicy sausage link",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Short Rib",
+      "price": 38,
+      "description": "$38 each",
+      "simplified_description": "A large beef short rib",
+      "category": "Meats",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOUSE SLAW",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PASTA SALAD",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DILL PICKLE POTATO SALAD",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COLLARDS AND BEANS",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BROCCOLI SALAD",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREEN BEAN SALAD",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED CORN AND BEAN SALAD",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACON WRAPPED CORN ON THE COB",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKED BEANS",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "spicy fries",
+      "price": 7,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sides",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Maple Bourbon Carrots",
+      "price": 14,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Shrimp Cocktail",
+      "price": 15,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pickles",
+      "price": 14,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PULLED CHICKEN & WAFFLE",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Wings",
+      "price": 19,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brisket & Pimento Mac n Cheese",
+      "price": 18,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry Burnt Ends",
+      "price": 18,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hushpuppies & Honey Butter",
+      "price": 12,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Watermelon & Peach Salad",
+      "price": 14,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beets & Goat Cheese",
+      "price": 14,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp & Grits",
+      "price": 15,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips & Pimento Dip",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Chips",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Wrapped & Stuffed Peppers",
+      "price": 14,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sandwiches",
+      "price": 16,
+      "description": "(Brisket, Philly, Shrimp Po Boy, Sliced Brisket)",
+      "simplified_description": "Choice of brisket, Philly, shrimp po boy, or sliced brisket sandwich",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DOUBLE BRISKET & CHEDDAR BURGER",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkey Hot Brown",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulled Pork",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Mains",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pecan Pie",
+      "price": 10,
+      "description": "",
+      "simplified_description": "",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beignet",
+      "price": 10,
+      "description": "",
+      "simplified_description": "",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Caramel Cheesecake",
+      "price": 10,
+      "description": "",
+      "simplified_description": "",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosas",
+      "price": 8,
+      "description": "",
+      "simplified_description": "",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Waffles and Candied Brisket",
+      "price": 18,
+      "description": "",
+      "simplified_description": "",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Benny (Choice of Brisket or Pulled Pork)",
+      "price": 18,
+      "description": "Served with Hash Browns & Beans",
+      "simplified_description": "Eggs with choice of brisket or pulled pork, served with hash browns and beans",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Eggs and Smoked Meat",
+      "price": 18,
+      "description": "2 eggs any style, choice of brisket, pulled pork or hot link, served with hash browns, toast & beans",
+      "simplified_description": "Two eggs with choice of brisket, pulled pork, or hot link, served with hash browns, toast, and beans",
+      "category": "Brunch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Smoked Old Fashioned",
+      "price": 17,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Casual Affair",
+      "price": 17,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Eyed Monster",
+      "price": 17,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "She's Somebody's Problem",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Citrus and Sundresses",
+      "price": 17,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jean-Claude Pandan",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Son of a Peach",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Outlaw State of Mind",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lose Control",
+      "price": 17,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Well Said",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Disco Tomorrow",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Burnt Out",
+      "price": 16,
+      "description": "",
+      "simplified_description": "",
+      "category": "Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

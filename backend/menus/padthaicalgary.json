@@ -1,0 +1,589 @@
+{
+  "restaurant": "padthaicalgary",
+  "total_items": 83,
+  "text_items": 83,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "Dragonfly",
+      "price": "12.50",
+      "description": "House-made taro chips, with sweet chilli dip.",
+      "category": "APPETIZER",
+      "source": "text"
+    },
+    {
+      "name": "Tom Yum Goong",
+      "price": "8.00",
+      "description": "Thai creamy style hot and sour soup with prawns and mushrooms.",
+      "category": "SOUP",
+      "source": "text"
+    },
+    {
+      "name": "Tom Kha Gai",
+      "price": "8.00",
+      "description": "Chicken and mushrooms in coconut milk with herbs and Thai ginger.",
+      "category": "SOUP",
+      "source": "text"
+    },
+    {
+      "name": "Green Papaya Salad",
+      "price": "17.50",
+      "description": "Green papaya, prawns, tomatoes, and green beans with lime and chili spice, topped with peanuts.",
+      "category": "SALAD",
+      "source": "text"
+    },
+    {
+      "name": "Basa Garden",
+      "price": "22.95",
+      "description": "Crispy Basa, with our signature salad sauce, and mango, ginger, shallots and peanuts.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Cashew Chicken",
+      "price": "22.50",
+      "description": "Crispy chicken or tofu glazed with sweet chili sauce, topped with cashew nuts.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Bamboo Chicken",
+      "price": "22.50",
+      "description": "Chicken and bamboo stir-fried with chilies and lime leaves.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Pandan Chicken",
+      "price": "22.50",
+      "description": "Marinated chicken wrapped in pandan leaf, served with sweet chili sauce.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Ginger Pork",
+      "price": "22.50",
+      "description": "Stir-fried pork with fresh ginger and vegetables in bean sauce.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Red Bull",
+      "price": "22.50",
+      "description": "Beef mixed with red chilies and turmeric.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Sweet and Sour Pork",
+      "price": "22.50",
+      "description": "Pork tender stir-fried with sweet and sour pineapple sauce.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Prairies Fire",
+      "price": "22.50",
+      "description": "Beef stir-fried with spicy basil and peppers.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "price": "18.95",
+      "description": "Mixed vegetables and tofu stir-fried with a choice of mushroom or peanut sauce. Add $3 for chicken.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Drunken Prawns",
+      "price": "29.50",
+      "description": "Crispy prawns stir-fried with eggplants, smoked chili sauce, and peanuts",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Chu Chi Basa",
+      "price": "25.95",
+      "description": "Crispy basa fillet drizzled with rich red curry sauce on a bed of spinach.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Pineapple Fish",
+      "price": "22.95",
+      "description": "Crispy basa topped with sweet chili pineapple sauce and crispy basil.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Pad Ped Fish",
+      "price": "25.95",
+      "description": "Crispy basa stir-fried with vegetables in red curry paste.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Lucky Chicken",
+      "price": "22.50",
+      "description": "Ground chicken, shallots, mint, rice crumbs, and crushed chilies in lime dressing.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Lava Pork",
+      "price": "22.50",
+      "description": "Barbeque pork with mixed herbs and rice crumbs in lime chili dressing.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Crying Tiger",
+      "price": "23.95",
+      "description": "Pan seared beef with rice crumbs, fresh herbs in chili lime dressing.",
+      "category": "ENTREE",
+      "source": "text"
+    },
+    {
+      "name": "Green Curry",
+      "price": "22.50",
+      "description": "Zucchini, broccoli, and green beans. For Seafood option, please add $6",
+      "category": "CURRY",
+      "source": "text"
+    },
+    {
+      "name": "Red Curry",
+      "price": "22.50",
+      "description": "Bamboo, baby corn, and peppers. For seafood option add $6",
+      "category": "CURRY",
+      "source": "text"
+    },
+    {
+      "name": "Yellow Curry",
+      "price": "22.50",
+      "description": "Potatoes and pineapples. For seafood option, add $6",
+      "category": "CURRY",
+      "source": "text"
+    },
+    {
+      "name": "Masaman Curry",
+      "price": "22.50",
+      "description": "Potatoes, onions, and peanuts. For seafood option, add $6",
+      "category": "CURRY",
+      "source": "text"
+    },
+    {
+      "name": "Panang Curry",
+      "price": "22.50",
+      "description": "Spinach, Peppers and peanuts. For seafood option, add $6",
+      "category": "CURRY",
+      "source": "text"
+    },
+    {
+      "name": "Jasmine Rice",
+      "price": "3.00",
+      "description": "(16 oz)",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Coconut Rice",
+      "price": "3.75",
+      "description": "(16 oz)",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Sticky Rice",
+      "price": "5.00",
+      "description": "(250g)",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Plain Roti",
+      "price": "3.75",
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Shrimp Crackers",
+      "price": "3.00",
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Side Peanut Sauce",
+      "price": "2.95",
+      "description": "(4 oz)",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Extra Meat",
+      "price": "12.00",
+      "description": "(6 oz)",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Extra Vegetables",
+      "price": "5.00",
+      "description": null,
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Condiments",
+      "price": "0.75",
+      "description": "each Fresh Chili Sriracha, Chili Fish Sauce, Fresh Garlic & Chili in Oil, Fried Garlic & Chili in Oil, Soy Sauce",
+      "category": "SIDE",
+      "source": "text"
+    },
+    {
+      "name": "Pad Thai",
+      "price": "20.95",
+      "description": "Rice noodles stir-fried with chicken, prawns, tofu, egg, bean sprouts, and chives in tamarind sauce.",
+      "category": "NOODLES",
+      "source": "text"
+    },
+    {
+      "name": "Pad Se Ew",
+      "price": "20.95",
+      "description": "Fresh rice noodles stir-fried with chicken or pork with Chinese broccoli and egg.",
+      "category": "NOODLES",
+      "source": "text"
+    },
+    {
+      "name": "House Special Noodles",
+      "price": "23.95",
+      "description": "Vermicelli noodles fried in Thai spicy Miso sauce with vegetables, chicken, seafood, and egg.",
+      "category": "NOODLES",
+      "source": "text"
+    },
+    {
+      "name": "Noodle Delight",
+      "price": "20.95",
+      "description": "Rice noodles stir fried with chicken and vegetables, topped with peanut sauce.",
+      "category": "NOODLES",
+      "source": "text"
+    },
+    {
+      "name": "Drunken Noodle",
+      "price": "23.95",
+      "description": "Fresh rice noodles stir fried with chicken, prawns and egg in our signature smoked chili sauce.",
+      "category": "NOODLES",
+      "source": "text"
+    },
+    {
+      "name": "Pork Fried Rice",
+      "price": "20.95",
+      "description": "Pork fried rice with broccoli and egg.",
+      "category": "FRIED RICE",
+      "source": "text"
+    },
+    {
+      "name": "Pineapple Chicken Fried Rice",
+      "price": "20.95",
+      "description": "Chicken fried rice with curry powder, pineapples, and cashews.",
+      "category": "FRIED RICE",
+      "source": "text"
+    },
+    {
+      "name": "Green Curry Fried Rice",
+      "price": "20.95",
+      "description": "Beef fried rice with vegetables in green curry sauce.",
+      "category": "FRIED RICE",
+      "source": "text"
+    },
+    {
+      "name": "Tom Yum Fried Rice",
+      "price": "23.95",
+      "description": "Chicken and prawns fried rice with spicy tom yum sauce.",
+      "category": "FRIED RICE",
+      "source": "text"
+    },
+    {
+      "name": "Prairie Fried Rice",
+      "price": "20.95",
+      "description": "Thai style chicken fried rice with spicy basil and vegetables.",
+      "category": "FRIED RICE",
+      "source": "text"
+    },
+    {
+      "name": "Sweet Sticky Rice with Mango",
+      "price": "10.00",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Roti with Condensed Milk",
+      "price": "10.00",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Coconut Ice Cream",
+      "price": "4.95",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Roti-Banana",
+      "price": "8.00",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Banana Flambe with Coconut Ice Cream",
+      "price": "10.00",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Pandan Brulee",
+      "price": "10.00",
+      "description": null,
+      "category": "DESSERT",
+      "source": "text"
+    },
+    {
+      "name": "Alamos Malbec",
+      "price": "12",
+      "description": "Mendoda, Argentina 5oz",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "La Crema Pinot Noir",
+      "price": "13",
+      "description": "California, USA 5oz",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Zenato Ripassa",
+      "price": "59",
+      "description": "Veneto, Italy",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Luigi Bosca Malbec",
+      "price": "59",
+      "description": "Mendoza, Argentina",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Louis M. Martini Cabernet Sauvignon",
+      "price": "59",
+      "description": "Veneto, Italy",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Oyster Bay Sauvignon Blanc",
+      "price": "12",
+      "description": "Marlborough, New Zealand 5oz",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Zenato Pinot Grigio",
+      "price": "12",
+      "description": "Veneto, Italy 5oz",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Torre Zambra Pecorino",
+      "price": "13",
+      "description": "Abruzzo, Italy 5oz",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Kendall Jackson Chardonay",
+      "price": "28",
+      "description": "California, USA 1/2 Litre",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "La Marca Prosecco",
+      "price": "55",
+      "description": "Veneto, Italy",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Carpene Maltolti Prosecco",
+      "price": "16",
+      "description": "Veneto, Italy",
+      "category": "WINE",
+      "source": "text"
+    },
+    {
+      "name": "Bangkok Sunset",
+      "price": "14.00",
+      "description": "spiced rum, mango malibu, passion fruit juice, grenadine.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Pad Thai Cocktail",
+      "price": "9.50",
+      "description": "crown royal, pad thai sauce, gingerale.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Lychee Twist",
+      "price": "14.00",
+      "description": "vodka, lychee liqueur, strawberry juice, soda, lychee jelly.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Mai Thai",
+      "price": "14.00",
+      "description": "white rum, triple sec, orange & pineapple juice, coconut syrup.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Margarita",
+      "price": "14.00",
+      "description": "tequila, simple syrup, fresh lime juice, salt rim.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Pina Colada",
+      "price": "14.00",
+      "description": "malibu rum, pineapple juice, coconut milk.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Tom Yum Cocktail",
+      "price": "14.00",
+      "description": "pepper vodka, sour puss, lemoncello, lime, lemongrass, fresh chili, soda.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Lemongrass Mojito",
+      "price": "14.00",
+      "description": "white rum, lemongrass syrup, mint, soda.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Full Moon Party",
+      "price": "14.00",
+      "description": "cointreau, tequila, orange juice, lemongrass, basil seeds.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Bangkok Drift",
+      "price": "14.00",
+      "description": "empress gin, pink lemonade, butterfly pea syrup, soda.",
+      "category": "COCKTAIL",
+      "source": "text"
+    },
+    {
+      "name": "Thai Iced Tea",
+      "price": "6.00",
+      "description": "steeped Thai spiced tea sweetened with evaporated milk.",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Mango Slush",
+      "price": "9.00",
+      "description": "add lychee jelly for 1.00",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Juice",
+      "price": "5.00",
+      "description": "mango, orange, pineapple, passionfruit, or cranberry.",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Canned Pop",
+      "price": "2.75",
+      "description": "coke, diet coke, sprite, gingerale, iced tea.",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Perrier",
+      "price": "3.95",
+      "description": null,
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "San Pellegrino",
+      "price": "3.95",
+      "description": "orange or pomegranate.",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Hot Tea",
+      "price": "2.25",
+      "description": "jasmine, green, lemongrass, or pandan.",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Mocktail",
+      "price": "9.00",
+      "description": "a non-alcoholic version of the cocktails listed.",
+      "category": "BEVERAGE",
+      "source": "text"
+    },
+    {
+      "name": "Import",
+      "price": "9.00",
+      "description": "Singha (Thai), Chang (Thai), Corona",
+      "category": "BEER",
+      "source": "text"
+    },
+    {
+      "name": "Domestic",
+      "price": "9.00",
+      "description": "Tiger's Tea 9.00 Big Rock Traditional Ale 8.00",
+      "category": "BEER",
+      "source": "text"
+    },
+    {
+      "name": "Highballs",
+      "price": "7.00",
+      "description": "1oz",
+      "category": "OTHER",
+      "source": "text"
+    },
+    {
+      "name": "Ceasar",
+      "price": "12.00",
+      "description": null,
+      "category": "OTHER",
+      "source": "text"
+    }
+  ]
+}

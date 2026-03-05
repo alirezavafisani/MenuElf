@@ -1,0 +1,418 @@
+{
+  "restaurant": "jjawang",
+  "parsed_at": "2026-02-06T02:47:47.334693",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "Dumpling",
+      "price": 9.0,
+      "description": "Minced pork and vegetable dumplings / 6 pcs",
+      "category": "APPETIZER",
+      "simplified_description": "Six dumplings filled with minced pork and vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chinese Smashed Cucumber Salad",
+      "price": 6.0,
+      "description": "Cucumber mixed with Jjawang’s special chili bean salad dressing",
+      "category": "APPETIZER",
+      "simplified_description": "Cucumber salad with spicy chili bean dressing.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jelly Fish Salad",
+      "price": 13.0,
+      "description": "Jelly fish and cucumber mixed with sweet and sour salad dressing",
+      "category": "APPETIZER",
+      "simplified_description": "Jellyfish and cucumber in sweet and sour dressing.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jjawang JjajangmyunS",
+      "price": 14.0,
+      "description": "Noodles with vegetables and ground pork in black bean sauce",
+      "category": "NOODLE",
+      "simplified_description": "Noodles with vegetables and ground pork in black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-fried Jjajangmyun",
+      "price": 28.0,
+      "description": "Stir-fried noodles with vegetables and ground pork in spicy black bean sauce served family style",
+      "category": "NOODLE",
+      "simplified_description": "Spicy stir-fried noodles with vegetables and ground pork.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Served family style"
+    },
+    {
+      "name": "Seafood JjampongM",
+      "price": 17.0,
+      "description": "Spicy noodle soup with variety of vegetables and seafood",
+      "category": "NOODLE",
+      "simplified_description": "Spicy noodle soup with vegetables and seafood.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef JjampongM",
+      "price": 18.0,
+      "description": "Spicy noodle soup with variety of vegetables and beef",
+      "category": "NOODLE",
+      "simplified_description": "Spicy noodle soup with vegetables and beef.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "UdongM",
+      "price": 17.0,
+      "description": "Savoury noodle soup with variety of vegetables and seafood",
+      "category": "NOODLE",
+      "simplified_description": "Savory noodle soup with vegetables and seafood.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-fried RiceM",
+      "price": 14.0,
+      "description": "Vegetables and egg fried rice with black bean sauce on the side",
+      "category": "RICE",
+      "simplified_description": "Egg fried rice with vegetables and black bean sauce on the side.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Stir-fried RiceM",
+      "price": 16.0,
+      "description": "Shrimp, vegetables, and egg fried rice with black bean sauce on the side",
+      "category": "RICE",
+      "simplified_description": "Egg fried rice with shrimp, vegetables, and black bean sauce on the side.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jjampong Rice - Seafood",
+      "price": 17.0,
+      "description": "Spicy soup containing variety of vegetables and seafood or beef with steamed rice on the side",
+      "category": "RICE",
+      "simplified_description": "Spicy soup with vegetables and seafood, served with steamed rice.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jjampong Rice - Beef",
+      "price": 18.0,
+      "description": "Spicy soup containing variety of vegetables and seafood or beef with steamed rice on the side",
+      "category": "RICE",
+      "simplified_description": "Spicy soup with vegetables and beef, served with steamed rice.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TangsuyoukS",
+      "price": 25.0,
+      "description": "Deep fried pork with sweet and sour sauce | Sauce on the side",
+      "category": "MAIN",
+      "simplified_description": "Deep fried pork served with sweet and sour sauce on the side.",
+      "dietary_info": [],
+      "other_info": "Sauce on the side"
+    },
+    {
+      "name": "Cream Tangsuyouk",
+      "price": 29.0,
+      "description": "Deep fried pork with Jjawang’s signature secret cream sauce | Sauce on the side",
+      "category": "MAIN",
+      "simplified_description": "Deep fried pork with special cream sauce served on the side.",
+      "dietary_info": [],
+      "other_info": "Sauce on the side"
+    },
+    {
+      "name": "Spicy Tangsuyouk",
+      "price": 27.0,
+      "description": "Deep fried pork with spicy, sweet, and sour sauce | Sauce on the side",
+      "category": "MAIN",
+      "simplified_description": "Deep fried pork with spicy sweet and sour sauce on the side.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Sauce on the side"
+    },
+    {
+      "name": "Kkanppungyuk",
+      "price": 28.0,
+      "description": "Deep fried pork with sweet and spicy sauce",
+      "category": "MAIN",
+      "simplified_description": "Deep fried pork in a sweet and spicy sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kkanppungi",
+      "price": 28.0,
+      "description": "Deep fried chicken thigh with sweet and spicy sauce",
+      "category": "MAIN",
+      "simplified_description": "Deep fried chicken thigh with sweet and spicy sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kkanppung Shrimp",
+      "price": 32.0,
+      "description": "Deep fried shrimp with sweet and spicy sauce",
+      "category": "MAIN",
+      "simplified_description": "Deep fried shrimp served with sweet and spicy sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cream Shrimp",
+      "price": 32.0,
+      "description": "Deep fried shrimp with Jjawang’s signature secret cream sauce | Sauce on the side",
+      "category": "MAIN",
+      "simplified_description": "Deep fried shrimp with a special cream sauce served on the side.",
+      "dietary_info": [],
+      "other_info": "Sauce served on the side"
+    },
+    {
+      "name": "Jjawang Signature Shrimp",
+      "price": 34.0,
+      "description": "Deep fried shrimp coated with Jjawang’s signature secret powder",
+      "category": "MAIN",
+      "simplified_description": "Deep fried shrimp coated with a special secret powder.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yooringi",
+      "price": 29.0,
+      "description": "Deep fried chicken thigh with sweet soy sauce and hot pepper",
+      "category": "MAIN",
+      "simplified_description": "Deep fried chicken thigh with sweet soy sauce and hot pepper.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kyung Jang Yuk Sa",
+      "price": 30.0,
+      "description": "Stir-fried pork with black bean sauce served along with sliced vegetables to be wrapped soybean paper",
+      "category": "MAIN",
+      "simplified_description": "Stir-fried pork with black bean sauce and vegetables wrapped in soybean paper.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sanratang",
+      "price": 28.0,
+      "description": "Hot and sour soup with vegetables, seafood, tofu, and eggs",
+      "category": "MAIN",
+      "simplified_description": "Hot and sour soup with vegetables, seafood, tofu, and eggs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jjampongtang - Seafood",
+      "price": 23.0,
+      "description": "Spicy soup containing variety of vegetables and seafood or beef",
+      "category": "MAIN",
+      "simplified_description": "Spicy soup with vegetables and seafood or beef.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jjampongtang - Beef",
+      "price": 26.0,
+      "description": "Spicy soup containing variety of vegetables and seafood or beef",
+      "category": "MAIN",
+      "simplified_description": "Spicy soup with vegetables and seafood or beef.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": 2.5,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Plain steamed white rice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Noodle",
+      "price": 3.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Additional serving of noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Sauce - Tangsuyouk",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Extra sauce for Tangsuyouk dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Sauce - Spicy Tangsuyouk",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Extra spicy sauce for Tangsuyouk dish.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Sauce - Cream Tangsuyouk",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "Extra cream sauce for Tangsuyouk dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A cold carbonated soft drink.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Soju",
+      "price": 18.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A traditional Korean distilled alcoholic beverage.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Flavored Soju",
+      "price": 18.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Soju with added fruit or other flavors.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chinese Kaoliang Sprits",
+      "price": 45.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "A strong Chinese distilled spirit made from sorghum.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Domestic Beer",
+      "price": 6.0,
+      "description": "Kokanee, Canadian",
+      "category": "DRINK",
+      "simplified_description": "Domestic Canadian beer brands including Kokanee.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Imported Beer",
+      "price": 6.0,
+      "description": "Stella $6 | Asahi (500ml) $7 | Sapporo (650ml) $9",
+      "category": "DRINK",
+      "simplified_description": "Imported beers including Stella, Asahi, and Sapporo.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

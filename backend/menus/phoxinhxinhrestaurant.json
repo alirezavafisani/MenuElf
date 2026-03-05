@@ -1,0 +1,448 @@
+{
+  "restaurant": "phoxinhxinhrestaurant",
+  "parsed_at": "2026-02-06T03:47:34.385156",
+  "item_count": 49,
+  "items": [
+    {
+      "name": "g Rolls",
+      "price": 15.75,
+      "description": "Bun Ga Nuong, Tom Nuong, Cha Gio",
+      "category": "OTHER",
+      "simplified_description": "Bun Ga Nuong, Tom Nuong, Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Topped with Charbroil Pork Shrimp Sausage, Ground Pork Sausage & Pork Spring Rolls",
+      "price": 15.95,
+      "description": "Bun Chao Tom, Nem Nuong, Cha Gio",
+      "category": "OTHER",
+      "simplified_description": "Bun Chao Tom, Nem Nuong, Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Topped with Satay Beef, Satay Chicken & Grilled Shrimp",
+      "price": 16.45,
+      "description": "Bun Bo Satay, Ga Satay va Tom Nuong",
+      "category": "OTHER",
+      "simplified_description": "Bun Bo Satay, Ga Satay va Tom Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Topped with Charbroil Pork, Ground Pork Sausage & Pork Spring Rolls",
+      "price": 15.25,
+      "description": "Bun Thit Nuong, Nem Nuong, Cha Gio",
+      "category": "OTHER",
+      "simplified_description": "Bun Thit Nuong, Nem Nuong, Cha Gio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Combo: Charbroil Shrimp Sausage, Charbroiled Ground Pork & Charbroiled Beef Wrapped",
+      "price": 18.95,
+      "description": "La Lot Chao Tom, Nem Nuong, Bo La Lot Cuon Voi Bun & Rau",
+      "category": "OTHER",
+      "simplified_description": "La Lot Chao Tom, Nem Nuong, Bo La Lot Cuon Voi Bun & Rau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Combo: 1 Satay Beef Skewer, 1 Satay Chicken Skewer, 1 Satay Prawn",
+      "price": 18.95,
+      "description": "Bo Satay Lui, Ga Satay Lui, Tom Satay Lui Cuon Bun & Rau",
+      "category": "OTHER",
+      "simplified_description": "Bo Satay Lui, Ga Satay Lui, Tom Satay Lui Cuon Bun & Rau",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Beef or Chicken with Vegetable",
+      "price": 16.0,
+      "description": "Mi Xao Bo Hoac Ga Voi Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Mi Xao Bo Hoac Ga Voi Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Chicken, Beef, Prawn with Vegetable",
+      "price": 17.0,
+      "description": "Mi Xao Bo, Ga, Tom Voi Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Mi Xao Bo, Ga, Tom Voi Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rare Done Beef Noodle Soup",
+      "price": 13.0,
+      "description": "Pho Tai",
+      "category": "OTHER",
+      "simplified_description": "Pho Tai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rare Done Beef Noodle Soup with Beef Balls",
+      "price": 13.55,
+      "description": "Pho Tai, Bo Vien",
+      "category": "OTHER",
+      "simplified_description": "Pho Tai, Bo Vien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Ball Noodle Soup",
+      "price": 13.0,
+      "description": "Pho Bo Vien",
+      "category": "OTHER",
+      "simplified_description": "Pho Bo Vien",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Xinh Xinh Special Beef Noodle Soup ( Rare Done Beef, Brisket, Tendon Tripe & Beef Balls)",
+      "price": 13.55,
+      "description": "Pho Dac Biet Xinh Xinh",
+      "category": "OTHER",
+      "simplified_description": "Pho Dac Biet Xinh Xinh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "price": 13.0,
+      "description": "Pho Ga",
+      "category": "OTHER",
+      "simplified_description": "Pho Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken Noodle Soup",
+      "price": 13.55,
+      "description": "Pho Ga Satay",
+      "category": "OTHER",
+      "simplified_description": "Pho Ga Satay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef Noodle Soup",
+      "price": 13.55,
+      "description": "Pho Bo Satay",
+      "category": "OTHER",
+      "simplified_description": "Pho Bo Satay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Seafood Noodle Soup (Shrimp, Squid)",
+      "price": 15.0,
+      "description": "Pho Hai San Satay",
+      "category": "OTHER",
+      "simplified_description": "Pho Hai San Satay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Hue Style Beef Noodle Soup (Beef, Brisket, Pork Ball)",
+      "price": 13.95,
+      "description": "Bun Bo Hue",
+      "category": "OTHER",
+      "simplified_description": "Bun Bo Hue",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton (Pork) Soup with Vegetable",
+      "price": 13.45,
+      "description": "Hoanh Thanh Nuoc Voi Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Hoanh Thanh Nuoc Voi Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton (Pork) & Egg Noodle Soup With Vegetable",
+      "price": 13.45,
+      "description": "Hoanh Thanh Mi Nuoc Voi Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Hoanh Thanh Mi Nuoc Voi Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton (Pork) Soup with Shrimp, Chicken & Vegetables",
+      "price": 15.45,
+      "description": "Hoanh Thanh Tom, Ga & Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Hoanh Thanh Tom, Ga & Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Noodle or Egg Noodle Soup with Shrimp, Chicken & Vegetable",
+      "price": 15.0,
+      "description": "Hu Tieu Hoac Mi ,Tom, Ga & Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Hu Tieu Hoac Mi ,Tom, Ga & Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Udon Noodle Soup With Shrimp, Chicken & Vegetable",
+      "price": 15.0,
+      "description": "Banh Canh Tom, Ga & Rau Cai",
+      "category": "OTHER",
+      "simplified_description": "Banh Canh Tom, Ga & Rau Cai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken Noodle Soup",
+      "price": 15.0,
+      "description": "Bun Ca Ri Ga",
+      "category": "OTHER",
+      "simplified_description": "Bun Ca Ri Ga",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Shrimp with Sweet & Sour Soup",
+      "price": 18.0,
+      "description": "Canh Chua Ga, Tom",
+      "category": "OTHER",
+      "simplified_description": "Canh Chua Ga, Tom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seasonal Fish with Sweet & Sour Soup",
+      "price": 18.0,
+      "description": "Canh Chua Ca",
+      "category": "OTHER",
+      "simplified_description": "Canh Chua Ca",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroil Pork Chop on Steamed Rice ( 2 Pieces)",
+      "price": 15.0,
+      "description": "Com Suon Nuong",
+      "category": "OTHER",
+      "simplified_description": "Com Suon Nuong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroil Pork Chop (1) & Eggs (2) on Steamed Rice",
+      "price": 15.0,
+      "description": "Con Suon, Trung",
+      "category": "OTHER",
+      "simplified_description": "Con Suon, Trung",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charbroiled Prok Chop (1) & Eggs (1) & Shredded Pork on Steam Rice",
+      "price": 15.0,
+      "description": "Com Suon, Bi, Trung",
+      "category": "OTHER",
+      "simplified_description": "Com Suon, Bi, Trung",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemongrass Chicken on Steamed Rice",
+      "price": 15.0,
+      "description": "Com Ga Nuong Xa",
+      "category": "OTHER",
+      "simplified_description": "Com Ga Nuong Xa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken on Steamed Rice",
+      "price": 15.0,
+      "description": "Com Ga Xao Satay",
+      "category": "OTHER",
+      "simplified_description": "Com Ga Xao Satay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef on Steamed Rice",
+      "price": 15.0,
+      "description": "Com Bo Xao Satay",
+      "category": "OTHER",
+      "simplified_description": "Com Bo Xao Satay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fried Rice",
+      "price": 15.5,
+      "description": "Con Chien Dac Biet",
+      "category": "OTHER",
+      "simplified_description": "Con Chien Dac Biet",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium Rare Beef Cubes on Steamed Rice",
+      "price": 17.5,
+      "description": "Com Trang Bo Luc Lac",
+      "category": "OTHER",
+      "simplified_description": "Com Trang Bo Luc Lac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef or Satay Chicken Sub",
+      "price": 9.0,
+      "description": "Satay Bo Hoac Satay Ga Banh Mi",
+      "category": "OTHER",
+      "simplified_description": "Satay Bo Hoac Satay Ga Banh Mi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Vegetarian Spring Roll (4 Roll)",
+      "price": 8.0,
+      "description": "Cha Gio Chay",
+      "category": "OTHER",
+      "simplified_description": "Cha Gio Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Vegetarian Rolls (3 Roll)",
+      "price": 8.0,
+      "description": "Bi Cuon Chay",
+      "category": "OTHER",
+      "simplified_description": "Bi Cuon Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Topped with Vegetarian Spring Rolls & Steamed Vegetables",
+      "price": 13.25,
+      "description": "Bun Rau Cau, Cha Gio Chay",
+      "category": "OTHER",
+      "simplified_description": "Bun Rau Cau, Cha Gio Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Vegetables & Tofu on (Soft or Crispy) Noodles",
+      "price": 14.95,
+      "description": "Mi Xao Rau Cai, Tau Hu (don haoc mem)",
+      "category": "OTHER",
+      "simplified_description": "Mi Xao Rau Cai, Tau Hu (don haoc mem)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Vegetables and Tofu on Steam Rice",
+      "price": 15.0,
+      "description": "Rau Cai Tau Hu Xao & Com Trang",
+      "category": "OTHER",
+      "simplified_description": "Rau Cai Tau Hu Xao & Com Trang",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Satay Vegetable on Steam Rice",
+      "price": 15.0,
+      "description": "Rau Cai Xao Satay & Com Trang",
+      "category": "OTHER",
+      "simplified_description": "Rau Cai Xao Satay & Com Trang",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Topped with Vegetarian Spring Roll",
+      "price": 13.25,
+      "description": "Bun Cha Gio Chay",
+      "category": "OTHER",
+      "simplified_description": "Bun Cha Gio Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Vietnamese Expresso with Condensed Milk",
+      "price": 6.0,
+      "description": "Ca Phe Sua Da",
+      "category": "DRINK",
+      "simplified_description": "Ca Phe Sua Da",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lime Soda Soda",
+      "price": 5.5,
+      "description": "Chanh Duong",
+      "category": "DRINK",
+      "simplified_description": "Chanh Duong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Coconut Juice",
+      "price": 5.5,
+      "description": "Nuoc Dua",
+      "category": "DRINK",
+      "simplified_description": "Nuoc Dua",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado MilkShake",
+      "price": 7.0,
+      "description": "Bo Xay",
+      "category": "DRINK",
+      "simplified_description": "Bo Xay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Pineapple Milkshake",
+      "price": 6.0,
+      "description": "Khom Xay",
+      "category": "DRINK",
+      "simplified_description": "Khom Xay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bubble Tea ( Honeydew/ Taro/ Mango/ Strawberry/ Watermelon/ Coconut)",
+      "price": 6.0,
+      "description": "Tra Tran Chau Cac Loai",
+      "category": "DRINK",
+      "simplified_description": "Tra Tran Chau Cac Loai",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drink (Coke/ Diet Coke/ 7up/ Iced tea/ Ginger Ale)",
+      "price": 2.0,
+      "description": "Nuoc Ngot",
+      "category": "DRINK",
+      "simplified_description": "Nuoc Ngot",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": 1.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "restaurant": "humptys",
+  "parsed_at": "2026-02-06T02:41:18.570166",
+  "item_count": 12,
+  "items": [
+    {
+      "name": "Build Your Own Breakfast",
+      "price": 10.99,
+      "description": "Start your morning with a fresh, hearty combo — just the way you like it, served weekdays before 10 am.",
+      "category": "FOOD",
+      "simplified_description": "Customizable breakfast combo served on weekdays before 10 am.",
+      "dietary_info": [],
+      "other_info": "Served weekdays before 10 am"
+    },
+    {
+      "name": "Two Eggs Any Style",
+      "price": null,
+      "description": "Two Eggs Any Style",
+      "category": "FOOD",
+      "simplified_description": "Two eggs cooked any way you prefer.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Two Toast & Jam",
+      "price": null,
+      "description": "Two Toast & Jam",
+      "category": "FOOD",
+      "simplified_description": "Two slices of toast served with jam.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Two Bangers",
+      "price": null,
+      "description": "Two Bangers",
+      "category": "FOOD",
+      "simplified_description": "Two sausage links served as a side.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Fritters",
+      "price": null,
+      "description": "Potato Fritters",
+      "category": "FOOD",
+      "simplified_description": "Crispy fried potato patties.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Savoury Diced Hashbrowns",
+      "price": null,
+      "description": "Savoury Diced Hashbrowns",
+      "category": "FOOD",
+      "simplified_description": "Savory diced potatoes cooked until crispy.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Two 3\" Buttermilk Pancakes",
+      "price": null,
+      "description": "Two 3\" Buttermilk Pancakes",
+      "category": "FOOD",
+      "simplified_description": "Two small buttermilk pancakes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "One French Toast Slice",
+      "price": null,
+      "description": "One French Toast Slice",
+      "category": "FOOD",
+      "simplified_description": "One slice of French toast.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Four Tomato Slices",
+      "price": null,
+      "description": "Four Tomato Slices",
+      "category": "FOOD",
+      "simplified_description": "Four fresh slices of tomato.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Two Bacon Strips",
+      "price": null,
+      "description": "Two Bacon Strips",
+      "category": "FOOD",
+      "simplified_description": "Two strips of cooked bacon.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Perogies",
+      "price": 4.49,
+      "description": "Upgrade to Perogies",
+      "category": "FOOD",
+      "simplified_description": "Dumplings filled with potato or cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Upgrade option"
+    },
+    {
+      "name": "Fruit Cup",
+      "price": 4.49,
+      "description": "or a Fruit Cup",
+      "category": "FOOD",
+      "simplified_description": "A cup of mixed fresh fruit.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    }
+  ]
+}

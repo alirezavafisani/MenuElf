@@ -1,0 +1,439 @@
+{
+  "restaurant": "pinkpearl",
+  "parsed_at": "2026-02-06T03:48:49.359911",
+  "item_count": 48,
+  "items": [
+    {
+      "name": "Beef with Mushroom and Baby Corn",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Beef (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Beef with Black Bean Sauce",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Ginger Onion",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "General's Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Mushroom and Baby Corn",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pineapple Chicken",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Chicken (Deep Fried Chicken Breast)",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Chicken and Cashew Nuts in Yellow Bean Sauce",
+      "price": 18.25,
+      "description": "$18.25",
+      "category": "FOOD",
+      "simplified_description": "$18.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Chicken with Almond",
+      "price": 18.25,
+      "description": "$18.25",
+      "category": "FOOD",
+      "simplified_description": "$18.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Fried Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken in Black Bean Sauce",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Mixed Vegetables",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hunan Chicken (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Satay Sauce",
+      "price": 17.5,
+      "description": "$17.50",
+      "category": "FOOD",
+      "simplified_description": "$17.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Slicked Chicken with Vegetables in the Nest",
+      "price": 19.95,
+      "description": "$19.95",
+      "category": "FOOD",
+      "simplified_description": "$19.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Mixed Vegetables",
+      "price": 15.75,
+      "description": "$15.75",
+      "category": "FOOD",
+      "simplified_description": "$15.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables in Hot Garlic Sauce (Spicy)",
+      "price": 15.75,
+      "description": "$15.75",
+      "category": "FOOD",
+      "simplified_description": "$15.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Snow Pea, Baby Corn and Broccoli",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Braised Tofu with Vegetables in Hot Spicy Sauce (Spicy)",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Braised Tofu with Mushroom and Vegetables",
+      "price": 15.95,
+      "description": "$15.95",
+      "category": "FOOD",
+      "simplified_description": "$15.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mah Po Tofu (Spicy)",
+      "price": 17.25,
+      "description": "$17.25",
+      "category": "FOOD",
+      "simplified_description": "$17.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables on Sizzling Rice",
+      "price": 17.5,
+      "description": "$17.50",
+      "category": "FOOD",
+      "simplified_description": "$17.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup on Sizzling Rice (Spicy)",
+      "price": 17.5,
+      "description": "$17.50",
+      "category": "FOOD",
+      "simplified_description": "$17.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Shrimps on Sizzling Rice",
+      "price": 18.95,
+      "description": "$18.95",
+      "category": "FOOD",
+      "simplified_description": "$18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood with Vegetables on Sizzling Rice",
+      "price": 19.25,
+      "description": "$19.25",
+      "category": "FOOD",
+      "simplified_description": "$19.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Style Egg Plant with Pork (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Egg Plant (Spicy)",
+      "price": 16.95,
+      "description": "$16.95",
+      "category": "FOOD",
+      "simplified_description": "$16.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 14.5,
+      "description": "$14.50",
+      "category": "FOOD",
+      "simplified_description": "$14.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Rice",
+      "price": 14.5,
+      "description": "$14.50",
+      "category": "FOOD",
+      "simplified_description": "$14.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables Fried Rice",
+      "price": 14.5,
+      "description": "$14.50",
+      "category": "FOOD",
+      "simplified_description": "$14.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Fried Rice (Spicy with Shrimp, Chicken)",
+      "price": 15.75,
+      "description": "$15.75",
+      "category": "FOOD",
+      "simplified_description": "$15.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Young-Chow Fried Rice (Shrimp, BBQ Pork, chicken)",
+      "price": 15.75,
+      "description": "$15.75",
+      "category": "FOOD",
+      "simplified_description": "$15.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 15.5,
+      "description": "$15.50",
+      "category": "FOOD",
+      "simplified_description": "$15.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Style Fried Thick Noodles (BBQ Pork, Veg)",
+      "price": 14.95,
+      "description": "$14.95",
+      "category": "FOOD",
+      "simplified_description": "$14.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef Fried Thick Noodles",
+      "price": 14.95,
+      "description": "$14.95",
+      "category": "FOOD",
+      "simplified_description": "$14.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetables Fried Skinny Noodles",
+      "price": 14.95,
+      "description": "$14.95",
+      "category": "FOOD",
+      "simplified_description": "$14.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Thick Noodles (Spicy with Shrimp, BBQ Pork, Veg)",
+      "price": 16.5,
+      "description": "$16.50",
+      "category": "FOOD",
+      "simplified_description": "$16.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Singapore Vermicelli (Spicy rice noodles with Shrimp, BBQ Pork, bean sprouts, and egg with Curry Sauce)",
+      "price": 16.5,
+      "description": "$16.50",
+      "category": "FOOD",
+      "simplified_description": "$16.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Thick Noodles",
+      "price": 16.5,
+      "description": "$16.50",
+      "category": "FOOD",
+      "simplified_description": "$16.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Fried Skinny Noodles (Shrimp, Chicken, BBQ Pork, and Veg)",
+      "price": 16.75,
+      "description": "$16.75",
+      "category": "FOOD",
+      "simplified_description": "$16.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice (per person)",
+      "price": 2.75,
+      "description": "$2.75",
+      "category": "OTHER",
+      "simplified_description": "$2.75",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

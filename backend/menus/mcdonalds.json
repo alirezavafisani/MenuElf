@@ -1,0 +1,70 @@
+{
+  "restaurant": "mcdonalds",
+  "parsed_at": "2026-02-06T03:18:41.094637",
+  "item_count": 7,
+  "items": [
+    {
+      "name": "McDouble®",
+      "price": 5.0,
+      "description": "Get a McDouble®, Junior Chicken, or Chicken Snack Wrap®, with a small Fries and a small Fountain Drink.",
+      "category": "FOOD",
+      "simplified_description": "Get a McDouble®, Junior Chicken, or Chicken Snack Wrap®, with a small Fries and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Cheesy Melt",
+      "price": null,
+      "description": "Melt into two juicy 100% Canadian beef patties with a cheesy sauce, two processed cheese slices, grilled onions, crispy onions and pickles.",
+      "category": "FOOD",
+      "simplified_description": "Melt into two juicy 100% Canadian beef patties with a cheesy sauce, two processe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": null,
+      "description": "Get a McDouble®, Junior Chicken, or Chicken Snack Wrap®, with a small Fries and a small Fountain Drink.",
+      "category": "SIDE",
+      "simplified_description": "Get a McDouble®, Junior Chicken, or Chicken Snack Wrap®, with a small Fries and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fountain Drink",
+      "price": null,
+      "description": "Get a McDouble®, Junior Chicken, or Chicken Snack Wrap®, with a small Fries and a small Fountain Drink.",
+      "category": "DRINK",
+      "simplified_description": "Get a McDouble®, Junior Chicken, or Chicken Snack Wrap®, with a small Fries and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken McNuggets®",
+      "price": 2.99,
+      "description": "Add a 4pc McNuggets® for $2.99 plus tax*.",
+      "category": "FOOD",
+      "simplified_description": "Add a 4pc McNuggets® for $2.99 plus tax*.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Big Mac®",
+      "price": null,
+      "description": "Enjoy $0 delivery fee* on the McD’s app. 11% service fee & $2 small order fee still apply.",
+      "category": "FOOD",
+      "simplified_description": "Enjoy $0 delivery fee* on the McD’s app. 11% service fee & $2 small order fee st",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Happy Meal",
+      "price": null,
+      "description": "With our new MyMcDonald’s Rewards, everything you order* earns points for free McDonald’s, like a Big Mac, Happy Meal and any size Fries.",
+      "category": "FOOD",
+      "simplified_description": "With our new MyMcDonald’s Rewards, everything you order* earns points for free M",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

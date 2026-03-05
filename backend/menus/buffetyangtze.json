@@ -1,0 +1,616 @@
+{
+  "restaurant": "buffetyangtze",
+  "parsed_at": "2025-12-25T01:37:40.502160",
+  "item_count": 65,
+  "items": [
+    {
+      "name": "Wonton Soup",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu & Crabmeat Soup",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup (veg.)",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salad Bar",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Kimchi",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cocktail Shrimps",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Sushi",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Rolls",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls (veg.)",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Ball",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Different kind of Stir-Fried Vegetables",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli in Curry Sauce (veg.)",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Rice Noodle with Beef",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Shanghai Noodle (veg.)",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Wings",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ChongQing Spicy Chicken",
+      "price": null,
+      "description": "(Sichuan dish)",
+      "simplified_description": "A spicy chicken dish from Sichuan",
+      "category": "Food Menu",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Spare Ribs",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Pork Rib bites",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pot Stickers",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Western Breakfast",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pizza",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chinese Dimsum",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": "Over 20 items"
+    },
+    {
+      "name": "Har Kow",
+      "price": null,
+      "description": "(shrimp dumplings)",
+      "simplified_description": "Shrimp dumplings",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Shumy",
+      "price": null,
+      "description": "(dumpling)",
+      "simplified_description": "Pork dumpling",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Tarts",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Balls",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Balls",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tofu in Oyster Sauce (veg.)",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chinese Dimsum",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cuttlefish in Ginger Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Feet in Oyster Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chinese Dimsum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veg Fried Rice",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [
+        "vegetarian",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Food Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prime Ribs",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Korean Kalbi Beef",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Short Rib in Western Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New Zealand Mussel with Black Bean Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Brochette",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Shrimps",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep-Fried Calamari",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Sashimi",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun Mixed Seafood",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Fish in Garlic Butter",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Chicken",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Brochette",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Chicken in Sweet Soy Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Chicken",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weeknight Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Snow Crab Legs",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weekend Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cocktail New Zealand Mussel",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weekend Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger & Onion/ Sichuan Spicy Dungeness Crab",
+      "price": null,
+      "description": "(seasonal)",
+      "simplified_description": "A spicy crab dish from Sichuan, available seasonally",
+      "category": "Weekend Dinner",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish in Spicy Broth",
+      "price": null,
+      "description": "(Sichuan dish)",
+      "simplified_description": "A spicy fish dish from Sichuan",
+      "category": "Weekend Dinner",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Perogies",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weekend Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Meatball in Western Sauce",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weekend Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef burger",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Weekend Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

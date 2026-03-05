@@ -1,0 +1,242 @@
+{
+  "restaurant": "jimmysaa",
+  "parsed_at": "2026-02-06T02:46:24.615959",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "Beef Donair Pita",
+      "price": 14.3,
+      "description": "Beef Donair Pita",
+      "category": "FOOD",
+      "simplified_description": "Pita filled with seasoned beef donair meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Donair Pita",
+      "price": 15.92,
+      "description": "Lamb Donair Pita",
+      "category": "FOOD",
+      "simplified_description": "Pita filled with seasoned lamb donair meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FAMILY PLATE",
+      "price": null,
+      "description": "Beef Family Platter For 5 People",
+      "category": "FOOD",
+      "simplified_description": "Beef platter serving five people.",
+      "dietary_info": [],
+      "other_info": "Serves five people"
+    },
+    {
+      "name": "FAMILY PLATE",
+      "price": null,
+      "description": "Chicken Family Platter For 5 People",
+      "category": "FOOD",
+      "simplified_description": "Chicken platter serving five people.",
+      "dietary_info": [],
+      "other_info": "Serves five people"
+    },
+    {
+      "name": "Falafel",
+      "price": 13.5,
+      "description": "Fresh Fried Falafel",
+      "category": "FOOD",
+      "simplified_description": "Freshly fried falafel balls made from chickpeas.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas",
+      "price": 4.4,
+      "description": "Chicken Samosa (1pc)",
+      "category": "FOOD",
+      "simplified_description": "One piece of chicken-filled samosa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas",
+      "price": 4.4,
+      "description": "Vegetable Samosa (1pc)",
+      "category": "FOOD",
+      "simplified_description": "One piece of vegetable-filled samosa.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosas",
+      "price": 4.4,
+      "description": "Beef Samosa (1pc)",
+      "category": "FOOD",
+      "simplified_description": "One piece of beef-filled samosa.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salads",
+      "price": 13.97,
+      "description": "Chicken Shawarma Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad topped with chicken shawarma meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salads",
+      "price": 13.97,
+      "description": "Beef Donair Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad topped with beef donair meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salads",
+      "price": 13.97,
+      "description": "Falafel Salad",
+      "category": "FOOD",
+      "simplified_description": "Salad topped with falafel balls.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salads",
+      "price": 13.97,
+      "description": "A Mixed Salad Beef And Chicken Mixed",
+      "category": "FOOD",
+      "simplified_description": "Mixed salad with both beef and chicken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Drinks",
+      "price": 4.4,
+      "description": "Gatorade",
+      "category": "DRINK",
+      "simplified_description": "Electrolyte sports drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Drinks",
+      "price": 3.3,
+      "description": "San Pellegrino Sparkling Fruit Beverage",
+      "category": "DRINK",
+      "simplified_description": "Sparkling fruit-flavored beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Drinks",
+      "price": 4.0,
+      "description": "Coconut Water",
+      "category": "DRINK",
+      "simplified_description": "Natural coconut water drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Drinks",
+      "price": 4.0,
+      "description": "Pop Shoppe Drinks",
+      "category": "DRINK",
+      "simplified_description": "A variety of Pop Shoppe soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Drinks",
+      "price": 2.2,
+      "description": "Nestle Water",
+      "category": "DRINK",
+      "simplified_description": "Bottled Nestle water for hydration.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Drinks",
+      "price": 2.2,
+      "description": "Canned Pop",
+      "category": "DRINK",
+      "simplified_description": "Various canned soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava Menu",
+      "price": 16.94,
+      "description": "Jimmy Dozen",
+      "category": "DESSERT",
+      "simplified_description": "A dozen pieces of traditional baklava dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Serves multiple"
+    },
+    {
+      "name": "Baklava Menu",
+      "price": 1.7,
+      "description": "Baklava (1 Pc)",
+      "category": "DESSERT",
+      "simplified_description": "One piece of traditional baklava dessert.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

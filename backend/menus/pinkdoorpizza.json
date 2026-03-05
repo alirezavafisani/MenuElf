@@ -1,0 +1,232 @@
+{
+  "restaurant": "pinkdoorpizza",
+  "parsed_at": "2026-02-06T03:47:59.159493",
+  "item_count": 25,
+  "items": [
+    {
+      "name": "12\" FUNKY BUNCH PIZZA + WINGS",
+      "price": 40.0,
+      "description": "choose any of our 12\" Funky Bunch pizzas with 1lb of wings in your flavour choice.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 12\" Funky Bunch pizzas with 1lb of wings in your flavour choic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "14\" FUNKY BUNCH PIZZA + WINGS",
+      "price": 45.0,
+      "description": "choose any of our 14\" Funky Bunch pizzas with 1lb of wings in your flavour choice.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 14\" Funky Bunch pizzas with 1lb of wings in your flavour choic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12\" FUNKY BUNCH PIZZA + 4-PACK",
+      "price": 46.0,
+      "description": "choose any of our 12\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 12\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Bl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "14\" FUNKY BUNCH PIZZA + 4-PACK",
+      "price": 50.0,
+      "description": "choose any of our 14\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 14\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Bl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12\" OL' FAITHFUL PIZZA + WINGS",
+      "price": 37.0,
+      "description": "choose any of our Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12\" OL' FAITHFUL PIZZA + 4-PACK",
+      "price": 44.0,
+      "description": "choose any of our 12\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 12\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "14\" OL' FAITHFUL PIZZA + WINGS",
+      "price": 41.0,
+      "description": "choose any of our 14\" Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 14\" Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "14\" OL' FAITHFUL PIZZA + 4-PACK",
+      "price": 48.0,
+      "description": "choose any of our 14\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "category": "COMBO",
+      "simplified_description": "choose any of our 14\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "*NEW* JAMAICAN ME CRAZY",
+      "price": 23.0,
+      "description": "jerk chicken, alfredo sauce, red peppers, mozza, jerk sauce, green onions 10\"-$23/12\"-$29/14\"-$34",
+      "category": "PIZZA",
+      "simplified_description": "jerk chicken, alfredo sauce, red peppers, mozza, jerk sauce, green onions 10\"-$2",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GET IN MY BELLY",
+      "price": 23.0,
+      "description": "glazed pork belly, bbq sauce, red onion, jalapeno creama, mozzarella, fresnos 10\"-$23/12\"-$29/14\"-$34",
+      "category": "PIZZA",
+      "simplified_description": "glazed pork belly, bbq sauce, red onion, jalapeno creama, mozzarella, fresnos 10",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TACO IN A BAG",
+      "price": 23.0,
+      "description": "tomato salsa, taco beef, mozza, cheddar, pico de gallo, chipotle aioli, crushed Doritos 10\"-$23/12\"-$29/14\"-$34",
+      "category": "PIZZA",
+      "simplified_description": "tomato salsa, taco beef, mozza, cheddar, pico de gallo, chipotle aioli, crushed ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PICKLE MY FANCY",
+      "price": 22.0,
+      "description": "dill pickles, pickled fennel + onion + fresno chile, fresh dill, garlic butter, cheddar, mozza, chipotle aioli 10\"-$22/12\"-$28/14\"-$32",
+      "category": "PIZZA",
+      "simplified_description": "dill pickles, pickled fennel + onion + fresno chile, fresh dill, garlic butter, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN",
+      "price": null,
+      "description": "pizza sauce, pepperoni, bacon, mushroom, mozza",
+      "category": "PIZZA",
+      "simplified_description": "pizza sauce, pepperoni, bacon, mushroom, mozza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HAWAIIAN",
+      "price": null,
+      "description": "pizza sauce, ham, pineapple, mozza",
+      "category": "PIZZA",
+      "simplified_description": "pizza sauce, ham, pineapple, mozza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NASHVILLE NORTH",
+      "price": 23.0,
+      "description": "fried chicken, Pink Door hot sauce, dill pickles, green onion, mozza, cheddar, buttermilk ranch 10\"-$23/12\"-$29/14\"-$34",
+      "category": "PIZZA",
+      "simplified_description": "fried chicken, Pink Door hot sauce, dill pickles, green onion, mozza, cheddar, b",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "I DON'T GIVE A CLUCK",
+      "price": 23.0,
+      "description": "bbq tomato sauce, roasted chicken, red onion, corn, jalapeno, mozza, cheddar, cilantro 10\"-$23/12\"-$29/14\"-$33",
+      "category": "PIZZA",
+      "simplified_description": "bbq tomato sauce, roasted chicken, red onion, corn, jalapeno, mozza, cheddar, ci",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STARBELLY BURGER",
+      "price": 22.0,
+      "description": "tomato sauce, beef, fried onion, bacon, fancy sauce, cheddar, mozza 10\"-$22/12\"-$27/14\"-$32",
+      "category": "PIZZA",
+      "simplified_description": "tomato sauce, beef, fried onion, bacon, fancy sauce, cheddar, mozza 10\"-$22/12\"-",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEAT ME IN THE MIDDLE",
+      "price": 22.0,
+      "description": "pizza sauce, beef, ham, pepperoni, bacon, mozza 10\"-$22/12\"-$27/14\"-$32",
+      "category": "PIZZA",
+      "simplified_description": "pizza sauce, beef, ham, pepperoni, bacon, mozza 10\"-$22/12\"-$27/14\"-$32",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN PESTO THE BESTO",
+      "price": 23.0,
+      "description": "almond basil pesto, roasted red peppers, artichoke, roasted chicken, goat cheese, mozza, garlic aioli 10\"-$23/12\"-$28/14\"-$33",
+      "category": "PIZZA",
+      "simplified_description": "almond basil pesto, roasted red peppers, artichoke, roasted chicken, goat cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HOUSE MADE DIPS",
+      "price": 3.0,
+      "description": "the perfect side. Choose from: Buttermilk Ranch, Pink Door Hot Sauce, Garlic Aioli, Honey Hot, Fancy Sauce",
+      "category": "SIDE",
+      "simplified_description": "the perfect side. Choose from: Buttermilk Ranch, Pink Door Hot Sauce, Garlic Aio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC KNOTS",
+      "price": 8.0,
+      "description": "hand-tied and tossed in garlic oil and oregano. Served with garlic aioli",
+      "category": "SIDE",
+      "simplified_description": "hand-tied and tossed in garlic oil and oregano. Served with garlic aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WINGS",
+      "price": 18.0,
+      "description": "1LB wings served with side of mango habanero ranch. Flavours: Aji Amarillo, Chipotle Hot, BBQ, Chili Salt, Salt + Pepper",
+      "category": "APPETIZER",
+      "simplified_description": "1LB wings served with side of mango habanero ranch. Flavours: Aji Amarillo, Chip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BTL Pink Door Pizza Hot Sauce",
+      "price": 5.0,
+      "description": "4oz",
+      "category": "OTHER",
+      "simplified_description": "4oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink Door Pizza Pineapple Blonde Ale",
+      "price": 7.0,
+      "description": "Can (473ml) - $7 / 4 pack - $24",
+      "category": "DRINK",
+      "simplified_description": "Can (473ml) - $7 / 4 pack - $24",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SODA (355ml)",
+      "price": 3.0,
+      "description": "Choose from: Coca Cola, Diet Coke, Sprite, Ice Tea, Ginger Ale",
+      "category": "DRINK",
+      "simplified_description": "Choose from: Coca Cola, Diet Coke, Sprite, Ice Tea, Ginger Ale",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

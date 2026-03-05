@@ -1,0 +1,442 @@
+{
+  "restaurant": "calcitypizza",
+  "parsed_at": "2026-02-06T01:21:34.046849",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "Chicken Taco Special",
+      "price": 15.0,
+      "description": "Salsa, Onions, Chicken, topped with Fresh Lettuce, Tomatoes, Cheddar Cheese and Sour Cream",
+      "category": "FOOD",
+      "simplified_description": "Chicken taco with salsa, fresh veggies, cheddar cheese, and sour cream.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken",
+      "price": 15.0,
+      "description": "Hot Buffalo Sauce, Green Peppers, Onions and Chicken",
+      "category": "FOOD",
+      "simplified_description": "Spicy buffalo chicken with green peppers and onions.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Fajita",
+      "price": 15.0,
+      "description": "Salsa, Mushrooms, Onions, Green Peppers, Chicken and Cheddar Cheese",
+      "category": "FOOD",
+      "simplified_description": "Chicken fajita with salsa, mushrooms, peppers, onions, and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Chicken",
+      "price": 15.0,
+      "description": "Pesto Sauce, Spinach, Chicken, Onions, Sundried Tomatoes\nand Red Peppers",
+      "category": "FOOD",
+      "simplified_description": "Chicken with pesto, spinach, onions, sundried tomatoes, and red peppers.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 15.0,
+      "description": "Mushrooms, Onions, Green Peppers and Tandoori Chicken",
+      "category": "FOOD",
+      "simplified_description": "Tandoori chicken with mushrooms, onions, and green peppers.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Special",
+      "price": 15.0,
+      "description": "Special Butter Chicken Sauce, Onions, Red Bell Pepper, Chicken, Roasted Garlic and Jalapeno Peppers",
+      "category": "FOOD",
+      "simplified_description": "Butter chicken with onions, red bell pepper, garlic, and jalapeno peppers.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Cal City House Special",
+      "price": 15.0,
+      "description": "Pepperoni, Salami, Mushrooms, Green Peppers, Onions and Pineapple",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, salami, mushrooms, peppers, onions, and pineapple pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tropical Hawaiian",
+      "price": 15.0,
+      "description": "Sweet and Smokey Sauce, Ham, Bacon, Pineapple and Cheddar Cheese",
+      "category": "FOOD",
+      "simplified_description": "Ham, bacon, pineapple, and cheddar cheese with sweet smoky sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheese Burger",
+      "price": 15.0,
+      "description": "Ground Beef, Bacon, Onions and Cheddar Cheese",
+      "category": "FOOD",
+      "simplified_description": "Ground beef and bacon with onions and cheddar cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Italiano Special",
+      "price": 15.0,
+      "description": "Pepperoni, Salami, Mushroom and Italian Sausage",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, salami, mushroom, and Italian sausage pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian Classic",
+      "price": 15.0,
+      "description": "Double Pepperoni, Mushrooms and Bacon",
+      "category": "FOOD",
+      "simplified_description": "Double pepperoni, mushrooms, and bacon pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Capicola Special",
+      "price": 15.0,
+      "description": "Pepperoni, Capicola, Italian Sausage, Banana Peppers and Cheddar Cheese**",
+      "category": "FOOD",
+      "simplified_description": "Pepperoni, capicola, sausage, banana peppers, and cheddar cheese pizza.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Mexican",
+      "price": 15.0,
+      "description": "Chilli Peppers, Onions, Green Peppers, Ground Beef, Jalapeno and Banana Peppers",
+      "category": "FOOD",
+      "simplified_description": "Spicy Mexican pizza with chili, jalapeno, peppers, onions, and beef.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Meat Lover",
+      "price": 15.0,
+      "description": "Pepperoni, Salami, Ham, Ground Beef, Bacon and Italian Sausage",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with pepperoni, salami, ham, beef, bacon, and sausage.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fully Loaded Deluxe Pizza",
+      "price": 16.0,
+      "description": "Pepperoni, Salami, Ham, Mushrooms, Onions, Olives, Green Peppers, Bacon, Ground Beef and Italian Sausage",
+      "category": "FOOD",
+      "simplified_description": "Deluxe pizza with various meats, mushrooms, onions, olives, and peppers.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Garlic Bread Sticks",
+      "price": 9.0,
+      "description": "Small 9 | Med 11 | Large 13",
+      "category": "SIDE",
+      "simplified_description": "Bread sticks topped with garlic and melted cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesy Shahi Sticks",
+      "price": 10.0,
+      "description": "Small 10 | Med 12 | Large 14",
+      "category": "SIDE",
+      "simplified_description": "Cheesy bread sticks with a special Shahi seasoning.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Curly Fries",
+      "price": 6.0,
+      "description": "one size only – $6",
+      "category": "SIDE",
+      "simplified_description": "Curly fries seasoned with spicy flavor.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Onion Rings",
+      "price": 6.0,
+      "description": "one size only – $6",
+      "category": "SIDE",
+      "simplified_description": "Crispy battered onion rings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Potato Fries",
+      "price": 6.0,
+      "description": "one size only – $6",
+      "category": "SIDE",
+      "simplified_description": "Sweet potato fries served crispy.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 10.85,
+      "description": "Your choice of Hot, Thai Sweet Chili, Honey Garlic, Teriyaki, BBQ, Lemon & Pepper dry rub",
+      "category": "OTHER",
+      "simplified_description": "Chicken wings with various sauce options.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Multiple sauce choices"
+    },
+    {
+      "name": "DIPS",
+      "price": null,
+      "description": "HEINZ Ranch, HEINZ Marinara, HEINZ Cheddar Chipotle,\nHEINZ Spicy Buffalo, HEINZ Creamy Garlic, Roasted Garlic,\nHot Sauce, Cheesy Jalapeno",
+      "category": "OTHER",
+      "simplified_description": "Variety of dipping sauces including spicy and cheesy options.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Pizza:",
+      "price": 9.0,
+      "description": "Small – $9 | Medium – $11 | Large – $13",
+      "category": "FOOD",
+      "simplified_description": "Classic cheese pizza available in three sizes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pizzas up to 2 toppings:",
+      "price": 12.0,
+      "description": "Small – $12 | Medium – $14 | Large – $16",
+      "category": "FOOD",
+      "simplified_description": "Pizza with up to two toppings, available in three sizes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra toppings:",
+      "price": 1.0,
+      "description": "Small – $1 | Medium – $1.50 | Large – $2",
+      "category": "OTHER",
+      "simplified_description": "Additional pizza toppings priced by size.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Premium toppings:",
+      "price": 2.0,
+      "description": "Small – $2 | Medium – $2.50 | Large – $3",
+      "category": "OTHER",
+      "simplified_description": "Higher quality pizza toppings priced by size.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Four Cheese Special",
+      "price": 11.0,
+      "description": "Parmesan, Feta, Cheddar and Mozzarella Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with four types of cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Veggie Special",
+      "price": 15.0,
+      "description": "Mushrooms, Onions, Green Peppers, Tomatoes, Olives and Pineapples",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with various fresh vegetables and pineapple.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mediterranean Veggie",
+      "price": 15.0,
+      "description": "Roasted Garlic, Baby Spinach, Onions, Tomatoes, Kalamata Olives, Red Peppers and Feta Cheese",
+      "category": "FOOD",
+      "simplified_description": "Vegetable pizza with feta cheese and Mediterranean flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Roasted Garlic Popeye",
+      "price": 15.0,
+      "description": "Roasted Garlic Sauce, Baby Spinach, Sundried Tomatoes, Olives, Parmesan Cheese and Feta Cheese",
+      "category": "FOOD",
+      "simplified_description": "Vegetable pizza with roasted garlic sauce and mixed cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Taco Special",
+      "price": 15.0,
+      "description": "Salsa, Onions, Green Peppers, topped with Fresh Lettuce, Tomatoes, Cheddar Cheese and Sour Cream",
+      "category": "FOOD",
+      "simplified_description": "Taco with veggies, cheddar cheese, and sour cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Veggie",
+      "price": 15.0,
+      "description": "Pesto Sauce, Spinach, Onions, Sundried Tomatoes,\nRed Peppers and Kalamata Olives",
+      "category": "FOOD",
+      "simplified_description": "Veggie dish with pesto, spinach, peppers, and olives.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Paneer",
+      "price": 15.0,
+      "description": "BBQ Sauce, Onions, Green Peppers, Cheddar Cheese,\nJalapenos and Paneer",
+      "category": "FOOD",
+      "simplified_description": "BBQ paneer with cheese, jalapenos, and veggies.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shahi Paneer Special",
+      "price": 15.0,
+      "description": "Shahi Paneer Sauce, Onions, Red Peppers, Tomatoes and Paneer",
+      "category": "FOOD",
+      "simplified_description": "Paneer with Shahi sauce, onions, peppers, and tomatoes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Paneer",
+      "price": 15.0,
+      "description": "Mushrooms, Onions, Green Peppers, Tomatoes and Tandoori Paneer",
+      "category": "FOOD",
+      "simplified_description": "Tandoori paneer with mushrooms and fresh vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken",
+      "price": 15.0,
+      "description": "BBQ Sauce, Onions, Green Peppers, Cheddar Cheese and Chicken",
+      "category": "FOOD",
+      "simplified_description": "BBQ chicken with cheese and vegetables.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Chipotle",
+      "price": 15.0,
+      "description": "Chipotle Sauce, Onions, Green Peppers, Tomatoes and Chicken",
+      "category": "FOOD",
+      "simplified_description": "Chicken with chipotle sauce and fresh vegetables.",
+      "dietary_info": [
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Bacon Ranch",
+      "price": 15.0,
+      "description": "Ham, Chicken, Bacon and Tomatoes",
+      "category": "FOOD",
+      "simplified_description": "Chicken, bacon, ham, and tomatoes.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

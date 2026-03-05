@@ -1,0 +1,754 @@
+{
+  "restaurant": "masalabhavanexpress",
+  "parsed_at": "2026-02-06T03:18:07.789689",
+  "item_count": 83,
+  "items": [
+    {
+      "name": "GHEE ROAST",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASALA DOSAI",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MYSORE MASALA DOSAI",
+      "price": 13.95,
+      "description": "Lathered with spicy tomato chutney",
+      "category": "FOOD",
+      "simplified_description": "Lathered with spicy tomato chutney",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER DOSAI",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PALAK PANEER MASALA DOSAI",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN DOSAI",
+      "price": 13.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAMB DOSAI",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GOBI MANCHURIAN DOSAI",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGGIE BALL MANCHURIAN DOSAI",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "M.B. SPECIAL DOSAI",
+      "price": 14.95,
+      "description": "Stuffed with onion,peppers,gunpower,potato butter and cheese.",
+      "category": "FOOD",
+      "simplified_description": "Stuffed with onion,peppers,gunpower,potato butter and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add ghee or cheese to any dosai",
+      "price": 2.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add 1 vada and 1 idly",
+      "price": 4.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Extra potato masala",
+      "price": 2.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add extra sambar",
+      "price": 2.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add podi",
+      "price": 2.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVA PLAIN DOSAI",
+      "price": 13.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVA ONION DOSAI",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVA MASALA DOSAI",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVA ONION-CHILLI DOSAI",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAVA MYSORE MASALA",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add 1 vada and 1 idly",
+      "price": 4.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add extra sambar",
+      "price": 2.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KINGFISHER 355ML (INDIA)",
+      "price": 6.5,
+      "description": "Light, smokey lager.",
+      "category": "DRINK",
+      "simplified_description": "Light, smokey lager.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TAJ MAHAL 330ML (INDIA)",
+      "price": 7.5,
+      "description": "Clean, crisp, and light with delicateflavour.",
+      "category": "DRINK",
+      "simplified_description": "Clean, crisp, and light with delicateflavour.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STELLA (BELGIUM)",
+      "price": 7.0,
+      "description": "Balanced amber lager.",
+      "category": "DRINK",
+      "simplified_description": "Balanced amber lager.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALEXANDER KEITH'S (HALIFAX)",
+      "price": 7.0,
+      "description": "Pale ale",
+      "category": "DRINK",
+      "simplified_description": "Pale ale",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDWEISER (USA)",
+      "price": 7.0,
+      "description": "Smooth lager aged using beachwood process.",
+      "category": "DRINK",
+      "simplified_description": "Smooth lager aged using beachwood process.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRASSHOPPER (CANADA)",
+      "price": 7.0,
+      "description": "Wheat ale, fruity and bready notes.",
+      "category": "DRINK",
+      "simplified_description": "Wheat ale, fruity and bready notes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HEINEKEN (HOLLAND)",
+      "price": 7.0,
+      "description": "Lager with bold bitterness of hops,",
+      "category": "DRINK",
+      "simplified_description": "Lager with bold bitterness of hops,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NON-ALCOHOLIC BEER",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RIESLING",
+      "price": 8.0,
+      "description": "This Late Harvest seri sweet Germanwine has apple, peach, and floral notes. Pairs perfectly with bold flavours ofIndian food and desserts.",
+      "category": "DRINK",
+      "simplified_description": "This Late Harvest seri sweet Germanwine has apple, peach, and floral notes. Pair",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PINOT GRIGIO",
+      "price": 8.0,
+      "description": "PINOT GRIGIO",
+      "category": "DRINK",
+      "simplified_description": "PINOT GRIGIO",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAUVIGNON BLANC",
+      "price": 8.0,
+      "description": "Crisp, elegant, and refreshing. Zesty and aromatic with lots of lively fruitcharacters. A concentration of tropicaland gooseberry flavours with anabundant bouquet.CHARDONNAY $8.00 $30.00Deep oak flavour with a velvety mouthfeel. Subtle notes of lemon, melon, grass, and vanilla.",
+      "category": "DRINK",
+      "simplified_description": "Crisp, elegant, and refreshing. Zesty and aromatic with lots of lively fruitchar",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHARDONNAY",
+      "price": 8.0,
+      "description": "Deep oak flavour with a velvety mouth feel. Subtle notes of lemon ,melon, grass and vanilla.",
+      "category": "DRINK",
+      "simplified_description": "Deep oak flavour with a velvety mouth feel. Subtle notes of lemon ,melon, grass ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PINOT NOIR",
+      "price": 9.0,
+      "description": "Light bodied, smooth wine, has notes of berries, cherry and sweet spices,",
+      "category": "DRINK",
+      "simplified_description": "Light bodied, smooth wine, has notes of berries, cherry and sweet spices,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CABERNET SAUVIGNON",
+      "price": 8.0,
+      "description": "Balanced, dark cherry flavour with toasty oak and fine tannin.",
+      "category": "DRINK",
+      "simplified_description": "Balanced, dark cherry flavour with toasty oak and fine tannin.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GLENFIDDICH",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JACK DANIEL’S",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JAMESON",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACARDI ORIGINAL RUM",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAPTAIN MORGAN SPICED RUM",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOMBAY SAPPHIRE",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ABSOLUT",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MANGO LASSI",
+      "price": 5.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SWEET LASSI / SALT LASSI / ROSE LASSI",
+      "price": 5.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROSE MILK",
+      "price": 3.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOUTH INDIAN BUTTER MILK",
+      "price": 3.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "INDIAN POP - THUMBS UP, FANTA, LIMCA",
+      "price": 2.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COKE, DIET COKE, SPRITE, GINGER ALE, LEMONADE, ICE TEA",
+      "price": 2.75,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "APPLE/ORANGE/CRANBERRY JUICE",
+      "price": 2.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOTTLED WATER",
+      "price": 2.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASALA CHAI TEA",
+      "price": 3.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEA - BLACK/MINT/GREEN",
+      "price": 3.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FILTER COFFEE",
+      "price": 3.95,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHILLICHICKEN DRY/GRAVY",
+      "price": 16.95,
+      "description": "Deep fried chicken strips tossed with fragrant peppers, onions, ginger.",
+      "category": "FOOD",
+      "simplified_description": "Deep fried chicken strips tossed with fragrant peppers, onions, ginger.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHILL IFISH DRY/GRAVY",
+      "price": 16.95,
+      "description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style.",
+      "category": "FOOD",
+      "simplified_description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN MANCHURIAN",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHILLI PANEER DRY/GRAVY",
+      "price": 15.95,
+      "description": "Deep fried Indian cottage cheese tossed with onions & peppers in Indo-Chinese style.",
+      "category": "FOOD",
+      "simplified_description": "Deep fried Indian cottage cheese tossed with onions & peppers in Indo-Chinese st",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAULIFLOWER MANCHURIAN DRY/GRAVY",
+      "price": 15.95,
+      "description": "Deep fried cauliflower florets tossed in Indo-Chinese style.",
+      "category": "FOOD",
+      "simplified_description": "Deep fried cauliflower florets tossed in Indo-Chinese style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEG BALL MANCHURIAN DRY/GRAVY",
+      "price": 15.95,
+      "description": "Fried mixed veggie balls in a spicy, sweet and tangy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fried mixed veggie balls in a spicy, sweet and tangy sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EGG / CHICKEN",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE",
+      "price": 12.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EGG",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN",
+      "price": 14.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PLAIN UTHAPPAM",
+      "price": 12.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION UTHAPPAM",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PODI GHEE UTHAPPAM",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASALA UTHAPPAM",
+      "price": 13.95,
+      "description": "Topped with cilantro, tomato, onion, curryleaves and spices.",
+      "category": "FOOD",
+      "simplified_description": "Topped with cilantro, tomato, onion, curryleaves and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MB SPECIAL UTHAPPAM",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add 1 vada and 1 idly",
+      "price": 4.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add extra sambar",
+      "price": 2.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add cheese",
+      "price": 2.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GULAB JAMUN (3 PCS)",
+      "price": 4.95,
+      "description": "Deep fried dumpling of milk solids soakedin sugar syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Deep fried dumpling of milk solids soakedin sugar syrup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GULAB JAMUN WITH ICE CREAM",
+      "price": 5.95,
+      "description": "Deep fried dumpling of milk solids served withice cream.",
+      "category": "DESSERT",
+      "simplified_description": "Deep fried dumpling of milk solids served withice cream.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MANGO SAFFRON RASMALAI",
+      "price": 5.95,
+      "description": "Soft cottage cheese dumplings, poached insaffron flavoured milk syrup. Topped withmango puree, saffron and pistachio.",
+      "category": "DESSERT",
+      "simplified_description": "Soft cottage cheese dumplings, poached insaffron flavoured milk syrup. Topped wi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ICE-CREAM VANILLA",
+      "price": 4.95,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KULFI-FALOODA",
+      "price": 7.95,
+      "description": "Traditional Indian ice-cream served withvermicelli cooked in milk, nuts and flavours.",
+      "category": "DESSERT",
+      "simplified_description": "Traditional Indian ice-cream served withvermicelli cooked in milk, nuts and flav",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DAL PRADHAMAN",
+      "price": 6.95,
+      "description": "Yellow lentil cooked in coconut milkmixed with brown sugar and cardamom",
+      "category": "DESSERT",
+      "simplified_description": "Yellow lentil cooked in coconut milkmixed with brown sugar and cardamom",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAFFRON RICE PUDDING GF",
+      "price": 5.95,
+      "description": "Short grain rice cooked in milk, flavouredwith saffron and cardamom.",
+      "category": "DESSERT",
+      "simplified_description": "Short grain rice cooked in milk, flavouredwith saffron and cardamom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KULFI MANGO GF",
+      "price": 5.95,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

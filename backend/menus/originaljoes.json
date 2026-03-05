@@ -1,0 +1,412 @@
+{
+  "restaurant": "originaljoes",
+  "parsed_at": "2026-02-06T03:35:50.967341",
+  "item_count": 45,
+  "items": [
+    {
+      "name": "CRANBERRY",
+      "price": null,
+      "description": "cuervo especial silver, triple sec, cranberry coulis, egg whites, simple syrup, lime juice, rosemary. 1.5oz | 3oz",
+      "category": "DRINK",
+      "simplified_description": "cuervo especial silver, triple sec, cranberry coulis, egg whites, simple syrup, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC",
+      "price": null,
+      "description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge.  traditional lime, raspberry or strawberry. 1.5oz | 3oz",
+      "category": "DRINK",
+      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge.  traditional l",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FROZEN",
+      "price": null,
+      "description": "cuervo especial silver, triple sec, fresh lime juice, simple syrup.  traditional lime, raspberry, strawberry, peach, watermelon or blue raspberry. 1.5oz | 3oz",
+      "category": "DRINK",
+      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, simple syrup.  traditional",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WATERMELON",
+      "price": null,
+      "description": "cuervo especial silver, triple sec, watermelon purée, fresh lime juice, mint, cajun-tajin rim. 1.5oz | 3oz",
+      "category": "DRINK",
+      "simplified_description": "cuervo especial silver, triple sec, watermelon purée, fresh lime juice, mint, ca",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEXICAN BULLDOG",
+      "price": null,
+      "description": "cuervo especial silver, triple sec, coronita, fresh lime juice, simple syrup.  traditional lime, raspberry, strawberry, peach or watermelon. 1.5oz + 207ml",
+      "category": "DRINK",
+      "simplified_description": "cuervo especial silver, triple sec, coronita, fresh lime juice, simple syrup.  t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tacos",
+      "price": null,
+      "description": "beer battered haddock, tangy coleslaw, tomato, green onion, chipotle aioli, cilantro. served w/ fries",
+      "category": "FOOD",
+      "simplified_description": "beer battered haddock, tangy coleslaw, tomato, green onion, chipotle aioli, cila",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": null,
+      "description": "330ml",
+      "category": "DRINK",
+      "simplified_description": "330ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona Draught",
+      "price": null,
+      "description": "50cl",
+      "category": "DRINK",
+      "simplified_description": "50cl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Whiskey",
+      "price": 8.0,
+      "description": "2oz",
+      "category": "DRINK",
+      "simplified_description": "2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Fashioned",
+      "price": null,
+      "description": "lot 40, simple syrup, bitters, orange peel, cocktail cherry. 2oz",
+      "category": "DRINK",
+      "simplified_description": "lot 40, simple syrup, bitters, orange peel, cocktail cherry. 2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": null,
+      "description": "whiskey bbq, honey garlic, teriyaki, sweet chili, caribbean jerk, hot, salt & pepper, ghost pepper, salt & vinegar, dill pickle, cajun, greek, nashville hot, shanghai, hot parmesan, truffle parmesan, garlic parmesan. 1lb.",
+      "category": "FOOD",
+      "simplified_description": "whiskey bbq, honey garlic, teriyaki, sweet chili, caribbean jerk, hot, salt & pe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OJ's Draught Tanks",
+      "price": 8.0,
+      "description": "blonde lager, red ale. 22oz",
+      "category": "DRINK",
+      "simplified_description": "blonde lager, red ale. 22oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Joe's Dry Ribs",
+      "price": 10.0,
+      "description": "garlic sesame marinated pork ends, garlic butter, coarse black pepper.",
+      "category": "FOOD",
+      "simplified_description": "garlic sesame marinated pork ends, garlic butter, coarse black pepper.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine by the Glass",
+      "price": null,
+      "description": "5oz | 8oz",
+      "category": "DRINK",
+      "simplified_description": "5oz | 8oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wine by the Bottle",
+      "price": null,
+      "description": "1/2 PRICE",
+      "category": "DRINK",
+      "simplified_description": "1/2 PRICE",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stella",
+      "price": null,
+      "description": "european lager. 40cl",
+      "category": "DRINK",
+      "simplified_description": "european lager. 40cl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tito's Mule",
+      "price": null,
+      "description": "classic or passion fruit w/ tito’s vodka, ginger, soda, lime. 2oz",
+      "category": "DRINK",
+      "simplified_description": "classic or passion fruit w/ tito’s vodka, ginger, soda, lime. 2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": null,
+      "description": "north atlantic haddock, tartar sauce, gravy or dill dip. 2 piece.",
+      "category": "FOOD",
+      "simplified_description": "north atlantic haddock, tartar sauce, gravy or dill dip. 2 piece.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OJ's Draught",
+      "price": null,
+      "description": "blonde lager, red ale. 18oz",
+      "category": "DRINK",
+      "simplified_description": "blonde lager, red ale. 18oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Absolut Vodka",
+      "price": 9.0,
+      "description": "2oz. add slush $1",
+      "category": "DRINK",
+      "simplified_description": "2oz. add slush $1",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Sangria",
+      "price": null,
+      "description": "white wine w/ malibu, amaretto, triple sec, pineapple juice. 1.5oz + 3oz",
+      "category": "DRINK",
+      "simplified_description": "white wine w/ malibu, amaretto, triple sec, pineapple juice. 1.5oz + 3oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rosé Sangria",
+      "price": null,
+      "description": "rosé w/ vodka, aperol, pink grapefruit, sprite. 1.5oz + 3oz",
+      "category": "DRINK",
+      "simplified_description": "rosé w/ vodka, aperol, pink grapefruit, sprite. 1.5oz + 3oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bud Light Tanks",
+      "price": null,
+      "description": "light lager. 22oz",
+      "category": "DRINK",
+      "simplified_description": "light lager. 22oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Wine",
+      "price": null,
+      "description": "red & white. 5oz | 8oz",
+      "category": "DRINK",
+      "simplified_description": "red & white. 5oz | 8oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OJ's Draught",
+      "price": null,
+      "description": "blonde lager, red ale. 14oz",
+      "category": "DRINK",
+      "simplified_description": "blonde lager, red ale. 14oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lawn Mower Yard Lager",
+      "price": null,
+      "description": "4.3% light, crushable lager, Churchill, Saskatoon, SK. 14oz",
+      "category": "DRINK",
+      "simplified_description": "4.3% light, crushable lager, Churchill, Saskatoon, SK. 14oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Well High Balls",
+      "price": null,
+      "description": "1oz | 2oz (add slush $1)",
+      "category": "DRINK",
+      "simplified_description": "1oz | 2oz (add slush $1)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Bull",
+      "price": null,
+      "description": "null",
+      "category": "DRINK",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Margarita",
+      "price": null,
+      "description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge. traditional lime, raspberry or strawberry. 1.5oz",
+      "category": "DRINK",
+      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge. traditional li",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Patio Joe",
+      "price": null,
+      "description": "malibu rum, peach schnapps, pineapple juice & peach purée, blended. 2oz",
+      "category": "DRINK",
+      "simplified_description": "malibu rum, peach schnapps, pineapple juice & peach purée, blended. 2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Joe's Soda",
+      "price": null,
+      "description": "vodka, soda, white cranberry peach slush. 1oz | 2oz",
+      "category": "DRINK",
+      "simplified_description": "vodka, soda, white cranberry peach slush. 1oz | 2oz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Chicken Bites",
+      "price": null,
+      "description": "buttermilk marinated breast, crispy breading, nashville spices, pickles, BBQ ranch for dipping",
+      "category": "FOOD",
+      "simplified_description": "buttermilk marinated breast, crispy breading, nashville spices, pickles, BBQ ran",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mexi Fries",
+      "price": null,
+      "description": "crinkle fries, spicy beef, queso, red onion, tomato, red pepper, fresh jalapenos, green onion, sour cream",
+      "category": "FOOD",
+      "simplified_description": "crinkle fries, spicy beef, queso, red onion, tomato, red pepper, fresh jalapenos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lil' Cheeseburger & Fries",
+      "price": null,
+      "description": "american cheese, ketchup & pickle",
+      "category": "FOOD",
+      "simplified_description": "american cheese, ketchup & pickle",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chipotle Chicken Tacos",
+      "price": null,
+      "description": "chicken tossed in a smoky chipotle hot sauce, tangy slaw, tomato, green onion, chipotle aioli, cilantro",
+      "category": "FOOD",
+      "simplified_description": "chicken tossed in a smoky chipotle hot sauce, tangy slaw, tomato, green onion, c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baja Fish Tacos",
+      "price": null,
+      "description": "beer battered haddock, tangy coleslaw, tomato, green onion, chipotle aioli, cilantro",
+      "category": "FOOD",
+      "simplified_description": "beer battered haddock, tangy coleslaw, tomato, green onion, chipotle aioli, cila",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bruschetta",
+      "price": null,
+      "description": "baked mozza & parmesan garlic crostinis",
+      "category": "FOOD",
+      "simplified_description": "baked mozza & parmesan garlic crostinis",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Truffle Parm Fries",
+      "price": null,
+      "description": "fresh cut fries, truffle oil, grated parm, malt vinegar aioli",
+      "category": "FOOD",
+      "simplified_description": "fresh cut fries, truffle oil, grated parm, malt vinegar aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dynamite Shrimp (Snack Size)",
+      "price": null,
+      "description": "spicy chili aioli, unagi sauce, togarashi",
+      "category": "FOOD",
+      "simplified_description": "spicy chili aioli, unagi sauce, togarashi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mini Yorkie Trio",
+      "price": null,
+      "description": "3 mini yorkies, AAA shaved roast beef, horseradish aioli, au jus for dipping",
+      "category": "FOOD",
+      "simplified_description": "3 mini yorkies, AAA shaved roast beef, horseradish aioli, au jus for dipping",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6\" Spicy Beef Quesadilla",
+      "price": null,
+      "description": "ground beef, cheddar, mozza, red onion, red pepper, jalapeno, chipotle sauce for dipping",
+      "category": "FOOD",
+      "simplified_description": "ground beef, cheddar, mozza, red onion, red pepper, jalapeno, chipotle sauce for",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Potato Fries",
+      "price": null,
+      "description": "choice of: dill dip, chipotle or sriracha aioli",
+      "category": "FOOD",
+      "simplified_description": "choice of: dill dip, chipotle or sriracha aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": null,
+      "description": "panko crusted, dill dip",
+      "category": "FOOD",
+      "simplified_description": "panko crusted, dill dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Gyoza (4)",
+      "price": null,
+      "description": "pan-fried chicken & vegetable dumplings, sweet & spicy soy, garlic chili oil, sesame sauce, green onions",
+      "category": "FOOD",
+      "simplified_description": "pan-fried chicken & vegetable dumplings, sweet & spicy soy, garlic chili oil, se",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips & Guac",
+      "price": null,
+      "description": "nacho chips w/ fresh guacamole",
+      "category": "FOOD",
+      "simplified_description": "nacho chips w/ fresh guacamole",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

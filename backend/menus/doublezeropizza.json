@@ -1,0 +1,713 @@
+{
+  "restaurant": "doublezeropizza",
+  "parsed_at": "2026-02-06T02:06:27.026182",
+  "item_count": 58,
+  "items": [
+    {
+      "name": "SPY VALLEY",
+      "price": 14.0,
+      "description": "PINOT NOIR | MARLBOROUGH, NEW ZEALAND",
+      "category": "DRINK",
+      "simplified_description": "A Pinot Noir wine from Marlborough, New Zealand.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FEUDO MACCARI",
+      "price": 13.0,
+      "description": "NERO D'AVOLA | SICILY, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Nero d'Avola red wine from Sicily, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Giusti",
+      "price": 10.0,
+      "description": "MERLOT | VENETO, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Merlot wine from Veneto, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LA POSTA PAULUCCI",
+      "price": 12.0,
+      "description": "MALBEC | MENDOZA, ARGENTINA",
+      "category": "DRINK",
+      "simplified_description": "A Malbec wine from Mendoza, Argentina.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ELVIO COGNO",
+      "price": 75.0,
+      "description": "DOLCETTO DALBA | PIEDMONT, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Dolcetto d'Alba wine from Piedmont, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FONTANAFREDDA BAROLO",
+      "price": 80.0,
+      "description": "NEBBIOLO | PIEDMONT, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Barolo wine made from Nebbiolo grapes in Piedmont, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POWERS",
+      "price": 65.0,
+      "description": "CABERNET SAUVIGNON | COLUMBIA VALLEY, UNITED STATES",
+      "category": "DRINK",
+      "simplified_description": "A Cabernet Sauvignon wine from Columbia Valley, USA.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "POGGIO AL TESORO IL SEGGIO",
+      "price": 95.0,
+      "description": "POGGIO AL TESORO IL SEGGIO",
+      "category": "DRINK",
+      "simplified_description": "A wine named Poggio al Tesoro Il Seggio.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARIA VITTORIA",
+      "price": 11.0,
+      "description": "PINOT GRIGIO | VENETO, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Pinot Grigio white wine from Veneto, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VON WINNING WIN WIN",
+      "price": 13.0,
+      "description": "RIESLING | PFALZ, GERMANY",
+      "category": "DRINK",
+      "simplified_description": "A Riesling wine from Pfalz, Germany.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BABICH BLACK LABEL",
+      "price": 12.0,
+      "description": "SAUVIGNON BLANC | MARLBOROUGH, NEW ZEALAND",
+      "category": "DRINK",
+      "simplified_description": "A Sauvignon Blanc wine from Marlborough, New Zealand.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NOVELLUM",
+      "price": 12.0,
+      "description": "CHARDONNAY | LANGUEDOC, FRANCE",
+      "category": "DRINK",
+      "simplified_description": "A Chardonnay wine from Languedoc, France.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FONTANAVECCHIA",
+      "price": 80.0,
+      "description": "GRECO|CAMPANIA, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Greco white wine from Campania, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUCCI CLASSICO",
+      "price": 75.0,
+      "description": "VERDICCHIO | MARCHES, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Verdicchio white wine from Marches, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALTA MORRA ETNA",
+      "price": 88.0,
+      "description": "CARRICANTE | SICILY, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A Carricante white wine from Sicily, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LUNAE ETICHETTA GRIGIA",
+      "price": 70.0,
+      "description": "VERMENTINO | LIGURIA, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A white wine from Liguria, Italy made with Vermentino grapes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BORSAO ROSÉ SELECCIÓN",
+      "price": 11.0,
+      "description": "GARNACHA | CAMPO DE BORJA, SPAIN",
+      "category": "DRINK",
+      "simplified_description": "A rosé wine from Campo de Borja, Spain made with Garnacha grapes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAZZEI BELGUARDO ROSÉ",
+      "price": 60.0,
+      "description": "SANGIOVESE | TUSCANY, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A rosé wine from Tuscany, Italy made with Sangiovese grapes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VAPORETTO PROSECCO",
+      "price": 13.0,
+      "description": "GLERA | VENETO, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A sparkling Prosecco wine from Veneto, Italy made with Glera grapes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANTASTORIE LAMBRUSCO",
+      "price": 65.0,
+      "description": "SALAMINO LAMBRUSCO | EMILIA ROMAGNA, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A sparkling red Lambrusco wine from Emilia Romagna, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASSOLINO MOSCATO DASTI",
+      "price": 35.0,
+      "description": "MOSCATO | PIEDMONT, ITALY",
+      "category": "DRINK",
+      "simplified_description": "A sweet Moscato wine from Piedmont, Italy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AMERICANO",
+      "price": 15.0,
+      "description": "CAMPARI, SWEET VERMOUTH, SODA, ORANGE",
+      "category": "DRINK",
+      "simplified_description": "A cocktail with Campari, sweet vermouth, soda, and orange.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NEGRONI",
+      "price": 15.0,
+      "description": "GIN, CAMPARI, VERMOUTH",
+      "category": "DRINK",
+      "simplified_description": "A classic cocktail with gin, Campari, and vermouth.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "APEROL SPRITZ",
+      "price": 15.0,
+      "description": "APEROL, PROSECCO, SODA",
+      "category": "DRINK",
+      "simplified_description": "A refreshing cocktail with Aperol, Prosecco, and soda water.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "LIMONCELLO SPRITZ",
+      "price": 15.0,
+      "description": "LIMONCELLO, PROSECCO, SODA",
+      "category": "DRINK",
+      "simplified_description": "A citrusy cocktail with limoncello, Prosecco, and soda water.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "RED SANGRIA",
+      "price": 15.0,
+      "description": "RED WINE, BRANDY, COINTREAU, BERRIES, LEMON",
+      "category": "DRINK",
+      "simplified_description": "A fruity sangria with red wine, brandy, Cointreau, berries, and lemon.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "OLD'THYMER FASHIONED",
+      "price": 15.0,
+      "description": "OLD FORESTER BOURBON, THYME SYRUP, BITTERS",
+      "category": "DRINK",
+      "simplified_description": "A bourbon cocktail with thyme syrup and bitters.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BOOZY LEMONADE",
+      "price": 15.0,
+      "description": "VODKA, HONEY, GINGER, LEMON",
+      "category": "DRINK",
+      "simplified_description": "A vodka cocktail with honey, ginger, and lemon.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ESPRESSO MARTINI",
+      "price": 15.0,
+      "description": "VANILLA VODKA, KAHLUA, ESPRESSO, CHOCOLATE BITTERS",
+      "category": "DRINK",
+      "simplified_description": "A coffee-flavored cocktail with vanilla vodka, Kahlua, and espresso.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PARALLEL 49",
+      "price": 9.0,
+      "description": "CRAFT LAGER | VANCOUVER, BC | 5.0%",
+      "category": "DRINK",
+      "simplified_description": "A 5% alcohol craft lager beer from Vancouver, BC.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "STELLA ARTOIS",
+      "price": null,
+      "description": "PILSNER | BELGIUM | 5.0%",
+      "category": "DRINK",
+      "simplified_description": "Belgian pilsner beer with 5.0% alcohol.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "OL' BEAUTIFUL 'BRASS MONKEY'",
+      "price": null,
+      "description": "BLOOD ORANGE BLONDE ALE | CALGARY, AB | 4.0%",
+      "category": "DRINK",
+      "simplified_description": "Blood orange flavored blonde ale with 4.0% alcohol.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ANNEX ALE PROJECT 'FORWARD PROGRESS'",
+      "price": null,
+      "description": "PALE ALE | CALGARY, AB | 5.2%",
+      "category": "DRINK",
+      "simplified_description": "Pale ale beer with 5.2% alcohol.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BANDED PEAK MICROBURST",
+      "price": null,
+      "description": "HAZY IPA | VICTORIA, BC | 7.0%",
+      "category": "DRINK",
+      "simplified_description": "Hazy IPA beer with 7.0% alcohol.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRAUERI FAHR",
+      "price": null,
+      "description": "HEFEWEIZEN | TURNER VALLEY, AB | 5.3%",
+      "category": "DRINK",
+      "simplified_description": "Hefeweizen wheat beer with 5.3% alcohol.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PHILLIPS 'DINOSOUR'",
+      "price": null,
+      "description": "STONE FRUIT SOUR | VICTORIA, BC | 4.2%",
+      "category": "DRINK",
+      "simplified_description": "Stone fruit flavored sour beer with 4.2% alcohol.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAN PELLEGRINO ITALIAN SODA",
+      "price": 3.75,
+      "description": "ROTATING FLAVOURS",
+      "category": "DRINK",
+      "simplified_description": "Italian soda with rotating flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRIZZLY BREWING CRAFT SODA",
+      "price": 4.75,
+      "description": "ROTATING FLAVOURS",
+      "category": "DRINK",
+      "simplified_description": "Craft soda with rotating flavors.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ITALIAN CREAM SODA",
+      "price": 3.75,
+      "description": "RASPBERRY, PEACH, OR HONEY-GINGER",
+      "category": "DRINK",
+      "simplified_description": "Cream soda available in raspberry, peach, or honey-ginger flavors.",
+      "dietary_info": [
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DZ LEMONADE",
+      "price": 3.75,
+      "description": "LEMON, HONEY-GINGER SYRUP, SODA",
+      "category": "DRINK",
+      "simplified_description": "Lemonade with honey-ginger syrup and soda water.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TIRAMISU",
+      "price": 12.0,
+      "description": "COCOA LADYFINGER, MASCARPONE CREAM",
+      "category": "DESSERT",
+      "simplified_description": "Classic tiramisu with cocoa, ladyfingers, and mascarpone cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "OLD-FASHIONED DONUTS",
+      "price": 9.0,
+      "description": "RICOTTA, STRACCIATELLA GELATO",
+      "category": "DESSERT",
+      "simplified_description": "Donuts served with ricotta and stracciatella gelato.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SALT CARAMEL PUDDING",
+      "price": 10.0,
+      "description": "ROASTED HAZELNUT, WHIPPED CREAM",
+      "category": "DESSERT",
+      "simplified_description": "Salt caramel pudding topped with roasted hazelnuts and whipped cream.",
+      "dietary_info": [
+        "vegetarian",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GELATO & SORBETTO",
+      "price": null,
+      "description": "ONE SCOOP 4 | TWO SCOOPS 7 | THREE SCOOPS 9",
+      "category": "DESSERT",
+      "simplified_description": "Choice of gelato or sorbetto in one to three scoops.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "AVERNA AMARO",
+      "price": 7.5,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "Italian herbal liqueur.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "NONINO AMARO",
+      "price": 7.5,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VARNELLI ANICE SECCO",
+      "price": 6.5,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PROFUMI DELLA COSTIERA LIMONCELLO",
+      "price": 6.5,
+      "description": "null",
+      "category": "OTHER",
+      "simplified_description": "No description available.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEA",
+      "price": 3.0,
+      "description": "-",
+      "category": "OTHER",
+      "simplified_description": "A hot cup of tea.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DRIP COFFEE",
+      "price": 3.25,
+      "description": "REGULAR OR DECAF",
+      "category": "OTHER",
+      "simplified_description": "Regular or decaf brewed drip coffee.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ESPRESSO",
+      "price": 3.75,
+      "description": "REGULAR",
+      "category": "OTHER",
+      "simplified_description": "A shot of regular espresso coffee.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAPPUCINO",
+      "price": 5.0,
+      "description": "-",
+      "category": "OTHER",
+      "simplified_description": "Espresso with steamed milk and foam.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAFFÉ LATTE",
+      "price": 5.5,
+      "description": "ADD 1 oz KAHLUA, FRANGELICO, AMARETTO, BAILEYS, OR GRAND MARNIER | 8",
+      "category": "OTHER",
+      "simplified_description": "Espresso with steamed milk, optional liqueur add-ons.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": "Optional alcohol add-ons"
+    },
+    {
+      "name": "MARGHERITA",
+      "price": 12.0,
+      "description": "TOMATO SAUCE, FIOR DI LATTE, BASIL",
+      "category": "FOOD",
+      "simplified_description": "Classic pizza with tomato sauce, mozzarella, and basil.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PANCETTA & PINEAPPLE",
+      "price": 12.0,
+      "description": "TOMATO SAUCE, PANCETTA, SEARED PINEAPPLE, SERRANO, GOUDA",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, pancetta, pineapple, serrano, and gouda cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PEPPERONI",
+      "price": 12.0,
+      "description": "TOMATO SAUCE, PEPPERONI, FIOR DI LATTE, MOZZARELLA",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with tomato sauce, pepperoni, and mozzarella cheese.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "KALE",
+      "price": 12.0,
+      "description": "GARLIC CREAM, KALE, DRIED TOMATO, CHILI, ROASTED GARLIC, PROVOLONE, MOZZARELLA, ASIAGO",
+      "category": "FOOD",
+      "simplified_description": "Pizza with garlic cream, kale, dried tomato, chili, and mixed cheeses.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "MORTADELLA",
+      "price": 12.0,
+      "description": "TOMATO SAUCE, MORTADELLA, STRACCIATELLA, PISTACHIO PESTO",
+      "category": "FOOD",
+      "simplified_description": "Pizza with tomato sauce, mortadella, creamy cheese, and pistachio pesto.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    }
+  ]
+}

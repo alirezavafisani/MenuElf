@@ -1,0 +1,898 @@
+{
+  "restaurant": "phillistines",
+  "parsed_at": "2026-02-06T03:42:09.699723",
+  "item_count": 99,
+  "items": [
+    {
+      "name": "Kunafa - Soft",
+      "price": 9.95,
+      "description": "Kunafa - Soft  $9.95 | $34.50 | $69.00",
+      "category": "DESSERT",
+      "simplified_description": "Kunafa - Soft  $9.95 | $34.50 | $69.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kunafa - Rough",
+      "price": 9.95,
+      "description": "Kunafa - Rough  $9.95 | $34.50 | $69.00",
+      "category": "DESSERT",
+      "simplified_description": "Kunafa - Rough  $9.95 | $34.50 | $69.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kunafa - Kishta/Rough",
+      "price": 8.95,
+      "description": "Kunafa - Kishta/Rough  $8.95 | $29.50 | $59.00",
+      "category": "DESSERT",
+      "simplified_description": "Kunafa - Kishta/Rough  $8.95 | $29.50 | $59.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beiruti Kunafa",
+      "price": 6.99,
+      "description": "Beiruti Kunafa  $6.99 | $24.50 | $49.00",
+      "category": "DESSERT",
+      "simplified_description": "Beiruti Kunafa  $6.99 | $24.50 | $49.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Osmalia With Kishta (Double Face Kunafa)",
+      "price": 8.95,
+      "description": "Osmalia With Kishta (Double Face Kunafa)  $8.95 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Osmalia With Kishta (Double Face Kunafa)  $8.95 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kunafa Roll",
+      "price": 8.95,
+      "description": "Kunafa Roll  $8.95 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Kunafa Roll  $8.95 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kunafa With Nutella",
+      "price": 8.95,
+      "description": "Kunafa With Nutella  $8.95 | $15.99",
+      "category": "DESSERT",
+      "simplified_description": "Kunafa With Nutella  $8.95 | $15.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Sweet Roll (Halawa Cheese)",
+      "price": 15.99,
+      "description": "Cheese Sweet Roll (Halawa Cheese)  $15.99  ",
+      "category": "DESSERT",
+      "simplified_description": "Cheese Sweet Roll (Halawa Cheese)  $15.99  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clamp Sweet (Mushabak)",
+      "price": 11.99,
+      "description": "Clamp Sweet (Mushabak)  $11.99",
+      "category": "DESSERT",
+      "simplified_description": "Clamp Sweet (Mushabak)  $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Harissa With Kishta",
+      "price": 12.99,
+      "description": "Harissa With Kishta  $12.99",
+      "category": "DESSERT",
+      "simplified_description": "Harissa With Kishta  $12.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Harissa With Pistachio",
+      "price": 15.99,
+      "description": "Harissa With Pistachio  $15.99  ",
+      "category": "DESSERT",
+      "simplified_description": "Harissa With Pistachio  $15.99  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Macroon (Asabeh Zainab)",
+      "price": 11.99,
+      "description": "Macroon (Asabeh Zainab)  $11.99  ",
+      "category": "DESSERT",
+      "simplified_description": "Macroon (Asabeh Zainab)  $11.99  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Aawami",
+      "price": 11.99,
+      "description": "Aawami  $11.99",
+      "category": "DESSERT",
+      "simplified_description": "Aawami  $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Warbat With Kishta",
+      "price": 14.99,
+      "description": "Warbat With Kishta  $14.99  ",
+      "category": "DESSERT",
+      "simplified_description": "Warbat With Kishta  $14.99  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Zalabia",
+      "price": 11.99,
+      "description": "Zalabia  $11.99",
+      "category": "DESSERT",
+      "simplified_description": "Zalabia  $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mabroom With Cream",
+      "price": 14.99,
+      "description": "Mabroom With Cream  $14.99",
+      "category": "DESSERT",
+      "simplified_description": "Mabroom With Cream  $14.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ma’amool Mad With Kishta",
+      "price": 3.0,
+      "description": "Ma’amool Mad With Kishta  $3.00 | $12.99",
+      "category": "DESSERT",
+      "simplified_description": "Ma’amool Mad With Kishta  $3.00 | $12.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ma’amool Mad With Dates",
+      "price": 3.0,
+      "description": "Ma’amool Mad With Dates  $3.00 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Ma’amool Mad With Dates  $3.00 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ma’amool Mad With Walnut",
+      "price": 3.0,
+      "description": "Ma’amool Mad With Walnut  $3.00 | $14.99",
+      "category": "DESSERT",
+      "simplified_description": "Ma’amool Mad With Walnut  $3.00 | $14.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ma’amool Mad With Pistachio",
+      "price": 3.0,
+      "description": "Ma’amool Mad With Pistachio  $3.00 | $17.99",
+      "category": "DESSERT",
+      "simplified_description": "Ma’amool Mad With Pistachio  $3.00 | $17.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Ma’amool - Dates",
+      "price": 3.0,
+      "description": "Small Ma’amool - Dates  $3.00 | $12.99",
+      "category": "DESSERT",
+      "simplified_description": "Small Ma’amool - Dates  $3.00 | $12.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Ma’amool - Walnut",
+      "price": 3.0,
+      "description": "Small Ma’amool - Walnut  $3.00 | $15.99",
+      "category": "DESSERT",
+      "simplified_description": "Small Ma’amool - Walnut  $3.00 | $15.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Small Ma’amool - Pistachio",
+      "price": 3.0,
+      "description": "Small Ma’amool - Pistachio  $3.00 | $17.99",
+      "category": "DESSERT",
+      "simplified_description": "Small Ma’amool - Pistachio  $3.00 | $17.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Ma’amool Piece - Dates",
+      "price": 2.0,
+      "description": "Large Ma’amool Piece - Dates  $2.00 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Large Ma’amool Piece - Dates  $2.00 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Ma’amool Piece – Walnut",
+      "price": 2.5,
+      "description": "Large Ma’amool Piece – Walnut  $2.50 | $15.99",
+      "category": "DESSERT",
+      "simplified_description": "Large Ma’amool Piece – Walnut  $2.50 | $15.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Large Ma’amool Piece – Pistachio",
+      "price": 3.0,
+      "description": "Large Ma’amool Piece – Pistachio  $3.00 | $18.99",
+      "category": "DESSERT",
+      "simplified_description": "Large Ma’amool Piece – Pistachio  $3.00 | $18.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ghraibeh – (Butter Cookies)",
+      "price": 3.0,
+      "description": "Ghraibeh – (Butter Cookies)  $3.00 | $11.99",
+      "category": "DESSERT",
+      "simplified_description": "Ghraibeh – (Butter Cookies)  $3.00 | $11.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ghraibeh – (Butter Cookies) - Pistachio",
+      "price": 3.0,
+      "description": "Ghraibeh – (Butter Cookies) - Pistachio  $3.00 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Ghraibeh – (Butter Cookies) - Pistachio  $3.00 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Petit Four – Mixed",
+      "price": 3.0,
+      "description": "Petit Four – Mixed  $3.00 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Petit Four – Mixed  $3.00 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sable Cookies",
+      "price": 3.0,
+      "description": "Sable Cookies  $3.00 | $13.99",
+      "category": "DESSERT",
+      "simplified_description": "Sable Cookies  $3.00 | $13.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croissant Plain",
+      "price": 4.95,
+      "description": "Croissant Plain  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Croissant Plain  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croissant Zaatar",
+      "price": 5.49,
+      "description": "Croissant Zaatar  $5.49",
+      "category": "DESSERT",
+      "simplified_description": "Croissant Zaatar  $5.49",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croissant Cheese",
+      "price": 5.95,
+      "description": "Croissant Cheese  $5.95",
+      "category": "DESSERT",
+      "simplified_description": "Croissant Cheese  $5.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Chocolate",
+      "price": 5.95,
+      "description": "Pan Chocolate  $5.95",
+      "category": "DESSERT",
+      "simplified_description": "Pan Chocolate  $5.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baguette",
+      "price": 4.95,
+      "description": "Baguette  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Baguette  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donut",
+      "price": 2.99,
+      "description": "Donut  $2.99",
+      "category": "DESSERT",
+      "simplified_description": "Donut  $2.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salami Sandwich",
+      "price": 5.99,
+      "description": "Salami Sandwich  $5.99",
+      "category": "DESSERT",
+      "simplified_description": "Salami Sandwich  $5.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Eclaire",
+      "price": 4.95,
+      "description": "Eclaire  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Eclaire  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mille Feuille",
+      "price": 6.5,
+      "description": "Mille Feuille  $6.50",
+      "category": "DESSERT",
+      "simplified_description": "Mille Feuille  $6.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jerusalem Chocolate Bar",
+      "price": 29.95,
+      "description": "Jerusalem Chocolate Bar  $29.95",
+      "category": "DESSERT",
+      "simplified_description": "Jerusalem Chocolate Bar  $29.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Velvet Cake",
+      "price": 4.95,
+      "description": "Red Velvet Cake  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Red Velvet Cake  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pistachio Cake",
+      "price": 4.95,
+      "description": "Pistachio Cake  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Pistachio Cake  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cake Bar",
+      "price": 3.95,
+      "description": "Cake Bar  $3.95",
+      "category": "DESSERT",
+      "simplified_description": "Cake Bar  $3.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caramel Chocolate Cake",
+      "price": 4.95,
+      "description": "Caramel Chocolate Cake  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Caramel Chocolate Cake  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Cake",
+      "price": 4.95,
+      "description": "Strawberry Cake  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Strawberry Cake  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Cake",
+      "price": 4.95,
+      "description": "Chocolate Cake  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Chocolate Cake  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Fruit Tarte",
+      "price": 4.95,
+      "description": "Vanilla Fruit Tarte  $4.95",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla Fruit Tarte  $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dubai Chocolate Cake",
+      "price": 7.99,
+      "description": "Dubai Chocolate Cake  $7.99",
+      "category": "DESSERT",
+      "simplified_description": "Dubai Chocolate Cake  $7.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kunafa Cheese Cake",
+      "price": 8.99,
+      "description": "Kunafa Cheese Cake  $8.99",
+      "category": "DESSERT",
+      "simplified_description": "Kunafa Cheese Cake  $8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cherry Cheese Cake",
+      "price": 8.99,
+      "description": "Cherry Cheese Cake  $8.99",
+      "category": "DESSERT",
+      "simplified_description": "Cherry Cheese Cake  $8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "San Sebastian Cheese Cake",
+      "price": 6.99,
+      "description": "San Sebastian Cheese Cake  $6.99",
+      "category": "DESSERT",
+      "simplified_description": "San Sebastian Cheese Cake  $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trilece Cake",
+      "price": 8.99,
+      "description": "Trilece Cake  $8.99",
+      "category": "DESSERT",
+      "simplified_description": "Trilece Cake  $8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lazie Cake",
+      "price": 9.99,
+      "description": "Lazie Cake  $9.99",
+      "category": "DESSERT",
+      "simplified_description": "Lazie Cake  $9.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Pistachio Kunafa Cup",
+      "price": 12.99,
+      "description": "Strawberry Pistachio Kunafa Cup  $12.99",
+      "category": "DESSERT",
+      "simplified_description": "Strawberry Pistachio Kunafa Cup  $12.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Pistachio Milk",
+      "price": 10.99,
+      "description": "Strawberry Pistachio Milk  $10.99",
+      "category": "DRINK",
+      "simplified_description": "Strawberry Pistachio Milk  $10.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Espresso",
+      "price": 4.0,
+      "description": "Espresso  $4.00  ",
+      "category": "DRINK",
+      "simplified_description": "Espresso  $4.00  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Macchiato",
+      "price": 4.75,
+      "description": "Macchiato  $4.75",
+      "category": "DRINK",
+      "simplified_description": "Macchiato  $4.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cappuccino",
+      "price": 5.0,
+      "description": "Cappuccino  $5.00",
+      "category": "DRINK",
+      "simplified_description": "Cappuccino  $5.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Flat White",
+      "price": 5.0,
+      "description": "Flat White  $5.00",
+      "category": "DRINK",
+      "simplified_description": "Flat White  $5.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Biscoff Iced Coffee",
+      "price": 6.99,
+      "description": "Biscoff Iced Coffee  $6.99",
+      "category": "DRINK",
+      "simplified_description": "Biscoff Iced Coffee  $6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Latte",
+      "price": 5.5,
+      "description": "Latte  $5.50 | $6.00  ",
+      "category": "DRINK",
+      "simplified_description": "Latte  $5.50 | $6.00  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mocha",
+      "price": 5.75,
+      "description": "Mocha  $5.75 | $6.25",
+      "category": "DRINK",
+      "simplified_description": "Mocha  $5.75 | $6.25",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Americano",
+      "price": 4.25,
+      "description": "Americano  $4.25 | $4.95",
+      "category": "DRINK",
+      "simplified_description": "Americano  $4.25 | $4.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Turkish Coffee",
+      "price": 5.0,
+      "description": "Turkish Coffee  $5.00 | $6.00",
+      "category": "DRINK",
+      "simplified_description": "Turkish Coffee  $5.00 | $6.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chocolate",
+      "price": 5.5,
+      "description": "Hot Chocolate  $5.50 | $6.00  ",
+      "category": "DRINK",
+      "simplified_description": "Hot Chocolate  $5.50 | $6.00  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Drip Coffee",
+      "price": 3.0,
+      "description": "Drip Coffee  $3.00 | $3.50  ",
+      "category": "DRINK",
+      "simplified_description": "Drip Coffee  $3.00 | $3.50  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loose Leaf Tea",
+      "price": 3.75,
+      "description": "Loose Leaf Tea  $3.75",
+      "category": "DRINK",
+      "simplified_description": "Loose Leaf Tea  $3.75",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai Latte",
+      "price": 5.5,
+      "description": "Chai Latte  $5.50 | $6.00",
+      "category": "DRINK",
+      "simplified_description": "Chai Latte  $5.50 | $6.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "London Fog",
+      "price": 5.5,
+      "description": "London Fog  $5.50 | $6.00",
+      "category": "DRINK",
+      "simplified_description": "London Fog  $5.50 | $6.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Matcha Latte",
+      "price": 5.5,
+      "description": "Matcha Latte  $5.50 | $6.00",
+      "category": "DRINK",
+      "simplified_description": "Matcha Latte  $5.50 | $6.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Berry Jenin",
+      "price": null,
+      "description": "Berry Jenin  Blackberry, Lemon, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Berry Jenin  Blackberry, Lemon, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gazabreeze",
+      "price": null,
+      "description": "Gazabreeze  Watermelon, Lemon, Mint, Basil, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Gazabreeze  Watermelon, Lemon, Mint, Basil, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jerusalem Rock",
+      "price": null,
+      "description": "Jerusalem Rock  Pomegranate, Lemon, Mint, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Jerusalem Rock  Pomegranate, Lemon, Mint, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tulkeram Rouge",
+      "price": null,
+      "description": "Tulkeram Rouge  Strawberry, Lemon, Mint, Basil, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Tulkeram Rouge  Strawberry, Lemon, Mint, Basil, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Habibi Berry",
+      "price": null,
+      "description": "Habibi Berry  Mixed Berries, Citrus  ",
+      "category": "DRINK",
+      "simplified_description": "Habibi Berry  Mixed Berries, Citrus  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Sky YYC",
+      "price": null,
+      "description": "Blue Sky YYC  Blue Curacao, Lemon, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Blue Sky YYC  Blue Curacao, Lemon, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Zing",
+      "price": null,
+      "description": "Pineapple Zing  Pineapple, Citrus, Mint, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Pineapple Zing  Pineapple, Citrus, Mint, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pina Colado Fizz",
+      "price": null,
+      "description": "Pina Colado Fizz  Pina colado, Lemon, Soda  ",
+      "category": "DRINK",
+      "simplified_description": "Pina Colado Fizz  Pina colado, Lemon, Soda  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Irish Cloud",
+      "price": null,
+      "description": "Irish Cloud  Irish Cream, Milk, Cream  ",
+      "category": "DRINK",
+      "simplified_description": "Irish Cloud  Irish Cream, Milk, Cream  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baklava Trio Shake",
+      "price": null,
+      "description": "Baklava Trio Shake  ",
+      "category": "DRINK",
+      "simplified_description": "Baklava Trio Shake  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": null,
+      "description": "Mango  ",
+      "category": "DRINK",
+      "simplified_description": "Mango  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry",
+      "price": null,
+      "description": "Strawberry  ",
+      "category": "DRINK",
+      "simplified_description": "Strawberry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate",
+      "price": null,
+      "description": "Chocolate  ",
+      "category": "DRINK",
+      "simplified_description": "Chocolate  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla",
+      "price": null,
+      "description": "Vanilla  ",
+      "category": "DRINK",
+      "simplified_description": "Vanilla  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry",
+      "price": null,
+      "description": "Strawberry  ",
+      "category": "DRINK",
+      "simplified_description": "Strawberry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": null,
+      "description": "Mango  ",
+      "category": "DRINK",
+      "simplified_description": "Mango  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blackberry",
+      "price": null,
+      "description": "Blackberry  ",
+      "category": "DRINK",
+      "simplified_description": "Blackberry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blueberry",
+      "price": null,
+      "description": "Blueberry  ",
+      "category": "DRINK",
+      "simplified_description": "Blueberry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Watermelon",
+      "price": null,
+      "description": "Watermelon  ",
+      "category": "DRINK",
+      "simplified_description": "Watermelon  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry",
+      "price": null,
+      "description": "Strawberry  ",
+      "category": "DRINK",
+      "simplified_description": "Strawberry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": null,
+      "description": "Mango  ",
+      "category": "DRINK",
+      "simplified_description": "Mango  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Berry",
+      "price": null,
+      "description": "Black Berry  ",
+      "category": "DRINK",
+      "simplified_description": "Black Berry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Watermelon",
+      "price": null,
+      "description": "Watermelon  ",
+      "category": "DRINK",
+      "simplified_description": "Watermelon  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Berry",
+      "price": null,
+      "description": "Blue Berry  ",
+      "category": "DRINK",
+      "simplified_description": "Blue Berry  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pomegranate",
+      "price": null,
+      "description": "Pomegranate  ",
+      "category": "DRINK",
+      "simplified_description": "Pomegranate  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Coffee Classic",
+      "price": null,
+      "description": "Iced Coffee  Classic  ",
+      "category": "DRINK",
+      "simplified_description": "Iced Coffee  Classic  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Chai Latte",
+      "price": null,
+      "description": "Iced Chai Latte  Spiced Tea Blend Over Ice  ",
+      "category": "DRINK",
+      "simplified_description": "Iced Chai Latte  Spiced Tea Blend Over Ice  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iced Matcha Latte",
+      "price": null,
+      "description": "Iced Matcha Latte  Premium Matcha, Milk  ",
+      "category": "DRINK",
+      "simplified_description": "Iced Matcha Latte  Premium Matcha, Milk  ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Biscoff Iced Latte",
+      "price": null,
+      "description": "Biscoff Iced Latte  Biscoff, Milk, Expresso, Vanilla Syrup  ",
+      "category": "DRINK",
+      "simplified_description": "Biscoff Iced Latte  Biscoff, Milk, Expresso, Vanilla Syrup  ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

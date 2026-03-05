@@ -1,0 +1,88 @@
+{
+  "restaurant": "burwooddistillery",
+  "parsed_at": "2026-02-06T01:17:56.393236",
+  "item_count": 9,
+  "items": [
+    {
+      "name": "Limited Edition - The G.O.A.T II Cask Strength Single Malt",
+      "price": 129.99,
+      "description": "Limited Edition - The G.O.A.T II Cask Strength Single Malt",
+      "category": "DRINK",
+      "simplified_description": "Limited edition cask strength single malt whisky.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Patrician - for Princess Patricia's Canadian Light Infantry | 750 mL | Burwood Distillery",
+      "price": 65.0,
+      "description": "\"The Patrician\" - for Princess Patricia's Canadian Light Infantry | 750 mL | Burwood Distillery",
+      "category": "DRINK",
+      "simplified_description": "750ml bottle of The Patrician whisky by Burwood Distillery.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Smooth Talker - Bur-bon Style Whiskey I 750ml | Burwood Distillery",
+      "price": 47.49,
+      "description": "The Smooth Talker - Bur-bon Style Whiskey I 750ml | Burwood Distillery",
+      "category": "DRINK",
+      "simplified_description": "750ml bourbon style whiskey from Burwood Distillery.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Spiced Rhum | 750 mL | Burwood Distillery",
+      "price": 34.49,
+      "description": "Honey Spiced Rhum | 750 mL | Burwood Distillery",
+      "category": "DRINK",
+      "simplified_description": "750ml honey spiced rum from Burwood Distillery.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“The Scientist” Single Malt Whisky | 750 mL | Burwood Distillery",
+      "price": 102.49,
+      "description": "“The Scientist” Single Malt Whisky | 750 mL | Burwood Distillery",
+      "category": "DRINK",
+      "simplified_description": "750ml bottle of The Scientist single malt whisky.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "“The Bee Whisperer” Alberta Prairie Style Whisky | 750ml",
+      "price": 60.09,
+      "description": "“The Bee Whisperer” Alberta Prairie Style Whisky | 750ml",
+      "category": "DRINK",
+      "simplified_description": "750ml Alberta Prairie style whisky called The Bee Whisperer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "'Single Hive' Aged Honey Spirit | 375ml | Burwood Distillery",
+      "price": 39.24,
+      "description": "'Single Hive' Aged Honey Spirit | 375ml | Burwood Distillery",
+      "category": "DRINK",
+      "simplified_description": "375ml aged honey spirit from Burwood Distillery.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Spearhead-CSOR- Alberta Prairie Whisky | 750ml | Burwood Distillery",
+      "price": 65.0,
+      "description": "The Spearhead-CSOR- Alberta Prairie Whisky | 750ml | Burwood Distillery",
+      "category": "DRINK",
+      "simplified_description": "750ml Alberta Prairie whisky called The Spearhead-CSOR.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whisky Holiday Christmas Crackers - Pack of 3 Crackers | Burwood Distillery",
+      "price": 25.99,
+      "description": "Whisky Holiday Christmas Crackers - Pack of 3 Crackers | Burwood Distillery",
+      "category": "OTHER",
+      "simplified_description": "Pack of 3 whisky-themed holiday Christmas crackers.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

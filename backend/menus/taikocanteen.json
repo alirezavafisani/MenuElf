@@ -1,0 +1,1006 @@
+{
+  "restaurant": "taikocanteen",
+  "parsed_at": "2026-02-06T04:23:02.913216",
+  "item_count": 111,
+  "items": [
+    {
+      "name": "BLUEBERRY LIMEADE MARGARITA",
+      "price": 14.25,
+      "description": "Sauza silver tequila, fresh lime, Blueberry puree",
+      "category": "DRINK",
+      "simplified_description": "Sauza silver tequila, fresh lime, Blueberry puree",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROSEMARY GIMLET",
+      "price": 14.25,
+      "description": "Gin, Lime, Rosemary syrup",
+      "category": "DRINK",
+      "simplified_description": "Gin, Lime, Rosemary syrup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OG MARGARITA",
+      "price": 14.25,
+      "description": "Sauza Silver Tequila, Triple Sec, fresh lime",
+      "category": "DRINK",
+      "simplified_description": "Sauza Silver Tequila, Triple Sec, fresh lime",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OL' FASHIONED - SHAKA STYLE",
+      "price": 14.25,
+      "description": "Buffalo Trace, Brown Sugar, Pineapple Bitters",
+      "category": "DRINK",
+      "simplified_description": "Buffalo Trace, Brown Sugar, Pineapple Bitters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TAIKO CAESAR",
+      "price": 12.25,
+      "description": "Stoli Vodka, caesar mix, sesame seeds, garnish",
+      "category": "DRINK",
+      "simplified_description": "Stoli Vodka, caesar mix, sesame seeds, garnish",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CLASSIC MULE",
+      "price": 14.25,
+      "description": "Stoli Vodka, Fresh lime, Ginger beer",
+      "category": "DRINK",
+      "simplified_description": "Stoli Vodka, Fresh lime, Ginger beer",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPAGHETT",
+      "price": 12.25,
+      "description": "Miller high life, Campar, lemon",
+      "category": "DRINK",
+      "simplified_description": "Miller high life, Campar, lemon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BORN BREWING CO #GetLucky Lager",
+      "price": 8.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TROLLEY 5 High Five IPA",
+      "price": 8.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAILYARD Blackberry Sour",
+      "price": 8.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FERNIE BREWING Ridgewalk Red Ale",
+      "price": 8.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BANDED PEAK BREWING Mount Crushmore Pilsner",
+      "price": 8.25,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TROLLEY 5 First Crush White IPA",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TROLLEY 5 Juicy IPA 6.0",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAILYARD BREW CO Nitro Stout",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA (BOTTLE)",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE PEAKS Hard Iced Tea Original with Meyer Lemon",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VILLAGE BREWERY CIDER Apple",
+      "price": 8.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE CLAW Lime",
+      "price": 7.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COORS LIGHT",
+      "price": 7.5,
+      "description": "For the Dad's",
+      "category": "DRINK",
+      "simplified_description": "For the Dad's",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUDWEISER",
+      "price": 7.5,
+      "description": "For the Dad's",
+      "category": "DRINK",
+      "simplified_description": "For the Dad's",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LA MARCA PROSECCO",
+      "price": 11.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANTEEN HOUSE ROSÉ",
+      "price": 11.0,
+      "description": "Blood orange, Pink grapefruit, Cherry, BC",
+      "category": "DRINK",
+      "simplified_description": "Blood orange, Pink grapefruit, Cherry, BC",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2021 THE BEACH ROSÉ",
+      "price": 14.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEUVE CLICQUOT BRUT",
+      "price": 144.0,
+      "description": "Yellow Label, FR",
+      "category": "DRINK",
+      "simplified_description": "Yellow Label, FR",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANTEEN HOUSE WHITE",
+      "price": 11.0,
+      "description": "Clean fresh notes of peach, melon, red apple, floral and a touch of tropical fruit. BC",
+      "category": "DRINK",
+      "simplified_description": "Clean fresh notes of peach, melon, red apple, floral and a touch of tropical fru",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CEDAR CREEK PINOT GRIS",
+      "price": 12.0,
+      "description": "North meets south in this ripe and bright 50/50 blend. BC",
+      "category": "DRINK",
+      "simplified_description": "North meets south in this ripe and bright 50/50 blend. BC",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BREAD & BUTTER CHARDONNAY",
+      "price": 58.0,
+      "description": "Creamy vanilla, almond, tropical fruit. USA",
+      "category": "DRINK",
+      "simplified_description": "Creamy vanilla, almond, tropical fruit. USA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KIM CRAWFORD SAUVIGNON BLANC",
+      "price": 58.0,
+      "description": "Vivid & refreshing, passion fruit, gooseberry and pea pods. NZ",
+      "category": "DRINK",
+      "simplified_description": "Vivid & refreshing, passion fruit, gooseberry and pea pods. NZ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SNOOP DOGG HOUSE RED",
+      "price": 11.0,
+      "description": "Gangster. A blend of Petite Syrah, Zinfandel, & Merlot. AUS",
+      "category": "DRINK",
+      "simplified_description": "Gangster. A blend of Petite Syrah, Zinfandel, & Merlot. AUS",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "J.LOHR CABERNET SAUVIGNON",
+      "price": 14.5,
+      "description": "Tough to beat. Cherry, plum, blueberry, caramel, vanilla. USA",
+      "category": "DRINK",
+      "simplified_description": "Tough to beat. Cherry, plum, blueberry, caramel, vanilla. USA",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CITY & COUNTRY GAMAY NOIR",
+      "price": 45.0,
+      "description": "Local. Red berries, cherry, rose blossoms & crisp finish. BC",
+      "category": "DRINK",
+      "simplified_description": "Local. Red berries, cherry, rose blossoms & crisp finish. BC",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CITY & COUNTRY MERLOT",
+      "price": 45.0,
+      "description": "Local. Black fruit, plum, raspberry & a hint of spice. BC",
+      "category": "DRINK",
+      "simplified_description": "Local. Black fruit, plum, raspberry & a hint of spice. BC",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MEIOMI PINOT NOIR",
+      "price": 55.0,
+      "description": "Sexy & fun! Ripe berries, vanilla and spicy oak. CALI",
+      "category": "DRINK",
+      "simplified_description": "Sexy & fun! Ripe berries, vanilla and spicy oak. CALI",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STOLI",
+      "price": 7.0,
+      "description": "Vodka",
+      "category": "DRINK",
+      "simplified_description": "Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TITO'S HANDMADE",
+      "price": 8.0,
+      "description": "Vodka",
+      "category": "DRINK",
+      "simplified_description": "Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREY GOOSE",
+      "price": 9.0,
+      "description": "Vodka",
+      "category": "DRINK",
+      "simplified_description": "Vodka",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CONFLUENCE DETOUR",
+      "price": 7.0,
+      "description": "Gin",
+      "category": "DRINK",
+      "simplified_description": "Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOMBAY SAPPHIRE",
+      "price": 8.0,
+      "description": "Gin",
+      "category": "DRINK",
+      "simplified_description": "Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOTANIST",
+      "price": 8.0,
+      "description": "Gin",
+      "category": "DRINK",
+      "simplified_description": "Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HENDRICK'S",
+      "price": 9.0,
+      "description": "Gin",
+      "category": "DRINK",
+      "simplified_description": "Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "UNCLE VAL'S BOTANICAL",
+      "price": 10.0,
+      "description": "Gin",
+      "category": "DRINK",
+      "simplified_description": "Gin",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAUZA SILVER",
+      "price": 7.0,
+      "description": "Tequila",
+      "category": "DRINK",
+      "simplified_description": "Tequila",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TERAMANA BLANCO",
+      "price": 9.0,
+      "description": "Tequila",
+      "category": "DRINK",
+      "simplified_description": "Tequila",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CASAMIGOS BLANCO",
+      "price": 12.0,
+      "description": "Tequila",
+      "category": "DRINK",
+      "simplified_description": "Tequila",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAPTAIN MORGAN WHITE",
+      "price": 7.0,
+      "description": "Rum",
+      "category": "DRINK",
+      "simplified_description": "Rum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACARDI 4 YEAR",
+      "price": 8.0,
+      "description": "Rum",
+      "category": "DRINK",
+      "simplified_description": "Rum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUFFALO TRACE",
+      "price": 7.0,
+      "description": "Bourbon",
+      "category": "DRINK",
+      "simplified_description": "Bourbon",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JAMESON",
+      "price": 8.0,
+      "description": "Whiskey",
+      "category": "DRINK",
+      "simplified_description": "Whiskey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOCKTAILS",
+      "price": 8.5,
+      "description": "Mojito, Caesar, Arnold Palmer, Shirley Temple",
+      "category": "DRINK",
+      "simplified_description": "Mojito, Caesar, Arnold Palmer, Shirley Temple",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CR*FT NON ALC BEER",
+      "price": 8.25,
+      "description": "Blonde, Pale Ale, Stout",
+      "category": "DRINK",
+      "simplified_description": "Blonde, Pale Ale, Stout",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FOUNTAIN SODA",
+      "price": 5.25,
+      "description": "Coke, Diet Coke, Sprite, Fanta, Tonic, Cranberry, Grapefruit, OJ, Ginger Ale",
+      "category": "DRINK",
+      "simplified_description": "Coke, Diet Coke, Sprite, Fanta, Tonic, Cranberry, Grapefruit, OJ, Ginger Ale",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN KARAAGE",
+      "price": 14.25,
+      "description": "Garlic Aioli",
+      "category": "FOOD",
+      "simplified_description": "Garlic Aioli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TAIKO SPICED FRIES",
+      "price": 7.5,
+      "description": "Taiko Sauce, Sesame Seeds",
+      "category": "SIDE",
+      "simplified_description": "Taiko Sauce, Sesame Seeds",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KIMCHI TOTS",
+      "price": 9.5,
+      "description": "Housemade Kimchi, Taiko Sauce",
+      "category": "SIDE",
+      "simplified_description": "Housemade Kimchi, Taiko Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRISPY CHICKEN WINGS",
+      "price": 17.0,
+      "description": "Choose S&P, Sweet Soy, Miso Lime, Comin in Hot or Gochujang Glaze",
+      "category": "FOOD",
+      "simplified_description": "Choose S&P, Sweet Soy, Miso Lime, Comin in Hot or Gochujang Glaze",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPRING ROLL BITES",
+      "price": 13.5,
+      "description": "Handmade Veggie with Plum",
+      "category": "APPETIZER",
+      "simplified_description": "Handmade Veggie with Plum",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HONEY PARM WAFFLE FRIES",
+      "price": 13.5,
+      "description": "Honey Butter, Truffle, Parmesan",
+      "category": "SIDE",
+      "simplified_description": "Honey Butter, Truffle, Parmesan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OG SMASH BURGER",
+      "price": 15.75,
+      "description": "Toasted potato roll, garlic aioli, slice of cheddar, lettuce, tomato, sweet pickles",
+      "category": "HANDHELDS",
+      "simplified_description": "Toasted potato roll, garlic aioli, slice of cheddar, lettuce, tomato, sweet pick",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KALE CAESAR",
+      "price": 14.25,
+      "description": "Romaine, kale, cherry tomato, parm crisps, wasabi lime dressing",
+      "category": "BŌLS",
+      "simplified_description": "Romaine, kale, cherry tomato, parm crisps, wasabi lime dressing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FIVE SPICE MINI DONUTS",
+      "price": 5.5,
+      "description": "Cinnamon, 5 spice, condensed milk drizzle, Berry puree.",
+      "category": "DESSERT",
+      "simplified_description": "Cinnamon, 5 spice, condensed milk drizzle, Berry puree.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue drink",
+      "price": null,
+      "description": "A blue cocktail with ice, garnished with a lime wedge and sprinkled with red salt.",
+      "category": "Uncategorized",
+      "simplified_description": "A blue cocktail with ice, garnished with a lime wedge and sprinkled with red sal",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink cocktail",
+      "price": null,
+      "description": "A pink drink in a coupe glass, appearing frothy at the top.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink drink in a coupe glass, appearing frothy at the top.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange drink",
+      "price": null,
+      "description": "An orange cocktail with ice, garnished with a mint leaf and a small round candy.",
+      "category": "Uncategorized",
+      "simplified_description": "An orange cocktail with ice, garnished with a mint leaf and a small round candy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue cocktail",
+      "price": null,
+      "description": "A vibrant blue drink served in a short glass with a slice of lime.",
+      "category": "Uncategorized",
+      "simplified_description": "A vibrant blue drink served in a short glass with a slice of lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink cocktail",
+      "price": null,
+      "description": "A pink drink served in a martini glass.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink drink served in a martini glass.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange cocktail",
+      "price": null,
+      "description": "An orange drink served in a short glass with a vibrant layer above the bottom.",
+      "category": "Uncategorized",
+      "simplified_description": "An orange drink served in a short glass with a vibrant layer above the bottom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue cocktail",
+      "price": null,
+      "description": "A blue drink with a salted rim and a slice of lime.",
+      "category": "Uncategorized",
+      "simplified_description": "A blue drink with a salted rim and a slice of lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink cocktail",
+      "price": null,
+      "description": "A pink drink served in a coupe glass.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink drink served in a coupe glass.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange cocktail",
+      "price": null,
+      "description": "An orange drink with ice, garnished with a mint leaf and a slice of fruit.",
+      "category": "Uncategorized",
+      "simplified_description": "An orange drink with ice, garnished with a mint leaf and a slice of fruit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cocktail",
+      "price": null,
+      "description": "A vibrant blue cocktail garnished with a lime wedge and a rim of red sugar.",
+      "category": "Uncategorized",
+      "simplified_description": "A vibrant blue cocktail garnished with a lime wedge and a rim of red sugar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink Cocktail",
+      "price": null,
+      "description": "A pink-hued martini-like drink with a frothy top.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink-hued martini-like drink with a frothy top.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Cocktail",
+      "price": null,
+      "description": "A layered orange cocktail with ice, featuring a reddish bottom.",
+      "category": "Uncategorized",
+      "simplified_description": "A layered orange cocktail with ice, featuring a reddish bottom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cocktail",
+      "price": null,
+      "description": "A vibrant blue drink served in a short glass, garnished with a lime wedge and red rim sugar.",
+      "category": "Uncategorized",
+      "simplified_description": "A vibrant blue drink served in a short glass, garnished with a lime wedge and re",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink Cocktail",
+      "price": null,
+      "description": "A light pink drink served in a martini glass, appearing smooth and frothy on top.",
+      "category": "Uncategorized",
+      "simplified_description": "A light pink drink served in a martini glass, appearing smooth and frothy on top",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Cocktail",
+      "price": null,
+      "description": "A layered orange drink served in a short glass with a red bottom layer, garnished with a mint leaf.",
+      "category": "Uncategorized",
+      "simplified_description": "A layered orange drink served in a short glass with a red bottom layer, garnishe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cocktail",
+      "price": null,
+      "description": "A vibrant blue drink with ice and a sugared rim, garnished with a lime slice.",
+      "category": "Uncategorized",
+      "simplified_description": "A vibrant blue drink with ice and a sugared rim, garnished with a lime slice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink Cocktail",
+      "price": null,
+      "description": "A pink drink served in a coupe glass, appears to have frothy top.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink drink served in a coupe glass, appears to have frothy top.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Cocktail",
+      "price": null,
+      "description": "An orange drink with ice, featuring a gradient color and a mint leaf garnish.",
+      "category": "Uncategorized",
+      "simplified_description": "An orange drink with ice, featuring a gradient color and a mint leaf garnish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cocktail",
+      "price": null,
+      "description": "A blue drink served in a glass with a sugar rim and a slice of lime.",
+      "category": "Uncategorized",
+      "simplified_description": "A blue drink served in a glass with a sugar rim and a slice of lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink Cocktail",
+      "price": null,
+      "description": "A pink drink served in a coupe glass with a frothy top.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink drink served in a coupe glass with a frothy top.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Cocktail",
+      "price": null,
+      "description": "An orange drink with a layered appearance, served in a glass with a mint leaf and a ball of fruit.",
+      "category": "Uncategorized",
+      "simplified_description": "An orange drink with a layered appearance, served in a glass with a mint leaf an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue drink",
+      "price": null,
+      "description": "A blue cocktail with ice and a red rim, garnished with a lime wedge.",
+      "category": "Uncategorized",
+      "simplified_description": "A blue cocktail with ice and a red rim, garnished with a lime wedge.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pink drink",
+      "price": null,
+      "description": "A pink cocktail served in a coupe glass, frothy on top.",
+      "category": "Uncategorized",
+      "simplified_description": "A pink cocktail served in a coupe glass, frothy on top.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange drink",
+      "price": null,
+      "description": "An orange cocktail in a rocks glass, with ice and a layered red bottom, garnished with a mint leaf and a small round fruit.",
+      "category": "Uncategorized",
+      "simplified_description": "An orange cocktail in a rocks glass, with ice and a layered red bottom, garnishe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich featuring a fried chicken fillet topped with lettuce, pickles, and a creamy sauce, served in a golden bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich featuring a fried chicken fillet topped with lettuce, pickles, and a ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "Another sandwich with a crispy fried chicken piece, accompanied by slaw and a drizzle of sauce, in a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "Another sandwich with a crispy fried chicken piece, accompanied by slaw and a dr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich with a crispy fried chicken patty, garnished with pickles and lettuce, served on a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich with a crispy fried chicken patty, garnished with pickles and lettuce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "Another sandwich featuring a fried chicken patty, topped with a tangy sauce and more pickles, also on a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "Another sandwich featuring a fried chicken patty, topped with a tangy sauce and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "beer",
+      "price": null,
+      "description": "Two pints of beer with a light amber and golden color, served in clear plastic cups with a logo printed on the side.",
+      "category": "Uncategorized",
+      "simplified_description": "Two pints of beer with a light amber and golden color, served in clear plastic c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beer",
+      "price": null,
+      "description": "Two glasses of beer, one light and golden, the other amber, served in clear cups.",
+      "category": "Uncategorized",
+      "simplified_description": "Two glasses of beer, one light and golden, the other amber, served in clear cups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich with a golden-brown fried chicken fillet, topped with pickles and a creamy sauce, served on a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich with a golden-brown fried chicken fillet, topped with pickles and a c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Fried Chicken Sandwich",
+      "price": null,
+      "description": "A spicy variation of the fried chicken sandwich, featuring a crispy chicken fillet with pickles on a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A spicy variation of the fried chicken sandwich, featuring a crispy chicken fill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich featuring a crispy fried chicken breast, pickles, and creamy sauce, served in a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich featuring a crispy fried chicken breast, pickles, and creamy sauce, s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": null,
+      "description": "Another sandwich with a similar setup, featuring a spicy fried chicken breast, also garnished with pickles in a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "Another sandwich with a similar setup, featuring a spicy fried chicken breast, a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "A breaded and fried chicken patty served in a soft bun with pickles, mayonnaise, and greens.",
+      "category": "Uncategorized",
+      "simplified_description": "A breaded and fried chicken patty served in a soft bun with pickles, mayonnaise,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "Another fried chicken sandwich in a similar bun, topping includes some sort of salad and sauces.",
+      "category": "Uncategorized",
+      "simplified_description": "Another fried chicken sandwich in a similar bun, topping includes some sort of s",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich featuring a crispy fried chicken fillet, topped with pickles and a creamy sauce, served in a soft bun. It is accompanied by a layer of lettuce and possibly other garnishes.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich featuring a crispy fried chicken fillet, topped with pickles and a cr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Fried Chicken Sandwich",
+      "price": null,
+      "description": "This sandwich showcases a spicy, crispy fried chicken fillet, with a rich, tangy sauce, pickles, and served in a soft bun, likely garnished with lettuce or similar toppings.",
+      "category": "Uncategorized",
+      "simplified_description": "This sandwich showcases a spicy, crispy fried chicken fillet, with a rich, tangy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich featuring a crispy fried chicken fillet, topped with pickles and creamy sauce, served in a soft, golden bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich featuring a crispy fried chicken fillet, topped with pickles and crea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich with a golden-brown fried chicken piece, garnished with lettuce and mayonnaise, in a soft bun.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich with a golden-brown fried chicken piece, garnished with lettuce and m",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "A sandwich featuring a crispy fried chicken patty topped with pickles and a drizzle of white sauce, served in a fluffy bun. There are also visible greens and slaw inside.",
+      "category": "Uncategorized",
+      "simplified_description": "A sandwich featuring a crispy fried chicken patty topped with pickles and a driz",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": null,
+      "description": "Another sandwich with a crispy fried chicken patty, topped with pickles, served in a soft bun, showcasing a visually appealing presentation.",
+      "category": "Uncategorized",
+      "simplified_description": "Another sandwich with a crispy fried chicken patty, topped with pickles, served ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cocktail 1",
+      "price": null,
+      "description": "A drink with a light yellow color, served in a round glass with a straw.",
+      "category": "Uncategorized",
+      "simplified_description": "A drink with a light yellow color, served in a round glass with a straw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cocktail 2",
+      "price": null,
+      "description": "A drink with clear ice cubes in a round glass, also served with a straw.",
+      "category": "Uncategorized",
+      "simplified_description": "A drink with clear ice cubes in a round glass, also served with a straw.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cocktail",
+      "price": null,
+      "description": "A clear drink with ice cubes and a straw, likely an alcoholic beverage.",
+      "category": "Uncategorized",
+      "simplified_description": "A clear drink with ice cubes and a straw, likely an alcoholic beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Light-colored drink",
+      "price": null,
+      "description": "A light-brown drink in a short glass, possibly another cocktail or soft drink.",
+      "category": "Uncategorized",
+      "simplified_description": "A light-brown drink in a short glass, possibly another cocktail or soft drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "beer",
+      "price": null,
+      "description": "Two glasses of beer on a black tray; one glass is darker, and the other is lighter in color.",
+      "category": "Uncategorized",
+      "simplified_description": "Two glasses of beer on a black tray; one glass is darker, and the other is light",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beer",
+      "price": null,
+      "description": "Two glasses of beer, one is a pale amber color and the other is a lighter, almost golden color, both served in clear cups.",
+      "category": "Uncategorized",
+      "simplified_description": "Two glasses of beer, one is a pale amber color and the other is a lighter, almos",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beer",
+      "price": null,
+      "description": "Two glasses of beer; one is darker amber and the other is lighter, both served in clear cups.",
+      "category": "Uncategorized",
+      "simplified_description": "Two glasses of beer; one is darker amber and the other is lighter, both served i",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beer",
+      "price": null,
+      "description": "Two glasses of beer; one is darker amber and the other is a lighter golden color. Both are served in clear glasses with some foam at the top.",
+      "category": "Uncategorized",
+      "simplified_description": "Two glasses of beer; one is darker amber and the other is a lighter golden color",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

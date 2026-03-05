@@ -1,0 +1,378 @@
+{
+  "restaurant": "kinjoexpress",
+  "parsed_at": "2025-12-25T04:00:18.610266",
+  "item_count": 41,
+  "items": [
+    {
+      "name": "California Roll",
+      "price": null,
+      "description": "Crab meat mix, cucumber",
+      "simplified_description": "A sushi roll with crab meat and cucumber",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Rolls Combo",
+      "price": null,
+      "description": "2 pc of California roll, Spicy Salmon, Volcano, and Dynamite rolls",
+      "simplified_description": "A combination of various sushi rolls",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp California Roll",
+      "price": null,
+      "description": "Shrimp tempura, crab meat mix, spicy crunch, unagi sauce",
+      "simplified_description": "A sushi roll with shrimp tempura and crab meat",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Lover",
+      "price": null,
+      "description": "2 pc Salmon sushi, 4 pc salmon roll, 4 pc spicy salmon roll",
+      "simplified_description": "A selection of salmon sushi and rolls",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kinjo Express Special",
+      "price": null,
+      "description": "1 pc: salmon, bean cake, shrimp, tamago, scallop, unagi, 4 pc: california, spicy salmon, volcano",
+      "simplified_description": "A special platter with various sushi and seafood",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crunchy Spicy Salmon",
+      "price": null,
+      "description": "Spicy salmon mixed with spicy tempura crunch",
+      "simplified_description": "A spicy salmon dish with crunchy texture",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crunchy Spicy Tuna",
+      "price": null,
+      "description": "Spicy tuna mixed with spicy tempura crunch",
+      "simplified_description": "A spicy tuna dish with crunchy texture",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sunny Roll",
+      "price": null,
+      "description": "Crab meat mix, salmon, tuna, mango, mango sauce, tobiko",
+      "simplified_description": "A sushi roll with crab, salmon, tuna, and mango",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Flame",
+      "price": null,
+      "description": "Crunchy spicy salmon mix, cucumber, seared salmon, unagi sauce, bonito flakes",
+      "simplified_description": "A spicy salmon roll with seared salmon and cucumber",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crunchy Spicy Combo",
+      "price": null,
+      "description": "Crunchy spicy salmon, crunchy spicy tuna, 2 volcano",
+      "simplified_description": "A combo of spicy salmon and tuna rolls",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "I Love Sushi Combo",
+      "price": null,
+      "description": "1 pc: salmon, red snapper, octopus, tuna, shrimp",
+      "simplified_description": "A combo of various seafood sushi",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "I Love Salmon Combo",
+      "price": null,
+      "description": "3 pc salmon sashimi, 2 pc salmon sushi, 4 spicy salmon roll",
+      "simplified_description": "A salmon-focused sushi combo",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Combo",
+      "price": null,
+      "description": "6 tuna rolls, 3 pc tuna sushi",
+      "simplified_description": "A combo of tuna rolls and sushi",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Lover Combo",
+      "price": null,
+      "description": "3 pc tuna sushi, 4 tuna roll, 4 spicy tuna roll",
+      "simplified_description": "A tuna-focused sushi combo",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Salad",
+      "price": null,
+      "description": "Tuna salad mix, spicy mayo, masago",
+      "simplified_description": "A salad made with tuna and spicy mayo",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Combo",
+      "price": null,
+      "description": "6 cucumber rolls, 3 bean cake",
+      "simplified_description": "A vegetarian combo with cucumber rolls",
+      "category": "Sushi & Rolls",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crabmeat Futomaki",
+      "price": null,
+      "description": "Colorful sushi roll with Japanese rice, seaweed, carrot, egg, pickled radish, cucumber, bean cake and California mix.",
+      "simplified_description": "A colorful sushi roll with various ingredients",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Beef Futomaki",
+      "price": null,
+      "description": "Colorful sushi roll with Japanese rice, seaweed, carrot, egg, pickled radish, cucumber, bean cake and spicy marinated beef.",
+      "simplified_description": "A colorful sushi roll with spicy beef",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Futomaki Combo",
+      "price": null,
+      "description": "Colorful sushi roll with Japanese rice, seaweed, carrot, egg, pickled radish, cucumber, bean cake and spicy marinated beef.",
+      "simplified_description": "A colorful sushi roll with spicy beef",
+      "category": "Sushi & Rolls",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bento",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Katsu Bento",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Katsu Curry Bento",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salmon Poke Bowl",
+      "price": null,
+      "description": "Rice, unagi sauce, masago, edamame beans, mango, tamago, fried tofu, crab meat mix, salmon, dried seaweed, spicy mayo",
+      "simplified_description": "A poke bowl with salmon and various toppings",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Braised Pork Donburi",
+      "price": null,
+      "description": "Rice, braised pork, corn, egg, green onion",
+      "simplified_description": "A rice bowl with braised pork and vegetables",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Donburi",
+      "price": null,
+      "description": "Donburi sauce, cabbage, chicken karaage, seaweed salad, minced pork, corn, red radish, mayo, seaweed powder",
+      "simplified_description": "A rice bowl with chicken and various toppings",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Curry Donburi",
+      "price": null,
+      "description": "Teriyaki beef, japanese curry sauce, red pickled radish, onions, carrot, potato",
+      "simplified_description": "A rice bowl with teriyaki beef and curry sauce",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Beef Donburi",
+      "price": null,
+      "description": "Donburi sauce, teriyaki beef mixed with pepper, onion, mushroom",
+      "simplified_description": "A rice bowl with teriyaki beef and vegetables",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Teriyaki Chicken Donburi",
+      "price": null,
+      "description": "Donburi sauce, teriyaki chicken mixed with pepper, onion, mushroom",
+      "simplified_description": "A rice bowl with teriyaki chicken and vegetables",
+      "category": "Bento & Donburi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Tuna Onigiri",
+      "price": null,
+      "description": "Japanese rice sandwich with spicy tuna wrapped in crispy seaweed.",
+      "simplified_description": "A rice sandwich with spicy tuna",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lobster Onigiri",
+      "price": null,
+      "description": "Japanese rice sandwich with delicious lobster meat wrapped in crispy seaweed.",
+      "simplified_description": "A rice sandwich with lobster meat",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Onigiri",
+      "price": null,
+      "description": "Japanese rice sandwich with flavorful bbq pork wrapped in crispy seaweed.",
+      "simplified_description": "A rice sandwich with BBQ pork",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Fried Chicken Onigiri",
+      "price": null,
+      "description": "Japanese rice sandwich with flavorful deep fried spicy chicken filling with hot teriyaki sauce wrapped in crispy seaweed.",
+      "simplified_description": "A rice sandwich with spicy fried chicken",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Salmon Onigiri",
+      "price": null,
+      "description": "Japanese rice sandwich with spicy salmon wrapped in crispy seaweed.",
+      "simplified_description": "A rice sandwich with spicy salmon",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Mayo Onigiri",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Beef Onigiri",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Onigiri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Takoyaki",
+      "price": null,
+      "description": "Breaded octopus balls deep-fried, and served with mayo, takoyaki sauce, and bonito flakes on top. One order comes with 6 pieces",
+      "simplified_description": "Deep-fried octopus balls served with sauce",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pork Gyoza",
+      "price": null,
+      "description": "Carrots, cabbage, and corn dumplings served with gyoza dipping sauce. One order comes with six dumplings",
+      "simplified_description": "Deep-fried dumplings with vegetables",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yakisoba",
+      "price": null,
+      "description": "Noodles with beef and vegetables stir fried in a sweet savoury sauce, a classic Japanese dish!",
+      "simplified_description": "Stir-fried noodles with beef and vegetables",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bolognese Pasta",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Creme Pasta",
+      "price": null,
+      "description": "",
+      "simplified_description": "",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Available in",
+      "price": null,
+      "description": "Enjoy Kinjo’s exquisite sushi and Japanese dishes from the comfort of your home. Order now through Doordash for fast and convenient delivery.",
+      "simplified_description": "Order sushi and Japanese dishes for delivery",
+      "category": "Others",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

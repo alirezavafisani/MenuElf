@@ -1,0 +1,1011 @@
+{
+  "restaurant": "bonaserapizza",
+  "parsed_at": "2026-02-06T01:10:53.623182",
+  "item_count": 93,
+  "items": [
+    {
+      "name": "ORIGINAL 16",
+      "price": null,
+      "description": "* ORIGINAL 16",
+      "category": "DRINK",
+      "simplified_description": "A type of drink called Original 16.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALEXANDER KEITHS",
+      "price": null,
+      "description": "* ALEXANDER KEITHS",
+      "category": "DRINK",
+      "simplified_description": "A drink named Alexander Keiths.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TRASH PANDA",
+      "price": null,
+      "description": "* TRASH PANDA",
+      "category": "DRINK",
+      "simplified_description": "A drink called Trash Panda.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WILD ROSE VELVET FOG",
+      "price": null,
+      "description": "* WILD ROSE VELVET FOG",
+      "category": "DRINK",
+      "simplified_description": "A drink named Wild Rose Velvet Fog.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WILD ROSE WRASBERRY",
+      "price": null,
+      "description": "* WILD ROSE WRASBERRY",
+      "category": "DRINK",
+      "simplified_description": "A drink called Wild Rose Wrasberry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KOKANEE GOLD",
+      "price": null,
+      "description": "* KOKANEE GOLD",
+      "category": "DRINK",
+      "simplified_description": "A drink named Kokanee Gold.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RICKARDS RED",
+      "price": null,
+      "description": "* RICKARDS RED",
+      "category": "DRINK",
+      "simplified_description": "A drink called Rickards Red.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STELLA",
+      "price": null,
+      "description": "* STELLA",
+      "category": "DRINK",
+      "simplified_description": "A drink named Stella.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GUINNESS",
+      "price": null,
+      "description": "* GUINNESS",
+      "category": "DRINK",
+      "simplified_description": "A drink called Guinness.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEASONAL TAP",
+      "price": null,
+      "description": "* SEASONAL TAP",
+      "category": "DRINK",
+      "simplified_description": "A seasonal tap drink.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "ALEXANDER KEITHS",
+      "price": null,
+      "description": "ALEXANDER KEITHS, BUD LIGHT, BUDWEISER, CANADIAN, KOKANEE, PILSNER, LABATT BLUE",
+      "category": "DRINK",
+      "simplified_description": "A selection of popular beers including Alexander Keiths and Bud Light.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA",
+      "price": null,
+      "description": "CORONA, HEINEKEN, MILLER GENUINE DRAFT, MICHELOB ULTRA",
+      "category": "DRINK",
+      "simplified_description": "A selection of beers including Corona and Heineken.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CORONA (NAB)",
+      "price": null,
+      "description": "CORONA (NAB), GUINNESS 00 (NAB), HEINEKEN 00 (NAB)",
+      "category": "DRINK",
+      "simplified_description": "Non-alcoholic beers including Corona NAB and Guinness 00.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BANDED PEAK MICROBURST (TB 473ml)",
+      "price": 9.0,
+      "description": "* BANDED PEAK MICROBURST (TB 473ml)",
+      "category": "DRINK",
+      "simplified_description": "A 473ml can of Banded Peak Microburst beer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GUINNESS NITRO Irish Stout (TB 473ml)",
+      "price": 9.25,
+      "description": "* GUINNESS NITRO Irish Stout (TB 473ml)",
+      "category": "DRINK",
+      "simplified_description": "A 473ml can of Guinness Nitro Irish Stout.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ARIZONA HARD",
+      "price": null,
+      "description": "* ARIZONA HARD",
+      "category": "DRINK",
+      "simplified_description": "A hard beverage from Arizona.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AMERICAN VINTAGE ICED TEA",
+      "price": null,
+      "description": "* AMERICAN VINTAGE ICED TEA",
+      "category": "DRINK",
+      "simplified_description": "Classic American style iced tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACARDI BREEZER",
+      "price": null,
+      "description": "* BACARDI BREEZER",
+      "category": "DRINK",
+      "simplified_description": "A fruity Bacardi flavored alcoholic drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIKES HARD LEMONADE",
+      "price": null,
+      "description": "* MIKES HARD LEMONADE",
+      "category": "DRINK",
+      "simplified_description": "Hard lemonade with a citrus flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NUTRL VODKA SODA",
+      "price": null,
+      "description": "* NUTRL VODKA SODA",
+      "category": "DRINK",
+      "simplified_description": "Vodka mixed with soda water.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIMPLY SPIKED LEMONADE",
+      "price": null,
+      "description": "* SIMPLY SPIKED LEMONADE",
+      "category": "DRINK",
+      "simplified_description": "Lemonade with added alcohol.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SIMPLY SPIKED PEACH",
+      "price": null,
+      "description": "* SIMPLY SPIKED PEACH",
+      "category": "DRINK",
+      "simplified_description": "Peach flavored alcoholic beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMIRNOFF ICE",
+      "price": null,
+      "description": "* SMIRNOFF ICE",
+      "category": "DRINK",
+      "simplified_description": "A sweet, flavored malt beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEMPO GIN SMASH",
+      "price": null,
+      "description": "* TEMPO GIN SMASH",
+      "category": "DRINK",
+      "simplified_description": "A gin-based cocktail drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VIZZY",
+      "price": null,
+      "description": "* VIZZY",
+      "category": "DRINK",
+      "simplified_description": "A flavored alcoholic sparkling beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OKANAGAN CIDER",
+      "price": 6.75,
+      "description": "* OKANAGAN CIDER",
+      "category": "DRINK",
+      "simplified_description": "A crisp and refreshing cider drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SOMERSBY",
+      "price": 8.5,
+      "description": "* SOMERSBY",
+      "category": "DRINK",
+      "simplified_description": "A popular brand of flavored cider.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRONGBOW",
+      "price": 7.0,
+      "description": "* STRONGBOW",
+      "category": "DRINK",
+      "simplified_description": "A classic dry apple cider.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VILLAGE CIDER",
+      "price": 8.5,
+      "description": "* VILLAGE CIDER",
+      "category": "DRINK",
+      "simplified_description": "A locally crafted cider beverage.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DONINI MERLOT _House Red_",
+      "price": null,
+      "description": "* DONINI MERLOT _House Red_",
+      "category": "DRINK",
+      "simplified_description": "A house red wine with Merlot grapes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SANTA JULIA _Malbec_",
+      "price": null,
+      "description": "* SANTA JULIA _Malbec_",
+      "category": "DRINK",
+      "simplified_description": "A red Malbec wine from Santa Julia.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MISSION HILL FIVE VINYARDS _Cab-Merlot_",
+      "price": null,
+      "description": "* MISSION HILL FIVE VINYARDS _Cab-Merlot_",
+      "category": "DRINK",
+      "simplified_description": "A Cabernet-Merlot blend wine from Mission Hill Five Vineyards.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TWO OCEANS _Shiraz_",
+      "price": null,
+      "description": "* TWO OCEANS _Shiraz_",
+      "category": "DRINK",
+      "simplified_description": "A Shiraz red wine from Two Oceans.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PIATELLI RESERVE _Cab-Sauv_",
+      "price": null,
+      "description": "* PIATELLI RESERVE _Cab-Sauv_",
+      "category": "DRINK",
+      "simplified_description": "A Cabernet Sauvignon reserve wine from Piatelli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORTILLO _Rosé_",
+      "price": null,
+      "description": "* PORTILLO _Rosé_",
+      "category": "DRINK",
+      "simplified_description": "A rosé wine from Portillo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DONINI CHARDONNAY _House White_",
+      "price": null,
+      "description": "* DONINI CHARDONNAY _House White_",
+      "category": "DRINK",
+      "simplified_description": "A house white Chardonnay wine from Donini.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OYSTER BAY _Pinot Grigio_",
+      "price": null,
+      "description": "* OYSTER BAY _Pinot Grigio_",
+      "category": "DRINK",
+      "simplified_description": "A Pinot Grigio white wine from Oyster Bay.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TWO OCEANS _Sauvignon Blanc_",
+      "price": null,
+      "description": "* TWO OCEANS _Sauvignon Blanc_",
+      "category": "DRINK",
+      "simplified_description": "A Sauvignon Blanc white wine from Two Oceans.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PROSECCO _Sparkling White_",
+      "price": null,
+      "description": "* PROSECCO _Sparkling White_",
+      "category": "DRINK",
+      "simplified_description": "A sparkling white Prosecco wine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIMOSA _Sparkling White & Orange Juice_",
+      "price": 6.25,
+      "description": "* MIMOSA _Sparkling White & Orange Juice_",
+      "category": "DRINK",
+      "simplified_description": "A cocktail with sparkling white wine and orange juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN CLUB",
+      "price": null,
+      "description": "* CANADIAN CLUB",
+      "category": "DRINK",
+      "simplified_description": "A Canadian whisky called Canadian Club.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JACK DANIELS _(Original, Fire or Honey)_",
+      "price": null,
+      "description": "* JACK DANIELS _(Original, Fire or Honey)_",
+      "category": "DRINK",
+      "simplified_description": "Jack Daniels whisky available in Original, Fire, or Honey flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CROWN ROYAL _(Original, Peach or Apple)_",
+      "price": null,
+      "description": "* CROWN ROYAL _(Original, Peach or Apple)_",
+      "category": "DRINK",
+      "simplified_description": "Crown Royal whisky in Original, Peach, or Apple varieties.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "YUKON JACK",
+      "price": null,
+      "description": "* YUKON JACK",
+      "category": "DRINK",
+      "simplified_description": "A whisky called Yukon Jack.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GIBSONS",
+      "price": null,
+      "description": "* GIBSONS",
+      "category": "DRINK",
+      "simplified_description": "A whisky brand named Gibsons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JIM BEAM",
+      "price": null,
+      "description": "* JIM BEAM",
+      "category": "DRINK",
+      "simplified_description": "A classic bourbon whiskey.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BULLEIT BOURBON | RYE",
+      "price": null,
+      "description": "* BULLEIT BOURBON | RYE",
+      "category": "DRINK",
+      "simplified_description": "Bourbon and rye whiskey blend.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "JAMESONS _(Irish)_",
+      "price": null,
+      "description": "* JAMESONS _(Irish)_",
+      "category": "DRINK",
+      "simplified_description": "Smooth Irish whiskey.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ALBERTA PREMIUM _(Well)_",
+      "price": null,
+      "description": "* ALBERTA PREMIUM _(Well)_",
+      "category": "DRINK",
+      "simplified_description": "Well whiskey from Alberta.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BACARDI",
+      "price": null,
+      "description": "* BACARDI",
+      "category": "DRINK",
+      "simplified_description": "Classic white rum.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MALIBU",
+      "price": null,
+      "description": "* MALIBU",
+      "category": "DRINK",
+      "simplified_description": "Coconut-flavored rum.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SCREETCH",
+      "price": null,
+      "description": "* SCREETCH",
+      "category": "DRINK",
+      "simplified_description": "A type of rum.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "APPLETONS",
+      "price": null,
+      "description": "* APPLETONS",
+      "category": "DRINK",
+      "simplified_description": "Jamaican rum.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAPTAIN MORGANS",
+      "price": null,
+      "description": "* CAPTAIN MORGANS",
+      "category": "DRINK",
+      "simplified_description": "Spiced rum.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CAPTAIN MORGANS",
+      "price": null,
+      "description": "* CAPTAIN MORGANS",
+      "category": "DRINK",
+      "simplified_description": "Spiced rum.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "JOSE CUERVO",
+      "price": null,
+      "description": "* JOSE CUERVO",
+      "category": "DRINK",
+      "simplified_description": "Popular tequila brand.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PATRON _Silver_",
+      "price": null,
+      "description": "* PATRON _Silver_",
+      "category": "DRINK",
+      "simplified_description": "Premium silver tequila.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TARANTULA",
+      "price": null,
+      "description": "* TARANTULA",
+      "category": "DRINK",
+      "simplified_description": "Tequila with a spicy kick.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "DON JULIO _Reposado_",
+      "price": null,
+      "description": "* DON JULIO _Reposado_",
+      "category": "DRINK",
+      "simplified_description": "Aged reposado tequila.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TEQUILA 1800",
+      "price": null,
+      "description": "* TEQUILA 1800",
+      "category": "DRINK",
+      "simplified_description": "Smooth tequila brand.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SAUZA _Silver or Gold_",
+      "price": null,
+      "description": "* SAUZA _Silver or Gold_",
+      "category": "DRINK",
+      "simplified_description": "Tequila available in Silver or Gold varieties.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GLENFIDDICH _12yr Single Malt_",
+      "price": null,
+      "description": "* GLENFIDDICH _12yr Single Malt_",
+      "category": "DRINK",
+      "simplified_description": "12-year aged single malt Scotch whisky.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GLENLIVET _12yr Single Malt_",
+      "price": null,
+      "description": "* GLENLIVET _12yr Single Malt_",
+      "category": "DRINK",
+      "simplified_description": "12-year aged single malt Scotch whisky.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "JOHNNIE WALKER _Red Label_",
+      "price": null,
+      "description": "* JOHNNIE WALKER _Red Label_",
+      "category": "DRINK",
+      "simplified_description": "Blended Scotch whisky with a bold, smoky flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BALVENIE _12yr Single Malt_",
+      "price": null,
+      "description": "* BALVENIE _12yr Single Malt_",
+      "category": "DRINK",
+      "simplified_description": "12-year aged single malt Scotch whisky.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DEWARS",
+      "price": null,
+      "description": "* DEWARS",
+      "category": "DRINK",
+      "simplified_description": "Blended Scotch whisky with a smooth, rich taste.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SMIRNOFF",
+      "price": null,
+      "description": "* SMIRNOFF",
+      "category": "DRINK",
+      "simplified_description": "Popular vodka known for its clean, neutral flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GREY GOOSE",
+      "price": null,
+      "description": "* GREY GOOSE",
+      "category": "DRINK",
+      "simplified_description": "Premium French vodka with a smooth, refined taste.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "TROIKA _(Well)_",
+      "price": null,
+      "description": "* TROIKA _(Well)_",
+      "category": "DRINK",
+      "simplified_description": "Standard well liquor selection called Troika.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TANQUERAY",
+      "price": null,
+      "description": "* TANQUERAY",
+      "category": "DRINK",
+      "simplified_description": "Classic London dry gin with a crisp, juniper flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BOMBAY",
+      "price": null,
+      "description": "* BOMBAY",
+      "category": "DRINK",
+      "simplified_description": "London dry gin with a balanced, aromatic taste.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GORDONS _(Well)_",
+      "price": null,
+      "description": "* GORDONS _(Well)_",
+      "category": "DRINK",
+      "simplified_description": "Standard well gin option, Gordon's brand.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "V.O.",
+      "price": null,
+      "description": "* V.O.",
+      "category": "DRINK",
+      "simplified_description": "Canadian whisky with a smooth, mellow flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HENNESSEY",
+      "price": null,
+      "description": "* HENNESSEY",
+      "category": "DRINK",
+      "simplified_description": "Premium cognac with rich, complex flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "METAXA",
+      "price": null,
+      "description": "* METAXA",
+      "category": "DRINK",
+      "simplified_description": "Greek spirit blending brandy and wine flavors.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "GRAND MARNIER",
+      "price": null,
+      "description": "* GRAND MARNIER",
+      "category": "DRINK",
+      "simplified_description": "A classic orange-flavored liqueur drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PARALYZERS",
+      "price": null,
+      "description": "* PARALYZERS",
+      "category": "DRINK",
+      "simplified_description": "A strong mixed alcoholic drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAESARS",
+      "price": null,
+      "description": "* CAESARS",
+      "category": "DRINK",
+      "simplified_description": "A Canadian cocktail with vodka and Clamato juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MARGARITAS",
+      "price": null,
+      "description": "* MARGARITAS",
+      "category": "DRINK",
+      "simplified_description": "A tequila-based cocktail with lime and salt.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOSCOW MULE",
+      "price": null,
+      "description": "* MOSCOW MULE",
+      "category": "DRINK",
+      "simplified_description": "A vodka cocktail with ginger beer and lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MONKEYS LUNCH",
+      "price": null,
+      "description": "* MONKEYS LUNCH",
+      "category": "DRINK",
+      "simplified_description": "A mixed alcoholic drink named Monkey's Lunch.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TEQUILA SUNRISE",
+      "price": null,
+      "description": "* TEQUILA SUNRISE",
+      "category": "DRINK",
+      "simplified_description": "A tequila cocktail with orange juice and grenadine.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPICED SHIRLEY TEMPLE",
+      "price": null,
+      "description": "* SPICED SHIRLEY TEMPLE",
+      "category": "DRINK",
+      "simplified_description": "A non-alcoholic drink with a spicy twist.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "OLD FASHIONED",
+      "price": null,
+      "description": "* OLD FASHIONED",
+      "category": "DRINK",
+      "simplified_description": "A classic whiskey cocktail with bitters and sugar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PORN STAR",
+      "price": null,
+      "description": "* PORN STAR",
+      "category": "DRINK",
+      "simplified_description": "A fruity and sweet cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHAFT",
+      "price": null,
+      "description": "* SHAFT",
+      "category": "DRINK",
+      "simplified_description": "A cocktail named Shaft with mixed ingredients.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAHAMA MAMA",
+      "price": null,
+      "description": "* BAHAMA MAMA",
+      "category": "DRINK",
+      "simplified_description": "A tropical rum cocktail with fruit flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALABAMA SLAMMER",
+      "price": null,
+      "description": "* ALABAMA SLAMMER",
+      "category": "DRINK",
+      "simplified_description": "A sweet and fruity mixed drink.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLACK RUSSIAN",
+      "price": null,
+      "description": "* BLACK RUSSIAN",
+      "category": "DRINK",
+      "simplified_description": "A vodka and coffee liqueur cocktail.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE RUSSIAN",
+      "price": null,
+      "description": "* WHITE RUSSIAN",
+      "category": "DRINK",
+      "simplified_description": "A vodka cocktail with coffee liqueur and cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BOTTLECAP",
+      "price": null,
+      "description": "* BOTTLECAP",
+      "category": "DRINK",
+      "simplified_description": "A drink called BOTTLECAP.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BROWN COW",
+      "price": null,
+      "description": "* BROWN COW",
+      "category": "DRINK",
+      "simplified_description": "A drink called BROWN COW.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LONG ISLAND",
+      "price": null,
+      "description": "* LONG ISLAND",
+      "category": "DRINK",
+      "simplified_description": "A drink called LONG ISLAND.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

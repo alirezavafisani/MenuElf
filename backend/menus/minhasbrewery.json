@@ -1,0 +1,106 @@
+{
+  "restaurant": "minhasbrewery",
+  "parsed_at": "2026-02-06T03:21:57.292515",
+  "item_count": 11,
+  "items": [
+    {
+      "name": "WINGS",
+      "price": 11.0,
+      "description": "Breaded chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic or Honey Hot",
+      "category": "FOOD",
+      "simplified_description": "Breaded chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic o",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WINGS",
+      "price": 11.0,
+      "description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic or Honey Hot",
+      "category": "FOOD",
+      "simplified_description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WINGS",
+      "price": 11.0,
+      "description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic or Honey Hot",
+      "category": "FOOD",
+      "simplified_description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garl",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KATHI ROLL",
+      "price": 11.0,
+      "description": "Signature flakey paratha wrapped with choice of Tandori spiced chicken, butter chicken, beef, paneer, or stir fry veg",
+      "category": "FOOD",
+      "simplified_description": "Signature flakey paratha wrapped with choice of Tandori spiced chicken, butter c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SMASH BURGER + FRIES",
+      "price": 15.0,
+      "description": "Hand-smashed grass fed Angus Beef patty with caramelized onions, pickles, Canadian cheese, & our home-made specialty sauce",
+      "category": "FOOD",
+      "simplified_description": "Hand-smashed grass fed Angus Beef patty with caramelized onions, pickles, Canadi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALOO TIKKI BURGER",
+      "price": 7.0,
+      "description": "Spiced potato patty on a soft potato bun\n(A vegetarian favourite)",
+      "category": "FOOD",
+      "simplified_description": "Spiced potato patty on a soft potato bun\n(A vegetarian favourite)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUTTER CHICKEN NACHOS",
+      "price": null,
+      "description": "Butter chicken, jalapenos, green onion, tomatoes, sour cream & salsa",
+      "category": "FOOD",
+      "simplified_description": "Butter chicken, jalapenos, green onion, tomatoes, sour cream & salsa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUFFALO NACHOS",
+      "price": null,
+      "description": "Marinated buffalo chicken, jalapenos, green onion, tomatoes, sour cream & salsa",
+      "category": "FOOD",
+      "simplified_description": "Marinated buffalo chicken, jalapenos, green onion, tomatoes, sour cream & salsa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KADAK CHA",
+      "price": null,
+      "description": "Black tea, milk, cardamom, other spices + secret family ingredients\nDragon Manjit's favourite",
+      "category": "DRINK",
+      "simplified_description": "Black tea, milk, cardamom, other spices + secret family ingredients\nDragon Manji",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KASHMIRI CHA",
+      "price": null,
+      "description": "Black tea, milk, cardamom, almonds, saffron (contains nuts*)\nRavinder's favourite",
+      "category": "DRINK",
+      "simplified_description": "Black tea, milk, cardamom, almonds, saffron (contains nuts*)\nRavinder's favourit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAFFRON KESAR CHA",
+      "price": null,
+      "description": "Black tea, milk, cardamom, ginger\nMom + Dad's favourite",
+      "category": "DRINK",
+      "simplified_description": "Black tea, milk, cardamom, ginger\nMom + Dad's favourite",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,1225 @@
+{
+  "restaurant": "calgarydesistore",
+  "parsed_at": "2026-02-06T01:25:26.905332",
+  "item_count": 100,
+  "items": [
+    {
+      "name": "Swetha Desiccated Coconut Powder (Coarse) 200g",
+      "price": 5.1,
+      "description": "Swetha Desiccated Coconut Powder (Coarse) 200g",
+      "category": "FOOD",
+      "simplified_description": "Coarse desiccated coconut powder for cooking and baking.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vishva Corn Flour White 2lbs",
+      "price": 5.23,
+      "description": "Vishva Corn Flour White 2lbs",
+      "category": "FOOD",
+      "simplified_description": "White corn flour used for thickening and baking.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vishva Indian Sugar 2lbs",
+      "price": 4.99,
+      "description": "Vishva Indian Sugar 2lbs",
+      "category": "FOOD",
+      "simplified_description": "Indian sugar for sweetening dishes and beverages.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Baby Chicken /pc",
+      "price": 7.5,
+      "description": "Baby Chicken /pc",
+      "category": "FOOD",
+      "simplified_description": "Whole baby chicken sold per piece for cooking.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Chunk/kg",
+      "price": null,
+      "description": "Beef Chunk/kg",
+      "category": "FOOD",
+      "simplified_description": "Chunks of beef sold by kilogram for cooking.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Lean Ground",
+      "price": 22.22,
+      "description": "Beef Lean Ground",
+      "category": "FOOD",
+      "simplified_description": "Lean ground beef for cooking various dishes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Liver /kg",
+      "price": null,
+      "description": "Beef Liver /kg",
+      "category": "FOOD",
+      "simplified_description": "Beef liver sold by kilogram for cooking.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Med Ground /kg",
+      "price": null,
+      "description": "Beef Med Ground /kg",
+      "category": "FOOD",
+      "simplified_description": "Medium fat ground beef sold by kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Paya (Halal) /kg",
+      "price": null,
+      "description": "Beef Paya (Halal) /kg",
+      "category": "FOOD",
+      "simplified_description": "Halal beef trotters sold by kilogram for cooking.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Regular Qeema/Ground Meat /kg",
+      "price": null,
+      "description": "Beef Regular Qeema/Ground Meat /kg",
+      "category": "FOOD",
+      "simplified_description": "Regular ground beef sold by kilogram for cooking.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Ribeye /kg",
+      "price": null,
+      "description": "Beef Ribeye /kg",
+      "category": "FOOD",
+      "simplified_description": "Beef ribeye steak sold by kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Ribs Long Thin Slices for BBQ /kg",
+      "price": null,
+      "description": "Beef Ribs Long Thin Slices for BBQ /kg",
+      "category": "FOOD",
+      "simplified_description": "Thin sliced beef ribs for BBQ sold by kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shank Boneless (Nihari) /kg",
+      "price": null,
+      "description": "Beef Shank Boneless (Nihari) /kg",
+      "category": "FOOD",
+      "simplified_description": "Boneless beef shank for Nihari sold by kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Shank With Bone /kg",
+      "price": null,
+      "description": "Beef Shank With Bone /kg",
+      "category": "FOOD",
+      "simplified_description": "Beef shank with bone sold by kilogram for cooking.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Short Rib /kg",
+      "price": null,
+      "description": "Beef Short Rib /kg",
+      "category": "FOOD",
+      "simplified_description": "Beef short ribs sold by kilogram for cooking.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Sirloin Steak /kg",
+      "price": null,
+      "description": "Beef Sirloin Steak /kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh beef sirloin steak sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Steak/Strips /kg",
+      "price": null,
+      "description": "Beef Steak/Strips /kg",
+      "category": "FOOD",
+      "simplified_description": "Beef steak strips sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Steaks/Strips /kg",
+      "price": null,
+      "description": "Beef Steaks/Strips /kg",
+      "category": "FOOD",
+      "simplified_description": "Beef steaks and strips sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Stew Cut (Boneless) /kg",
+      "price": null,
+      "description": "Beef Stew Cut (Boneless) /kg",
+      "category": "FOOD",
+      "simplified_description": "Boneless beef stew meat sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Strips/kg",
+      "price": null,
+      "description": "Beef Strips/kg",
+      "category": "FOOD",
+      "simplified_description": "Strips of beef meat sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Swimming crab/kg",
+      "price": null,
+      "description": "Blue Swimming crab/kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh blue swimming crab sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Breast (boneless) /kg",
+      "price": null,
+      "description": "Chicken Breast (boneless) /kg",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken breast sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Breast slices/cubes (boneless) /kg",
+      "price": null,
+      "description": "Chicken Breast slices/cubes (boneless) /kg",
+      "category": "FOOD",
+      "simplified_description": "Boneless chicken breast sliced or cubed, sold by kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken cut & clean (Whole) /kg",
+      "price": null,
+      "description": "Chicken cut & clean (Whole) /kg",
+      "category": "FOOD",
+      "simplified_description": "Whole cleaned and cut chicken sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Drumstick /kg",
+      "price": null,
+      "description": "Chicken Drumstick /kg",
+      "category": "FOOD",
+      "simplified_description": "Chicken drumsticks sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN Heart /kg",
+      "price": null,
+      "description": "CHICKEN Heart /kg",
+      "category": "FOOD",
+      "simplified_description": "Chicken hearts sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Leg Box 18kg",
+      "price": 126.39,
+      "description": "Chicken Leg Box 18kg",
+      "category": "FOOD",
+      "simplified_description": "Box of 18 kilograms of chicken legs.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Large quantity"
+    },
+    {
+      "name": "Chicken Leg Box 18kg(Clean & Cut)",
+      "price": 129.17,
+      "description": "Chicken Leg Box 18kg(Clean & Cut)",
+      "category": "FOOD",
+      "simplified_description": "Box of 18 kilograms of cleaned and cut chicken legs.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Large quantity"
+    },
+    {
+      "name": "Chicken Leg Clean /kg",
+      "price": null,
+      "description": "Chicken Leg Clean /kg",
+      "category": "FOOD",
+      "simplified_description": "Cleaned chicken legs sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN LIVER /kg",
+      "price": null,
+      "description": "CHICKEN LIVER /kg",
+      "category": "FOOD",
+      "simplified_description": "Chicken liver sold by the kilogram.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Thighs /kg",
+      "price": null,
+      "description": "Chicken Thighs /kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh chicken thighs sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken whole without skin /kg",
+      "price": null,
+      "description": "Chicken whole without skin /kg",
+      "category": "FOOD",
+      "simplified_description": "Whole skinless chicken sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings /kg",
+      "price": null,
+      "description": "Chicken Wings /kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh chicken wings sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Extra Lean Ground Beef /kg",
+      "price": null,
+      "description": "Extra Lean Ground Beef /kg",
+      "category": "FOOD",
+      "simplified_description": "Lean ground beef sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Black Pomfret/kg",
+      "price": null,
+      "description": "Fresh Black Pomfret/kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh black pomfret fish sold by kilogram.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Emperor/kg",
+      "price": null,
+      "description": "Fresh Emperor/kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh emperor fish sold by kilogram.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lamb/goat shank / kg",
+      "price": null,
+      "description": "Fresh Lamb/goat shank / kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh lamb or goat shank sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lean Beef Steak/kg",
+      "price": null,
+      "description": "Fresh Lean Beef Steak/kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh lean beef steak sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Sea Bass/kg",
+      "price": null,
+      "description": "Fresh Sea Bass/kg",
+      "category": "FOOD",
+      "simplified_description": "Fresh sea bass fish sold by kilogram.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Frozen Beef Bone",
+      "price": 19.43,
+      "description": "Frozen Beef Bone",
+      "category": "FOOD",
+      "simplified_description": "Frozen beef bones for cooking or broth.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Frozen Goat Full /Half / lb",
+      "price": null,
+      "description": "Frozen Goat Full /Half / lb",
+      "category": "FOOD",
+      "simplified_description": "Frozen whole or half goat sold by pound.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Frozen Goat Leg /kg",
+      "price": null,
+      "description": "Frozen Goat Leg /kg",
+      "category": "FOOD",
+      "simplified_description": "Frozen goat leg sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Frozen Goat Shoulder /kg",
+      "price": null,
+      "description": "Frozen Goat Shoulder /kg",
+      "category": "FOOD",
+      "simplified_description": "Frozen goat shoulder sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Boneless / KG",
+      "price": null,
+      "description": "Goat Boneless / KG",
+      "category": "FOOD",
+      "simplified_description": "Boneless goat meat sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Chops / kg",
+      "price": null,
+      "description": "Goat Chops / kg",
+      "category": "FOOD",
+      "simplified_description": "Goat chops sold by kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Full /kg",
+      "price": null,
+      "description": "Goat Full /kg",
+      "category": "FOOD",
+      "simplified_description": "Whole goat meat sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Half /kg",
+      "price": null,
+      "description": "Goat Half /kg",
+      "category": "FOOD",
+      "simplified_description": "Half goat meat sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Leg /kg",
+      "price": null,
+      "description": "Goat Leg /kg",
+      "category": "FOOD",
+      "simplified_description": "Goat leg meat sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Mix /kg",
+      "price": null,
+      "description": "Goat Mix /kg",
+      "category": "FOOD",
+      "simplified_description": "Mixed cuts of goat meat sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Regular Ground",
+      "price": 43.04,
+      "description": "Goat Regular Ground",
+      "category": "FOOD",
+      "simplified_description": "Regular ground goat meat.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Ribs / kg",
+      "price": null,
+      "description": "Goat Ribs / kg",
+      "category": "FOOD",
+      "simplified_description": "Goat ribs sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Shoulder /kg",
+      "price": null,
+      "description": "Goat Shoulder /kg",
+      "category": "FOOD",
+      "simplified_description": "Goat shoulder meat sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Stomach / pkt",
+      "price": 13.89,
+      "description": "Goat Stomach / pkt",
+      "category": "FOOD",
+      "simplified_description": "Packet of goat stomach meat.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat/Lamb Liver /lb",
+      "price": null,
+      "description": "Goat/Lamb Liver /lb",
+      "category": "FOOD",
+      "simplified_description": "Goat or lamb liver sold by the pound.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hard Chicken/pc",
+      "price": 11.1,
+      "description": "Hard Chicken/pc",
+      "category": "FOOD",
+      "simplified_description": "Whole hard chicken sold per piece.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb / Goat Liver (Halal) /kg",
+      "price": null,
+      "description": "Lamb / Goat Liver (Halal) /kg",
+      "category": "FOOD",
+      "simplified_description": "Halal lamb or goat liver sold by the kilogram.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lean Ground Beef /kg",
+      "price": null,
+      "description": "Lean Ground Beef /kg",
+      "category": "FOOD",
+      "simplified_description": "Lean ground beef sold by the kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Belly /kg",
+      "price": null,
+      "description": "Pork Belly /kg",
+      "category": "FOOD",
+      "simplified_description": "Pork belly meat sold by the kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Ribs /kg",
+      "price": null,
+      "description": "Pork Ribs /kg",
+      "category": "FOOD",
+      "simplified_description": "Pork ribs sold by the kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "T-Bone Steak Beef /kg",
+      "price": null,
+      "description": "T-Bone Steak Beef /kg",
+      "category": "FOOD",
+      "simplified_description": "T-bone beef steak sold by the kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Beef Tenderloin / kg",
+      "price": null,
+      "description": "Whole Beef Tenderloin / kg",
+      "category": "FOOD",
+      "simplified_description": "Whole beef tenderloin sold by kilogram.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Whole Chicken Box /kg",
+      "price": null,
+      "description": "Whole Chicken Box /kg",
+      "category": "FOOD",
+      "simplified_description": "Whole chicken sold by kilogram in a box.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bambino Roasted Vermicelli 850g",
+      "price": 8.5,
+      "description": "Bambino Roasted Vermicelli 850g",
+      "category": "DESSERT",
+      "simplified_description": "Roasted vermicelli dessert, 850 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DH Palada Payasam Mix 300g",
+      "price": 4.13,
+      "description": "DH Palada Payasam Mix 300g",
+      "category": "DESSERT",
+      "simplified_description": "Mix for making Palada Payasam dessert, 300 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Haldiram's Gulab Jamun 1kg",
+      "price": 11.04,
+      "description": "Haldiram's Gulab Jamun 1kg",
+      "category": "DESSERT",
+      "simplified_description": "Sweet syrup-soaked fried dough balls, 1 kilogram.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Klondike Cookie Sandwich 250ml",
+      "price": 4.72,
+      "description": "Klondike Cookie Sandwich 250ml",
+      "category": "DESSERT",
+      "simplified_description": "Ice cream sandwich with cookies, 250 ml.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Niru Green Payasam 200g",
+      "price": 4.43,
+      "description": "Niru Green Payasam 200g",
+      "category": "DESSERT",
+      "simplified_description": "Green payasam dessert mix, 200 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Niru Palm Jaggery (Kithul Treacle) 340ml",
+      "price": 5.43,
+      "description": "Niru Palm Jaggery (Kithul Treacle) 340ml",
+      "category": "DESSERT",
+      "simplified_description": "Sweet palm jaggery syrup, 340 ml.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shalimar Kulfi/pc",
+      "price": 3.1,
+      "description": "Shalimar Kulfi/pc",
+      "category": "DESSERT",
+      "simplified_description": "Traditional Indian frozen milk dessert, one piece.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beatrice Milk 2% 4l",
+      "price": 7.22,
+      "description": "Beatrice Milk 2% 4l",
+      "category": "DRINK",
+      "simplified_description": "2% fat milk, 4 liters.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRU GREEN LABEL 100G",
+      "price": 7.77,
+      "description": "BRU GREEN LABEL 100G",
+      "category": "DRINK",
+      "simplified_description": "Green label instant coffee, 100 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRU INSTANT 4.6 G",
+      "price": 1.11,
+      "description": "BRU INSTANT 4.6 G",
+      "category": "DRINK",
+      "simplified_description": "Instant coffee, 4.6 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHAITHANYA HERBALS PANIKAPPI 15G",
+      "price": 0.67,
+      "description": "CHAITHANYA HERBALS PANIKAPPI 15G",
+      "category": "DRINK",
+      "simplified_description": "Herbal Panikappi drink, 15 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHOICE PANIKAPPI 15G",
+      "price": 0.67,
+      "description": "CHOICE PANIKAPPI 15G",
+      "category": "DRINK",
+      "simplified_description": "Panikappi herbal drink, 15 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "HORLICKS 200G",
+      "price": 8.88,
+      "description": "HORLICKS 200G",
+      "category": "DRINK",
+      "simplified_description": "Malted milk drink powder, 200 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kanan Devan Classic 500g",
+      "price": 11.93,
+      "description": "Kanan Devan Classic 500g",
+      "category": "DRINK",
+      "simplified_description": "Classic Kanan Devan tea leaves, 500 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kannan Devan Ripple Coffee 100g",
+      "price": 11.09,
+      "description": "Kannan Devan Ripple Coffee 100g",
+      "category": "DRINK",
+      "simplified_description": "Kannan Devan Ripple coffee powder, 100 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kannan Devan Ripple Tea 500g",
+      "price": 9.99,
+      "description": "Kannan Devan Ripple Tea 500g",
+      "category": "DRINK",
+      "simplified_description": "Kannan Devan Ripple tea leaves, 500 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Le Kappi (Nadan) Black Coffee Powder 250g",
+      "price": 5.37,
+      "description": "Le Kappi (Nadan) Black Coffee Powder 250g",
+      "category": "DRINK",
+      "simplified_description": "Le Kappi black coffee powder, 250 grams.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Monsoon Garden Tea 1kg",
+      "price": 16.66,
+      "description": "Monsoon Garden Tea 1kg",
+      "category": "DRINK",
+      "simplified_description": "Monsoon Garden tea leaves, 1 kilogram.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Society Tea 1kg",
+      "price": 15.54,
+      "description": "Society Tea 1kg",
+      "category": "DRINK",
+      "simplified_description": "Society brand tea leaves, 1 kilogram.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tang Mango 375gm",
+      "price": 7.72,
+      "description": "Tang Mango 375gm",
+      "category": "DRINK",
+      "simplified_description": "Mango flavored powdered drink mix, 375 grams.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Black Halwa /100g",
+      "price": 15.54,
+      "description": "Black Halwa /100g",
+      "category": "SNACK",
+      "simplified_description": "Sweet black halwa dessert, 100 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Britannia Digestive Original Buscuits 400g",
+      "price": 5.53,
+      "description": "Britannia Digestive Original Buscuits 400g",
+      "category": "SNACK",
+      "simplified_description": "Original Britannia digestive biscuits, 400 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Britannia Digestive Sugar Free Biscuits 350g",
+      "price": 5.54,
+      "description": "Britannia Digestive Sugar Free Biscuits 350g",
+      "category": "SNACK",
+      "simplified_description": "Sugar-free Britannia digestive biscuits, 350 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Britannia Toastea Suji Rusk 305gm",
+      "price": 4.43,
+      "description": "Britannia Toastea Suji Rusk 305gm",
+      "category": "SNACK",
+      "simplified_description": "Britannia toasted suji rusk, 305 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Delicious Delights Avalosunda 400g",
+      "price": 9.99,
+      "description": "Delicious Delights Avalosunda 400g",
+      "category": "SNACK",
+      "simplified_description": "Avalosunda snack mix, 400 grams.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "IYAPPA JAFFNA MIXTURE 600g",
+      "price": 10.64,
+      "description": "IYAPPA JAFFNA MIXTURE 600g",
+      "category": "SNACK",
+      "simplified_description": "Spicy Jaffna style snack mixture, 600 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Iyappa Peanut Halwa 175g",
+      "price": 3.7,
+      "description": "Iyappa Peanut Halwa 175g",
+      "category": "SNACK",
+      "simplified_description": "Sweet peanut halwa dessert, 175 grams.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Iyappaa Kerala Mixture 400gm",
+      "price": 6.02,
+      "description": "Iyappaa Kerala Mixture 400gm",
+      "category": "SNACK",
+      "simplified_description": "Kerala style snack mixture, 400 grams.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "iyappaa orange candy 100g",
+      "price": 2.77,
+      "description": "iyappaa orange candy 100g",
+      "category": "SNACK",
+      "simplified_description": "Orange-flavored candy, 100 grams.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Iyappaa Sesame Ball 80g",
+      "price": 2.77,
+      "description": "Iyappaa Sesame Ball 80g",
+      "category": "SNACK",
+      "simplified_description": "Sesame seed ball snack, 80 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jacme Kerala Hot Mixture 400g",
+      "price": 7.77,
+      "description": "Jacme Kerala Hot Mixture 400g",
+      "category": "SNACK",
+      "simplified_description": "Spicy Kerala-style snack mix, 400 grams.",
+      "dietary_info": [
+        "spicy",
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Jacme Rice Murukk",
+      "price": 5.89,
+      "description": "Jacme Rice Murukk",
+      "category": "SNACK",
+      "simplified_description": "Crunchy rice flour snack called Murukk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jumbo Honey Nut Cheerios 1.3kg",
+      "price": 3.83,
+      "description": "Jumbo Honey Nut Cheerios 1.3kg",
+      "category": "SNACK",
+      "simplified_description": "Honey and nut flavored cereal, 1.3 kg.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadmit Peanut Candy 200gm",
+      "price": 4.43,
+      "description": "Kadmit Peanut Candy 200gm",
+      "category": "SNACK",
+      "simplified_description": "Sweet peanut candy, 200 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Karavan Tea Time Sharkara Varatti 250g",
+      "price": 6.64,
+      "description": "Karavan Tea Time Sharkara Varatti 250g",
+      "category": "SNACK",
+      "simplified_description": "Sweet jaggery-coated snack, 250 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kozhikoden's Achappam 170gm",
+      "price": 5.93,
+      "description": "Kozhikoden's Achappam 170gm",
+      "category": "SNACK",
+      "simplified_description": "Crispy deep-fried flower-shaped snack, 170 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "KozhiKoden's Banana Sweetened (Sharkara Upperi) 200g",
+      "price": 4.43,
+      "description": "KozhiKoden's Banana Sweetened (Sharkara Upperi) 200g",
+      "category": "SNACK",
+      "simplified_description": "Sweetened banana chips with jaggery, 200 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kozhikoden's Coconut Milk Bruise 150g",
+      "price": 5.0,
+      "description": "Kozhikoden's Coconut Milk Bruise 150g",
+      "category": "SNACK",
+      "simplified_description": "Snack made with coconut milk, 150 grams.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

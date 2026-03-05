@@ -1,0 +1,459 @@
+{
+  "restaurant": "dillospizza",
+  "parsed_at": "2026-02-06T01:59:00.725744",
+  "item_count": 44,
+  "items": [
+    {
+      "name": "Donair",
+      "price": null,
+      "description": "Donair Beef, Onion, Tomato, Donair Sauce & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Beef donair with onion, tomato, sauce, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": null,
+      "description": "Chicken Shawarma, Onion, Tomato, Sweet Sauce & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Chicken shawarma with onion, tomato, sweet sauce, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New* Spinach Delight",
+      "price": null,
+      "description": "Spinach, Feta, Fresh Tomato, Sauce & Mozzarella Cheese",
+      "category": "FOOD",
+      "simplified_description": "Spinach pizza with feta, tomato, sauce, and mozzarella cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita",
+      "price": null,
+      "description": "Fresh Tomato, Fresh Basil, Sauce & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Classic pizza with tomato, basil, sauce, and cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe",
+      "price": null,
+      "description": "Green Pepper, Onion, Pepperoni, Italian Sausage, Mushroom & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pizza with green pepper, onion, pepperoni, sausage, mushroom, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Pepperoni",
+      "price": null,
+      "description": "Extra Pepperoni & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pizza loaded with extra pepperoni and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hawaiian",
+      "price": null,
+      "description": "Ham, Pineapple & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Pizza topped with ham, pineapple, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dillo's Fried Pickles",
+      "price": 6.99,
+      "description": "5pc Battered pickle spears with Honey Dill sauce",
+      "category": "SIDE",
+      "simplified_description": "Five battered pickle spears served with honey dill sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Strips & Fries",
+      "price": 9.99,
+      "description": "Juicy all white meat chicken strips with our Skin on Fries. Enjoy as a 3 piece or 5 piece.",
+      "category": "SIDE",
+      "simplified_description": "White meat chicken strips served with skin-on fries.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 4.99,
+      "description": "Customer rated number 1 seller. Best poutine in town, made with delicious skin on fries, three blend cheese and smothered with our in house gravy.",
+      "category": "SIDE",
+      "simplified_description": "Skin-on fries topped with cheese blend and house gravy.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": "Customer rated number 1 seller"
+    },
+    {
+      "name": "Garlic Bread Sticks",
+      "price": 4.99,
+      "description": "8 Piece Parmesan garlic bread sticks with our house blend marinara sauce",
+      "category": "SIDE",
+      "simplified_description": "Eight parmesan garlic bread sticks with marinara sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chessy Bread",
+      "price": 9.99,
+      "description": "10 piece cheesy bread sticks, loaded with cheese absolutely mouth watering",
+      "category": "SIDE",
+      "simplified_description": "Ten cheesy bread sticks loaded with melted cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stuffed Cheesy Bread Sticks",
+      "price": 10.99,
+      "description": "5 piece stuffed bread sticks",
+      "category": "SIDE",
+      "simplified_description": "Five bread sticks stuffed with cheese.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Large Calzone",
+      "price": 16.99,
+      "description": "Delicious Garlic Parmesan Calzone Choose 3 Toppings Plus Sauce & Cheese",
+      "category": "FOOD",
+      "simplified_description": "Garlic parmesan calzone with three toppings, sauce, and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 7.99,
+      "description": "8 piece mozzarella sticks with our house blend marinara sauce",
+      "category": "SIDE",
+      "simplified_description": "Eight mozzarella sticks served with marinara sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Battered Fries",
+      "price": 3.99,
+      "description": "Dillo's mouth watering battered fries cook to a crisp.",
+      "category": "SIDE",
+      "simplified_description": "Crispy battered fries cooked to a golden crisp.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Skin On Fries",
+      "price": 3.49,
+      "description": "Traditional skin on fries",
+      "category": "SIDE",
+      "simplified_description": "Classic fries with skin left on for extra texture.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls",
+      "price": 6.99,
+      "description": "8 piece traditional spring rolls with your choice of sweet & sour sauce or plum sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Eight traditional spring rolls served with sweet or plum sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa",
+      "price": 9.99,
+      "description": "8 piece vegetable samosa with sweet chili sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Eight vegetable samosas served with sweet chili sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Sandwich",
+      "price": 4.69,
+      "description": "Garlic Aioli or Spicy: crispy chicken patty, romaine lettuce, Dill pickles ( jalapeno for spicy), sauce on a white seedless bun!",
+      "category": "OTHER",
+      "simplified_description": "Crispy chicken sandwich with lettuce, pickles, and choice of sauce.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "Snack Wraps",
+      "price": 3.29,
+      "description": "Three to choose from: Ranch, BBQ and Spicy. All 4 come with, crispy chicken and cheese",
+      "category": "OTHER",
+      "simplified_description": "Wraps with crispy chicken, cheese, and choice of ranch, BBQ, or spicy sauce.",
+      "dietary_info": [],
+      "other_info": "Spicy option available"
+    },
+    {
+      "name": "Gravy",
+      "price": 1.99,
+      "description": "Tasty home style gravy enjoy either a SM, MED or XL",
+      "category": "OTHER",
+      "simplified_description": "Homestyle gravy available in small, medium, or extra large sizes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Old Dutch Chips",
+      "price": 1.69,
+      "description": "Ketchup, BBQ, Salt & Vinegar, Sour Cream & Onion, Original & Kettle Cooked Jalapeno Cheddar",
+      "category": "OTHER",
+      "simplified_description": "Variety of flavored chips including classic and spicy options.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dips",
+      "price": 1.29,
+      "description": "Creamy Garlic, Roasted Garlic, Cheddar Chipotle, Cheesy Jalapeno, Blue Cheese, Sweet Garlic, Buffalo, Ancho Chipotle, BBQ, Honey Garlic, Sweet Chill & Ranch",
+      "category": "OTHER",
+      "simplified_description": "Assorted dips including garlic, cheese, spicy, and BBQ flavors.",
+      "dietary_info": [],
+      "other_info": "Includes spicy options"
+    },
+    {
+      "name": "4 Piece Crispy Chicken",
+      "price": 14.99,
+      "description": "4 Pieces of Chicken, Small, Fries &Small Gravy",
+      "category": "OTHER",
+      "simplified_description": "Meal with 4 crispy chicken pieces, small fries, and small gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pieces Crispy Chicken",
+      "price": 21.99,
+      "description": "6 Pieces of Chicken, Small Fries & Small Gravy",
+      "category": "OTHER",
+      "simplified_description": "Meal with 6 crispy chicken pieces, small fries, and small gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "8 Pieces Crispy Chicken",
+      "price": 27.99,
+      "description": "8 Pieces of Chicken, Medium Fries & Medium Gravy",
+      "category": "OTHER",
+      "simplified_description": "Meal with 8 crispy chicken pieces, medium fries, and medium gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10 Pieces Crispy Chicken",
+      "price": 38.99,
+      "description": "10 Pieces of Chicken, Large Fries & Large Gravy",
+      "category": "OTHER",
+      "simplified_description": "Meal with 10 crispy chicken pieces, large fries, and large gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "12 Piece Crispy Chicken",
+      "price": 43.99,
+      "description": "12 Pieces of Chicken, Large Fries & Large Gravy",
+      "category": "OTHER",
+      "simplified_description": "Meal with 12 crispy chicken pieces, large fries, and large gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wings",
+      "price": 11.49,
+      "description": "12 piece, 24 piece, 36 piece, 48 piece",
+      "category": "OTHER",
+      "simplified_description": "Chicken wings available in quantities of 12, 24, 36, or 48 pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Donair Poutine",
+      "price": 15.99,
+      "description": "Skin on Fries, Donair Meat, Onion, Fresh Tomato, Cheese, Gravy and Sweet Garlic Sauce",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with donair meat, cheese, gravy, and sweet garlic sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Shawarma Poutine",
+      "price": 15.99,
+      "description": "Skin on Fries, Chicken Breast, Onion, Fresh Tomato, Cheese Gravy and Sweet Garlic Sauce",
+      "category": "FOOD",
+      "simplified_description": "Fries with chicken breast, cheese, gravy, and sweet garlic sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Chicken Poutine",
+      "price": 15.99,
+      "description": "Skin on Fries, BBQ Chicken, Onion, Fresh Tomato, Gravy and Cheese",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with BBQ chicken, cheese, gravy, and fresh vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Poutine",
+      "price": 15.99,
+      "description": "Skin on Fries, Chicken Breast, Green Peppers, Onion, Signature Buffalo Sauce, Cheese and Gravy",
+      "category": "FOOD",
+      "simplified_description": "Fries with chicken, buffalo sauce, cheese, gravy, and vegetables.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Bacon Poutine",
+      "price": 15.99,
+      "description": "Skin on Fries, Smokey Bacon, Cheese and Gravy",
+      "category": "FOOD",
+      "simplified_description": "Fries topped with smoky bacon, cheese, and gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Poutine",
+      "price": 15.99,
+      "description": "Skin on Fries, Fresh Tomato, Green Pepper, Black Olive, Onion, Cheese and Gravy",
+      "category": "FOOD",
+      "simplified_description": "Fries with fresh vegetables, cheese, and gravy.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Donair",
+      "price": 9.99,
+      "description": "Seasoned Chicken Breast with signature sweet garlic sauce, onion, fresh tomato and lettuce. Free add on's sweet pickle, banana pepper, jalapeno and hot sauce.",
+      "category": "WRAP",
+      "simplified_description": "Wrap with seasoned chicken, vegetables, and sweet garlic sauce.",
+      "dietary_info": [],
+      "other_info": "Free add-ons available"
+    },
+    {
+      "name": "Chicken Shawarma",
+      "price": 9.99,
+      "description": "Seasoned Chicken Breast with signature sweet garlic sauce, onion, fresh tomato and lettuce. Free add on's sweet pickle, banana pepper, jalapeno and hot sauce.",
+      "category": "WRAP",
+      "simplified_description": "Wrap with seasoned chicken, vegetables, and sweet garlic sauce.",
+      "dietary_info": [],
+      "other_info": "Free add-ons available"
+    },
+    {
+      "name": "Chicken Caesar Warp",
+      "price": 9.99,
+      "description": "Chicken breast, Romaine Lettuce, Croutons, Parmesan Cheese and Caesar",
+      "category": "WRAP",
+      "simplified_description": "Wrap with chicken, romaine, croutons, parmesan, and Caesar dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 6.99,
+      "description": "Romaine Lettuce , Black Olive, Onion, Fresh Tomato, Green Pepper, Feta Cheese, Cucumber & Greek Dressing",
+      "category": "SALAD",
+      "simplified_description": "Salad with romaine, vegetables, feta cheese, and Greek dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caeser Salad",
+      "price": 5.49,
+      "description": "Romaine Lettuce , Seasoned Croutons, Parmesan Cheese & Caesar Dressing",
+      "category": "SALAD",
+      "simplified_description": "Salad with romaine, croutons, parmesan, and Caesar dressing.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "355 mL pop cans",
+      "price": 2.25,
+      "description": "Pineapple Fanta, Cherry Coke, Coke, Pepsi, Sprite, Canada Dry Ginger Ale, A&W Root Beer, Orange Crush, Mountain Dew, Dr Pepper, Ice Tea, Diet Coke, Coke Zero",
+      "category": "DRINK",
+      "simplified_description": "Variety of 355 mL canned soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "2 L Pop Bottles",
+      "price": 4.25,
+      "description": "**Coke** **Pepsi** **Sprite** **Canada Dry Ginger Ale** **A &W Root Beer** **Pineapple Fanta** **Orange Crush** **Cream Soda** **Mountain Dew** **Dr Pepper** **Ice Tea** **Diet Coke**",
+      "category": "DRINK",
+      "simplified_description": "Variety of 2 L bottled soft drinks.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "500 mL Bottle Water",
+      "price": 1.99,
+      "description": "Real Canadian Natural Spring Water",
+      "category": "DRINK",
+      "simplified_description": "Natural spring water in a 500 mL bottle.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

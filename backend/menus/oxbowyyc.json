@@ -1,0 +1,477 @@
+{
+  "restaurant": "oxbowyyc",
+  "parsed_at": "2025-12-25T00:55:23.909202",
+  "item_count": 48,
+  "items": [
+    {
+      "name": "WARM OLIVES",
+      "price": 12,
+      "description": "rotating variety and flavours",
+      "simplified_description": "A selection of warm olives with different flavors",
+      "category": "Small Plates",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PUMPKIN RICOTTA TOAST",
+      "price": 16,
+      "description": "sesame garlic focaccia, whipped pumpkin ricotta, chili crisp",
+      "simplified_description": "Toast topped with whipped pumpkin cheese and chili",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BROWN BUTTER KALE SALAD",
+      "price": 17,
+      "description": "roasted sudo farms beets and yams, goat’s cheese coulis, ossau-iraty",
+      "simplified_description": "Salad with roasted beets, yams, and goat cheese",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CALAMARI",
+      "price": 18,
+      "description": "manchego, pimentón aioli, lemon vinaigrette, crispy roasted peppers and olives",
+      "simplified_description": "Fried squid served with cheese and spicy sauce",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HAMACHI CRUDO",
+      "price": 17,
+      "description": "sauce vierge, aioli, pommes allumettes",
+      "simplified_description": "Raw fish with a light sauce and fries",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DUCK WINGS",
+      "price": 19,
+      "description": "orange caramel, scallion powder, kimchi ranch, pommes allumettes",
+      "simplified_description": "Duck wings with a sweet sauce and fries",
+      "category": "Small Plates",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRUSSELS SPROUT CAESAR",
+      "price": 17,
+      "description": "crispy brussels sprouts, cauliflower, dill pickle caesar dressing, pickled onion, grana padano, bacon caper pangrattato",
+      "simplified_description": "Caesar salad with crispy Brussels sprouts and bacon",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BRIE EN BRIOCHE",
+      "price": 22,
+      "description": "prosciutto, house made brioche, rotating sauces, preserves and mustard",
+      "simplified_description": "Brioche with cheese, ham, and various sauces",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF TARTARE",
+      "price": 22,
+      "description": "scallion flatbread, manchego, black kale chimichurri, aioli, cured egg yolk",
+      "simplified_description": "Raw beef served with flatbread and sauces",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OYSTERS",
+      "price": 23,
+      "description": "six fresh oysters accompanied by a rotating mignonette, inspired by the weekly selection or oyster type",
+      "simplified_description": "Fresh oysters served with a special sauce",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHARCUTERIE",
+      "price": 28,
+      "description": "rotating selection of cured meats and cheeses from Peasant Cheese, house pickles, raincoast crisp",
+      "simplified_description": "A platter of cured meats and cheeses",
+      "category": "Small Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BAKE POTATO GNOCCHI",
+      "price": 24,
+      "description": "potato-infused cream, bacon crumb, mimolette cheese, pommes allumettes, and onion powder",
+      "simplified_description": "Gnocchi with creamy potato sauce and bacon",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DUCK CARBONARA",
+      "price": 26,
+      "description": "tagliolini, duck bacon, pecorino romano, 63° egg",
+      "simplified_description": "Pasta with duck bacon and a soft-cooked egg",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": "house made sourdough - $5"
+    },
+    {
+      "name": "OXBOW CASSOULET",
+      "price": 26,
+      "description": "house made miso, rotating bean variety, seasonal veg, house made sourdough, pommes allumettes",
+      "simplified_description": "A bean stew with seasonal vegetables",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BRAISED MISO MUSHROOMS & SWEET POTATO HUMMUS",
+      "price": 26,
+      "description": "DF, VEGAN\nrotating house miso, sweet potato hummus, thai basil emulsion, scallion flatbread, fresh radish, cucumber",
+      "simplified_description": "Mushrooms with sweet potato dip and flatbread",
+      "category": "Large Plates",
+      "dietary_info": [
+        "dairy-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "OXBOW BURGER",
+      "price": 30,
+      "description": "in house ground ribeye and short rib patty, beer cheese, mushroom ragout, brown sugar double smoked bacon, smoked potato wedges",
+      "simplified_description": "A burger made with ribeye and short rib meat",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BRAISED SHORT RIB & SWEET POTATO HUMMUS",
+      "price": 32,
+      "description": "DF\nsweet potato hummus, thai basil emulsion, scallion flatbread, fresh radish, cucumber",
+      "simplified_description": "Short rib with sweet potato dip and flatbread",
+      "category": "Large Plates",
+      "dietary_info": [
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "ROASTED HALF HEN",
+      "price": 38,
+      "description": "brussels sprout jus, smoked broccoli purée, leek and potato korokke, seasonal veg, caramelized honey",
+      "simplified_description": "Roasted chicken with vegetables and sauce",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DUCK BREAST",
+      "price": 38,
+      "description": "GA\nconfit leek rice, 63° egg, seasonal veg, chili crisp, thai basil emulsion, plum hoisin sauce",
+      "simplified_description": "Duck breast with rice and seasonal vegetables",
+      "category": "Large Plates",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHINOOK SALMON",
+      "price": 39,
+      "description": "crab chowder vol au vent, roe and herb sauce, blanched colomba potato and baby spinach",
+      "simplified_description": "Salmon with crab chowder and vegetables",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "10OZ SMOKED RIBEYE",
+      "price": 62,
+      "description": "GA\nsmoked gouda pomme puree, pommes allumettes, seasonal vegetables, peppercorn jus",
+      "simplified_description": "Smoked ribeye steak with mashed potatoes",
+      "category": "Large Plates",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHEF’S CHOICE",
+      "price": 70,
+      "description": "THREE-COURSE MENU - chef's daily whim",
+      "simplified_description": "A special three-course meal chosen by the chef",
+      "category": "Large Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CRÈME BRÛLÉE",
+      "price": 13,
+      "description": "Infused with locally sourced tea, olive oil streusel, fruit gel",
+      "simplified_description": "A creamy dessert with a caramelized top",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SEASONAL SORBET",
+      "price": 13,
+      "description": "DF/VEGAN/NF\nThree scoops of seasonal and locally sourced fruit sorbet",
+      "simplified_description": "Fruit sorbet made from seasonal fruits",
+      "category": "Desserts",
+      "dietary_info": [
+        "dairy-free",
+        "vegan",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "PUMPKIN BASQUE CHEESECAKE",
+      "price": 14,
+      "description": "Peach compote, olive oil streusel, pumpkin seed chantilly",
+      "simplified_description": "Cheesecake with pumpkin and peach topping",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BANANA BREAD TRES LECHE",
+      "price": 14,
+      "description": "White chocolate cremeux, brown butter pretzel crumb, fresh berries",
+      "simplified_description": "Banana bread dessert with chocolate and berries",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WARM S’MORES CAKE",
+      "price": 16,
+      "description": "GF,NF\nGraham crumb, smoked caramel, marshmallow ice cream",
+      "simplified_description": "A cake with graham cracker and marshmallow ice cream",
+      "category": "Desserts",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pinky’s Up",
+      "price": 15,
+      "description": "rosemary infused bombay gin, blueberry rooibos tea syrup, lime, tonic, rosemary",
+      "simplified_description": "A cocktail with gin and blueberry tea",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": 11,
+      "description": "choice of: vodka, gin or tequila",
+      "simplified_description": "A cocktail made with vodka, gin, or tequila",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mimosa",
+      "price": 13,
+      "description": "choice of: orange, pineapple, grapefruit",
+      "simplified_description": "A cocktail made with fruit juice",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loose Tea",
+      "price": 12,
+      "description": "Masala Chai, English Breakfast, Earl Grey, Green, Ginger Geranium (Decaf), Blueberry Rooibos (Decaf), Cinnamon Plum (Decaf), Earl Grey Rooibos (Decaf), Strawberry (Decaf), Peppermint (Decaf), Happy Day Chamomile Blend (Decaf)",
+      "simplified_description": "A selection of different types of tea",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HAPPY HOUR DRAUGHT",
+      "price": 7,
+      "description": "ROTATING DRAUGHT - 16oz",
+      "simplified_description": "A rotating selection of draft beer",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OAXACAN TWILIGHT",
+      "price": 20,
+      "description": "Fandango Mezcal, Crème de Cassis, Lime, Grenadine, Simple Syrup, Angostura Bitters",
+      "simplified_description": "A cocktail with mezcal and fruit flavors",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NOTTINGHAM HOUSE",
+      "price": 18,
+      "description": "Last Best Afterglow Gin, Benedictine, Strawberry Mint Tea Syrup, Lime Juice, Chamomile Tea",
+      "simplified_description": "A cocktail with gin and strawberry mint tea",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ORCHARD IN BRITTANY",
+      "price": 22,
+      "description": "dragon cecillon eau-de-vie, maraschino liqueur, lillet, honey syrup, lemon juice, pear bitters",
+      "simplified_description": "A cocktail with fruit flavors and bitters",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KENSINGTON PUNCH",
+      "price": 22,
+      "description": "planteray pineapple rum, banana liqueur, lime, simple syrup, tiki bitters, baking spice",
+      "simplified_description": "A fruity cocktail with rum and banana",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NO & LOW",
+      "price": 12,
+      "description": "ROTATING WINE GLASS POUR please ask your server for tonight's offering",
+      "simplified_description": "A rotating selection of wine by the glass",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tropical Winter",
+      "price": 12,
+      "description": "caleno mango passion fruit non-alc rum, spiced apple juice, ginger beer, lime juice, honey syrup",
+      "simplified_description": "A non-alcoholic cocktail with mango and apple",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RABBIT HOLE SPRITZ",
+      "price": 12,
+      "description": "wilfred’s bittersweet orange & rosemary, wander & found sparkling",
+      "simplified_description": "A sparkling cocktail with orange and rosemary",
+      "category": "Specialty Cocktails",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OYSTERS",
+      "price": 2,
+      "description": "DF/GA\nper oyster, mignonette (changes weekly), black kale chimichurri",
+      "simplified_description": "Single oyster served with sauce",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRUSSELS SPROUT & CAULIFLOWER CAESAR",
+      "price": 11,
+      "description": "crispy brussels sprouts, cauliflower, dill pickle caesar dressing, pickled onion, grana padano, bacon caper pangrattato",
+      "simplified_description": "Caesar salad with Brussels sprouts and cauliflower",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WARM OLIVES",
+      "price": 8,
+      "description": "GA/V\nmarinated in house, rotating variety and flavours",
+      "simplified_description": "A selection of warm olives with different flavors",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DEVILLED EGGS",
+      "price": 2.5,
+      "description": "GA\neach. weekly rotating flavour",
+      "simplified_description": "Deviled eggs with a changing flavor each week",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "SMOKED POTATO WEDGES",
+      "price": 8,
+      "description": "DF/GA/VEGAN\nketchup, truffle aioli",
+      "simplified_description": "Potato wedges served with sauces",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "DUCK WINGS",
+      "price": 12,
+      "description": "DF/GA\norange caramel, scallion powder, kimchi ranch",
+      "simplified_description": "Duck wings with a sweet sauce",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BRIE EN BRIOCHE",
+      "price": 10,
+      "description": "prosciutto, house brioche, rotating sauces, preserves and mustard",
+      "simplified_description": "Brioche with cheese, ham, and various sauces",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BEEF TARTARE",
+      "price": 10,
+      "description": "DF/GA\nscallion flatbread, black kale chimichurri, pickled red onion, aioli",
+      "simplified_description": "Raw beef served with flatbread and sauces",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [
+        "dairy-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE & CHARCUTERIE",
+      "price": 15,
+      "description": "rotating selection of cured meats and cheeses from Peasant Cheese, house pickles, raincoast crisp",
+      "simplified_description": "A platter of cured meats and cheeses",
+      "category": "Snacks & Solo Plates",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

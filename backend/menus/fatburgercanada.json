@@ -1,0 +1,96 @@
+{
+  "restaurant": "fatburgercanada",
+  "parsed_at": "2026-02-06T02:12:32.746210",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Lettuce Wrap Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger served in a lettuce wrap instead of a bun.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Double Fat Cheese",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with double cheese and beef patties.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Blackened Cajun Chicken",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Chicken seasoned with blackened Cajun spices.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Triple Kingburger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger with three beef patties and toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ultimate BBQ Burger",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Burger topped with BBQ sauce and classic fixings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo's World Famous Chicken Tenders & Wings",
+      "price": null,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Chicken tenders and wings with Buffalo sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chili Cheese Smash Burger Meal",
+      "price": 16.49,
+      "description": "Smashed ¼ lb Alberta beef patty, topped with savory beef chili and fresh pico de gallo. Served with crispy fries & a cold drink — all for just $16.49",
+      "category": "FOOD",
+      "simplified_description": "Beef burger with chili, pico de gallo, fries, and a drink.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Includes fries and drink"
+    },
+    {
+      "name": "Alberta beef patty",
+      "price": 14.49,
+      "description": "Smashed perfectly with cheese, grilled onions, and Smash Sauce. Served with skin-on fries and a drink at all Fatburger locations. Only $14.49!",
+      "category": "FOOD",
+      "simplified_description": "Beef patty with cheese, onions, Smash Sauce, fries, and a drink.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Includes fries and drink"
+    }
+  ]
+}

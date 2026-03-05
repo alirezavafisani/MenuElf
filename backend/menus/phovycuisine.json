@@ -1,0 +1,331 @@
+{
+  "restaurant": "phovycuisine",
+  "parsed_at": "2026-02-06T03:46:44.994092",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "Stir Fried Chicken & Veggies on Crispy Noodles",
+      "price": 20.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Chicken and assorted vegetables stir-fried and served over a bed of crispy noodles.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Chicken and assorted vegetables stir-fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Beef & Veggies on Crispy Noodles",
+      "price": 20.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Beef and assorted vegetables, including broccoli and carrots, stir-fried and served atop crispy noodles.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Beef and assorted vegetables, including br",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Seafood & Veggies on Crispy Noodles",
+      "price": 22.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Crispy egg noodles topped with stir-fried shrimp, crab sticks, bell peppers, carrots, and broccoli.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Crispy egg noodles topped with stir-fried ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Prawns, Beef, Chicken, & Veggies on Rice Noodles",
+      "price": 22.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Stir-fried prawns, beef, chicken, and assorted vegetables served on a bed of rice noodles, combining a mix of flavors and textures.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Stir-fried prawns, beef, chicken, and asso",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Beef & Veggies on Rice Noodles",
+      "price": 20.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Tender beef and assorted vegetables, including carrots and broccoli, stir-fried and served atop soft rice noodles.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Tender beef and assorted vegetables, inclu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Chicken & Veggies with Rice Noodles",
+      "price": 20.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Rice noodles stir-fried with chicken and a medley of vegetables, typically including carrots, broccoli, and onions.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Rice noodles stir-fried with chicken and a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Seafood & Veggies on Rice Noodles",
+      "price": 22.25,
+      "description": "Stir Fried Egg Noodle & Rice Noodle - Assorted seafood and vegetables stir-fried with delicate rice noodles in a savory sauce.",
+      "category": "FOOD",
+      "simplified_description": "Stir Fried Egg Noodle & Rice Noodle - Assorted seafood and vegetables stir-fried",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fried Rice",
+      "price": 19.74,
+      "description": "Fried Rice - shrimp, pork bbq. Pork ball , peas and carrots.No eggs",
+      "category": "FOOD",
+      "simplified_description": "Fried Rice - shrimp, pork bbq. Pork ball , peas and carrots.No eggs",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 18.75,
+      "description": "Fried Rice - Chicken fried rice, stir-fried, peas, carrots, and onions, traditionally prepared in a wok.",
+      "category": "FOOD",
+      "simplified_description": "Fried Rice - Chicken fried rice, stir-fried, peas, carrots, and onions, traditio",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp & Chicken Fried Rice",
+      "price": 20.25,
+      "description": "Fried Rice - Tender shrimp and chicken stir-fried with rice, mixed with peas and diced carrots.",
+      "category": "FOOD",
+      "simplified_description": "Fried Rice - Tender shrimp and chicken stir-fried with rice, mixed with peas and",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp & Fried Rice",
+      "price": 20.25,
+      "description": "Fried Rice - Shrimp stir-fried with rice, peas, and carrots, often garnished with green onions.",
+      "category": "FOOD",
+      "simplified_description": "Fried Rice - Shrimp stir-fried with rice, peas, and carrots, often garnished wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Fried Rice",
+      "price": 17.75,
+      "description": "Fried Rice - Fried rice and a mix of vegetables such as peas, carrots, and seasoned with soy sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fried Rice - Fried rice and a mix of vegetables such as peas, carrots, and seaso",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Espresso Iced Coffee with Condensed Milk",
+      "price": 8.25,
+      "description": "Strong Vietnamese espresso served over ice, sweetened with condensed milk.",
+      "category": "DRINK",
+      "simplified_description": "Strong Vietnamese espresso served over ice, sweetened with condensed milk.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Espresso Black Iced Coffee",
+      "price": 7.75,
+      "description": "Strong Vietnamese espresso served over ice, typically without condensed milk.",
+      "category": "DRINK",
+      "simplified_description": "Strong Vietnamese espresso served over ice, typically without condensed milk.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Lemonade",
+      "price": 8.25,
+      "description": "Sparkling lemonade with crisp bubbles for a refreshing uplift.",
+      "category": "DRINK",
+      "simplified_description": "Sparkling lemonade with crisp bubbles for a refreshing uplift.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Coconut Juice",
+      "price": 8.25,
+      "description": "Fresh, hydrating coconut juice with natural sweetness and tropical refreshment.",
+      "category": "DRINK",
+      "simplified_description": "Fresh, hydrating coconut juice with natural sweetness and tropical refreshment.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Orange Juice",
+      "price": 5.74,
+      "description": "Freshly squeezed orange juice, typically served chilled.",
+      "category": "DRINK",
+      "simplified_description": "Freshly squeezed orange juice, typically served chilled.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Apple Juice",
+      "price": 5.74,
+      "description": "Freshly extracted apple juice, offering a sweet and refreshing taste.",
+      "category": "DRINK",
+      "simplified_description": "Freshly extracted apple juice, offering a sweet and refreshing taste.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drink",
+      "price": 4.25,
+      "description": "root beer, coke, pepsi, sprite, ginger ale, sprite, ice tea",
+      "category": "DRINK",
+      "simplified_description": "root beer, coke, pepsi, sprite, ginger ale, sprite, ice tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bubble Tea Fresh",
+      "price": 8.74,
+      "description": "strawberry, mango, avocado",
+      "category": "DRINK",
+      "simplified_description": "strawberry, mango, avocado",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Powder Bubble Tea",
+      "price": 8.25,
+      "description": "taro, watermelon, strawberry, lychee, coconut, honey dew",
+      "category": "DRINK",
+      "simplified_description": "taro, watermelon, strawberry, lychee, coconut, honey dew",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Banana & Ice Cream",
+      "price": 8.74,
+      "description": "Bananas wrapped and deep-fried, served with a scoop of vanilla ice cream and a drizzle of Condensed milk.",
+      "category": "DESSERT",
+      "simplified_description": "Bananas wrapped and deep-fried, served with a scoop of vanilla ice cream and a d",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream",
+      "price": 8.25,
+      "description": "vanilla",
+      "category": "DESSERT",
+      "simplified_description": "vanilla",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Banh Mi Op La & Soup",
+      "price": 15.9,
+      "description": "Vietnamese egg sandwich with a side of beef soup. Add beef or chicken +$2.99",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese egg sandwich with a side of beef soup. Add beef or chicken +$2.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad Roll Taster Plate",
+      "price": 7.85,
+      "description": "Beef and chicken salad rolls so you don't have to choose one",
+      "category": "FOOD",
+      "simplified_description": "Beef and chicken salad rolls so you don't have to choose one",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Deep Fried Taster Plate",
+      "price": 14.5,
+      "description": "3 pork wontons, 3 dumplings, 3 deep fried shrimp",
+      "category": "FOOD",
+      "simplified_description": "3 pork wontons, 3 dumplings, 3 deep fried shrimp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "White Wine 6oz (House wine)",
+      "price": 7.99,
+      "description": "",
+      "category": "ALCOHOLIC DRINKS",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Red Wine 6oz (House wine)",
+      "price": 7.99,
+      "description": "Bottles available to order, price varies",
+      "category": "ALCOHOLIC DRINKS",
+      "simplified_description": "Bottles available to order, price varies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Berry Blush 1oz",
+      "price": 11.0,
+      "description": "A boozy strawberry slush with a splash of grenadine",
+      "category": "ALCOHOLIC DRINKS",
+      "simplified_description": "A boozy strawberry slush with a splash of grenadine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Golden Glow 1oz",
+      "price": 11.0,
+      "description": "A mango boozy drink with a splash of grenadine, topped with mint",
+      "category": "ALCOHOLIC DRINKS",
+      "simplified_description": "A mango boozy drink with a splash of grenadine, topped with mint",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Highballs 1oz",
+      "price": 6.99,
+      "description": "Make it a double +$2.99",
+      "category": "ALCOHOLIC DRINKS",
+      "simplified_description": "Make it a double +$2.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Espresso Martini 1oz",
+      "price": 11.5,
+      "description": "A twist on a classic espresso martini, that's stronger and boozier",
+      "category": "ALCOHOLIC DRINKS",
+      "simplified_description": "A twist on a classic espresso martini, that's stronger and boozier",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona 0% Proof",
+      "price": 5.5,
+      "description": "",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sparkling Lemonade",
+      "price": 7.5,
+      "description": "",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bubble Tea",
+      "price": 7.99,
+      "description": "",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Coffee with Condensed Milk",
+      "price": 7.99,
+      "description": "",
+      "category": "NON-ALCOHOLIC",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

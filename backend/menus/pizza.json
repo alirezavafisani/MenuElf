@@ -1,0 +1,169 @@
+{
+  "restaurant": "pizza",
+  "parsed_at": "2026-02-06T03:49:13.996190",
+  "item_count": 18,
+  "items": [
+    {
+      "name": "Add 4 Dip Cups to your Order",
+      "price": 3.99,
+      "description": "Add 4 Dip Cups to your Order",
+      "category": "OTHER",
+      "simplified_description": "Add 4 Dip Cups to your Order",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Large 3 Topping Pizzas",
+      "price": 44.99,
+      "description": "3 Large 3 Topping Pizzas",
+      "category": "FOOD",
+      "simplified_description": "3 Large 3 Topping Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Large Feast Pizza",
+      "price": 20.99,
+      "description": "1 Large Feast Pizza",
+      "category": "FOOD",
+      "simplified_description": "1 Large Feast Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Add a 6-piece Marbled Cookie Brownie",
+      "price": 3.99,
+      "description": "Add a 6-piece Marbled Cookie Brownie",
+      "category": "DESSERT",
+      "simplified_description": "Add a 6-piece Marbled Cookie Brownie",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Large 4 Topping Pizza",
+      "price": 15.99,
+      "description": "1 Large 4 Topping Pizza",
+      "category": "FOOD",
+      "simplified_description": "1 Large 4 Topping Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Unlimited Large 2 Topping Pizzas. (Price is per pizza. 2 Pizza Minimum.)",
+      "price": 13.99,
+      "description": "Unlimited Large 2 Topping Pizzas. (Price is per pizza. 2 Pizza Minimum.)",
+      "category": "FOOD",
+      "simplified_description": "Unlimited Large 2 Topping Pizzas. (Price is per pizza. 2 Pizza Minimum.)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium 1-Topping Pan Pizzas",
+      "price": 12.99,
+      "description": "Medium 1-Topping Pan Pizzas",
+      "category": "FOOD",
+      "simplified_description": "Medium 1-Topping Pan Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Choose Any Oven Baked Pasta or Specialty Chicken",
+      "price": 9.99,
+      "description": "Choose Any Oven Baked Pasta or Specialty Chicken",
+      "category": "FOOD",
+      "simplified_description": "Choose Any Oven Baked Pasta or Specialty Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Choose any 2 or more: Cinna Stix®, Breadsticks, 2 Chocolate Lava Crunch Cakes, 1 6pc Marbled Cookie Brownie, or 16pc Parmesan Bread Bites. Price is per item. (Cheesy Bread may be included at an additional charge)",
+      "price": 4.99,
+      "description": "Choose any 2 or more: Cinna Stix®, Breadsticks, 2 Chocolate Lava Crunch Cakes, 1 6pc Marbled Cookie Brownie, or 16pc Parmesan Bread Bites. Price is per item. (Cheesy Bread may be included at an additional charge)",
+      "category": "SIDE",
+      "simplified_description": "Choose any 2 or more: Cinna Stix®, Breadsticks, 2 Chocolate Lava Crunch Cakes, 1",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Large Brooklyn Style Pepperoni Pizza",
+      "price": 15.99,
+      "description": "1 Large Brooklyn Style Pepperoni Pizza",
+      "category": "FOOD",
+      "simplified_description": "1 Large Brooklyn Style Pepperoni Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Medium 1-Topping Parmesan Stuffed Crust Pizzas",
+      "price": 16.99,
+      "description": "Medium 1-Topping Parmesan Stuffed Crust Pizzas",
+      "category": "FOOD",
+      "simplified_description": "Medium 1-Topping Parmesan Stuffed Crust Pizzas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Medium 3 Topping Pizza and Domino's Pizza Cheesy Bread",
+      "price": 19.99,
+      "description": "1 Medium 3 Topping Pizza and Domino's Pizza Cheesy Bread",
+      "category": "FOOD",
+      "simplified_description": "1 Medium 3 Topping Pizza and Domino's Pizza Cheesy Bread",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Anything Goes! Any Large Pizza with Any Toppings (Limit 7 Toppings)",
+      "price": 20.99,
+      "description": "Anything Goes! Any Large Pizza with Any Toppings (Limit 7 Toppings)",
+      "category": "FOOD",
+      "simplified_description": "Anything Goes! Any Large Pizza with Any Toppings (Limit 7 Toppings)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Lava Crunch Cakes",
+      "price": 6.99,
+      "description": "2 Lava Crunch Cakes",
+      "category": "DESSERT",
+      "simplified_description": "2 Lava Crunch Cakes",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Get Any 2 or More: Med 2 Topping Pizza, Stuffed Cheesy Bread, Pasta, Chicken, Desserts and More (extra charge may apply for chicken products and speciality crusts). Price is per item.",
+      "price": 8.99,
+      "description": "Get Any 2 or More: Med 2 Topping Pizza, Stuffed Cheesy Bread, Pasta, Chicken, Desserts and More (extra charge may apply for chicken products and speciality crusts). Price is per item.",
+      "category": "FOOD",
+      "simplified_description": "Get Any 2 or More: Med 2 Topping Pizza, Stuffed Cheesy Bread, Pasta, Chicken, De",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Build your own pizza with ANY TOPPINGS. Choose Parmesan Stuffed Crust for an additional fee. Excludes XL and Feast pizzas, topping limit of 7 applies (6 for Pan Pizza)",
+      "price": 13.99,
+      "description": "Build your own pizza with ANY TOPPINGS. Choose Parmesan Stuffed Crust for an additional fee. Excludes XL and Feast pizzas, topping limit of 7 applies (6 for Pan Pizza)",
+      "category": "FOOD",
+      "simplified_description": "Build your own pizza with ANY TOPPINGS. Choose Parmesan Stuffed Crust for an add",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 500ml Drinks and 2 Dip Cups",
+      "price": 5.99,
+      "description": "2 500ml Drinks and 2 Dip Cups",
+      "category": "DRINK",
+      "simplified_description": "2 500ml Drinks and 2 Dip Cups",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carry Out Special - 1 Large 2 Topping Pizza",
+      "price": 12.99,
+      "description": "Carry Out Special - 1 Large 2 Topping Pizza",
+      "category": "FOOD",
+      "simplified_description": "Carry Out Special - 1 Large 2 Topping Pizza",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

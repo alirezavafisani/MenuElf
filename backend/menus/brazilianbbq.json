@@ -1,0 +1,194 @@
+{
+  "restaurant": "brazilianbbq",
+  "parsed_at": "2026-02-06T01:14:38.016215",
+  "item_count": 15,
+  "items": [
+    {
+      "name": "Caipirinha",
+      "price": null,
+      "description": "The original Brazilian cocktail, famous for its kick and flavour. Just add ice, kick it up with a few slices of lime and it's ready to go.",
+      "category": "DRINK",
+      "simplified_description": "Classic Brazilian lime and sugar cocktail with a strong kick.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 6.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Toasted bread topped with garlic and butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Torresmo",
+      "price": 6.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Crispy fried pork belly snack.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coxinha",
+      "price": 10.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Fried dough filled with shredded chicken.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 10.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Salad with romaine, croutons, cheese, and Caesar dressing.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Feijoada Completa",
+      "price": 13.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Traditional Brazilian black bean stew with pork and beef.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Xis Beef",
+      "price": 15.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Brazilian-style beef sandwich with toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Xis Veggie",
+      "price": 15.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Brazilian-style vegetarian sandwich with toppings.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Xis Chicken",
+      "price": 15.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Brazilian-style chicken sandwich with toppings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Barbecue Platter",
+      "price": 39.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "Mixed grilled meats served together.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "Blueberry Breeze",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Refreshing blueberry-flavored beverage.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Limonade",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Classic lemon-flavored refreshing drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Gaucho Lager or IPA",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Choice of Gaucho Lager or IPA beer.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Red or White Wine, House 6oz",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "House red or white wine served in 6oz glass.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "All Well Highballs",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Mixed highball cocktails with various spirits.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

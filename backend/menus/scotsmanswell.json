@@ -1,0 +1,169 @@
+{
+  "restaurant": "scotsmanswell",
+  "total_items": 23,
+  "text_items": 23,
+  "image_items": 0,
+  "items": [
+    {
+      "name": "Captain Morgan Spiced Rum",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Beef Dip",
+      "price": "$15",
+      "description": "Served with fries, lagers, artisan or Caesar salad",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": "$17",
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Miller Lite or Big Rock Traditional Schooners",
+      "price": "$10",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Village Apple Cider (20 oz)",
+      "price": "$8",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Simply Spiked Lemonade (355 ml)",
+      "price": "$7.50",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Jack Daniel\u2019s, Fire Jack, or Honey Jack",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "One Piece Fish & Chips",
+      "price": "$14",
+      "description": "Served with fries, coleslaw & tartar sauce\n_Add another piece for $3_",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Burger Night",
+      "price": "$16",
+      "description": "Classic with Cheese or Veggie\nServed with fries or lagers",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Schooners",
+      "price": "$10",
+      "description": "_Grizzly Paw Honey Wheat or Village Blacksmith_",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Burt Reynolds",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "2 oz Old Fashioned",
+      "price": "$12",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Vodka Paralyzer",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Classic Omelette",
+      "price": "$14",
+      "description": "Three-egg omelette with cheese, hashbrowns & toast (multigrain, white, or rye)\n_Add-ons:_ ham, bacon, Italian sausage, onions, tomato, green pepper, mushrooms, olives, jalape\u00f1os \u2013 $0.50 each",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Eggs Benny",
+      "price": "$14",
+      "description": "Two poached eggs with ham on English muffins topped with hollandaise sauce, served with hashbrowns",
+      "category": "FOOD",
+      "source": "text"
+    },
+    {
+      "name": "Mugs of Draught",
+      "price": "$6",
+      "description": "(Excludes imports)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Pints of Draught",
+      "price": "$8",
+      "description": "(Excludes imports)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Schooners of Draught",
+      "price": "$10",
+      "description": "(Excludes imports)",
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Caesars",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Fireball Shot",
+      "price": "$6.75",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "Mimosas",
+      "price": "$6",
+      "description": null,
+      "category": "DRINK",
+      "source": "text"
+    },
+    {
+      "name": "All Day / All Night Wings",
+      "price": "$8 per lb",
+      "description": null,
+      "category": "FOOD",
+      "source": "text"
+    }
+  ]
+}

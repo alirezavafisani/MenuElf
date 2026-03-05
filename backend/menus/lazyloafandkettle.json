@@ -1,0 +1,520 @@
+{
+  "restaurant": "lazyloafandkettle",
+  "parsed_at": "2026-02-06T03:04:14.948739",
+  "item_count": 57,
+  "items": [
+    {
+      "name": "Breakfast Buffet",
+      "price": null,
+      "description": "Scrambled eggs, Hash browns, two pieces of Bacon or Sausage and a freshly baked Kettle Bun (minimum 10 people)",
+      "category": "FOOD",
+      "simplified_description": "Scrambled eggs, Hash browns, two pieces of Bacon or Sausage and a freshly baked ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bunwich",
+      "price": null,
+      "description": "Kettle bun topped with an Egg and/or Ham, Bacon, Sausage or Avocado with your choice of cheddar, swiss, gouda or provolone cheese with tomato slices and lettuce on the side. (minimum 10 people). Add hashbrowns ($5.5/person) or Fruit Salad ($7.5/person)",
+      "category": "FOOD",
+      "simplified_description": "Kettle bun topped with an Egg and/or Ham, Bacon, Sausage or Avocado with your ch",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Parfait",
+      "price": null,
+      "description": "Homemade Granola, fresh fruit and yogurt (minimum 10 people)",
+      "category": "FOOD",
+      "simplified_description": "Homemade Granola, fresh fruit and yogurt (minimum 10 people)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Burrito",
+      "price": null,
+      "description": "Filled with scrambled eggs, cheese, hashbrowns, bell pepper, onions, black beans, cilantro, sour cream and salsa. (minimum 10 people)",
+      "category": "FOOD",
+      "simplified_description": "Filled with scrambled eggs, cheese, hashbrowns, bell pepper, onions, black beans",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Hash",
+      "price": null,
+      "description": "Scrambled Eggs, Bacon, Ham, Onions, Red and Green Peppers on a bed of Potatoes topped with cheese (minimum 10 people)",
+      "category": "FOOD",
+      "simplified_description": "Scrambled Eggs, Bacon, Ham, Onions, Red and Green Peppers on a bed of Potatoes t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rocky Mountain Pancakes",
+      "price": null,
+      "description": "2 MASSIVE buttermilk pancakes with bacon, ham, or sausage (minimum 10 people)",
+      "category": "FOOD",
+      "simplified_description": "2 MASSIVE buttermilk pancakes with bacon, ham, or sausage (minimum 10 people)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sandwich Tray",
+      "price": null,
+      "description": "An assortment of fresh cut deli meats, tuna, vegetables and cheeses on our freshly baked Kettle, Sourdough, French and Rye Bread (we recommend 1 per person)(minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "An assortment of fresh cut deli meats, tuna, vegetables and cheeses on our fresh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Tray",
+      "price": null,
+      "description": "Medium aged Cheddar, Swiss, Provolone, Gouda Cheese served with crackers (minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "Medium aged Cheddar, Swiss, Provolone, Gouda Cheese served with crackers (minimu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit Tray",
+      "price": null,
+      "description": "A choice selection of fresh seasonal fruits accompanied by a house-made vanilla yogurt dip (minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "A choice selection of fresh seasonal fruits accompanied by a house-made vanilla ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Tray",
+      "price": null,
+      "description": "A choice selection of fresh season vegetables accompanied with house-made creamy ranch dressing (minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "A choice selection of fresh season vegetables accompanied with house-made creamy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit & Cheese Tray",
+      "price": null,
+      "description": "A choice selection of fresh season fruits accompanied by a selection of cheeses garnished with crackers (minimum order 10 person tray)",
+      "category": "FOOD",
+      "simplified_description": "A choice selection of fresh season fruits accompanied by a selection of cheeses ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat & Cheese Tray",
+      "price": null,
+      "description": "An assortment of cheeses, deli meats accompanied by dijon mustards and garnished with dill pickles, includes crackers. (minimum order 10 person tray)",
+      "category": "FOOD",
+      "simplified_description": "An assortment of cheeses, deli meats accompanied by dijon mustards and garnished",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Charcuterie Tray",
+      "price": null,
+      "description": "An assortment of premium cured meats, artisanal cheeses, delectable accompaniments and crackers (minimum order 10 person tray)",
+      "category": "FOOD",
+      "simplified_description": "An assortment of premium cured meats, artisanal cheeses, delectable accompanimen",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Tray",
+      "price": null,
+      "description": "An assortment of homemade muffins, banana loaves, and scones",
+      "category": "FOOD",
+      "simplified_description": "An assortment of homemade muffins, banana loaves, and scones",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dessert Tray",
+      "price": null,
+      "description": "All dessert items are homemade right here at the Lazy Loaf & Kettle. These treats will satisfy any sweet tooth (3 pieces per person) (minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "All dessert items are homemade right here at the Lazy Loaf & Kettle. These treat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Croissant Tray",
+      "price": null,
+      "description": "An assortment of butter, cheese, chocolate croissants and cinnamon twists (minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "An assortment of butter, cheese, chocolate croissants and cinnamon twists (minim",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cookie Tray",
+      "price": null,
+      "description": "An assortment of giant cookies, cut in half. Browned butter chocolate chip, oatmeal raisin, peanut butter, ginger, and smartie (minimum order 6 person tray) (1 cookie per person)",
+      "category": "FOOD",
+      "simplified_description": "An assortment of giant cookies, cut in half. Browned butter chocolate chip, oatm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cupcakes Tray",
+      "price": null,
+      "description": "A variety or chocolate and vanilla cupcakes with buttercream and chocolate icing (minimum order 6 person tray)",
+      "category": "FOOD",
+      "simplified_description": "A variety or chocolate and vanilla cupcakes with buttercream and chocolate icing",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quiche (GF)",
+      "price": null,
+      "description": "Made with potato crust instead of pastry. Your choice of fillings: Lorraine (bacon, ham, chives), Broccoli & Mushroom, Three Cheese With Onions.",
+      "category": "FOOD",
+      "simplified_description": "Made with potato crust instead of pastry. Your choice of fillings: Lorraine (bac",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Lasagna",
+      "price": null,
+      "description": "Mixed Veggies in a tangy tomato sauce, layers of cheese, noodles and zucchini. Also available in cream sauce.",
+      "category": "FOOD",
+      "simplified_description": "Mixed Veggies in a tangy tomato sauce, layers of cheese, noodles and zucchini. A",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Lasagna",
+      "price": null,
+      "description": "Traditional with chicken sauce, veggies, mushrooms and cheese.",
+      "category": "FOOD",
+      "simplified_description": "Traditional with chicken sauce, veggies, mushrooms and cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Lasagna",
+      "price": null,
+      "description": "Traditional with meat sauce, veggies, mushrooms and cheese",
+      "category": "FOOD",
+      "simplified_description": "Traditional with meat sauce, veggies, mushrooms and cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sheppard's Pie (GF)",
+      "price": null,
+      "description": "Traditional spiced ground beef, corn and onions in a tasty beef sauce topped with mashed potatoes.",
+      "category": "FOOD",
+      "simplified_description": "Traditional spiced ground beef, corn and onions in a tasty beef sauce topped wit",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Chili (GF)",
+      "price": null,
+      "description": "Mixed veggies in a tasty tomato sauce with chick peas and beans served with Kettle Buns",
+      "category": "FOOD",
+      "simplified_description": "Mixed veggies in a tasty tomato sauce with chick peas and beans served with Kett",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Chili (GF)",
+      "price": null,
+      "description": "Mixed veggies with beef kicked up with some cayenne flavour served with Kettle Buns",
+      "category": "FOOD",
+      "simplified_description": "Mixed veggies with beef kicked up with some cayenne flavour served with Kettle B",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic Baked Mac & Cheese",
+      "price": null,
+      "description": "Our Classic Mac & Cheese topped with a Panko Crust and baked with layers of Cheese",
+      "category": "FOOD",
+      "simplified_description": "Our Classic Mac & Cheese topped with a Panko Crust and baked with layers of Chee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Southwestern Baked Mac & Cheese",
+      "price": null,
+      "description": "Our classic recipe kicked up with Jalapenos, Red and Green Peppers and Spices topped with a Panko Crust and baked with layers of cheese",
+      "category": "FOOD",
+      "simplified_description": "Our classic recipe kicked up with Jalapenos, Red and Green Peppers and Spices to",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Penne Alfredo",
+      "price": null,
+      "description": "A housemade vegetable medley alfredo sauce on penne (with or without chicken), topped with asiago cheese and parsley. Accompanied with a kettle bun.",
+      "category": "FOOD",
+      "simplified_description": "A housemade vegetable medley alfredo sauce on penne (with or without chicken), t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pulled Pork Sandwich",
+      "price": null,
+      "description": "House smoked pork shoulder, loafer BBQ sauce, toasted cumin coleslaw served with fluffy buns. Includes side salad",
+      "category": "FOOD",
+      "simplified_description": "House smoked pork shoulder, loafer BBQ sauce, toasted cumin coleslaw served with",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Brisket Sandwich",
+      "price": null,
+      "description": "House beef brisket, loafer BBQ sauce, toasted cumin coleslaw served with fluffy buns. Includes side salad",
+      "category": "FOOD",
+      "simplified_description": "House beef brisket, loafer BBQ sauce, toasted cumin coleslaw served with fluffy ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Side Soup",
+      "price": null,
+      "description": "Your choice of cream or broth",
+      "category": "FOOD",
+      "simplified_description": "Your choice of cream or broth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bagged Lunches",
+      "price": null,
+      "description": "In each Bagged Lunch you get: a Sandwich on our Kettle Bread, Veggies, Cookie and a bottle of Juice",
+      "category": "FOOD",
+      "simplified_description": "In each Bagged Lunch you get: a Sandwich on our Kettle Bread, Veggies, Cookie an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Bagged Lunch",
+      "price": null,
+      "description": "In each Bagged Lunch you get: a Sandwich on Gluten Free Bread, Veggies, a Gluten Free Cookie, and a bottle of Juice _***items are made and handled in a facility that**contains** gluten_",
+      "category": "FOOD",
+      "simplified_description": "In each Bagged Lunch you get: a Sandwich on Gluten Free Bread, Veggies, a Gluten",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Bagged Lunches",
+      "price": null,
+      "description": "In each Bagged Lunch you get: a Sandwich on our Kettle Bread, Side Salad, Dessert Sampler and a soft drink",
+      "category": "FOOD",
+      "simplified_description": "In each Bagged Lunch you get: a Sandwich on our Kettle Bread, Side Salad, Desser",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Deluxe Bagged Lunches",
+      "price": null,
+      "description": "In each Bagged Lunch you get: a Sandwich on our Kettle Bread, Side Salad, Dessert Sampler and a soft drink _***items are made and handled in a facility that**contains** gluten_",
+      "category": "FOOD",
+      "simplified_description": "In each Bagged Lunch you get: a Sandwich on our Kettle Bread, Side Salad, Desser",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chopped Kale (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chopped Kale (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tossed Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tossed Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Potato Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marinated Vegetable Salad (half)",
+      "price": null,
+      "description": "Half-size",
+      "category": "FOOD",
+      "simplified_description": "Half-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Marinated Vegetable Salad (full)",
+      "price": null,
+      "description": "Full-size",
+      "category": "FOOD",
+      "simplified_description": "Full-size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chef's Salad (full)",
+      "price": null,
+      "description": "Full-Size (Gluten-Free)",
+      "category": "FOOD",
+      "simplified_description": "Full-Size (Gluten-Free)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Soda - Your Choice (355ml)",
+      "price": null,
+      "description": "enter your preferred flavours in the notes field at the bottom of the order form",
+      "category": "DRINK",
+      "simplified_description": "enter your preferred flavours in the notes field at the bottom of the order form",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fruit Juice",
+      "price": null,
+      "description": "Juices offered subject to availability",
+      "category": "DRINK",
+      "simplified_description": "Juices offered subject to availability",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Water (275ml)",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee (min 10 cups)",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea - Assorted Flavours (min 10 cups)",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,898 @@
+{
+  "restaurant": "photime",
+  "parsed_at": "2026-02-06T03:46:07.976168",
+  "item_count": 99,
+  "items": [
+    {
+      "name": "Phở Tái & Sách",
+      "price": 13.75,
+      "description": "Medium Rare Beef, Brisket, Tendon & Tripe Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Medium Rare Beef, Brisket, Tendon & Tripe Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái, Nạm, Gân & Sách",
+      "price": 13.75,
+      "description": "Medium Rare Beef, Brisket, Tendon & Tripe Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Medium Rare Beef, Brisket, Tendon & Tripe Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái, Gân & Sách",
+      "price": 13.75,
+      "description": "Medium Rare Beef, Tendon & Tripe Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Medium Rare Beef, Tendon & Tripe Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái & Bò Viên",
+      "price": 13.75,
+      "description": "Medium Rare Beef & Beef Ball Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Medium Rare Beef & Beef Ball Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Bò Viên",
+      "price": 13.75,
+      "description": "Beef Ball Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Beef Ball Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Gà Nướng",
+      "price": 13.95,
+      "description": "Grilled Chicken Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Grilled Chicken Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Sate Gà Nướng",
+      "price": 14.25,
+      "description": "Spicy Satay Grilled Chicken Noodle Soup 🌶️",
+      "category": "FOOD",
+      "simplified_description": "Spicy Satay Grilled Chicken Noodle Soup 🌶️",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Sate Đậu Phộng Gà Nướng",
+      "price": 14.5,
+      "description": "Spicy Peanut Satay Grilled Chicken Noodle Soup 🌶️",
+      "category": "FOOD",
+      "simplified_description": "Spicy Peanut Satay Grilled Chicken Noodle Soup 🌶️",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Đồ Biển",
+      "price": 13.95,
+      "description": "Seafood Noodle Soup",
+      "category": "FOOD",
+      "simplified_description": "Seafood Noodle Soup",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Sate Đồ Biển",
+      "price": 14.25,
+      "description": "Spicy Satay Seafood Noodle Soup 🌶️",
+      "category": "FOOD",
+      "simplified_description": "Spicy Satay Seafood Noodle Soup 🌶️",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Sate Đậu Phộng Đồ Biển",
+      "price": 14.5,
+      "description": "Spicy Peanut Satay Seafood Noodle Soup 🌶️",
+      "category": "FOOD",
+      "simplified_description": "Spicy Peanut Satay Seafood Noodle Soup 🌶️",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Rau Cải (Súp Bò)",
+      "price": 13.75,
+      "description": "Vegetable Noodle Soup (Beef Broth)",
+      "category": "FOOD",
+      "simplified_description": "Vegetable Noodle Soup (Beef Broth)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PHO TIME Ultimate Vermicelli XL Bowl – Grilled Meat (choice of Chicken, Beef or Pork), Spring Roll, Minced Shrimp & Meat Ball with Vermicelli",
+      "price": 19.5,
+      "description": "Bún Đặc Biệt XL PHỞ TIME – Thịt Nướng (Gà, Bò hoặc Heo), Chả Giò, Chạo Tôm & Nem Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bún Đặc Biệt XL PHỞ TIME – Thịt Nướng (Gà, Bò hoặc Heo), Chả Giò, Chạo Tôm & Nem",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork & Spring Rolls with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Heo Nướng & Chả Giò",
+      "category": "FOOD",
+      "simplified_description": "Bún Heo Nướng & Chả Giò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork, Spring Roll & Shredded Pork Skin with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Heo Nướng, Chả Giò & Bì",
+      "category": "FOOD",
+      "simplified_description": "Bún Heo Nướng, Chả Giò & Bì",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork & Minced Shrimps on Sugar Cane with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Heo Nướng & Chạo Tôm Bọc Mía",
+      "category": "FOOD",
+      "simplified_description": "Bún Heo Nướng & Chạo Tôm Bọc Mía",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork & Grilled Shrimps with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Heo Nướng & Tôm Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bún Heo Nướng & Tôm Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken & Spring Rolls with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Gà Nướng & Chả Giò",
+      "category": "FOOD",
+      "simplified_description": "Bún Gà Nướng & Chả Giò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken, Spring Roll & Shredded Pork Skin with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Gà Nướng, Chả Giò & Bì",
+      "category": "FOOD",
+      "simplified_description": "Bún Gà Nướng, Chả Giò & Bì",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken & Minced Shrimps on Sugar Cane with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Gà Nướng & Chạo Tôm Bọc Mía",
+      "category": "FOOD",
+      "simplified_description": "Bún Gà Nướng & Chạo Tôm Bọc Mía",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken & Grilled Shrimps with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Gà Nướng & Tôm Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bún Gà Nướng & Tôm Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Spring Rolls with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Bò Nướng & Chả Giò",
+      "category": "FOOD",
+      "simplified_description": "Bún Bò Nướng & Chả Giò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef, Spring Roll & Shredded Pork Skin with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Bò Nướng, Chả Giò & Bì",
+      "category": "FOOD",
+      "simplified_description": "Bún Bò Nướng, Chả Giò & Bì",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Minced Shrimps on Sugar Cane with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Bò Nướng & Chạo Tôm Bọc Mía",
+      "category": "FOOD",
+      "simplified_description": "Bún Bò Nướng & Chạo Tôm Bọc Mía",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef & Grilled Shrimps with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Bò Nướng & Tôm Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bún Bò Nướng & Tôm Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Balls & Spring Rolls with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Nem Nướng & Chả Giò",
+      "category": "FOOD",
+      "simplified_description": "Bún Nem Nướng & Chả Giò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Balls, Spring Roll & Shredded Pork Skin with Vermicelli",
+      "price": 15.75,
+      "description": "Bún Nem Nướng & Bì",
+      "category": "FOOD",
+      "simplified_description": "Bún Nem Nướng & Bì",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Balls & Minced Shrimps on Sugar Cane with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Nem Nướng & Chạo Tôm Bọc Mía",
+      "category": "FOOD",
+      "simplified_description": "Bún Nem Nướng & Chạo Tôm Bọc Mía",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Balls & Grilled Shrimps with Vermicelli",
+      "price": 16.25,
+      "description": "Bún Nem Nướng & Tôm Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bún Nem Nướng & Tôm Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls with Vermicelli",
+      "price": 14.5,
+      "description": "Bún Chả Giò",
+      "category": "FOOD",
+      "simplified_description": "Bún Chả Giò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Chicken & Vegetables with Vermicelli 🌶️",
+      "price": 16.75,
+      "description": "Bún Gà Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Bún Gà Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Beef & Vegetables with Vermicelli 🌶️",
+      "price": 16.75,
+      "description": "Bún Bò Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Bún Bò Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Curry Chicken & Vegetables with Vermicelli 🌶️",
+      "price": 16.75,
+      "description": "Bún Gà Xào Cà Ri",
+      "category": "FOOD",
+      "simplified_description": "Bún Gà Xào Cà Ri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Curry Beef & Vegetables with Vermicelli 🌶️",
+      "price": 16.75,
+      "description": "Bún Bò Xào Cà Ri",
+      "category": "FOOD",
+      "simplified_description": "Bún Bò Xào Cà Ri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chop, Fried Egg & Shredded Pork Skin on Steamed Rice",
+      "price": 15.75,
+      "description": "Cơm Sườn Nướng, Trứng Chiên & Bì",
+      "category": "FOOD",
+      "simplified_description": "Cơm Sườn Nướng, Trứng Chiên & Bì",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chop & Fried Eggs on Steamed Rice",
+      "price": 15.75,
+      "description": "Cơm Sườn Nướng & Trứng Chiên",
+      "category": "FOOD",
+      "simplified_description": "Cơm Sườn Nướng & Trứng Chiên",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chops on Steamed Rice",
+      "price": 15.75,
+      "description": "Cơm Sườn Nướng",
+      "category": "FOOD",
+      "simplified_description": "Cơm Sườn Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chop & Deep Fried Quail on Steamed Rice",
+      "price": 16.75,
+      "description": "Cơm Sường Nướng & Chim Cút Chiên",
+      "category": "FOOD",
+      "simplified_description": "Cơm Sường Nướng & Chim Cút Chiên",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork on Steamed Rice",
+      "price": 15.75,
+      "description": "Cơm Heo Nướng",
+      "category": "FOOD",
+      "simplified_description": "Cơm Heo Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken on Steamed Rice",
+      "price": 15.75,
+      "description": "Cơm Gà Nướng",
+      "category": "FOOD",
+      "simplified_description": "Cơm Gà Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef on Steamed Rice",
+      "price": 15.75,
+      "description": "Cơm Bò Nướng",
+      "category": "FOOD",
+      "simplified_description": "Cơm Bò Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Shrimps & Vegetables on Steamed Rice 🌶️",
+      "price": 17.75,
+      "description": "Cơm Tôm Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Cơm Tôm Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Chicken & Vegetables on Steamed Rice 🌶️",
+      "price": 16.75,
+      "description": "Cơm Gà Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Cơm Gà Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Beef & Vegetables on Steamed Rice 🌶️",
+      "price": 16.75,
+      "description": "Cơm Bò Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Cơm Bò Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Curry Chicken & Vegetables on Steamed Rice 🌶️",
+      "price": 16.75,
+      "description": "Cơm Gà Xào Cà Ri",
+      "category": "FOOD",
+      "simplified_description": "Cơm Gà Xào Cà Ri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Curry Beef & Vegetables on Steamed Rice 🌶️",
+      "price": 16.75,
+      "description": "Cơm Bò Xào Cà Ri",
+      "category": "FOOD",
+      "simplified_description": "Cơm Bò Xào Cà Ri",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton Soup (No Noodles)",
+      "price": 13.25,
+      "description": "Súp Hoành Thánh",
+      "category": "FOOD",
+      "simplified_description": "Súp Hoành Thánh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wor Wonton Soup with Grilled Pork, Crab, Shrimps & Vegetables (No Noodles)",
+      "price": 16.75,
+      "description": "Súp Hoành Thánh, Heo Nướng, Cua, Tôm & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Súp Hoành Thánh, Heo Nướng, Cua, Tôm & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton & Egg Noodle Soup with Grilled Pork, Crab & Shrimps",
+      "price": 15.95,
+      "description": "Mì Hoành Thánh, Heo Nướng, Cua & Tôm",
+      "category": "FOOD",
+      "simplified_description": "Mì Hoành Thánh, Heo Nướng, Cua & Tôm",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Chicken & Vegetables on Crispy Egg Noodle",
+      "price": 18.25,
+      "description": "Mì Xào Dòn Gà & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Dòn Gà & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Chicken & Vegetables on Steamed Egg Noodle",
+      "price": 18.25,
+      "description": "Mì Xào Mềm Gà & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Mềm Gà & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Chicken & Vegetables on Rice Noodle",
+      "price": 18.25,
+      "description": "Hủ Tiếu Xào Gà & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Hủ Tiếu Xào Gà & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Beef & Vegetables on Crispy Egg Noodle",
+      "price": 18.25,
+      "description": "Mì Xào Dòn Bò & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Dòn Bò & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Beef & Vegetables on Steamed Egg Noodle",
+      "price": 18.25,
+      "description": "Mì Xào Mềm Bò & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Mềm Bò & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Beef & Vegetables on Rice Noodle",
+      "price": 18.25,
+      "description": "Hủ Tiếu Xào Bò & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Hủ Tiếu Xào Bò & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Seafood & Vegetables on Crispy Egg Noodle",
+      "price": 18.25,
+      "description": "Mì Xào Dòn Đồ Biển & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Dòn Đồ Biển & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Seafood & Vegetables on Steamed Egg Noodle",
+      "price": 18.25,
+      "description": "Mì Xào Mềm Đồ Biển & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Mềm Đồ Biển & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Seafood & Vegetables on Rice Noodle",
+      "price": 18.25,
+      "description": "Hủ Tiếu Xào Đồ Biển & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Hủ Tiếu Xào Đồ Biển & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Chicken Sub 🌶️",
+      "price": 11.5,
+      "description": "Bánh Mì Sate Gà",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Sate Gà",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Beef Sub 🌶️",
+      "price": 11.5,
+      "description": "Bánh Mì Sate Bò",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Sate Bò",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Pork Sub 🌶️",
+      "price": 11.5,
+      "description": "Bánh Mì Sate Heo",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Sate Heo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Chicken Sub",
+      "price": 11.5,
+      "description": "Bánh Mì Gà Mật Ong",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Gà Mật Ong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Beef Sub",
+      "price": 11.5,
+      "description": "Bánh Mì Bò Mật Ong",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Bò Mật Ong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Pork Sub",
+      "price": 11.5,
+      "description": "Bánh Mì Heo Mật Ong",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Heo Mật Ong",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Sub",
+      "price": 11.5,
+      "description": "Bánh Mì Gà Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Gà Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Beef Sub",
+      "price": 11.5,
+      "description": "Bánh Mì Bò Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Bò Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Sub",
+      "price": 11.5,
+      "description": "Bánh Mì Heo Nướng",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Heo Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Vegetarian Spring Rolls (4 Rolls)",
+      "price": 8.95,
+      "description": "Chả Giò Chay (4 Cuốn)",
+      "category": "FOOD",
+      "simplified_description": "Chả Giò Chay (4 Cuốn)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gluten Free Vegetarian Spring Rolls (4 Rolls)",
+      "price": 9.5,
+      "description": "Chả Giò Chay Gluten Free (4 Cuốn)",
+      "category": "FOOD",
+      "simplified_description": "Chả Giò Chay Gluten Free (4 Cuốn)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Salad Rolls (3 Rolls)",
+      "price": 8.5,
+      "description": "Gỏi Cuốn Rau (3 Cuốn)",
+      "category": "FOOD",
+      "simplified_description": "Gỏi Cuốn Rau (3 Cuốn)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Noodle Soup (Vegetable Broth)",
+      "price": 14.75,
+      "description": "Phở Rau ( Súp Chay)",
+      "category": "FOOD",
+      "simplified_description": "Phở Rau ( Súp Chay)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Spring Rolls with Vermicelli",
+      "price": 14.5,
+      "description": "Bún Chả Giò Chay",
+      "category": "FOOD",
+      "simplified_description": "Bún Chả Giò Chay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Tofu & Vegetable Vermicelli Noodle Soup (Vegetable Broth) 🌶️",
+      "price": 15.75,
+      "description": "Bún Cà Ri Chay (Súp Chay)",
+      "category": "FOOD",
+      "simplified_description": "Bún Cà Ri Chay (Súp Chay)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Tofu & Vegetables with Vermicelli 🌶️",
+      "price": 16.25,
+      "description": "Bún Tàu Hũ Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Bún Tàu Hũ Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Stir Fried Lemongrass Tofu & Vegetables on Steamed Rice 🌶️",
+      "price": 16.25,
+      "description": "Cơm Tàu Hũ Xào Sả Ớt",
+      "category": "FOOD",
+      "simplified_description": "Cơm Tàu Hũ Xào Sả Ớt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Tofu & Vegetables on Steamed Rice",
+      "price": 16.25,
+      "description": "Cơm Tàu Hũ Xào Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Cơm Tàu Hũ Xào Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Tofu & Vegetables on Crispy Egg Noodle",
+      "price": 17.75,
+      "description": "Mì Xào Dòn Tàu Hũ & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Dòn Tàu Hũ & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Tofu & Vegetables on Steamed Egg Noodle",
+      "price": 17.75,
+      "description": "Mì Xào Mềm Tàu Hũ & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Mì Xào Mềm Tàu Hũ & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Tofu & Vegetables on Rice Noodle",
+      "price": 17.75,
+      "description": "Hủ tiếu Xào Tàu Hũ & Rau Cải",
+      "category": "FOOD",
+      "simplified_description": "Hủ tiếu Xào Tàu Hũ & Rau Cải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Tofu Sub 🌶️",
+      "price": 10.95,
+      "description": "Bánh Mì Sate Tàu Hũ",
+      "category": "FOOD",
+      "simplified_description": "Bánh Mì Sate Tàu Hũ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit Bubble Tea",
+      "price": 8.5,
+      "description": "Strawberry, Mango, Peach, Pineapple, Watermelon, Honeydew, Cantaloupe, Lychee, Coconut, Avocado, Jackfruit, Durian",
+      "category": "DRINK",
+      "simplified_description": "Strawberry, Mango, Peach, Pineapple, Watermelon, Honeydew, Cantaloupe, Lychee, C",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Powder Bubble Tea",
+      "price": 7.5,
+      "description": "Taro, Coconut, Strawberry, Mango, Watermelon, Honeydew, Cantaloupe, Lychee, Pinapple, Papaya, Avocado, Red Tea",
+      "category": "DRINK",
+      "simplified_description": "Taro, Coconut, Strawberry, Mango, Watermelon, Honeydew, Cantaloupe, Lychee, Pina",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Banana & Ice Cream",
+      "price": 6.25,
+      "description": "Bánh Chuối Chiên & Kem",
+      "category": "DESSERT",
+      "simplified_description": "Bánh Chuối Chiên & Kem",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ice Cream",
+      "price": 5.25,
+      "description": "Kem",
+      "category": "DESSERT",
+      "simplified_description": "Kem",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Filter Coffee with Condensed Milk (Iced or Hot)",
+      "price": 5.75,
+      "description": "Cà Phê Sữa (Đá hoặc Nóng)",
+      "category": "DRINK",
+      "simplified_description": "Cà Phê Sữa (Đá hoặc Nóng)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Black Filter Iced Coffee",
+      "price": 5.25,
+      "description": "Cà Phê Đen Đá",
+      "category": "DRINK",
+      "simplified_description": "Cà Phê Đen Đá",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drink or Bottled Water",
+      "price": 2.75,
+      "description": "(Coke, Diet Coke, Pepsi, Diet Pepsi, Sprite, Ginger Ale, 7up, Root Beer, Orange, Club Soda, Iced Tea)",
+      "category": "DRINK",
+      "simplified_description": "(Coke, Diet Coke, Pepsi, Diet Pepsi, Sprite, Ginger Ale, 7up, Root Beer, Orange,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 3.5,
+      "description": "Peach, Pineapple or Mango",
+      "category": "DRINK",
+      "simplified_description": "Peach, Pineapple or Mango",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2% Milk",
+      "price": 2.5,
+      "description": "Sữa Tươi 2%",
+      "category": "DRINK",
+      "simplified_description": "Sữa Tươi 2%",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Squeezed Orange Juice",
+      "price": 6.95,
+      "description": "Cam Vắt",
+      "category": "DRINK",
+      "simplified_description": "Cam Vắt",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Squeezed Lime Juice",
+      "price": 6.5,
+      "description": "Đá Chanh",
+      "category": "DRINK",
+      "simplified_description": "Đá Chanh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Iced Lime Soda",
+      "price": 6.95,
+      "description": "Soda Chanh",
+      "category": "DRINK",
+      "simplified_description": "Soda Chanh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Coconut & Juice",
+      "price": 6.5,
+      "description": "Nước Dừa Tươi",
+      "category": "DRINK",
+      "simplified_description": "Nước Dừa Tươi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Sugarcane Juice",
+      "price": 6.95,
+      "description": "Nước Mía Tươi",
+      "category": "DRINK",
+      "simplified_description": "Nước Mía Tươi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Lychee & Juice",
+      "price": 6.5,
+      "description": "Nước Trái Vải",
+      "category": "DRINK",
+      "simplified_description": "Nước Trái Vải",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Orange Shake",
+      "price": 7.5,
+      "description": "Cam Xay",
+      "category": "DRINK",
+      "simplified_description": "Cam Xay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Avocado Shake",
+      "price": 7.5,
+      "description": "Sinh Tố Bơ",
+      "category": "DRINK",
+      "simplified_description": "Sinh Tố Bơ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Jackfruit Shake",
+      "price": 7.5,
+      "description": "Sinh Tố Mít",
+      "category": "DRINK",
+      "simplified_description": "Sinh Tố Mít",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Durian Shake",
+      "price": 7.5,
+      "description": "Sinh Tố Sầu Riêng",
+      "category": "DRINK",
+      "simplified_description": "Sinh Tố Sầu Riêng",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

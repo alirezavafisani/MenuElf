@@ -1,0 +1,25 @@
+{
+  "restaurant": "keshkeshroastery",
+  "parsed_at": "2025-12-25T00:10:09.561596",
+  "item_count": 2,
+  "items": [
+    {
+      "name": "Jebena Medium Roast",
+      "price": 850,
+      "description": "Jebena Medium Roast coffee is a blend made with 100% Specialty Arabica beans, carefully selected and roasted to bring out the best in the beans. The medium roast gives this coffee a smooth, balanced flavor that is perfect for everyday drinking. But what sets the Jebena apart is its sweet finish.",
+      "simplified_description": "A smooth and balanced coffee made from high-quality Arabica beans, perfect for daily enjoyment.",
+      "category": "Coffee",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fernelo Dark Roast",
+      "price": 850,
+      "description": "Our Fernelo Dark Roast coffee is a delicious blend made with 100% Specialty Arabica beans, carefully selected and roasted to perfection to bring out its rich, full-bodied flavor. The dark roast gives this coffee a bold, robust taste that is sure to satisfy even the most discerning coffee connoisseur. Fernelo Dark Roast has a unique citric undertone that sets it apart from other dark roasts.",
+      "simplified_description": "A bold and rich coffee made from high-quality Arabica beans, with a unique citrus flavor.",
+      "category": "Coffee",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

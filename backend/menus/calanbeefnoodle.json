@@ -1,0 +1,289 @@
+{
+  "restaurant": "calanbeefnoodle",
+  "parsed_at": "2026-02-06T01:20:37.291481",
+  "item_count": 23,
+  "items": [
+    {
+      "name": "清汤牛肉面",
+      "price": 15.49,
+      "description": "Hand Pulled Noodles in Beef Soup",
+      "category": "FOOD",
+      "simplified_description": "Noodles served in a clear beef soup.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "酸菜牛肉面",
+      "price": 15.99,
+      "description": "Hand Pulled Noodles with Pickled Sour Mustard in Beef Soup *extra spicy*",
+      "category": "FOOD",
+      "simplified_description": "Noodles in beef soup with pickled mustard, extra spicy.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Extra spicy"
+    },
+    {
+      "name": "炸酱面",
+      "price": 15.49,
+      "description": "Hand Pulled Noodles with Soy-bean Paste",
+      "category": "FOOD",
+      "simplified_description": "Noodles served with savory soybean paste sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "大盘鸡面",
+      "price": 15.99,
+      "description": "Hand Pulled Noodles with Stir-fried Chickens and Potatoes Sauce *spicy*",
+      "category": "FOOD",
+      "simplified_description": "Noodles with spicy stir-fried chicken and potato sauce.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "牛肉臊子面",
+      "price": 15.99,
+      "description": "Hand Pulled Noodles with Minced Beef and Vegetable Soup",
+      "category": "FOOD",
+      "simplified_description": "Noodles in soup with minced beef and vegetables.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "素炒面",
+      "price": 15.99,
+      "description": "Stir-fried Noodles with Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with mixed vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "红烧牛肉面",
+      "price": 16.49,
+      "description": "Hand Pulled Noodles in Braised Beef Soup",
+      "category": "FOOD",
+      "simplified_description": "Noodles served in rich braised beef soup.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "牛肉炒面",
+      "price": 16.99,
+      "description": "Stir-fried Noodles with Beef and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with beef and vegetables.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "羊肉炒面",
+      "price": 16.99,
+      "description": "Stir-fried Noodles with Cumin Lamb and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with cumin lamb and vegetables.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "海鲜炒面",
+      "price": 16.99,
+      "description": "Stir-fried Noodles with Seafood and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with seafood and vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "鸡肉炒面",
+      "price": 16.99,
+      "description": "Stir-fried Noodles with Chickens and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with chicken and vegetables.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "油泼辣子面",
+      "price": 15.99,
+      "description": "Hand Pulled Noodles With Chilli Oil and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Noodles with chili oil and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "西红柿鸡蛋面",
+      "price": 15.99,
+      "description": "Stir-fried Noodles with Tomato and Eggs",
+      "category": "FOOD",
+      "simplified_description": "Noodles stir-fried with tomato and eggs.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "鸡肉凉面",
+      "price": 16.99,
+      "description": "Cold Hand Pulled Noodles with Chicken and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Cold noodles with chicken and vegetables.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Served cold"
+    },
+    {
+      "name": "羊肉凉面",
+      "price": 16.99,
+      "description": "Cold Hand Pulled Noodles with Lamb and Vegetables",
+      "category": "FOOD",
+      "simplified_description": "Cold noodles with lamb and vegetables.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Served cold"
+    },
+    {
+      "name": "羊肉夹馍",
+      "price": 6.99,
+      "description": "Chinese Lamb Meat Sandwich",
+      "category": "FOOD",
+      "simplified_description": "A sandwich filled with Chinese-style lamb meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "清汤牛肉面（无切片牛肉）",
+      "price": 10.99,
+      "description": "Hand-pulled Noodle in Clear Beef Broth(no beef topping)",
+      "category": "FOOD",
+      "simplified_description": "Hand-pulled noodles served in clear beef broth without beef pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "酱牛腱子肉",
+      "price": 5.49,
+      "description": "Simmered Beef Shanks",
+      "category": "SIDE",
+      "simplified_description": "Tender beef shanks slowly simmered for flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "茶叶蛋",
+      "price": 1.99,
+      "description": "Tea Flavoured Boiled Egg",
+      "category": "SIDE",
+      "simplified_description": "Boiled egg infused with tea flavor.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "小菜",
+      "price": 5.49,
+      "description": "Seasonal Appetizer",
+      "category": "SIDE",
+      "simplified_description": "A small appetizer made from seasonal ingredients.",
+      "dietary_info": [],
+      "other_info": "Seasonal item"
+    },
+    {
+      "name": "三泡台茶",
+      "price": 4.49,
+      "description": "House Tea",
+      "category": "DRINK",
+      "simplified_description": "A cup of the restaurant's signature house tea.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "芝麻球",
+      "price": 4.49,
+      "description": "Seasame Balls",
+      "category": "DESSERT",
+      "simplified_description": "Sweet fried sesame seed balls.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "炼乳小馒头",
+      "price": 3.99,
+      "description": "Deep-fried Steamed Buns with condensed milk",
+      "category": "DESSERT",
+      "simplified_description": "Deep-fried buns served with sweet condensed milk.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

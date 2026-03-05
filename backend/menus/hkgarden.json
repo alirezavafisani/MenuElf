@@ -1,0 +1,1312 @@
+{
+  "restaurant": "hkgarden",
+  "parsed_at": "2026-02-06T02:38:26.986937",
+  "item_count": 114,
+  "items": [
+    {
+      "name": "Deep Fried Vegetable Spring Rolls (2)",
+      "price": 4.95,
+      "description": "Deep Fried Vegetable Spring Rolls (2)",
+      "category": "APPETIZER",
+      "simplified_description": "Two deep-fried rolls filled with vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Jumbo Won Tons",
+      "price": 14.45,
+      "description": "Deep fried wonton pastry served with sweet and sour sauce on the side. Contains NO MEAT.",
+      "category": "APPETIZER",
+      "simplified_description": "Deep fried wontons with sweet and sour sauce, meat-free.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Chicken Wings",
+      "price": 15.45,
+      "description": "Deep Fried Chicken Wings",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy deep-fried chicken wings.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Chicken Wings",
+      "price": 15.95,
+      "description": "Honey Garlic Chicken Wings",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken wings glazed with honey and garlic.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Chicken Wings!",
+      "price": 15.95,
+      "description": "Salt & Pepper Chicken Wings!",
+      "category": "APPETIZER",
+      "simplified_description": "Chicken wings seasoned with salt and pepper.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Garlic Spareribs",
+      "price": 18.45,
+      "description": "Dry Garlic Spareribs",
+      "category": "APPETIZER",
+      "simplified_description": "Spareribs cooked with dry garlic seasoning.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Spareribs!",
+      "price": 18.95,
+      "description": "Salt & Pepper Spareribs!",
+      "category": "APPETIZER",
+      "simplified_description": "Spareribs seasoned with salt and pepper.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pork Dumplings",
+      "price": 15.45,
+      "description": "Deep Fried Pork Dumplings",
+      "category": "APPETIZER",
+      "simplified_description": "Pork-filled dumplings deep fried to crispiness.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Dumplings (10)",
+      "price": 15.45,
+      "description": "pork and vegetable",
+      "category": "APPETIZER",
+      "simplified_description": "Ten grilled dumplings with pork and vegetables.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef on Skewers with Satay Sauce(6)!",
+      "price": 18.45,
+      "description": "Sliced Beef on Skewers with Satay Sauce(6)!",
+      "category": "APPETIZER",
+      "simplified_description": "Six beef skewers served with satay sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Slices",
+      "price": 17.95,
+      "description": "BBQ Pork Slices",
+      "category": "APPETIZER",
+      "simplified_description": "Slices of barbecued pork.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Won Ton Soup",
+      "price": 5.5,
+      "description": "Won Ton Soup",
+      "category": "SOUP",
+      "simplified_description": "Soup with wonton dumplings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Wor Won Ton Soup",
+      "price": 13.95,
+      "description": "Wor Won Ton Soup",
+      "category": "SOUP",
+      "simplified_description": "Soup with wontons and additional ingredients.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup!",
+      "price": 13.95,
+      "description": "Hot & Sour Soup!",
+      "category": "SOUP",
+      "simplified_description": "Spicy and sour flavored soup.",
+      "dietary_info": [
+        "spicy",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Crab Meat & Cream Corn Soup",
+      "price": 17.95,
+      "description": "Crab Meat & Cream Corn Soup",
+      "category": "SOUP",
+      "simplified_description": "Creamy soup with crab meat and corn.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Cream Corn Soup",
+      "price": 15.95,
+      "description": "Chicken with Cream Corn Soup",
+      "category": "SOUP",
+      "simplified_description": "Creamy corn soup with chicken pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "price": 10.95,
+      "description": "Chicken Noodle Soup",
+      "category": "SOUP",
+      "simplified_description": "Classic chicken soup with noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Drop Soup",
+      "price": 10.95,
+      "description": "Egg Drop Soup",
+      "category": "SOUP",
+      "simplified_description": "Light broth with beaten eggs.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "House Special Wor Won Ton Soup",
+      "price": 19.95,
+      "description": "shrimp, chicken, bbq pork, vegetables, wonton & thin egg noodles",
+      "category": "SOUP",
+      "simplified_description": "Soup with shrimp, chicken, pork, vegetables, wontons, and noodles.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup on Sizzling Rice!",
+      "price": 19.45,
+      "description": "Hot & Sour Soup on Sizzling Rice!",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Spicy hot and sour soup served on sizzling rice.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Shrimp & Tomato on Sizzling Rice",
+      "price": 19.45,
+      "description": "Shrimp & Tomato on Sizzling Rice",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Shrimp and tomato served on sizzling rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Seafood & Vegetable on Sizzling Rice",
+      "price": 21.45,
+      "description": "Mixed Seafood & Vegetable on Sizzling Rice",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Mixed seafood and vegetables on sizzling rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Mixed Vegetable on Sizzling Rice",
+      "price": 18.45,
+      "description": "Beef & Mixed Vegetable on Sizzling Rice",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Beef and mixed vegetables on sizzling rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp, Mixed Meat and Vegetables Sizzling Rice",
+      "price": 19.45,
+      "description": "Shrimp, Mixed Meat and Vegetables Sizzling Rice",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Shrimp, assorted meats, and vegetables on sizzling rice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable on Sizzling Rice",
+      "price": 18.45,
+      "description": "Mixed Vegetable on Sizzling Rice",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Mixed vegetables served on sizzling rice.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken & Vegetable on Sizzling Rice!",
+      "price": 19.45,
+      "description": "Curry Chicken & Vegetable on Sizzling Rice!",
+      "category": "SIZZLING RICE",
+      "simplified_description": "Curried chicken and vegetables on sizzling rice.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef!",
+      "price": 19.45,
+      "description": "Ginger Beef!",
+      "category": "BEEF",
+      "simplified_description": "Beef cooked with ginger flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Beef!",
+      "price": 18.45,
+      "description": "Curry Beef!",
+      "category": "BEEF",
+      "simplified_description": "Beef cooked in curry sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Two Kinds of Mushroom",
+      "price": 18.45,
+      "description": "Beef with Two Kinds of Mushroom",
+      "category": "BEEF",
+      "simplified_description": "Beef stir-fried with two types of mushrooms.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Black Bean Sauce",
+      "price": 18.45,
+      "description": "Beef with Black Bean Sauce",
+      "category": "BEEF",
+      "simplified_description": "Beef cooked in savory black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Tomatoes",
+      "price": 18.45,
+      "description": "Beef with Tomatoes",
+      "category": "BEEF",
+      "simplified_description": "Beef cooked with tomatoes.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Broccoli",
+      "price": 18.45,
+      "description": "Beef with Broccoli",
+      "category": "BEEF",
+      "simplified_description": "Beef stir-fried with broccoli.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Snow Peas",
+      "price": 18.95,
+      "description": "Beef with Snow Peas",
+      "category": "BEEF",
+      "simplified_description": "Beef stir-fried with snow peas.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Mixed Vegetable",
+      "price": 18.45,
+      "description": "Beef with Mixed Vegetable",
+      "category": "BEEF",
+      "simplified_description": "Beef cooked with mixed vegetables.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Oyster Sauce",
+      "price": 18.45,
+      "description": "Beef with Oyster Sauce",
+      "category": "BEEF",
+      "simplified_description": "Beef cooked with oyster sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Ginger & Green Onions",
+      "price": 18.45,
+      "description": "Beef with Ginger & Green Onions",
+      "category": "BEEF",
+      "simplified_description": "Beef stir-fried with ginger and green onions.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Satay Sauce!",
+      "price": 18.45,
+      "description": "Beef with Satay Sauce!",
+      "category": "BEEF",
+      "simplified_description": "Beef served with satay sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Ginger Chicken!",
+      "price": 19.45,
+      "description": "Ginger Chicken!",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken cooked with ginger.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple Sweet & Sour Chicken",
+      "price": 19.45,
+      "description": "Pineapple Sweet & Sour Chicken",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken in sweet and sour pineapple sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sesame Pepper Chicken With Honey Sauce!",
+      "price": 19.45,
+      "description": "Sesame Pepper Chicken With Honey Sauce!",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken with sesame, pepper, and honey sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Chicken!",
+      "price": 19.45,
+      "description": "Palace Style Chicken!",
+      "category": "CHICKEN",
+      "simplified_description": "Special style chicken dish.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Soo Gai",
+      "price": 19.45,
+      "description": "battered chicken breast served with a side of lemon sauce",
+      "category": "CHICKEN",
+      "simplified_description": "Battered chicken breast with lemon sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Almond Soo Gai",
+      "price": 19.45,
+      "description": "battered chicken breast served with a side of almond sauce",
+      "category": "CHICKEN",
+      "simplified_description": "Battered chicken breast with almond sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Chicken & Cashews Nuts",
+      "price": 19.45,
+      "description": "diced chicken and celery stir fried in a sweet yellow bean sauce",
+      "category": "CHICKEN",
+      "simplified_description": "Diced chicken and celery stir-fried with sweet bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Style Chicken with Broccoli!",
+      "price": 19.45,
+      "description": "Szechuan Style Chicken with Broccoli!",
+      "category": "CHICKEN",
+      "simplified_description": "Spicy Szechuan chicken with broccoli.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sliced Chicken with Mixed Vegetable",
+      "price": 18.45,
+      "description": "Sliced Chicken with Mixed Vegetable",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken sliced and served with mixed vegetables.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Four Kinds of Vegetable in a Nest",
+      "price": 19.45,
+      "description": "Sliced Chicken with Four Kinds of Vegetable in a Nest",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken with four types of vegetables served in a nest.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Two Kinds of Mushroom",
+      "price": 18.45,
+      "description": "Sliced Chicken with Two Kinds of Mushroom",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken slices cooked with two types of mushrooms.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken in Black Bean Sauce",
+      "price": 18.45,
+      "description": "Sliced Chicken in Black Bean Sauce",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken slices cooked in savory black bean sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Chicken in Curry Sauce!",
+      "price": 18.45,
+      "description": "Boneless Chicken in Curry Sauce!",
+      "category": "CHICKEN",
+      "simplified_description": "Boneless chicken served in flavorful curry sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sweet & Sour Chicken Balls",
+      "price": 19.45,
+      "description": "Sweet & Sour Chicken Balls",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken balls cooked in sweet and sour sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Almond Gai Ding",
+      "price": 18.45,
+      "description": "diced chicken, vegetables and almonds",
+      "category": "CHICKEN",
+      "simplified_description": "Diced chicken with vegetables and almonds.",
+      "dietary_info": [
+        "halal",
+        "dairy-free",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Chicken!",
+      "price": 19.45,
+      "description": "Salt & Pepper Chicken!",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken seasoned with salt and pepper.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Moo Goo Gai Pan",
+      "price": 18.45,
+      "description": "chicken & mushroom in oyster sauce",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken and mushrooms cooked in oyster sauce.",
+      "dietary_info": [
+        "halal",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Grass Chicken!",
+      "price": 18.45,
+      "description": "Lemon Grass Chicken!",
+      "category": "CHICKEN",
+      "simplified_description": "Chicken flavored with lemon grass.",
+      "dietary_info": [
+        "halal",
+        "nut-free",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork",
+      "price": 18.45,
+      "description": "Sweet & Sour Pork",
+      "category": "PORK",
+      "simplified_description": "Pork cooked in sweet and sour sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork with Snow Peas in Oyster Sauce",
+      "price": 18.95,
+      "description": "BBQ Pork with Snow Peas in Oyster Sauce",
+      "category": "PORK",
+      "simplified_description": "BBQ pork and snow peas cooked in oyster sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Spareribs",
+      "price": 18.45,
+      "description": "Honey Garlic Spareribs",
+      "category": "PORK",
+      "simplified_description": "Spareribs glazed with honey and garlic.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Spareribs",
+      "price": 18.45,
+      "description": "Sweet & Sour Spareribs",
+      "category": "PORK",
+      "simplified_description": "Spareribs cooked in sweet and sour sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mu Shu Pork",
+      "price": 19.45,
+      "description": "includes 6 pancakes",
+      "category": "PORK",
+      "simplified_description": "Pork served with six pancakes for wrapping.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": "Includes 6 pancakes"
+    },
+    {
+      "name": "Szechuan Style Shredded Pork!",
+      "price": 18.45,
+      "description": "Szechuan Style Shredded Pork!",
+      "category": "PORK",
+      "simplified_description": "Spicy shredded pork cooked in Szechuan style.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Pork Chops in Peking Sauce",
+      "price": 19.45,
+      "description": "Pork Chops in Peking Sauce",
+      "category": "PORK",
+      "simplified_description": "Pork chops served with traditional Peking sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Pork Chops!",
+      "price": 19.45,
+      "description": "Salt & Pepper Pork Chops!",
+      "category": "PORK",
+      "simplified_description": "Pork chops seasoned with salt and pepper.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Squid!",
+      "price": 20.45,
+      "description": "Ginger Squid!",
+      "category": "SEAFOOD",
+      "simplified_description": "Squid cooked with fresh ginger flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Squid in Curry Sauce!",
+      "price": 20.45,
+      "description": "Squid in Curry Sauce!",
+      "category": "SEAFOOD",
+      "simplified_description": "Squid served in a flavorful curry sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Squid in Black Bean Sauce",
+      "price": 20.45,
+      "description": "Squid in Black Bean Sauce",
+      "category": "SEAFOOD",
+      "simplified_description": "Squid cooked with savory black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns in Black Bean Sauce",
+      "price": 22.45,
+      "description": "Prawns in Black Bean Sauce",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns cooked with savory black bean sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Crispy Prawns",
+      "price": 22.45,
+      "description": "Deep Fried Crispy Prawns",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns deep fried until crispy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Fried Prawns with Snow Peas",
+      "price": 22.45,
+      "description": "Pan Fried Prawns with Snow Peas",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns pan fried with fresh snow peas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Fried Prawns with Tomatoes",
+      "price": 22.45,
+      "description": "Pan Fried Prawns with Tomatoes",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns pan fried with tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Fried Prawns with Mushroom & Broccoli",
+      "price": 22.45,
+      "description": "Pan Fried Prawns with Mushroom & Broccoli",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns pan fried with mushrooms and broccoli.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Fried Prawns with Mixed Vegetables",
+      "price": 22.45,
+      "description": "Pan Fried Prawns with Mixed Vegetables",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns pan fried with a mix of vegetables.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns in Curry Sauce!",
+      "price": 22.45,
+      "description": "Prawns in Curry Sauce!",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns served in a flavorful curry sauce.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Palace Style Prawns!",
+      "price": 22.45,
+      "description": "Palace Style Prawns!",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns cooked in a special palace style recipe.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Prawns",
+      "price": 22.45,
+      "description": "Sweet & Sour Prawns",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns cooked in a sweet and sour sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns, Scallops & Squid with Mixed Vegetable in a Nest",
+      "price": 23.45,
+      "description": "Prawns, Scallops & Squid with Mixed Vegetable in a Nest",
+      "category": "SEAFOOD",
+      "simplified_description": "Seafood and mixed vegetables served in a nest.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Squid!",
+      "price": 20.45,
+      "description": "Salt & Pepper Squid!",
+      "category": "SEAFOOD",
+      "simplified_description": "Squid seasoned with salt and pepper.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salt & Pepper Seafood!",
+      "price": 23.45,
+      "description": "prawns, scallop and squid",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns, scallops, and squid with salt and pepper seasoning.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Salt & Pepper Prawns",
+      "price": 22.45,
+      "description": "Salt & Pepper Prawns",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns seasoned with salt and pepper.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Prawns with Garlic Sauce",
+      "price": 22.45,
+      "description": "Prawns with Garlic Sauce",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns cooked in a garlic sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp with Mixed Vegetable in Black Bean Sauce",
+      "price": 19.45,
+      "description": "Shrimp with Mixed Vegetable in Black Bean Sauce",
+      "category": "SEAFOOD",
+      "simplified_description": "Shrimp and mixed vegetables in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Seafood!",
+      "price": 23.45,
+      "description": "prawns, scallops & squid",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns, scallops, and squid cooked in curry.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Prawns with Lemon Grass & Cashew Nuts!",
+      "price": 23.45,
+      "description": "Prawns with Lemon Grass & Cashew Nuts!",
+      "category": "SEAFOOD",
+      "simplified_description": "Prawns cooked with lemon grass and cashew nuts.",
+      "dietary_info": [
+        "dairy-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Four Kinds of Vegetable in Oyster Sauce",
+      "price": 16.95,
+      "description": "Four Kinds of Vegetable in Oyster Sauce",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Four vegetables cooked in oyster sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Mixed Vegetable",
+      "price": 16.95,
+      "description": "Stir Fried Mixed Vegetable",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Mixed vegetables stir fried.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Palace Style Vegetables with Cashew Nuts",
+      "price": 18.45,
+      "description": "Stir Fried Palace Style Vegetables with Cashew Nuts",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Stir fried vegetables with cashew nuts.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable in Black Bean Sauce",
+      "price": 16.95,
+      "description": "Mixed Vegetable in Black Bean Sauce",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Mixed vegetables cooked in black bean sauce.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Snow Peas & Broccoli in Black Bean Sauce",
+      "price": 18.45,
+      "description": "Snow Peas & Broccoli in Black Bean Sauce",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Snow peas and broccoli in black bean sauce.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Eight Precious Spiced Jewels!",
+      "price": 19.45,
+      "description": "vegetables with bbq pork and shrimp",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Vegetables with BBQ pork and shrimp.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Szechuan Style Egg Plant with Shredded Pork!",
+      "price": 19.45,
+      "description": "Szechuan Style Egg Plant with Shredded Pork!",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Eggplant cooked Szechuan style with shredded pork.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Seafood, Mixed Meat, Vegetable & Bean Curd",
+      "price": 21.45,
+      "description": "Seafood, Mixed Meat, Vegetable & Bean Curd",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "A mix of seafood, meats, vegetables, and bean curd.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ma Po Tofu!",
+      "price": 18.45,
+      "description": "spicy tofu with minced beef",
+      "category": "VEGETABLES & MISC",
+      "simplified_description": "Spicy tofu cooked with minced beef.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Beef Tenderloin Strips with Black Pepper Sauce!",
+      "price": 20.45,
+      "description": "Beef Tenderloin Strips with Black Pepper Sauce!",
+      "category": "SPECIALTIES",
+      "simplified_description": "Beef tenderloin strips cooked in black pepper sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Black Pepper Sauce!",
+      "price": 20.45,
+      "description": "Sliced Chicken with Black Pepper Sauce!",
+      "category": "SPECIALTIES",
+      "simplified_description": "Sliced chicken served with black pepper sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tenderloin Strips with Black Bean Sauce",
+      "price": 20.45,
+      "description": "Beef Tenderloin Strips with Black Bean Sauce",
+      "category": "SPECIALTIES",
+      "simplified_description": "Beef tenderloin strips cooked in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Black Bean Sauce",
+      "price": 20.45,
+      "description": "Sliced Chicken with Black Bean Sauce",
+      "category": "SPECIALTIES",
+      "simplified_description": "Sliced chicken cooked in black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns & Scallops with Black Bean Sauce",
+      "price": 23.45,
+      "description": "Prawns & Scallops with Black Bean Sauce",
+      "category": "SPECIALTIES",
+      "simplified_description": "Prawns and scallops served with black bean sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Squid with Szechuan Sauce!",
+      "price": 21.45,
+      "description": "Sliced Squid with Szechuan Sauce!",
+      "category": "SPECIALTIES",
+      "simplified_description": "Sliced squid cooked in spicy Szechuan sauce.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sliced Chicken with Szechuan Sauce!",
+      "price": 20.45,
+      "description": "Sliced Chicken with Szechuan Sauce!",
+      "category": "SPECIALTIES",
+      "simplified_description": "Sliced chicken cooked in spicy Szechuan sauce.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Prawns with Szechuan Sauce!",
+      "price": 23.45,
+      "description": "Prawns with Szechuan Sauce!",
+      "category": "SPECIALTIES",
+      "simplified_description": "Prawns cooked in spicy Szechuan sauce.",
+      "dietary_info": [
+        "spicy",
+        "dairy-free",
+        "nut-free",
+        "gluten-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Seafood with Black Bean & Pepper Sauce",
+      "price": 23.45,
+      "description": "Seafood with Black Bean & Pepper Sauce",
+      "category": "SPECIALTIES",
+      "simplified_description": "Seafood served with black bean and pepper sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken & Prawns in Honey Pepper Sauce!",
+      "price": 23.45,
+      "description": "Chicken & Prawns in Honey Pepper Sauce!",
+      "category": "SPECIALTIES",
+      "simplified_description": "Chicken and prawns cooked in honey pepper sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood with Bean Curd ",
+      "price": 23.45,
+      "description": "Seafood with Bean Curd ",
+      "category": "SPECIALTIES",
+      "simplified_description": "Seafood served with soft bean curd.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable with Vermicelli",
+      "price": 16.45,
+      "description": "Mixed Vegetable with Vermicelli",
+      "category": "SPECIALTIES",
+      "simplified_description": "Mixed vegetables served with vermicelli noodles.",
+      "dietary_info": [
+        "vegan",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Boneless Chicken Hot Pot",
+      "price": 19.45,
+      "description": "Boneless Chicken Hot Pot",
+      "category": "SPECIALTIES",
+      "simplified_description": "Hot pot dish with boneless chicken.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Hot Pot",
+      "price": 19.45,
+      "description": "Beef Hot Pot",
+      "category": "SPECIALTIES",
+      "simplified_description": "A hot pot dish featuring beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Prawns & Vegetable in a Nest",
+      "price": 23.45,
+      "description": "Chicken, Prawns & Vegetable in a Nest",
+      "category": "SPECIALTIES",
+      "simplified_description": "Chicken, prawns, and vegetables served in a crispy nest.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fried Rice",
+      "price": 14.45,
+      "description": "Chicken Fried Rice",
+      "category": "RICE",
+      "simplified_description": "Fried rice cooked with chicken pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Fried Rice",
+      "price": 14.45,
+      "description": "Beef Fried Rice",
+      "category": "RICE",
+      "simplified_description": "Fried rice with beef mixed in.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork Fried Rice",
+      "price": 14.45,
+      "description": "BBQ Pork Fried Rice",
+      "category": "RICE",
+      "simplified_description": "Fried rice with BBQ pork pieces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 17.45,
+      "description": "Shrimp Fried Rice",
+      "category": "RICE",
+      "simplified_description": "Fried rice cooked with shrimp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fried Rice",
+      "price": 17.45,
+      "description": "shrimp, chicken & bbq pork",
+      "category": "RICE",
+      "simplified_description": "Fried rice with shrimp, chicken, and BBQ pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "price": 14.45,
+      "description": "Mushroom Fried Rice",
+      "category": "RICE",
+      "simplified_description": "Fried rice with mushrooms.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable Fried Rice",
+      "price": 14.4,
+      "description": "Mixed Vegetable Fried Rice",
+      "category": "RICE",
+      "simplified_description": "Fried rice with mixed vegetables.",
+      "dietary_info": [
+        "vegan",
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

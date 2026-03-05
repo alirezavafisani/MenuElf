@@ -1,0 +1,403 @@
+{
+  "restaurant": "linasmarket",
+  "parsed_at": "2026-02-06T03:07:16.224698",
+  "item_count": 44,
+  "items": [
+    {
+      "name": "Big Genoa",
+      "price": 17.0,
+      "description": "Beef burger, candied onion, mozzarella, Genoa salame",
+      "category": "FOOD",
+      "simplified_description": "Beef burger, candied onion, mozzarella, Genoa salame",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pollo",
+      "price": 17.0,
+      "description": "Spiced chicken breast, sweet & sour peppers, goat cheese",
+      "category": "FOOD",
+      "simplified_description": "Spiced chicken breast, sweet & sour peppers, goat cheese",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Open-Face Roasted Mortadella",
+      "price": 15.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rigatoni with Sausage & Vodka Sauce",
+      "price": 18.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Penne Pomodoro & Basil",
+      "price": 18.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fettuccine Panna & Parmigiano (Alfredo)",
+      "price": 18.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tagliatelle Bolognese",
+      "price": 18.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Sausage Roll",
+      "price": 2.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Arancino",
+      "price": 3.5,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Focaccine",
+      "price": 4.0,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Overstuffed Panini",
+      "price": 13.0,
+      "description": "Prosciutto cotto, capicollo, Genoa salami, provolone, tomato, lettuce, romaine, sub bun",
+      "category": "PANINI",
+      "simplified_description": "Prosciutto cotto, capicollo, Genoa salami, provolone, tomato, lettuce, romaine, ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pesto Panini",
+      "price": 14.0,
+      "description": "Roasted chicken, basil pesto, provolone, arugula",
+      "category": "PANINI",
+      "simplified_description": "Roasted chicken, basil pesto, provolone, arugula",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Italian Panini",
+      "price": 13.0,
+      "description": "Roasted red pepper, mortadella, provolone, sub bun",
+      "category": "PANINI",
+      "simplified_description": "Roasted red pepper, mortadella, provolone, sub bun",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caprese Panini",
+      "price": 13.0,
+      "description": "Fresh basil, olive oil, tomato, bocconcini, focaccia",
+      "category": "PANINI",
+      "simplified_description": "Fresh basil, olive oil, tomato, bocconcini, focaccia",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese Panini",
+      "price": 13.0,
+      "description": "Eggplant, provolone, Calabrese salami, sub bun",
+      "category": "PANINI",
+      "simplified_description": "Eggplant, provolone, Calabrese salami, sub bun",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ham & Cheese Croissant",
+      "price": 9.0,
+      "description": "Prosciutto cotto, provolone, croissant",
+      "category": "PANINI",
+      "simplified_description": "Prosciutto cotto, provolone, croissant",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Capricciosa",
+      "price": null,
+      "description": "Mozzarella, olives, anchovies, prosciutto cotto, mushrooms, artichokes, capers",
+      "category": "PIZZA",
+      "simplified_description": "Mozzarella, olives, anchovies, prosciutto cotto, mushrooms, artichokes, capers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pepperoni",
+      "price": null,
+      "description": "Mild pepperoni, mozzarella, tomato sauce, spicy honey",
+      "category": "PIZZA",
+      "simplified_description": "Mild pepperoni, mozzarella, tomato sauce, spicy honey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margherita",
+      "price": null,
+      "description": "Tomato sauce, fior di latte, fresh basil",
+      "category": "PIZZA",
+      "simplified_description": "Tomato sauce, fior di latte, fresh basil",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pesto",
+      "price": null,
+      "description": "Alfredo sauce, mozzarella, pulled chicken, sundried tomatoes, basil pesto",
+      "category": "PIZZA",
+      "simplified_description": "Alfredo sauce, mozzarella, pulled chicken, sundried tomatoes, basil pesto",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrese",
+      "price": null,
+      "description": "Mozzarella, Calabrese salame, grana padano, tomato sauce, spicy sausage",
+      "category": "PIZZA",
+      "simplified_description": "Mozzarella, Calabrese salame, grana padano, tomato sauce, spicy sausage",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Funghi",
+      "price": null,
+      "description": "Alfredo sauce, mushrooms, mozzarella",
+      "category": "PIZZA",
+      "simplified_description": "Alfredo sauce, mushrooms, mozzarella",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Frittata Caprese",
+      "price": 15.0,
+      "description": "Tomatoes, smoked cheese, basil pesto",
+      "category": "BREAKFAST",
+      "simplified_description": "Tomatoes, smoked cheese, basil pesto",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Focaccia",
+      "price": 12.0,
+      "description": "Roasted mortadella, fried egg, mayo",
+      "category": "BREAKFAST",
+      "simplified_description": "Roasted mortadella, fried egg, mayo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breakfast Sandwich",
+      "price": 14.0,
+      "description": "Eggs, bacon, and smoked provolone",
+      "category": "BREAKFAST",
+      "simplified_description": "Eggs, bacon, and smoked provolone",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Everything Toast",
+      "price": 14.0,
+      "description": "Avocado crema and shaved egg",
+      "category": "BREAKFAST",
+      "simplified_description": "Avocado crema and shaved egg",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Salmon Sourdough Toast",
+      "price": 20.0,
+      "description": "Topped with egg and apple salad",
+      "category": "BREAKFAST",
+      "simplified_description": "Topped with egg and apple salad",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Beef Bolognese Lasagna",
+      "price": 14.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Cotoletta Combo",
+      "price": 16.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Mushroom & Mascarpone Seashells",
+      "price": 14.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meatballs al Sugo (2 pcs)",
+      "price": 10.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy or Mild Sausage & Peppers (1 pc)",
+      "price": 10.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Minestrone Soup",
+      "price": 8.0,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Arrosto Plate",
+      "price": 24.0,
+      "description": "1 roast of the day + 2 sides",
+      "category": "OTHER",
+      "simplified_description": "1 roast of the day + 2 sides",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "¼ Roasted Chicken with Rosemary Jus",
+      "price": 14.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 oz. Roasted Pork Loin with Agrodolce Sauce",
+      "price": 15.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 oz. Roasted Brisket with Grainy Mustard Sauce",
+      "price": 17.0,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 6.0,
+      "description": "Refreshing veggie and feta mix",
+      "category": "SIDE",
+      "simplified_description": "Refreshing veggie and feta mix",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bean Salad",
+      "price": 6.0,
+      "description": "Hearty and nutritious",
+      "category": "SIDE",
+      "simplified_description": "Hearty and nutritious",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta Salad",
+      "price": 6.0,
+      "description": "Italian pasta, fresh veggie medley",
+      "category": "SIDE",
+      "simplified_description": "Italian pasta, fresh veggie medley",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bocconcini Salad",
+      "price": 6.0,
+      "description": "Unique and flavorful option",
+      "category": "SIDE",
+      "simplified_description": "Unique and flavorful option",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pickles",
+      "price": 4.0,
+      "description": "Kaylin & Hobbs pickles",
+      "category": "SIDE",
+      "simplified_description": "Kaylin & Hobbs pickles",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chips",
+      "price": 4.0,
+      "description": "Fresh deli chips",
+      "category": "SIDE",
+      "simplified_description": "Fresh deli chips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deli Fresh Cookie",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

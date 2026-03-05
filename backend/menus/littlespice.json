@@ -1,0 +1,655 @@
+{
+  "restaurant": "littlespice",
+  "parsed_at": "2026-02-06T03:08:16.764202",
+  "item_count": 72,
+  "items": [
+    {
+      "name": "Paneer",
+      "price": 14.99,
+      "description": "Fresh spinach cooked with exotic spices and homemade cottage cheese.",
+      "category": "FOOD",
+      "simplified_description": "Fresh spinach cooked with exotic spices and homemade cottage cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baingan Bhartha",
+      "price": 14.99,
+      "description": "Tandoor roasted eggplants mashed and cooked in spiced tomato gravy.",
+      "category": "FOOD",
+      "simplified_description": "Tandoor roasted eggplants mashed and cooked in spiced tomato gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 14.99,
+      "description": "Cottage cheese cooked in a rich, creamy, mildly spiced sauce.",
+      "category": "FOOD",
+      "simplified_description": "Cottage cheese cooked in a rich, creamy, mildly spiced sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bhindi (Okra)",
+      "price": 14.99,
+      "description": "Fresh okra cooked with onions and traditional Indian spices.",
+      "category": "FOOD",
+      "simplified_description": "Fresh okra cooked with onions and traditional Indian spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Masala (SPECIAL)",
+      "price": 14.99,
+      "description": "Grilled paneer cubes cooked in a flavorful tomato-based masala.",
+      "category": "FOOD",
+      "simplified_description": "Grilled paneer cubes cooked in a flavorful tomato-based masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Daal Makhni",
+      "price": 15.99,
+      "description": "Black lentils slow cooked with butter, cream, and aromatic spices.",
+      "category": "FOOD",
+      "simplified_description": "Black lentils slow cooked with butter, cream, and aromatic spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken (SPECIAL)",
+      "price": 14.99,
+      "description": "Succulent pieces of chicken cooked in a butter, cream, and tomato based sauce.",
+      "category": "FOOD",
+      "simplified_description": "Succulent pieces of chicken cooked in a butter, cream, and tomato based sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Jalfrezi (SPECIAL)",
+      "price": 14.99,
+      "description": "Tender chicken pieces cooked with bell pepper, onions, and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken pieces cooked with bell pepper, onions, and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Chicken",
+      "price": 14.99,
+      "description": "Chicken pieces cooked with green chili pepper and a selection of spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken pieces cooked with green chili pepper and a selection of spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Achari Chicken",
+      "price": 14.99,
+      "description": "Chicken cooked with onions, garlic, tomatoes, and special pickle spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken cooked with onions, garlic, tomatoes, and special pickle spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Qorma",
+      "price": 14.99,
+      "description": "Tender chicken slow cooked in a creamy, mildly spiced gravy with yogurt.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken slow cooked in a creamy, mildly spiced gravy with yogurt.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 14.99,
+      "description": "Tender chicken simmered in a traditional spiced onion and tomato gravy.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken simmered in a traditional spiced onion and tomato gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Rogan Josh",
+      "price": 14.99,
+      "description": "Tender chicken cooked in a rich, aromatic curry with tomatoes and traditional spices.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken cooked in a rich, aromatic curry with tomatoes and traditional sp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 15.99,
+      "description": "Chicken pieces charcoal grilled and cooked in tomato gravy with cream and exotic spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken pieces charcoal grilled and cooked in tomato gravy with cream and exotic",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Chicken Qorma",
+      "price": 15.99,
+      "description": "Chicken pieces slow cooked with cream, yogurt, cashews, almonds, and homemade spices.",
+      "category": "FOOD",
+      "simplified_description": "Chicken pieces slow cooked with cream, yogurt, cashews, almonds, and homemade sp",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kabab Masala (SPECIAL)",
+      "price": 15.99,
+      "description": "Grilled chicken kabab cooked with bell pepper, onions, and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Grilled chicken kabab cooked with bell pepper, onions, and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Roll",
+      "price": 13.99,
+      "description": "Lettuce, Onion, Tomato and Garlic & Hot Sauce",
+      "category": "FOOD",
+      "simplified_description": "Lettuce, Onion, Tomato and Garlic & Hot Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab Roll",
+      "price": 13.99,
+      "description": "Lettuce, Onion, Tomato and Garlic & Hot Sauce",
+      "category": "FOOD",
+      "simplified_description": "Lettuce, Onion, Tomato and Garlic & Hot Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Curry",
+      "price": 15.99,
+      "description": "Tender beef cooked in a traditional onion and tomato based curry.",
+      "category": "FOOD",
+      "simplified_description": "Tender beef cooked in a traditional onion and tomato based curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Rogan Josh",
+      "price": 15.99,
+      "description": "Beef cooked with bell pepper, fresh jalapeño, browned onions, yogurt, and aromatic spices.",
+      "category": "FOOD",
+      "simplified_description": "Beef cooked with bell pepper, fresh jalapeño, browned onions, yogurt, and aromat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Madras",
+      "price": 15.99,
+      "description": "Beef pieces cooked with coriander, cumin, turmeric, and fresh lemon juice.",
+      "category": "FOOD",
+      "simplified_description": "Beef pieces cooked with coriander, cumin, turmeric, and fresh lemon juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Curry",
+      "price": 16.99,
+      "description": "Tender lamb simmered in a rich, mildly spiced curry sauce.",
+      "category": "FOOD",
+      "simplified_description": "Tender lamb simmered in a rich, mildly spiced curry sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Rogan Josh",
+      "price": 16.99,
+      "description": "Lamb cooked with bell pepper, fresh jalapeño, browned onions, yogurt, and fragrant spices.",
+      "category": "FOOD",
+      "simplified_description": "Lamb cooked with bell pepper, fresh jalapeño, browned onions, yogurt, and fragra",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb With Qorma",
+      "price": 16.99,
+      "description": "Slow cooked meat prepared with fresh green chilies, coconut cream, and mixed spices.",
+      "category": "FOOD",
+      "simplified_description": "Slow cooked meat prepared with fresh green chilies, coconut cream, and mixed spi",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nehari",
+      "price": 16.99,
+      "description": "Beef shanks slow cooked for hours with a special blend of traditional spices.",
+      "category": "FOOD",
+      "simplified_description": "Beef shanks slow cooked for hours with a special blend of traditional spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Kabab Masala",
+      "price": 16.99,
+      "description": "Grilled beef kababs cooked with bell pepper, onions, and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Grilled beef kababs cooked with bell pepper, onions, and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Haleem",
+      "price": 16.99,
+      "description": "Slow cooked blend of meat, lentils, and wheat, simmered to a rich, hearty texture.",
+      "category": "FOOD",
+      "simplified_description": "Slow cooked blend of meat, lentils, and wheat, simmered to a rich, hearty textur",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Lamb Qorma",
+      "price": 16.99,
+      "description": "Tender lamb slow cooked in a rich, creamy gravy with yogurt, and aromatic spices.",
+      "category": "FOOD",
+      "simplified_description": "Tender lamb slow cooked in a rich, creamy gravy with yogurt, and aromatic spices",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Naan",
+      "price": 1.99,
+      "description": "Soft, freshly baked leavened bread cooked in the tandoor.",
+      "category": "SIDE",
+      "simplified_description": "Soft, freshly baked leavened bread cooked in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 2.99,
+      "description": "Traditional naan topped with fresh garlic and baked in the tandoor.",
+      "category": "SIDE",
+      "simplified_description": "Traditional naan topped with fresh garlic and baked in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Roti",
+      "price": 2.99,
+      "description": "Whole wheat flatbread baked in the tandoor with a crisp texture.",
+      "category": "SIDE",
+      "simplified_description": "Whole wheat flatbread baked in the tandoor with a crisp texture.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gulab Jamun",
+      "price": 4.99,
+      "description": "Soft milk dumplings soaked in warm sugar syrup.",
+      "category": "DESSERT",
+      "simplified_description": "Soft milk dumplings soaked in warm sugar syrup.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kheer",
+      "price": 6.99,
+      "description": "Traditional rice pudding cooked with milk, sugar, and aromatic cardamom.",
+      "category": "DESSERT",
+      "simplified_description": "Traditional rice pudding cooked with milk, sugar, and aromatic cardamom.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kulfi Platter",
+      "price": 7.99,
+      "description": "Assorted slices of traditional Indian ice cream, rich and creamy in flavor.",
+      "category": "DESSERT",
+      "simplified_description": "Assorted slices of traditional Indian ice cream, rich and creamy in flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Combo",
+      "price": 21.95,
+      "description": "Butter chicken, rice, and naan.",
+      "category": "OTHER",
+      "simplified_description": "Butter chicken, rice, and naan.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Chop Platter",
+      "price": 29.95,
+      "description": "Lamb Chops, Rice, Naan, Salad, Fries",
+      "category": "OTHER",
+      "simplified_description": "Lamb Chops, Rice, Naan, Salad, Fries",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Veg Curry Combo",
+      "price": 19.95,
+      "description": "Mix Veg, Rice ,Naan",
+      "category": "OTHER",
+      "simplified_description": "Mix Veg, Rice ,Naan",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "little spice lunch special",
+      "price": 14.95,
+      "description": "Samosa, Naan, Butter Chicken, Veg Pakoras, Chana Masala, Rice",
+      "category": "OTHER",
+      "simplified_description": "Samosa, Naan, Butter Chicken, Veg Pakoras, Chana Masala, Rice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "East Indian Lunch Buffet",
+      "price": 19.95,
+      "description": "Kids 1-3 : FREE Kids 4-12 : $15 Adults : $18.95",
+      "category": "OTHER",
+      "simplified_description": "Kids 1-3 : FREE Kids 4-12 : $15 Adults : $18.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sheesh Kabob (Special)",
+      "price": 12.99,
+      "description": "Minced meat seasoned with intense tandoori spices and grilled for rich flavor.",
+      "category": "FOOD",
+      "simplified_description": "Minced meat seasoned with intense tandoori spices and grilled for rich flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Reshmi Kabab",
+      "price": 13.99,
+      "description": "Minced chicken mixed with spices and grilled in the clay oven.",
+      "category": "FOOD",
+      "simplified_description": "Minced chicken mixed with spices and grilled in the clay oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 13.99,
+      "description": "Tender pieces of prime chicken or beef marinated with fresh spices and yogurt, cooked to perfection in the tandoor.",
+      "category": "FOOD",
+      "simplified_description": "Tender pieces of prime chicken or beef marinated with fresh spices and yogurt, c",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Afghani Tikka (Special)",
+      "price": 13.99,
+      "description": "Chicken pieces marinated overnight and cooked on an open flame.",
+      "category": "FOOD",
+      "simplified_description": "Chicken pieces marinated overnight and cooked on an open flame.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chapli Kabab",
+      "price": 13.99,
+      "description": "Flat minced beef kabab seasoned with traditional spices and herbs.",
+      "category": "FOOD",
+      "simplified_description": "Flat minced beef kabab seasoned with traditional spices and herbs.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 14.99,
+      "description": "Chicken marinated in traditional tandoori spices and roasted in the clay oven.",
+      "category": "FOOD",
+      "simplified_description": "Chicken marinated in traditional tandoori spices and roasted in the clay oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Fish Tikka",
+      "price": 14.99,
+      "description": "Fish cubes marinated in the traditional style and baked in the clay oven.",
+      "category": "FOOD",
+      "simplified_description": "Fish cubes marinated in the traditional style and baked in the clay oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Tikka",
+      "price": 14.99,
+      "description": "Juicy beef cubes marinated in spices and grilled to perfection.",
+      "category": "FOOD",
+      "simplified_description": "Juicy beef cubes marinated in spices and grilled to perfection.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb Tikka",
+      "price": 15.99,
+      "description": "Tender lamb pieces marinated with spices and charcoal grilled.",
+      "category": "FOOD",
+      "simplified_description": "Tender lamb pieces marinated with spices and charcoal grilled.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Tandoori Platter",
+      "price": 24.99,
+      "description": "An ultimate tandoori experience platter with chicken tikka, beef tikka & sheesh kabob.",
+      "category": "OTHER",
+      "simplified_description": "An ultimate tandoori experience platter with chicken tikka, beef tikka & sheesh ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Little Spice BBQ Platter (Special)",
+      "price": 28.99,
+      "description": "Sizzling platter with kabab, tandoori fish, and boneless chicken tikka.",
+      "category": "OTHER",
+      "simplified_description": "Sizzling platter with kabab, tandoori fish, and boneless chicken tikka.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Lassi",
+      "price": 5.99,
+      "description": "Refreshing yogurt drink lightly seasoned with salt.",
+      "category": "DRINK",
+      "simplified_description": "Refreshing yogurt drink lightly seasoned with salt.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet Lassi",
+      "price": 5.99,
+      "description": "Creamy yogurt drink blended with sugar.",
+      "category": "DRINK",
+      "simplified_description": "Creamy yogurt drink blended with sugar.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 6.99,
+      "description": "Smooth yogurt drink blended with ripe mango pulp.",
+      "category": "DRINK",
+      "simplified_description": "Smooth yogurt drink blended with ripe mango pulp.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 6.99,
+      "description": "Thick and creamy shake made with mango flavor.",
+      "category": "DRINK",
+      "simplified_description": "Thick and creamy shake made with mango flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Shake",
+      "price": 6.99,
+      "description": "Rich milkshake blended with strawberry flavor.",
+      "category": "DRINK",
+      "simplified_description": "Rich milkshake blended with strawberry flavor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Shake",
+      "price": 6.99,
+      "description": "Creamy milkshake blended with chocolate.",
+      "category": "DRINK",
+      "simplified_description": "Creamy milkshake blended with chocolate.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chai",
+      "price": 2.99,
+      "description": "Traditional spiced milk tea.",
+      "category": "DRINK",
+      "simplified_description": "Traditional spiced milk tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Tea",
+      "price": 2.99,
+      "description": "Classic brewed black tea.",
+      "category": "DRINK",
+      "simplified_description": "Classic brewed black tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jasmine Tea",
+      "price": 2.99,
+      "description": "Light, aromatic jasmine infused tea.",
+      "category": "DRINK",
+      "simplified_description": "Light, aromatic jasmine infused tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Tea",
+      "price": 2.99,
+      "description": "Light and refreshing green tea.",
+      "category": "DRINK",
+      "simplified_description": "Light and refreshing green tea.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FISH CURRY",
+      "price": 15.99,
+      "description": "Fish marinated over night, and cooked in a tomato and onion based sauce.",
+      "category": "FOOD",
+      "simplified_description": "Fish marinated over night, and cooked in a tomato and onion based sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable",
+      "price": 12.99,
+      "description": "Mixed vegetables cooked in a spicy tomato gravy",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in a spicy tomato gravy",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken",
+      "price": 14.99,
+      "description": "Tender chicken cooked in a bold, tangy vindaloo sauce.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken cooked in a bold, tangy vindaloo sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef",
+      "price": 14.99,
+      "description": "Slow cooked beef simmered in a spicy and flavorful vindaloo gravy.",
+      "category": "FOOD",
+      "simplified_description": "Slow cooked beef simmered in a spicy and flavorful vindaloo gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb",
+      "price": 15.99,
+      "description": "Tender lamb cooked in a rich, hot vindaloo curry.",
+      "category": "FOOD",
+      "simplified_description": "Tender lamb cooked in a rich, hot vindaloo curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 3.99,
+      "description": "Soft, freshly baked leavened bread cooked in the tandoor.",
+      "category": "SIDE",
+      "simplified_description": "Soft, freshly baked leavened bread cooked in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Fried Rice",
+      "price": 4.99,
+      "description": "Traditional naan topped with fresh garlic and baked in the tandoor.",
+      "category": "SIDE",
+      "simplified_description": "Traditional naan topped with fresh garlic and baked in the tandoor.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "price": 4.99,
+      "description": "Whole wheat flatbread baked in the tandoor with a crisp texture.",
+      "category": "SIDE",
+      "simplified_description": "Whole wheat flatbread baked in the tandoor with a crisp texture.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable",
+      "price": 12.99,
+      "description": "Mixed vegetables cooked in a spicy tomato gravy.",
+      "category": "FOOD",
+      "simplified_description": "Mixed vegetables cooked in a spicy tomato gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken",
+      "price": 14.99,
+      "description": "Tender chicken cooked in a bold, tangy vindaloo sauce.",
+      "category": "FOOD",
+      "simplified_description": "Tender chicken cooked in a bold, tangy vindaloo sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef",
+      "price": 15.99,
+      "description": "Slow cooked beef simmered in a spicy and flavorful vindaloo gravy.",
+      "category": "FOOD",
+      "simplified_description": "Slow cooked beef simmered in a spicy and flavorful vindaloo gravy.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lamb",
+      "price": 16.99,
+      "description": "Tender lamb cooked in a rich, hot vindaloo curry.",
+      "category": "FOOD",
+      "simplified_description": "Tender lamb cooked in a rich, hot vindaloo curry.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "restaurant": "vythicafe",
+  "parsed_at": "2026-02-06T04:44:51.888532",
+  "item_count": 20,
+  "items": [
+    {
+      "name": "Café Trứng Muối",
+      "price": null,
+      "description": "Coffee Medley 78. Café Trứng Muối",
+      "category": "DRINK",
+      "simplified_description": "Coffee Medley 78. Café Trứng Muối",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Đá Me Dầm Dừa Nướng",
+      "price": null,
+      "description": "Smoothie Medley 73. Đá Me Dầm Dừa Nướng",
+      "category": "DRINK",
+      "simplified_description": "Smoothie Medley 73. Đá Me Dầm Dừa Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Trà Chanh Giã Tay",
+      "price": null,
+      "description": "Fruiteas Medley 50. Trà Chanh Giã Tay",
+      "category": "DRINK",
+      "simplified_description": "Fruiteas Medley 50. Trà Chanh Giã Tay",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salted Egg Creme Milk Tea with Roasted Coconut",
+      "price": null,
+      "description": "Milk Tea Medley 49. Salted Egg Creme Milk Tea with Roasted Coconut",
+      "category": "DRINK",
+      "simplified_description": "Milk Tea Medley 49. Salted Egg Creme Milk Tea with Roasted Coconut",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Brown Sugar Signature Milk Tea",
+      "price": null,
+      "description": "Milk Tea Medley 41. Brown Sugar Signature Milk Tea",
+      "category": "DRINK",
+      "simplified_description": "Milk Tea Medley 41. Brown Sugar Signature Milk Tea",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Riêu",
+      "price": null,
+      "description": "Specials 35. Bún Riêu",
+      "category": "FOOD",
+      "simplified_description": "Specials 35. Bún Riêu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bò Kho",
+      "price": null,
+      "description": "Specials 34. Bò Kho",
+      "category": "FOOD",
+      "simplified_description": "Specials 34. Bò Kho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cánh Gà Chiên",
+      "price": null,
+      "description": "Appetizers 32. Cánh Gà Chiên",
+      "category": "APPETIZER",
+      "simplified_description": "Appetizers 32. Cánh Gà Chiên",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Phở Tái",
+      "price": null,
+      "description": "Vietnamese Beef Noodle Soup (P 21. Phở Tái",
+      "category": "FOOD",
+      "simplified_description": "Vietnamese Beef Noodle Soup (P 21. Phở Tái",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Tôm Nướng",
+      "price": null,
+      "description": "Rice and Vermicelli 17. Bún Tôm Nướng",
+      "category": "FOOD",
+      "simplified_description": "Rice and Vermicelli 17. Bún Tôm Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bún Thịt Nướng Chả Giò Tôm Nướng",
+      "price": null,
+      "description": "Rice and Vermicelli 16. Bún Thịt Nướng Chả Giò Tôm Nướng",
+      "category": "FOOD",
+      "simplified_description": "Rice and Vermicelli 16. Bún Thịt Nướng Chả Giò Tôm Nướng",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water",
+      "price": null,
+      "description": "80. Water",
+      "category": "DRINK",
+      "simplified_description": "80. Water",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": null,
+      "description": "79. Pop",
+      "category": "DRINK",
+      "simplified_description": "79. Pop",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nước Mía Dừa",
+      "price": null,
+      "description": "Sugarcane Medley 75. Nước Mía Dừa",
+      "category": "DRINK",
+      "simplified_description": "Sugarcane Medley 75. Nước Mía Dừa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nước Mía",
+      "price": null,
+      "description": "Sugarcane Medley 74. Nước Mía",
+      "category": "DRINK",
+      "simplified_description": "Sugarcane Medley 74. Nước Mía",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Café Muối",
+      "price": null,
+      "description": "Coffee Medley 77. Café Muối",
+      "category": "DRINK",
+      "simplified_description": "Coffee Medley 77. Café Muối",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Café Sữa Đá",
+      "price": null,
+      "description": "Coffee Medley 76. Café Sữa Đá",
+      "category": "DRINK",
+      "simplified_description": "Coffee Medley 76. Café Sữa Đá",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Taro Durian",
+      "price": null,
+      "description": "Smoothie Medley 72. Taro Durian",
+      "category": "DRINK",
+      "simplified_description": "Smoothie Medley 72. Taro Durian",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado",
+      "price": null,
+      "description": "Smoothie Medley 71. Avocado",
+      "category": "DRINK",
+      "simplified_description": "Smoothie Medley 71. Avocado",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Avocado - Durian",
+      "price": null,
+      "description": "Smoothie Medley 70. Avocado - Durian",
+      "category": "DRINK",
+      "simplified_description": "Smoothie Medley 70. Avocado - Durian",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

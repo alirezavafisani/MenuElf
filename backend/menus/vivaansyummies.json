@@ -1,0 +1,673 @@
+{
+  "restaurant": "vivaansyummies",
+  "parsed_at": "2026-02-06T04:44:28.267157",
+  "item_count": 74,
+  "items": [
+    {
+      "name": "Pani Puri",
+      "price": null,
+      "description": "Experience Calgary's first-ever live Pani Puri counter! Crispy hollow puris filled with spiced potato, chickpeas, and tangy mint-flavored water.",
+      "category": "FOOD",
+      "simplified_description": "Experience Calgary's first-ever live Pani Puri counter! Crispy hollow puris fill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dabeli",
+      "price": 10.0,
+      "description": "A sweet and spicy Gujarati street sandwich featuring spiced mashed potatoes, special dabeli masala, pomegranate seeds, peanuts, and chutneys in butter-toasted bun.",
+      "category": "FOOD",
+      "simplified_description": "A sweet and spicy Gujarati street sandwich featuring spiced mashed potatoes, spe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Lb Wings 1 Flavour",
+      "price": 13.65,
+      "description": "Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Lb Wings Upto 2 Flavours",
+      "price": 25.99,
+      "description": "Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 Lb Wings Upto 3 Flavours",
+      "price": 37.99,
+      "description": "Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "4 Lb Wings Upto 4 Flavours",
+      "price": 49.99,
+      "description": "Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "5 Lb Wings Upto 5 Flavours",
+      "price": 61.99,
+      "description": "Chicken Wings",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wings",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Lb Order",
+      "price": 15.99,
+      "description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and celery & dip. Served with 1 veggie and 1 dip.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and ce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "1 Lb Meal",
+      "price": 18.99,
+      "description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and celery & dip. Served with fries/onion rings, 1 veggie, dip & 1 pop.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and ce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Lb Order",
+      "price": 28.99,
+      "description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and celery & dip. Served with 1 veggie & dip.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and ce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "2 Lb Meal",
+      "price": 32.99,
+      "description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and celery & dip. Served with fries/onion rings, 1 veggie, 2 dips & 2 pop.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and ce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Family Pack",
+      "price": 40.99,
+      "description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and celery & dip. 3lb, served with 2 veggies & 2 dips.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and ce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Party Pack",
+      "price": 65.99,
+      "description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and celery & dip. 5lb, served with 3 veggies & 3 dips.",
+      "category": "FOOD",
+      "simplified_description": "Chicken Wing Packs - Breaded/non-breaded and boneless. Served with carrot and ce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Burger",
+      "price": 10.99,
+      "description": "Sandwiches - Mayo, lettuce, jalapeños, 2 chicken tenders.",
+      "category": "FOOD",
+      "simplified_description": "Sandwiches - Mayo, lettuce, jalapeños, 2 chicken tenders.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": 9.99,
+      "description": "Sandwiches - Lettuce, tomatoes, red onions, hand-breaded 2 chicken tenders.",
+      "category": "FOOD",
+      "simplified_description": "Sandwiches - Lettuce, tomatoes, red onions, hand-breaded 2 chicken tenders.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 7.99,
+      "description": "Sandwiches - Spicy mayo, tomatoes, red onions, lettuce and veggie patty.",
+      "category": "FOOD",
+      "simplified_description": "Sandwiches - Spicy mayo, tomatoes, red onions, lettuce and veggie patty.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger Combo",
+      "price": 11.98,
+      "description": "Sandwiches Combo - MAYO, LETTUCE, TOMATOES, RED ONIONS AND VEG PATTY, AND SELECT FRIES OR ONION RINGS AND POP",
+      "category": "FOOD",
+      "simplified_description": "Sandwiches Combo - MAYO, LETTUCE, TOMATOES, RED ONIONS AND VEG PATTY, AND SELECT",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Burger Combo",
+      "price": 14.98,
+      "description": "Sandwiches Combo - MAYO, LETTUCE, JALAPENOS , 2 BUFFALO CHICKEN TENDERS, AND SELECT FRIES OR ONION RINGS AND POP",
+      "category": "FOOD",
+      "simplified_description": "Sandwiches Combo - MAYO, LETTUCE, JALAPENOS , 2 BUFFALO CHICKEN TENDERS, AND SEL",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger Combo",
+      "price": 13.98,
+      "description": "Sandwiches Combo - MAYO, LETTUCE, TOMATOES, RED ONIONS, HAND BREADED 2 CHICKEN TENDERS, AND SELECT FRIES OR ONION RINGS AND POP",
+      "category": "FOOD",
+      "simplified_description": "Sandwiches Combo - MAYO, LETTUCE, TOMATOES, RED ONIONS, HAND BREADED 2 CHICKEN T",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tenders (3 pcs)",
+      "price": 7.99,
+      "description": "Tenders - One dip included.",
+      "category": "FOOD",
+      "simplified_description": "Tenders - One dip included.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tenders (5 pcs)",
+      "price": 12.99,
+      "description": "Tenders - One dip included.",
+      "category": "FOOD",
+      "simplified_description": "Tenders - One dip included.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tenders (10 pcs)",
+      "price": 24.99,
+      "description": "Tenders - One dip included.",
+      "category": "FOOD",
+      "simplified_description": "Tenders - One dip included.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tender combo 1",
+      "price": 11.99,
+      "description": "Tenders Combo - 3 PC TENDERS , FRIES OR ONION RINGS, ONE DIP OR SAUCE TOSSED AND ONE POP",
+      "category": "FOOD",
+      "simplified_description": "Tenders Combo - 3 PC TENDERS , FRIES OR ONION RINGS, ONE DIP OR SAUCE TOSSED AND",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tender combo 2",
+      "price": 17.49,
+      "description": "Tenders Combo - 5PC TENDERS, LARGE FRIES OR ONION RINGS, ONE DIP OR SAUCE TOSSED AND ONE POP",
+      "category": "FOOD",
+      "simplified_description": "Tenders Combo - 5PC TENDERS, LARGE FRIES OR ONION RINGS, ONE DIP OR SAUCE TOSSED",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 1 - Lunch Combo",
+      "price": 9.99,
+      "description": "Lunch Combos - 5 WINGS, FRIES/ ONIONS RINGS AND 1 POP",
+      "category": "FOOD",
+      "simplified_description": "Lunch Combos - 5 WINGS, FRIES/ ONIONS RINGS AND 1 POP",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 2 - Lunch Combo",
+      "price": 9.99,
+      "description": "Lunch Combos - CRISPY CHICKEN SANDWICH, FRIES OR ONION RINGS AND 1 POP",
+      "category": "FOOD",
+      "simplified_description": "Lunch Combos - CRISPY CHICKEN SANDWICH, FRIES OR ONION RINGS AND 1 POP",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 3 - Lunch Combo",
+      "price": 9.99,
+      "description": "Lunch Combos - BUFFALO CHICKEN SANDWICH, FRIES OR ONION RINGS AND 1 POP",
+      "category": "FOOD",
+      "simplified_description": "Lunch Combos - BUFFALO CHICKEN SANDWICH, FRIES OR ONION RINGS AND 1 POP",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Combo 4 - Lunch Combo",
+      "price": 9.99,
+      "description": "Lunch Combos - 3 CHICKEN TENDERS, FRIES OR ONION RINGS AND 1 POP & Dip",
+      "category": "FOOD",
+      "simplified_description": "Lunch Combos - 3 CHICKEN TENDERS, FRIES OR ONION RINGS AND 1 POP & Dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fries",
+      "price": 4.59,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 4.59,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wedges",
+      "price": 4.59,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Waffle Cut Fries",
+      "price": 4.59,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 2.99,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread with Cheese",
+      "price": 3.99,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Bread with Cheese and Bacon",
+      "price": 4.99,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 3.49,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coleslaw",
+      "price": 4.59,
+      "description": "Side Orders",
+      "category": "SIDE",
+      "simplified_description": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jalapeño Poppers",
+      "price": 9.99,
+      "description": "Side Orders (One Size) - One size. 7 Pieces, 1 Dip",
+      "category": "SIDE",
+      "simplified_description": "Side Orders (One Size) - One size. 7 Pieces, 1 Dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Loaded Fries",
+      "price": 9.99,
+      "description": "Side Orders (One Size) - One size. 1 chicken tender, mozzarella, cheddar cheese, tomatoes, red onions, topped with ranch and green onions.",
+      "category": "SIDE",
+      "simplified_description": "Side Orders (One Size) - One size. 1 chicken tender, mozzarella, cheddar cheese,",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": 10.59,
+      "description": "Side Orders (One Size) - One size. 7 Pieces, 1 Dip",
+      "category": "SIDE",
+      "simplified_description": "Side Orders (One Size) - One size. 7 Pieces, 1 Dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Parm Wedges (Regular / Spicy)",
+      "price": 9.99,
+      "description": "Side Orders (One Size) - One size",
+      "category": "SIDE",
+      "simplified_description": "Side Orders (One Size) - One size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Parm Fries (Regular / Spicy)",
+      "price": 9.99,
+      "description": "Side Orders (One Size) - One size",
+      "category": "SIDE",
+      "simplified_description": "Side Orders (One Size) - One size",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cauliflower Bites",
+      "price": 7.99,
+      "description": "Side Orders (One Size) - One size. 1 Dip",
+      "category": "SIDE",
+      "simplified_description": "Side Orders (One Size) - One size. 1 Dip",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Salad (Small)",
+      "price": 6.99,
+      "description": "Salads - Romaine lettuce, tomatoes, cucumbers, red onions, carrots, cheese blend and ranch dressing.",
+      "category": "SALAD",
+      "simplified_description": "Salads - Romaine lettuce, tomatoes, cucumbers, red onions, carrots, cheese blend",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Garden Salad (Large)",
+      "price": 11.59,
+      "description": "Salads - Romaine lettuce, tomatoes, cucumbers, red onions, carrots, cheese blend and ranch dressing.",
+      "category": "SALAD",
+      "simplified_description": "Salads - Romaine lettuce, tomatoes, cucumbers, red onions, carrots, cheese blend",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad (Small)",
+      "price": 6.99,
+      "description": "Salads - Romaine lettuce, bacon bits, croutons, crispy onion, Parmesan cheese and Caesar dressing.",
+      "category": "SALAD",
+      "simplified_description": "Salads - Romaine lettuce, bacon bits, croutons, crispy onion, Parmesan cheese an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad (Large)",
+      "price": 11.59,
+      "description": "Salads - Romaine lettuce, bacon bits, croutons, crispy onion, Parmesan cheese and Caesar dressing.",
+      "category": "SALAD",
+      "simplified_description": "Salads - Romaine lettuce, bacon bits, croutons, crispy onion, Parmesan cheese an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad (Small)",
+      "price": 6.99,
+      "description": "Salads - Romaine lettuce, cucumber, tomatoes, red onions, black olives, feta cheese and Greek dressing.",
+      "category": "SALAD",
+      "simplified_description": "Salads - Romaine lettuce, cucumber, tomatoes, red onions, black olives, feta che",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad (Large)",
+      "price": 11.59,
+      "description": "Salads - Romaine lettuce, cucumber, tomatoes, red onions, black olives, feta cheese and Greek dressing.",
+      "category": "SALAD",
+      "simplified_description": "Salads - Romaine lettuce, cucumber, tomatoes, red onions, black olives, feta che",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 6.59,
+      "description": "Poutine",
+      "category": "OTHER",
+      "simplified_description": "Poutine",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Four Boneless Wings, Drink, and Small Fries",
+      "price": 8.99,
+      "description": "Kids Menu",
+      "category": "OTHER",
+      "simplified_description": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Four Nuggets, Drink, and Small Fries",
+      "price": 8.99,
+      "description": "Kids Menu",
+      "category": "OTHER",
+      "simplified_description": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Tenders, Drink, and Small Fries",
+      "price": 8.99,
+      "description": "Kids Menu",
+      "category": "OTHER",
+      "simplified_description": "Kids Menu",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Style Cheesecake",
+      "price": 5.99,
+      "description": "Desserts - Rich, creamy and perfectly baked in true New York style.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - Rich, creamy and perfectly baked in true New York style.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake Roll (Fried)",
+      "price": 6.49,
+      "description": "Desserts - Creamy cheesecake filling rolled in a crispy wrapper, lightly fried to perfection. Crunchy on the outside, rich and smooth on the inside - a warm indulgent dessert you'll love.",
+      "category": "DESSERT",
+      "simplified_description": "Desserts - Creamy cheesecake filling rolled in a crispy wrapper, lightly fried t",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sauce Dips (2 oz)",
+      "price": 1.25,
+      "description": "Dips",
+      "category": "OTHER",
+      "simplified_description": "Dips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sauce Dips (4 oz)",
+      "price": 1.99,
+      "description": "Dips",
+      "category": "OTHER",
+      "simplified_description": "Dips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blue Cheese",
+      "price": 1.25,
+      "description": "Dips",
+      "category": "OTHER",
+      "simplified_description": "Dips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ranch",
+      "price": 1.25,
+      "description": "Dips",
+      "category": "OTHER",
+      "simplified_description": "Dips",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carrot, Celery, and One Dip",
+      "price": 4.15,
+      "description": "Veggies",
+      "category": "OTHER",
+      "simplified_description": "Veggies",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Choco Milk",
+      "price": 2.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pack of Six Pop",
+      "price": 7.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Water Bottle",
+      "price": 1.0,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coke Regular (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coke Diet (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Coke Zero (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fuze iced tea (Lemon) (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sprite (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canada Dry Ginger Ale (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crush Orange (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crush Cream Soda (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dr Pepper (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pop",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MUG root beer (355ml)",
+      "price": 1.5,
+      "description": "Drinks",
+      "category": "DRINK",
+      "simplified_description": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

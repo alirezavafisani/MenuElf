@@ -1,0 +1,431 @@
+{
+  "restaurant": "banhmiboy",
+  "parsed_at": "2026-02-06T00:56:22.301529",
+  "item_count": 34,
+  "items": [
+    {
+      "name": "Supreme Chicken and Beef",
+      "price": 13.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Chicken and beef with pickled vegetables and herbs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Chicken",
+      "price": 12.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Chicken sate with pickled vegetables and herbs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Beef",
+      "price": 12.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Beef sate with pickled vegetables and herbs.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crackling Pork Belly",
+      "price": 13.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Pork belly with crackling and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Traditional assorted cold cut",
+      "price": 11.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Assorted Vietnamese cold cuts with pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian",
+      "price": 10.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Vegetarian sandwich with pickled vegetables and herbs.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bánh Mì Boy Special (Fried sunny egg, Pate, soy sauce, cold cuts)",
+      "price": 11.5,
+      "description": "Pickled carrots, jalapeño, cucumber and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Special sandwich with egg, pate, soy sauce, and cold cuts.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme Vermicelli with Sate Chicken, Sate Beef and Shrimp",
+      "price": 17.5,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli with chicken, beef, shrimp, and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Chicken",
+      "price": 15.5,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Chicken sate with vermicelli and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Beef",
+      "price": 15.5,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Beef sate with vermicelli and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Chicken and Beef",
+      "price": 16.5,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Chicken and beef sate with vermicelli and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Shrimp",
+      "price": 16.5,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Shrimp sate with vermicelli and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crackling Pork Belly",
+      "price": 15.5,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Pork belly with crackling, vermicelli, and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli with Spring Rolls",
+      "price": 16.0,
+      "description": "Bean sprouts, pickled carrots and cilantro",
+      "category": "FOOD",
+      "simplified_description": "Vermicelli served with spring rolls and pickled vegetables.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Pho",
+      "price": 13.5,
+      "description": "Beansprouts, chopped green onions, cilantro and lime",
+      "category": "FOOD",
+      "simplified_description": "Beef noodle soup with fresh herbs and lime.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pho",
+      "price": 13.5,
+      "description": "Beansprouts, chopped green onions, cilantro and lime",
+      "category": "FOOD",
+      "simplified_description": "Chicken noodle soup with fresh herbs and lime.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Brisket Pho",
+      "price": 13.5,
+      "description": "Beansprouts, chopped green onions, cilantro and lime",
+      "category": "FOOD",
+      "simplified_description": "Beef brisket noodle soup with fresh herbs and lime.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Supreme Pho with Beef, Brisket and Meat Ball",
+      "price": 16.5,
+      "description": "Beansprouts, chopped green onions, cilantro and lime",
+      "category": "FOOD",
+      "simplified_description": "Noodle soup with beef, brisket, meatballs, herbs, and lime.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Sate Pho (Beef or Chicken)",
+      "price": 16.5,
+      "description": "Beansprouts, chopped green onions, cilantro and lime",
+      "category": "FOOD",
+      "simplified_description": "Spicy beef or chicken noodle soup with herbs and lime.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Avocado",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Fresh avocado drink.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Fresh mango drink.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Fresh strawberry drink.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pineapple",
+      "price": 6.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Fresh pineapple drink.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pop Can",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Canned soda drink.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bottle Water",
+      "price": 2.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Bottled water.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free",
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Coffee with Condensed milk",
+      "price": 7.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "Vietnamese coffee sweetened with condensed milk.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dumplings (8pc)",
+      "price": 12.0,
+      "description": "Choice of home-made dipping sauce, fish sauce or peanut sauce",
+      "category": "SNACKS",
+      "simplified_description": "Eight dumplings served with choice of dipping sauces.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Salad Rolls (3 rolls)",
+      "price": 10.5,
+      "description": "Choice of home-made dipping sauce, fish sauce or peanut sauce",
+      "category": "SNACKS",
+      "simplified_description": "Three shrimp salad rolls with choice of dipping sauces.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Rolls (4 rolls, Chicken or Pork)",
+      "price": 10.0,
+      "description": "Choice of home-made dipping sauce, fish sauce or peanut sauce",
+      "category": "SNACKS",
+      "simplified_description": "Four chicken or pork spring rolls with dipping sauces.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy rice cake with Pork belly and Mung bean or Vegetarian (4pc)",
+      "price": 14.0,
+      "description": "Choice of home-made dipping sauce, fish sauce or peanut sauce",
+      "category": "SNACKS",
+      "simplified_description": "Four crispy rice cakes with pork belly or vegetarian option.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Any Sauce",
+      "price": 1.5,
+      "description": "10% discount for students* *5% discount for orders over $50",
+      "category": "ADD-ONS",
+      "simplified_description": "Add any sauce to your order.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat Ball",
+      "price": 2.0,
+      "description": "10% discount for students* *5% discount for orders over $50",
+      "category": "ADD-ONS",
+      "simplified_description": "Add meatballs to your dish.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Meat",
+      "price": 3.0,
+      "description": "10% discount for students* *5% discount for orders over $50",
+      "category": "ADD-ONS",
+      "simplified_description": "Add meat to your order.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese",
+      "price": 1.5,
+      "description": "10% discount for students* *5% discount for orders over $50",
+      "category": "ADD-ONS",
+      "simplified_description": "Add cheese to your dish.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}

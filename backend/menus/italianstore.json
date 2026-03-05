@@ -1,0 +1,79 @@
+{
+  "restaurant": "italianstore",
+  "parsed_at": "2025-12-24T23:50:58.758498",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Panini",
+      "price": null,
+      "description": "Enjoy authentic Italian paninis, made with high-quality meats, cheese, and fresh local produce.",
+      "simplified_description": "Italian sandwiches made with good meats, cheese, and fresh ingredients.",
+      "category": "La Cafeteria",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pasta",
+      "price": null,
+      "description": "Explore the flavors of Italy with our pasta selection. Our classic dishes are made with premium ingredients for the perfect Italian food experience.",
+      "simplified_description": "A variety of Italian pasta dishes made with high-quality ingredients.",
+      "category": "La Cafeteria",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salad",
+      "price": null,
+      "description": "A mix of fresh ingredients, topped with delicious dressings for a refreshing dish.",
+      "simplified_description": "A fresh vegetable dish with tasty dressings.",
+      "category": "La Cafeteria",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soup",
+      "price": null,
+      "description": "Homemade soup made daily using fresh ingredients.",
+      "simplified_description": "Freshly made soup prepared every day.",
+      "category": "La Cafeteria",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Custom Platters",
+      "price": null,
+      "description": "We offer custom platters made locally in Calgary with premium meats, artisan cheeses, and fresh, house-made Italian ingredients.",
+      "simplified_description": "Personalized trays of high-quality meats and cheeses made in Calgary.",
+      "category": "Platters",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Custom Gift Baskets",
+      "price": null,
+      "description": "Each basket from The Italian Store is a customized collection of high-quality products, tailored to fit every taste and occasion.",
+      "simplified_description": "Personalized baskets filled with quality products for any occasion.",
+      "category": "Baskets",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Italian Ingredients",
+      "price": null,
+      "description": "Choose from an extensive selection of premium items to create the perfect custom basket.",
+      "simplified_description": "A variety of high-quality Italian ingredients for custom baskets.",
+      "category": "Baskets",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Delivery Service",
+      "price": null,
+      "description": "We deliver our gift baskets directly to your doorstep or a specified location within Calgary.",
+      "simplified_description": "Delivery of gift baskets to your home or chosen location in Calgary.",
+      "category": "Baskets",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

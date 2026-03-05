@@ -1,0 +1,529 @@
+{
+  "restaurant": "tajmahal-calgary",
+  "parsed_at": "2026-02-06T04:23:54.386468",
+  "item_count": 58,
+  "items": [
+    {
+      "name": "NEER",
+      "price": 18.0,
+      "description": "Homemade cheese and peas cooked in onions, tomatoes, and curry sauce.",
+      "category": "FOOD",
+      "simplified_description": "Homemade cheese and peas cooked in onions, tomatoes, and curry sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BHARTHA",
+      "price": 19.0,
+      "description": "Smoked eggplant crushed and sautéed with onions and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Smoked eggplant crushed and sautéed with onions and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MALAI KOFTA (6 pieces)",
+      "price": 18.5,
+      "description": "Vegetable balls cooked in a tomato and cream-based curry.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable balls cooked in a tomato and cream-based curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAAG ALOO or SAAG PANEER",
+      "price": 18.0,
+      "description": "Puréed spinach and green veggies cooked with potatoes or paneer.",
+      "category": "FOOD",
+      "simplified_description": "Puréed spinach and green veggies cooked with potatoes or paneer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PALIK ALOO or PALAK PANEER",
+      "price": 18.0,
+      "description": "Shredded spinach cooked with onions, potatoes or paneer.",
+      "category": "FOOD",
+      "simplified_description": "Shredded spinach cooked with onions, potatoes or paneer.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE KORMA",
+      "price": 18.0,
+      "description": "Mix vegetables cooked in a nut-based curry.",
+      "category": "FOOD",
+      "simplified_description": "Mix vegetables cooked in a nut-based curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BHINDI MASALA",
+      "price": 18.0,
+      "description": "Okra cooked with tomatoes, potatoes, and spices.",
+      "category": "FOOD",
+      "simplified_description": "Okra cooked with tomatoes, potatoes, and spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHAHI PANEER",
+      "price": 18.5,
+      "description": "Home-made cheese cooked with green and red peppers, in a tomato and cream-based gravy.",
+      "category": "FOOD",
+      "simplified_description": "Home-made cheese cooked with green and red peppers, in a tomato and cream-based ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHAWLA PANEER",
+      "price": 19.0,
+      "description": "Punjab’s famous chawla paneer cooked in a creamy herb and peppery based white sauce.",
+      "category": "FOOD",
+      "simplified_description": "Punjab’s famous chawla paneer cooked in a creamy herb and peppery based white sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KADHAI PANEER",
+      "price": 19.5,
+      "description": "Homemade cheese cooked with whole spices, onions, green and red bell peppers.",
+      "category": "FOOD",
+      "simplified_description": "Homemade cheese cooked with whole spices, onions, green and red bell peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BALTI MIXED VEGETABLES",
+      "price": 18.5,
+      "description": "Yogurt based curry made with whole spices, onions, and tomatoes.",
+      "category": "FOOD",
+      "simplified_description": "Yogurt based curry made with whole spices, onions, and tomatoes.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHAHI KOFTA KORMA (6 pieces)",
+      "price": 18.5,
+      "description": "Vegetable balls cooked in a nut-based curry.",
+      "category": "FOOD",
+      "simplified_description": "Vegetable balls cooked in a nut-based curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FISH CURRY",
+      "price": 19.0,
+      "description": "Fish cooked in a mild onion, ginger, and tomato-based curry.",
+      "category": "FOOD",
+      "simplified_description": "Fish cooked in a mild onion, ginger, and tomato-based curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHRIMP CURRY",
+      "price": 19.5,
+      "description": "Shrimp cooked in a onion and tomato-based curry.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp cooked in a onion and tomato-based curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SHRIMP BADAMEE",
+      "price": 20.5,
+      "description": "Shrimp cooked in a cream cashew and almond base curry.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp cooked in a cream cashew and almond base curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BALTI SHRIMP",
+      "price": 20.5,
+      "description": "Shrimp cooked in a yogurt-based curry with whole spices.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp cooked in a yogurt-based curry with whole spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MAKHNI SHRIMP",
+      "price": 20.5,
+      "description": "Shrimp cooked in makhni sauce (tomatoes, cream, butter).",
+      "category": "FOOD",
+      "simplified_description": "Shrimp cooked in makhni sauce (tomatoes, cream, butter).",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PRAWN MASALA",
+      "price": 20.5,
+      "description": "Shrimp cooked with onions, tomatoes, green and red peppers.",
+      "category": "FOOD",
+      "simplified_description": "Shrimp cooked with onions, tomatoes, green and red peppers.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHAPATI",
+      "price": 2.5,
+      "description": "Thin whole wheat bread cooked on a flat grill then open flame.",
+      "category": "OTHER",
+      "simplified_description": "Thin whole wheat bread cooked on a flat grill then open flame.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TANDOORI ROTI",
+      "price": 3.0,
+      "description": "Whole wheat bread cooked fresh in the clay oven.",
+      "category": "OTHER",
+      "simplified_description": "Whole wheat bread cooked fresh in the clay oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NAAN",
+      "price": 3.25,
+      "description": "White flour bread cooked in the clay oven with light butter.",
+      "category": "OTHER",
+      "simplified_description": "White flour bread cooked in the clay oven with light butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GARLIC NAN",
+      "price": 4.0,
+      "description": "White flour bread cooked in the clay oven with light garlic butter.",
+      "category": "OTHER",
+      "simplified_description": "White flour bread cooked in the clay oven with light garlic butter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PARATHA (lachhedar)",
+      "price": 4.75,
+      "description": "Whole wheat layered bread, shallow fried in butter and cooked in the tandoor oven or over flat grill.",
+      "category": "OTHER",
+      "simplified_description": "Whole wheat layered bread, shallow fried in butter and cooked in the tandoor ove",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ROLLED BUTTER NAN",
+      "price": 5.25,
+      "description": "Rolled white flour layered bread cooked in the tandoor oven.",
+      "category": "OTHER",
+      "simplified_description": "Rolled white flour layered bread cooked in the tandoor oven.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PARATHA (Aloo, Chicken or Keema)",
+      "price": 8.0,
+      "description": "Whole wheat layered bread stuffed with either spiced potatoes/chicken/beef keema and shallow fry on a flat grill.",
+      "category": "OTHER",
+      "simplified_description": "Whole wheat layered bread stuffed with either spiced potatoes/chicken/beef keema",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KULCHAS (Paneer, Keema, Potato or Chicken)",
+      "price": 8.0,
+      "description": "White flour bread stuffed with either homemade cheese/beef keema/potatoes/chicken, cooked in clay oven, and lightly buttered.",
+      "category": "OTHER",
+      "simplified_description": "White flour bread stuffed with either homemade cheese/beef keema/potatoes/chicke",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SAFFRON RICE",
+      "price": 7.0,
+      "description": "Rice cooked with saffron threads.",
+      "category": "FOOD",
+      "simplified_description": "Rice cooked with saffron threads.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PEA PULAO",
+      "price": 8.5,
+      "description": "Saffron rice cooked with peas.",
+      "category": "FOOD",
+      "simplified_description": "Saffron rice cooked with peas.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COCONUT RICE",
+      "price": 8.0,
+      "description": "Basmati rice cooked with shredded coconut with mustard seeds.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with shredded coconut with mustard seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE PULAO",
+      "price": 11.0,
+      "description": "Saffron rice cooked with veggies.",
+      "category": "FOOD",
+      "simplified_description": "Saffron rice cooked with veggies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BIRYANI (Chicken, Lamb, Prawn or Beef)",
+      "price": 23.0,
+      "description": "Saffron rice cooked with chicken/lamb/beef/prawns with whole spices, almonds, cashews, and dairy.",
+      "category": "FOOD",
+      "simplified_description": "Saffron rice cooked with chicken/lamb/beef/prawns with whole spices, almonds, ca",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE BIRYANI",
+      "price": 21.0,
+      "description": "Saffron rice cooked with mix veggies, whole spices, and nuts.",
+      "category": "FOOD",
+      "simplified_description": "Saffron rice cooked with mix veggies, whole spices, and nuts.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WHITE JEERA RICE",
+      "price": 6.5,
+      "description": "Basmati rice cooked with cumin seeds.",
+      "category": "FOOD",
+      "simplified_description": "Basmati rice cooked with cumin seeds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHUTNEY",
+      "price": 3.0,
+      "description": "Mango, mint, or tamarind flavour.",
+      "category": "SIDE",
+      "simplified_description": "Mango, mint, or tamarind flavour.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MIXED PICKLES",
+      "price": 3.0,
+      "description": "A mixture of mango, lemon and other vegetables in an authentic Indian sweet and sour pickle.",
+      "category": "SIDE",
+      "simplified_description": "A mixture of mango, lemon and other vegetables in an authentic Indian sweet and ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONIONS AND HOT CHILLIES",
+      "price": 3.0,
+      "description": "$3",
+      "category": "SIDE",
+      "simplified_description": "$3",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CUCUMBER RAITA",
+      "price": 6.5,
+      "description": "Shredded cucumber in homemade yogurt with spices.",
+      "category": "SIDE",
+      "simplified_description": "Shredded cucumber in homemade yogurt with spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KACHUMBER SALAD",
+      "price": 7.5,
+      "description": "Chopped onions, tomatoes, cucumber with spices.",
+      "category": "SIDE",
+      "simplified_description": "Chopped onions, tomatoes, cucumber with spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SLICED SALAD - DAIRY FREE",
+      "price": 7.5,
+      "description": "Onions, tomatoes, cucumber, lettuce",
+      "category": "SIDE",
+      "simplified_description": "Onions, tomatoes, cucumber, lettuce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TAJ’S VEGETARIAN THAL",
+      "price": 24.0,
+      "description": "The thal is a traditional Indian plate that includes a variety of dishes. Served with papad, saffron rice, dal, aloo gobhi, malai kofta, kheer, and naan. (No Substitutions) May not be available on busy nights.",
+      "category": "OTHER",
+      "simplified_description": "The thal is a traditional Indian plate that includes a variety of dishes. Served",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TAJ’S COMBO THAL",
+      "price": 25.0,
+      "description": "The thal is a traditional plate that includes a variety of dishes. Served with a papad, saffron rice, butter chicken, beef curry, aloo gobi, kheer, and naan. (No Substitutions) May not be available on busy nights.",
+      "category": "OTHER",
+      "simplified_description": "The thal is a traditional plate that includes a variety of dishes. Served with a",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DINNER FOR TWO",
+      "price": 75.0,
+      "description": "To start 2 papad, choice of 2 samosas (beef or veg), tandoori chicken, aloo gobhi, choice of curry (chicken, lamb, or beef) or butter chicken, saffron rice, and 1 naan.",
+      "category": "OTHER",
+      "simplified_description": "To start 2 papad, choice of 2 samosas (beef or veg), tandoori chicken, aloo gobh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DINNER FOR THREE",
+      "price": 107.0,
+      "description": "To start 3 papad, choice of 3 samosas (beef or veg), tandoori chicken, aloo gobhi, butter chicken, choice of curry (chicken, lamb, or beef), saffron rice, raita and 2 naan.",
+      "category": "OTHER",
+      "simplified_description": "To start 3 papad, choice of 3 samosas (beef or veg), tandoori chicken, aloo gobh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DINNER FOR FOUR",
+      "price": 130.0,
+      "description": "To start 4 papad, choice of 4 samosas (beef or veg), tandoori chicken, aloo gobhi, butter chicken, choice of curry (chicken, lamb, or beef), saffron rice, raita and 3 naan.",
+      "category": "OTHER",
+      "simplified_description": "To start 4 papad, choice of 4 samosas (beef or veg), tandoori chicken, aloo gobh",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ICE CREAM (vanilla or mango)",
+      "price": 6.0,
+      "description": "$6",
+      "category": "DESSERT",
+      "simplified_description": "$6",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KHEER",
+      "price": 6.0,
+      "description": "Rice pudding Indian style with a sprinkle of crushed nuts.",
+      "category": "DESSERT",
+      "simplified_description": "Rice pudding Indian style with a sprinkle of crushed nuts.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GULAB JAMUN",
+      "price": 6.0,
+      "description": "Milky fried balls of dough soaked in sugar syrup and garnished with nuts (2 pieces).",
+      "category": "DESSERT",
+      "simplified_description": "Milky fried balls of dough soaked in sugar syrup and garnished with nuts (2 piec",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAS JAMUN",
+      "price": 7.0,
+      "description": "Milky fried balls of dough soaked in sugar syrup, covered with a milky sauce, and garnished with nuts (2 pieces).",
+      "category": "DESSERT",
+      "simplified_description": "Milky fried balls of dough soaked in sugar syrup, covered with a milky sauce, an",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KULFI",
+      "price": 7.0,
+      "description": "Homemade Indian ice cream on a stick, garnished with nuts.",
+      "category": "DESSERT",
+      "simplified_description": "Homemade Indian ice cream on a stick, garnished with nuts.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAS MALAI",
+      "price": 7.0,
+      "description": "Soft Indian homemade cheese cooked in syrup topped with a creamy sauce and a sprinkle of nuts (2 pieces).",
+      "category": "DESSERT",
+      "simplified_description": "Soft Indian homemade cheese cooked in syrup topped with a creamy sauce and a spr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "NIMBO SODA",
+      "price": 8.0,
+      "description": "Blend of soda water, 7-UP, salt, pepper and fresh lemons.",
+      "category": "DRINK",
+      "simplified_description": "Blend of soda water, 7-UP, salt, pepper and fresh lemons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "INDIAN PAINT BRUSH",
+      "price": 10.0,
+      "description": "Blend of tropical and citrus juices blended with coconut nectar and a splash of grenadine.",
+      "category": "DRINK",
+      "simplified_description": "Blend of tropical and citrus juices blended with coconut nectar and a splash of ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FLAVORED LASSI",
+      "price": 7.5,
+      "description": "Homemade yogurt drink made with different flavors of your choice: mango, strawberry, or coconut.",
+      "category": "DRINK",
+      "simplified_description": "Homemade yogurt drink made with different flavors of your choice: mango, strawbe",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LASSI",
+      "price": 7.0,
+      "description": "Traditional yogurt drink made with homemade yogurt and a pinch of roasted cumin seeds. Can be made sweet or salty.",
+      "category": "DRINK",
+      "simplified_description": "Traditional yogurt drink made with homemade yogurt and a pinch of roasted cumin ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MILK BADAMEE",
+      "price": 8.0,
+      "description": "Our version of an almond milkshake made from sugar, milk, fresh almonds, and ice cream.",
+      "category": "DRINK",
+      "simplified_description": "Our version of an almond milkshake made from sugar, milk, fresh almonds, and ice",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MILKSHAKES",
+      "price": 8.0,
+      "description": "Choice of mango or strawberry",
+      "category": "DRINK",
+      "simplified_description": "Choice of mango or strawberry",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COLD COFFEE",
+      "price": 8.5,
+      "description": "Creamy coffee flavor milkshake.",
+      "category": "DRINK",
+      "simplified_description": "Creamy coffee flavor milkshake.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASALA CHAI",
+      "price": 4.75,
+      "description": "$4.75",
+      "category": "DRINK",
+      "simplified_description": "$4.75",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

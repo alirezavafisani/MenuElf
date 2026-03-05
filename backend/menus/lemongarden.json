@@ -1,0 +1,1150 @@
+{
+  "restaurant": "lemongarden",
+  "parsed_at": "2025-12-25T03:10:07.181967",
+  "item_count": 127,
+  "items": [
+    {
+      "name": "Deep Fried Spring Roll (each)",
+      "price": 1.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Wonton (16)",
+      "price": 8.99,
+      "description": "(sweet & sour sauce on side)",
+      "simplified_description": "16 deep fried wontons served with sweet and sour sauce",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Dumplings (10)",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Chicken Wings",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced B.B.Q. Pork",
+      "price": 14.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dry Garlic Spareribs",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton Soup with Vegetable",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Small size"
+    },
+    {
+      "name": "Wonton Soup with Vegetable",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Medium size"
+    },
+    {
+      "name": "Wonton Noodle Soup with Vegetable",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Small size"
+    },
+    {
+      "name": "Wonton Noodle Soup with Vegetable",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Medium size"
+    },
+    {
+      "name": "Chicken, Beef or B.B.Q. Pork Noodle Soup with Vegetable",
+      "price": 6.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Small size"
+    },
+    {
+      "name": "Chicken, Beef or B.B.Q. Pork Noodle Soup with Vegetable",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Medium size"
+    },
+    {
+      "name": "Wor Wonton Soup",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Medium size"
+    },
+    {
+      "name": "Wor Wonton Soup",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Large size"
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Medium size"
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Large size"
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Medium size"
+    },
+    {
+      "name": "Chicken Sweet Corn Soup",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Soups",
+      "dietary_info": [],
+      "other_info": "Large size"
+    },
+    {
+      "name": "Salt & Pepper Chicken",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Chicken",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Chicken",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Chicken (Kung-Bo)",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Mixed Vegetable",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Broccoli",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Fresh Tomato",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Black Bean Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Curry Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Black Pepper Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Cashew Nuts (Gai Ding)",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Balls",
+      "price": 16.99,
+      "description": "(sweet & sour sauce on side)",
+      "simplified_description": "Chicken balls served with sweet and sour sauce",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Chicken (Soo Gai)",
+      "price": 16.99,
+      "description": "(lemon sauce on side)",
+      "simplified_description": "Lemon chicken served with lemon sauce",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Almond Chicken (Soo Gai)",
+      "price": 17.99,
+      "description": "(almond sauce on side)",
+      "simplified_description": "Almond chicken served with almond sauce",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Two Kinds of Mushroom",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Chicken",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Beef",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Szechuan Beef",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Mixed Vegetable",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Broccoli",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Fresh Tomato",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Black Bean Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Curry Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Black Pepper Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Two Kinds of Mushroom",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Pork",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Pork & Sparerib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Spareribs",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Pork & Sparerib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Spareribs",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Pork & Sparerib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Spareribs",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Pork & Sparerib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork with Mixed Vegetable",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Pork & Sparerib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork with Two Kinds of Mushroom",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Pork & Sparerib",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Squid",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Squid",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Shrimp",
+      "price": 18.99,
+      "description": "(sweet & sour sauce on side)",
+      "simplified_description": "Deep fried shrimp served with sweet and sour sauce",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Shrimp",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Shrimp (Kung-Bo)",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp with Mixed Vegetable",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp with Fresh Tomato",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp with Black Bean Sauce",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mussels with Black Bean Sauce",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp with Curry Sauce",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Seafood",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetable & Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable with Curry Sauce",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetable & Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable with Cashew Nuts",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetable & Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Chop Suey",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetable & Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Chop Suey",
+      "price": 18.99,
+      "description": "(shrimp, chicken & BBQ Pork)",
+      "simplified_description": "Chop suey with shrimp, chicken, and BBQ pork",
+      "category": "Vegetable & Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Egg Foo Yong",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Egg Foo Yong (Chinese Omelet)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Egg Foo Yong",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Egg Foo Yong (Chinese Omelet)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Egg Foo Yong",
+      "price": 18.99,
+      "description": "(shrimp, chicken and BBQ pork)",
+      "simplified_description": "Egg foo yong with shrimp, chicken, and BBQ pork",
+      "category": "Egg Foo Yong (Chinese Omelet)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Fried Rice",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Fried Rice",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable Fried Rice",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Fried Rice",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Fried Rice",
+      "price": 15.99,
+      "description": "(shrimp, chicken & BBQ pork)",
+      "simplified_description": "Fried rice with shrimp, chicken, and BBQ pork",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Rice (for one)",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": "Single serving"
+    },
+    {
+      "name": "Chicken, Beef or BBQ Pork Chow Mein",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Vegetable Chow Mein",
+      "price": 15.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Chow Mein",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Special Chow Mein",
+      "price": 18.99,
+      "description": "(shrimp, chicken, BBQ pork & mixed veggie)",
+      "simplified_description": "Chow mein with shrimp, chicken, BBQ pork, and mixed vegetables",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Chow Mein",
+      "price": 18.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shanghai Fried Thick Noodle (BBQ pork)",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Singapore Fried Rice Noodle",
+      "price": 17.99,
+      "description": "(shrimp & BBQ pork in curry sauce)",
+      "simplified_description": "Fried rice noodles with shrimp and BBQ pork in curry sauce",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef or Chicken Fried Thick Noodle",
+      "price": 16.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice & Chow Mein (Noodles)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hamburger Steak with Fried Onions",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Roast Beef Sandwich",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veal Cutlets",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pork Chops",
+      "price": 17.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Dinner",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Green Salad",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Chicken Salad",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Chicken Strips Salad",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Salad",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chef Salad",
+      "price": 15.99,
+      "description": "(Shrimp, Ham, Chicken & Cheese)",
+      "simplified_description": "Salad with shrimp, ham, chicken, and cheese",
+      "category": "Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Cheese & Ham or Bacon",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Egg",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Egg & Bacon",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Egg Salad (cold)",
+      "price": 7.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Salad (cold)",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tuna Salad (cold)",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic B.L.T.",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Denver",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cold Roast Beef",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Monte Cristo",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Club House",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hamburger",
+      "price": 9.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Burger",
+      "price": 10.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon or Mushroom Burger",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mozza Burger",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Breaded Chicken Burger",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bacon Cheese Burger",
+      "price": 11.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double Cheese Burger",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Sandwiches & Burgers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Finger (3) with Plum Sauce",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Lite Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish (Cod) (2) with Tar-Tar Sauce",
+      "price": 13.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Lite Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bun on the Run",
+      "price": 10.99,
+      "description": "(Bacon, Cheese, Egg, Lettuce & Mayonnaise)",
+      "simplified_description": "Bun with bacon, cheese, egg, lettuce, and mayonnaise",
+      "category": "Lite Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Traditional Beef Dip",
+      "price": 11.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Lite Meals",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 8.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 0.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 10.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Mushrooms",
+      "price": 5.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soup of the Day",
+      "price": 3.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Sauce",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Sauce",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 2.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "6 Pack Can Pop",
+      "price": 12.99,
+      "description": "",
+      "simplified_description": "",
+      "category": "Side Orders",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner Combo for Two",
+      "price": 49.99,
+      "description": "(Spring Roll (2), Wonton Soup, Chicken Fried Rice) Plus (Pick Two Extra Entrees)",
+      "simplified_description": "Dinner combo for two with spring rolls, wonton soup, and chicken fried rice, plus two extra entrees",
+      "category": "Take Out & Delivery",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner Combo for Three",
+      "price": 67.99,
+      "description": "(Spring Roll (3), Wonton Soup, Chicken Fried Rice) Plus (Pick Three Extra Entrees)",
+      "simplified_description": "Dinner combo for three with spring rolls, wonton soup, and chicken fried rice, plus three extra entrees",
+      "category": "Take Out & Delivery",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner Combo for Four",
+      "price": 85.99,
+      "description": "(Spring Rolls (4), Wonton Soup, Chicken Fried Rice) Plus (Pick Four Extra Entrees)",
+      "simplified_description": "Dinner combo for four with spring rolls, wonton soup, and chicken fried rice, plus four extra entrees",
+      "category": "Take Out & Delivery",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dinner Combo for Six (Super Value)",
+      "price": 129.99,
+      "description": "(Spring Roll (6), Wonton Soup, Chicken Fried Rice (2 orders)) Plus (Pick Six Extra Entrees)",
+      "simplified_description": "Dinner combo for six with spring rolls, wonton soup, and two orders of chicken fried rice, plus six extra entrees",
+      "category": "Take Out & Delivery",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

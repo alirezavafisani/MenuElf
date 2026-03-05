@@ -1,0 +1,763 @@
+{
+  "restaurant": "toishanrestaurant",
+  "parsed_at": "2026-02-06T04:36:32.766471",
+  "item_count": 84,
+  "items": [
+    {
+      "name": "Vegetable Egg Roll (2)",
+      "price": 6.25,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BBQ Pork",
+      "price": 17.95,
+      "description": "flavorful pork tenderloin served with hot mustard",
+      "category": "FOOD",
+      "simplified_description": "flavorful pork tenderloin served with hot mustard",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wonton Soup",
+      "price": 5.25,
+      "description": "Size  small (1 serving ) $5.25 medium (2-3 servings ) $9.25 large (3-4 servings ) $11.95",
+      "category": "SOUP",
+      "simplified_description": "Size  small (1 serving ) $5.25 medium (2-3 servings ) $9.25 large (3-4 servings ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wor Wonton Soup",
+      "price": 12.95,
+      "description": "Size  medium (2-3 servings ) $12.95 large (3-4 servings ) $15.50",
+      "category": "SOUP",
+      "simplified_description": "Size  medium (2-3 servings ) $12.95 large (3-4 servings ) $15.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "price": 12.95,
+      "description": "Size  medium (2-3 servings ) $12.95 large (3-4 servings ) $15.50",
+      "category": "SOUP",
+      "simplified_description": "Size  medium (2-3 servings ) $12.95 large (3-4 servings ) $15.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crab Meat Cream Corn Soup",
+      "price": 12.5,
+      "description": "Size  medium (2-3 servings ) $12.50 large (3-4 servings ) $14.50",
+      "category": "SOUP",
+      "simplified_description": "Size  medium (2-3 servings ) $12.50 large (3-4 servings ) $14.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Minced Chicken Cream Corn Soup",
+      "price": 12.95,
+      "description": "Size  medium (2-3 servings ) $12.95 large (3-4 servings ) $15.50",
+      "category": "SOUP",
+      "simplified_description": "Size  medium (2-3 servings ) $12.95 large (3-4 servings ) $15.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Three Kinds of Seafood on Sizzling Rice",
+      "price": 17.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Tomatoes & Shrimp on Sizzling Rice",
+      "price": 17.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Vegetables on Sizzling Rice",
+      "price": 13.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot & Sour Soup on Sizzling Rice",
+      "price": 15.95,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken and Vegetables on Sizzling Rice",
+      "price": 15.5,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peking Duck- Whole",
+      "price": 56.95,
+      "description": "served with 16 pancakes, onion, cucumber & hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "served with 16 pancakes, onion, cucumber & hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peking Duck- Half",
+      "price": 31.95,
+      "description": "served with 8 pancakes, onion, cucumber & hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "served with 8 pancakes, onion, cucumber & hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pan Fried Duck Meat with Green onion",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Shredded Duck Meat with Bean Sprout",
+      "price": 17.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moo-Shui Pork",
+      "price": 17.95,
+      "description": "stir fried pork and vegetables served with 8 pancakes & hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "stir fried pork and vegetables served with 8 pancakes & hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moo-Shui Chicken",
+      "price": 17.95,
+      "description": "stir fried chicken and vegetables served with 8 pancakes & hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "stir fried chicken and vegetables served with 8 pancakes & hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Moo-Shui Shrimp",
+      "price": 18.95,
+      "description": "stir fried shrimp and vegetables served with 8 pancakes & hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "stir fried shrimp and vegetables served with 8 pancakes & hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetable Moo-Shui",
+      "price": 16.95,
+      "description": "stir fried vegetables served with 8 pancakes & hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "stir fried vegetables served with 8 pancakes & hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Mixed Vegetables",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Four Treasures in Oyster Sauce",
+      "price": 16.95,
+      "description": "mushroom, celery, broccoli & baby com",
+      "category": "FOOD",
+      "simplified_description": "mushroom, celery, broccoli & baby com",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Buddha Delight",
+      "price": 16.95,
+      "description": "fresh mixed vegetables & cashews nuts with garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "fresh mixed vegetables & cashews nuts with garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Palace Vegetable",
+      "price": 17.95,
+      "description": "fresh snow pea, mushroom, baby com, broccoli & cashew nuts in garlic sauce",
+      "category": "FOOD",
+      "simplified_description": "fresh snow pea, mushroom, baby com, broccoli & cashew nuts in garlic sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Bean Curd in Ginger Sauce",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Two Kinds Mushrooms Fried Bean Curd in Oyster Sauce",
+      "price": 16.5,
+      "description": "Chinese mushroom, baby corn, & broccoli",
+      "category": "FOOD",
+      "simplified_description": "Chinese mushroom, baby corn, & broccoli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bean Curd with BBQ Pork & Vegetables",
+      "price": 16.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mix Vegetable Bean Curd with Oyster Sauce",
+      "price": 15.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mah Po Bean Curd",
+      "price": 17.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Banjo Style Bean Curd",
+      "price": 18.95,
+      "description": "crispy bean curd mix with shrimp serve with hoisin sauce",
+      "category": "FOOD",
+      "simplified_description": "crispy bean curd mix with shrimp serve with hoisin sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Assorted Meat with Bean Curd Hot Pot",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Fried Shredded Beef",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Curry Sauce Hot Pot",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Satay Sauce",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Oyster Sauce",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Pineapple with Pork Tenderloin with Sweet & Sour Sauce",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey & Garlic Spareribs",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Braised Four Jewels",
+      "price": 18.95,
+      "description": "BBQ pork baby corn, Chinese mushroom & celery",
+      "category": "FOOD",
+      "simplified_description": "BBQ pork baby corn, Chinese mushroom & celery",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peking Style Pork Chop",
+      "price": 18.95,
+      "description": "deep fried pork chops with onions in home style sweet & sour sauce",
+      "category": "FOOD",
+      "simplified_description": "deep fried pork chops with onions in home style sweet & sour sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Pork Chop",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oyster Sauce Beef with Peapods",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Broccoli",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Two Kinds of Mushrooms",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Chinese Mushrooms & Baby Corn",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Mixed Vegetables",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Beef Tenderloin with Black Pepper Sauce On Hot Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Beef with Black Bean Sauce on Hot Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Green onion Beef Hot Pot",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tomato Beef",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef with Snow Peas in Black Bean Sauce",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cantonese Style Steak Strip on Hot Plate",
+      "price": 19.95,
+      "description": "beef served with onion & home style sweet & sour sauce",
+      "category": "FOOD",
+      "simplified_description": "beef served with onion & home style sweet & sour sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Steak in Black Bean Sauce on Hot Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Steak in Black Pepper Sauce on Hot Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shredded Steak in Black Pepper & Honey Sauce on Hot Plate",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mandarin Combination on Hot Plate",
+      "price": 20.95,
+      "description": "prawn & chicken, BBQ pork sauteed with mix vegetables",
+      "category": "FOOD",
+      "simplified_description": "prawn & chicken, BBQ pork sauteed with mix vegetables",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Fried Shredded Chicken",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Shredded Chicken",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey & Garlic Chicken Wings",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Chicken Balls",
+      "price": 17.95,
+      "description": "deep fried breaded chicken balls served with a side sweet & sour sauce",
+      "category": "FOOD",
+      "simplified_description": "deep fried breaded chicken balls served with a side sweet & sour sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Two Kinds of Mushrooms",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Chinese Mushroom & Baby Corn",
+      "price": 17.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Mixed Vegetables",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Curry Sauce on Hot Pot",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Black Bean Sauce on Hot Plate",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Oyster Sauce",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Chicken with Cashew Nuts in Yellow Bean Sauce",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Satay Sauce",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Black Pepper Sauce on Hot Plate",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Palace Style Chicken",
+      "price": 18.95,
+      "description": "chicken sauteed served in a spicy sweet & sour sauce",
+      "category": "FOOD",
+      "simplified_description": "chicken sauteed served in a spicy sweet & sour sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Pineapple with Chicken with Sweet & Sour Sauce",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Chicken",
+      "price": 18.95,
+      "description": "deep fried breaded chicken with served with a side of lemon sauce",
+      "category": "FOOD",
+      "simplified_description": "deep fried breaded chicken with served with a side of lemon sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Almond Soo Gai",
+      "price": 18.95,
+      "description": "deep fried breaded chicken with served with a side of almond sauce",
+      "category": "FOOD",
+      "simplified_description": "deep fried breaded chicken with served with a side of almond sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken with Ginger Green onion Hot Pot",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Broccoli",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Snow Peas",
+      "price": 19.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diced Chicken with Cashew Nuts Cantonese Style",
+      "price": 17.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Chicken with Fresh Tomatoes",
+      "price": 17.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honey & Garlic Boneless Chicken",
+      "price": 18.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Fried Squid",
+      "price": 20.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger Fried Squid",
+      "price": 20.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Salt & Pepper Fried 3 Kinds Seafood",
+      "price": 21.95,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawn with Two Kinds of Mushroom",
+      "price": 21.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns with Mixed Vegetables",
+      "price": 21.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prawns with Curry Sauce on Hot Pot",
+      "price": 21.5,
+      "description": "",
+      "category": "FOOD",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

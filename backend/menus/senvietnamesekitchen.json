@@ -1,0 +1,963 @@
+{
+  "restaurant": "senvietnamesekitchen",
+  "parsed_at": "2025-12-25T03:02:31.909862",
+  "item_count": 96,
+  "items": [
+    {
+      "name": "Deep Fried Pork Spring Rolls",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Gluten Free Pork Spring Rolls",
+      "price": 10.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Salad Rolls",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp + Pork Salad Rolls",
+      "price": 10.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Beef Salad Rolls",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Chicken Salad Rolls",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Salad Rolls",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pork Wonton",
+      "price": 12.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Bites",
+      "price": 13.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Bites",
+      "price": 13.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Shrimp Skewers",
+      "price": 13.75,
+      "description": "",
+      "simplified_description": "",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Pork Spring Rolls",
+      "price": 15.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls & Grilled Pork",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls & Grilled Lemongrass Chicken",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls & Satay Chicken (spicy)",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls & Satay Beef (spicy)",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls & Lemon Grass Beef",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls & Grilled Shrimp",
+      "price": 16.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls, Grilled Shrimp & Grilled Pork",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls, Grilled Shrimp & Grilled Lemongrass Chicken",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli with Spring Rolls, Grilled Shrimp & Satay Chicken (spicy)",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls, Grilled Shrimp & Satay Beef (spicy)",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls, Grilled Shrimp & Lemongrass Beef (spicy)",
+      "price": 18.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls, Satay Chicken & Satay Beef (spicy)",
+      "price": 18.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Spring Rolls, Grilled Lemongrass Chicken & Lemongrass Beef",
+      "price": 18.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sen Ultimate Vermicelli XL Bowl (spicy)",
+      "price": 20.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Non-Spicy Sen Ultimate Vermicelli XL Bowl",
+      "price": 20.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sen Meat-Lovers Vermicelli XL Bowl (spicy)",
+      "price": 20.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vermicelli / Bün",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Vegetarian Spring Rolls",
+      "price": 9.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Gluten-Free Vegetarian Spring Rolls",
+      "price": 10.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Salad Rolls",
+      "price": 9.5,
+      "description": "Served with fried tofu",
+      "simplified_description": "Salad rolls with fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli With Vegetarian Spring Rolls",
+      "price": 15.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Vegetables With Rice or Vermicelli",
+      "price": 16.25,
+      "description": "Served with fried tofu",
+      "simplified_description": "Stir-fried vegetables with rice or vermicelli and fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Satay Vegetables With Rice or Vermicelli (spicy)",
+      "price": 17.25,
+      "description": "Served with fried tofu",
+      "simplified_description": "Spicy stir-fried vegetables with rice or vermicelli and fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Curry Vegetables With Rice or Vermicelli",
+      "price": 17.25,
+      "description": "Served with fried tofu",
+      "simplified_description": "Spicy curry stir-fried vegetables with rice or vermicelli and fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Noodle Soup",
+      "price": 15.25,
+      "description": "Served with fried tofu",
+      "simplified_description": "Noodle soup with fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Satay Noodle Soup (spicy)",
+      "price": 16.25,
+      "description": "Served with fried tofu",
+      "simplified_description": "Spicy satay noodle soup with fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Peanut Satay Noodle Soup (spicy)",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vegetarian Curry Vermicelli Noodle Soup (spicy)",
+      "price": 17.25,
+      "description": "Served with fried tofu",
+      "simplified_description": "Spicy curry vermicelli noodle soup with fried tofu",
+      "category": "Vegetarian / Mon Chay",
+      "dietary_info": [
+        "vegetarian",
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef Noodle Soup",
+      "price": 14.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Beef Ball Noodle Soup",
+      "price": 15.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Beef & Brisket Noodle Soup",
+      "price": 15.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sen Special Beef Noodle Soup",
+      "price": 16.25,
+      "description": "Sliced beef, beef balls, brisket, tripe & tendon.",
+      "simplified_description": "Special beef noodle soup with various beef cuts",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Beef Noodle Soup",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Peanut Satay Beef Noodle Soup",
+      "price": 16.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Grilled Beef Noodle Soup",
+      "price": 16.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Peanut Satay Grilled Beef Noodle Soup",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Noodle Soup",
+      "price": 14.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Chicken Noodle Soup",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Grilled Lemongrass Chicken Noodle Soup",
+      "price": 16.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Peanut Satay Chicken Noodle Soup",
+      "price": 16.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Peanut Satay Grilled Lemongrass Chicken Noodle Soup",
+      "price": 17.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Satay Seafood Noodle Soup",
+      "price": 17.25,
+      "description": "Shrimp, crab stick, & squid",
+      "simplified_description": "Spicy seafood noodle soup with shrimp, crab stick, and squid",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Noodle Soup",
+      "price": 16.25,
+      "description": "Shrimp, crab stick, & squid",
+      "simplified_description": "Seafood noodle soup with shrimp, crab stick, and squid",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spicy Peanut Satay Seafood Noodle Soup",
+      "price": 18.25,
+      "description": "Shrimp, crab stick, & squid",
+      "simplified_description": "Spicy peanut seafood noodle soup with shrimp, crab stick, and squid",
+      "category": "Beef Noodle Soup - Pho",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chop (2) On Rice",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Pork Chop (1) With Eggs (2) On Rice",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Grilled Lemongrass Chicken (2) On Rice",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Chicken On Rice (spicy)",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Satay Beef On Rice (spicy)",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Curry Chicken On Rice (spicy)",
+      "price": 17.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Beef and Chicken bites with grilled Shrimp On Rice",
+      "price": 18.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sen Fried Rice",
+      "price": 18.25,
+      "description": "Shrimp, chicken, fried egg & vegetables.",
+      "simplified_description": "Fried rice with shrimp, chicken, fried egg, and vegetables",
+      "category": "Rice Dishes / Com Día",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Chicken with Vegetables",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Chicken with Pineapples",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Spicy Satay Chicken with Vegetables",
+      "price": 19.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir Fried Spicy Curry Chicken with Vegetables",
+      "price": 19.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Beef with Vegetables",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Beef with Pineapples",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Beef With Broccoli",
+      "price": 18.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Satay Beef With Vegetables (spicy)",
+      "price": 19.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Curry Beef With Vegetables (spicy)",
+      "price": 19.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Shrimp With Vegetables",
+      "price": 19.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Satay Shrimp & Vegetables",
+      "price": 19.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Seafood With Vegetables",
+      "price": 19.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Satay Shrimp & Vegetables",
+      "price": 20.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Stir-Fried Spicy Curry Seafood & Vegetables",
+      "price": 20.25,
+      "description": "",
+      "simplified_description": "",
+      "category": "Stir Fried Dishes / Món Xảo",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kid's & Senior's Combo",
+      "price": 13.75,
+      "description": "Valid for kids up to 12 years old, and seniors over 60 years old\n1 Appetizer: Spring roll or Salad roll\n1 Choice of Entree: Wonton soup | Chicken Noodle soup | Beef Noodle Soup | Rice with a spring roll and a choice of meat (Beef, Chicken, or Pork) | Vermicelli with a Spring roll and a choice of meat (Beef, Chicken, or Pork) | $2.00 Charge for adult orders of kids' size portion\n1 Drink: Soft drink or juice",
+      "simplified_description": "Combo meal for kids and seniors with appetizer, entree, and drink",
+      "category": "Kid's & Senior's Combo",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Banana with Ice Cream",
+      "price": 8.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Desserts",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Weekday Lunch Combo",
+      "price": 16.75,
+      "description": "1 Shrimp Salad Roll (served with peanut sauce) | 1 Chef’s Daily Special Vermicelli Bowl | 1 Soft Drink/Tea/Coffee",
+      "simplified_description": "Lunch combo with shrimp salad roll, special vermicelli bowl, and drink",
+      "category": "Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pho Combo for 4",
+      "price": 53.25,
+      "description": "Served as a combo of 4 bowls of rice noodles and beef broth, with the choice of meat and broth\nChoice of Meat: 1. Sliced beef, 2. Chicken\nChoice of Broth: 1. Clear beef broth | 2. Spicy satay beef broth (Add $1.00/bowl) | 3. Spicy peanut satay beef broth (Add $2.00/bowl) | Gluten-free option: Additional $1.00/bowl",
+      "simplified_description": "Combo for 4 with rice noodles and beef broth, choice of meat and broth",
+      "category": "Pho Combo for 4",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vermicelli Combo for 4",
+      "price": 56.25,
+      "description": "Served as a combo of 4 bowls of rice vermicelli and 2 choices of protein\nChoice of protein #1: 1. 2 pork spring rolls | 2. 2 vegetarian spring rolls\nChoice of Protein #2: 1. Grilled pork | 2. Grilled lemongrass chicken | 3. Satay chicken | 4. Grilled satay beef | 5. Lemongrass beef\nGluten-Free Option: Additional $1.00/bowl",
+      "simplified_description": "Combo for 4 with rice vermicelli and choice of proteins",
+      "category": "Vermicelli Combo for 4",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coorslight",
+      "price": 7.95,
+      "description": "/341ml",
+      "simplified_description": "Coorslight beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budweiser",
+      "price": 7.95,
+      "description": "/341ml",
+      "simplified_description": "Budweiser beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Canadian",
+      "price": 7.95,
+      "description": "/341ml",
+      "simplified_description": "Canadian beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saporo",
+      "price": 8.95,
+      "description": "/330ml",
+      "simplified_description": "Saporo beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tsingtao",
+      "price": 8.95,
+      "description": "/330ml",
+      "simplified_description": "Tsingtao beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Saigon",
+      "price": 8.95,
+      "description": "/330ml",
+      "simplified_description": "Saigon beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Corona",
+      "price": 8.95,
+      "description": "/330ml",
+      "simplified_description": "Corona beer",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soft Drinks",
+      "price": 2.95,
+      "description": "Coke, diet coke, sprite, root beer, ginger ale",
+      "simplified_description": "Various soft drinks",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Juice",
+      "price": 3.95,
+      "description": "Apple, mango, and orange",
+      "simplified_description": "Juice options",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tea",
+      "price": 2.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Vietnamese Iced Coffee",
+      "price": 7.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Regular Coffee",
+      "price": 3.95,
+      "description": "",
+      "simplified_description": "",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bubble Tea",
+      "price": 7.5,
+      "description": "Mango, taro, coconut, honeydew, strawberry, watermelon.",
+      "simplified_description": "Bubble tea with various flavors",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fresh Fruit Smoothies",
+      "price": 8.5,
+      "description": "Mango, strawberry, avocado.",
+      "simplified_description": "Smoothies with various fruits",
+      "category": "Drinks",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "restaurant": "northtrail",
+  "parsed_at": "2026-02-06T03:30:05.626554",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Spicy Chili Garlic Noodles with Shrimp",
+      "price": 8.0,
+      "description": "With Vegetables $7",
+      "category": "FOOD",
+      "simplified_description": "With Vegetables $7",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Miso Soup",
+      "price": null,
+      "description": "null",
+      "category": "SOUP",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese Chicken Curry",
+      "price": 8.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Japanese Root Vegetable Curry",
+      "price": 7.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KFC Bowl",
+      "price": 8.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kung Pow Tempeh Bowl(veg)",
+      "price": 7.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ginger beef",
+      "price": 8.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Chow Mein",
+      "price": 7.0,
+      "description": "null",
+      "category": "FOOD",
+      "simplified_description": "null",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

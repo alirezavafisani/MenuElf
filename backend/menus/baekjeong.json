@@ -1,0 +1,34 @@
+{
+  "restaurant": "baekjeong",
+  "parsed_at": "2025-12-25T02:53:32.938852",
+  "item_count": 3,
+  "items": [
+    {
+      "name": "Kkot Galbisal",
+      "price": null,
+      "description": "Premium boneless short rib, prized for its fine marbling and naturally rich flavor. Grilled quickly over high heat, the meat stays tender and juicy, releasing a deep beef aroma with every bite. A true favorite for those who appreciate the pure taste of top-quality beef. Best enjoyed with a simple pinch of salt. Perfect for sharing or savoring all to yourself.",
+      "simplified_description": "High-quality boneless short rib, grilled to perfection, tender and juicy.",
+      "category": "BAEKJEONG KOREAN BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kkot Deungsim",
+      "price": null,
+      "description": "Prime ribeye cap, renowned for its exceptional marbling and tenderness, hand-cut to showcase its natural beauty. Grilled over an open flame, the delicate layers of fat melt into the meat, creating a buttery texture and deep, beef-forward flavor. This signature cut offers a luxurious Korean barbecue experience rich, juicy, and unforgettable, perfect for savoring each bite in its purest form.",
+      "simplified_description": "Prime ribeye cap, grilled to enhance its rich flavor and tenderness.",
+      "category": "BAEKJEONG KOREAN BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Oli Jumulleog",
+      "price": null,
+      "description": "Tender duck slices marinated in a bold blend of Korean spices, garlic, and gochugaru for a deep, smoky heat. Stir-fried to lock in juiciness, each bite delivers a perfect harmony of savory, spicy, and slightly sweet flavors that linger on the palate. A vibrant choice for those who crave a bit of fire with every bite. Pairs perfectly with an ice-cold beer.",
+      "simplified_description": "Marinated duck stir-fried with spicy Korean flavors.",
+      "category": "BAEKJEONG KOREAN BBQ",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,1150 @@
+{
+  "restaurant": "aujlaz",
+  "parsed_at": "2026-02-06T00:47:14.825044",
+  "item_count": 94,
+  "items": [
+    {
+      "name": "Butter Chicken",
+      "price": 19.95,
+      "description": "Prepared with creamy, rich tomato sauce and tender pieces of chicken",
+      "category": "CURRIES",
+      "simplified_description": "Chicken cooked in creamy tomato sauce.",
+      "dietary_info": [
+        "halal",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Goat Curry",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Goat meat cooked in curry sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Curry",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Chicken cooked in traditional curry sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Curry",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Fish cooked in flavorful curry sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Grilled chicken pieces in creamy spiced sauce.",
+      "dietary_info": [
+        "halal",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Vindaloo",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Spicy chicken curry with tangy flavors.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Lamb Vindaloo",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Spicy lamb curry with tangy flavors.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Do Pyaza",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Chicken cooked with lots of onions.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Spiced chicken cooked with bell peppers.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Kadai Lamb",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Spiced lamb cooked with bell peppers.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Lamb Saag",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Lamb cooked with spinach and spices.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Korma",
+      "price": 19.95,
+      "description": "",
+      "category": "CURRIES",
+      "simplified_description": "Mild chicken curry with creamy sauce.",
+      "dietary_info": [
+        "halal",
+        "dairy-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Roti Tandoori",
+      "price": 3.5,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Traditional Indian flatbread cooked in tandoor.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Garlic Naan",
+      "price": 4.0,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Soft flatbread topped with garlic.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Naan",
+      "price": 4.25,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Soft flatbread brushed with butter.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Indian Mixed Salad",
+      "price": 6.5,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "A fresh mix of Indian-style salad vegetables.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Yogurt/Mixed Raita",
+      "price": 6.5,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Plain yogurt or yogurt mixed with spices and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Plain Rice",
+      "price": 6.25,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Simple steamed plain white rice.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Jeera Rice",
+      "price": 8.95,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Basmati rice cooked with cumin seeds for flavor.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fried Rice",
+      "price": 9.95,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Rice stir-fried with vegetables and spices.",
+      "dietary_info": [
+        "vegan",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Briyani (Lamb or Chicken)",
+      "price": 17.95,
+      "description": "",
+      "category": "NAAN AND RICE",
+      "simplified_description": "Spiced rice cooked with lamb or chicken and herbs.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheesecake",
+      "price": 8.95,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Creamy dessert made with cheese and a biscuit base.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Lassi",
+      "price": 7.95,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Sweet mango yogurt smoothie drink.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mango Shake",
+      "price": 7.95,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Cold mango milkshake drink.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Strawberry Vanilla Ice Cream Shake",
+      "price": 7.95,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Milkshake with strawberry and vanilla ice cream flavors.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "MasalaTea",
+      "price": 3.5,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Spiced Indian tea with milk and aromatic spices.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Soft Drink",
+      "price": 3.0,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Carbonated sweetened beverage.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Coffee",
+      "price": 3.0,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Brewed hot coffee drink.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Vanilla Ice Cream",
+      "price": 5.95,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Creamy vanilla flavored ice cream.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Hot Gulabkun (2pc)",
+      "price": 5.95,
+      "description": "",
+      "category": "DESSERTS AND DRINKS",
+      "simplified_description": "Two pieces of hot sweet syrup-soaked fried dough.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal",
+        "kosher"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Makhani",
+      "price": 17.95,
+      "description": "Punjabi-style curry with red kidney beans and black lentils",
+      "category": "CURRIES",
+      "simplified_description": "Creamy curry with red kidney beans and black lentils.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 19.95,
+      "description": "Creamy curry with home-made cottage cheese",
+      "category": "CURRIES",
+      "simplified_description": "Creamy curry made with home-made cottage cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 19.95,
+      "description": "Home-made cottage cheese cooked in tomato-based curry with peppers and onions",
+      "category": "CURRIES",
+      "simplified_description": "Tomato curry with home-made cottage cheese, peppers, and onions.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Briyani (Naan not included)",
+      "price": 17.95,
+      "description": "Highly seasoned basmati rice with our signature marinated chicken",
+      "category": "CURRIES",
+      "simplified_description": "Spiced basmati rice with marinated chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 14.95,
+      "description": "Traditional recipe with home-made croutons, parmesan, bacon bits and Caesar dressing",
+      "category": "SOUPS AND SALADS",
+      "simplified_description": "Salad with croutons, parmesan, bacon, and Caesar dressing.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Greek Salad",
+      "price": 15.95,
+      "description": "Loads of feta, cucumber, tomatoes, peppers, onions, olives and lettuce",
+      "category": "SOUPS AND SALADS",
+      "simplified_description": "Salad with feta, cucumber, tomatoes, peppers, onions, olives, and lettuce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "French Onion Soup",
+      "price": 10.95,
+      "description": "Soft, buttery caramelized onions in a savoury broth with crostini and baked Swiss cheese",
+      "category": "SOUPS AND SALADS",
+      "simplified_description": "Onion soup with crostini and melted Swiss cheese.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 7.5,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Deep-fried crispy potato fries.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Honey Garlic Cauliflower",
+      "price": 15.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Cauliflower cooked with honey and garlic flavors.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Samosa (2pcs)",
+      "price": 8.99,
+      "description": "Flaky pastry with your choice Of vegetable or beef",
+      "category": "APPETIZERS",
+      "simplified_description": "Flaky pastry filled with vegetable or beef.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sliced Potato Chips",
+      "price": 8.99,
+      "description": "Fresh sliced potatoes, deep fried crisp, served with ranch",
+      "category": "APPETIZERS",
+      "simplified_description": "Crispy fried potato slices served with ranch.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Dumplings",
+      "price": 14.95,
+      "description": "Pan fried dumplings, stuffed with chicken and vegetables, served with sweet chili soy sauce",
+      "category": "APPETIZERS",
+      "simplified_description": "Pan-fried dumplings filled with chicken and vegetables.",
+      "dietary_info": [],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Calamari",
+      "price": 17.95,
+      "description": "Seasoned crispy calamari, served with onions, peppers and home-made tzatziki",
+      "category": "APPETIZERS",
+      "simplified_description": "Crispy calamari with onions, peppers, and tzatziki sauce.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Pakora",
+      "price": 14.95,
+      "description": "One pound of marinated Basa fish morsels, coated in a Crispy batter",
+      "category": "APPETIZERS",
+      "simplified_description": "Marinated Basa fish pieces in crispy batter.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nachos",
+      "price": 19.95,
+      "description": "Tri-coloured nacho chips with mozzarella, cheddar, onions, tomatoes, and jalapenos Half size: $12.95. Add chicken or beef: $6.50 each",
+      "category": "APPETIZERS",
+      "simplified_description": "Nacho chips topped with cheese, onions, tomatoes, and jalapenos.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Wings",
+      "price": 15.95,
+      "description": "Choose from hot, medium, Greek, BBQ, teriyaki, honey mustard, salt & pepper, lemon pepper, Memphis, sweet chili, Cajun, dill pickle, Caribbean jerk and Aujla’s special spicy wings.",
+      "category": "APPETIZERS",
+      "simplified_description": "Chicken wings available in various flavorful sauces and spice levels.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": "Multiple sauce options including spicy"
+    },
+    {
+      "name": "Dry Ribes",
+      "price": 15.95,
+      "description": "Slow cooked, fall off the bone pork ribs, tossed in any of our signature flavors: hot, medium, suicide, Greek, BBQ, teriyaki, honey mustard, salt & pepper, lemon pepper, Memphis, sweet chili, Cajun, dill pickle, Caribbean jerk",
+      "category": "APPETIZERS",
+      "simplified_description": "Slow cooked pork ribs tossed in various signature sauces.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": "Multiple sauce options including spicy"
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 16.95,
+      "description": "Served on a mountain of fries with plum sauce",
+      "category": "APPETIZERS",
+      "simplified_description": "Breaded chicken fingers served with fries and plum sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kebab on a Sizzler",
+      "price": 17.95,
+      "description": "Ground chicken breast marinated with herbs and charbroiled, served with mint sauce and lemon",
+      "category": "APPETIZERS",
+      "simplified_description": "Herb-marinated ground chicken kebab served with mint sauce and lemon.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka on a Sizzler",
+      "price": 17.95,
+      "description": "Boneless chicken breast marinated in our special herbs and spices, cooked in tandoor to perfection",
+      "category": "APPETIZERS",
+      "simplified_description": "Boneless chicken breast marinated and cooked in a tandoor oven.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Butter Chicken Poutine",
+      "price": 16.95,
+      "description": "Fries smothered in our butter chicken and cheese curds",
+      "category": "APPETIZERS",
+      "simplified_description": "Fries topped with butter chicken sauce and cheese curds.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Poutine",
+      "price": 15.95,
+      "description": "Crispy hand-cut fries topped with cheese curds and gravy. Add pulled pork, beef or Chicken: $4.00",
+      "category": "APPETIZERS",
+      "simplified_description": "Fries topped with cheese curds and gravy, optional meat add-ons.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spring Roll",
+      "price": 14.95,
+      "description": "Vegetable spring rolls served with sweet chili sauce",
+      "category": "APPETIZERS",
+      "simplified_description": "Vegetable spring rolls served with sweet chili dipping sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": "Contains sweet chili sauce"
+    },
+    {
+      "name": "Mozza Sticks",
+      "price": 15.95,
+      "description": "Crispy, golden-fried mozzarella cheese",
+      "category": "APPETIZERS",
+      "simplified_description": "Crispy fried mozzarella cheese sticks.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Platter",
+      "price": 27.95,
+      "description": "Fish Pakora, Chicken Tikka, Kebab, Tandoori Chicken, Fries",
+      "category": "APPETIZERS",
+      "simplified_description": "Assorted platter with fish pakora, chicken tikka, kebab, tandoori chicken, and fries.",
+      "dietary_info": [],
+      "other_info": "Serves multiple people"
+    },
+    {
+      "name": "Vegtable Mixed Platter",
+      "price": 27.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Mixed platter of assorted vegetable dishes.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Kebab",
+      "price": 17.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Grilled chicken kebab seasoned with herbs and spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tandoori Chicken",
+      "price": 17.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Chicken marinated in spices and cooked in a tandoor oven.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tikka",
+      "price": 17.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Boneless chicken pieces marinated and grilled with spices.",
+      "dietary_info": [
+        "halal",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Fish Tikka",
+      "price": 17.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Fish pieces marinated and grilled with spices.",
+      "dietary_info": [
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Momos",
+      "price": 14.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Steamed dumplings filled with seasoned chicken.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chili Chicken",
+      "price": 17.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Spicy fried chicken tossed in chili sauce.",
+      "dietary_info": [
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Manchurian",
+      "price": 17.95,
+      "description": "",
+      "category": "APPETIZERS",
+      "simplified_description": "Chicken pieces cooked in a tangy Manchurian sauce.",
+      "dietary_info": [
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Aloo Gobbi",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Potatoes and cauliflower cooked with spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Bhindi Masalai",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Spiced okra cooked with traditional Indian masala.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Channa Masala",
+      "price": 18.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Chickpeas cooked in a spicy tomato-based sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal",
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Paneer Bhurji",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Scrambled paneer cooked with spices and vegetables.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Paneer cubes in a creamy tomato and butter sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Paneer cooked in a rich, creamy, and nutty gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Palak Paneer",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Paneer cubes cooked in a smooth spinach sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mattar Paneer",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Paneer and peas cooked in a spiced tomato gravy.",
+      "dietary_info": [
+        "vegetarian",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Malai Kofta",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Fried vegetable balls in a creamy, mild sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Navratan Korma",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Mixed vegetables cooked in a rich, creamy, nutty sauce.",
+      "dietary_info": [
+        "vegetarian",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Dal Tarka (Yellow Lentil)",
+      "price": 18.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Yellow lentils cooked with tempered spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Veggies",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "Assorted vegetables cooked with mild spices.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Mattar",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "A vegetarian curry featuring mushrooms and peas.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Do Pyaza",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "A vegetarian curry with mushrooms and double onions.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhai Soya Chaap",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "A vegetarian dish with soya chaap cooked in kadhai style.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Kadhi Pakora (Aujla Special)",
+      "price": 19.95,
+      "description": "",
+      "category": "VEGETARIAN CURRIES AND DISHES",
+      "simplified_description": "A special vegetarian curry with yogurt-based sauce and fried pakoras.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Veggie Burger",
+      "price": 14.95,
+      "description": "Grilled hand-made patty made with mixed vegetables, served with lettuce, onions, tomatoes, and tzatziki",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Grilled vegetable patty burger with fresh veggies and tzatziki sauce.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Cheeseburger",
+      "price": 16.95,
+      "description": "Beef patty topped with lettuce, onions, tomatoes, pickles, mustard and mayo on a Kaiser bun",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Beef burger with cheese, fresh veggies, pickles, mustard, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Burger",
+      "price": 16.95,
+      "description": "Grilled chicken with lettuce, onions, tomatoes, and mayo",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Grilled chicken burger with lettuce, onions, tomatoes, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "price": 15.95,
+      "description": "Cajun chicken with creamy Caesar salad, wrapped in a flour tortilla",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Wrap with Cajun chicken and creamy Caesar salad in a flour tortilla.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cajun Chcken Burger",
+      "price": 16.95,
+      "description": "Cajun-rubbed chicken breast with lettuce, onions, tomatoes and chipotle dip on a Kaiser bun..",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Cajun-spiced chicken burger with fresh veggies and chipotle dip.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Buffalo Chicken Wrap",
+      "price": 16.95,
+      "description": "Crunchy chicken tossed in Frank’s hot sauce, with iceberg lettuce, tomatoes, ranch dressing, and cheddar cheese, wrapped in a flour tortilla",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Spicy buffalo chicken wrap with lettuce, tomatoes, ranch, and cheddar cheese.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Chicken Tikka Wrap",
+      "price": 16.95,
+      "description": "Boneless chicken breast marinated in herbs and spices with lettuce, onion and tomatoes, wrapped in naan",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Wrap with marinated chicken tikka, lettuce, onion, and tomatoes in naan.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paneer Tikka Wrap",
+      "price": 16.95,
+      "description": "Home-made cottage cheese marinated in herbs and spices, cooked in tandoor and served with lettuce, onion and tomatoes, wrapped in naan",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Wrap with tandoor-cooked paneer tikka and fresh veggies in naan.",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Club",
+      "price": 16.95,
+      "description": "Double-layered sandwich with chicken, bacon, lettuce, tomato, and mayo on white toast",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Double-layer sandwich with chicken, bacon, lettuce, tomato, and mayo.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tacos (3 pcs) with Fries",
+      "price": 15.95,
+      "description": "Choose between chicken, beef or veggie. Lettuce, red onion, jalepeno, red salsa and chipotle sauce.",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Three tacos with choice of chicken, beef, or veggie and spicy toppings.",
+      "dietary_info": [
+        "spicy"
+      ],
+      "other_info": "Spicy"
+    },
+    {
+      "name": "Sliders (3 pcs) with Fries",
+      "price": 15.95,
+      "description": "Choose between beef, chicken or pork.",
+      "category": "SANDWICHES AND BURGERS",
+      "simplified_description": "Three mini sliders with choice of beef, chicken, or pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak",
+      "price": 18.95,
+      "description": "Choose between beef, chicken or pork.",
+      "category": "ENTREES",
+      "simplified_description": "Choice of beef, chicken, or pork steak.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadilla",
+      "price": 16.95,
+      "description": "Choose between beef, chicken or pork.",
+      "category": "ENTREES",
+      "simplified_description": "Quesadilla with choice of beef, chicken, or pork.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Pesto Penne",
+      "price": 16.95,
+      "description": "Choose between beef, chicken or pork.",
+      "category": "ENTREES",
+      "simplified_description": "Penne pasta with pesto and choice of meat.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sapporo Fish and Chips",
+      "price": 16.95,
+      "description": "Choose between beef, chicken or pork.",
+      "category": "ENTREES",
+      "simplified_description": "Fish and chips with choice of beef, chicken, or pork.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

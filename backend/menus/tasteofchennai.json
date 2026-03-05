@@ -1,0 +1,178 @@
+{
+  "restaurant": "tasteofchennai",
+  "parsed_at": "2026-02-06T04:25:31.377944",
+  "item_count": 19,
+  "items": [
+    {
+      "name": "ANDHRA DOSA",
+      "price": 14.99,
+      "description": "Andhra dosa stuffed with potato masala.",
+      "category": "FOOD",
+      "simplified_description": "Andhra dosa stuffed with potato masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PODI DOSA",
+      "price": 13.99,
+      "description": "Dosa loaded with homemade spiced lentil powder.",
+      "category": "FOOD",
+      "simplified_description": "Dosa loaded with homemade spiced lentil powder.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PODI MASALA DOSA",
+      "price": 14.99,
+      "description": "Podi Dosa stuffed with potato masala.",
+      "category": "FOOD",
+      "simplified_description": "Podi Dosa stuffed with potato masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PANEER BHURJI DOSA",
+      "price": 15.99,
+      "description": "Dosa stuffed with paneer burji",
+      "category": "FOOD",
+      "simplified_description": "Dosa stuffed with paneer burji",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KAL DOSA",
+      "price": 14.99,
+      "description": "Thick and soft dosa",
+      "category": "FOOD",
+      "simplified_description": "Thick and soft dosa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION DOSA",
+      "price": 12.49,
+      "description": "Dosa filled with chopped onion",
+      "category": "FOOD",
+      "simplified_description": "Dosa filled with chopped onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION MASALA DOSA",
+      "price": 13.99,
+      "description": "Onion dosa stuffed with potato masala.",
+      "category": "FOOD",
+      "simplified_description": "Onion dosa stuffed with potato masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHEESE DOSA",
+      "price": 14.99,
+      "description": "Dosa spreaded with cheddar and mozza cheese.",
+      "category": "FOOD",
+      "simplified_description": "Dosa spreaded with cheddar and mozza cheese.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "RAWA DOSA",
+      "price": 14.99,
+      "description": "Sooji and lentil crepe.",
+      "category": "FOOD",
+      "simplified_description": "Sooji and lentil crepe.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION RAWA DOSA",
+      "price": 14.99,
+      "description": "Rawa dosa filled with chopped onions..",
+      "category": "FOOD",
+      "simplified_description": "Rawa dosa filled with chopped onions..",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION RAWA MASALA DOSA",
+      "price": 15.99,
+      "description": "Onion rawa dosa filled with potato masala.",
+      "category": "FOOD",
+      "simplified_description": "Onion rawa dosa filled with potato masala.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGETABLE UTHAPPAM",
+      "price": 15.99,
+      "description": "Uthappam topped with mixed vegetables and lentil powder.",
+      "category": "FOOD",
+      "simplified_description": "Uthappam topped with mixed vegetables and lentil powder.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ONION CHILLY UTHAPPAM",
+      "price": 15.99,
+      "description": "Uthappam topped with diced onion and chillies.",
+      "category": "FOOD",
+      "simplified_description": "Uthappam topped with diced onion and chillies.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "IDLY (3PCS)",
+      "price": 12.99,
+      "description": "Steamed rice and lentil cake served with sambar and chutney.",
+      "category": "FOOD",
+      "simplified_description": "Steamed rice and lentil cake served with sambar and chutney.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MUTTON CURRY DOSA",
+      "price": 17.99,
+      "description": "Uthappam filled with spicy mutton masala and egg.",
+      "category": "FOOD",
+      "simplified_description": "Uthappam filled with spicy mutton masala and egg.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN CURRY DOSA",
+      "price": 16.99,
+      "description": "Uthappam filled with spicy chicken masala and egg.",
+      "category": "FOOD",
+      "simplified_description": "Uthappam filled with spicy chicken masala and egg.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EGG DOSA",
+      "price": 14.99,
+      "description": "Dosa cooked with beaten egg and sprinkled with dal powder.",
+      "category": "FOOD",
+      "simplified_description": "Dosa cooked with beaten egg and sprinkled with dal powder.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHICKEN KEEMA DOSA",
+      "price": 16.99,
+      "description": "Dosa filled with chicken keema curry.",
+      "category": "FOOD",
+      "simplified_description": "Dosa filled with chicken keema curry.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MUTTON KEEMA DOSA",
+      "price": 17.99,
+      "description": "Dosa filled with mutton keema curry.",
+      "category": "FOOD",
+      "simplified_description": "Dosa filled with mutton keema curry.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

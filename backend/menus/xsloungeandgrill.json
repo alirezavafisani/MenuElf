@@ -1,0 +1,763 @@
+{
+  "restaurant": "xsloungeandgrill",
+  "parsed_at": "2026-02-06T04:52:49.210601",
+  "item_count": 84,
+  "items": [
+    {
+      "name": "COURVOISIER VS",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ST-REMY VSOP (house)",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MATUSALEM GRAN RESERVA 15 yo",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "EASTATE SIGNATURE",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOUNT GAY XO",
+      "price": 11.0,
+      "description": "$ 11.00",
+      "category": "DRINK",
+      "simplified_description": "$ 11.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE KRAKEN",
+      "price": 11.0,
+      "description": "$ 11.00",
+      "category": "DRINK",
+      "simplified_description": "$ 11.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACARDI BLACK",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BACARDI WHITE (house)",
+      "price": 8.0,
+      "description": "$ 8.00",
+      "category": "DRINK",
+      "simplified_description": "$ 8.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAGAVULIN 8 YO",
+      "price": 15.0,
+      "description": "$ 15.00",
+      "category": "DRINK",
+      "simplified_description": "$ 15.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOWME 12 YO ISLAY SINGLE MALT",
+      "price": 13.0,
+      "description": "$ 13.00",
+      "category": "DRINK",
+      "simplified_description": "$ 13.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "THE MACALAN 12 YO",
+      "price": 15.0,
+      "description": "$ 15.00",
+      "category": "DRINK",
+      "simplified_description": "$ 15.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GLENFIDDICH 12 YO",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GLENLIVET 12 YO",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GLENMORANGIE THE ORIGINAL",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CHIVAS REGAL 12 YO",
+      "price": 11.0,
+      "description": "$ 11.00",
+      "category": "DRINK",
+      "simplified_description": "$ 11.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOHNNY WALKER BLACK LABEL",
+      "price": 11.0,
+      "description": "$ 11.00",
+      "category": "DRINK",
+      "simplified_description": "$ 11.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOHNY WALKER RED LABEL",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOHNNY WALKER BLUE LABEL",
+      "price": 18.0,
+      "description": "$ 18.00",
+      "category": "DRINK",
+      "simplified_description": "$ 18.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRANTS (house)",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JAMESON",
+      "price": 11.0,
+      "description": "$ 11.00",
+      "category": "DRINK",
+      "simplified_description": "$ 11.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BUSHMILLS",
+      "price": 11.0,
+      "description": "$ 11.00",
+      "category": "DRINK",
+      "simplified_description": "$ 11.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "WILD TURKEY 81 PROOF",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JACK DANIELS",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JIM BEAM BLACK",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "KNOB CREEK 9 AGED",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CROWN ROYAL",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ALBERTA PREMIUM RYE (house)",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HENDRICKS",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TANQUERAY",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BOMBAY SAPPHIRE",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VICTORIA GIN EMPRESS",
+      "price": 8.0,
+      "description": "$ 8.00",
+      "category": "DRINK",
+      "simplified_description": "$ 8.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LONDON DRY (house)",
+      "price": 8.0,
+      "description": "$ 8.00",
+      "category": "DRINK",
+      "simplified_description": "$ 8.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAZADORES REPOSADO",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PATRON XO CAFE",
+      "price": 10.0,
+      "description": "$ 10.00",
+      "category": "DRINK",
+      "simplified_description": "$ 10.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PATRON ANEJO",
+      "price": 14.0,
+      "description": "$ 14.00",
+      "category": "DRINK",
+      "simplified_description": "$ 14.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PATRON SILVER",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOSE CUERVO GOLD",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JOSE CUERVO SILVER (house)",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GREY GOOSE",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BELVEDERE",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HANGAR",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ABSOLUTE VANILLA",
+      "price": 8.0,
+      "description": "$ 8.00",
+      "category": "DRINK",
+      "simplified_description": "$ 8.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ABSOLUTE (House)",
+      "price": 8.0,
+      "description": "$ 8.00",
+      "category": "DRINK",
+      "simplified_description": "$ 8.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "STRAWBERRY MARTINI",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OLD FASHIONED",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLUE MARGARITA",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOSCOW MULE",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "XS CAESAR",
+      "price": 12.0,
+      "description": "$ 12.00",
+      "category": "DRINK",
+      "simplified_description": "$ 12.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "XS BELLINI",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "AMARONE DOC 2018",
+      "price": 72.0,
+      "description": "By the Bottle 750ml",
+      "category": "DRINK",
+      "simplified_description": "By the Bottle 750ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LAN CRIANZA",
+      "price": 39.0,
+      "description": "By the Bottle 750ml",
+      "category": "DRINK",
+      "simplified_description": "By the Bottle 750ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MANOS NEGRAS PINOT NOIR",
+      "price": 35.0,
+      "description": "By the Bottle 750ml",
+      "category": "DRINK",
+      "simplified_description": "By the Bottle 750ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "UMA COLLECTION MALBEC 2021",
+      "price": 9.0,
+      "description": "By the glass 5 OZ ($9) || Bottle 750ml ($42)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($9) || Bottle 750ml ($42)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "11TH HOUR CELLARS CABERNET SAUVIGNON",
+      "price": 9.0,
+      "description": "By the glass 5 OZ ($9) || Bottle 750ml ($42)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($9) || Bottle 750ml ($42)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COLOSSAL RESERVA RED",
+      "price": 8.0,
+      "description": "By the glass 5 OZ ($8) || Bottle 750ml ($38)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($8) || Bottle 750ml ($38)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VALPOLICELLA CLASSICO SUPERIORE DOC 2021",
+      "price": 8.0,
+      "description": "By the glass 5 OZ ($8) || Bottle 750ml ($35)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($8) || Bottle 750ml ($35)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "3 BOUCHON ROSE RESERVA ,CHILE",
+      "price": 8.0,
+      "description": "By the glass 5 OZ ($8) || Bottle 750ml ($35)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($8) || Bottle 750ml ($35)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CAMPANGOLA ARNACES , PROSECCO DOC , ITALY",
+      "price": 9.0,
+      "description": "By the glass 5 OZ ($9) || Bottle 750ml ($42)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($9) || Bottle 750ml ($42)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANTINA ADRIAN PINOT GRIGIO",
+      "price": 49.0,
+      "description": "Bottle 750ml",
+      "category": "DRINK",
+      "simplified_description": "Bottle 750ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "HESTER CREEK PINOT GRIS VOA , CANADA",
+      "price": 47.0,
+      "description": "Bottle 750ml",
+      "category": "DRINK",
+      "simplified_description": "Bottle 750ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TITH HOUR SAUVIGNON BLANC , CALIFORNIA , USA",
+      "price": 34.0,
+      "description": "Bottle 750ml",
+      "category": "DRINK",
+      "simplified_description": "Bottle 750ml",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "OYSTER BAY , SAUVIGNON BLANC , NEW ZEALAND",
+      "price": 9.0,
+      "description": "By the glass 5 OZ ($9) , Bottle 750ml ($40)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($9) , Bottle 750ml ($40)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MANOS NEGRAS CHARDONNAY 2021 , ARGENTINA",
+      "price": 8.0,
+      "description": "By the glass 5 OZ ($8) , Bottle 750ml ($35)",
+      "category": "DRINK",
+      "simplified_description": "By the glass 5 OZ ($8) , Bottle 750ml ($35)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "TOSSED SALAD OR GREEN SALAD",
+      "price": 27.99,
+      "description": "$ 27.99",
+      "category": "FOOD",
+      "simplified_description": "$ 27.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BULLEIT BOURBON (house)",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MOJITO",
+      "price": 9.0,
+      "description": "$ 9.00",
+      "category": "DRINK",
+      "simplified_description": "$ 9.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BYO OMELETTE",
+      "price": 17.95,
+      "description": "Choice of vegetables and meat",
+      "category": "FOOD",
+      "simplified_description": "Choice of vegetables and meat",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "VEGGIE OMELETTE",
+      "price": 17.95,
+      "description": "Three free run eggs with fresh spinach mushrooms, fire roasted peppers and onions & Swiss cheese.",
+      "category": "FOOD",
+      "simplified_description": "Three free run eggs with fresh spinach mushrooms, fire roasted peppers and onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DENVER OMELETTE",
+      "price": 17.95,
+      "description": "Three free run eggs with Ham. Cheddar cheese, onions & fire-roasted peppers",
+      "category": "FOOD",
+      "simplified_description": "Three free run eggs with Ham. Cheddar cheese, onions & fire-roasted peppers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "ULTIMATE OMELETTE",
+      "price": 17.95,
+      "description": "Three free run eggs with Sausage, bacon. Cheddar cheese, onions & peppers, mushrooms.",
+      "category": "FOOD",
+      "simplified_description": "Three free run eggs with Sausage, bacon. Cheddar cheese, onions & peppers, mushr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "GRILLED CHICKEN BREAST",
+      "price": 8.99,
+      "description": "$ 8.99",
+      "category": "FOOD",
+      "simplified_description": "$ 8.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "PAN SEARED HALIBUT",
+      "price": 14.0,
+      "description": "$ 14.00",
+      "category": "FOOD",
+      "simplified_description": "$ 14.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "SPECIAL BREAKFAST",
+      "price": 16.99,
+      "description": "Two buttermilk pancakes, two free range eggs, two bacon. 2 sausage, ham, toast Pan fried potatoes",
+      "category": "FOOD",
+      "simplified_description": "Two buttermilk pancakes, two free range eggs, two bacon. 2 sausage, ham, toast P",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "CANADIAN BREAKFAST",
+      "price": 14.99,
+      "description": "Two free run eggs of your choice. 2 Bacon, 2 sausage or Ham. Toast. pan fried potatoes",
+      "category": "FOOD",
+      "simplified_description": "Two free run eggs of your choice. 2 Bacon, 2 sausage or Ham. Toast. pan fried po",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRENCH TOAST BREAKFAST",
+      "price": 14.0,
+      "description": "Three slices of Thick Sliced French toast, topped2 BACON/2 SAU! with fresh strawberries & whipped cream.",
+      "category": "FOOD",
+      "simplified_description": "Three slices of Thick Sliced French toast, topped2 BACON/2 SAU! with fresh straw",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FIT BREAKFAST",
+      "price": 12.99,
+      "description": "Two egg whites mixed with Spinach.Mushrooms. Side of Fresh Fruit.",
+      "category": "FOOD",
+      "simplified_description": "Two egg whites mixed with Spinach.Mushrooms. Side of Fresh Fruit.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "LIGHT BREAKFAST",
+      "price": 8.99,
+      "description": "Two eggs free run eggs, tomato slices and choice of toast",
+      "category": "FOOD",
+      "simplified_description": "Two eggs free run eggs, tomato slices and choice of toast",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "FRUIT SMOOTHIE",
+      "price": 9.95,
+      "description": "$ 9.95",
+      "category": "DRINK",
+      "simplified_description": "$ 9.95",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "JUICE",
+      "price": 5.5,
+      "description": "$ 5.50",
+      "category": "DRINK",
+      "simplified_description": "$ 5.50",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MILK",
+      "price": 4.0,
+      "description": "$ 4.00",
+      "category": "DRINK",
+      "simplified_description": "$ 4.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "MASALA CHAI TEA",
+      "price": 4.0,
+      "description": "$ 4.00",
+      "category": "DRINK",
+      "simplified_description": "$ 4.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "COFFEE/TEA",
+      "price": 4.0,
+      "description": "$ 4.00",
+      "category": "DRINK",
+      "simplified_description": "$ 4.00",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "XS TRUFFLE FRIES",
+      "price": 11.99,
+      "description": "(Crispy truffle fries Served with Siracha Aioli)",
+      "category": "SIDE",
+      "simplified_description": "(Crispy truffle fries Served with Siracha Aioli)",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "DRY RIBS",
+      "price": 16.99,
+      "description": "16 OZ Pork button ribs with bone, seasoned with garlic Choose from salt & pepper, BBQ, Greek & Hot.",
+      "category": "FOOD",
+      "simplified_description": "16 OZ Pork button ribs with bone, seasoned with garlic Choose from salt & pepper",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "restaurant": "menufyy",
+  "parsed_at": "2026-02-06T03:19:53.534700",
+  "item_count": 32,
+  "items": [
+    {
+      "name": "파전",
+      "price": null,
+      "description": "",
+      "category": "APPETIZER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soondae Gukbap",
+      "price": null,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "돼지국밥",
+      "price": null,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kongnamul Gukbap",
+      "price": null,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gamjatang",
+      "price": null,
+      "description": "",
+      "category": "SOUP",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jjolmyeon Soondubu",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gopchang Soondubu",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budae Soondubu",
+      "price": null,
+      "description": "",
+      "category": "DESSERT",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cheese Maeun Dakbulgogi",
+      "price": null,
+      "description": "",
+      "category": "ENTREE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "순대국밥",
+      "price": null,
+      "description": "",
+      "category": "ENTREE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kongnamul Gukbap",
+      "price": null,
+      "description": "",
+      "category": "ENTREE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bibimbap",
+      "price": null,
+      "description": "",
+      "category": "RICE DISHES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dolsot Bibimbap",
+      "price": null,
+      "description": "",
+      "category": "RICE DISHES",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jokbal",
+      "price": null,
+      "description": "",
+      "category": "SHAREABLE ENTREE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soondae+Jokbal",
+      "price": null,
+      "description": "",
+      "category": "SHAREABLE ENTREE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Ojingeo Bokkeum",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Osam Bokkeum",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jeyuk Bokkeum",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jokbal Bokkeum",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soondae Bokkeum",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soondae Gopchang Bokkeum",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sobulgogi Jeongo",
+      "price": null,
+      "description": "",
+      "category": "HOT STONE PLATE FOR 2",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Budae Jeongol",
+      "price": null,
+      "description": "",
+      "category": "JEONGOL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gamjatang Jeongol",
+      "price": null,
+      "description": "",
+      "category": "JEONGOL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kimchi Jeongol",
+      "price": null,
+      "description": "",
+      "category": "JEONGOL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soondae Jeongol",
+      "price": null,
+      "description": "",
+      "category": "JEONGOL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gopchang Jeongol",
+      "price": null,
+      "description": "",
+      "category": "JEONGOL",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "철판쭈꾸미",
+      "price": null,
+      "description": "",
+      "category": "STIR FRY ON THE TABLE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Cake & Dumpling Soup",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rice Cake Soup",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Honghabtang",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Albap",
+      "price": null,
+      "description": "",
+      "category": "OTHER",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

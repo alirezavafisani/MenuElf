@@ -1,0 +1,494 @@
+{
+  "restaurant": "oldspaghettifactory",
+  "parsed_at": "2025-12-24T23:17:33.319610",
+  "item_count": 51,
+  "items": [
+    {
+      "name": "Garlic Cheese Toast",
+      "price": 9.75,
+      "description": "Mozzarella, parmesan, and cheddar cheeses with an extra kick of garlic and spice. Served toasted on OSF classic bread.",
+      "simplified_description": "Toasted bread with three types of cheese and garlic.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bam Bam Shrimp",
+      "price": 10.5,
+      "description": "Crispy breaded white shrimp glazed in spicy Sriracha sauce and garnished with fresh green onion.",
+      "simplified_description": "Crispy shrimp in spicy sauce with green onion.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steamed Mussels",
+      "price": 12.5,
+      "description": "A pound of juicy mussels steamed in a white wine, garlic and tomato broth.\n*gluten free*",
+      "simplified_description": "Mussels cooked in a wine and garlic broth.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Calamari Fritti",
+      "price": 12.5,
+      "description": "Lightly floured and seasoned calamari served with Tzatziki dip.",
+      "simplified_description": "Fried squid served with a yogurt dip.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crispy Mozzarella Triangles",
+      "price": 10.95,
+      "description": "Breaded mozzarella fried until golden brown. Served with tangy dill or marinara sauce.\n*vegetarian*",
+      "simplified_description": "Fried cheese triangles with dipping sauce.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 13.25,
+      "description": "A pound of wings with choice of Honey Garlic, House Barbeque or Hot Sauce.",
+      "simplified_description": "Wings with your choice of sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tenders",
+      "price": 10.95,
+      "description": "Boneless chicken tenders fried until golden brown. Served with a choice of plum, honey mustard or sweet chili sauce.",
+      "simplified_description": "Fried chicken strips with dipping sauce.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Parmesan Sweet Potato Fries",
+      "price": 9.75,
+      "description": "Crispy sweet potato fries topped with fresh parmesan cheese. Served with a garlic aioli.\n*vegetarian*",
+      "simplified_description": "Sweet potato fries with cheese and garlic dip.",
+      "category": "Appetizers",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Calabrian Chili Garlic Prawns",
+      "price": 10.95,
+      "description": "Calabrian chiles, garlic butter, white wine, cherry tomatoes and lemon. Served with toasted sourdough.",
+      "simplified_description": "Prawns in spicy garlic butter with bread.",
+      "category": "Appetizers",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 14.5,
+      "description": "Prepared with our signature Caesar dressing.\nAdd hot grilled chicken or a skewer of sautéed prawns for $3.95.",
+      "simplified_description": "Salad with Caesar dressing, optional chicken or prawns.",
+      "category": "Entree Salads",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cranberry Goat Cheese Spinach Salad",
+      "price": 14.5,
+      "description": "Prepared with almonds, apples, and cranberries with our own Honey Dijon dressing and topped with creamy goat cheese.\n*vegetarian, gluten free*\nAdd hot grilled chicken or a skewer of sautéed prawns for $3.95.",
+      "simplified_description": "Spinach salad with cranberries, goat cheese, and nuts.",
+      "category": "Entree Salads",
+      "dietary_info": [
+        "vegetarian",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pesto Linguine",
+      "price": 18.75,
+      "description": "Our homemade pesto is a mix of organic basil, pine nuts and almonds blended with our Alfredo sauce then garnished with grape tomatoes.\n*vegetarian*\nServed with sautéed chicken or sautéed prawns for $3.95.",
+      "simplified_description": "Pasta with basil pesto and tomatoes.",
+      "category": "Signature Pastas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Penne with Chicken",
+      "price": 20.25,
+      "description": "Sautéed chicken with mushrooms and garlic, tossed in a rich basil cream sauce with onions, peppers, and tomatoes.",
+      "simplified_description": "Pasta with chicken and creamy basil sauce.",
+      "category": "Signature Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lasagna",
+      "price": 20.5,
+      "description": "Layer upon layer of pasta, meat sauce and mozzarella, ricotta and parmesan cheeses.",
+      "simplified_description": "Pasta dish with layers of meat and cheese.",
+      "category": "Signature Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Linguine with Clams",
+      "price": 19.25,
+      "description": "A traditional alle Vongole with littleneck clams, garlic, chili flakes and extra virgin olive oil.\n*gluten free*",
+      "simplified_description": "Pasta with clams and garlic oil.",
+      "category": "Signature Pastas",
+      "dietary_info": [
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Alfredo with Mushroom and Mascarpone Cheese Ravioli",
+      "price": 21.95,
+      "description": "Sautéed chicken in our creamy alfredo sauce and mixed with wild mushroom and mascarpone cheese ravioli.",
+      "simplified_description": "Chicken in creamy sauce with mushroom pasta.",
+      "category": "Signature Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fettuccine Alfredo",
+      "price": 17.95,
+      "description": "Our spinach and egg fettuccine noodles with a creamy Alfredo sauce.\n*vegetarian*\nServed with sautéed chicken for $3.95.",
+      "simplified_description": "Fettuccine pasta in creamy sauce.",
+      "category": "Signature Pastas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Fettuccine Alfredo",
+      "price": 21.95,
+      "description": "A creamy creation with prawns, scallops and mushrooms sautéed with our spinach and egg fettuccine noodles and Alfredo sauce.",
+      "simplified_description": "Seafood pasta in creamy sauce.",
+      "category": "Signature Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baked Manicotti",
+      "price": 20.5,
+      "description": "Tubes of pasta stuffed with a delicately spiced mixture of cheeses and spinach, topped with marinara sauce and melted mozzarella.\n*vegetarian*",
+      "simplified_description": "Stuffed pasta with cheese and spinach.",
+      "category": "Signature Pastas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Tortellini Pomodoro",
+      "price": 18.95,
+      "description": "Rainbow tortellini stuffed with cheese in a rich rosé and basil cream sauce with mushrooms, peppers, tomatoes and garlic.\n*vegetarian*\nServed with sautéed chicken or sautéed prawns for $3.95.",
+      "simplified_description": "Cheese-filled pasta in a creamy tomato sauce.",
+      "category": "Signature Pastas",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Seafood Linguine Marinara",
+      "price": 20.5,
+      "description": "Sautéed bay scallops, clams, and prawns, tossed with linguine noodles in a garlic marinara sauce.",
+      "simplified_description": "Seafood pasta in garlic tomato sauce.",
+      "category": "Signature Pastas",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Parmigiana",
+      "price": 23.5,
+      "description": "A hand-breaded chicken breast, topped with marinara sauce and melted parmesan and mozzarella cheeses. Served with spaghetti marinara sauce or fries.",
+      "simplified_description": "Breaded chicken with marinara and cheese.",
+      "category": "From Our Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Roasted Garlic Grilled Chicken",
+      "price": 23.5,
+      "description": "A breast of chicken marinated with garlic and lemon and then grilled. Served over linguine noodles tossed with roasted garlic butter and topped with pesto tomatoes and parmesan cheese.",
+      "simplified_description": "Grilled chicken with garlic butter and pasta.",
+      "category": "From Our Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Piccata",
+      "price": 23.5,
+      "description": "Crispy chicken breasts served over spaghetti tossed in a lemon butter sauce with shallots and capers.",
+      "simplified_description": "Fried chicken with lemon butter sauce and pasta.",
+      "category": "From Our Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Baby Back Ribs",
+      "price": 26.95,
+      "description": "A full pound of baby back pork ribs, slow cooked, basted with our own Smokey BBQ sauce and charbroiled to perfection. Served with spaghetti with marinara sauce or fries.",
+      "simplified_description": "Slow-cooked ribs with BBQ sauce.",
+      "category": "From Our Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Steak",
+      "price": 26.95,
+      "description": "An 8oz center cut grass fed New York steak served with sautéed mushrooms and spaghetti with marinara sauce or fries.\nAdd a skewer of sautéed prawns for $3.95.",
+      "simplified_description": "Steak with mushrooms and pasta.",
+      "category": "From Our Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Diavola Chicken Gnocchi",
+      "price": 25.95,
+      "description": "Spicy grilled chicken breast, potato gnocchi, and fresh green beans with spiced roast chicken gravy.",
+      "simplified_description": "Spicy chicken with gnocchi and green beans.",
+      "category": "From Our Grill",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti with Meatballs",
+      "price": 19.75,
+      "description": "Hand rolled meatballs served with Italian marinara sauce and topped with fresh parmesan cheese.",
+      "simplified_description": "Spaghetti with meatballs and marinara sauce.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti with IMPOSSIBLE™ Meatballs",
+      "price": 21.5,
+      "description": "Our classic dish served with hand rolled IMPOSSIBLE™ Meatballs.\n*vegan, gluten free*",
+      "simplified_description": "Spaghetti with plant-based meatballs.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [
+        "vegan",
+        "gluten-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Mushroom Alfredo Spaghetti",
+      "price": 17.75,
+      "description": "Whole button mushrooms sautéed in garlic and white wine and blended into our creamy parmesan Alfredo sauce.\n*vegetarian*",
+      "simplified_description": "Spaghetti with mushrooms in creamy sauce.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "The Manager’s Favourite",
+      "price": 17.5,
+      "description": "Choose two of the following sauces: Rich Meat Sauce, Spicy Meat Sauce, Browned Butter and Mizithra Cheese, Marinara Sauce.",
+      "simplified_description": "Choose two sauces for your spaghetti.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti with Browned Butter and Mizithra Cheese",
+      "price": 17.75,
+      "description": "Our signature Mizithra is a deliciously salty cheese that is grated over our spaghetti and drizzled with browned butter.",
+      "simplified_description": "Spaghetti with salty cheese and butter.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti with Meat Sauce",
+      "price": 16.95,
+      "description": "Prepared using sautéed ground beef and premium vine ripened tomatoes, our recipe comes straight from Naples.",
+      "simplified_description": "Spaghetti with meat sauce.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti with Spicy Meat Sauce",
+      "price": 16.95,
+      "description": "Eight additional spices simmered with our homemade meat sauce.",
+      "simplified_description": "Spaghetti with spicy meat sauce.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spaghetti with Marinara Sauce",
+      "price": 15.25,
+      "description": "Our famous Italian recipe prepared using premium vine-ripened tomatoes and our unique spice blend.\n*vegan*",
+      "simplified_description": "Spaghetti with tomato sauce.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [
+        "vegan"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Pot-Pourri Spaghetti with Meat, Mizithra Cheese and Marinara Sauce",
+      "price": 17.5,
+      "description": "A sampler for the undecided – generous portions of our most popular sauces.",
+      "simplified_description": "Spaghetti with a variety of sauces.",
+      "category": "Spaghetti Classics",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hot and Crispy Chicken Club",
+      "price": 17.75,
+      "description": "Crispy chicken breast with hickory smoked bacon, sliced tomato, red onion, fresh romaine and our signature spicy Sriracha sauce on a brioche bun.",
+      "simplified_description": "Chicken sandwich with bacon and spicy sauce.",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch Size Lasagna",
+      "price": 15.5,
+      "description": "",
+      "simplified_description": "",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lunch Size Manicotti",
+      "price": 15.5,
+      "description": "\n*vegetarian*",
+      "simplified_description": "Smaller portion of stuffed pasta.",
+      "category": "Lunch Specials",
+      "dietary_info": [
+        "vegetarian"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "Braised Beef Dip au Jus",
+      "price": 17.75,
+      "description": "Oven braised beef, mozzarella, crispy onion, garlic aioli, on a brioche bun with au jus.",
+      "simplified_description": "Beef sandwich with cheese and dipping sauce.",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "New York Steak Sandwich",
+      "price": 18.95,
+      "description": "A 6oz grass fed striploin grilled as you like on top of garlic sourdough toast.",
+      "simplified_description": "Steak sandwich on garlic bread.",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Tenders & Fries",
+      "price": 16.75,
+      "description": "Boneless chicken tenders fried until golden brown. Served with a choice of plum, honey mustard or sweet chili sauce.",
+      "simplified_description": "Fried chicken strips with fries and dipping sauce.",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soup and Salad",
+      "price": 13.7,
+      "description": "Baked French Onion, Minestrone or Clam Chowder Soup, and Green, Caesar or Spinach Salad.",
+      "simplified_description": "Choice of soup and salad.",
+      "category": "Lunch Specials",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "The Ultimate Cheesecake",
+      "price": 7.5,
+      "description": "Big enough to share! This New York style cheesecake has a subtle vanilla flavour.",
+      "simplified_description": "Large cheesecake with vanilla flavor.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chocolate Layer Cake",
+      "price": 7.5,
+      "description": "Four layers of chocolate cake separated with chocolate fudge icing.",
+      "simplified_description": "Chocolate cake with fudge icing.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tiramisu",
+      "price": 8.95,
+      "description": "Espresso soaked cake layers with Mascarpone cheese mousse and a dusting of cocoa sugar.",
+      "simplified_description": "Coffee-flavored cake with cheese mousse.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dubai Chocolate Crunch Bar",
+      "price": 7.95,
+      "description": "Indulgent smooth pistachio cream and rich dark chocolate with crispy kataifi, sprinkled with roasted pistachios.",
+      "simplified_description": "Chocolate dessert with pistachios.",
+      "category": "Dessert",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "House Wine",
+      "price": null,
+      "description": "Peller Estates Proprietor’s Reserve Malbec or Pinot Grigio I Canada\n8 Oz. Glass - $8.50\n½ Litre - $15.95\n1 Litre - $29.95",
+      "simplified_description": "Choice of red or white wine by the glass or bottle.",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peller Estates Proprietor’s Reserve Red or White Blend I Canada",
+      "price": null,
+      "description": "8 Oz. Glass - $7.95\n½ Litre - $14.95\n1 Litre - $27.50",
+      "simplified_description": "Choice of red or white blend wine by the glass or bottle.",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jackson-Triggs Proprietor’s Selection I Cabernet Sauvignon or Sauvignon Blanc I Canada",
+      "price": null,
+      "description": "8 Oz. Glass - $8.95\n½ Litre - $16.95\n1 Litre - $30.95",
+      "simplified_description": "Choice of Cabernet or Sauvignon Blanc wine by the glass or bottle.",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jackson-Triggs Proprietor’s Selection I Merlot or Chardonnay I Canada",
+      "price": null,
+      "description": "8 Oz. Glass - $8.25\n½ Litre - $15.50\n1 Litre - $28.95",
+      "simplified_description": "Choice of Merlot or Chardonnay wine by the glass or bottle.",
+      "category": "Beverages",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

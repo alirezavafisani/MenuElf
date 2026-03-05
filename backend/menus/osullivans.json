@@ -1,0 +1,673 @@
+{
+  "restaurant": "osullivans",
+  "parsed_at": "2026-02-06T03:36:56.413175",
+  "item_count": 74,
+  "items": [
+    {
+      "name": "Nachos",
+      "price": 19.99,
+      "description": "Corn tortillas, fresh diced tomato, green onions, black olives, & peppers. Smothered in a nacho cheese blend. Served with sour cream & salsa • Add Chicken or Spicy Beef +$6.99",
+      "category": "FOOD",
+      "simplified_description": "Corn tortillas, fresh diced tomato, green onions, black olives, & peppers. Smoth",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Spinach & Artichoke Dip",
+      "price": 14.99,
+      "description": "With naan bread, spinach, artichoke hearts, 5 cheese blends, peppers & spices.",
+      "category": "APPETIZER",
+      "simplified_description": "With naan bread, spinach, artichoke hearts, 5 cheese blends, peppers & spices.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Wings",
+      "price": 16.99,
+      "description": "1 lb $16.99 | 2 lbs $24.99 • Deep-fried wings served with carrots, cucumber & dip.",
+      "category": "APPETIZER",
+      "simplified_description": "1 lb $16.99 | 2 lbs $24.99 • Deep-fried wings served with carrots, cucumber & di",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deep Fried Pickles",
+      "price": 10.99,
+      "description": "Served with ranch dip.",
+      "category": "APPETIZER",
+      "simplified_description": "Served with ranch dip.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 5.99,
+      "description": "Small $5.99 | Large $9.99 • Add Chicken +$6.99",
+      "category": "SIDE",
+      "simplified_description": "Small $5.99 | Large $9.99 • Add Chicken +$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Greens Salad",
+      "price": 5.99,
+      "description": "Small $5.99 | Large $9.99 • Add Chicken +$6.99",
+      "category": "SIDE",
+      "simplified_description": "Small $5.99 | Large $9.99 • Add Chicken +$6.99",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Santa Fe Salad",
+      "price": 15.99,
+      "description": "Mixed greens, fresh diced tomato, green onion, sweet corn & a three cheese blend topped with breaded fried chicken (or grilled chicken) & corn tortilla strips. (Signature dressing on the side).",
+      "category": "SALAD",
+      "simplified_description": "Mixed greens, fresh diced tomato, green onion, sweet corn & a three cheese blend",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fish & Chips",
+      "price": 17.99,
+      "description": "8 oz. lightly battered haddock, tartar sauce & freshly cut lemon. Served with fries.",
+      "category": "FOOD",
+      "simplified_description": "8 oz. lightly battered haddock, tartar sauce & freshly cut lemon. Served with fr",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Smoked Meat Sandwich",
+      "price": 14.99,
+      "description": "5oz of smoked meat piled on rye bread. Served with dill pickle and a side of mustard. Double the meat for $6.00 more (if you dare).",
+      "category": "FOOD",
+      "simplified_description": "5oz of smoked meat piled on rye bread. Served with dill pickle and a side of mus",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": 14.99,
+      "description": "Dipping sauce.",
+      "category": "FOOD",
+      "simplified_description": "Dipping sauce.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Quesadilla",
+      "price": 15.99,
+      "description": "Juicy grilled chicken breast (or spicy beef) with peppers, tomatoes, green onions & cheese stuffed in a flour tortilla served with salsa & sour cream.",
+      "category": "FOOD",
+      "simplified_description": "Juicy grilled chicken breast (or spicy beef) with peppers, tomatoes, green onion",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "BLTC",
+      "price": 14.99,
+      "description": "Maple wood smoked bacon, butter lettuce, tomato, & cheddar cheese on toasted sourdough.",
+      "category": "FOOD",
+      "simplified_description": "Maple wood smoked bacon, butter lettuce, tomato, & cheddar cheese on toasted sou",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Clubhouse",
+      "price": 15.99,
+      "description": "Chicken breast, maple wood smoked bacon, cheddar cheese, tomato, butter lettuce & mayo on sourdough or in a wrap.",
+      "category": "FOOD",
+      "simplified_description": "Chicken breast, maple wood smoked bacon, cheddar cheese, tomato, butter lettuce ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Rueben",
+      "price": 15.99,
+      "description": "Montreal smoked meat double stacked on rye bread with Polish sauerkraut & swiss cheese, & 1000 island dressing, and dill pickle.",
+      "category": "FOOD",
+      "simplified_description": "Montreal smoked meat double stacked on rye bread with Polish sauerkraut & swiss ",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Steak Sandwich",
+      "price": 19.99,
+      "description": "7 oz. charbroiled Sirloin Steak, sautéed mushrooms & onion rings served on garlic toast.",
+      "category": "FOOD",
+      "simplified_description": "7 oz. charbroiled Sirloin Steak, sautéed mushrooms & onion rings served on garli",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Philly Melt",
+      "price": 17.99,
+      "description": "6 oz of succulent certified Angus beef with mushrooms, caramelized onions, and green peppers, then topped with Swiss and cheddar cheeses, served open-faced on a sourdough hero roll.",
+      "category": "FOOD",
+      "simplified_description": "6 oz of succulent certified Angus beef with mushrooms, caramelized onions, and g",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Certified Angus Beef Dip",
+      "price": 16.99,
+      "description": "6 oz. of succulent Alberta-certified Angus beef piled high on a sourdough hero roll with au jus for dipping.",
+      "category": "FOOD",
+      "simplified_description": "6 oz. of succulent Alberta-certified Angus beef piled high on a sourdough hero r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Deluxe Certified Angus Beef Dip",
+      "price": 17.99,
+      "description": "6 oz. of succulent Alberta-certified Angus beef piled high on a sourdough hero roll with mushrooms, and caramelized onions. cheese & au jus for dipping.",
+      "category": "FOOD",
+      "simplified_description": "6 oz. of succulent Alberta-certified Angus beef piled high on a sourdough hero r",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "French Fries",
+      "price": 4.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Tater Tots",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Gravy",
+      "price": 2.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Soup (Housemade)",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Carrots, Cucumber & Dip",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar Salad",
+      "price": 6.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Mixed Greens Salad",
+      "price": 5.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Onion Rings",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Yam Fries",
+      "price": 8.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "O'Sully's Poutine",
+      "price": 9.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hangover Hash",
+      "price": 9.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Nacho Tots",
+      "price": 11.0,
+      "description": "",
+      "category": "SIDE",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Warm Brownie Sundae",
+      "price": 9.0,
+      "description": "Vanilla ice cream, a gooey brownie drizzled with Smuckers chocolate & caramel sauce and topped with whipped cream.",
+      "category": "DESSERT",
+      "simplified_description": "Vanilla ice cream, a gooey brownie drizzled with Smuckers chocolate & caramel sa",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Crown Royal",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pints of Keith",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Bottled Beer",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Draft, Hi-Balls, Shooters, Wine & Premiums",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Captain Morgan Spiced",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pints of Village Wit",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Select Bottled Beer",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pints of Village Lager",
+      "price": 6.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Fireball Shots",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pabst Blue Ribbon",
+      "price": 5.5,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paralyzers & Long Teas",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jäger Shots",
+      "price": 4.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jugs of Hiballs, Cocktails, or Draft Beer***",
+      "price": 11.99,
+      "description": "each.",
+      "category": "DRINK",
+      "simplified_description": "each.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesars / Screw Drivers",
+      "price": 5.99,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Double",
+      "price": 8.0,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Chapoutier (France)",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kim Crawford Sauvignon Blanc",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lindemans Bin 65 Chardonnay",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Santa Margherita Pinot Grigio",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "19 Crimes Shiraz",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dreaming Tree Blend",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Wolf Blass Cabernet Sauvignon",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Prosecco",
+      "price": null,
+      "description": "",
+      "category": "DRINK",
+      "simplified_description": "",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Caesar",
+      "price": null,
+      "description": "Vodka & clamato juice Calgary classic.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka & clamato juice Calgary classic.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sex on the Beach",
+      "price": null,
+      "description": "Vodka, peach schnapps, OJ & cranberry juice.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka, peach schnapps, OJ & cranberry juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Woo Hoo",
+      "price": null,
+      "description": "Vodka, peach schnapps & cranberry juice.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka, peach schnapps & cranberry juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Jungle Juice",
+      "price": null,
+      "description": "Vodka, white rum, banana liqueur, Malibu, pineapple & OJ.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka, white rum, banana liqueur, Malibu, pineapple & OJ.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Alabama Slammer",
+      "price": null,
+      "description": "Southern Comfort, triple sec. gin, Galliano & OJ.",
+      "category": "COCKTAIL",
+      "simplified_description": "Southern Comfort, triple sec. gin, Galliano & OJ.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Blues Brother",
+      "price": null,
+      "description": "Vodka, blue curacao, lemon lime.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka, blue curacao, lemon lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cherry Cola",
+      "price": null,
+      "description": "Dark rum, cherry brandy, and coke.",
+      "category": "COCKTAIL",
+      "simplified_description": "Dark rum, cherry brandy, and coke.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Margarita",
+      "price": null,
+      "description": "Tequila, triple sec, lime juice.",
+      "category": "COCKTAIL",
+      "simplified_description": "Tequila, triple sec, lime juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Long Island Ice Tea",
+      "price": null,
+      "description": "Vodka, gin, tequila, rum, triple sec. coke, lime.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka, gin, tequila, rum, triple sec. coke, lime.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Paralyzer",
+      "price": null,
+      "description": "Vodka, Kahlua, mill, coke.",
+      "category": "COCKTAIL",
+      "simplified_description": "Vodka, Kahlua, mill, coke.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Classic",
+      "price": null,
+      "description": "Vodka or gin.",
+      "category": "MARTINI",
+      "simplified_description": "Vodka or gin.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Dirty Martini",
+      "price": null,
+      "description": "Vodka or gin olive juice.",
+      "category": "MARTINI",
+      "simplified_description": "Vodka or gin olive juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Appletini",
+      "price": null,
+      "description": "Green apple vodka, sour apple, lime juice.",
+      "category": "MARTINI",
+      "simplified_description": "Green apple vodka, sour apple, lime juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sexy Martini",
+      "price": null,
+      "description": "Vodka, peach schnapps, cranberry & lime juice.",
+      "category": "MARTINI",
+      "simplified_description": "Vodka, peach schnapps, cranberry & lime juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Lemon Drop",
+      "price": null,
+      "description": "Citrus vodka, limoncello, lemon juice.",
+      "category": "MARTINI",
+      "simplified_description": "Citrus vodka, limoncello, lemon juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Pinktini",
+      "price": null,
+      "description": "Raspberry vodka, gin, triple sec, cranberry & lime juice.",
+      "category": "MARTINI",
+      "simplified_description": "Raspberry vodka, gin, triple sec, cranberry & lime juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Peach Kiss",
+      "price": null,
+      "description": "Vanilla vodka, peach schnapps. OJ & cranberry juice.",
+      "category": "MARTINI",
+      "simplified_description": "Vanilla vodka, peach schnapps. OJ & cranberry juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Hypnotic Breeze",
+      "price": null,
+      "description": "Hypnotic, Malibu, pineapple juice.",
+      "category": "MARTINI",
+      "simplified_description": "Hypnotic, Malibu, pineapple juice.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Easy Rider",
+      "price": null,
+      "description": "Peach schnapps, banana liqueur & OJ.",
+      "category": "MARTINI",
+      "simplified_description": "Peach schnapps, banana liqueur & OJ.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Cosmopolitan",
+      "price": null,
+      "description": "Vodka, lemon juice, triple sec & cranberry juice.",
+      "category": "MARTINI",
+      "simplified_description": "Vodka, lemon juice, triple sec & cranberry juice.",
+      "dietary_info": [],
+      "other_info": ""
+    }
+  ]
+}

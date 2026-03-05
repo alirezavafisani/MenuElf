@@ -1,0 +1,291 @@
+{
+  "restaurant": "kungfurestaurant",
+  "parsed_at": "2026-02-06T03:01:29.829337",
+  "item_count": 29,
+  "items": [
+    {
+      "name": "101. Special Chow Mein",
+      "price": 17.95,
+      "description": "101. Special Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "101. Special Chow Mein",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "102. Beef Chow Mein",
+      "price": 17.5,
+      "description": "102. Beef Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "102. Beef Chow Mein",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "103. Vegetable Chow Mein",
+      "price": 16.95,
+      "description": "103. Vegetable Chow Mein",
+      "category": "FOOD",
+      "simplified_description": "103. Vegetable Chow Mein",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "104. Mushroom Chop Suey",
+      "price": 16.5,
+      "description": "104. Mushroom Chop Suey",
+      "category": "FOOD",
+      "simplified_description": "104. Mushroom Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "105. Chicken Chop Suey",
+      "price": 16.5,
+      "description": "105. Chicken Chop Suey",
+      "category": "FOOD",
+      "simplified_description": "105. Chicken Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "106. Beef Chop Suey",
+      "price": 16.5,
+      "description": "106. Beef Chop Suey",
+      "category": "FOOD",
+      "simplified_description": "106. Beef Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "107. BBQ Pork Chop Suey",
+      "price": 16.5,
+      "description": "107. BBQ Pork Chop Suey",
+      "category": "FOOD",
+      "simplified_description": "107. BBQ Pork Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "108. Shrimp Chop Suey",
+      "price": 17.5,
+      "description": "108. Shrimp Chop Suey",
+      "category": "FOOD",
+      "simplified_description": "108. Shrimp Chop Suey",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "109. Chicken Egg Foo Young",
+      "price": 17.5,
+      "description": "109. Chicken Egg Foo Young",
+      "category": "FOOD",
+      "simplified_description": "109. Chicken Egg Foo Young",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "110. Mushroom Egg Foo Young",
+      "price": 17.5,
+      "description": "110. Mushroom Egg Foo Young",
+      "category": "FOOD",
+      "simplified_description": "110. Mushroom Egg Foo Young",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "111. BBQ Pork Egg Foo Young",
+      "price": 17.5,
+      "description": "111. BBQ Pork Egg Foo Young",
+      "category": "FOOD",
+      "simplified_description": "111. BBQ Pork Egg Foo Young",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "112. Shrimp Egg Foo Young",
+      "price": 18.5,
+      "description": "112. Shrimp Egg Foo Young",
+      "category": "FOOD",
+      "simplified_description": "112. Shrimp Egg Foo Young",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Black Bean Sauce",
+      "price": 2.5,
+      "description": "Black Bean Sauce",
+      "category": "OTHER",
+      "simplified_description": "Black Bean Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Can Pop",
+      "price": 0.0,
+      "description": "Can Pop From:",
+      "category": "DRINK",
+      "simplified_description": "Can Pop From:",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Curried Sauce",
+      "price": 2.5,
+      "description": "Curried Sauce",
+      "category": "OTHER",
+      "simplified_description": "Curried Sauce",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "G01 Dinner For One",
+      "price": 20.5,
+      "description": "G01 Dinner For One",
+      "category": "FOOD",
+      "simplified_description": "Single serving dinner meal.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "G02 Dinner For Two ~~$ 115.95~~ Original price was: $115.95.$43.95Current price is: $43.95.",
+      "price": 43.95,
+      "description": "G02 Dinner For Two ~~$ 115.95~~ Original price was: $115.95.$43.95Current price is: $43.95.",
+      "category": "FOOD",
+      "simplified_description": "Dinner meal portioned for two people.",
+      "dietary_info": [],
+      "other_info": "Serves two"
+    },
+    {
+      "name": "G04 Dinner For Four ~~$ 189.05~~ Original price was: $189.05.$87.95Current price is: $87.95.",
+      "price": 87.95,
+      "description": "G04 Dinner For Four ~~$ 189.05~~ Original price was: $189.05.$87.95Current price is: $87.95.",
+      "category": "FOOD",
+      "simplified_description": "Dinner meal portioned for four people.",
+      "dietary_info": [],
+      "other_info": "Serves four"
+    },
+    {
+      "name": "G06 Dinner For Six ~~$ 285.40~~ Original price was: $285.40.$127.95Current price is: $127.95.",
+      "price": 127.95,
+      "description": "G06 Dinner For Six ~~$ 285.40~~ Original price was: $285.40.$127.95Current price is: $127.95.",
+      "category": "FOOD",
+      "simplified_description": "Dinner meal portioned for six people.",
+      "dietary_info": [],
+      "other_info": "Serves six"
+    },
+    {
+      "name": "G08 Dinner For Eight ~~$ 359.05~~ Original price was: $359.05.$169.95Current price is: $169.95.",
+      "price": 169.95,
+      "description": "G08 Dinner For Eight ~~$ 359.05~~ Original price was: $359.05.$169.95Current price is: $169.95.",
+      "category": "FOOD",
+      "simplified_description": "Dinner meal portioned for eight people.",
+      "dietary_info": [],
+      "other_info": "Serves eight"
+    },
+    {
+      "name": "Kungfu Gift Cards",
+      "price": 10.0,
+      "description": "Kungfu Gift Cards $10.00 – $100.00Price range: $10.00 through $100.00",
+      "category": "OTHER",
+      "simplified_description": "Gift cards available from $10 to $100.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Kungfu Lunch Specials",
+      "price": 14.5,
+      "description": "Kungfu Lunch Specials",
+      "category": "FOOD",
+      "simplified_description": "Special lunch menu items.",
+      "dietary_info": [],
+      "other_info": ""
+    },
+    {
+      "name": "Sweet & Sour Sauce",
+      "price": 2.5,
+      "description": "Sweet & Sour Sauce",
+      "category": "OTHER",
+      "simplified_description": "Tangy sweet and sour dipping sauce.",
+      "dietary_info": [
+        "vegan",
+        "gluten-free",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "001. Deep Fried Spring Roll (1)",
+      "price": 2.6,
+      "description": "001. Deep Fried Spring Roll (1)",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy deep fried spring roll.",
+      "dietary_info": [
+        "vegetarian",
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "002. Deep Fried Wonton with Sweet & Sour Sauce",
+      "price": 14.5,
+      "description": "002. Deep Fried Wonton with Sweet & Sour Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "Crispy fried wontons served with sweet and sour sauce.",
+      "dietary_info": [
+        "dairy-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "003. Deep Fried Chicken Wings(8)",
+      "price": 15.95,
+      "description": "003. Deep Fried Chicken Wings(8)",
+      "category": "APPETIZER",
+      "simplified_description": "Eight pieces of crispy deep fried chicken wings.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free",
+        "halal"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "004. Grilled Pork with Vegetable Dumpling (10)",
+      "price": 16.5,
+      "description": "004. Grilled Pork with Vegetable Dumpling (10)",
+      "category": "APPETIZER",
+      "simplified_description": "Ten grilled pork and vegetable dumplings.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "005. Dry Garlic Spareribs",
+      "price": 16.95,
+      "description": "005. Dry Garlic Spareribs",
+      "category": "APPETIZER",
+      "simplified_description": "Spareribs cooked with dry garlic seasoning.",
+      "dietary_info": [
+        "gluten-free",
+        "nut-free"
+      ],
+      "other_info": ""
+    },
+    {
+      "name": "006. BBQ Pork Slices with Honey Sauce",
+      "price": 17.95,
+      "description": "006. BBQ Pork Slices with Honey Sauce",
+      "category": "APPETIZER",
+      "simplified_description": "BBQ pork slices served with honey sauce.",
+      "dietary_info": [
+        "nut-free"
+      ],
+      "other_info": ""
+    }
+  ]
+}
