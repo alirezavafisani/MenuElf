@@ -64,6 +64,7 @@ export default function RecommendationsScreen() {
     };
 
     const performSearch = async () => {
+        setResults([]);
         setLoading(true);
         setSearched(true);
         Keyboard.dismiss();
@@ -191,7 +192,7 @@ export default function RecommendationsScreen() {
         >
             <View style={styles.cardHeader}>
                 <Text style={styles.dishName} numberOfLines={1}>{item.name}</Text>
-                <Text style={styles.dishPrice}>{item.price ? `$${item.price.toFixed(2)}` : 'Pricing N/A'}</Text>
+                <Text style={styles.dishPrice}>{item.price != null ? `$${item.price.toFixed(2)}` : 'Pricing N/A'}</Text>
             </View>
             <Text style={styles.restaurantName}>
                 <Ionicons name="restaurant-outline" size={14} color="#FF6B6B" /> {item.restaurant_name}
@@ -204,7 +205,7 @@ export default function RecommendationsScreen() {
                 <View style={styles.categoryBadge}>
                     <Text style={styles.categoryBadgeText}>{item.category || 'FOOD'}</Text>
                 </View>
-                {item.dietary_info && item.dietary_info.map((tag, idx) => (
+                {Array.isArray(item.dietary_info) && item.dietary_info.map((tag, idx) => (
                     <View key={idx} style={styles.dietaryBadge}>
                         <Text style={styles.dietaryBadgeText}>{tag}</Text>
                     </View>

@@ -1,4 +1,4 @@
-import { StyleSheet, View, Text, TextInput, TouchableOpacity, FlatList, KeyboardAvoidingView, Platform, ActivityIndicator } from 'react-native';
+import { StyleSheet, View, Text, TextInput, TouchableOpacity, FlatList, KeyboardAvoidingView, Platform, ActivityIndicator, TouchableWithoutFeedback, Keyboard } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -161,6 +161,7 @@ export default function ChatScreen() {
     };
 
     return (
+        <TouchableWithoutFeedback onPress={Keyboard.dismiss} accessible={false}>
         <SafeAreaView style={styles.container} edges={['top', 'bottom']}>
             <View style={styles.header}>
                 <TouchableOpacity style={styles.backButton} onPress={handleBack}>
@@ -181,6 +182,7 @@ export default function ChatScreen() {
                     keyExtractor={item => item.id}
                     renderItem={renderMessage}
                     contentContainerStyle={styles.chatContent}
+                    keyboardDismissMode="on-drag"
                     onContentSizeChange={() => flatListRef.current?.scrollToEnd({ animated: true })}
                     onLayout={() => flatListRef.current?.scrollToEnd({ animated: true })}
                 />
@@ -209,6 +211,7 @@ export default function ChatScreen() {
                 </View>
             </KeyboardAvoidingView>
         </SafeAreaView>
+        </TouchableWithoutFeedback>
     );
 }
 
