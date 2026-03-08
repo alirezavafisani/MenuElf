@@ -13,10 +13,18 @@
             "bundleIdentifier": "com.alirezavafi.menuelf",
             "infoPlist": {
                 "NSLocationWhenInUseUsageDescription": "Allow MenuElf to use your location to find nearby restaurants on the map."
+            },
+            "config": {
+                "googleMapsApiKey": "AIzaSyAlNXWy4c6rHFcnPPxMsMwscOm2yRcf9Cw"
             }
         },
         "android": {
             "package": "com.alirezavafi.menuelf",
+            "config": {
+                "googleMaps": {
+                    "apiKey": "AIzaSyAlNXWy4c6rHFcnPPxMsMwscOm2yRcf9Cw"
+                }
+            },
             "adaptiveIcon": {
                 "backgroundColor": "#E6F4FE",
                 "foregroundImage": "./assets/images/android-icon-foreground.png",
