@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
     StyleSheet, View, Text, TextInput, TouchableOpacity,
-    FlatList, ActivityIndicator, ScrollView, Platform, Keyboard
+    ActivityIndicator, ScrollView, Keyboard
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
@@ -39,6 +39,7 @@ export default function RecommendationsScreen() {
     const [results, setResults] = useState<Dish[]>([]);
     const [loading, setLoading] = useState(false);
     const [searched, setSearched] = useState(false);
+    const [errorMsg, setErrorMsg] = useState('');
 
     useEffect(() => {
         // Fetch available filter options from the backend
@@ -65,6 +66,7 @@ export default function RecommendationsScreen() {
 
     const performSearch = async () => {
         setResults([]);
+        setErrorMsg('');
         setLoading(true);
         setSearched(true);
         Keyboard.dismiss();
@@ -87,6 +89,7 @@ export default function RecommendationsScreen() {
         } catch (error) {
             console.error("Search failed:", error);
             setResults([]);
+            setErrorMsg('Search failed. Please check your connection and try again.');
         } finally {
             setLoading(false);
         }
@@ -95,7 +98,7 @@ export default function RecommendationsScreen() {
     const renderHeader = () => (
         <View style={styles.headerContainer}>
             <Text style={styles.pageTitle}>Dish Recommender</Text>
-            <Text style={styles.pageSubtitle}>Find exactly what you're craving</Text>
+            <Text style={styles.pageSubtitle}>Find exactly what you&apos;re craving</Text>
 
             <View style={styles.searchBox}>
                 <Ionicons name="search" size={20} color="#999" style={styles.searchIcon} />
@@ -177,15 +180,19 @@ export default function RecommendationsScreen() {
 
             {loading && <ActivityIndicator size="large" color="#FF6B6B" style={styles.loader} />}
 
-            {!loading && searched && results.length === 0 && (
+            {!loading && errorMsg ? (
+                <Text style={styles.errorText}>{errorMsg}</Text>
+            ) : null}
+
+            {!loading && searched && !errorMsg && results.length === 0 && (
                 <Text style={styles.noResults}>No dishes found. Try loosening your filters!</Text>
             )}
         </View>
     );
 
-    const renderDishCard = (item: Dish) => (
+    const renderDishCard = (item: Dish, idx: number) => (
         <TouchableOpacity
-            key={item.id}
+            key={`${item.id}-${idx}`}
             style={styles.card}
             activeOpacity={0.7}
             onPress={() => router.push({ pathname: '/chat', params: { restaurant: item.restaurant_slug, dish: item.name } })}
@@ -218,7 +225,7 @@ export default function RecommendationsScreen() {
         <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
             <ScrollView contentContainerStyle={styles.listContent} keyboardShouldPersistTaps="handled">
                 {renderHeader()}
-                {results.map((item) => renderDishCard(item))}
+                {results.map((item, idx) => renderDishCard(item, idx))}
             </ScrollView>
         </SafeAreaView>
     );
@@ -339,6 +346,13 @@ const styles = StyleSheet.create({
         color: '#999',
         marginTop: 20,
         fontSize: 16,
+    },
+    errorText: {
+        textAlign: 'center',
+        color: '#E74C3C',
+        marginTop: 20,
+        fontSize: 16,
+        fontWeight: '600',
     },
     card: {
         backgroundColor: '#FFF',

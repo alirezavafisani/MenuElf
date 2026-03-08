@@ -13,6 +13,21 @@ type Message = {
     content: string;
 };
 
+const stripMarkdown = (text: string): string => {
+    return text
+        .replace(/\*\*\*(.*?)\*\*\*/g, '$1')
+        .replace(/\*\*(.*?)\*\*/g, '$1')
+        .replace(/\*(.*?)\*/g, '$1')
+        .replace(/__(.*?)__/g, '$1')
+        .replace(/_(.*?)_/g, '$1')
+        .replace(/~~(.*?)~~/g, '$1')
+        .replace(/`{3}[\s\S]*?`{3}/g, '')
+        .replace(/`(.*?)`/g, '$1')
+        .replace(/^#{1,6}\s+/gm, '')
+        .replace(/^\s*[-*+]\s+/gm, '- ')
+        .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+};
+
 const toBackendHistory = (msgs: Message[]) => msgs.map(m => ({
     role: m.role,
     content: m.content
@@ -154,7 +169,7 @@ export default function ChatScreen() {
         return (
             <View style={[styles.messageBubble, isUser ? styles.userBubble : styles.assistantBubble]}>
                 <Text style={[styles.messageText, isUser ? styles.userText : styles.assistantText]}>
-                    {item.content}
+                    {isUser ? item.content : stripMarkdown(item.content)}
                 </Text>
             </View>
         );

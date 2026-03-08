@@ -1,7 +1,19 @@
-import { StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, View, Text, TouchableOpacity, Alert } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { supabase } from '../../lib/supabase';
 
 export default function FriendsScreen() {
+    const handleLogout = () => {
+        Alert.alert('Log Out', 'Are you sure you want to log out?', [
+            { text: 'Cancel', style: 'cancel' },
+            {
+                text: 'Log Out',
+                style: 'destructive',
+                onPress: () => supabase.auth.signOut(),
+            },
+        ]);
+    };
+
     return (
         <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
             <View style={styles.centerBox}>
@@ -9,6 +21,9 @@ export default function FriendsScreen() {
                 <Text style={styles.title}>Group Dining</Text>
                 <Text style={styles.subtitle}>Coming Soon!</Text>
             </View>
+            <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
+                <Text style={styles.logoutText}>Log Out</Text>
+            </TouchableOpacity>
         </SafeAreaView>
     );
 }
@@ -50,5 +65,20 @@ const styles = StyleSheet.create({
         color: '#7A7A7A',
         textAlign: 'center',
         lineHeight: 24,
-    }
+    },
+    logoutBtn: {
+        marginHorizontal: 24,
+        marginBottom: 24,
+        paddingVertical: 14,
+        borderRadius: 14,
+        borderWidth: 1,
+        borderColor: '#E8E0D8',
+        backgroundColor: '#FFFFFF',
+        alignItems: 'center',
+    },
+    logoutText: {
+        color: '#E74C3C',
+        fontSize: 16,
+        fontWeight: '600',
+    },
 });
