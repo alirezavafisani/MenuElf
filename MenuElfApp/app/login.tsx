@@ -64,7 +64,7 @@ export default function LoginScreen() {
           >
             <View style={styles.header}>
               <Text style={styles.title}>MenuElf</Text>
-              <Text style={styles.subtitle}>Discover Calgary's best dishes</Text>
+              <Text style={styles.subtitle}>Discover Calgary&apos;s best dishes</Text>
             </View>
 
             <View style={styles.form}>

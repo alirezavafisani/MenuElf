@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
     StyleSheet, View, Text, TextInput, TouchableOpacity,
-    FlatList, ActivityIndicator, ScrollView, Platform, Keyboard
+    ActivityIndicator, ScrollView, Keyboard
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
@@ -98,7 +98,7 @@ export default function RecommendationsScreen() {
     const renderHeader = () => (
         <View style={styles.headerContainer}>
             <Text style={styles.pageTitle}>Dish Recommender</Text>
-            <Text style={styles.pageSubtitle}>Find exactly what you're craving</Text>
+            <Text style={styles.pageSubtitle}>Find exactly what you&apos;re craving</Text>
 
             <View style={styles.searchBox}>
                 <Ionicons name="search" size={20} color="#999" style={styles.searchIcon} />

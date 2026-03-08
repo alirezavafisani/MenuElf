@@ -2,7 +2,7 @@
 import React, { forwardRef } from 'react';
 import RNMapView, { MapViewProps, Marker as RNMarker, Callout as RNCallout, PROVIDER_GOOGLE } from 'react-native-maps';
 
-const MapView = forwardRef<RNMapView, MapViewProps>((props, ref) => {
+const MapView = forwardRef<RNMapView, MapViewProps>(function MapView(props, ref) {
     return <RNMapView ref={ref} provider={PROVIDER_GOOGLE} {...props} />;
 });
 
