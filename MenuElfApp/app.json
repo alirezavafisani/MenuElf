@@ -12,7 +12,8 @@
             "supportsTablet": false,
             "bundleIdentifier": "com.alirezavafi.menuelf",
             "infoPlist": {
-                "NSLocationWhenInUseUsageDescription": "Allow MenuElf to use your location to find nearby restaurants on the map."
+                "NSLocationWhenInUseUsageDescription": "Allow MenuElf to use your location to find nearby restaurants on the map.",
+                "ITSAppUsesNonExemptEncryption": false
             },
             "config": {
                 "googleMapsApiKey": "AIzaSyAlNXWy4c6rHFcnPPxMsMwscOm2yRcf9Cw"
