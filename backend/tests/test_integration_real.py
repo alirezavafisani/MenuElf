@@ -30,29 +30,6 @@ def api(method: str, path: str, json=None, user_id: str | None = TEST_USER_ID):
 
 
 # ---------------------------------------------------------------------------
-# Setup / Teardown: create & delete a test user in auth.users
-# ---------------------------------------------------------------------------
-
-@pytest.fixture(scope="session", autouse=True)
-def manage_test_user():
-    """Create a test user before all tests, delete after all tests."""
-    # Setup: create the test user in auth.users
-    resp = api("POST", "/test/create-user", user_id=TEST_USER_ID)
-    assert resp.status_code == 200, \
-        f"Failed to create test user: {resp.status_code} {resp.text[:500]}"
-    print(f"\nCreated test user {TEST_USER_ID}")
-
-    yield  # Run all tests
-
-    # Teardown: delete the test user (CASCADE deletes all related data)
-    resp = api("DELETE", "/test/delete-user", user_id=TEST_USER_ID)
-    if resp.status_code == 200:
-        print(f"\nDeleted test user {TEST_USER_ID} and all related data")
-    else:
-        print(f"\nWarning: cleanup failed: {resp.status_code} {resp.text[:200]}")
-
-
-# ---------------------------------------------------------------------------
 # Tests
 # ---------------------------------------------------------------------------
 
@@ -207,3 +184,20 @@ def test_search_dishes_still_works():
     assert resp.status_code == 200
     data = resp.json()
     assert "dishes" in data, f"Missing 'dishes' key: {list(data.keys())}"
+
+
+# ---------------------------------------------------------------------------
+# Cleanup: delete the test user (CASCADE removes all related data)
+# ---------------------------------------------------------------------------
+
+@pytest.mark.integration
+def test_zzz_cleanup_test_data():
+    """Delete test user and all related data via admin API. Runs last (alphabetical)."""
+    resp = api("DELETE", "/test/delete-user", user_id=TEST_USER_ID)
+    if resp.status_code == 200:
+        print(f"\nDeleted test user {TEST_USER_ID} and all related data (cascade)")
+    else:
+        # Fallback: try to clean up individual tables
+        api("DELETE", "/profile/taste", user_id=TEST_USER_ID)
+        api("DELETE", "/interactions/log", user_id=TEST_USER_ID)
+        print(f"\nCleanup done for user {TEST_USER_ID} (fallback method)")

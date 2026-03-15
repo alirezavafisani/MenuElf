@@ -41,12 +41,35 @@ def _get_supabase():
 # for testing without real JWT tokens.
 # ---------------------------------------------------------------------------
 
+_ensured_users: set = set()
+
+
+def _ensure_user_exists(user_id: str):
+    """Ensure a user exists in auth.users (for x-user-id / dev mode).
+    Uses the service key admin API to create the user if missing."""
+    if user_id in _ensured_users:
+        return
+    try:
+        sb = _get_supabase()
+        sb.auth.admin.create_user({
+            "id": user_id,
+            "email": f"dev-{user_id[:8]}@menuelf.dev",
+            "password": "menuelf-dev-auto-created",
+            "email_confirm": True,
+        })
+    except Exception:
+        # User likely already exists — that's fine
+        pass
+    _ensured_users.add(user_id)
+
+
 async def get_current_user_id(
     authorization: str = Header(default=""),
     x_user_id: str = Header(default=""),
 ) -> str:
     # In test / dev mode allow a plain header
     if x_user_id:
+        _ensure_user_exists(x_user_id)
         return x_user_id
 
     if not authorization.startswith("Bearer "):
