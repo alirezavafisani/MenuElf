@@ -97,7 +97,7 @@ export default function ChatScreen() {
                     setMessages(prev => [...prev, {
                         id: (Date.now() + 1).toString(),
                         role: 'assistant',
-                        content: data.reply
+                        content: data.reply || 'Here\'s what I found about that dish!'
                     }]);
                 } catch (err) {
                     console.error(err);
@@ -176,7 +176,7 @@ export default function ChatScreen() {
             const assistantMessage: Message = {
                 id: (Date.now() + 1).toString(),
                 role: 'assistant',
-                content: data.reply
+                content: data.reply || 'Sorry, I didn\'t get a response. Please try again.'
             };
 
             setMessages(prev => [...prev, assistantMessage]);
