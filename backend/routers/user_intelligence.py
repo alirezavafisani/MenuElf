@@ -3,7 +3,7 @@ import os
 from typing import Dict, List
 from uuid import UUID
 
-from fastapi import APIRouter, Depends, Header, HTTPException
+from fastapi import APIRouter, BackgroundTasks, Depends, Header, HTTPException
 
 from models.user_intelligence import (
     InteractionLogCreate,
@@ -282,6 +282,7 @@ async def get_taste_profile(user_id: str = Depends(get_current_user_id)):
 @router.post("/interactions/log")
 async def log_interaction(
     req: InteractionLogCreate,
+    background_tasks: BackgroundTasks,
     user_id: str = Depends(get_current_user_id),
 ):
     try:
@@ -292,6 +293,17 @@ async def log_interaction(
             "payload": req.payload,
         }
         result = sb.table("interaction_logs").insert(row).execute()
+
+        # Kick off preference engine in the background (non-blocking)
+        from engines.preference_engine import process_and_update_profile
+        background_tasks.add_task(
+            process_and_update_profile,
+            user_id,
+            req.interaction_type.value,
+            req.payload,
+            sb,
+        )
+
         return {"status": "ok", "id": result.data[0]["id"] if result.data else None}
     except HTTPException:
         raise
