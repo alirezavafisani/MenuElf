@@ -168,6 +168,8 @@ USER_B = str(uuid.uuid4())
 @pytest.fixture(autouse=True)
 def clean_tables():
     _reset_tables()
+    # Re-assert our fake supabase client (another test module may have overwritten it)
+    _router_mod._supabase_client = _FakeSupabase()
     yield
     _reset_tables()
 

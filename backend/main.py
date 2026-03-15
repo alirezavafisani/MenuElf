@@ -3,7 +3,7 @@ import json
 import time
 import glob
 import re
-from fastapi import FastAPI, Header, HTTPException
+from fastapi import BackgroundTasks, FastAPI, Header, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
@@ -326,6 +326,10 @@ class ChatRequest(BaseModel):
     restaurant: str
     message: str
     history: List[ChatMessage] = []
+    session_id: Optional[str] = None
+
+class ChatStartRequest(BaseModel):
+    restaurant_slug: str
 
 def resolve_display_name(slug_or_name: str) -> str:
     """Convert slug to display name."""
@@ -338,19 +342,16 @@ def resolve_display_name(slug_or_name: str) -> str:
             return display
     return slug_or_name
 
-@app.post("/chat")
-def chat_with_menu(req: ChatRequest):
-    # Try both slug and display name for menu loading
-    menu_json = load_menu(req.restaurant)
-    if menu_json is None:
-        display = resolve_display_name(req.restaurant)
-        menu_json = load_menu(display)
-    if menu_json is None:
-        raise HTTPException(status_code=404, detail=f"Restaurant '{req.restaurant}' not found")
 
-    display_name = resolve_display_name(req.restaurant)
+def _slug_for_restaurant(name_or_slug: str) -> str | None:
+    """Resolve a restaurant name or slug to a slug."""
+    if name_or_slug in NAME_MAPPING:
+        return name_or_slug
+    return REVERSE_MAPPING.get(name_or_slug.lower())
 
-    system_prompt = (
+
+def _build_generic_system_prompt(display_name: str, menu_json) -> str:
+    return (
         f"You are a warm, knowledgeable food assistant for {display_name}. "
         f"Below is the restaurant's FULL MENU in JSON.\n\n"
         f"MENU JSON:\n{json.dumps(menu_json)}\n\n"
@@ -365,6 +366,228 @@ def chat_with_menu(req: ChatRequest):
         "- Only decline questions completely unrelated to food or dining.\n"
     )
 
+
+def _build_personalized_system_prompt(
+    display_name: str,
+    menu_json,
+    profile_narration: str,
+    recommendations_text: str,
+    avoid_text: str,
+) -> str:
+    parts = [
+        f"You are MenuElf, a knowledgeable and friendly dining concierge for {display_name}.\n\n",
+        f"MENU:\n{json.dumps(menu_json)}\n\n",
+        f"ABOUT THIS DINER:\n{profile_narration}\n\n",
+        f"YOUR TOP RECOMMENDATIONS FOR THEM:\n{recommendations_text}\n\n",
+    ]
+    if avoid_text:
+        parts.append(f"DISHES TO AVOID SUGGESTING:\n{avoid_text}\n\n")
+    parts.append(
+        "GUIDELINES:\n"
+        "- Be warm, enthusiastic, and conversational\n"
+        "- Lead with your recommendations if this is the start of the conversation\n"
+        "- If they ask for something different, adapt but keep their preferences in mind\n"
+        "- Never suggest dishes that conflict with their dietary restrictions\n"
+        "- When mentioning a dish, include its price naturally\n"
+        "- Keep responses concise (2-3 sentences for simple questions, more for comparisons)\n"
+        "- Do NOT mention that you have their \"taste profile\" or \"data\" — just naturally know their preferences like a friend would\n"
+        "- NEVER invent a dish name that isn't on this menu\n"
+    )
+    return "".join(parts)
+
+
+def _get_personalization_context(user_id: str, restaurant_slug: str) -> dict | None:
+    """Fetch taste profile and compute recommendations for a user + restaurant.
+
+    Returns a dict with keys: narration, recommendations_text, avoid_text, top_dishes.
+    Returns None if no profile is found.
+    """
+    try:
+        from routers.user_intelligence import _get_supabase
+        from engines.restaurant_scorer import (
+            get_cached_signature,
+            find_top_n_dishes_for_user,
+            find_avoid_dishes,
+        )
+        from engines.profile_narrator import (
+            narrate_profile,
+            format_recommendations,
+            format_avoid_list,
+        )
+
+        sb = _get_supabase()
+        result = sb.table("user_taste_profiles").select("*").eq("id", user_id).execute()
+        if not result.data:
+            return None
+        profile = result.data[0]
+
+        menu_items = [item for item in MENU_INDEX if item.get("restaurant_slug") == restaurant_slug]
+        sig = get_cached_signature(restaurant_slug, menu_items)
+
+        top_dishes = find_top_n_dishes_for_user(profile, menu_items, n=3)
+        avoid_dishes = find_avoid_dishes(profile, menu_items)
+
+        return {
+            "narration": narrate_profile(profile),
+            "recommendations_text": format_recommendations(top_dishes, profile),
+            "avoid_text": format_avoid_list(avoid_dishes),
+            "top_dishes": top_dishes,
+            "profile": profile,
+        }
+    except Exception:
+        return None
+
+
+def _run_chat_extraction_if_needed(user_id: str, session_messages: list[dict], supabase_client):
+    """Trigger preference engine chat extraction if 3+ user messages."""
+    user_count = sum(1 for m in session_messages if m.get("role") == "user")
+    if user_count >= 3:
+        try:
+            from engines.preference_engine import process_and_update_profile
+            process_and_update_profile(
+                user_id,
+                "chat_message",
+                {"messages": session_messages, "session_ended": False},
+                supabase_client,
+            )
+        except Exception:
+            pass
+
+
+def _store_session_message(session_id: str, role: str, content: str, supabase_client) -> list[dict]:
+    """Append a message to a chat session and return the updated messages list."""
+    try:
+        result = supabase_client.table("chat_sessions").select("messages").eq("id", session_id).execute()
+        if not result.data:
+            return []
+        messages = result.data[0].get("messages", [])
+        if not isinstance(messages, list):
+            messages = []
+        messages.append({"role": role, "content": content})
+        supabase_client.table("chat_sessions").upsert({
+            "id": session_id,
+            "messages": messages,
+        }).execute()
+        return messages
+    except Exception:
+        return []
+
+
+# ─── POST /chat/start ───
+
+@app.post("/chat/start")
+def chat_start(req: ChatStartRequest, x_user_id: str = Header(default="")):
+    slug = req.restaurant_slug
+    display_name = NAME_MAPPING.get(slug, slug.replace("-", " ").title())
+
+    menu_json = load_menu(display_name)
+    if menu_json is None:
+        menu_json = load_menu(slug)
+
+    session_id = None
+    personalization = None
+
+    if x_user_id:
+        personalization = _get_personalization_context(x_user_id, slug)
+
+        # Create a chat session
+        try:
+            from routers.user_intelligence import _get_supabase
+            sb = _get_supabase()
+            session_result = sb.table("chat_sessions").insert({
+                "user_id": x_user_id,
+                "restaurant_slug": slug,
+                "messages": [],
+            }).execute()
+            if session_result.data:
+                session_id = session_result.data[0]["id"]
+        except Exception:
+            pass
+
+    if personalization and menu_json:
+        system_prompt = _build_personalized_system_prompt(
+            display_name,
+            menu_json,
+            personalization["narration"],
+            personalization["recommendations_text"],
+            personalization["avoid_text"],
+        )
+        user_prompt = "Hi! I just opened the menu. What do you recommend for me?"
+        messages = [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt},
+        ]
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-mini", messages=messages, temperature=0.4, max_tokens=500
+            )
+            reply = response.choices[0].message.content
+
+            # Store the assistant greeting in the session
+            if session_id:
+                try:
+                    from routers.user_intelligence import _get_supabase
+                    sb = _get_supabase()
+                    _store_session_message(session_id, "assistant", reply, sb)
+                except Exception:
+                    pass
+
+            return {"reply": reply, "session_id": session_id}
+        except Exception as e:
+            print(f"OpenAI error: {e}", flush=True)
+
+    # Fallback: generic welcome
+    generic_reply = (
+        f"Welcome to {display_name}! I know every dish on this menu. "
+        "What are you in the mood for?"
+    )
+
+    if session_id:
+        try:
+            from routers.user_intelligence import _get_supabase
+            sb = _get_supabase()
+            _store_session_message(session_id, "assistant", generic_reply, sb)
+        except Exception:
+            pass
+
+    return {"reply": generic_reply, "session_id": session_id}
+
+
+# ─── POST /chat (upgraded) ───
+
+@app.post("/chat")
+def chat_with_menu(
+    req: ChatRequest,
+    background_tasks: BackgroundTasks,
+    x_user_id: str = Header(default=""),
+):
+    # Try both slug and display name for menu loading
+    menu_json = load_menu(req.restaurant)
+    if menu_json is None:
+        display = resolve_display_name(req.restaurant)
+        menu_json = load_menu(display)
+    if menu_json is None:
+        raise HTTPException(status_code=404, detail=f"Restaurant '{req.restaurant}' not found")
+
+    display_name = resolve_display_name(req.restaurant)
+    slug = _slug_for_restaurant(req.restaurant)
+
+    # Build system prompt — personalized if user_id present
+    personalization = None
+    if x_user_id and slug:
+        personalization = _get_personalization_context(x_user_id, slug)
+
+    if personalization:
+        system_prompt = _build_personalized_system_prompt(
+            display_name,
+            menu_json,
+            personalization["narration"],
+            personalization["recommendations_text"],
+            personalization["avoid_text"],
+        )
+    else:
+        system_prompt = _build_generic_system_prompt(display_name, menu_json)
+
     messages = [{"role": "system", "content": system_prompt}]
     for msg in req.history:
         messages.append({"role": msg.role, "content": msg.content})
@@ -374,9 +597,50 @@ def chat_with_menu(req: ChatRequest):
         response = client.chat.completions.create(
             model="gpt-4o-mini", messages=messages, temperature=0.4, max_tokens=500
         )
-        return {"reply": response.choices[0].message.content}
+        reply = response.choices[0].message.content
     except Exception as e:
         print(f"OpenAI error: {e}", flush=True)
         raise HTTPException(status_code=500, detail="Error communicating with OpenAI")
+
+    # Store messages in session and trigger extraction if needed
+    session_id = req.session_id
+    if x_user_id and session_id:
+        try:
+            from routers.user_intelligence import _get_supabase
+            sb = _get_supabase()
+            _store_session_message(session_id, "user", req.message, sb)
+            updated_msgs = _store_session_message(session_id, "assistant", reply, sb)
+
+            background_tasks.add_task(
+                _run_chat_extraction_if_needed, x_user_id, updated_msgs, sb,
+            )
+        except Exception:
+            pass
+
+    return {"reply": reply, "session_id": session_id}
+
+
+# ─── GET /chat/history ───
+
+@app.get("/chat/history/{restaurant_slug}")
+def get_chat_history(restaurant_slug: str, x_user_id: str = Header(default="")):
+    if not x_user_id:
+        raise HTTPException(status_code=401, detail="Missing x-user-id header")
+    try:
+        from routers.user_intelligence import _get_supabase
+        sb = _get_supabase()
+        result = (
+            sb.table("chat_sessions")
+            .select("*")
+            .eq("user_id", x_user_id)
+            .eq("restaurant_slug", restaurant_slug)
+            .order("created_at", desc=True)
+            .execute()
+        )
+        return {"sessions": result.data}
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to get chat history: {e}")
 
 
