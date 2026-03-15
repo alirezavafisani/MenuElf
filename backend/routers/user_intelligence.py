@@ -28,7 +28,7 @@ def _get_supabase():
         from supabase import create_client
 
         url = os.environ.get("SUPABASE_URL", "")
-        key = os.environ.get("SUPABASE_SERVICE_KEY", "")
+        key = os.environ.get("SUPABASE_SERVICE_KEY", "") or os.environ.get("SUPABASE_KEY", "")
         if not url or not key:
             raise HTTPException(status_code=500, detail="Supabase not configured")
         _supabase_client = create_client(url, key)
@@ -491,3 +491,23 @@ async def delete_saved_dish(
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to delete saved dish: {e}")
+
+
+@router.delete("/profile/taste")
+async def delete_taste_profile(user_id: str = Depends(get_current_user_id)):
+    try:
+        sb = _get_supabase()
+        sb.table("user_taste_profiles").delete().eq("id", user_id).execute()
+        return {"status": "ok"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to delete taste profile: {e}")
+
+
+@router.delete("/interactions/log")
+async def delete_interaction_logs(user_id: str = Depends(get_current_user_id)):
+    try:
+        sb = _get_supabase()
+        sb.table("interaction_logs").delete().eq("user_id", user_id).execute()
+        return {"status": "ok"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to delete interaction logs: {e}")
