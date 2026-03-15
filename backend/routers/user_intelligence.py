@@ -1,3 +1,4 @@
+import json
 import os
 from typing import Dict, List
 from uuid import UUID
@@ -67,38 +68,38 @@ async def get_current_user_id(
 DEFAULT_ONBOARDING_QUESTIONS: List[Dict] = [
     {
         "question_index": 1,
-        "option_a_label": "spicy_ramen",
-        "option_a_signals": {"spice_tolerance": 0.8, "adventurousness": 0.7, "cuisine_preferences.japanese": 0.9},
-        "option_b_label": "caesar_salad",
-        "option_b_signals": {"spice_tolerance": 0.2, "adventurousness": 0.3, "cuisine_preferences.italian": 0.7},
+        "option_a_label": "fiery_szechuan_dan_dan_noodles",
+        "option_a_signals": {"spice_tolerance": 0.9, "adventurousness": 0.85, "cuisine_preferences.chinese": 0.8},
+        "option_b_label": "classic_mac_and_cheese",
+        "option_b_signals": {"spice_tolerance": 0.15, "adventurousness": 0.2, "cuisine_preferences.american": 0.8, "texture_preferences.creamy": 0.85},
     },
     {
         "question_index": 2,
-        "option_a_label": "sushi_platter",
-        "option_a_signals": {"adventurousness": 0.8, "cuisine_preferences.japanese": 0.9, "protein_preference.fish": 0.8},
-        "option_b_label": "burger_and_fries",
-        "option_b_signals": {"adventurousness": 0.3, "cuisine_preferences.american": 0.9, "protein_preference.beef": 0.8, "price_comfort": 0.3},
+        "option_a_label": "wagyu_beef_burger",
+        "option_a_signals": {"protein_preference.beef": 0.9, "price_comfort": 0.8, "meal_size_preference": 0.75, "cuisine_preferences.american": 0.7, "adventurousness": 0.85},
+        "option_b_label": "fresh_poke_bowl",
+        "option_b_signals": {"protein_preference.fish": 0.9, "meal_size_preference": 0.3, "cuisine_preferences.japanese": 0.8, "adventurousness": 0.6},
     },
     {
         "question_index": 3,
-        "option_a_label": "pad_thai",
-        "option_a_signals": {"spice_tolerance": 0.6, "cuisine_preferences.thai": 0.9, "adventurousness": 0.6},
-        "option_b_label": "mac_and_cheese",
-        "option_b_signals": {"spice_tolerance": 0.1, "adventurousness": 0.2, "texture_preferences.creamy": 0.9, "price_comfort": 0.2},
+        "option_a_label": "crispy_korean_fried_chicken",
+        "option_a_signals": {"texture_preferences.crispy": 0.9, "protein_preference.chicken": 0.85, "cuisine_preferences.korean": 0.8, "spice_tolerance": 0.85, "adventurousness": 0.8},
+        "option_b_label": "silky_mushroom_risotto",
+        "option_b_signals": {"texture_preferences.creamy": 0.9, "protein_preference.vegetarian": 0.7, "cuisine_preferences.italian": 0.85, "meal_size_preference": 0.6, "spice_tolerance": 0.1},
     },
     {
         "question_index": 4,
-        "option_a_label": "tikka_masala",
-        "option_a_signals": {"spice_tolerance": 0.7, "cuisine_preferences.indian": 0.9, "adventurousness": 0.6},
-        "option_b_label": "grilled_chicken",
-        "option_b_signals": {"spice_tolerance": 0.2, "adventurousness": 0.2, "protein_preference.chicken": 0.9, "price_comfort": 0.4},
+        "option_a_label": "street_style_lamb_shawarma",
+        "option_a_signals": {"cuisine_preferences.middle_eastern": 0.9, "adventurousness": 0.8, "protein_preference.beef": 0.6, "price_comfort": 0.3, "spice_tolerance": 0.85},
+        "option_b_label": "lobster_thermidor",
+        "option_b_signals": {"cuisine_preferences.french": 0.9, "price_comfort": 0.95, "protein_preference.fish": 0.7, "adventurousness": 0.4, "texture_preferences.creamy": 0.7, "spice_tolerance": 0.15},
     },
     {
         "question_index": 5,
-        "option_a_label": "bibimbap",
-        "option_a_signals": {"adventurousness": 0.8, "cuisine_preferences.korean": 0.9, "spice_tolerance": 0.6},
-        "option_b_label": "pepperoni_pizza",
-        "option_b_signals": {"adventurousness": 0.2, "cuisine_preferences.italian": 0.8, "price_comfort": 0.3},
+        "option_a_label": "loaded_bbq_brisket_plate",
+        "option_a_signals": {"protein_preference.beef": 0.95, "meal_size_preference": 0.9, "spice_tolerance": 0.85, "cuisine_preferences.american": 0.75, "adventurousness": 0.75, "price_comfort": 0.5},
+        "option_b_label": "rainbow_buddha_bowl",
+        "option_b_signals": {"protein_preference.vegetarian": 0.9, "protein_preference.vegan": 0.8, "meal_size_preference": 0.2, "adventurousness": 0.5, "sweetness_preference": 0.4, "spice_tolerance": 0.2},
     },
 ]
 
@@ -152,11 +153,55 @@ def _compute_taste_profile(answers: List[OnboardingAnswer]) -> dict:
     return profile
 
 
+# ---------------------------------------------------------------------------
+# Load onboarding questions from JSON (with image URLs for the frontend)
+# ---------------------------------------------------------------------------
+_QUESTIONS_JSON_PATH = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "..", "data", "onboarding_questions.json"
+)
+_onboarding_questions_cache: list | None = None
+
+
+def _load_onboarding_questions() -> list:
+    global _onboarding_questions_cache
+    if _onboarding_questions_cache is not None:
+        return _onboarding_questions_cache
+    try:
+        with open(_QUESTIONS_JSON_PATH, "r") as f:
+            _onboarding_questions_cache = json.load(f)
+    except FileNotFoundError:
+        _onboarding_questions_cache = []
+    return _onboarding_questions_cache
+
+
 # ===================================================================
 # Endpoints
 # ===================================================================
 
 # ── Onboarding ──
+
+@router.get("/onboarding/questions")
+async def get_onboarding_questions():
+    """Return active onboarding questions with labels and images only.
+    Signals are never exposed to the frontend."""
+    questions = _load_onboarding_questions()
+    safe_questions = []
+    for q in questions:
+        if not q.get("is_active", True):
+            continue
+        safe_questions.append({
+            "question_index": q["question_index"],
+            "option_a": {
+                "image_url": q["option_a_image_url"],
+                "label": q["option_a_label"],
+            },
+            "option_b": {
+                "image_url": q["option_b_image_url"],
+                "label": q["option_b_label"],
+            },
+        })
+    return {"questions": safe_questions}
+
 
 @router.post("/onboarding/complete")
 async def complete_onboarding(
