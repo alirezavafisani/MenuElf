@@ -2,7 +2,7 @@ import { StyleSheet, View, Text, TextInput, TouchableOpacity, FlatList, Keyboard
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { useState, useRef, useEffect, useCallback } from 'react';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { API_URL } from '../lib/config';
+import { apiGet, apiPost, logInteraction } from '../lib/api';
 
 // Map slug -> display name (fetched once)
 const nameCache: Record<string, string> = {};
@@ -43,6 +43,7 @@ export default function ChatScreen() {
     const flatListRef = useRef<FlatList>(null);
     const [messages, setMessages] = useState<Message[]>([]);
     const messagesRef = useRef<Message[]>([]);
+    const sessionIdRef = useRef<string | null>(null);
 
     // Keep messagesRef in sync
     useEffect(() => {
@@ -58,7 +59,7 @@ export default function ChatScreen() {
         }
         (async () => {
             try {
-                const res = await fetch(`${API_URL}/restaurants?q=`);
+                const res = await apiGet('/restaurants?q=');
                 const data = await res.json();
                 for (const r of data.restaurants || []) {
                     nameCache[r.slug] = r.name;
@@ -68,49 +69,71 @@ export default function ChatScreen() {
         })();
     }, [restaurant]);
 
+    // Initialize chat: use /chat/start for proactive message, or fall back to dish-specific query
     useEffect(() => {
-        if (restaurant && messages.length === 0) {
-            if (dish) {
-                const initialMsg: Message = {
-                    id: Date.now().toString(),
-                    role: 'assistant',
-                    content: `You picked ${dish}! Let me tell you about it...`
-                };
-                setMessages([initialMsg]);
+        if (!restaurant || messages.length > 0) return;
 
-                setTimeout(() => {
-                    const hiddenQuery = `Tell me briefly about ${dish} in one sentence, include the price, and ask if I want to know more.`;
-                    setIsLoading(true);
-                    fetch(`${API_URL}/chat`, {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({
-                            restaurant: restaurant,
-                            message: hiddenQuery,
-                            history: [{ role: 'assistant', content: initialMsg.content }]
-                        })
-                    })
-                        .then(res => res.json())
-                        .then(data => {
-                            setMessages(prev => [...prev, {
-                                id: (Date.now() + 1).toString(),
-                                role: 'assistant',
-                                content: data.reply
-                            }]);
-                        })
-                        .catch(err => console.error(err))
-                        .finally(() => setIsLoading(false));
-                }, 500);
-            } else {
-                const initial: Message = {
-                    id: Date.now().toString(),
-                    role: 'assistant',
-                    content: `Hey! How can I help you?`
-                };
-                setMessages([initial]);
-            }
+        if (dish) {
+            // Dish-specific flow: show dish pick then query backend
+            const initialMsg: Message = {
+                id: Date.now().toString(),
+                role: 'assistant',
+                content: `You picked ${dish}! Let me tell you about it...`
+            };
+            setMessages([initialMsg]);
+
+            setTimeout(async () => {
+                const hiddenQuery = `Tell me briefly about ${dish} in one sentence, include the price, and ask if I want to know more.`;
+                setIsLoading(true);
+                try {
+                    const res = await apiPost('/chat', {
+                        restaurant: restaurant,
+                        message: hiddenQuery,
+                        history: [{ role: 'assistant', content: initialMsg.content }],
+                        session_id: sessionIdRef.current,
+                    });
+                    const data = await res.json();
+                    if (data.session_id) sessionIdRef.current = data.session_id;
+                    setMessages(prev => [...prev, {
+                        id: (Date.now() + 1).toString(),
+                        role: 'assistant',
+                        content: data.reply
+                    }]);
+                } catch (err) {
+                    console.error(err);
+                } finally {
+                    setIsLoading(false);
+                }
+            }, 500);
+        } else {
+            // Proactive flow: call /chat/start for personalized greeting
+            (async () => {
+                setIsLoading(true);
+                try {
+                    const res = await apiPost('/chat/start', { restaurant_slug: restaurant });
+                    const data = await res.json();
+                    if (data.session_id) sessionIdRef.current = data.session_id;
+                    setMessages([{
+                        id: Date.now().toString(),
+                        role: 'assistant',
+                        content: data.reply || 'Hey! How can I help you?'
+                    }]);
+                } catch {
+                    // Fallback
+                    setMessages([{
+                        id: Date.now().toString(),
+                        role: 'assistant',
+                        content: 'Hey! How can I help you?'
+                    }]);
+                } finally {
+                    setIsLoading(false);
+                }
+            })();
         }
-    }, [restaurant, displayName, dish]);
+
+        // Log chat open
+        logInteraction('restaurant_chat_open', { restaurant_slug: restaurant });
+    }, [restaurant, dish]);
 
     const handleBack = useCallback(() => {
         router.back();
@@ -125,6 +148,13 @@ export default function ChatScreen() {
             content: inputText.trim()
         };
 
+        // Log the user message interaction
+        logInteraction('chat_message', {
+            restaurant_slug: restaurant,
+            message: userMessage.content,
+            role: 'user',
+        });
+
         const previousHistory = [...messages];
         setMessages(prev => [...prev, userMessage]);
         setInputText('');
@@ -134,17 +164,14 @@ export default function ChatScreen() {
             const payload = {
                 restaurant: restaurant,
                 message: userMessage.content,
-                history: toBackendHistory(previousHistory)
+                history: toBackendHistory(previousHistory),
+                session_id: sessionIdRef.current,
             };
 
-            const res = await fetch(`${API_URL}/chat`, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify(payload)
-            });
-
+            const res = await apiPost('/chat', payload);
             if (!res.ok) throw new Error('Failed to fetch from backend');
             const data = await res.json();
+            if (data.session_id) sessionIdRef.current = data.session_id;
 
             const assistantMessage: Message = {
                 id: (Date.now() + 1).toString(),
@@ -200,6 +227,11 @@ export default function ChatScreen() {
                     keyboardDismissMode="on-drag"
                     onContentSizeChange={() => flatListRef.current?.scrollToEnd({ animated: true })}
                     onLayout={() => flatListRef.current?.scrollToEnd({ animated: true })}
+                    ListFooterComponent={isLoading && messages.length > 0 ? (
+                        <View style={styles.typingIndicator}>
+                            <Text style={styles.typingText}>MenuElf is typing...</Text>
+                        </View>
+                    ) : null}
                 />
 
                 <View style={styles.inputContainer}>
@@ -248,6 +280,16 @@ const styles = StyleSheet.create({
     messageText: { fontSize: 16, lineHeight: 22 },
     userText: { color: '#FFFFFF' },
     assistantText: { color: '#1A1A1A' },
+    typingIndicator: {
+        alignSelf: 'flex-start',
+        paddingHorizontal: 16,
+        paddingVertical: 8,
+    },
+    typingText: {
+        fontSize: 14,
+        color: '#999',
+        fontStyle: 'italic',
+    },
     inputContainer: {
         flexDirection: 'row', paddingHorizontal: 16, paddingVertical: 12,
         paddingBottom: Platform.OS === 'ios' ? 24 : 12,

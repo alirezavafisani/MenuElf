@@ -6,7 +6,7 @@ import {
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
-import { API_URL } from '../../lib/config';
+import { apiGet, apiPost, logInteraction } from '../../lib/api';
 
 type Dish = {
     id: string;
@@ -43,7 +43,7 @@ export default function RecommendationsScreen() {
 
     useEffect(() => {
         // Fetch available filter options from the backend
-        fetch(`${API_URL}/filter-options`)
+        apiGet('/filter-options')
             .then(res => res.json())
             .then(data => {
                 if (data.categories) setAvailableCategories(data.categories);
@@ -59,9 +59,13 @@ export default function RecommendationsScreen() {
     };
 
     const toggleDietary = (tag: string) => {
-        setSelectedDietary(prev =>
-            prev.includes(tag) ? prev.filter(t => t !== tag) : [...prev, tag]
-        );
+        const newTags = selectedDietary.includes(tag)
+            ? selectedDietary.filter(t => t !== tag)
+            : [...selectedDietary, tag];
+        setSelectedDietary(newTags);
+
+        // Log filter application
+        logInteraction('filter_apply', { filter_type: 'dietary', value: tag });
     };
 
     const performSearch = async () => {
@@ -79,13 +83,22 @@ export default function RecommendationsScreen() {
             if (selectedCategories.length > 0) payload.categories = selectedCategories;
             if (selectedDietary.length > 0) payload.dietary = selectedDietary;
 
-            const res = await fetch(`${API_URL}/search-dishes`, {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify(payload)
-            });
+            const res = await apiPost('/search-dishes', payload);
             const data = await res.json();
-            setResults(data.dishes || []);
+            const dishes = data.dishes || [];
+            setResults(dishes);
+
+            // Log the search query
+            logInteraction('search_query', {
+                query: query.trim(),
+                results_count: dishes.length,
+                filters: {
+                    price_min: priceMin || null,
+                    price_max: priceMax || null,
+                    categories: selectedCategories,
+                    dietary: selectedDietary,
+                },
+            });
         } catch (error) {
             console.error("Search failed:", error);
             setResults([]);
@@ -93,6 +106,18 @@ export default function RecommendationsScreen() {
         } finally {
             setLoading(false);
         }
+    };
+
+    const onDishPress = (item: Dish) => {
+        // Log dish save interaction
+        logInteraction('dish_save', {
+            dish_name: item.name,
+            restaurant_slug: item.restaurant_slug,
+            price: item.price,
+            category: item.category,
+        });
+
+        router.push({ pathname: '/chat', params: { restaurant: item.restaurant_slug, dish: item.name } });
     };
 
     const renderHeader = () => (
@@ -195,7 +220,7 @@ export default function RecommendationsScreen() {
             key={`${item.id}-${idx}`}
             style={styles.card}
             activeOpacity={0.7}
-            onPress={() => router.push({ pathname: '/chat', params: { restaurant: item.restaurant_slug, dish: item.name } })}
+            onPress={() => onDishPress(item)}
         >
             <View style={styles.cardHeader}>
                 <Text style={styles.dishName} numberOfLines={1}>{item.name}</Text>
