@@ -6,7 +6,13 @@ import {
 import { useRouter } from 'expo-router';
 import MapView, { Marker, Callout, PROVIDER_GOOGLE } from '../../components/MapView';
 import * as Location from 'expo-location';
-import { API_URL } from '../../lib/config';
+import { apiGet, logInteraction } from '../../lib/api';
+
+type TopDish = {
+  dish_name: string;
+  price: number | null;
+  match_reason: string;
+};
 
 type RestaurantInfo = {
   name: string;
@@ -16,6 +22,8 @@ type RestaurantInfo = {
   rating: number | null;
   reviews: number | null;
   address: string | null;
+  match_score?: number;
+  top_dish?: TopDish | null;
 };
 
 // ── Rating → color helper ────────────────────────────
@@ -60,11 +68,12 @@ export default function SearchScreen() {
     })();
   }, []);
 
-  // ── Fetch restaurants ──────────────────────────────
+  // ── Fetch restaurants (personalized with fallback) ──
   const fetchRestaurants = useCallback(async (query: string = '') => {
     try {
       setError('');
-      const res = await fetch(`${API_URL}/restaurants?q=${encodeURIComponent(query)}`);
+      // Try personalized endpoint first, fall back to regular
+      let res = await apiGet(`/restaurants?q=${encodeURIComponent(query)}`);
       if (!res.ok) throw new Error('Network response was not ok');
       const data = await res.json();
       setRestaurants(data.restaurants || []);
@@ -112,6 +121,7 @@ export default function SearchScreen() {
   };
 
   const openChat = (slug: string) => {
+    logInteraction('restaurant_tap', { restaurant_slug: slug });
     router.push(`/chat?restaurant=${encodeURIComponent(slug)}`);
   };
 
@@ -174,9 +184,14 @@ export default function SearchScreen() {
                     <View style={[styles.dropdownDot, { backgroundColor: ratingColor(item.rating) }]} />
                     <Text style={styles.dropdownName} numberOfLines={1}>{item.name}</Text>
                   </View>
-                  {item.rating ? (
-                    <Text style={styles.dropdownRating}>⭐ {item.rating}</Text>
-                  ) : null}
+                  <View style={styles.dropdownRight}>
+                    {item.match_score != null && (
+                      <Text style={styles.dropdownMatch}>{item.match_score}%</Text>
+                    )}
+                    {item.rating ? (
+                      <Text style={styles.dropdownRating}>⭐ {item.rating}</Text>
+                    ) : null}
+                  </View>
                 </TouchableOpacity>
               )}
               ListEmptyComponent={
@@ -240,7 +255,14 @@ export default function SearchScreen() {
       >
         {selectedRestaurant && (
           <>
-            <Text style={styles.cardName}>{selectedRestaurant.name}</Text>
+            <View style={styles.cardTopRow}>
+              <Text style={styles.cardName} numberOfLines={1}>{selectedRestaurant.name}</Text>
+              {selectedRestaurant.match_score != null && (
+                <View style={styles.matchBadge}>
+                  <Text style={styles.matchBadgeText}>{selectedRestaurant.match_score}% match</Text>
+                </View>
+              )}
+            </View>
             <View style={styles.cardMeta}>
               {selectedRestaurant.rating ? (
                 <View style={styles.ratingBadge}>
@@ -252,6 +274,12 @@ export default function SearchScreen() {
                 <Text style={styles.addressText} numberOfLines={1}>{selectedRestaurant.address}</Text>
               ) : null}
             </View>
+            {selectedRestaurant.top_dish?.dish_name && (
+              <Text style={styles.topDishText} numberOfLines={1}>
+                Try the {selectedRestaurant.top_dish.dish_name}
+                {selectedRestaurant.top_dish.price ? ` ($${selectedRestaurant.top_dish.price.toFixed(0)})` : ''}
+              </Text>
+            )}
             <TouchableOpacity
               style={styles.chatBtn}
               onPress={() => openChat(selectedRestaurant.slug)}
@@ -320,6 +348,11 @@ const styles = StyleSheet.create({
     flex: 1,
     marginRight: 8,
   },
+  dropdownRight: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
   dropdownDot: {
     width: 10,
     height: 10,
@@ -336,6 +369,16 @@ const styles = StyleSheet.create({
     fontSize: 13,
     fontWeight: '600',
     color: '#F39C12',
+  },
+  dropdownMatch: {
+    fontSize: 12,
+    fontWeight: '700',
+    color: '#D4A574',
+    backgroundColor: '#FFF8F0',
+    paddingHorizontal: 6,
+    paddingVertical: 2,
+    borderRadius: 6,
+    overflow: 'hidden',
   },
   dropdownEmpty: {
     paddingVertical: 20,
@@ -411,16 +454,36 @@ const styles = StyleSheet.create({
     shadowRadius: 12,
     elevation: 10,
   },
+  cardTopRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    marginBottom: 8,
+  },
   cardName: {
     fontSize: 20,
     fontWeight: '700',
     color: '#1A1A1A',
-    marginBottom: 8,
+    flex: 1,
+    marginRight: 8,
+  },
+  matchBadge: {
+    backgroundColor: '#FFF8F0',
+    paddingHorizontal: 10,
+    paddingVertical: 4,
+    borderRadius: 10,
+    borderWidth: 1,
+    borderColor: '#D4A574',
+  },
+  matchBadgeText: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#D4A574',
   },
   cardMeta: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginBottom: 14,
+    marginBottom: 8,
     gap: 10,
   },
   ratingBadge: {
@@ -434,6 +497,12 @@ const styles = StyleSheet.create({
   ratingBadgeText: { fontSize: 14, fontWeight: '700', color: '#F39C12' },
   reviewCount: { fontSize: 12, color: '#999', marginLeft: 4 },
   addressText: { fontSize: 13, color: '#777', flex: 1 },
+  topDishText: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: '#D4A574',
+    marginBottom: 12,
+  },
 
   chatBtn: {
     backgroundColor: '#D4754E',

@@ -28,7 +28,7 @@ def _get_supabase():
         from supabase import create_client
 
         url = os.environ.get("SUPABASE_URL", "")
-        key = os.environ.get("SUPABASE_SERVICE_KEY", "")
+        key = os.environ.get("SUPABASE_SERVICE_KEY", "") or os.environ.get("SUPABASE_KEY", "")
         if not url or not key:
             raise HTTPException(status_code=500, detail="Supabase not configured")
         _supabase_client = create_client(url, key)
@@ -41,12 +41,35 @@ def _get_supabase():
 # for testing without real JWT tokens.
 # ---------------------------------------------------------------------------
 
+_ensured_users: set = set()
+
+
+def _ensure_user_exists(user_id: str):
+    """Ensure a user exists in auth.users (for x-user-id / dev mode).
+    Uses the service key admin API to create the user if missing."""
+    if user_id in _ensured_users:
+        return
+    try:
+        sb = _get_supabase()
+        sb.auth.admin.create_user({
+            "id": user_id,
+            "email": f"dev-{user_id[:8]}@menuelf.dev",
+            "password": "menuelf-dev-auto-created",
+            "email_confirm": True,
+        })
+    except Exception:
+        # User likely already exists — that's fine
+        pass
+    _ensured_users.add(user_id)
+
+
 async def get_current_user_id(
     authorization: str = Header(default=""),
     x_user_id: str = Header(default=""),
 ) -> str:
     # In test / dev mode allow a plain header
     if x_user_id:
+        _ensure_user_exists(x_user_id)
         return x_user_id
 
     if not authorization.startswith("Bearer "):
@@ -491,3 +514,63 @@ async def delete_saved_dish(
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to delete saved dish: {e}")
+
+
+@router.delete("/profile/taste")
+async def delete_taste_profile(user_id: str = Depends(get_current_user_id)):
+    try:
+        sb = _get_supabase()
+        sb.table("user_taste_profiles").delete().eq("id", user_id).execute()
+        return {"status": "ok"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to delete taste profile: {e}")
+
+
+@router.delete("/interactions/log")
+async def delete_interaction_logs(user_id: str = Depends(get_current_user_id)):
+    try:
+        sb = _get_supabase()
+        sb.table("interaction_logs").delete().eq("user_id", user_id).execute()
+        return {"status": "ok"}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to delete interaction logs: {e}")
+
+
+# ── Test Helpers (for integration tests only) ──
+
+@router.post("/test/create-user")
+async def create_test_user(x_user_id: str = Header(default="")):
+    """Create a test user in auth.users via Supabase Admin API.
+    Only works with the service key. Used by integration tests."""
+    if not x_user_id:
+        raise HTTPException(status_code=400, detail="x-user-id header required")
+    try:
+        sb = _get_supabase()
+        email = f"test-{x_user_id[:8]}@menuelf-test.local"
+        # Use admin API to create user with specific ID
+        result = sb.auth.admin.create_user({
+            "id": x_user_id,
+            "email": email,
+            "password": "test-integration-password-1234",
+            "email_confirm": True,
+        })
+        return {"status": "ok", "user_id": x_user_id}
+    except Exception as e:
+        err_str = str(e)
+        # If user already exists, that's fine
+        if "already" in err_str.lower() or "duplicate" in err_str.lower() or "exists" in err_str.lower():
+            return {"status": "ok", "user_id": x_user_id, "note": "already exists"}
+        raise HTTPException(status_code=500, detail=f"Failed to create test user: {e}")
+
+
+@router.delete("/test/delete-user")
+async def delete_test_user(x_user_id: str = Header(default="")):
+    """Delete a test user and all their data (cascade) via Supabase Admin API."""
+    if not x_user_id:
+        raise HTTPException(status_code=400, detail="x-user-id header required")
+    try:
+        sb = _get_supabase()
+        sb.auth.admin.delete_user(x_user_id)
+        return {"status": "ok", "user_id": x_user_id}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to delete test user: {e}")
