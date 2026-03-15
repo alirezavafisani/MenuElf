@@ -30,6 +30,29 @@ def api(method: str, path: str, json=None, user_id: str | None = TEST_USER_ID):
 
 
 # ---------------------------------------------------------------------------
+# Setup / Teardown: create & delete a test user in auth.users
+# ---------------------------------------------------------------------------
+
+@pytest.fixture(scope="session", autouse=True)
+def manage_test_user():
+    """Create a test user before all tests, delete after all tests."""
+    # Setup: create the test user in auth.users
+    resp = api("POST", "/test/create-user", user_id=TEST_USER_ID)
+    assert resp.status_code == 200, \
+        f"Failed to create test user: {resp.status_code} {resp.text[:500]}"
+    print(f"\nCreated test user {TEST_USER_ID}")
+
+    yield  # Run all tests
+
+    # Teardown: delete the test user (CASCADE deletes all related data)
+    resp = api("DELETE", "/test/delete-user", user_id=TEST_USER_ID)
+    if resp.status_code == 200:
+        print(f"\nDeleted test user {TEST_USER_ID} and all related data")
+    else:
+        print(f"\nWarning: cleanup failed: {resp.status_code} {resp.text[:200]}")
+
+
+# ---------------------------------------------------------------------------
 # Tests
 # ---------------------------------------------------------------------------
 
@@ -184,40 +207,3 @@ def test_search_dishes_still_works():
     assert resp.status_code == 200
     data = resp.json()
     assert "dishes" in data, f"Missing 'dishes' key: {list(data.keys())}"
-
-
-# ---------------------------------------------------------------------------
-# Cleanup: remove test user data from production Supabase
-# ---------------------------------------------------------------------------
-
-@pytest.mark.integration
-def test_zzz_cleanup_test_data():
-    """Delete test user data from Supabase tables. Runs last (alphabetical)."""
-    errors = []
-
-    # Delete taste profile
-    resp = api("DELETE", "/profile/taste", user_id=TEST_USER_ID)
-    if resp.status_code not in (200, 404):
-        errors.append(f"taste profile delete: {resp.status_code} {resp.text[:200]}")
-
-    # Delete interaction logs
-    resp = api("DELETE", "/interactions/log", user_id=TEST_USER_ID)
-    if resp.status_code not in (200, 404):
-        errors.append(f"interaction logs delete: {resp.status_code} {resp.text[:200]}")
-
-    # Delete saved dishes
-    resp = api("GET", "/dishes/saved", user_id=TEST_USER_ID)
-    if resp.status_code == 200:
-        data = resp.json()
-        dishes = data if isinstance(data, list) else data.get("dishes", [])
-        for d in dishes:
-            dish_id = d.get("id")
-            if dish_id:
-                dr = api("DELETE", f"/dishes/save/{dish_id}", user_id=TEST_USER_ID)
-                if dr.status_code not in (200, 404):
-                    errors.append(f"dish {dish_id} delete: {dr.status_code}")
-
-    if errors:
-        print(f"\nCleanup warnings: {errors}")
-    else:
-        print(f"\nCleaned up all test data for user {TEST_USER_ID}")

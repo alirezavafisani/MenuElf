@@ -511,3 +511,43 @@ async def delete_interaction_logs(user_id: str = Depends(get_current_user_id)):
         return {"status": "ok"}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to delete interaction logs: {e}")
+
+
+# ── Test Helpers (for integration tests only) ──
+
+@router.post("/test/create-user")
+async def create_test_user(x_user_id: str = Header(default="")):
+    """Create a test user in auth.users via Supabase Admin API.
+    Only works with the service key. Used by integration tests."""
+    if not x_user_id:
+        raise HTTPException(status_code=400, detail="x-user-id header required")
+    try:
+        sb = _get_supabase()
+        email = f"test-{x_user_id[:8]}@menuelf-test.local"
+        # Use admin API to create user with specific ID
+        result = sb.auth.admin.create_user({
+            "id": x_user_id,
+            "email": email,
+            "password": "test-integration-password-1234",
+            "email_confirm": True,
+        })
+        return {"status": "ok", "user_id": x_user_id}
+    except Exception as e:
+        err_str = str(e)
+        # If user already exists, that's fine
+        if "already" in err_str.lower() or "duplicate" in err_str.lower() or "exists" in err_str.lower():
+            return {"status": "ok", "user_id": x_user_id, "note": "already exists"}
+        raise HTTPException(status_code=500, detail=f"Failed to create test user: {e}")
+
+
+@router.delete("/test/delete-user")
+async def delete_test_user(x_user_id: str = Header(default="")):
+    """Delete a test user and all their data (cascade) via Supabase Admin API."""
+    if not x_user_id:
+        raise HTTPException(status_code=400, detail="x-user-id header required")
+    try:
+        sb = _get_supabase()
+        sb.auth.admin.delete_user(x_user_id)
+        return {"status": "ok", "user_id": x_user_id}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to delete test user: {e}")
