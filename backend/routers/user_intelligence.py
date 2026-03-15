@@ -351,6 +351,131 @@ async def save_dish(
         raise HTTPException(status_code=500, detail=f"Failed to save dish: {e}")
 
 
+# ── Personalized Restaurants ──
+
+def _get_menu_items_for_slug(slug: str) -> list[dict]:
+    """Load menu items for a restaurant slug from the global MENU_INDEX."""
+    try:
+        from main import MENU_INDEX
+        return [item for item in MENU_INDEX if item.get("restaurant_slug") == slug]
+    except Exception:
+        return []
+
+
+@router.get("/restaurants/personalized")
+async def get_personalized_restaurants(
+    user_id: str = Depends(get_current_user_id),
+):
+    try:
+        from engines.restaurant_scorer import (
+            get_cached_signature,
+            score_restaurant_for_user,
+            find_top_dish_for_user,
+        )
+        from main import RESTAURANT_LIST, REVERSE_MAPPING, PLACES_DATA, MENU_INDEX
+
+        # Fetch user profile
+        sb = _get_supabase()
+        result = sb.table("user_taste_profiles").select("*").eq("id", user_id).execute()
+        if not result.data:
+            raise HTTPException(status_code=404, detail="Taste profile not found. Complete onboarding first.")
+        user_profile = result.data[0]
+
+        # Pre-group menu items by slug for O(n) lookup
+        items_by_slug: dict[str, list[dict]] = {}
+        for item in MENU_INDEX:
+            s = item.get("restaurant_slug")
+            if s:
+                items_by_slug.setdefault(s, []).append(item)
+
+        restaurants = []
+        for display_name in RESTAURANT_LIST:
+            slug = REVERSE_MAPPING.get(display_name.lower())
+            if not slug:
+                continue
+
+            rest_info: dict = {
+                "name": display_name, "slug": slug,
+                "lat": None, "lng": None, "rating": None,
+                "reviews": None, "address": None,
+            }
+            if slug in PLACES_DATA:
+                pdata = PLACES_DATA[slug]
+                if "error" not in pdata:
+                    rest_info["lat"] = pdata.get("lat")
+                    rest_info["lng"] = pdata.get("lng")
+                    rest_info["rating"] = pdata.get("rating")
+                    rest_info["reviews"] = pdata.get("user_ratings_total")
+                    rest_info["address"] = pdata.get("address")
+
+            menu_items = items_by_slug.get(slug, [])
+            sig = get_cached_signature(slug, menu_items)
+            rest_info["match_score"] = score_restaurant_for_user(user_profile, sig)
+            rest_info["top_dish"] = find_top_dish_for_user(user_profile, menu_items, sig)
+            restaurants.append(rest_info)
+
+        restaurants.sort(key=lambda r: r.get("match_score", 0), reverse=True)
+        return {"restaurants": restaurants}
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to get personalized restaurants: {e}")
+
+
+@router.get("/restaurants/{slug}/personalized")
+async def get_personalized_restaurant_detail(
+    slug: str,
+    user_id: str = Depends(get_current_user_id),
+):
+    try:
+        from engines.restaurant_scorer import (
+            get_cached_signature,
+            score_restaurant_for_user,
+            find_top_n_dishes_for_user,
+            find_avoid_dishes,
+        )
+        from main import NAME_MAPPING, PLACES_DATA
+
+        if slug not in NAME_MAPPING:
+            raise HTTPException(status_code=404, detail="Restaurant not found")
+
+        sb = _get_supabase()
+        result = sb.table("user_taste_profiles").select("*").eq("id", user_id).execute()
+        if not result.data:
+            raise HTTPException(status_code=404, detail="Taste profile not found")
+        user_profile = result.data[0]
+
+        menu_items = _get_menu_items_for_slug(slug)
+        sig = get_cached_signature(slug, menu_items)
+
+        display_name = NAME_MAPPING[slug]
+        rest_info: dict = {
+            "name": display_name, "slug": slug,
+            "lat": None, "lng": None, "rating": None,
+            "reviews": None, "address": None,
+        }
+        if slug in PLACES_DATA:
+            pdata = PLACES_DATA[slug]
+            if "error" not in pdata:
+                rest_info["lat"] = pdata.get("lat")
+                rest_info["lng"] = pdata.get("lng")
+                rest_info["rating"] = pdata.get("rating")
+                rest_info["reviews"] = pdata.get("user_ratings_total")
+                rest_info["address"] = pdata.get("address")
+
+        rest_info["match_score"] = score_restaurant_for_user(user_profile, sig)
+        rest_info["top_3_dishes"] = find_top_n_dishes_for_user(user_profile, menu_items, n=3)
+        rest_info["avoid_dishes"] = find_avoid_dishes(user_profile, menu_items)
+
+        return rest_info
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to get restaurant details: {e}")
+
+
 @router.delete("/dishes/save/{dish_id}")
 async def delete_saved_dish(
     dish_id: str,

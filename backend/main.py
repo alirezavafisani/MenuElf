@@ -3,7 +3,7 @@ import json
 import time
 import glob
 import re
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, Header, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
@@ -119,9 +119,28 @@ def health_check():
     return {"status": "ok", "restaurants_loaded": len(RESTAURANT_LIST), "menu_items_indexed": len(MENU_INDEX)}
 
 @app.get("/restaurants")
-def get_restaurants(q: str = ""):
+def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
     q = q.lower().strip()
     load_places_data()
+
+    # If a user ID is provided, try to load their taste profile for personalization
+    user_profile = None
+    items_by_slug: dict = {}
+    if x_user_id:
+        try:
+            from routers.user_intelligence import _get_supabase
+            sb = _get_supabase()
+            profile_result = sb.table("user_taste_profiles").select("*").eq("id", x_user_id).execute()
+            if profile_result.data:
+                user_profile = profile_result.data[0]
+                # Pre-group menu items by slug for O(n) lookup
+                for item in MENU_INDEX:
+                    s = item.get("restaurant_slug")
+                    if s:
+                        items_by_slug.setdefault(s, []).append(item)
+        except Exception:
+            pass  # Silently fall back to anonymous mode
+
     results = []
     for display_name in RESTAURANT_LIST:
         if q and q not in display_name.lower():
@@ -136,6 +155,22 @@ def get_restaurants(q: str = ""):
                 rest_info["rating"] = pdata.get("rating")
                 rest_info["reviews"] = pdata.get("user_ratings_total")
                 rest_info["address"] = pdata.get("address")
+
+        # Enrich with personalization if user profile is available
+        if user_profile and slug:
+            try:
+                from engines.restaurant_scorer import (
+                    get_cached_signature,
+                    score_restaurant_for_user,
+                    find_top_dish_for_user,
+                )
+                menu_items = items_by_slug.get(slug, [])
+                sig = get_cached_signature(slug, menu_items)
+                rest_info["match_score"] = score_restaurant_for_user(user_profile, sig)
+                rest_info["top_dish"] = find_top_dish_for_user(user_profile, menu_items, sig)
+            except Exception:
+                pass  # Skip personalization on error
+
         results.append(rest_info)
     return {"restaurants": results}
 
