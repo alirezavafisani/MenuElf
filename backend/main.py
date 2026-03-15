@@ -24,6 +24,10 @@ app.add_middleware(
     allow_methods=["*"], allow_headers=["*"],
 )
 
+# ─── User Intelligence router ───
+from routers.user_intelligence import router as user_intelligence_router
+app.include_router(user_intelligence_router)
+
 # ─── Restaurant name list ───
 NAME_MAPPING_FILE = os.path.join(BASE_DIR, "name_mapping.json")
 NAME_MAPPING = {}
