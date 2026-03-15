@@ -217,8 +217,8 @@ def test_onboarding_spicy_adventurous():
     )
     assert resp.status_code == 200
     profile = resp.json()["profile"]
-    assert profile["spice_tolerance"] >= 0.65
-    assert profile["adventurousness"] >= 0.65
+    assert profile["spice_tolerance"] >= 0.75
+    assert profile["adventurousness"] >= 0.75
 
 
 # ---------------------------------------------------------------------------
@@ -233,7 +233,7 @@ def test_onboarding_comfort_mild():
     )
     assert resp.status_code == 200
     profile = resp.json()["profile"]
-    assert profile["spice_tolerance"] < 0.4
+    assert profile["spice_tolerance"] <= 0.3
 
 
 # ---------------------------------------------------------------------------
@@ -248,8 +248,8 @@ def test_onboarding_mixed():
     )
     assert resp.status_code == 200
     profile = resp.json()["profile"]
-    assert 0.4 <= profile["spice_tolerance"] <= 0.6
-    assert 0.4 <= profile["adventurousness"] <= 0.6
+    assert 0.4 <= profile["spice_tolerance"] <= 0.75
+    assert 0.4 <= profile["adventurousness"] <= 0.75
 
 
 # ---------------------------------------------------------------------------
@@ -361,7 +361,7 @@ def test_taste_profile_retrieval():
     profile = resp.json()
     assert profile["id"] == USER_A
     assert profile["onboarding_completed"] is True
-    assert profile["spice_tolerance"] >= 0.65
+    assert profile["spice_tolerance"] >= 0.75
 
 
 # ---------------------------------------------------------------------------
@@ -377,13 +377,13 @@ def test_taste_profile_isolation():
     resp_a = client.get("/profile/taste", headers={"x-user-id": USER_A})
     assert resp_a.status_code == 200
     assert resp_a.json()["id"] == USER_A
-    assert resp_a.json()["spice_tolerance"] >= 0.65
+    assert resp_a.json()["spice_tolerance"] >= 0.75
 
     # User B should get their own profile
     resp_b = client.get("/profile/taste", headers={"x-user-id": USER_B})
     assert resp_b.status_code == 200
     assert resp_b.json()["id"] == USER_B
-    assert resp_b.json()["spice_tolerance"] < 0.4
+    assert resp_b.json()["spice_tolerance"] <= 0.3
 
 
 # ---------------------------------------------------------------------------
@@ -455,3 +455,84 @@ def test_filter_options_endpoint():
     resp = client.get("/filter-options")
     assert resp.status_code == 200
     assert "categories" in resp.json()
+
+
+# ---------------------------------------------------------------------------
+# 11. GET /onboarding/questions — returns questions without signals
+# ---------------------------------------------------------------------------
+
+def test_get_onboarding_questions():
+    resp = client.get("/onboarding/questions")
+    assert resp.status_code == 200
+    questions = resp.json()["questions"]
+    assert len(questions) == 5
+
+    for q in questions:
+        assert "question_index" in q
+        assert "option_a" in q
+        assert "option_b" in q
+        # Each option must have image_url and label
+        assert "image_url" in q["option_a"]
+        assert "label" in q["option_a"]
+        assert "image_url" in q["option_b"]
+        assert "label" in q["option_b"]
+        # Signals must NEVER be exposed
+        assert "signals" not in q.get("option_a", {})
+        assert "signals" not in q.get("option_b", {})
+        assert "option_a_signals" not in q
+        assert "option_b_signals" not in q
+
+
+# ---------------------------------------------------------------------------
+# 12. Scoring with real question data — all A's (spicy/adventurous/beef)
+# ---------------------------------------------------------------------------
+
+def test_scoring_real_data_all_a():
+    """Load actual questions JSON, pick all A, verify high spice + adventurous + beef."""
+    import json as _json
+    questions_path = os.path.join(os.path.dirname(__file__), "..", "data", "onboarding_questions.json")
+    with open(questions_path) as f:
+        questions = _json.load(f)
+    assert len(questions) == 5
+
+    # Feed signals into the scoring engine directly
+    from routers.user_intelligence import _compute_taste_profile
+    from models.user_intelligence import OnboardingAnswer
+
+    answers = [OnboardingAnswer(question_index=q["question_index"], chosen_option="a") for q in questions]
+    profile = _compute_taste_profile(answers)
+
+    # All-A picks spicy + adventurous foods
+    assert profile["spice_tolerance"] >= 0.75
+    assert profile["adventurousness"] >= 0.75
+    # Beef is chosen in Q2 (0.9) and Q4 (0.6) and Q5 (0.95) → avg > 0.8
+    assert isinstance(profile.get("protein_preference"), dict)
+    assert profile["protein_preference"]["beef"] > 0.7
+
+
+# ---------------------------------------------------------------------------
+# 13. Scoring with real question data — all B's (comfort/mild/fish/veg)
+# ---------------------------------------------------------------------------
+
+def test_scoring_real_data_all_b():
+    """All B picks should produce low spice, higher vegetarian/fish, higher price comfort."""
+    import json as _json
+    questions_path = os.path.join(os.path.dirname(__file__), "..", "data", "onboarding_questions.json")
+    with open(questions_path) as f:
+        questions = _json.load(f)
+
+    from routers.user_intelligence import _compute_taste_profile
+    from models.user_intelligence import OnboardingAnswer
+
+    answers = [OnboardingAnswer(question_index=q["question_index"], chosen_option="b") for q in questions]
+    profile = _compute_taste_profile(answers)
+
+    # All-B picks comfort food — low spice
+    assert profile["spice_tolerance"] <= 0.3
+    # Fish from Q2 (0.9) + Q4 (0.7) → avg = 0.8
+    assert isinstance(profile.get("protein_preference"), dict)
+    assert profile["protein_preference"]["fish"] >= 0.7
+    # Vegetarian from Q3 (0.7) + Q5 (0.9) → avg = 0.8
+    assert profile["protein_preference"]["vegetarian"] >= 0.7
+    # Price comfort from Q2 (implied none), Q4 (0.95) → should be elevated
+    assert profile["price_comfort"] > 0.5

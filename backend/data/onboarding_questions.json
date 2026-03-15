@@ -1,0 +1,111 @@
+[
+  {
+    "question_index": 1,
+    "option_a_image_url": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800&q=80",
+    "option_a_label": "Fiery Szechuan Dan Dan Noodles",
+    "option_a_signals": {
+      "spice_tolerance": 0.9,
+      "adventurousness": 0.85,
+      "cuisine_preferences.chinese": 0.8
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=800&q=80",
+    "option_b_label": "Classic Mac & Cheese",
+    "option_b_signals": {
+      "spice_tolerance": 0.15,
+      "adventurousness": 0.2,
+      "cuisine_preferences.american": 0.8,
+      "texture_preferences.creamy": 0.85
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 2,
+    "option_a_image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=80",
+    "option_a_label": "Wagyu Beef Burger with Truffle Aioli",
+    "option_a_signals": {
+      "protein_preference.beef": 0.9,
+      "price_comfort": 0.8,
+      "meal_size_preference": 0.75,
+      "cuisine_preferences.american": 0.7,
+      "adventurousness": 0.85
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80",
+    "option_b_label": "Fresh Poke Bowl with Ahi Tuna",
+    "option_b_signals": {
+      "protein_preference.fish": 0.9,
+      "meal_size_preference": 0.3,
+      "cuisine_preferences.japanese": 0.8,
+      "adventurousness": 0.6
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 3,
+    "option_a_image_url": "https://images.unsplash.com/photo-1575932444877-5106bee2a599?w=800&q=80",
+    "option_a_label": "Crispy Korean Fried Chicken",
+    "option_a_signals": {
+      "texture_preferences.crispy": 0.9,
+      "protein_preference.chicken": 0.85,
+      "cuisine_preferences.korean": 0.8,
+      "spice_tolerance": 0.85,
+      "adventurousness": 0.8
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=800&q=80",
+    "option_b_label": "Silky Mushroom Risotto",
+    "option_b_signals": {
+      "texture_preferences.creamy": 0.9,
+      "protein_preference.vegetarian": 0.7,
+      "cuisine_preferences.italian": 0.85,
+      "meal_size_preference": 0.6,
+      "spice_tolerance": 0.1
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 4,
+    "option_a_image_url": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800&q=80",
+    "option_a_label": "Street Style Lamb Shawarma",
+    "option_a_signals": {
+      "cuisine_preferences.middle_eastern": 0.9,
+      "adventurousness": 0.8,
+      "protein_preference.beef": 0.6,
+      "price_comfort": 0.3,
+      "spice_tolerance": 0.85
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1553247407-23251ce81f59?w=800&q=80",
+    "option_b_label": "Lobster Thermidor",
+    "option_b_signals": {
+      "cuisine_preferences.french": 0.9,
+      "price_comfort": 0.95,
+      "protein_preference.fish": 0.7,
+      "adventurousness": 0.4,
+      "texture_preferences.creamy": 0.7,
+      "spice_tolerance": 0.15
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 5,
+    "option_a_image_url": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=800&q=80",
+    "option_a_label": "Loaded BBQ Brisket Plate",
+    "option_a_signals": {
+      "protein_preference.beef": 0.95,
+      "meal_size_preference": 0.9,
+      "spice_tolerance": 0.85,
+      "cuisine_preferences.american": 0.75,
+      "adventurousness": 0.75,
+      "price_comfort": 0.5
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80",
+    "option_b_label": "Rainbow Buddha Bowl",
+    "option_b_signals": {
+      "protein_preference.vegetarian": 0.9,
+      "protein_preference.vegan": 0.8,
+      "meal_size_preference": 0.2,
+      "adventurousness": 0.5,
+      "sweetness_preference": 0.4,
+      "spice_tolerance": 0.2
+    },
+    "is_active": true
+  }
+]
