@@ -6,6 +6,7 @@ import {
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
+import { useRouter } from 'expo-router';
 import { supabase } from '../../lib/supabase';
 import { apiGet, apiPost, apiDelete, logInteraction } from '../../lib/api';
 import { colors, radii, spacing } from '../../lib/theme';
@@ -41,6 +42,18 @@ type SearchUser = {
   avatar_emoji: string;
 };
 
+type DiningPlan = {
+  id: string;
+  name: string;
+  status: string;
+  members?: {
+    user_id: string;
+    status: string;
+    profile?: { avatar_emoji: string };
+  }[];
+  my_status?: string;
+};
+
 // ── Avatar Emoji Choices ──
 
 const AVATAR_EMOJIS = [
@@ -55,10 +68,15 @@ type TabName = 'friends' | 'requests' | 'add';
 // ── Main Component ──
 
 export default function FriendsScreen() {
+  const router = useRouter();
   const [activeTab, setActiveTab] = useState<TabName>('friends');
   const [myProfile, setMyProfile] = useState<UserProfile | null>(null);
   const [profileLoading, setProfileLoading] = useState(true);
   const [profileError, setProfileError] = useState('');
+
+  // Dining plans
+  const [plans, setPlans] = useState<DiningPlan[]>([]);
+  const [plansLoading, setPlansLoading] = useState(false);
 
   // Friends list
   const [friends, setFriends] = useState<UserProfile[]>([]);
@@ -94,7 +112,10 @@ export default function FriendsScreen() {
 
   useEffect(() => {
     if (myProfile) {
-      if (activeTab === 'friends') loadFriends();
+      if (activeTab === 'friends') {
+        loadFriends();
+        loadPlans();
+      }
       if (activeTab === 'requests') loadRequests();
     }
   }, [activeTab, myProfile]);
@@ -129,6 +150,21 @@ export default function FriendsScreen() {
       setProfileError('Network error. Check your connection.');
     } finally {
       setProfileLoading(false);
+    }
+  };
+
+  const loadPlans = async () => {
+    setPlansLoading(true);
+    try {
+      const res = await apiGet('/plans');
+      if (res.ok) {
+        const data = await res.json();
+        setPlans(data.plans ?? []);
+      }
+    } catch {
+      // Silently fail
+    } finally {
+      setPlansLoading(false);
     }
   };
 
@@ -414,15 +450,6 @@ export default function FriendsScreen() {
             <View style={styles.center}>
               <ActivityIndicator size="large" color={colors.goldPrimary} />
             </View>
-          ) : friends.length === 0 ? (
-            <View style={styles.center}>
-              <Text style={styles.emptyEmoji}>&#128101;</Text>
-              <Text style={styles.emptyTitle}>No friends yet</Text>
-              <Text style={styles.emptySubtext}>Add friends to plan meals together</Text>
-              <View style={{ marginTop: 16, width: 200 }}>
-                <GoldButton title="Add Friends" onPress={() => setActiveTab('add')} />
-              </View>
-            </View>
           ) : (
             <FlatList
               data={friends}
@@ -431,9 +458,73 @@ export default function FriendsScreen() {
               refreshControl={
                 <RefreshControl
                   refreshing={friendsRefreshing}
-                  onRefresh={() => loadFriends(true)}
+                  onRefresh={() => { loadFriends(true); loadPlans(); }}
                   tintColor={colors.goldPrimary}
                 />
+              }
+              ListHeaderComponent={
+                <View>
+                  {/* Dining Plans Section */}
+                  <Text style={styles.sectionLabel}>DINING PLANS</Text>
+                  <View style={{ marginBottom: 8 }}>
+                    <GoldButton title="+ New Plan" onPress={() => router.push('/group/create')} />
+                  </View>
+                  {plansLoading && plans.length === 0 ? (
+                    <ActivityIndicator size="small" color={colors.goldPrimary} style={{ marginVertical: 12 }} />
+                  ) : plans.length > 0 ? (
+                    <ScrollView
+                      horizontal
+                      showsHorizontalScrollIndicator={false}
+                      style={styles.plansScroll}
+                      contentContainerStyle={styles.plansScrollContent}
+                    >
+                      {plans.map(plan => {
+                        const invitedCount = (plan.members ?? []).filter(m => m.status === 'invited').length;
+                        const avatars = (plan.members ?? [])
+                          .filter(m => m.status === 'joined')
+                          .map(m => m.profile?.avatar_emoji ?? '🧝')
+                          .slice(0, 5);
+                        const isInvited = plan.my_status === 'invited';
+                        return (
+                          <TouchableOpacity
+                            key={plan.id}
+                            style={[styles.planCard, isInvited && styles.planCardInvited]}
+                            onPress={() => router.push(`/group/${plan.id}`)}
+                            activeOpacity={0.7}
+                          >
+                            <Text style={styles.planName} numberOfLines={1}>{plan.name}</Text>
+                            <Text style={styles.planAvatars}>{avatars.join(' ')}</Text>
+                            <View style={[
+                              styles.planStatusBadge,
+                              plan.status === 'decided' && styles.planStatusDecided,
+                              plan.status === 'cancelled' && styles.planStatusCancelled,
+                              isInvited && styles.planStatusInvited,
+                            ]}>
+                              <Text style={styles.planStatusText}>
+                                {isInvited ? 'Invited!' : plan.status === 'decided' ? 'Decided' : plan.status === 'cancelled' ? 'Cancelled' : 'Active'}
+                              </Text>
+                            </View>
+                          </TouchableOpacity>
+                        );
+                      })}
+                    </ScrollView>
+                  ) : (
+                    <Text style={styles.plansEmpty}>No plans yet — create one above!</Text>
+                  )}
+
+                  {/* Friends header */}
+                  <Text style={[styles.sectionLabel, { marginTop: 20 }]}>FRIENDS</Text>
+                  {friends.length === 0 && (
+                    <View style={{ alignItems: 'center', paddingVertical: 24 }}>
+                      <Text style={styles.emptyEmoji}>&#128101;</Text>
+                      <Text style={styles.emptyTitle}>No friends yet</Text>
+                      <Text style={styles.emptySubtext}>Add friends to plan meals together</Text>
+                      <View style={{ marginTop: 16, width: 200 }}>
+                        <GoldButton title="Add Friends" onPress={() => setActiveTab('add')} />
+                      </View>
+                    </View>
+                  )}
+                </View>
               }
               renderItem={({ item }) => (
                 <TouchableOpacity
@@ -679,6 +770,64 @@ const styles = StyleSheet.create({
     color: colors.background,
     fontSize: 11,
     fontWeight: '800',
+  },
+
+  // Dining plans
+  plansScroll: {
+    marginBottom: 4,
+  },
+  plansScrollContent: {
+    gap: 10,
+    paddingVertical: 4,
+  },
+  planCard: {
+    width: 140,
+    backgroundColor: colors.surface,
+    borderRadius: radii.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: 12,
+  },
+  planCardInvited: {
+    borderColor: colors.goldPrimary,
+    backgroundColor: 'rgba(212,165,116,0.08)',
+  },
+  planName: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: colors.textPrimary,
+    marginBottom: 6,
+  },
+  planAvatars: {
+    fontSize: 16,
+    marginBottom: 8,
+  },
+  planStatusBadge: {
+    alignSelf: 'flex-start',
+    paddingHorizontal: 8,
+    paddingVertical: 3,
+    borderRadius: radii.pill,
+    backgroundColor: 'rgba(212,165,116,0.15)',
+  },
+  planStatusDecided: {
+    backgroundColor: 'rgba(76,175,80,0.15)',
+  },
+  planStatusCancelled: {
+    backgroundColor: 'rgba(239,83,80,0.15)',
+  },
+  planStatusInvited: {
+    backgroundColor: 'rgba(212,165,116,0.25)',
+  },
+  planStatusText: {
+    fontSize: 11,
+    fontWeight: '700',
+    color: colors.goldPrimary,
+  },
+  plansEmpty: {
+    fontSize: 13,
+    color: colors.textTertiary,
+    textAlign: 'center',
+    paddingVertical: 12,
   },
 
   // Friend card
