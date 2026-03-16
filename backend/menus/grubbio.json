@@ -8,7 +8,7 @@
       "price": null,
       "description": "Water",
       "category": "DRINK",
-      "simplified_description": "Plain water to drink.",
+      "simplified_description": "Plain water to drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -24,7 +24,7 @@
       "price": null,
       "description": "Pop",
       "category": "DRINK",
-      "simplified_description": "Carbonated soft drink.",
+      "simplified_description": "Carbonated soft drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -40,7 +40,7 @@
       "price": null,
       "description": "Poutine",
       "category": "SIDE",
-      "simplified_description": "Fries topped with cheese curds and gravy.",
+      "simplified_description": "Fries topped with cheese curds and gravy",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -53,7 +53,7 @@
       "price": null,
       "description": "Donair Spring Roll Poutine",
       "category": "SIDE",
-      "simplified_description": "Poutine topped with donair spring rolls.",
+      "simplified_description": "Poutine topped with donair spring rolls",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -66,7 +66,7 @@
       "price": null,
       "description": "Chicken Shawarma Poutine",
       "category": "SIDE",
-      "simplified_description": "Poutine topped with chicken shawarma.",
+      "simplified_description": "Poutine topped with chicken shawarma",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -79,7 +79,7 @@
       "price": null,
       "description": "Beef Donair Poutine",
       "category": "SIDE",
-      "simplified_description": "Poutine topped with beef donair meat.",
+      "simplified_description": "Poutine topped with beef donair meat",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -92,7 +92,7 @@
       "price": null,
       "description": "Fries",
       "category": "APPETIZER",
-      "simplified_description": "Crispy fried potato fries.",
+      "simplified_description": "Crispy fried potato fries",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -108,7 +108,7 @@
       "price": null,
       "description": "Fattoush Salad",
       "category": "APPETIZER",
-      "simplified_description": "Fresh salad with mixed greens and toasted pita.",
+      "simplified_description": "Fresh salad with mixed greens and toasted pita",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -122,7 +122,7 @@
       "price": null,
       "description": "Brazilian Pastel",
       "category": "APPETIZER",
-      "simplified_description": "Fried pastry filled with savory ingredients.",
+      "simplified_description": "Fried pastry filled with savory ingredients",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -135,7 +135,7 @@
       "price": null,
       "description": "Onion Rings",
       "category": "APPETIZER",
-      "simplified_description": "Battered and fried onion rings.",
+      "simplified_description": "Battered and fried onion rings",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -149,7 +149,7 @@
       "price": null,
       "description": "Hummus And Pita",
       "category": "APPETIZER",
-      "simplified_description": "Creamy chickpea dip served with pita bread.",
+      "simplified_description": "Creamy chickpea dip served with pita bread",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -163,7 +163,7 @@
       "price": null,
       "description": "Coxinha",
       "category": "APPETIZER",
-      "simplified_description": "Brazilian fried dough filled with shredded chicken.",
+      "simplified_description": "Brazilian fried dough filled with shredded chicken",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -176,7 +176,7 @@
       "price": null,
       "description": "Chicken Wings",
       "category": "APPETIZER",
-      "simplified_description": "Fried or baked chicken wings.",
+      "simplified_description": "Fried or baked chicken wings",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -189,7 +189,7 @@
       "price": null,
       "description": "Tabboulehi Salad",
       "category": "APPETIZER",
-      "simplified_description": "Salad with parsley, bulgur, and tomatoes.",
+      "simplified_description": "Salad with parsley, bulgur, and tomatoes",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -203,7 +203,7 @@
       "price": null,
       "description": "Donair Spring Roll",
       "category": "APPETIZER",
-      "simplified_description": "Spring roll filled with donair meat.",
+      "simplified_description": "Spring roll filled with donair meat",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -216,7 +216,7 @@
       "price": null,
       "description": "Petit-Four (6 Pks)",
       "category": "DESSERT",
-      "simplified_description": "A pack of six small assorted desserts.",
+      "simplified_description": "A pack of six small assorted desserts",
       "dietary_info": [],
       "other_info": ""
     },
@@ -225,7 +225,7 @@
       "price": null,
       "description": "Baklava",
       "category": "DESSERT",
-      "simplified_description": "Sweet pastry made with layers of filo and nuts.",
+      "simplified_description": "Sweet pastry made with layers of filo and nuts",
       "dietary_info": [
         "vegetarian"
       ],
@@ -236,7 +236,7 @@
       "price": null,
       "description": "Baklava (6 Pks)",
       "category": "DESSERT",
-      "simplified_description": "A pack of six sweet nut-filled filo pastries.",
+      "simplified_description": "A pack of six sweet nut-filled filo pastries",
       "dietary_info": [
         "vegetarian"
       ],
@@ -247,7 +247,7 @@
       "price": null,
       "description": "Mini Poutine",
       "category": "SIDE",
-      "simplified_description": "Small serving of fries topped with cheese curds and gravy.",
+      "simplified_description": "Small serving of fries topped with cheese curds and gravy",
       "dietary_info": [
         "vegetarian",
         "gluten-free"
@@ -259,7 +259,7 @@
       "price": null,
       "description": "Mini Donair Spring Roll Poutine",
       "category": "SIDE",
-      "simplified_description": "Mini poutine topped with donair spring rolls.",
+      "simplified_description": "Mini poutine topped with donair spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -268,7 +268,7 @@
       "price": null,
       "description": "Mini Beef Donair Poutine",
       "category": "SIDE",
-      "simplified_description": "Mini poutine topped with seasoned beef donair meat.",
+      "simplified_description": "Mini poutine topped with seasoned beef donair meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -277,7 +277,7 @@
       "price": null,
       "description": "Mini Chicken Shawarma Poutine",
       "category": "SIDE",
-      "simplified_description": "Mini poutine topped with chicken shawarma meat.",
+      "simplified_description": "Mini poutine topped with chicken shawarma meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -286,7 +286,7 @@
       "price": null,
       "description": "Falafel Plate",
       "category": "PLATE",
-      "simplified_description": "Plate with falafel balls and accompaniments.",
+      "simplified_description": "Plate with falafel balls and accompaniments",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -299,7 +299,7 @@
       "price": null,
       "description": "Beef Donair Plate",
       "category": "PLATE",
-      "simplified_description": "Plate with beef donair meat and sides.",
+      "simplified_description": "Plate with beef donair meat and sides",
       "dietary_info": [],
       "other_info": ""
     },
@@ -308,7 +308,7 @@
       "price": null,
       "description": "Chicken Shawarma Plate",
       "category": "PLATE",
-      "simplified_description": "Plate with chicken shawarma and accompaniments.",
+      "simplified_description": "Plate with chicken shawarma and accompaniments",
       "dietary_info": [],
       "other_info": ""
     },
@@ -317,7 +317,7 @@
       "price": null,
       "description": "Chicken Fattoush Salad",
       "category": "PLATE",
-      "simplified_description": "Salad with chicken and Middle Eastern vegetables.",
+      "simplified_description": "Salad with chicken and Middle Eastern vegetables",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -329,7 +329,7 @@
       "price": null,
       "description": "Falafel Wrap",
       "category": "PITA WRAP",
-      "simplified_description": "Wrap filled with falafel and vegetables.",
+      "simplified_description": "Wrap filled with falafel and vegetables",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -342,7 +342,7 @@
       "price": null,
       "description": "Deep-Fried Chicken Shawarma Wrap",
       "category": "PITA WRAP",
-      "simplified_description": "Wrap with deep-fried chicken shawarma meat.",
+      "simplified_description": "Wrap with deep-fried chicken shawarma meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -351,7 +351,7 @@
       "price": null,
       "description": "Chicken Shawarma Wrap",
       "category": "PITA WRAP",
-      "simplified_description": "Wrap filled with chicken shawarma meat.",
+      "simplified_description": "Wrap filled with chicken shawarma meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -360,7 +360,7 @@
       "price": null,
       "description": "Butter Chicken Shawarma Wrap",
       "category": "PITA WRAP",
-      "simplified_description": "Wrap with butter chicken shawarma meat.",
+      "simplified_description": "Wrap with butter chicken shawarma meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -369,7 +369,7 @@
       "price": null,
       "description": "Beef Donair Wrap",
       "category": "PITA WRAP",
-      "simplified_description": "Wrap filled with seasoned beef donair meat.",
+      "simplified_description": "Wrap filled with seasoned beef donair meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -378,7 +378,7 @@
       "price": null,
       "description": "Falafel Keto Pita Wrap",
       "category": "KETO PITA WRAP",
-      "simplified_description": "Keto pita wrap filled with falafel balls.",
+      "simplified_description": "Keto pita wrap filled with falafel balls",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -390,7 +390,7 @@
       "price": null,
       "description": "Beef Donair Keto Pita Wrap",
       "category": "KETO PITA WRAP",
-      "simplified_description": "Keto pita wrap filled with seasoned beef donair meat.",
+      "simplified_description": "Keto pita wrap filled with seasoned beef donair meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -399,7 +399,7 @@
       "price": null,
       "description": "Chicken Shawarma Keto Pita Wrap",
       "category": "KETO PITA WRAP",
-      "simplified_description": "Keto pita wrap filled with spiced chicken shawarma.",
+      "simplified_description": "Keto pita wrap filled with spiced chicken shawarma",
       "dietary_info": [],
       "other_info": ""
     }

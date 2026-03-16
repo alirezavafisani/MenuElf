@@ -33,9 +33,9 @@
     {
       "name": "Garlic Butter Wings (Canh Ga Chien Bo)",
       "price": 16.0,
-      "description": "Black Pepper Lime Salt **Butter from Vietnam",
+      "description": "Black Pepper Lime Salt Butter from Vietnam",
       "category": "FOOD",
-      "simplified_description": "Black Pepper Lime Salt **Butter from Vietnam",
+      "simplified_description": "Black Pepper Lime Salt Butter from Vietnam",
       "dietary_info": [],
       "other_info": ""
     },
@@ -69,27 +69,27 @@
     {
       "name": "BBQ Chicken (w/ Paris Honey Sauce)",
       "price": 14.0,
-      "description": ".",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Beef Teriyaki (Onion w/ Teriyaki Sauce)",
       "price": 15.0,
-      "description": ".",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BBQ Lamb (Onion w/ Paris Honey Sauce)",
       "price": 16.0,
-      "description": ".",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -114,9 +114,9 @@
     {
       "name": "White Café (Bac Xiu Hot/Cold)",
       "price": 8.0,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -186,18 +186,18 @@
     {
       "name": "Red/White",
       "price": 10.0,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Rose/Champagne",
       "price": 12.0,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -213,36 +213,36 @@
     {
       "name": "Saigon/333 (1-2-3 Zô)",
       "price": 8.0,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Asahi | Sapporo | Local Beer",
       "price": 7.5,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chocolate Mousse",
       "price": 8.0,
-      "description": ".",
+      "description": null,
       "category": "DESSERT",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Tiramisu (GF)",
       "price": 9.0,
-      "description": ".",
+      "description": null,
       "category": "DESSERT",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     }

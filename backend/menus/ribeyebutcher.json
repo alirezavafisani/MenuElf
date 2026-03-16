@@ -24,16 +24,16 @@
     {
       "name": "Lamb Burger",
       "price": 8.99,
-      "description": "Using fresh lamb shoulders and ground once and adding only salt & pepper.  7 oz each",
+      "description": "Using fresh lamb shoulders and ground once and adding only salt & pepper. 7 oz each",
       "category": "OTHER",
-      "simplified_description": "Using fresh lamb shoulders and ground once and adding only salt & pepper.  7 oz ",
+      "simplified_description": "Using fresh lamb shoulders and ground once and adding only salt & pepper. 7 oz",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lamb Kebab",
       "price": 9.99,
-      "description": "Using only tender lamb leg, peppers, onions and our fresh herb kebab marinade, a simple crowd pleaser on the grill or under the broiler.  Sold by the unit. Approx. 7-8oz each",
+      "description": "Using only tender lamb leg, peppers, onions and our fresh herb kebab marinade, a simple crowd pleaser on the grill or under the broiler. Sold by the unit. Approx. 7-8oz each",
       "category": "OTHER",
       "simplified_description": "Using only tender lamb leg, peppers, onions and our fresh herb kebab marinade, a",
       "dietary_info": [],
@@ -42,9 +42,9 @@
     {
       "name": "Lean Ground Beef 1 lb",
       "price": 11.99,
-      "description": "Ground twice, our beef is raised w on grasses and finished with grains from our exclusive network of Alberta farms. Lean ground beef has no more than 10 percent fat. Ground fresh daily.",
+      "description": "Ground twice, our beef is raised w on grasses and finished with grains from our exclusive network of Alberta farms. Lean ground beef has no more than 10 percent fat. Ground fresh daily",
       "category": "OTHER",
-      "simplified_description": "Ground twice, our beef is raised w on grasses and finished with grains from our ",
+      "simplified_description": "Ground twice, our beef is raised w on grasses and finished with grains from our",
       "dietary_info": [],
       "other_info": ""
     },
@@ -150,7 +150,7 @@
     {
       "name": "Southwest Chicken Burger",
       "price": 7.49,
-      "description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high quality ingredients but also being very fresh. We use a mixture on 70% white breast meat and 30% dark leg meat. Note: All poultry burgers have panko to help maintain shape when cooking.  7 oz each.",
+      "description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high quality ingredients but also being very fresh. We use a mixture on 70% white breast meat and 30% dark leg meat. Note: All poultry burgers have panko to help maintain shape when cooking. 7 oz each",
       "category": "OTHER",
       "simplified_description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high qualit",
       "dietary_info": [],
@@ -159,7 +159,7 @@
     {
       "name": "Steak and Bacon Burger",
       "price": 6.99,
-      "description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients only, utilizing only bacon, steak trimmings and chuck cuts.  7 oz each.",
+      "description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients only, utilizing only bacon, steak trimmings and chuck cuts. 7 oz each",
       "category": "OTHER",
       "simplified_description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients",
       "dietary_info": [],
@@ -168,7 +168,7 @@
     {
       "name": "Turkey Leek Burger",
       "price": 7.49,
-      "description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high quality ingredients but also being very fresh. We use a mixture on 70% white breast meat and 30% dark leg meat. Note: All poultry burgers are made with panko to maintain the burger's shape when cooking.  7 oz each.",
+      "description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high quality ingredients but also being very fresh. We use a mixture on 70% white breast meat and 30% dark leg meat. Note: All poultry burgers are made with panko to maintain the burger's shape when cooking. 7 oz each",
       "category": "OTHER",
       "simplified_description": "Handmade at Ribeyes, our poultry burgers are famous for not only the high qualit",
       "dietary_info": [],
@@ -177,9 +177,9 @@
     {
       "name": "Turkey Wings",
       "price": 11.99,
-      "description": "Alberta raised turkey that is air-chilled. Always fresh, never frozen.  Sold by the lb.",
+      "description": "Alberta raised turkey that is air-chilled. Always fresh, never frozen. Sold by the lb",
       "category": "OTHER",
-      "simplified_description": "Alberta raised turkey that is air-chilled. Always fresh, never frozen.  Sold by ",
+      "simplified_description": "Alberta raised turkey that is air-chilled. Always fresh, never frozen. Sold by",
       "dietary_info": [],
       "other_info": ""
     },
@@ -231,7 +231,7 @@
     {
       "name": "Wagyu Beef Burger",
       "price": 10.99,
-      "description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients only, utilizing only wagyu steak trimmings and chuck cuts.  7 oz each.",
+      "description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients only, utilizing only wagyu steak trimmings and chuck cuts. 7 oz each",
       "category": "OTHER",
       "simplified_description": "Handmade at Ribeyes, our wide variety is ever changing. High quality ingredients",
       "dietary_info": [],
@@ -240,7 +240,7 @@
     {
       "name": "Whole Alberta Chicken",
       "price": 22.72,
-      "description": "High quality local chicken raised in Alberta. Our air chilled chicken is brought in every three days.  Average 3.25 lbs",
+      "description": "High quality local chicken raised in Alberta. Our air chilled chicken is brought in every three days. Average 3.25 lbs",
       "category": "OTHER",
       "simplified_description": "High quality local chicken raised in Alberta. Our air chilled chicken is brought",
       "dietary_info": [],
@@ -267,9 +267,9 @@
     {
       "name": "Whole Rabbit",
       "price": 53.97,
-      "description": "Whole rabbit for roasting whole or into a stew. Average 3 lb.",
+      "description": "Whole rabbit for roasting whole or into a stew. Average 3 lb",
       "category": "OTHER",
-      "simplified_description": "Whole rabbit for roasting whole or into a stew. Average 3 lb.",
+      "simplified_description": "Whole rabbit for roasting whole or into a stew. Average 3 lb",
       "dietary_info": [],
       "other_info": ""
     }

@@ -51,7 +51,7 @@
     {
       "name": "Cheezy Charm",
       "price": 9.99,
-      "description": "A delightful blend of mozzarella and cheddar cheeses on a classic pizza crust, topped with a rich tomato sauce.",
+      "description": "A delightful blend of mozzarella and cheddar cheeses on a classic pizza crust, topped with a rich tomato sauce",
       "category": "FOOD",
       "simplified_description": "A delightful blend of mozzarella and cheddar cheeses on a classic pizza crust, t",
       "dietary_info": [],
@@ -62,14 +62,14 @@
       "price": 11.99,
       "description": "Pizza sauce, Mozzarella cheese, Red onion, Green pepper, Olives, Banana peppers, Pineapple, Mushrooms",
       "category": "FOOD",
-      "simplified_description": "Pizza sauce, Mozzarella cheese, Red onion, Green pepper, Olives, Banana peppers,",
+      "simplified_description": "Pizza sauce, Mozzarella cheese, Red onion, Green pepper, Olives, Banana peppers",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Tandoori Paneer Delight",
       "price": 12.99,
-      "description": "Marinated paneer, bell peppers, and onions on a tomato sauce base, topped with melted cheese and tandoori...",
+      "description": "Marinated paneer, bell peppers, and onions on a tomato sauce base, topped with melted cheese and tandoori",
       "category": "FOOD",
       "simplified_description": "Marinated paneer, bell peppers, and onions on a tomato sauce base, topped with m",
       "dietary_info": [],
@@ -78,9 +78,9 @@
     {
       "name": "Pepperoni Pizza",
       "price": 11.99,
-      "description": "Topped with slices of pepperoni and melted cheese on a classic pizza crust.",
+      "description": "Topped with slices of pepperoni and melted cheese on a classic pizza crust",
       "category": "FOOD",
-      "simplified_description": "Topped with slices of pepperoni and melted cheese on a classic pizza crust.",
+      "simplified_description": "Topped with slices of pepperoni and melted cheese on a classic pizza crust",
       "dietary_info": [],
       "other_info": ""
     },
@@ -159,7 +159,7 @@
     {
       "name": "Garlic Cheese Bread",
       "price": 7.99,
-      "description": "Garlic-infused bread, loaded with melted cheese, oven-baked to golden perfection.",
+      "description": "Garlic-infused bread, loaded with melted cheese, oven-baked to golden perfection",
       "category": "SIDE",
       "simplified_description": "Garlic-infused bread, loaded with melted cheese, oven-baked to golden perfection",
       "dietary_info": [],
@@ -168,18 +168,18 @@
     {
       "name": "Baked chicken wings 6pcs",
       "price": 6.99,
-      "description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "description": "Baked chicken wings typically seasoned and baked to a crispy finish",
       "category": "SIDE",
-      "simplified_description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "simplified_description": "Baked chicken wings typically seasoned and baked to a crispy finish",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Baked chicken wings 12 pcs",
       "price": 11.99,
-      "description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "description": "Baked chicken wings typically seasoned and baked to a crispy finish",
       "category": "SIDE",
-      "simplified_description": "Baked chicken wings typically seasoned and baked to a crispy finish.",
+      "simplified_description": "Baked chicken wings typically seasoned and baked to a crispy finish",
       "dietary_info": [],
       "other_info": ""
     },
@@ -213,7 +213,7 @@
     {
       "name": "Canned Pop",
       "price": 1.49,
-      "description": "Canned pop selection: Choose from classic Coke, Diet Coke, Pepsi, Canada Dry, Sprite and Fanta.",
+      "description": "Canned pop selection: Choose from classic Coke, Diet Coke, Pepsi, Canada Dry, Sprite and Fanta",
       "category": "DRINK",
       "simplified_description": "Canned pop selection: Choose from classic Coke, Diet Coke, Pepsi, Canada Dry, Sp",
       "dietary_info": [],

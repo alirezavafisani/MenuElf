@@ -8,7 +8,7 @@
       "price": 2.5,
       "description": "OYSTER NIGHT! ONE $2.5 | 1/2 DOZEN $15 (min of 3)",
       "category": "OTHER",
-      "simplified_description": "Single oyster available for $2.5 or half dozen for $15 with minimum order.",
+      "simplified_description": "Single oyster available for $2.5 or half dozen for $15 with minimum order",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -23,7 +23,7 @@
       "price": null,
       "description": "WINE BOTTLES 1/2 OFF",
       "category": "DRINK",
-      "simplified_description": "Wine bottles available at half price.",
+      "simplified_description": "Wine bottles available at half price",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -39,7 +39,7 @@
       "price": null,
       "description": "STELLA ARTOIS (40 CL) $1 OFF",
       "category": "DRINK",
-      "simplified_description": "40 cl bottle of Stella Artois beer with $1 discount.",
+      "simplified_description": "40 cl bottle of Stella Artois beer with $1 discount",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -54,7 +54,7 @@
       "price": null,
       "description": "ATLANTIC SHAFT (2 oz) $2 OFF",
       "category": "DRINK",
-      "simplified_description": "2 oz Atlantic Shaft drink with $2 discount.",
+      "simplified_description": "2 oz Atlantic Shaft drink with $2 discount",
       "dietary_info": [],
       "other_info": ""
     },
@@ -63,7 +63,7 @@
       "price": null,
       "description": "SELFIE GARLIC FINGERS $2 OFF",
       "category": "FOOD",
-      "simplified_description": "Garlic fingers available with $2 discount.",
+      "simplified_description": "Garlic fingers available with $2 discount",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -75,7 +75,7 @@
       "price": null,
       "description": "SELFIE NACHOS $3 OFF",
       "category": "FOOD",
-      "simplified_description": "Nachos offered with a $3 discount.",
+      "simplified_description": "Nachos offered with a $3 discount",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -87,7 +87,7 @@
       "price": null,
       "description": "ALL CAESARS (1 oz) $2 OFF",
       "category": "DRINK",
-      "simplified_description": "1 oz Caesars drink with $2 discount.",
+      "simplified_description": "1 oz Caesars drink with $2 discount",
       "dietary_info": [],
       "other_info": ""
     },
@@ -96,7 +96,7 @@
       "price": null,
       "description": "ANY PIZZA $5 OFF",
       "category": "FOOD",
-      "simplified_description": "Any pizza available with a $5 discount.",
+      "simplified_description": "Any pizza available with a $5 discount",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -108,7 +108,7 @@
       "price": null,
       "description": "GRAFTON STREET LAGER (14oz) $1 OFF",
       "category": "DRINK",
-      "simplified_description": "14 oz Grafton Street Lager beer with $1 discount.",
+      "simplified_description": "14 oz Grafton Street Lager beer with $1 discount",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -123,7 +123,7 @@
       "price": null,
       "description": "FISH & CHIPS $4 OFF",
       "category": "FOOD",
-      "simplified_description": "Classic fish and chips dish with $4 discount.",
+      "simplified_description": "Classic fish and chips dish with $4 discount",
       "dietary_info": [],
       "other_info": ""
     },
@@ -132,7 +132,7 @@
       "price": null,
       "description": "ALEXANDER KEITHS (14oz) $1 OFF",
       "category": "DRINK",
-      "simplified_description": "14 oz Alexander Keiths beer with $1 discount.",
+      "simplified_description": "14 oz Alexander Keiths beer with $1 discount",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -147,7 +147,7 @@
       "price": null,
       "description": "OG HALIFAX DONAIR (REG) $3 OFF",
       "category": "FOOD",
-      "simplified_description": "Regular OG Halifax donair with $3 discount.",
+      "simplified_description": "Regular OG Halifax donair with $3 discount",
       "dietary_info": [],
       "other_info": ""
     },
@@ -156,7 +156,7 @@
       "price": null,
       "description": "GRAFTON STREET AMBER (14 oz) $1 OFF",
       "category": "DRINK",
-      "simplified_description": "14 oz Grafton Street Amber beer with $1 discount.",
+      "simplified_description": "14 oz Grafton Street Amber beer with $1 discount",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -171,7 +171,7 @@
       "price": null,
       "description": "ALL COCKTAILS (2oz) $2 OFF",
       "category": "DRINK",
-      "simplified_description": "All cocktails 2 oz size with $2 discount.",
+      "simplified_description": "All cocktails 2 oz size with $2 discount",
       "dietary_info": [],
       "other_info": ""
     }

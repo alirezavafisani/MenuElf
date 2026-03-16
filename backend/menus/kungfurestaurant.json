@@ -122,10 +122,10 @@
     },
     {
       "name": "Can Pop",
-      "price": 0.0,
-      "description": "Can Pop From:",
+      "price": null,
+      "description": "Can Pop From",
       "category": "DRINK",
-      "simplified_description": "Can Pop From:",
+      "simplified_description": "Can Pop From",
       "dietary_info": [],
       "other_info": ""
     },
@@ -143,43 +143,43 @@
       "price": 20.5,
       "description": "G01 Dinner For One",
       "category": "FOOD",
-      "simplified_description": "Single serving dinner meal.",
+      "simplified_description": "Single serving dinner meal",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "G02 Dinner For Two ~~$ 115.95~~ Original price was: $115.95.$43.95Current price is: $43.95.",
+      "name": "G02 Dinner For Two  95.",
       "price": 43.95,
-      "description": "G02 Dinner For Two ~~$ 115.95~~ Original price was: $115.95.$43.95Current price is: $43.95.",
+      "description": "G02 Dinner For Two $ 115.95 Original price was: $115.95.$43.95Current price is: $43.95",
       "category": "FOOD",
-      "simplified_description": "Dinner meal portioned for two people.",
+      "simplified_description": "Dinner meal portioned for two people",
       "dietary_info": [],
       "other_info": "Serves two"
     },
     {
-      "name": "G04 Dinner For Four ~~$ 189.05~~ Original price was: $189.05.$87.95Current price is: $87.95.",
+      "name": "G04 Dinner For Four  95.",
       "price": 87.95,
-      "description": "G04 Dinner For Four ~~$ 189.05~~ Original price was: $189.05.$87.95Current price is: $87.95.",
+      "description": "G04 Dinner For Four $ 189.05 Original price was: $189.05.$87.95Current price is: $87.95",
       "category": "FOOD",
-      "simplified_description": "Dinner meal portioned for four people.",
+      "simplified_description": "Dinner meal portioned for four people",
       "dietary_info": [],
       "other_info": "Serves four"
     },
     {
-      "name": "G06 Dinner For Six ~~$ 285.40~~ Original price was: $285.40.$127.95Current price is: $127.95.",
+      "name": "G06 Dinner For Six  95.",
       "price": 127.95,
-      "description": "G06 Dinner For Six ~~$ 285.40~~ Original price was: $285.40.$127.95Current price is: $127.95.",
+      "description": "G06 Dinner For Six $ 285.40 Original price was: $285.40.$127.95Current price is: $127.95",
       "category": "FOOD",
-      "simplified_description": "Dinner meal portioned for six people.",
+      "simplified_description": "Dinner meal portioned for six people",
       "dietary_info": [],
       "other_info": "Serves six"
     },
     {
-      "name": "G08 Dinner For Eight ~~$ 359.05~~ Original price was: $359.05.$169.95Current price is: $169.95.",
+      "name": "G08 Dinner For Eight  95.",
       "price": 169.95,
-      "description": "G08 Dinner For Eight ~~$ 359.05~~ Original price was: $359.05.$169.95Current price is: $169.95.",
+      "description": "G08 Dinner For Eight $ 359.05 Original price was: $359.05.$169.95Current price is: $169.95",
       "category": "FOOD",
-      "simplified_description": "Dinner meal portioned for eight people.",
+      "simplified_description": "Dinner meal portioned for eight people",
       "dietary_info": [],
       "other_info": "Serves eight"
     },
@@ -188,7 +188,7 @@
       "price": 10.0,
       "description": "Kungfu Gift Cards $10.00 – $100.00Price range: $10.00 through $100.00",
       "category": "OTHER",
-      "simplified_description": "Gift cards available from $10 to $100.",
+      "simplified_description": "Gift cards available from $10 to $100",
       "dietary_info": [],
       "other_info": ""
     },
@@ -197,7 +197,7 @@
       "price": 14.5,
       "description": "Kungfu Lunch Specials",
       "category": "FOOD",
-      "simplified_description": "Special lunch menu items.",
+      "simplified_description": "Special lunch menu items",
       "dietary_info": [],
       "other_info": ""
     },
@@ -206,7 +206,7 @@
       "price": 2.5,
       "description": "Sweet & Sour Sauce",
       "category": "OTHER",
-      "simplified_description": "Tangy sweet and sour dipping sauce.",
+      "simplified_description": "Tangy sweet and sour dipping sauce",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -220,7 +220,7 @@
       "price": 2.6,
       "description": "001. Deep Fried Spring Roll (1)",
       "category": "APPETIZER",
-      "simplified_description": "Crispy deep fried spring roll.",
+      "simplified_description": "Crispy deep fried spring roll",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -233,7 +233,7 @@
       "price": 14.5,
       "description": "002. Deep Fried Wonton with Sweet & Sour Sauce",
       "category": "APPETIZER",
-      "simplified_description": "Crispy fried wontons served with sweet and sour sauce.",
+      "simplified_description": "Crispy fried wontons served with sweet and sour sauce",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -245,7 +245,7 @@
       "price": 15.95,
       "description": "003. Deep Fried Chicken Wings(8)",
       "category": "APPETIZER",
-      "simplified_description": "Eight pieces of crispy deep fried chicken wings.",
+      "simplified_description": "Eight pieces of crispy deep fried chicken wings",
       "dietary_info": [
         "gluten-free",
         "nut-free",
@@ -258,7 +258,7 @@
       "price": 16.5,
       "description": "004. Grilled Pork with Vegetable Dumpling (10)",
       "category": "APPETIZER",
-      "simplified_description": "Ten grilled pork and vegetable dumplings.",
+      "simplified_description": "Ten grilled pork and vegetable dumplings",
       "dietary_info": [
         "nut-free"
       ],
@@ -269,7 +269,7 @@
       "price": 16.95,
       "description": "005. Dry Garlic Spareribs",
       "category": "APPETIZER",
-      "simplified_description": "Spareribs cooked with dry garlic seasoning.",
+      "simplified_description": "Spareribs cooked with dry garlic seasoning",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -281,7 +281,7 @@
       "price": 17.95,
       "description": "006. BBQ Pork Slices with Honey Sauce",
       "category": "APPETIZER",
-      "simplified_description": "BBQ pork slices served with honey sauce.",
+      "simplified_description": "BBQ pork slices served with honey sauce",
       "dietary_info": [
         "nut-free"
       ],

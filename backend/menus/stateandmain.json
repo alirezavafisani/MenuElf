@@ -132,18 +132,18 @@
     {
       "name": "SM Draft",
       "price": 7.0,
-      "description": "BLONDE LAGER  light bodied, golden crisp lager. 16oz",
+      "description": "BLONDE LAGER light bodied, golden crisp lager. 16oz",
       "category": "DRINK",
-      "simplified_description": "BLONDE LAGER  light bodied, golden crisp lager. 16oz",
+      "simplified_description": "BLONDE LAGER light bodied, golden crisp lager. 16oz",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "SM Draft",
       "price": null,
-      "description": "BLONDE LAGER  light bodied, golden crisp lager. 21oz",
+      "description": "BLONDE LAGER light bodied, golden crisp lager. 21oz",
       "category": "DRINK",
-      "simplified_description": "BLONDE LAGER  light bodied, golden crisp lager. 21oz",
+      "simplified_description": "BLONDE LAGER light bodied, golden crisp lager. 21oz",
       "dietary_info": [],
       "other_info": ""
     },
@@ -170,7 +170,7 @@
       "price": 11.0,
       "description": "gin, st. germain elderflower liqueur, dragon fruit, cucumber, lime, mint & soda. 1.5oz",
       "category": "DRINK",
-      "simplified_description": "gin, st. germain elderflower liqueur, dragon fruit, cucumber, lime, mint & soda.",
+      "simplified_description": "gin, st. germain elderflower liqueur, dragon fruit, cucumber, lime, mint & soda",
       "dietary_info": [],
       "other_info": ""
     },
@@ -186,61 +186,61 @@
     {
       "name": "Fish Taco",
       "price": null,
-      "description": "battered white fish, avocado, crisp slaw, pico de gallo, garlic aioli.",
+      "description": "battered white fish, avocado, crisp slaw, pico de gallo, garlic aioli",
       "category": "FOOD",
-      "simplified_description": "battered white fish, avocado, crisp slaw, pico de gallo, garlic aioli.",
+      "simplified_description": "battered white fish, avocado, crisp slaw, pico de gallo, garlic aioli",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Truffle Parm Fries",
       "price": null,
-      "description": "truffle oil, shaved parmesan, garlic aioli.",
+      "description": "truffle oil, shaved parmesan, garlic aioli",
       "category": "FOOD",
-      "simplified_description": "truffle oil, shaved parmesan, garlic aioli.",
+      "simplified_description": "truffle oil, shaved parmesan, garlic aioli",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Soup Dumplings",
       "price": null,
-      "description": "pork dumplings, chili oil, scallions, pickled carrot & crispy garlic.",
+      "description": "pork dumplings, chili oil, scallions, pickled carrot & crispy garlic",
       "category": "FOOD",
-      "simplified_description": "pork dumplings, chili oil, scallions, pickled carrot & crispy garlic.",
+      "simplified_description": "pork dumplings, chili oil, scallions, pickled carrot & crispy garlic",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Baja Brussels Sprouts",
       "price": 13.0,
-      "description": "red pepper, bacon, parmesan, cilantro, lime crema.",
+      "description": "red pepper, bacon, parmesan, cilantro, lime crema",
       "category": "FOOD",
-      "simplified_description": "red pepper, bacon, parmesan, cilantro, lime crema.",
+      "simplified_description": "red pepper, bacon, parmesan, cilantro, lime crema",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Jalapeno Mac & Cheese",
       "price": null,
-      "description": "creamy cheese sauce, toasted parmesan panko w/ garlic bread.",
+      "description": "creamy cheese sauce, toasted parmesan panko w/ garlic bread",
       "category": "FOOD",
-      "simplified_description": "creamy cheese sauce, toasted parmesan panko w/ garlic bread.",
+      "simplified_description": "creamy cheese sauce, toasted parmesan panko w/ garlic bread",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pretzel Bites",
       "price": 15.0,
-      "description": "garlic butter, sea salt w/ bacon beer cheese dip.",
+      "description": "garlic butter, sea salt w/ bacon beer cheese dip",
       "category": "FOOD",
-      "simplified_description": "garlic butter, sea salt w/ bacon beer cheese dip.",
+      "simplified_description": "garlic butter, sea salt w/ bacon beer cheese dip",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chili Coconut Calamari",
       "price": null,
-      "description": "buttermilk marinated, coconut breaded calamari, crispy veg, fresh chiles, lime w/ chipotle sauce.",
+      "description": "buttermilk marinated, coconut breaded calamari, crispy veg, fresh chiles, lime w/ chipotle sauce",
       "category": "FOOD",
       "simplified_description": "buttermilk marinated, coconut breaded calamari, crispy veg, fresh chiles, lime w",
       "dietary_info": [],
@@ -249,27 +249,27 @@
     {
       "name": "Butter Chicken",
       "price": 20.0,
-      "description": "curried tomato cream sauce, cashew butter, spiced yogurt, cilantro & naan, over basmati rice.",
+      "description": "curried tomato cream sauce, cashew butter, spiced yogurt, cilantro & naan, over basmati rice",
       "category": "FOOD",
-      "simplified_description": "curried tomato cream sauce, cashew butter, spiced yogurt, cilantro & naan, over ",
+      "simplified_description": "curried tomato cream sauce, cashew butter, spiced yogurt, cilantro & naan, over",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Spicy Tuna Poke Bowl",
       "price": null,
-      "description": "sesame brown rice, cabbage, pickled cucumber, avocado, green onion, ahi tuna.",
+      "description": "sesame brown rice, cabbage, pickled cucumber, avocado, green onion, ahi tuna",
       "category": "FOOD",
-      "simplified_description": "sesame brown rice, cabbage, pickled cucumber, avocado, green onion, ahi tuna.",
+      "simplified_description": "sesame brown rice, cabbage, pickled cucumber, avocado, green onion, ahi tuna",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Truffle & Shrimp Rigatoni",
       "price": 25.0,
-      "description": "crispy prosciutto, mushrooms, peas, parmesan w/ black truffle cream sauce.",
+      "description": "crispy prosciutto, mushrooms, peas, parmesan w/ black truffle cream sauce",
       "category": "FOOD",
-      "simplified_description": "crispy prosciutto, mushrooms, peas, parmesan w/ black truffle cream sauce.",
+      "simplified_description": "crispy prosciutto, mushrooms, peas, parmesan w/ black truffle cream sauce",
       "dietary_info": [],
       "other_info": ""
     }

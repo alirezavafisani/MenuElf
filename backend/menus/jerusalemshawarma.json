@@ -8,7 +8,7 @@
       "price": 16.95,
       "description": "Beef Shawarma Salad Bowl",
       "category": "FOOD",
-      "simplified_description": "Salad bowl topped with seasoned beef shawarma.",
+      "simplified_description": "Salad bowl topped with seasoned beef shawarma",
       "dietary_info": [
         "halal"
       ],
@@ -19,7 +19,7 @@
       "price": 16.95,
       "description": "Chicken Shawarma Salad Bowl",
       "category": "FOOD",
-      "simplified_description": "Salad bowl topped with seasoned chicken shawarma.",
+      "simplified_description": "Salad bowl topped with seasoned chicken shawarma",
       "dietary_info": [
         "halal"
       ],
@@ -30,7 +30,7 @@
       "price": 16.95,
       "description": "Mix Shawarma Salad Bowl",
       "category": "FOOD",
-      "simplified_description": "Salad bowl with a mix of beef and chicken shawarma.",
+      "simplified_description": "Salad bowl with a mix of beef and chicken shawarma",
       "dietary_info": [
         "halal"
       ],
@@ -41,7 +41,7 @@
       "price": 17.95,
       "description": "Donair Salad Bowl",
       "category": "FOOD",
-      "simplified_description": "Salad bowl topped with donair meat.",
+      "simplified_description": "Salad bowl topped with donair meat",
       "dietary_info": [
         "halal"
       ],
@@ -52,7 +52,7 @@
       "price": 16.95,
       "description": "Grilled Chicken Salad Bowl",
       "category": "FOOD",
-      "simplified_description": "Salad bowl with grilled chicken pieces.",
+      "simplified_description": "Salad bowl with grilled chicken pieces",
       "dietary_info": [
         "halal"
       ],
@@ -63,7 +63,7 @@
       "price": 19.95,
       "description": "Royal BBQ Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl with a royal BBQ meat selection.",
+      "simplified_description": "Rice bowl with a royal BBQ meat selection",
       "dietary_info": [
         "halal"
       ],
@@ -74,7 +74,7 @@
       "price": 19.95,
       "description": "Lamb BBQ Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl topped with BBQ lamb.",
+      "simplified_description": "Rice bowl topped with BBQ lamb",
       "dietary_info": [
         "halal"
       ],
@@ -85,7 +85,7 @@
       "price": 17.95,
       "description": "Shish Tawook Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl with grilled marinated chicken skewers.",
+      "simplified_description": "Rice bowl with grilled marinated chicken skewers",
       "dietary_info": [
         "halal"
       ],
@@ -96,7 +96,7 @@
       "price": 17.95,
       "description": "Beef Kabab Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl topped with grilled beef kababs.",
+      "simplified_description": "Rice bowl topped with grilled beef kababs",
       "dietary_info": [
         "halal"
       ],
@@ -107,7 +107,7 @@
       "price": 17.95,
       "description": "Mix Shawarma Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl with a mix of beef and chicken shawarma.",
+      "simplified_description": "Rice bowl with a mix of beef and chicken shawarma",
       "dietary_info": [
         "halal"
       ],
@@ -118,7 +118,7 @@
       "price": 16.95,
       "description": "Chicken Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl topped with chicken.",
+      "simplified_description": "Rice bowl topped with chicken",
       "dietary_info": [
         "halal"
       ],
@@ -129,7 +129,7 @@
       "price": 16.95,
       "description": "Beef Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl topped with beef.",
+      "simplified_description": "Rice bowl topped with beef",
       "dietary_info": [
         "halal"
       ],
@@ -140,7 +140,7 @@
       "price": 19.95,
       "description": "Grilled Chicken Rice Bowl",
       "category": "FOOD",
-      "simplified_description": "Rice bowl with grilled chicken pieces.",
+      "simplified_description": "Rice bowl with grilled chicken pieces",
       "dietary_info": [
         "halal"
       ],
@@ -151,7 +151,7 @@
       "price": 5.99,
       "description": "Garlic Potatos",
       "category": "SIDE",
-      "simplified_description": "Side of garlic-flavored potatoes.",
+      "simplified_description": "Side of garlic-flavored potatoes",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -165,7 +165,7 @@
       "price": 5.95,
       "description": "Rice",
       "category": "SIDE",
-      "simplified_description": "Plain cooked rice side dish.",
+      "simplified_description": "Plain cooked rice side dish",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -179,7 +179,7 @@
       "price": 5.95,
       "description": "Falafel",
       "category": "SIDE",
-      "simplified_description": "Deep-fried chickpea balls, a popular Middle Eastern snack.",
+      "simplified_description": "Deep-fried chickpea balls, a popular Middle Eastern snack",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -195,7 +195,7 @@
       "price": 5.95,
       "description": "Vine Leaves (Dolma)",
       "category": "SIDE",
-      "simplified_description": "Grape leaves stuffed with rice and herbs.",
+      "simplified_description": "Grape leaves stuffed with rice and herbs",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -211,7 +211,7 @@
       "price": 5.95,
       "description": "Hummus",
       "category": "SIDE",
-      "simplified_description": "Creamy chickpea and tahini dip.",
+      "simplified_description": "Creamy chickpea and tahini dip",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -227,7 +227,7 @@
       "price": 16.99,
       "description": "Hummus With Beef",
       "category": "SIDE",
-      "simplified_description": "Hummus topped with seasoned beef.",
+      "simplified_description": "Hummus topped with seasoned beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -242,7 +242,7 @@
       "price": 16.99,
       "description": "Hummus With Chicken",
       "category": "SIDE",
-      "simplified_description": "Hummus topped with seasoned chicken.",
+      "simplified_description": "Hummus topped with seasoned chicken",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -257,7 +257,7 @@
       "price": 18.99,
       "description": "Hummus With Mix",
       "category": "SIDE",
-      "simplified_description": "Hummus topped with a mix of meats.",
+      "simplified_description": "Hummus topped with a mix of meats",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -272,7 +272,7 @@
       "price": 7.99,
       "description": "Garlic Sauce",
       "category": "SIDE",
-      "simplified_description": "Creamy garlic-flavored sauce.",
+      "simplified_description": "Creamy garlic-flavored sauce",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -285,7 +285,7 @@
       "price": 4.99,
       "description": "Pita Chips",
       "category": "SIDE",
-      "simplified_description": "Crispy baked pita bread chips.",
+      "simplified_description": "Crispy baked pita bread chips",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -300,7 +300,7 @@
       "price": 7.99,
       "description": "Red Cabbage",
       "category": "SIDE",
-      "simplified_description": "Fresh or pickled red cabbage side.",
+      "simplified_description": "Fresh or pickled red cabbage side",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -316,7 +316,7 @@
       "price": 6.95,
       "description": "Baklava",
       "category": "DESSERT",
-      "simplified_description": "Sweet layered pastry with nuts and honey.",
+      "simplified_description": "Sweet layered pastry with nuts and honey",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -329,7 +329,7 @@
       "price": 4.99,
       "description": "Tea Pot with Baklava",
       "category": "DRINK",
-      "simplified_description": "Tea served with a piece of baklava.",
+      "simplified_description": "Tea served with a piece of baklava",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -342,7 +342,7 @@
       "price": 6.99,
       "description": "(Mango, Orange, Pineapple, Berries, Lemon, Mango Lassi and Cocktails)",
       "category": "DRINK",
-      "simplified_description": "Variety of fresh fruit juices and mango lassi.",
+      "simplified_description": "Variety of fresh fruit juices and mango lassi",
       "dietary_info": [
         "vegan",
         "gluten-free",

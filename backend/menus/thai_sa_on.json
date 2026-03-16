@@ -6,8 +6,8 @@
     {
       "name": "Crispy Wonton",
       "price": 15.95,
-      "description": "Ground pork and shrimp wrapped in crispy wonton paper topped with a sweet chili sauce.",
-      "simplified_description": "Crispy dumplings filled with pork and shrimp, served with a sweet sauce.",
+      "description": "Ground pork and shrimp wrapped in crispy wonton paper topped with a sweet chili sauce",
+      "simplified_description": "Crispy dumplings filled with pork and shrimp, served with a sweet sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "8 pieces"
@@ -15,8 +15,8 @@
     {
       "name": "Money Bag",
       "price": 12.95,
-      "description": "Steamed pork wrapped in Wonton paper drizzled with garlic oil and soy sauce.",
-      "simplified_description": "Steamed dumplings filled with pork, served with garlic oil and soy sauce.",
+      "description": "Steamed pork wrapped in Wonton paper drizzled with garlic oil and soy sauce",
+      "simplified_description": "Steamed dumplings filled with pork, served with garlic oil and soy sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "6 pieces"
@@ -24,8 +24,8 @@
     {
       "name": "Lemongrass Chicken Wings",
       "price": 14.95,
-      "description": "Fried chicken wings tossed in lemongrass salt & pepper.",
-      "simplified_description": "Fried chicken wings seasoned with lemongrass and pepper.",
+      "description": "Fried chicken wings tossed in lemongrass salt & pepper",
+      "simplified_description": "Fried chicken wings seasoned with lemongrass and pepper",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "8-10 wings"
@@ -33,8 +33,8 @@
     {
       "name": "Chicken Satay",
       "price": 16.95,
-      "description": "Satay style chicken skewers served with peanut sauce.",
-      "simplified_description": "Grilled chicken skewers served with a peanut dipping sauce.",
+      "description": "Satay style chicken skewers served with peanut sauce",
+      "simplified_description": "Grilled chicken skewers served with a peanut dipping sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "4 skewers"
@@ -42,8 +42,8 @@
     {
       "name": "Salad Rolls",
       "price": 16.95,
-      "description": "Chicken or tofu with vegetables and herbs wrapped in rice paper served with house lemon dressing with peanuts.",
-      "simplified_description": "Fresh rolls with chicken or tofu and vegetables, served with a lemon dressing.",
+      "description": "Chicken or tofu with vegetables and herbs wrapped in rice paper served with house lemon dressing with peanuts",
+      "simplified_description": "Fresh rolls with chicken or tofu and vegetables, served with a lemon dressing",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "4 rolls"
@@ -51,8 +51,8 @@
     {
       "name": "Calamari Crunch",
       "price": 17.95,
-      "description": "Herb crusted cuttlefish served with ginger turmeric aioli.",
-      "simplified_description": "Crispy cuttlefish served with a ginger and turmeric sauce.",
+      "description": "Herb crusted cuttlefish served with ginger turmeric aioli",
+      "simplified_description": "Crispy cuttlefish served with a ginger and turmeric sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "6oz"
@@ -60,8 +60,8 @@
     {
       "name": "Pin Wheel",
       "price": 14.95,
-      "description": "Chicken dumplings pan fried, served with house soy sauce.",
-      "simplified_description": "Pan-fried chicken dumplings served with soy sauce.",
+      "description": "Chicken dumplings pan fried, served with house soy sauce",
+      "simplified_description": "Pan-fried chicken dumplings served with soy sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "6 pieces"
@@ -69,8 +69,8 @@
     {
       "name": "Signature Shrimp Cake",
       "price": 20.95,
-      "description": "Fried ground shrimp mixed with chili paste, Thai ginger, basil served with tamarind sauce with peanuts.",
-      "simplified_description": "Fried shrimp cakes with spices, served with tamarind sauce.",
+      "description": "Fried ground shrimp mixed with chili paste, Thai ginger, basil served with tamarind sauce with peanuts",
+      "simplified_description": "Fried shrimp cakes with spices, served with tamarind sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "5 pieces"
@@ -78,8 +78,8 @@
     {
       "name": "Spring Roll",
       "price": 12.95,
-      "description": "Ground chicken, vegetables, and vermicelli in spring roll paper served with sweet chili sauce.",
-      "simplified_description": "Spring rolls filled with chicken and vegetables, served with a sweet sauce.",
+      "description": "Ground chicken, vegetables, and vermicelli in spring roll paper served with sweet chili sauce",
+      "simplified_description": "Spring rolls filled with chicken and vegetables, served with a sweet sauce",
       "category": "Appetizers",
       "dietary_info": [],
       "other_info": "4 rolls"
@@ -87,8 +87,8 @@
     {
       "name": "Bang Bang Shrimp",
       "price": 18.95,
-      "description": "Thai style spicy salt & chili prawns served with shrimp crackers.",
-      "simplified_description": "Spicy shrimp served with crackers.",
+      "description": "Thai style spicy salt & chili prawns served with shrimp crackers",
+      "simplified_description": "Spicy shrimp served with crackers",
       "category": "Appetizers",
       "dietary_info": [
         "spicy"
@@ -98,8 +98,8 @@
     {
       "name": "Tom Yum Goong",
       "price": 8.95,
-      "description": "Thai creamy style hot and sour soup with prawns and mushrooms.",
-      "simplified_description": "Spicy and sour soup with prawns and mushrooms.",
+      "description": "Thai creamy style hot and sour soup with prawns and mushrooms",
+      "simplified_description": "Spicy and sour soup with prawns and mushrooms",
       "category": "Soups & Salads",
       "dietary_info": [],
       "other_info": ""
@@ -107,8 +107,8 @@
     {
       "name": "Tom Kha Gai",
       "price": 7.95,
-      "description": "Chicken and mushrooms in coconut milk with herbs and Thai ginger.",
-      "simplified_description": "Coconut soup with chicken and mushrooms.",
+      "description": "Chicken and mushrooms in coconut milk with herbs and Thai ginger",
+      "simplified_description": "Coconut soup with chicken and mushrooms",
       "category": "Soups & Salads",
       "dietary_info": [],
       "other_info": ""
@@ -116,8 +116,8 @@
     {
       "name": "Green Papaya Salad",
       "price": 18.5,
-      "description": "Green papaya, prawns, tomatoes, and green beans with lime and chili spice, topped with peanuts.",
-      "simplified_description": "Salad with green papaya, prawns, and a spicy lime dressing.",
+      "description": "Green papaya, prawns, tomatoes, and green beans with lime and chili spice, topped with peanuts",
+      "simplified_description": "Salad with green papaya, prawns, and a spicy lime dressing",
       "category": "Soups & Salads",
       "dietary_info": [
         "spicy"
@@ -127,8 +127,8 @@
     {
       "name": "Lava Pork",
       "price": 22.95,
-      "description": "Barbeque pork with herbs mixed with rice crumbs and spicy dressing.",
-      "simplified_description": "Grilled pork with herbs and a spicy sauce.",
+      "description": "Barbeque pork with herbs mixed with rice crumbs and spicy dressing",
+      "simplified_description": "Grilled pork with herbs and a spicy sauce",
       "category": "Soups & Salads",
       "dietary_info": [
         "spicy"
@@ -138,8 +138,8 @@
     {
       "name": "Crying Tiger",
       "price": 24.95,
-      "description": "Pan seared beef with rice crumbs, fresh herbs in chili lime dressing.",
-      "simplified_description": "Seared beef with herbs and a spicy lime dressing.",
+      "description": "Pan seared beef with rice crumbs, fresh herbs in chili lime dressing",
+      "simplified_description": "Seared beef with herbs and a spicy lime dressing",
       "category": "Soups & Salads",
       "dietary_info": [
         "spicy"
@@ -149,8 +149,8 @@
     {
       "name": "Jackie Chan",
       "price": 24.95,
-      "description": "Jackie Chan's favorite Thai style spicy beef salad.",
-      "simplified_description": "Spicy beef salad, a favorite of Jackie Chan.",
+      "description": "Jackie Chan's favorite Thai style spicy beef salad",
+      "simplified_description": "Spicy beef salad, a favorite of Jackie Chan",
       "category": "Soups & Salads",
       "dietary_info": [
         "spicy"
@@ -160,8 +160,8 @@
     {
       "name": "Cashew Chicken",
       "price": 22.95,
-      "description": "Crispy chicken or tofu glazed with sweet chili sauce, topped with cashew nuts.",
-      "simplified_description": "Crispy chicken or tofu with a sweet sauce and cashews.",
+      "description": "Crispy chicken or tofu glazed with sweet chili sauce, topped with cashew nuts",
+      "simplified_description": "Crispy chicken or tofu with a sweet sauce and cashews",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -169,8 +169,8 @@
     {
       "name": "Sa-On Omelette",
       "price": 21.95,
-      "description": "Thai style omelette with crab meat and ground shrimp.",
-      "simplified_description": "Omelette with crab and shrimp.",
+      "description": "Thai style omelette with crab meat and ground shrimp",
+      "simplified_description": "Omelette with crab and shrimp",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -178,8 +178,8 @@
     {
       "name": "Pandan Chicken",
       "price": 22.95,
-      "description": "Marinated chicken wrapped in pandan leaf, served with sweet chili sauce.",
-      "simplified_description": "Marinated chicken wrapped in a leaf, served with a sweet sauce.",
+      "description": "Marinated chicken wrapped in pandan leaf, served with sweet chili sauce",
+      "simplified_description": "Marinated chicken wrapped in a leaf, served with a sweet sauce",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -187,8 +187,8 @@
     {
       "name": "Ginger Pork",
       "price": 22.95,
-      "description": "Stir-fried pork with fresh ginger and vegetables in bean sauce.",
-      "simplified_description": "Stir-fried pork with ginger and vegetables.",
+      "description": "Stir-fried pork with fresh ginger and vegetables in bean sauce",
+      "simplified_description": "Stir-fried pork with ginger and vegetables",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -196,8 +196,8 @@
     {
       "name": "Red Bull",
       "price": 24.95,
-      "description": "Beef mixed with red chilies and turmeric.",
-      "simplified_description": "Beef cooked with red chilies and turmeric.",
+      "description": "Beef mixed with red chilies and turmeric",
+      "simplified_description": "Beef cooked with red chilies and turmeric",
       "category": "Entrees",
       "dietary_info": [
         "spicy"
@@ -207,8 +207,8 @@
     {
       "name": "Garlic and Pepper Prawns",
       "price": 31.95,
-      "description": "Lightly battered garlic and pepper prawns served on a bed of mixed vegetables.",
-      "simplified_description": "Battered prawns with garlic and pepper on vegetables.",
+      "description": "Lightly battered garlic and pepper prawns served on a bed of mixed vegetables",
+      "simplified_description": "Battered prawns with garlic and pepper on vegetables",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -216,8 +216,8 @@
     {
       "name": "Pad Kra Pow",
       "price": 21.95,
-      "description": "Spicy basil stir-fried in a garlic chili oil with bell peppers. Choice of ground chicken or pork. Thai's favorite. Add crispy fried egg +$5.00.",
-      "simplified_description": "Spicy stir-fried basil with chicken or pork, served with an option for a fried egg.",
+      "description": "Spicy basil stir-fried in a garlic chili oil with bell peppers. Choice of ground chicken or pork. Thai's favorite. Add crispy fried egg +$5.00",
+      "simplified_description": "Spicy stir-fried basil with chicken or pork, served with an option for a fried egg",
       "category": "Entrees",
       "dietary_info": [
         "spicy"
@@ -227,8 +227,8 @@
     {
       "name": "Mixed Vegetables",
       "price": 21.95,
-      "description": "Mixed vegetable stir fried with mushrooms or peanut sauce. Choice of chicken or tofu.",
-      "simplified_description": "Stir-fried mixed vegetables with an option for chicken or tofu.",
+      "description": "Mixed vegetable stir fried with mushrooms or peanut sauce. Choice of chicken or tofu",
+      "simplified_description": "Stir-fried mixed vegetables with an option for chicken or tofu",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -236,8 +236,8 @@
     {
       "name": "Drunken Prawns",
       "price": 31.95,
-      "description": "Crispy prawns stir-fried with eggplants, smoked chili sauce, and peanuts.",
-      "simplified_description": "Crispy prawns with eggplants and a smoky chili sauce.",
+      "description": "Crispy prawns stir-fried with eggplants, smoked chili sauce, and peanuts",
+      "simplified_description": "Crispy prawns with eggplants and a smoky chili sauce",
       "category": "Entrees",
       "dietary_info": [
         "spicy"
@@ -247,8 +247,8 @@
     {
       "name": "Chu Chi Basa",
       "price": 26.95,
-      "description": "Crispy basa fillet drizzled with rich red curry sauce on a bed of spinach.",
-      "simplified_description": "Crispy fish with a rich red curry sauce on spinach.",
+      "description": "Crispy basa fillet drizzled with rich red curry sauce on a bed of spinach",
+      "simplified_description": "Crispy fish with a rich red curry sauce on spinach",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -256,8 +256,8 @@
     {
       "name": "Pineapple Fish",
       "price": 25.95,
-      "description": "Crispy basa topped with sweet chili pineapple sauce and crispy basil.",
-      "simplified_description": "Crispy fish with a sweet pineapple sauce.",
+      "description": "Crispy basa topped with sweet chili pineapple sauce and crispy basil",
+      "simplified_description": "Crispy fish with a sweet pineapple sauce",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -265,8 +265,8 @@
     {
       "name": "Pla Sa-On",
       "price": 29.25,
-      "description": "Deep fried whole tilapia served with garlic chili lime dressing.",
-      "simplified_description": "Whole fried tilapia with a garlic and lime dressing.",
+      "description": "Deep fried whole tilapia served with garlic chili lime dressing",
+      "simplified_description": "Whole fried tilapia with a garlic and lime dressing",
       "category": "Entrees",
       "dietary_info": [],
       "other_info": ""
@@ -274,8 +274,8 @@
     {
       "name": "Green Curry",
       "price": 23.95,
-      "description": "Zucchini, broccoli, green beans & bell peppers.",
-      "simplified_description": "Curry with zucchini, broccoli, green beans, and bell peppers.",
+      "description": "Zucchini, broccoli, green beans & bell peppers",
+      "simplified_description": "Curry with zucchini, broccoli, green beans, and bell peppers",
       "category": "Thai Curries",
       "dietary_info": [],
       "other_info": ""
@@ -283,8 +283,8 @@
     {
       "name": "Red Curry",
       "price": 23.95,
-      "description": "Bamboo, bell peppers & zucchini.",
-      "simplified_description": "Curry with bamboo, bell peppers, and zucchini.",
+      "description": "Bamboo, bell peppers & zucchini",
+      "simplified_description": "Curry with bamboo, bell peppers, and zucchini",
       "category": "Thai Curries",
       "dietary_info": [],
       "other_info": ""
@@ -292,8 +292,8 @@
     {
       "name": "Yellow Curry",
       "price": 23.95,
-      "description": "Potatoes and pineapples.",
-      "simplified_description": "Curry with potatoes and pineapples.",
+      "description": "Potatoes and pineapples",
+      "simplified_description": "Curry with potatoes and pineapples",
       "category": "Thai Curries",
       "dietary_info": [],
       "other_info": ""
@@ -301,8 +301,8 @@
     {
       "name": "Masaman Curry",
       "price": 23.95,
-      "description": "Potatoes, onions, and peanuts.",
-      "simplified_description": "Curry with potatoes, onions, and peanuts.",
+      "description": "Potatoes, onions, and peanuts",
+      "simplified_description": "Curry with potatoes, onions, and peanuts",
       "category": "Thai Curries",
       "dietary_info": [],
       "other_info": ""
@@ -310,8 +310,8 @@
     {
       "name": "Panang Curry",
       "price": 23.95,
-      "description": "Spinach, peppers & peanuts.",
-      "simplified_description": "Curry with spinach, peppers, and peanuts.",
+      "description": "Spinach, peppers & peanuts",
+      "simplified_description": "Curry with spinach, peppers, and peanuts",
       "category": "Thai Curries",
       "dietary_info": [],
       "other_info": ""
@@ -319,8 +319,8 @@
     {
       "name": "Pad Thai",
       "price": 22.95,
-      "description": "Rice noodles stir-fried with chicken, prawns, tofu, egg, and chives in tamarind sauce. Topped with peanuts.",
-      "simplified_description": "Stir-fried rice noodles with chicken, prawns, tofu, and peanuts.",
+      "description": "Rice noodles stir-fried with chicken, prawns, tofu, egg, and chives in tamarind sauce. Topped with peanuts",
+      "simplified_description": "Stir-fried rice noodles with chicken, prawns, tofu, and peanuts",
       "category": "Noodles & Fried Rice",
       "dietary_info": [],
       "other_info": ""
@@ -328,8 +328,8 @@
     {
       "name": "Pad Se Ew",
       "price": 20.95,
-      "description": "Rice noodles stir-fried with chicken or pork with broccoli and egg in our house soy sauce.",
-      "simplified_description": "Stir-fried rice noodles with chicken or pork and broccoli.",
+      "description": "Rice noodles stir-fried with chicken or pork with broccoli and egg in our house soy sauce",
+      "simplified_description": "Stir-fried rice noodles with chicken or pork and broccoli",
       "category": "Noodles & Fried Rice",
       "dietary_info": [],
       "other_info": ""
@@ -337,8 +337,8 @@
     {
       "name": "Drunken Noodles",
       "price": 22.95,
-      "description": "Rice noodles and chicken stir fried in a smoked chili sauce with basil.",
-      "simplified_description": "Stir-fried rice noodles with chicken and a smoky chili sauce.",
+      "description": "Rice noodles and chicken stir fried in a smoked chili sauce with basil",
+      "simplified_description": "Stir-fried rice noodles with chicken and a smoky chili sauce",
       "category": "Noodles & Fried Rice",
       "dietary_info": [
         "spicy"
@@ -348,8 +348,8 @@
     {
       "name": "Noodle Delight",
       "price": 20.95,
-      "description": "Rice noodles stir fried with chicken and vegetables, topped with peanut sauce.",
-      "simplified_description": "Stir-fried rice noodles with chicken and vegetables, served with peanut sauce.",
+      "description": "Rice noodles stir fried with chicken and vegetables, topped with peanut sauce",
+      "simplified_description": "Stir-fried rice noodles with chicken and vegetables, served with peanut sauce",
       "category": "Noodles & Fried Rice",
       "dietary_info": [],
       "other_info": ""
@@ -357,8 +357,8 @@
     {
       "name": "House Special Fried Rice",
       "price": 23.95,
-      "description": "Fried rice with crab meat, shrimp, fish roe and egg served with chili fish sauce.",
-      "simplified_description": "Fried rice with crab, shrimp, and fish roe, served with a chili sauce.",
+      "description": "Fried rice with crab meat, shrimp, fish roe and egg served with chili fish sauce",
+      "simplified_description": "Fried rice with crab, shrimp, and fish roe, served with a chili sauce",
       "category": "Noodles & Fried Rice",
       "dietary_info": [],
       "other_info": ""
@@ -366,8 +366,8 @@
     {
       "name": "Original Pork Fried Rice",
       "price": 20.95,
-      "description": "Pork fried rice with broccoli and egg in our house soy sauce.",
-      "simplified_description": "Fried rice with pork and broccoli.",
+      "description": "Pork fried rice with broccoli and egg in our house soy sauce",
+      "simplified_description": "Fried rice with pork and broccoli",
       "category": "Noodles & Fried Rice",
       "dietary_info": [],
       "other_info": ""
@@ -375,8 +375,8 @@
     {
       "name": "Pineapple Chicken Fried Rice",
       "price": 20.95,
-      "description": "Chicken fried rice with curry powder, pineapples, and cashews.",
-      "simplified_description": "Fried rice with chicken, curry, pineapples, and cashews.",
+      "description": "Chicken fried rice with curry powder, pineapples, and cashews",
+      "simplified_description": "Fried rice with chicken, curry, pineapples, and cashews",
       "category": "Noodles & Fried Rice",
       "dietary_info": [],
       "other_info": ""
@@ -429,8 +429,8 @@
     {
       "name": "Sweet Sticky Rice with Mango",
       "price": 10.0,
-      "description": "Sweet sticky rice served with fresh mango, topped with coconut milk & cashew nut.",
-      "simplified_description": "Sweet rice with mango and coconut milk.",
+      "description": "Sweet sticky rice served with fresh mango, topped with coconut milk & cashew nut",
+      "simplified_description": "Sweet rice with mango and coconut milk",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -438,8 +438,8 @@
     {
       "name": "Roti with Condensed Milk",
       "price": 5.0,
-      "description": "Crispy roti topped with condensed milk.",
-      "simplified_description": "Crispy flatbread with sweet condensed milk.",
+      "description": "Crispy roti topped with condensed milk",
+      "simplified_description": "Crispy flatbread with sweet condensed milk",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -456,8 +456,8 @@
     {
       "name": "Roti-Banana",
       "price": 9.0,
-      "description": "Crispy roti topped with condensed milk and caramelized bananas.",
-      "simplified_description": "Crispy flatbread with bananas and condensed milk.",
+      "description": "Crispy roti topped with condensed milk and caramelized bananas",
+      "simplified_description": "Crispy flatbread with bananas and condensed milk",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -465,8 +465,8 @@
     {
       "name": "Banana Flambe with Coconut Ice Cream",
       "price": 12.95,
-      "description": "Caramelized bananas flambéed in Cointreau, served with coconut ice cream.",
-      "simplified_description": "Flambéed bananas with coconut ice cream.",
+      "description": "Caramelized bananas flambéed in Cointreau, served with coconut ice cream",
+      "simplified_description": "Flambéed bananas with coconut ice cream",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -475,7 +475,7 @@
       "name": "Traveling Thailand",
       "price": 29.95,
       "description": "First Course: Shrimp Cake, Green Papaya Salad & Pandan Chicken | Second Course: Masaman Curry Beef & Pineapple Chicken Fried Rice | Dessert: Coconut Ice Cream",
-      "simplified_description": "A meal with shrimp cake, salad, chicken, curry, fried rice, and dessert.",
+      "simplified_description": "A meal with shrimp cake, salad, chicken, curry, fried rice, and dessert",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -484,7 +484,7 @@
       "name": "Eating Bangkok",
       "price": 29.95,
       "description": "First Course: Chicken Satay, Money Bags & Tom Kha Gai | Second Course: Pad Thai with Drunken Prawns | Dessert: Coconut Ice Cream",
-      "simplified_description": "A meal with satay, dumplings, soup, pad thai, and dessert.",
+      "simplified_description": "A meal with satay, dumplings, soup, pad thai, and dessert",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -493,14 +493,14 @@
       "name": "White Lotus",
       "price": 29.95,
       "description": "First Course: Tofu Satay, Salad Roll & Spring Roll | Second Course: Tofu Basil Stir-fry or Green Curry Tofu & Coconut Rice | Dessert: Coconut Ice Cream",
-      "simplified_description": "A meal with tofu satay, rolls, stir-fry or curry, and dessert.",
+      "simplified_description": "A meal with tofu satay, rolls, stir-fry or curry, and dessert",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Gaja Barolo Dagromis, Peidmont, Italy, 2001",
-      "price": 318.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",
@@ -527,7 +527,7 @@
     },
     {
       "name": "Podere Poggio Scalette II Carbonaione Sangiovese, Tuscany, Italy, 2003",
-      "price": 238.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",
@@ -536,7 +536,7 @@
     },
     {
       "name": "Poggio Antico Brunello di Montalcino Altero Sangiovese, Tuscany, Italy, 2007",
-      "price": 298.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",
@@ -554,7 +554,7 @@
     },
     {
       "name": "Le Macchiole Paleo Rosso, Tuscany, Italy, 2004",
-      "price": 338.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",
@@ -563,7 +563,7 @@
     },
     {
       "name": "Tolaini Picconero Tenuta Montebello, Tuscany, Italy, 2004",
-      "price": 318.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",
@@ -572,7 +572,7 @@
     },
     {
       "name": "Luce della Vite Brunello di Montalcino Sangiovese, Tuscany, Italy, 2008",
-      "price": 378.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",
@@ -590,7 +590,7 @@
     },
     {
       "name": "Villa la Selva Felciaia Sangiovese, Tuscany, Italy, 1999",
-      "price": 207.0,
+      "price": null,
       "description": "",
       "simplified_description": "",
       "category": "Drinks",

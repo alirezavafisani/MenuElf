@@ -8,7 +8,7 @@
       "price": 31.0,
       "description": "Fried Rice served with: Beef / Chicken with Coleslaw",
       "category": "FOOD",
-      "simplified_description": "Fried rice with beef or chicken and coleslaw.",
+      "simplified_description": "Fried rice with beef or chicken and coleslaw",
       "dietary_info": [
         "nut-free"
       ],
@@ -19,7 +19,7 @@
       "price": 34.99,
       "description": "Fried Rice served with: Beef / Chicken with Coleslaw",
       "category": "FOOD",
-      "simplified_description": "Fried rice served with fish or goat meat and coleslaw.",
+      "simplified_description": "Fried rice served with fish or goat meat and coleslaw",
       "dietary_info": [
         "nut-free"
       ],
@@ -30,7 +30,7 @@
       "price": 33.8,
       "description": "Jollof Rice served with: Fish / Goat Mean with Coleslaw",
       "category": "FOOD",
-      "simplified_description": "Jollof rice with fish or goat meat and coleslaw.",
+      "simplified_description": "Jollof rice with fish or goat meat and coleslaw",
       "dietary_info": [
         "nut-free"
       ],
@@ -41,7 +41,7 @@
       "price": 31.0,
       "description": "Jollof Rice served with: Beef / Chicken with Coleslaw",
       "category": "FOOD",
-      "simplified_description": "Jollof rice with beef or chicken and coleslaw.",
+      "simplified_description": "Jollof rice with beef or chicken and coleslaw",
       "dietary_info": [
         "nut-free"
       ],
@@ -52,7 +52,7 @@
       "price": 28.75,
       "description": "Served with Stew Chicken or Beef",
       "category": "FOOD",
-      "simplified_description": "Plain white rice served with chicken or beef stew.",
+      "simplified_description": "Plain white rice served with chicken or beef stew",
       "dietary_info": [
         "nut-free"
       ],
@@ -63,7 +63,7 @@
       "price": 30.75,
       "description": "Select Choice of Soup: Onugbu/ Bitter Leaf Soup, Ogbono, Eforiro, Egusi, Okra 1 choice of Protein: Beef/Chicken",
       "category": "FOOD",
-      "simplified_description": "Garri or semo with choice of soup and beef or chicken.",
+      "simplified_description": "Garri or semo with choice of soup and beef or chicken",
       "dietary_info": [
         "nut-free"
       ],
@@ -74,7 +74,7 @@
       "price": 33.25,
       "description": "Select Choice of Soup: Onugbu/ Bitter Leaf Soup, Ogbono, Eforiro, Egusi, Okra 1 choice of Protein: Goat Meat/ Beef/ Fish",
       "category": "FOOD",
-      "simplified_description": "Poundo or oatmeal with choice of soup and meat or fish.",
+      "simplified_description": "Poundo or oatmeal with choice of soup and meat or fish",
       "dietary_info": [
         "nut-free"
       ],
@@ -85,7 +85,7 @@
       "price": 38.99,
       "description": "Garri or Semo served with any soup and Goat or Fish",
       "category": "FOOD",
-      "simplified_description": "Garri or semo served with soup and goat meat or fish.",
+      "simplified_description": "Garri or semo served with soup and goat meat or fish",
       "dietary_info": [
         "nut-free"
       ],
@@ -96,7 +96,7 @@
       "price": 26.55,
       "description": "Batter fried Tilapia Fish Fillet with choice of Rice- Jollof Rice or Fried Rice Served with Signature tartar sauce",
       "category": "FOOD",
-      "simplified_description": "Battered fried tilapia with jollof or fried rice and tartar sauce.",
+      "simplified_description": "Battered fried tilapia with jollof or fried rice and tartar sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -107,7 +107,7 @@
       "price": 23.55,
       "description": "Garri or Semo served with any soup and Goat or Fish",
       "category": "FOOD",
-      "simplified_description": "Garri or semo with soup and goat meat or fish.",
+      "simplified_description": "Garri or semo with soup and goat meat or fish",
       "dietary_info": [
         "nut-free"
       ],
@@ -118,7 +118,7 @@
       "price": 14.75,
       "description": "Wholesome Blend of Lentils, Zucchini, Onions & Bell Pepper infused with Coriander Seeds, Garlic, Ginger and Chilly",
       "category": "FOOD",
-      "simplified_description": "Vegan lentil stew with vegetables and spices.",
+      "simplified_description": "Vegan lentil stew with vegetables and spices",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -131,7 +131,7 @@
       "price": 35.25,
       "description": "Garri or Semo served with any soup and Goat or Fish",
       "category": "FOOD",
-      "simplified_description": "Grilled salmon served with rice or semo and soup.",
+      "simplified_description": "Grilled salmon served with rice or semo and soup",
       "dietary_info": [
         "nut-free"
       ],
@@ -142,7 +142,7 @@
       "price": 24.5,
       "description": "Crispy Fried Cod Fish and French Fries",
       "category": "FOOD",
-      "simplified_description": "Crispy fried cod fish with french fries.",
+      "simplified_description": "Crispy fried cod fish with french fries",
       "dietary_info": [
         "nut-free"
       ],
@@ -153,7 +153,7 @@
       "price": 45.0,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Grilled bole and croaker fish.",
+      "simplified_description": "Grilled bole and croaker fish",
       "dietary_info": [],
       "other_info": ""
     },
@@ -162,7 +162,7 @@
       "price": 45.0,
       "description": "Jumbo Whole Chicken Suya and Fries",
       "category": "FOOD",
-      "simplified_description": "Spicy grilled whole chicken suya served with fries.",
+      "simplified_description": "Spicy grilled whole chicken suya served with fries",
       "dietary_info": [
         "nut-free",
         "spicy"
@@ -174,7 +174,7 @@
       "price": 40.0,
       "description": "Jumbo Whole Chicken Suya no fries",
       "category": "FOOD",
-      "simplified_description": "Whole grilled chicken with suya seasoning, no fries included.",
+      "simplified_description": "Whole grilled chicken with suya seasoning, no fries included",
       "dietary_info": [
         "halal",
         "gluten-free",
@@ -187,7 +187,7 @@
       "price": 18.0,
       "description": "Popular African Street Food -Beef Skewers Marinated in special sauce & Grilled with Signature Suya Sauce. Possible Peanuts Allergies Warning",
       "category": "FOOD",
-      "simplified_description": "Grilled beef skewers marinated in spicy suya sauce.",
+      "simplified_description": "Grilled beef skewers marinated in spicy suya sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -199,7 +199,7 @@
       "price": 31.23,
       "description": "Grilled Tilapia Fish + Spicy Sauce",
       "category": "FOOD",
-      "simplified_description": "Grilled tilapia fish served with spicy sauce.",
+      "simplified_description": "Grilled tilapia fish served with spicy sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -213,7 +213,7 @@
       "price": 35.2,
       "description": "Grilled Fish + Spicy Sauce",
       "category": "FOOD",
-      "simplified_description": "Grilled fish served with spicy sauce.",
+      "simplified_description": "Grilled fish served with spicy sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -227,7 +227,7 @@
       "price": 34.99,
       "description": "Grill Wrapped Cat Fish in Pepper Sauce with yam fries or fries",
       "category": "FOOD",
-      "simplified_description": "Grilled catfish in pepper sauce served with yam or regular fries.",
+      "simplified_description": "Grilled catfish in pepper sauce served with yam or regular fries",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -237,9 +237,9 @@
     {
       "name": "Beef Suya-Double",
       "price": 30.0,
-      "description": "### Grilled beef in signature suya sauce",
+      "description": "Grilled beef in signature suya sauce",
       "category": "FOOD",
-      "simplified_description": "Double portion of grilled beef in signature suya sauce.",
+      "simplified_description": "Double portion of grilled beef in signature suya sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -251,7 +251,7 @@
       "price": 22.0,
       "description": "Grilled ram meat, marinated in suya sauce",
       "category": "FOOD",
-      "simplified_description": "Grilled ram meat marinated in spicy suya sauce.",
+      "simplified_description": "Grilled ram meat marinated in spicy suya sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -263,7 +263,7 @@
       "price": 38.0,
       "description": "Grilled ram meat, marinated in suya sauce",
       "category": "FOOD",
-      "simplified_description": "Double portion of grilled ram meat in suya sauce.",
+      "simplified_description": "Double portion of grilled ram meat in suya sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -275,7 +275,7 @@
       "price": 9.9,
       "description": null,
       "category": "FOOD",
-      "simplified_description": "Steamed bean pudding made from ground beans and spices.",
+      "simplified_description": "Steamed bean pudding made from ground beans and spices",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -289,7 +289,7 @@
       "price": 31.75,
       "description": "Peppered Beef in Sauce",
       "category": "FOOD",
-      "simplified_description": "Spicy peppered beef served in sauce.",
+      "simplified_description": "Spicy peppered beef served in sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -301,7 +301,7 @@
       "price": 30.0,
       "description": "Peppered Snail in Sauce",
       "category": "FOOD",
-      "simplified_description": "Spicy peppered snail served in sauce.",
+      "simplified_description": "Spicy peppered snail served in sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -313,7 +313,7 @@
       "price": 23.55,
       "description": "Popular African Street Food -Beef Skewers Marinated in special sauce & Grilled with Signature Suya Sauce. Possible Peanuts Allergies Warning",
       "category": "FOOD",
-      "simplified_description": "Spicy grilled beef gizzards with suya sauce.",
+      "simplified_description": "Spicy grilled beef gizzards with suya sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -325,7 +325,7 @@
       "price": 84.0,
       "description": "Peppered Goat Head in Sauce",
       "category": "FOOD",
-      "simplified_description": "Spicy peppered goat head served in sauce.",
+      "simplified_description": "Spicy peppered goat head served in sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -337,7 +337,7 @@
       "price": 34.99,
       "description": "Peppered Meat in sauce",
       "category": "FOOD",
-      "simplified_description": "Spicy peppered meat served in sauce.",
+      "simplified_description": "Spicy peppered meat served in sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -349,7 +349,7 @@
       "price": 32.0,
       "description": "Sauced Turkey Wings",
       "category": "FOOD",
-      "simplified_description": "Turkey wings served with spicy sauce.",
+      "simplified_description": "Turkey wings served with spicy sauce",
       "dietary_info": [
         "halal",
         "gluten-free"
@@ -361,7 +361,7 @@
       "price": 23.75,
       "description": "Sauced Turkey Wings",
       "category": "FOOD",
-      "simplified_description": "Turkey wings cooked in a flavorful sauce.",
+      "simplified_description": "Turkey wings cooked in a flavorful sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -375,7 +375,7 @@
       "price": 9.9,
       "description": "Caesar salad is a popular dish of romaine lettuce, croutons, Parmesan cheese, and a creamy dressinglad",
       "category": "SALAD",
-      "simplified_description": "Romaine lettuce with croutons, Parmesan, and creamy Caesar dressing.",
+      "simplified_description": "Romaine lettuce with croutons, Parmesan, and creamy Caesar dressing",
       "dietary_info": [
         "nut-free"
       ],
@@ -386,7 +386,7 @@
       "price": 31.75,
       "description": "Pear cooked in wine with spices & honey served on a pillow of Arugula with blue cheese",
       "category": "SALAD",
-      "simplified_description": "Arugula salad topped with spiced pear, honey, and blue cheese.",
+      "simplified_description": "Arugula salad topped with spiced pear, honey, and blue cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -397,7 +397,7 @@
       "price": 30.0,
       "description": "Salad leaves, cherry tomatoes, cucumber and bell pepper with olive oil",
       "category": "SALAD",
-      "simplified_description": "Mixed salad leaves and vegetables with olive oil dressing.",
+      "simplified_description": "Mixed salad leaves and vegetables with olive oil dressing",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -411,7 +411,7 @@
       "price": 23.55,
       "description": "Garri or Semo served with any soup and Goat or Fish",
       "category": "FOOD",
-      "simplified_description": "Chicken strips served with garri or semo and choice of soup.",
+      "simplified_description": "Chicken strips served with garri or semo and choice of soup",
       "dietary_info": [],
       "other_info": ""
     },
@@ -420,7 +420,7 @@
       "price": 84.0,
       "description": "Served with fries",
       "category": "FOOD",
-      "simplified_description": "Small burger served with fries for kids.",
+      "simplified_description": "Small burger served with fries for kids",
       "dietary_info": [],
       "other_info": ""
     },
@@ -429,7 +429,7 @@
       "price": 12.6,
       "description": "Layers of coffee soaked lady fingers and cream cheese with a coconut twist",
       "category": "DESSERT",
-      "simplified_description": "Coffee-soaked ladyfingers layered with cream cheese and coconut.",
+      "simplified_description": "Coffee-soaked ladyfingers layered with cream cheese and coconut",
       "dietary_info": [
         "nut-free"
       ],
@@ -440,7 +440,7 @@
       "price": 8.0,
       "description": "Caramelized fruits with french cream made from yolks of sugar and white wine",
       "category": "DESSERT",
-      "simplified_description": "Chocolate cake with caramelized fruits and French cream.",
+      "simplified_description": "Chocolate cake with caramelized fruits and French cream",
       "dietary_info": [
         "nut-free"
       ],
@@ -451,7 +451,7 @@
       "price": 12.75,
       "description": "Velvety and silky cheesecake perfectly cooked using the sous vide method",
       "category": "DESSERT",
-      "simplified_description": "Smooth lime-flavored cheesecake cooked sous vide.",
+      "simplified_description": "Smooth lime-flavored cheesecake cooked sous vide",
       "dietary_info": [
         "nut-free"
       ],
@@ -462,7 +462,7 @@
       "price": 5.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of chicken.",
+      "simplified_description": "Additional serving of chicken",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -476,7 +476,7 @@
       "price": 6.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of semo (fermented cassava).",
+      "simplified_description": "Additional serving of semo (fermented cassava)",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -491,7 +491,7 @@
       "price": 10.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Assorted vegetables grilled to perfection.",
+      "simplified_description": "Assorted vegetables grilled to perfection",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -506,7 +506,7 @@
       "price": 6.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of white rice.",
+      "simplified_description": "Additional serving of white rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -521,7 +521,7 @@
       "price": 9.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Rice stir-fried with vegetables and seasonings.",
+      "simplified_description": "Rice stir-fried with vegetables and seasonings",
       "dietary_info": [
         "nut-free"
       ],
@@ -532,7 +532,7 @@
       "price": 12.75,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of poundo yam.",
+      "simplified_description": "Additional serving of poundo yam",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -547,7 +547,7 @@
       "price": 10.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of goat meat.",
+      "simplified_description": "Additional serving of goat meat",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -561,7 +561,7 @@
       "price": 10.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of beef.",
+      "simplified_description": "Additional serving of beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -575,7 +575,7 @@
       "price": 9.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Spiced tomato rice cooked with peppers and onions.",
+      "simplified_description": "Spiced tomato rice cooked with peppers and onions",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -589,7 +589,7 @@
       "price": 7.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Fried potato fries or yam chips.",
+      "simplified_description": "Fried potato fries or yam chips",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -603,7 +603,7 @@
       "price": 12.55,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Cooked cow leg meat.",
+      "simplified_description": "Cooked cow leg meat",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -617,7 +617,7 @@
       "price": 7.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of fried plantains.",
+      "simplified_description": "Additional serving of fried plantains",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -631,7 +631,7 @@
       "price": 7.99,
       "description": null,
       "category": "SIDE",
-      "simplified_description": "Additional serving of fish.",
+      "simplified_description": "Additional serving of fish",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -645,7 +645,7 @@
       "price": 69.99,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Spicy pepper soup with whole catfish, served in a shared bowl.",
+      "simplified_description": "Spicy pepper soup with whole catfish, served in a shared bowl",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -657,10 +657,10 @@
     },
     {
       "name": "Bitter Leaf Soup + Beef-1/2 Tray",
-      "price": 250.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Half tray of bitter leaf soup with beef.",
+      "simplified_description": "Half tray of bitter leaf soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -671,10 +671,10 @@
     },
     {
       "name": "Bitter Leaf Soup + Beef -Tray",
-      "price": 450.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Full tray of bitter leaf soup with beef.",
+      "simplified_description": "Full tray of bitter leaf soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -685,10 +685,10 @@
     },
     {
       "name": "Eforiro Soup and Beef-1/2 Tray",
-      "price": 250.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Half tray of eforiro soup with beef.",
+      "simplified_description": "Half tray of eforiro soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -699,10 +699,10 @@
     },
     {
       "name": "Eforiro Soup + Beef -Tray",
-      "price": 420.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Full tray of eforiro soup with beef.",
+      "simplified_description": "Full tray of eforiro soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -716,7 +716,7 @@
       "price": 200.0,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Half tray of ogbono soup with beef.",
+      "simplified_description": "Half tray of ogbono soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -727,10 +727,10 @@
     },
     {
       "name": "Ogbono Soup + Beef - Tray",
-      "price": 380.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Full tray of ogbono soup with beef.",
+      "simplified_description": "Full tray of ogbono soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -741,10 +741,10 @@
     },
     {
       "name": "Afang Soup + Beef -1/2 Tray",
-      "price": 250.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Half tray of afang soup with beef.",
+      "simplified_description": "Half tray of afang soup with beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -755,10 +755,10 @@
     },
     {
       "name": "Afang Soup + Beef -Tray",
-      "price": 450.0,
+      "price": null,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Traditional Afang soup served with beef in a large tray.",
+      "simplified_description": "Traditional Afang soup served with beef in a large tray",
       "dietary_info": [],
       "other_info": ""
     },
@@ -767,7 +767,7 @@
       "price": 120.0,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Half tray of spicy, flavorful West African Jollof rice.",
+      "simplified_description": "Half tray of spicy, flavorful West African Jollof rice",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -779,7 +779,7 @@
       "price": 200.0,
       "description": null,
       "category": "OTHER",
-      "simplified_description": "Full tray of spicy, flavorful West African Jollof rice.",
+      "simplified_description": "Full tray of spicy, flavorful West African Jollof rice",
       "dietary_info": [
         "gluten-free",
         "nut-free"

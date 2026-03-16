@@ -15,9 +15,9 @@
     {
       "name": "ELOTE TACO SALAD (VEG)",
       "price": 20.0,
-      "description": "Mixed greens in a cilantro crema dressing with black beans, corn, cherry tomato, feta cheese, pickled red onions, and crushed nacho chips.",
+      "description": "Mixed greens in a cilantro crema dressing with black beans, corn, cherry tomato, feta cheese, pickled red onions, and crushed nacho chips",
       "category": "FOOD",
-      "simplified_description": "Mixed greens in a cilantro crema dressing with black beans, corn, cherry tomato,",
+      "simplified_description": "Mixed greens in a cilantro crema dressing with black beans, corn, cherry tomato",
       "dietary_info": [],
       "other_info": ""
     },
@@ -186,7 +186,7 @@
     {
       "name": "SMOKED MEATLOAF (GF)",
       "price": 22.0,
-      "description": "Smoked pork and fresh chuck, wrapped in our house cured bacon, coated in our whiskey wing BBQ sauce, topped with mornay, and served with spicy ketchup. Your choice of two fixins.",
+      "description": "Smoked pork and fresh chuck, wrapped in our house cured bacon, coated in our whiskey wing BBQ sauce, topped with mornay, and served with spicy ketchup. Your choice of two fixins",
       "category": "FOOD",
       "simplified_description": "Smoked pork and fresh chuck, wrapped in our house cured bacon, coated in our whi",
       "dietary_info": [],
@@ -195,7 +195,7 @@
     {
       "name": "MACARONI ‘N’ CHEESE",
       "price": 20.0,
-      "description": "Add pulled pork, brisket, sausage, smoked turkey, house smoked bacon, or jackfruit (+6) Please note: does not come with two fixins.",
+      "description": "Add pulled pork, brisket, sausage, smoked turkey, house smoked bacon, or jackfruit (+6) Please note: does not come with two fixins",
       "category": "FOOD",
       "simplified_description": "Add pulled pork, brisket, sausage, smoked turkey, house smoked bacon, or jackfru",
       "dietary_info": [],
@@ -204,7 +204,7 @@
     {
       "name": "COFFEE AND DOUGHNUTS",
       "price": 12.0,
-      "description": "Three “Stampede Style” mini donuts tossed in cinnamon sugar and served with French vanilla ice cream. Finished with a coffee caramel drizzle.",
+      "description": "Three “Stampede Style” mini donuts tossed in cinnamon sugar and served with French vanilla ice cream. Finished with a coffee caramel drizzle",
       "category": "DESSERT",
       "simplified_description": "Three “Stampede Style” mini donuts tossed in cinnamon sugar and served with Fren",
       "dietary_info": [],
@@ -213,18 +213,18 @@
     {
       "name": "BOURBON APPLE CRUMBLE",
       "price": 12.0,
-      "description": "Our bourbon apples with crunchy crumble and caramel drizzle. Served with French vanilla ice cream.",
+      "description": "Our bourbon apples with crunchy crumble and caramel drizzle. Served with French vanilla ice cream",
       "category": "DESSERT",
-      "simplified_description": "Our bourbon apples with crunchy crumble and caramel drizzle. Served with French ",
+      "simplified_description": "Our bourbon apples with crunchy crumble and caramel drizzle. Served with French",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "SMOKEHOUSE STRAWBERRY SHORTCAKE",
       "price": 12.0,
-      "description": "A light sponge cake stuffed with our house made lemon curd. Topped with whipped ream and smoked strawberry compote. Served with French vanilla ice cream.",
+      "description": "A light sponge cake stuffed with our house made lemon curd. Topped with whipped ream and smoked strawberry compote. Served with French vanilla ice cream",
       "category": "DESSERT",
-      "simplified_description": "A light sponge cake stuffed with our house made lemon curd. Topped with whipped ",
+      "simplified_description": "A light sponge cake stuffed with our house made lemon curd. Topped with whipped",
       "dietary_info": [],
       "other_info": ""
     }

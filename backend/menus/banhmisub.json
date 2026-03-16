@@ -588,7 +588,7 @@
     },
     {
       "name": "Banquet Platter",
-      "price": 415.75,
+      "price": null,
       "description": "Banquet Platter",
       "simplified_description": "Large platter for banquets",
       "category": "CATERING",
@@ -624,7 +624,7 @@
     },
     {
       "name": "Party Platter",
-      "price": 272.95,
+      "price": null,
       "description": "Party Platter",
       "simplified_description": "Platter for parties",
       "category": "CATERING",

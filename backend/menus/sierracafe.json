@@ -231,7 +231,7 @@
     {
       "name": "SIERRA BREAKFAST BURRITO",
       "price": 13.95,
-      "description": "Roasted chicken, scrambled eggs, cheddar and Havarti cheese, sour cream, pico de gallo, herbed oven roasted hash browns in a tortilla wrap.",
+      "description": "Roasted chicken, scrambled eggs, cheddar and Havarti cheese, sour cream, pico de gallo, herbed oven roasted hash browns in a tortilla wrap",
       "category": "FOOD",
       "simplified_description": "Roasted chicken, scrambled eggs, cheddar and Havarti cheese, sour cream, pico de",
       "dietary_info": [],
@@ -267,9 +267,9 @@
     {
       "name": "SMOKED SALMON BAGEL",
       "price": 16.25,
-      "description": "Fresh everything bagel, dill cream cheese, smoked salmon, pickled onion, capers and fresh dill.",
+      "description": "Fresh everything bagel, dill cream cheese, smoked salmon, pickled onion, capers and fresh dill",
       "category": "FOOD",
-      "simplified_description": "Fresh everything bagel, dill cream cheese, smoked salmon, pickled onion, capers ",
+      "simplified_description": "Fresh everything bagel, dill cream cheese, smoked salmon, pickled onion, capers",
       "dietary_info": [],
       "other_info": ""
     },
@@ -278,14 +278,14 @@
       "price": 15.95,
       "description": "Smoked Turkey, havarti cheese, alfalfa sprouts on fresh Italian sour dough with dijon Aioli. Can be prepared gluten friendly (+$1.00)",
       "category": "FOOD",
-      "simplified_description": "Smoked Turkey, havarti cheese, alfalfa sprouts on fresh Italian sour dough with ",
+      "simplified_description": "Smoked Turkey, havarti cheese, alfalfa sprouts on fresh Italian sour dough with",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BEEF DIP",
       "price": 17.25,
-      "description": "Slow cooked premium shaved beef, Swiss cheese, horseradish aioli, au jus, on a baked pretzel bun.",
+      "description": "Slow cooked premium shaved beef, Swiss cheese, horseradish aioli, au jus, on a baked pretzel bun",
       "category": "FOOD",
       "simplified_description": "Slow cooked premium shaved beef, Swiss cheese, horseradish aioli, au jus, on a b",
       "dietary_info": [],
@@ -303,16 +303,16 @@
     {
       "name": "SIERRA WRAP",
       "price": 14.95,
-      "description": "Tortilla, cranberry aioli, arugula, smoked turkey sliced, sliced salami, sliced capicola and cheddar cheese.",
+      "description": "Tortilla, cranberry aioli, arugula, smoked turkey sliced, sliced salami, sliced capicola and cheddar cheese",
       "category": "FOOD",
-      "simplified_description": "Tortilla, cranberry aioli, arugula, smoked turkey sliced, sliced salami, sliced ",
+      "simplified_description": "Tortilla, cranberry aioli, arugula, smoked turkey sliced, sliced salami, sliced",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "QUESADILLA",
       "price": 15.25,
-      "description": "Tortilla filled with spicy chicken, black beans, red and jalapeno peppers, mushrooms, pickled and green onions and cheddar cheese. Served hot with sides of pico, guacamole and sour cream.",
+      "description": "Tortilla filled with spicy chicken, black beans, red and jalapeno peppers, mushrooms, pickled and green onions and cheddar cheese. Served hot with sides of pico, guacamole and sour cream",
       "category": "FOOD",
       "simplified_description": "Tortilla filled with spicy chicken, black beans, red and jalapeno peppers, mushr",
       "dietary_info": [],
@@ -323,7 +323,7 @@
       "price": 11.5,
       "description": "Cheddar, havarti and brie panini grilled on fresh honey multigrain bread Can be prepared gluten friendly (+$1.50)",
       "category": "FOOD",
-      "simplified_description": "Cheddar, havarti and brie panini grilled on fresh honey multigrain bread Can be ",
+      "simplified_description": "Cheddar, havarti and brie panini grilled on fresh honey multigrain bread Can be",
       "dietary_info": [],
       "other_info": ""
     },
@@ -339,7 +339,7 @@
     {
       "name": "CAJUN CHICKEN WRAP",
       "price": 14.95,
-      "description": "Some like it hot! This spicy wrap will fill you up with Cajun pulled chicken, pico de gallo, spicy mayo and Romaine lettuce.",
+      "description": "Some like it hot! This spicy wrap will fill you up with Cajun pulled chicken, pico de gallo, spicy mayo and Romaine lettuce",
       "category": "FOOD",
       "simplified_description": "Some like it hot! This spicy wrap will fill you up with Cajun pulled chicken, pi",
       "dietary_info": [],
@@ -350,16 +350,16 @@
       "price": 14.5,
       "description": "Romaine Lettuce with roasted chicken, grape tomato, Havarti cheese, pickled egg, fresh avocado with Sierra house red wine vinaigrette. Gluten Friendly",
       "category": "FOOD",
-      "simplified_description": "Romaine Lettuce with roasted chicken, grape tomato, Havarti cheese, pickled egg,",
+      "simplified_description": "Romaine Lettuce with roasted chicken, grape tomato, Havarti cheese, pickled egg",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "SIERRA POWER BOWL",
       "price": 15.95,
-      "description": "Packed with protein, this bowl is healthy and delicious! Romaine lettuce, brown basmati rice, edemame, chickpeas, peppers, red onion and topped with peanuts. Spicy peanut dressing is served on the side.",
+      "description": "Packed with protein, this bowl is healthy and delicious! Romaine lettuce, brown basmati rice, edemame, chickpeas, peppers, red onion and topped with peanuts. Spicy peanut dressing is served on the side",
       "category": "FOOD",
-      "simplified_description": "Packed with protein, this bowl is healthy and delicious! Romaine lettuce, brown ",
+      "simplified_description": "Packed with protein, this bowl is healthy and delicious! Romaine lettuce, brown",
       "dietary_info": [],
       "other_info": ""
     },

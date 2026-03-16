@@ -8,7 +8,7 @@
       "price": 16.99,
       "description": "Thick gravy cooked with golden brown onions and whole spices",
       "category": "FOOD",
-      "simplified_description": "Chicken cooked in thick spiced onion gravy.",
+      "simplified_description": "Chicken cooked in thick spiced onion gravy",
       "dietary_info": [
         "halal"
       ],
@@ -19,7 +19,7 @@
       "price": 16.99,
       "description": "Goan-style fiery curry with chili peppers and tangy wine vinegar",
       "category": "FOOD",
-      "simplified_description": "Spicy Goan curry with chili and tangy vinegar.",
+      "simplified_description": "Spicy Goan curry with chili and tangy vinegar",
       "dietary_info": [
         "halal",
         "spicy"
@@ -31,7 +31,7 @@
       "price": 18.99,
       "description": "Goat meat cooked with potatoes, caramelized onions, and homemade garam masala",
       "category": "FOOD",
-      "simplified_description": "Goat meat and potatoes cooked with spices and onions.",
+      "simplified_description": "Goat meat and potatoes cooked with spices and onions",
       "dietary_info": [
         "halal"
       ],
@@ -42,7 +42,7 @@
       "price": 19.99,
       "description": "Baby crab cooked in rich brown onion masala with coastal spices",
       "category": "FOOD",
-      "simplified_description": "Baby crab cooked in rich onion and spice sauce.",
+      "simplified_description": "Baby crab cooked in rich onion and spice sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -51,7 +51,7 @@
       "price": 18.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Kadhi curry with fried pakodas served with rice.",
+      "simplified_description": "Kadhi curry with fried pakodas served with rice",
       "dietary_info": [
         "vegetarian",
         "gluten-free"
@@ -63,7 +63,7 @@
       "price": 19.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Fried bread and spiced potato curry with sweet yogurt dessert.",
+      "simplified_description": "Fried bread and spiced potato curry with sweet yogurt dessert",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -75,7 +75,7 @@
       "price": 18.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Spiced chickpea curry served with fried bread.",
+      "simplified_description": "Spiced chickpea curry served with fried bread",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -88,7 +88,7 @@
       "price": 17.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Red kidney beans curry served with rice.",
+      "simplified_description": "Red kidney beans curry served with rice",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -102,7 +102,7 @@
       "price": 16.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Three pieces of fried bread served with spiced potato curry.",
+      "simplified_description": "Three pieces of fried bread served with spiced potato curry",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -114,7 +114,7 @@
       "price": 15.99,
       "description": "Aromatic basmati rice layered with spiced vegetables, paneer, saffron-infused milk, and mint, slow-cooked for rich flavor",
       "category": "FOOD",
-      "simplified_description": "Spiced vegetable and paneer rice cooked with saffron and mint.",
+      "simplified_description": "Spiced vegetable and paneer rice cooked with saffron and mint",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -126,7 +126,7 @@
       "price": 16.99,
       "description": "Fragrant basmati rice layered with tender spiced chicken tikka, saffron, and fried onions",
       "category": "FOOD",
-      "simplified_description": "Spiced chicken tikka layered with saffron rice and fried onions.",
+      "simplified_description": "Spiced chicken tikka layered with saffron rice and fried onions",
       "dietary_info": [
         "halal"
       ],
@@ -137,7 +137,7 @@
       "price": 18.99,
       "description": "Slow-cooked baby goat meat marinated sous-vide, layered with saffron-flavored basmati rice",
       "category": "FOOD",
-      "simplified_description": "Slow-cooked baby goat meat with saffron basmati rice.",
+      "simplified_description": "Slow-cooked baby goat meat with saffron basmati rice",
       "dietary_info": [
         "halal"
       ],
@@ -148,7 +148,7 @@
       "price": 15.99,
       "description": "Crispy golden fried baby corn American style, Indo-Chinese spices with garlic dry",
       "category": "APPETIZER",
-      "simplified_description": "Crispy fried baby corn with Indo-Chinese garlic spices.",
+      "simplified_description": "Crispy fried baby corn with Indo-Chinese garlic spices",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -161,7 +161,7 @@
       "price": 15.99,
       "description": "Crispy mushrooms tossed with salt and cracked black pepper, Indo-Chinese spices dry",
       "category": "APPETIZER",
-      "simplified_description": "Crispy mushrooms seasoned with salt, pepper, and spices.",
+      "simplified_description": "Crispy mushrooms seasoned with salt, pepper, and spices",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -174,7 +174,7 @@
       "price": 16.99,
       "description": "Soft paneer cubes marinated in tandoori masalas and grilled",
       "category": "APPETIZER",
-      "simplified_description": "Grilled marinated paneer cubes with tandoori spices.",
+      "simplified_description": "Grilled marinated paneer cubes with tandoori spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -186,7 +186,7 @@
       "price": 16.99,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Spiced grilled paneer cubes with pickling spices.",
+      "simplified_description": "Spiced grilled paneer cubes with pickling spices",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -199,7 +199,7 @@
       "price": 17.99,
       "description": "Soft soya chaap chunks marinated and grilled in tandoori masala",
       "category": "APPETIZER",
-      "simplified_description": "Grilled marinated soya chunks in tandoori spices.",
+      "simplified_description": "Grilled marinated soya chunks in tandoori spices",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -212,7 +212,7 @@
       "price": 16.99,
       "description": "Paneer cubes marinated in our Malai masala",
       "category": "APPETIZER",
-      "simplified_description": "Paneer cubes marinated in creamy Malai spices.",
+      "simplified_description": "Paneer cubes marinated in creamy Malai spices",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -225,7 +225,7 @@
       "price": 16.9,
       "description": "Paneer cooked with creamy tomato onion masala",
       "category": "FOOD",
-      "simplified_description": "Paneer cooked in creamy tomato and onion sauce.",
+      "simplified_description": "Paneer cooked in creamy tomato and onion sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -238,7 +238,7 @@
       "price": 16.99,
       "description": "Paneer cooked with spinach and Indian spices",
       "category": "FOOD",
-      "simplified_description": "Paneer cooked with spinach and Indian spices.",
+      "simplified_description": "Paneer cooked with spinach and Indian spices",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -251,7 +251,7 @@
       "price": 14.99,
       "description": "Potatoes and cauliflower cooked with ginger and masala",
       "category": "FOOD",
-      "simplified_description": "Potatoes and cauliflower cooked with ginger and spices.",
+      "simplified_description": "Potatoes and cauliflower cooked with ginger and spices",
       "dietary_info": [
         "vegan",
         "nut-free",
@@ -265,7 +265,7 @@
       "price": 14.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Slow-cooked creamy lentil dish.",
+      "simplified_description": "Slow-cooked creamy lentil dish",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -278,7 +278,7 @@
       "price": 13.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Yellow lentils cooked with tempered spices.",
+      "simplified_description": "Yellow lentils cooked with tempered spices",
       "dietary_info": [
         "vegan",
         "nut-free",
@@ -292,7 +292,7 @@
       "price": 16.9,
       "description": "Rice and noodles mixed with Schezwan sauce, with your chosen protein expertly tossed in Indo-Chinese seasonings, crowned with a delightful egg",
       "category": "FOOD",
-      "simplified_description": "Rice and noodles with spicy Schezwan sauce and egg.",
+      "simplified_description": "Rice and noodles with spicy Schezwan sauce and egg",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -305,7 +305,7 @@
       "price": 14.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried noodles with vegetables and seasonings.",
+      "simplified_description": "Stir-fried noodles with vegetables and seasonings",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -317,7 +317,7 @@
       "price": 14.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Spicy stir-fried noodles with Schezwan sauce.",
+      "simplified_description": "Spicy stir-fried noodles with Schezwan sauce",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -330,7 +330,7 @@
       "price": 14.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried rice with vegetables and seasonings.",
+      "simplified_description": "Stir-fried rice with vegetables and seasonings",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -342,7 +342,7 @@
       "price": 14.9,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Spicy stir-fried rice with Schezwan sauce.",
+      "simplified_description": "Spicy stir-fried rice with Schezwan sauce",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -355,7 +355,7 @@
       "price": 15.99,
       "description": "Crispy fried paneer tossed in Indo-Chinese sauce",
       "category": "FOOD",
-      "simplified_description": "Crispy fried paneer in Indo-Chinese sauce.",
+      "simplified_description": "Crispy fried paneer in Indo-Chinese sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -368,7 +368,7 @@
       "price": 14.99,
       "description": "Cauliflower chunks tossed in Manchurian sauce",
       "category": "FOOD",
-      "simplified_description": "Cauliflower chunks in flavorful Manchurian sauce.",
+      "simplified_description": "Cauliflower chunks in flavorful Manchurian sauce",
       "dietary_info": [
         "vegan",
         "nut-free",
@@ -382,7 +382,7 @@
       "price": 16.99,
       "description": "Deep-fried chicken tossed in Indo-Chinese sauce with onion and pepper",
       "category": "FOOD",
-      "simplified_description": "Spicy deep-fried chicken with onion and pepper in Indo-Chinese sauce.",
+      "simplified_description": "Spicy deep-fried chicken with onion and pepper in Indo-Chinese sauce",
       "dietary_info": [
         "halal",
         "spicy"
@@ -394,7 +394,7 @@
       "price": 18.99,
       "description": "Schwan sauce, divine prawn, pepper",
       "category": "FOOD",
-      "simplified_description": "Tiger prawns cooked with Schwan sauce and pepper.",
+      "simplified_description": "Tiger prawns cooked with Schwan sauce and pepper",
       "dietary_info": [
         "halal"
       ],
@@ -405,7 +405,7 @@
       "price": 3.5,
       "description": "",
       "category": "BREADS",
-      "simplified_description": "Soft flatbread brushed with butter.",
+      "simplified_description": "Soft flatbread brushed with butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -417,7 +417,7 @@
       "price": 4.0,
       "description": "",
       "category": "BREADS",
-      "simplified_description": "Soft flatbread topped with garlic and baked.",
+      "simplified_description": "Soft flatbread topped with garlic and baked",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -429,7 +429,7 @@
       "price": 3.5,
       "description": "",
       "category": "BREADS",
-      "simplified_description": "Whole wheat flatbread baked in tandoor and brushed with butter.",
+      "simplified_description": "Whole wheat flatbread baked in tandoor and brushed with butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -441,7 +441,7 @@
       "price": 3.9,
       "description": "",
       "category": "BREADS",
-      "simplified_description": "Stuffed flatbread with spiced potato and onion filling.",
+      "simplified_description": "Stuffed flatbread with spiced potato and onion filling",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -453,7 +453,7 @@
       "price": 4.9,
       "description": "",
       "category": "BREADS",
-      "simplified_description": "Flatbread stuffed with Indian cottage cheese (paneer).",
+      "simplified_description": "Flatbread stuffed with Indian cottage cheese (paneer)",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -465,7 +465,7 @@
       "price": 5.99,
       "description": "",
       "category": "RICE",
-      "simplified_description": "Basmati rice cooked with cumin seeds.",
+      "simplified_description": "Basmati rice cooked with cumin seeds",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -479,7 +479,7 @@
       "price": 4.99,
       "description": "",
       "category": "RICE",
-      "simplified_description": "Plain steamed white basmati rice.",
+      "simplified_description": "Plain steamed white basmati rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -493,7 +493,7 @@
       "price": 5.99,
       "description": "",
       "category": "RICE",
-      "simplified_description": "Rice cooked with coconut and mild spices.",
+      "simplified_description": "Rice cooked with coconut and mild spices",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -507,7 +507,7 @@
       "price": 4.99,
       "description": "",
       "category": "RICE",
-      "simplified_description": "Rice flavored with saffron threads.",
+      "simplified_description": "Rice flavored with saffron threads",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -521,7 +521,7 @@
       "price": 8.99,
       "description": "",
       "category": "RICE",
-      "simplified_description": "Fried rice with chicken pieces and vegetables.",
+      "simplified_description": "Fried rice with chicken pieces and vegetables",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -533,7 +533,7 @@
       "price": 7.99,
       "description": "",
       "category": "RICE",
-      "simplified_description": "Fried rice with mixed vegetables.",
+      "simplified_description": "Fried rice with mixed vegetables",
       "dietary_info": [
         "vegan",
         "nut-free",
@@ -546,7 +546,7 @@
       "price": 13.99,
       "description": "Paneer tossed with homemade Indo-Spice masala wrapped in roti",
       "category": "KATHI ROLL SPECIAL",
-      "simplified_description": "Spicy paneer masala wrapped in flatbread.",
+      "simplified_description": "Spicy paneer masala wrapped in flatbread",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -559,7 +559,7 @@
       "price": 15.99,
       "description": "Chunks of tandoori chicken (halal) soaked in yoghurt and spices with fresh coriander seasoning, green chutney, tamarind chutney",
       "category": "KATHI ROLL SPECIAL",
-      "simplified_description": "Halal tandoori chicken with yogurt and chutneys wrapped in roti.",
+      "simplified_description": "Halal tandoori chicken with yogurt and chutneys wrapped in roti",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -571,7 +571,7 @@
       "price": 14.99,
       "description": "Indian street food wrap featuring spiced, grilled mushroom chunks rolled in soft flatbread with sliced onion, chutney, and chat masala",
       "category": "KATHI ROLL SPECIAL",
-      "simplified_description": "Spiced grilled mushroom wrap with onion, chutney, and chat masala in flatbread.",
+      "simplified_description": "Spiced grilled mushroom wrap with onion, chutney, and chat masala in flatbread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -592,7 +592,7 @@
       "price": 3.0,
       "description": "The Kesar, Elaichi, and Ginger Chai tea is a rich blend of black tea",
       "category": "DRINK",
-      "simplified_description": "Rich black tea blended with saffron, cardamom, and ginger spices.",
+      "simplified_description": "Rich black tea blended with saffron, cardamom, and ginger spices",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -678,7 +678,7 @@
       "price": 13.99,
       "description": "A sandwich packed with paneer seasoned with tangy and spicy taste",
       "category": "SANDWICHES",
-      "simplified_description": "Grilled sandwich filled with tangy and spicy paneer cheese.",
+      "simplified_description": "Grilled sandwich filled with tangy and spicy paneer cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -690,7 +690,7 @@
       "price": 12.99,
       "description": "A delicious combination of masala potato patty, bell pepper, red onions, tomatoes, chat masala, and green chutney",
       "category": "SANDWICHES",
-      "simplified_description": "Grilled sandwich with spiced potato patty and fresh vegetables.",
+      "simplified_description": "Grilled sandwich with spiced potato patty and fresh vegetables",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -702,7 +702,7 @@
       "price": 14.99,
       "description": "Sliced cucumber, onion, green pepper, tomato, and potato arranged in bread with mint chutney",
       "category": "SANDWICHES",
-      "simplified_description": "Sandwich with chicken tikka, vegetables, and mint chutney.",
+      "simplified_description": "Sandwich with chicken tikka, vegetables, and mint chutney",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -714,7 +714,7 @@
       "price": 11.9,
       "description": "Choice of Steam, Fried, or Schezwan style",
       "category": "MOMOS",
-      "simplified_description": "Eight steamed, fried, or spicy Schezwan-style vegetable dumplings.",
+      "simplified_description": "Eight steamed, fried, or spicy Schezwan-style vegetable dumplings",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -726,7 +726,7 @@
       "price": 13.9,
       "description": "Choice of Steam, Fried, or Schezwan style",
       "category": "MOMOS",
-      "simplified_description": "Eight chicken dumplings available steamed, fried, or spicy Schezwan style.",
+      "simplified_description": "Eight chicken dumplings available steamed, fried, or spicy Schezwan style",
       "dietary_info": [
         "halal",
         "spicy"
@@ -738,7 +738,7 @@
       "price": 11.99,
       "description": "Almond milk shake",
       "category": "DRINK",
-      "simplified_description": "A milkshake made with almond milk.",
+      "simplified_description": "A milkshake made with almond milk",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -750,7 +750,7 @@
       "price": 10.99,
       "description": "A desi mango lassi made with ice cream, mango pulp, and dry fruits, often served as a street food dessert",
       "category": "DRINK",
-      "simplified_description": "Mango lassi with ice cream and dry fruits, a popular street dessert drink.",
+      "simplified_description": "Mango lassi with ice cream and dry fruits, a popular street dessert drink",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -762,7 +762,7 @@
       "price": 9.99,
       "description": "Chef special non-alcoholic drink, vibrant citrusy cocktail, blue in color, with soda and lemonade",
       "category": "DRINK",
-      "simplified_description": "A blue, citrusy non-alcoholic cocktail with soda and lemonade.",
+      "simplified_description": "A blue, citrusy non-alcoholic cocktail with soda and lemonade",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -775,7 +775,7 @@
       "price": 3.99,
       "description": "Fanta, Coke, Limca, Sprite, Thums Up, Pepsi, Jarritos Mandarin, Jarritos Guava",
       "category": "DRINK",
-      "simplified_description": "Selection of popular soft drinks and Jarritos sodas.",
+      "simplified_description": "Selection of popular soft drinks and Jarritos sodas",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -788,7 +788,7 @@
       "price": 4.99,
       "description": "",
       "category": "DESSERT",
-      "simplified_description": "Sweet mango-flavored Indian dessert with soft cheese dumplings.",
+      "simplified_description": "Sweet mango-flavored Indian dessert with soft cheese dumplings",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -800,7 +800,7 @@
       "price": 3.99,
       "description": "",
       "category": "DESSERT",
-      "simplified_description": "Soft, sweet fried dough balls soaked in syrup.",
+      "simplified_description": "Soft, sweet fried dough balls soaked in syrup",
       "dietary_info": [
         "vegetarian",
         "nut-free"

@@ -6,9 +6,9 @@
     {
       "name": "Spicy Wrap",
       "price": 9.45,
-      "description": "Wraps - Crispy (Chicken Or Paneer ), Buffalo Sauce, Carrots, Lettuce, And Shredded Slaw.",
+      "description": "Wraps - Crispy (Chicken Or Paneer ), Buffalo Sauce, Carrots, Lettuce, And Shredded Slaw",
       "category": "OTHER",
-      "simplified_description": "Crispy chicken or paneer wrap with buffalo sauce, carrots, lettuce, and slaw.",
+      "simplified_description": "Crispy chicken or paneer wrap with buffalo sauce, carrots, lettuce, and slaw",
       "dietary_info": [
         "spicy"
       ],
@@ -19,7 +19,7 @@
       "price": 8.5,
       "description": "Wraps",
       "category": "OTHER",
-      "simplified_description": "Simple egg wrap.",
+      "simplified_description": "Simple egg wrap",
       "dietary_info": [],
       "other_info": ""
     },
@@ -28,7 +28,7 @@
       "price": 14.99,
       "description": "Gourmet Burgers - 2 Breaded Chicken Breast dipped in Tomato Cheese sauce, lettuce, Onions, and melted Cheese on it. Served with cheese Injection on top. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Double breaded chicken burger with tomato cheese sauce, lettuce, onions, and fries.",
+      "simplified_description": "Double breaded chicken burger with tomato cheese sauce, lettuce, onions, and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
@@ -37,7 +37,7 @@
       "price": 9.99,
       "description": "Gourmet Burgers - Chicken Shame kebab Patty, Onions, Green Chutney, Ketchup and folded egg omelette. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Chicken kebab burger with onions, chutney, ketchup, egg omelette, and fries.",
+      "simplified_description": "Chicken kebab burger with onions, chutney, ketchup, egg omelette, and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
@@ -46,7 +46,7 @@
       "price": 11.87,
       "description": "Gourmet Burgers - Chicken patty cooked in butter chicken sauce, Served on a potato bun with creamy slaw and pickles.. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Chicken patty in butter chicken sauce with slaw, pickles, on potato bun and fries.",
+      "simplified_description": "Chicken patty in butter chicken sauce with slaw, pickles, on potato bun and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
@@ -55,7 +55,7 @@
       "price": 9.76,
       "description": "Gourmet Burgers - Chopped Beef Patty, Lettuce, ketchup, Mayo and Cheese. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Chopped beef burger with lettuce, ketchup, mayo, cheese, and fries.",
+      "simplified_description": "Chopped beef burger with lettuce, ketchup, mayo, cheese, and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
@@ -64,7 +64,7 @@
       "price": 10.99,
       "description": "Gourmet Burgers - Chicken patty, lettuce, Mayo and Cheese. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Crispy chicken sandwich with lettuce, mayo, cheese, and fries.",
+      "simplified_description": "Crispy chicken sandwich with lettuce, mayo, cheese, and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
@@ -73,16 +73,16 @@
       "price": 12.99,
       "description": "Gourmet Burgers - Comes with freshly made noodles, Onions, Tomatoes, Cucumbers, Green Chutney and ketchup. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Burger with noodles, onions, tomatoes, cucumbers, chutney, ketchup, and fries.",
+      "simplified_description": "Burger with noodles, onions, tomatoes, cucumbers, chutney, ketchup, and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
     {
       "name": "Chicken Maharaja Kulcha Burger",
       "price": 14.99,
-      "description": "Gourmet Burgers - Comes in freshly baked Kulcha bun this Special loaded Burger comes with crispy chicken patty, Noodles, Lettuce, Onions, Tomatoes, Cucumbers, Tandoori sauce, Green Chutney and tamarind sauce. It comes with side of tandoori style Fries.",
+      "description": "Gourmet Burgers - Comes in freshly baked Kulcha bun this Special loaded Burger comes with crispy chicken patty, Noodles, Lettuce, Onions, Tomatoes, Cucumbers, Tandoori sauce, Green Chutney and tamarind sauce. It comes with side of tandoori style Fries",
       "category": "OTHER",
-      "simplified_description": "Loaded chicken burger with noodles, veggies, sauces on kulcha bun and tandoori fries.",
+      "simplified_description": "Loaded chicken burger with noodles, veggies, sauces on kulcha bun and tandoori fries",
       "dietary_info": [],
       "other_info": "Served with tandoori style fries"
     },
@@ -91,7 +91,7 @@
       "price": 9.99,
       "description": "Gourmet Burgers - Onions, cucumbers, tomatoes, ketchup and mint chutney. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Burger with onions, cucumbers, tomatoes, ketchup, mint chutney, and fries.",
+      "simplified_description": "Burger with onions, cucumbers, tomatoes, ketchup, mint chutney, and fries",
       "dietary_info": [],
       "other_info": "Served with fries"
     },
@@ -100,7 +100,7 @@
       "price": 9.99,
       "description": "Gourmet Burgers - Onions, cucumbers, tomatoes, ketchup and mint chutney. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Paneer burger with onions, cucumbers, tomatoes, ketchup, mint chutney, and fries.",
+      "simplified_description": "Paneer burger with onions, cucumbers, tomatoes, ketchup, mint chutney, and fries",
       "dietary_info": [
         "vegetarian"
       ],
@@ -111,7 +111,7 @@
       "price": 9.99,
       "description": "Gourmet Burgers - Onions, cucumbers, tomatoes, ketchup and mint chutney. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Aloo tikki burger with onions, cucumbers, tomatoes, ketchup, mint chutney, and fries.",
+      "simplified_description": "Aloo tikki burger with onions, cucumbers, tomatoes, ketchup, mint chutney, and fries",
       "dietary_info": [
         "vegetarian"
       ],
@@ -120,9 +120,9 @@
     {
       "name": "Veg Maharaja Kulcha Burger",
       "price": 12.99,
-      "description": "Gourmet Burgers - Comes in freshly baked Kulcha bun this Special loaded Burger comes with Alloo tikki patty, Noodles, Lettuce, Onions, Tomatoes, Cucumbers, Tandoori sauce, Green Chutney and tamarind sauce. It comes with side of tandoori style Fries.",
+      "description": "Gourmet Burgers - Comes in freshly baked Kulcha bun this Special loaded Burger comes with Alloo tikki patty, Noodles, Lettuce, Onions, Tomatoes, Cucumbers, Tandoori sauce, Green Chutney and tamarind sauce. It comes with side of tandoori style Fries",
       "category": "OTHER",
-      "simplified_description": "Loaded veg burger with aloo tikki, noodles, veggies, sauces on kulcha bun and fries.",
+      "simplified_description": "Loaded veg burger with aloo tikki, noodles, veggies, sauces on kulcha bun and fries",
       "dietary_info": [
         "vegetarian"
       ],
@@ -133,7 +133,7 @@
       "price": 12.68,
       "description": "Gourmet Burgers - Crispy Chicken patty dusted in Nashville dry rub spice, Creamy slaw, Pickles and Jalapenos. Comes with a side of small fries",
       "category": "OTHER",
-      "simplified_description": "Crispy chicken burger with Nashville spice, slaw, pickles, jalapenos, and fries.",
+      "simplified_description": "Crispy chicken burger with Nashville spice, slaw, pickles, jalapenos, and fries",
       "dietary_info": [
         "spicy"
       ],
@@ -144,7 +144,7 @@
       "price": 9.0,
       "description": "Desi Flavours",
       "category": "DRINK",
-      "simplified_description": "Cold coffee frappe drink.",
+      "simplified_description": "Cold coffee frappe drink",
       "dietary_info": [],
       "other_info": ""
     },
@@ -153,7 +153,7 @@
       "price": 9.0,
       "description": "Desi Flavours",
       "category": "DRINK",
-      "simplified_description": "A traditional rose-flavored Indian dessert drink.",
+      "simplified_description": "A traditional rose-flavored Indian dessert drink",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -165,7 +165,7 @@
       "price": 9.0,
       "description": "Desi Flavours",
       "category": "DRINK",
-      "simplified_description": "A sweet mango-flavored Indian dessert drink.",
+      "simplified_description": "A sweet mango-flavored Indian dessert drink",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -177,7 +177,7 @@
       "price": 9.0,
       "description": "Desi Flavours",
       "category": "DRINK",
-      "simplified_description": "A creamy shake flavored with traditional gulab jamun dessert.",
+      "simplified_description": "A creamy shake flavored with traditional gulab jamun dessert",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -189,7 +189,7 @@
       "price": 13.99,
       "description": "Bowls",
       "category": "OTHER",
-      "simplified_description": "Spiced chickpeas served with steamed rice.",
+      "simplified_description": "Spiced chickpeas served with steamed rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -201,9 +201,9 @@
     {
       "name": "Taco Bowl",
       "price": 12.99,
-      "description": "Bowls - Crispy Chik, Lettuce, Tomatoes, Onions, Cheese, Sour Cream , Guacamole And Salsa.",
+      "description": "Bowls - Crispy Chik, Lettuce, Tomatoes, Onions, Cheese, Sour Cream , Guacamole And Salsa",
       "category": "OTHER",
-      "simplified_description": "A bowl with crispy chicken, veggies, cheese, sour cream, guacamole, and salsa.",
+      "simplified_description": "A bowl with crispy chicken, veggies, cheese, sour cream, guacamole, and salsa",
       "dietary_info": [
         "nut-free"
       ],
@@ -212,9 +212,9 @@
     {
       "name": "Teriyaki Chicken Bowl",
       "price": 13.99,
-      "description": "Bowls - Grilled Chicken Cooked In Teriyaki Sauce Served On A Bed Of Basmati Rice With Sauted Broccoli And Seasame Seeds.",
+      "description": "Bowls - Grilled Chicken Cooked In Teriyaki Sauce Served On A Bed Of Basmati Rice With Sauted Broccoli And Seasame Seeds",
       "category": "OTHER",
-      "simplified_description": "Grilled teriyaki chicken with rice, broccoli, and sesame seeds.",
+      "simplified_description": "Grilled teriyaki chicken with rice, broccoli, and sesame seeds",
       "dietary_info": [
         "nut-free"
       ],
@@ -225,7 +225,7 @@
       "price": 13.99,
       "description": "Bowls - Breaded Chicken Served on Marinara Sauce with Melted Cheese, Sauted Broccoli, creamy slaw and Rice",
       "category": "OTHER",
-      "simplified_description": "Breaded chicken with marinara, melted cheese, broccoli, slaw, and rice.",
+      "simplified_description": "Breaded chicken with marinara, melted cheese, broccoli, slaw, and rice",
       "dietary_info": [
         "nut-free"
       ],
@@ -234,9 +234,9 @@
     {
       "name": "Paneer Makhni Bowl",
       "price": 12.99,
-      "description": "Bowls - Makhni paneer served with Basmati Rice, Green Chutney, Coleslaw and Onions.",
+      "description": "Bowls - Makhni paneer served with Basmati Rice, Green Chutney, Coleslaw and Onions",
       "category": "OTHER",
-      "simplified_description": "Paneer in makhni sauce served with rice, chutney, coleslaw, and onions.",
+      "simplified_description": "Paneer in makhni sauce served with rice, chutney, coleslaw, and onions",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -246,9 +246,9 @@
     {
       "name": "Monster Mash",
       "price": 14.99,
-      "description": "Bowls - Basmati Rice Topped with, Chopped Beef and Grill Chicken cooked in Gold Sauce, Broccoli and Peppers. Topped with Shredded cheese and Chipotle Sauce.",
+      "description": "Bowls - Basmati Rice Topped with, Chopped Beef and Grill Chicken cooked in Gold Sauce, Broccoli and Peppers. Topped with Shredded cheese and Chipotle Sauce",
       "category": "OTHER",
-      "simplified_description": "Rice bowl with beef, grilled chicken, broccoli, peppers, cheese, and chipotle sauce.",
+      "simplified_description": "Rice bowl with beef, grilled chicken, broccoli, peppers, cheese, and chipotle sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -257,9 +257,9 @@
     {
       "name": "Desi Loaded Fries",
       "price": 8.0,
-      "description": "Sides - Topped with Onions, Tomatoes, Green Chutney, Garlic sauce, Cheese Sauce and Chaat Masala.",
+      "description": "Sides - Topped with Onions, Tomatoes, Green Chutney, Garlic sauce, Cheese Sauce and Chaat Masala",
       "category": "SIDE",
-      "simplified_description": "Fries topped with onions, tomatoes, chutney, garlic, cheese sauce, and spices.",
+      "simplified_description": "Fries topped with onions, tomatoes, chutney, garlic, cheese sauce, and spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -271,7 +271,7 @@
       "price": 9.99,
       "description": "Sides - (Plain, Cheeser, Gold, Maple chili , Buffalo, Garlic)",
       "category": "SIDE",
-      "simplified_description": "Six chicken wings with various sauce options including spicy and savory flavors.",
+      "simplified_description": "Six chicken wings with various sauce options including spicy and savory flavors",
       "dietary_info": [
         "nut-free"
       ],
@@ -280,9 +280,9 @@
     {
       "name": "Crab Rangoons",
       "price": 9.99,
-      "description": "Sides - Crispy Wontons stuffed with Cream Cheese and Crab Mix.",
+      "description": "Sides - Crispy Wontons stuffed with Cream Cheese and Crab Mix",
       "category": "SIDE",
-      "simplified_description": "Crispy wontons filled with cream cheese and crab mixture.",
+      "simplified_description": "Crispy wontons filled with cream cheese and crab mixture",
       "dietary_info": [],
       "other_info": ""
     },
@@ -291,7 +291,7 @@
       "price": 9.99,
       "description": "Sides",
       "category": "SIDE",
-      "simplified_description": "Pastry pockets filled with shrimp.",
+      "simplified_description": "Pastry pockets filled with shrimp",
       "dietary_info": [],
       "other_info": ""
     },
@@ -300,7 +300,7 @@
       "price": 10.99,
       "description": "Sides",
       "category": "SIDE",
-      "simplified_description": "Tortilla chips topped with various toppings.",
+      "simplified_description": "Tortilla chips topped with various toppings",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -312,7 +312,7 @@
       "price": 5.0,
       "description": "Sides",
       "category": "SIDE",
-      "simplified_description": "Crispy fried roll filled with vegetables.",
+      "simplified_description": "Crispy fried roll filled with vegetables",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -324,7 +324,7 @@
       "price": 4.99,
       "description": "Sides",
       "category": "SIDE",
-      "simplified_description": "Classic fried potato fries.",
+      "simplified_description": "Classic fried potato fries",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -340,7 +340,7 @@
       "price": 9.0,
       "description": "Sides - Topped with shaved beef, Cheese sauce, Grill onions and Chipotle sauce",
       "category": "SIDE",
-      "simplified_description": "Fries topped with beef, cheese sauce, grilled onions, and chipotle sauce.",
+      "simplified_description": "Fries topped with beef, cheese sauce, grilled onions, and chipotle sauce",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -353,7 +353,7 @@
       "price": 10.95,
       "description": "Sides",
       "category": "SIDE",
-      "simplified_description": "Spiced potato patties served as a snack.",
+      "simplified_description": "Spiced potato patties served as a snack",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -365,9 +365,9 @@
     {
       "name": "Garlic Rancher",
       "price": 12.95,
-      "description": "Poutine - Canadian Poutine Topped with Grill Chicken and Garlic Ranch on top.",
+      "description": "Poutine - Canadian Poutine Topped with Grill Chicken and Garlic Ranch on top",
       "category": "OTHER",
-      "simplified_description": "Canadian poutine with grilled chicken and garlic ranch sauce.",
+      "simplified_description": "Canadian poutine with grilled chicken and garlic ranch sauce",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -380,7 +380,7 @@
       "price": 14.75,
       "description": "Poutine - Mexican Style poutine made with dices crispy Chicken , Salsa, Sour cream, Jalapenos",
       "category": "OTHER",
-      "simplified_description": "Mexican-style poutine with crispy chicken, salsa, sour cream, and jalapenos.",
+      "simplified_description": "Mexican-style poutine with crispy chicken, salsa, sour cream, and jalapenos",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -392,9 +392,9 @@
     {
       "name": "Cheese Steak Poutine",
       "price": 14.75,
-      "description": "Poutine - Fries, Cheese curds, Cheesesteak with Onions, Mushrooms, Peppers and Chipotle sauce.",
+      "description": "Poutine - Fries, Cheese curds, Cheesesteak with Onions, Mushrooms, Peppers and Chipotle sauce",
       "category": "OTHER",
-      "simplified_description": "Poutine with cheesesteak, onions, mushrooms, peppers, and chipotle sauce.",
+      "simplified_description": "Poutine with cheesesteak, onions, mushrooms, peppers, and chipotle sauce",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -406,9 +406,9 @@
     {
       "name": "Butter Chicken Poutine",
       "price": 14.5,
-      "description": "Poutine - Fries, Cheese curds, Creamy Butter chicken, Onions and Jalapenos.",
+      "description": "Poutine - Fries, Cheese curds, Creamy Butter chicken, Onions and Jalapenos",
       "category": "OTHER",
-      "simplified_description": "Poutine topped with creamy butter chicken, onions, and jalapenos.",
+      "simplified_description": "Poutine topped with creamy butter chicken, onions, and jalapenos",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -422,7 +422,7 @@
       "price": 8.99,
       "description": "Poutine - Fries, Cheese curds and Gravy",
       "category": "OTHER",
-      "simplified_description": "Classic Canadian poutine with fries, cheese curds, and gravy.",
+      "simplified_description": "Classic Canadian poutine with fries, cheese curds, and gravy",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -436,7 +436,7 @@
       "price": 8.99,
       "description": "Kids Combo - Comes with 2 chicken Strips, Small Fries and a pop",
       "category": "OTHER",
-      "simplified_description": "Kids meal with chicken strips, fries, and a drink.",
+      "simplified_description": "Kids meal with chicken strips, fries, and a drink",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -449,7 +449,7 @@
       "price": 8.99,
       "description": "Kids Combo - Grill Cheese, fries and à pop",
       "category": "OTHER",
-      "simplified_description": "Kids meal with grilled cheese sandwich, fries, and a drink.",
+      "simplified_description": "Kids meal with grilled cheese sandwich, fries, and a drink",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -463,7 +463,7 @@
       "price": 5.99,
       "description": "Beverages",
       "category": "DRINK",
-      "simplified_description": "Lemonade flavored with Indian spices.",
+      "simplified_description": "Lemonade flavored with Indian spices",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -479,7 +479,7 @@
       "price": 1.99,
       "description": "Beverages",
       "category": "DRINK",
-      "simplified_description": "Strong Indian spiced tea with milk.",
+      "simplified_description": "Strong Indian spiced tea with milk",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -493,7 +493,7 @@
       "price": 3.99,
       "description": "Beverages",
       "category": "DRINK",
-      "simplified_description": "Warm chocolate drink made with milk.",
+      "simplified_description": "Warm chocolate drink made with milk",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -507,7 +507,7 @@
       "price": 2.99,
       "description": "Beverages",
       "category": "DRINK",
-      "simplified_description": "Indian style brewed coffee with milk.",
+      "simplified_description": "Indian style brewed coffee with milk",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -521,7 +521,7 @@
       "price": 8.99,
       "description": "Premium Milkshakes",
       "category": "DRINK",
-      "simplified_description": "Milkshake made with Nutella chocolate hazelnut spread.",
+      "simplified_description": "Milkshake made with Nutella chocolate hazelnut spread",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -534,7 +534,7 @@
       "price": 8.99,
       "description": "Premium Milkshakes",
       "category": "DRINK",
-      "simplified_description": "A creamy mango-flavored milkshake.",
+      "simplified_description": "A creamy mango-flavored milkshake",
       "dietary_info": [],
       "other_info": ""
     },
@@ -543,7 +543,7 @@
       "price": 8.99,
       "description": "Premium Milkshakes",
       "category": "DRINK",
-      "simplified_description": "A rich caramel-flavored milkshake.",
+      "simplified_description": "A rich caramel-flavored milkshake",
       "dietary_info": [],
       "other_info": ""
     },
@@ -552,7 +552,7 @@
       "price": 8.99,
       "description": "Premium Milkshakes",
       "category": "DRINK",
-      "simplified_description": "A creamy banana-flavored milkshake.",
+      "simplified_description": "A creamy banana-flavored milkshake",
       "dietary_info": [],
       "other_info": ""
     },
@@ -561,7 +561,7 @@
       "price": 8.99,
       "description": "Premium Milkshakes",
       "category": "DRINK",
-      "simplified_description": "A creamy strawberry-flavored milkshake.",
+      "simplified_description": "A creamy strawberry-flavored milkshake",
       "dietary_info": [],
       "other_info": ""
     },
@@ -570,7 +570,7 @@
       "price": 8.99,
       "description": "Premium Milkshakes",
       "category": "DRINK",
-      "simplified_description": "A classic vanilla-flavored milkshake.",
+      "simplified_description": "A classic vanilla-flavored milkshake",
       "dietary_info": [],
       "other_info": ""
     }

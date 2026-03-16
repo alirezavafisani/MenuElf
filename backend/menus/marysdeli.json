@@ -303,45 +303,45 @@
     {
       "name": "Ham & Swiss Cheese Basil Pesto w/ Fries & Soup",
       "price": 11.99,
-      "description": "** Soups : Chicken Noodle & Corn Chowder **",
+      "description": "Soups : Chicken Noodle & Corn Chowder",
       "category": "FOOD",
-      "simplified_description": "** Soups : Chicken Noodle & Corn Chowder **",
+      "simplified_description": "Soups : Chicken Noodle & Corn Chowder",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Beef Bulgogi Quesadillas w/ Fries",
       "price": 11.99,
-      "description": "** Soups : Chicken Noodle & Cheddar Broccoli **",
+      "description": "Soups : Chicken Noodle & Cheddar Broccoli",
       "category": "FOOD",
-      "simplified_description": "** Soups : Chicken Noodle & Cheddar Broccoli **",
+      "simplified_description": "Soups : Chicken Noodle & Cheddar Broccoli",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Spicy Chicken Burger w/ Fries & Gravy",
       "price": 11.99,
-      "description": "** Soups : Chicken Noodle & Beef Barley **",
+      "description": "Soups : Chicken Noodle & Beef Barley",
       "category": "FOOD",
-      "simplified_description": "** Soups : Chicken Noodle & Beef Barley **",
+      "simplified_description": "Soups : Chicken Noodle & Beef Barley",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pizza Sub w/ Fries",
       "price": 11.99,
-      "description": "** Soups : Chicken Noodle & Cream of Mushroom **",
+      "description": "Soups : Chicken Noodle & Cream of Mushroom",
       "category": "FOOD",
-      "simplified_description": "** Soups : Chicken Noodle & Cream of Mushroom **",
+      "simplified_description": "Soups : Chicken Noodle & Cream of Mushroom",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Cheesy Grilled Garlic Chicken Wrap w/ Fries & Gravy",
       "price": 11.99,
-      "description": "** Soups : Chicken Noodle & Ham & Potato **",
+      "description": "Soups : Chicken Noodle & Ham & Potato",
       "category": "FOOD",
-      "simplified_description": "** Soups : Chicken Noodle & Ham & Potato **",
+      "simplified_description": "Soups : Chicken Noodle & Ham & Potato",
       "dietary_info": [],
       "other_info": ""
     },
@@ -393,7 +393,7 @@
     {
       "name": "Goodie Tray",
       "price": 4.75,
-      "description": "a delightful assortment of deserts including nanaimo bars, brownies and fancy squares.",
+      "description": "a delightful assortment of deserts including nanaimo bars, brownies and fancy squares",
       "category": "OTHER",
       "simplified_description": "a delightful assortment of deserts including nanaimo bars, brownies and fancy sq",
       "dietary_info": [],
@@ -402,16 +402,16 @@
     {
       "name": "Roast Beef Dinner",
       "price": 18.95,
-      "description": "served with Mashed Potato & Gravy, Mixed Roasted Veggies and Dinner bun.",
+      "description": "served with Mashed Potato & Gravy, Mixed Roasted Veggies and Dinner bun",
       "category": "OTHER",
-      "simplified_description": "served with Mashed Potato & Gravy, Mixed Roasted Veggies and Dinner bun.",
+      "simplified_description": "served with Mashed Potato & Gravy, Mixed Roasted Veggies and Dinner bun",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Turkey Dinner",
       "price": 16.95,
-      "description": "served with Mashed Potato & Gravy, Stuffing, Mixed Roasted Veggies and Dinner bun.",
+      "description": "served with Mashed Potato & Gravy, Stuffing, Mixed Roasted Veggies and Dinner bun",
       "category": "OTHER",
       "simplified_description": "served with Mashed Potato & Gravy, Stuffing, Mixed Roasted Veggies and Dinner bu",
       "dietary_info": [],
@@ -420,9 +420,9 @@
     {
       "name": "Korean Fried Boneless Chicken",
       "price": 10.49,
-      "description": "Crispy and Juicy Korean style fried chicken.",
+      "description": "Crispy and Juicy Korean style fried chicken",
       "category": "OTHER",
-      "simplified_description": "Crispy and Juicy Korean style fried chicken.",
+      "simplified_description": "Crispy and Juicy Korean style fried chicken",
       "dietary_info": [],
       "other_info": ""
     },
@@ -438,9 +438,9 @@
     {
       "name": "Creamy Garlic Chicken",
       "price": 13.99,
-      "description": "Juicy creamy garlic chicken made from chicken , served with bun and fresh salad.",
+      "description": "Juicy creamy garlic chicken made from chicken , served with bun and fresh salad",
       "category": "OTHER",
-      "simplified_description": "Juicy creamy garlic chicken made from chicken , served with bun and fresh salad.",
+      "simplified_description": "Juicy creamy garlic chicken made from chicken , served with bun and fresh salad",
       "dietary_info": [],
       "other_info": ""
     },

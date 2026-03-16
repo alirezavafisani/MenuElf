@@ -6,9 +6,9 @@
     {
       "name": "Edamame",
       "price": 5.0,
-      "description": "* * *",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -276,7 +276,7 @@
     {
       "name": "Imperial Set for 2",
       "price": 159.0,
-      "description": "Japanese Miyasaki wagyu, Scallop and Lobster tail. *Extra 5oz Japanese Wagyu only $79*",
+      "description": "Japanese Miyasaki wagyu, Scallop and Lobster tail. Extra 5oz Japanese Wagyu only $79",
       "category": "FOOD",
       "simplified_description": "Japanese Miyasaki wagyu, Scallop and Lobster tail. *Extra 5oz Japanese Wagyu onl",
       "dietary_info": [],
@@ -285,9 +285,9 @@
     {
       "name": "Wagyu Beef Fried Rice",
       "price": 25.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -303,63 +303,63 @@
     {
       "name": "Garlic Egg Fried Rice",
       "price": 4.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Steam Rice",
       "price": 2.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Teriyaki Beef",
       "price": 19.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Teriyaki Chicken",
       "price": 19.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Hibachi Shrimp",
       "price": 19.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Teriyaki Salmon",
       "price": 19.0,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Ice Cream",
       "price": 3.0,
-      "description": "* * *",
+      "description": null,
       "category": "DESSERT",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     }

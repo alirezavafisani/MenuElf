@@ -6,7 +6,7 @@
     {
       "name": "Charbroiled Pork Chop",
       "price": 14.0,
-      "description": "Tender pork chop marinated in lemongrass and garlic, charbroiled to perfection for a smoky, savory delight.",
+      "description": "Tender pork chop marinated in lemongrass and garlic, charbroiled to perfection for a smoky, savory delight",
       "category": "FOOD",
       "simplified_description": "Tender pork chop marinated in lemongrass and garlic, charbroiled to perfection f",
       "dietary_info": [],
@@ -15,7 +15,7 @@
     {
       "name": "Chicken Confit on Fried Rice",
       "price": 16.0,
-      "description": "Slow-cooked chicken confit with crispy skin, served atop our flavorful house-made fried rice.",
+      "description": "Slow-cooked chicken confit with crispy skin, served atop our flavorful house-made fried rice",
       "category": "FOOD",
       "simplified_description": "Slow-cooked chicken confit with crispy skin, served atop our flavorful house-mad",
       "dietary_info": [],
@@ -24,7 +24,7 @@
     {
       "name": "Chicken Noodle Soup",
       "price": 13.5,
-      "description": "A comforting bowl of aromatic broth filled with rice noodles, tender chicken pieces, and fresh herbs.",
+      "description": "A comforting bowl of aromatic broth filled with rice noodles, tender chicken pieces, and fresh herbs",
       "category": "FOOD",
       "simplified_description": "A comforting bowl of aromatic broth filled with rice noodles, tender chicken pie",
       "dietary_info": [],
@@ -222,7 +222,7 @@
     {
       "name": "Trio Fried Rolls (Chả Giò Ba Vị)",
       "price": 12.0,
-      "description": "Appetizers (Khai Vị) - Try all of our flavors! Pork, Pork Coconut, and Chicken and Shrimp.",
+      "description": "Appetizers (Khai Vị) - Try all of our flavors! Pork, Pork Coconut, and Chicken and Shrimp",
       "category": "APPETIZER",
       "simplified_description": "Appetizers (Khai Vị) - Try all of our flavors! Pork, Pork Coconut, and Chicken a",
       "dietary_info": [],
@@ -258,9 +258,9 @@
     {
       "name": "Special Vermicelli Bowl",
       "price": 15.5,
-      "description": "Vermicelli Bowl (Bún) - Comes with beef, pork, and chicken.",
+      "description": "Vermicelli Bowl (Bún) - Comes with beef, pork, and chicken",
       "category": "FOOD",
-      "simplified_description": "Vermicelli Bowl (Bún) - Comes with beef, pork, and chicken.",
+      "simplified_description": "Vermicelli Bowl (Bún) - Comes with beef, pork, and chicken",
       "dietary_info": [],
       "other_info": ""
     },

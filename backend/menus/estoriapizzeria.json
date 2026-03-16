@@ -6,27 +6,27 @@
     {
       "name": "10\"",
       "price": 28.95,
-      "description": "* * *",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "12\"",
       "price": 32.95,
-      "description": "* * *",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "14\"",
       "price": 36.95,
-      "description": "* * *",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 28.95,
       "description": "Mac & Cheese sauce, ham, bacon, hot maple, cheese",
       "category": "FOOD",
-      "simplified_description": "Mac and cheese sauce with ham, bacon, hot maple, and cheese.",
+      "simplified_description": "Mac and cheese sauce with ham, bacon, hot maple, and cheese",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -44,7 +44,7 @@
       "price": 28.95,
       "description": "Alfredo Sauce, Mushrooms, Ham, Bacon, Tomatoes, Feta Cheese, Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with Alfredo sauce, mushrooms, ham, bacon, tomatoes, and cheeses.",
+      "simplified_description": "Pizza with Alfredo sauce, mushrooms, ham, bacon, tomatoes, and cheeses",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,7 +53,7 @@
       "price": 28.95,
       "description": "Alfredo Sauce, Pepperoni, Ham, Salami, Sausage, Jalapenos, Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Alfredo sauce pizza with pepperoni, ham, salami, sausage, jalapenos, and cheese.",
+      "simplified_description": "Alfredo sauce pizza with pepperoni, ham, salami, sausage, jalapenos, and cheese",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -62,7 +62,7 @@
       "price": 28.95,
       "description": "Alfredo Sauce, Garlic Flakes, Parmesan, Shrimp, Crab, Spinach, Bacon, Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Alfredo sauce pizza with garlic, seafood, spinach, bacon, and cheeses.",
+      "simplified_description": "Alfredo sauce pizza with garlic, seafood, spinach, bacon, and cheeses",
       "dietary_info": [],
       "other_info": ""
     },
@@ -71,7 +71,7 @@
       "price": 28.95,
       "description": "Alfredo Sauce, Mushrooms, Spinach, Chicken, Feta, Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Alfredo sauce pizza with mushrooms, spinach, chicken, and cheeses.",
+      "simplified_description": "Alfredo sauce pizza with mushrooms, spinach, chicken, and cheeses",
       "dietary_info": [],
       "other_info": ""
     },
@@ -80,7 +80,7 @@
       "price": 12.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Classic pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Classic pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -92,7 +92,7 @@
       "price": 12.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -104,7 +104,7 @@
       "price": 12.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -115,7 +115,7 @@
       "price": 12.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -126,7 +126,7 @@
       "price": 12.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -137,7 +137,7 @@
       "price": 12.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -148,7 +148,7 @@
       "price": 13.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with tomato sauce and mozzarella cheese.",
+      "simplified_description": "Pizza with tomato sauce and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -159,7 +159,7 @@
       "price": 13.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with ham, mushrooms, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Pizza with ham, mushrooms, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -170,7 +170,7 @@
       "price": 13.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with beef, onions, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Pizza topped with beef, onions, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -181,7 +181,7 @@
       "price": 13.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with pepperoni, mushrooms, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Pizza with pepperoni, mushrooms, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -192,7 +192,7 @@
       "price": 13.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with beef, mushrooms, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Pizza topped with beef, mushrooms, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -203,7 +203,7 @@
       "price": 14.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with pepperoni, mushrooms, green peppers, tomato sauce, and cheese.",
+      "simplified_description": "Pizza with pepperoni, mushrooms, green peppers, tomato sauce, and cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -212,9 +212,9 @@
     {
       "name": "13. SALAMI, MUSHROOM & GREEN PEPPER",
       "price": 14.5,
-      "description": "* * *",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -223,7 +223,7 @@
       "price": 14.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with pepperoni, ham, mushrooms, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Pizza with pepperoni, ham, mushrooms, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -234,7 +234,7 @@
       "price": 14.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with ham, pineapple, mushrooms, tomato sauce, and cheese.",
+      "simplified_description": "Pizza topped with ham, pineapple, mushrooms, tomato sauce, and cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -245,7 +245,7 @@
       "price": 15.5,
       "description": "Mushrooms, Green Peppers, Tomatoes, Onions, Olives, Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Vegetarian pizza with various vegetables, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Vegetarian pizza with various vegetables, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -257,7 +257,7 @@
       "price": 15.5,
       "description": "Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza with salami, bacon, mushrooms, onions, tomato sauce, and cheese.",
+      "simplified_description": "Pizza with salami, bacon, mushrooms, onions, tomato sauce, and cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -268,7 +268,7 @@
       "price": 15.5,
       "description": "Pepperoni, Ham, Salami, Ground Beef, Bacon, Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Meat lover's pizza with various meats, tomato sauce, and mozzarella cheese.",
+      "simplified_description": "Meat lover's pizza with various meats, tomato sauce, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -279,7 +279,7 @@
       "price": 28.5,
       "description": "Mushrooms, Ham, Pepperoni, Bacon, Salami, Tomatoes, Onions, Green Peppers, Pineapple, Olives, Tomato Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Loaded pizza with meats, vegetables, pineapple, tomato sauce, and cheese.",
+      "simplified_description": "Loaded pizza with meats, vegetables, pineapple, tomato sauce, and cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -290,7 +290,7 @@
       "price": 11.0,
       "description": "Fresh Romaine Lettuce, Croutons, Sprinkle of Parmesan Cheese, Caesar Dressing",
       "category": "FOOD",
-      "simplified_description": "Salad with romaine, croutons, parmesan, and Caesar dressing.",
+      "simplified_description": "Salad with romaine, croutons, parmesan, and Caesar dressing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -302,7 +302,7 @@
       "price": 14.5,
       "description": "Fresh Lettuce, Tomatoes, Cucumber, Green Peppers, Red Onion, Olives, Feta Cheese, and Greek Dressing",
       "category": "FOOD",
-      "simplified_description": "Salad with fresh vegetables, olives, feta cheese, and Greek dressing.",
+      "simplified_description": "Salad with fresh vegetables, olives, feta cheese, and Greek dressing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -314,7 +314,7 @@
       "price": 8.5,
       "description": "Baked with our own Meat Sauce and Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Baked pasta with meat sauce and mozzarella cheese.",
+      "simplified_description": "Baked pasta with meat sauce and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -325,7 +325,7 @@
       "price": 8.5,
       "description": "Baked with our own Meat Sauce and Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pasta baked with meat sauce and mozzarella cheese.",
+      "simplified_description": "Pasta baked with meat sauce and mozzarella cheese",
       "dietary_info": [],
       "other_info": ""
     },
@@ -334,7 +334,7 @@
       "price": 8.5,
       "description": "Baked with our own Meat Sauce and Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Spaghetti baked with meat sauce and mozzarella cheese.",
+      "simplified_description": "Spaghetti baked with meat sauce and mozzarella cheese",
       "dietary_info": [],
       "other_info": ""
     },
@@ -343,7 +343,7 @@
       "price": 8.5,
       "description": "Baked with our house made Alfredo Sauce and Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Fettuccini baked with creamy Alfredo sauce and mozzarella cheese.",
+      "simplified_description": "Fettuccini baked with creamy Alfredo sauce and mozzarella cheese",
       "dietary_info": [
         "vegetarian"
       ],
@@ -354,7 +354,7 @@
       "price": 8.5,
       "description": "Cavatappi Pasta baked with our own Cheese Sauce!",
       "category": "FOOD",
-      "simplified_description": "Pasta baked with creamy cheese sauce.",
+      "simplified_description": "Pasta baked with creamy cheese sauce",
       "dietary_info": [
         "vegetarian"
       ],
@@ -365,7 +365,7 @@
       "price": 6.95,
       "description": "made in house with our very own Greek recipe",
       "category": "DESSERT",
-      "simplified_description": "Traditional Greek layered pastry dessert.",
+      "simplified_description": "Traditional Greek layered pastry dessert",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -375,9 +375,9 @@
     {
       "name": "Brownie Addiction",
       "price": 6.95,
-      "description": "* * *",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "Rich chocolate brownie dessert.",
+      "simplified_description": "Rich chocolate brownie dessert",
       "dietary_info": [],
       "other_info": ""
     },
@@ -386,7 +386,7 @@
       "price": 5.95,
       "description": "Yeah!....Those Stampede ones!",
       "category": "DESSERT",
-      "simplified_description": "Small classic doughnuts.",
+      "simplified_description": "Small classic doughnuts",
       "dietary_info": [
         "vegetarian"
       ],
@@ -395,9 +395,9 @@
     {
       "name": "Strawberry Cheesecake",
       "price": 6.95,
-      "description": "Crowned With Real Strawberry Topping and Sliced Strawberries for a Bright, Luscious Finish.",
+      "description": "Crowned With Real Strawberry Topping and Sliced Strawberries for a Bright, Luscious Finish",
       "category": "DESSERT",
-      "simplified_description": "Creamy cheesecake topped with fresh strawberries.",
+      "simplified_description": "Creamy cheesecake topped with fresh strawberries",
       "dietary_info": [
         "vegetarian"
       ],
@@ -408,7 +408,7 @@
       "price": 2.0,
       "description": "Coke, Diet Coke, Coke Zero, Sprite, Ginger Ale, Root Beer, Dr Pepper, Assorted Bubly Sparkling Water",
       "category": "DRINK",
-      "simplified_description": "Variety of canned soft drinks and sparkling water.",
+      "simplified_description": "Variety of canned soft drinks and sparkling water",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -421,7 +421,7 @@
       "price": 5.0,
       "description": "Coke, Diet Coke, Coke Zero, Sprite, Ginger Ale, Root Beer, Dr Pepper, Fanta Orange",
       "category": "DRINK",
-      "simplified_description": "Variety of 2L soft drinks.",
+      "simplified_description": "Variety of 2L soft drinks",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -432,9 +432,9 @@
     {
       "name": "Bottle of Water",
       "price": 2.0,
-      "description": "* * *",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "Bottled water.",
+      "simplified_description": "Bottled water",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -448,7 +448,7 @@
       "price": 4.0,
       "description": "Lemon, Peach, Raspberry, Green Tea",
       "category": "DRINK",
-      "simplified_description": "Variety of flavored iced teas.",
+      "simplified_description": "Variety of flavored iced teas",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -462,7 +462,7 @@
       "price": 3.0,
       "description": "Orange, Pineapple or Strawberry",
       "category": "DRINK",
-      "simplified_description": "Fanta soda in orange, pineapple, or strawberry flavors.",
+      "simplified_description": "Fanta soda in orange, pineapple, or strawberry flavors",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -475,7 +475,7 @@
       "price": 8.5,
       "description": "Cavatappi Pasta baked with our own Cheese Sauce!",
       "category": "FOOD",
-      "simplified_description": "Pasta baked with creamy cheese sauce.",
+      "simplified_description": "Pasta baked with creamy cheese sauce",
       "dietary_info": [
         "vegetarian"
       ],
@@ -486,7 +486,7 @@
       "price": 9.0,
       "description": "3pc with your choice of plum or honey garlic sauce",
       "category": "FOOD",
-      "simplified_description": "Three chicken tenders with plum or honey garlic sauce.",
+      "simplified_description": "Three chicken tenders with plum or honey garlic sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -495,7 +495,7 @@
       "price": 5.95,
       "description": "Pick up only - 11am - 1pm on weekdays - Choose from: PEPPERONI, HAM AND PINEAPPLE, BEEF & ONIONS",
       "category": "FOOD",
-      "simplified_description": "Pick up a pizza slice with pepperoni, ham and pineapple, or beef and onions.",
+      "simplified_description": "Pick up a pizza slice with pepperoni, ham and pineapple, or beef and onions",
       "dietary_info": [],
       "other_info": "Pick up only - 11am - 1pm on weekdays"
     }

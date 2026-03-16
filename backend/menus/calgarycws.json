@@ -6,9 +6,9 @@
     {
       "name": "Veg Specialities",
       "price": 19.89,
-      "description": "Mushrooms, Green peppers, onions, Kala olives, spinach, Tomato, & cheese.",
+      "description": "Mushrooms, Green peppers, onions, Kala olives, spinach, Tomato, & cheese",
       "category": "FOOD",
-      "simplified_description": "Mixed vegetables and cheese pizza with mushrooms, olives, and spinach.",
+      "simplified_description": "Mixed vegetables and cheese pizza with mushrooms, olives, and spinach",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -20,7 +20,7 @@
       "price": 15.89,
       "description": "Onions, Banana Peppers, Jalapenos, Pineapples, Green Peppers, Pizza Sauce & Mozzarella Cheese",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with peppers, pineapple, onions, jalapenos, and mozzarella cheese.",
+      "simplified_description": "Pizza topped with peppers, pineapple, onions, jalapenos, and mozzarella cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -31,9 +31,9 @@
     {
       "name": "FIVE-CHEESE PIZZA",
       "price": 16.89,
-      "description": "mozzarella edam blend, topped with feta, cheddar & parmesan.",
+      "description": "mozzarella edam blend, topped with feta, cheddar & parmesan",
       "category": "FOOD",
-      "simplified_description": "Pizza with a blend of five different cheeses.",
+      "simplified_description": "Pizza with a blend of five different cheeses",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -43,9 +43,9 @@
     {
       "name": "BUTTER PANEER PIZZA",
       "price": 14.89,
-      "description": "Our creamy butter sauce mixed with our signature tomato sauce, Mushrooms, red onions, green peppers, banana peppers, our mozzarella and Adam mix, topped with cheddar.",
+      "description": "Our creamy butter sauce mixed with our signature tomato sauce, Mushrooms, red onions, green peppers, banana peppers, our mozzarella and Adam mix, topped with cheddar",
       "category": "FOOD",
-      "simplified_description": "Pizza with creamy butter sauce, vegetables, and mixed cheeses.",
+      "simplified_description": "Pizza with creamy butter sauce, vegetables, and mixed cheeses",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -57,7 +57,7 @@
       "price": 14.89,
       "description": "Loaded with sweet corn and melted cheese on a perfectly baked crust",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with sweet corn and melted cheese.",
+      "simplified_description": "Pizza topped with sweet corn and melted cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -67,9 +67,9 @@
     {
       "name": "Garlic Dough Balls",
       "price": 8.99,
-      "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Parmesan seasoning and served with marinara.",
+      "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Parmesan seasoning and served with marinara",
       "category": "FOOD",
-      "simplified_description": "Garlic butter dough balls with cheese and Parmesan, served with marinara.",
+      "simplified_description": "Garlic butter dough balls with cheese and Parmesan, served with marinara",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -81,7 +81,7 @@
       "price": 9.99,
       "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Toss baked doughballs in basil pesto and grated parmesan",
       "category": "FOOD",
-      "simplified_description": "Garlic butter dough balls tossed in basil pesto and Parmesan cheese.",
+      "simplified_description": "Garlic butter dough balls tossed in basil pesto and Parmesan cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -93,7 +93,7 @@
       "price": 9.99,
       "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Light buffalo sauce glaze + ranch drizzle",
       "category": "FOOD",
-      "simplified_description": "Garlic butter dough balls with buffalo sauce and ranch drizzle.",
+      "simplified_description": "Garlic butter dough balls with buffalo sauce and ranch drizzle",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -104,9 +104,9 @@
     {
       "name": "Spicy Jalapeño Garlic Dough Balls",
       "price": 9.99,
-      "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Sliced jalapeños inside.",
+      "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Sliced jalapeños inside",
       "category": "FOOD",
-      "simplified_description": "Garlic butter dough balls with cheese and sliced jalapeños inside.",
+      "simplified_description": "Garlic butter dough balls with cheese and sliced jalapeños inside",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -119,7 +119,7 @@
       "price": 9.99,
       "description": "Thin dough rolled with the spread of garlic butter, a slight spread of cheese topped inside presented with Crumbled bacon and mozzarella/cheddar combo",
       "category": "FOOD",
-      "simplified_description": "Garlic butter dough balls filled with cheese and crumbled bacon.",
+      "simplified_description": "Garlic butter dough balls filled with cheese and crumbled bacon",
       "dietary_info": [
         "nut-free"
       ],
@@ -130,16 +130,16 @@
       "price": 9.99,
       "description": "Chocolate-hazelnut filling Dust with powdered sugar",
       "category": "FOOD",
-      "simplified_description": "Dough balls stuffed with chocolate-hazelnut spread and powdered sugar.",
+      "simplified_description": "Dough balls stuffed with chocolate-hazelnut spread and powdered sugar",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Cinnamon Dough Balls",
       "price": 8.99,
-      "description": "A thin dough rolled with cinnamon sauce inside cut in bite-sized balls coated with butter and served with our homemade cinnamon sauce.",
+      "description": "A thin dough rolled with cinnamon sauce inside cut in bite-sized balls coated with butter and served with our homemade cinnamon sauce",
       "category": "FOOD",
-      "simplified_description": "Bite-sized dough balls filled with cinnamon sauce and coated with butter.",
+      "simplified_description": "Bite-sized dough balls filled with cinnamon sauce and coated with butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -149,9 +149,9 @@
     {
       "name": "Wings (1 lb)",
       "price": 14.99,
-      "description": "Seasoned to perfection before being oven-baked & coated with your choice of sauce. Served with a side of ranch.",
+      "description": "Seasoned to perfection before being oven-baked & coated with your choice of sauce. Served with a side of ranch",
       "category": "FOOD",
-      "simplified_description": "Oven-baked chicken wings with your choice of sauce and ranch side.",
+      "simplified_description": "Oven-baked chicken wings with your choice of sauce and ranch side",
       "dietary_info": [
         "gluten-free",
         "nut-free",
@@ -164,7 +164,7 @@
       "price": 13.99,
       "description": "Sauced or dry-rubbed, any flavour., Served with a side of Ranch",
       "category": "FOOD",
-      "simplified_description": "Boneless chicken wings with sauce or dry rub, served with ranch.",
+      "simplified_description": "Boneless chicken wings with sauce or dry rub, served with ranch",
       "dietary_info": [
         "gluten-free",
         "nut-free",
@@ -177,7 +177,7 @@
       "price": 14.99,
       "description": "Wings bursting with zesty citrus and bold pepper flavor, cooked crisp for a perfect savory bite every time",
       "category": "FOOD",
-      "simplified_description": "Crispy wings with zesty lemon and bold pepper flavor.",
+      "simplified_description": "Crispy wings with zesty lemon and bold pepper flavor",
       "dietary_info": [
         "gluten-free",
         "nut-free",
@@ -188,9 +188,9 @@
     {
       "name": "Peri Peri Wings",
       "price": 14.99,
-      "description": "Seasoned to perfection before being oven-baked & coated with your choice of sauce. Choose from Honey Garlic, Bulls Eye® BBQ, Buffalo, Teriyaki, Sweet Chili, Hot or our House special Wing Sauce. Hot or our House special Wing Sauce.",
+      "description": "Seasoned to perfection before being oven-baked & coated with your choice of sauce. Choose from Honey Garlic, Bulls Eye® BBQ, Buffalo, Teriyaki, Sweet Chili, Hot or our House special Wing Sauce. Hot or our House special Wing Sauce",
       "category": "FOOD",
-      "simplified_description": "Oven-baked wings with a choice of flavorful sauces.",
+      "simplified_description": "Oven-baked wings with a choice of flavorful sauces",
       "dietary_info": [],
       "other_info": "Sauce options include spicy choices"
     },
@@ -199,7 +199,7 @@
       "price": 13.99,
       "description": "Wings cooked crisp with bright citrus, bold spice, tender bites offering clean, flavorful satisfaction",
       "category": "FOOD",
-      "simplified_description": "Crispy boneless wings with lemon pepper seasoning.",
+      "simplified_description": "Crispy boneless wings with lemon pepper seasoning",
       "dietary_info": [],
       "other_info": ""
     },
@@ -208,7 +208,7 @@
       "price": 13.99,
       "description": "Wings bursting with spicy, tangy flavor, delivering tender, crisp bites that bring bold heat in every mouthful",
       "category": "FOOD",
-      "simplified_description": "Spicy boneless wings with tangy peri peri flavor.",
+      "simplified_description": "Spicy boneless wings with tangy peri peri flavor",
       "dietary_info": [
         "spicy"
       ],
@@ -217,9 +217,9 @@
     {
       "name": "Classic Three-Cheese Calzone",
       "price": 13.89,
-      "description": "A rich blend of melted mozzarella, cheddar, and sharp parmesan sealed in golden dough, finished with Italian herbs.",
+      "description": "A rich blend of melted mozzarella, cheddar, and sharp parmesan sealed in golden dough, finished with Italian herbs",
       "category": "FOOD",
-      "simplified_description": "Calzone filled with mozzarella, cheddar, and parmesan cheeses.",
+      "simplified_description": "Calzone filled with mozzarella, cheddar, and parmesan cheeses",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -229,9 +229,9 @@
     {
       "name": "Meat Lovers Calzone",
       "price": 15.89,
-      "description": "Packed with smoky bacon, pepperoni, and sausage, this hearty calzone is a dream for meat lovers, loaded with melted mozzarella.",
+      "description": "Packed with smoky bacon, pepperoni, and sausage, this hearty calzone is a dream for meat lovers, loaded with melted mozzarella",
       "category": "FOOD",
-      "simplified_description": "Calzone stuffed with bacon, pepperoni, sausage, and mozzarella.",
+      "simplified_description": "Calzone stuffed with bacon, pepperoni, sausage, and mozzarella",
       "dietary_info": [
         "nut-free"
       ],
@@ -240,9 +240,9 @@
     {
       "name": "Garden Veggie Calzone",
       "price": 15.89,
-      "description": "Fresh veggies with tangy feta and melty mozzarella, folded in our golden crust – a wholesome, flavorful veggie delight.",
+      "description": "Fresh veggies with tangy feta and melty mozzarella, folded in our golden crust – a wholesome, flavorful veggie delight",
       "category": "FOOD",
-      "simplified_description": "Calzone with fresh vegetables, feta, and mozzarella cheese.",
+      "simplified_description": "Calzone with fresh vegetables, feta, and mozzarella cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -252,9 +252,9 @@
     {
       "name": "Buffalo Chicken Calzone",
       "price": 15.89,
-      "description": "Spicy buffalo chicken, sweet onions, and gooey cheese wrapped in a crispy crust, with a creamy ranch kick to cool the heat.",
+      "description": "Spicy buffalo chicken, sweet onions, and gooey cheese wrapped in a crispy crust, with a creamy ranch kick to cool the heat",
       "category": "FOOD",
-      "simplified_description": "Calzone with spicy buffalo chicken, onions, cheese, and ranch.",
+      "simplified_description": "Calzone with spicy buffalo chicken, onions, cheese, and ranch",
       "dietary_info": [
         "nut-free",
         "spicy"
@@ -264,9 +264,9 @@
     {
       "name": "Italian Supreme Calzone",
       "price": 15.89,
-      "description": "A bold Italian combo of savory pepperoni, crisp peppers, and briny olives, sealed with melty mozzarella in a golden crust.",
+      "description": "A bold Italian combo of savory pepperoni, crisp peppers, and briny olives, sealed with melty mozzarella in a golden crust",
       "category": "FOOD",
-      "simplified_description": "Calzone with pepperoni, peppers, olives, and mozzarella cheese.",
+      "simplified_description": "Calzone with pepperoni, peppers, olives, and mozzarella cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -275,9 +275,9 @@
     {
       "name": "Spicy BBQ Chicken Calzone",
       "price": 15.89,
-      "description": "Smoky BBQ chicken with jalapeño heat, sweet onions, and a cheesy duo for the perfect balance of sweet, spicy, and savory.",
+      "description": "Smoky BBQ chicken with jalapeño heat, sweet onions, and a cheesy duo for the perfect balance of sweet, spicy, and savory",
       "category": "FOOD",
-      "simplified_description": "Calzone with BBQ chicken, jalapeño, onions, and cheese.",
+      "simplified_description": "Calzone with BBQ chicken, jalapeño, onions, and cheese",
       "dietary_info": [
         "spicy",
         "nut-free"
@@ -287,9 +287,9 @@
     {
       "name": "Chicken Alfredo Calzone",
       "price": 15.89,
-      "description": "Creamy Alfredo, tender chicken, and Fresh spinach baked inside a crispy crust — comfort food with an Italian soul.",
+      "description": "Creamy Alfredo, tender chicken, and Fresh spinach baked inside a crispy crust — comfort food with an Italian soul",
       "category": "FOOD",
-      "simplified_description": "Calzone filled with chicken, Alfredo sauce, and spinach.",
+      "simplified_description": "Calzone filled with chicken, Alfredo sauce, and spinach",
       "dietary_info": [
         "nut-free"
       ],
@@ -298,9 +298,9 @@
     {
       "name": "Bacon Cheeseburger Calzone",
       "price": 15.89,
-      "description": "All the flavors of a classic cheeseburger wrapped in pizza dough – smoky bacon, juicy beef, and melty cheddar.",
+      "description": "All the flavors of a classic cheeseburger wrapped in pizza dough – smoky bacon, juicy beef, and melty cheddar",
       "category": "FOOD",
-      "simplified_description": "Calzone with bacon, beef, and cheddar cheese flavors.",
+      "simplified_description": "Calzone with bacon, beef, and cheddar cheese flavors",
       "dietary_info": [
         "nut-free"
       ],
@@ -309,9 +309,9 @@
     {
       "name": "Mediterranean Calzone (Vegetarian or add meat)",
       "price": 15.89,
-      "description": "Bright Mediterranean flavors with tangy feta, olives, and fire-roasted peppers, all baked in a golden crust.",
+      "description": "Bright Mediterranean flavors with tangy feta, olives, and fire-roasted peppers, all baked in a golden crust",
       "category": "FOOD",
-      "simplified_description": "Calzone with feta, olives, and roasted peppers.",
+      "simplified_description": "Calzone with feta, olives, and roasted peppers",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -321,9 +321,9 @@
     {
       "name": "Tandoori Chicken Calzone (Fusion)",
       "price": 15.89,
-      "description": "A bold Indian twist—tandoori chicken and creamy cheese wrapped in pizza dough.",
+      "description": "A bold Indian twist—tandoori chicken and creamy cheese wrapped in pizza dough",
       "category": "FOOD",
-      "simplified_description": "Calzone with tandoori chicken and cheese.",
+      "simplified_description": "Calzone with tandoori chicken and cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -334,7 +334,7 @@
       "price": 15.89,
       "description": "Create Your Own Calzone",
       "category": "FOOD",
-      "simplified_description": "Build your own calzone with chosen ingredients.",
+      "simplified_description": "Build your own calzone with chosen ingredients",
       "dietary_info": [],
       "other_info": ""
     },
@@ -343,16 +343,16 @@
       "price": 13.89,
       "description": "Create Your Own Pizza",
       "category": "FOOD",
-      "simplified_description": "Build your own pizza with chosen ingredients.",
+      "simplified_description": "Build your own pizza with chosen ingredients",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Spinach Salad",
       "price": 9.99,
-      "description": "Fresh spinach, mushroom, bacon, & cheddar.",
+      "description": "Fresh spinach, mushroom, bacon, & cheddar",
       "category": "FOOD",
-      "simplified_description": "Salad with spinach, mushrooms, bacon, and cheddar cheese.",
+      "simplified_description": "Salad with spinach, mushrooms, bacon, and cheddar cheese",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -362,9 +362,9 @@
     {
       "name": "Garden Salad",
       "price": 9.99,
-      "description": "Fresh tomatoes, red onions, green peppers, cucumbers & feta topped with kalamata olives. Served with a side of our greek dressing.",
+      "description": "Fresh tomatoes, red onions, green peppers, cucumbers & feta topped with kalamata olives. Served with a side of our greek dressing",
       "category": "FOOD",
-      "simplified_description": "Fresh vegetable salad with feta, olives, and Greek dressing.",
+      "simplified_description": "Fresh vegetable salad with feta, olives, and Greek dressing",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -375,18 +375,18 @@
     {
       "name": "Chicken Pesto Melt Sandwich",
       "price": 9.5,
-      "description": "Juicy grilled chicken with aromatic pesto and fire-roasted peppers, melted with mozzarella on toasted bread.",
+      "description": "Juicy grilled chicken with aromatic pesto and fire-roasted peppers, melted with mozzarella on toasted bread",
       "category": "FOOD",
-      "simplified_description": "Grilled chicken sandwich with pesto, peppers, and melted mozzarella.",
+      "simplified_description": "Grilled chicken sandwich with pesto, peppers, and melted mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Three-Cheese Classic Sandwich",
       "price": 7.99,
-      "description": "Triple the cheese, triple the melt—served golden and crisp with a gooey inside. Simple and satisfying.",
+      "description": "Triple the cheese, triple the melt—served golden and crisp with a gooey inside. Simple and satisfying",
       "category": "FOOD",
-      "simplified_description": "Grilled sandwich with three types of melted cheese.",
+      "simplified_description": "Grilled sandwich with three types of melted cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -396,18 +396,18 @@
     {
       "name": "BBQ Bacon Chicken Sandwich",
       "price": 10.5,
-      "description": "Smoky BBQ sauce, crispy bacon, and juicy chicken grilled with melty cheese and red onions.",
+      "description": "Smoky BBQ sauce, crispy bacon, and juicy chicken grilled with melty cheese and red onions",
       "category": "FOOD",
-      "simplified_description": "Chicken sandwich with BBQ sauce, bacon, cheese, and onions.",
+      "simplified_description": "Chicken sandwich with BBQ sauce, bacon, cheese, and onions",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pizza Melt Sandwich",
       "price": 9.5,
-      "description": "All your favorite pizza flavors pressed into a crispy, cheesy grilled sandwich—perfectly portable.",
+      "description": "All your favorite pizza flavors pressed into a crispy, cheesy grilled sandwich—perfectly portable",
       "category": "FOOD",
-      "simplified_description": "Grilled sandwich with pizza flavors and melted cheese.",
+      "simplified_description": "Grilled sandwich with pizza flavors and melted cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -417,9 +417,9 @@
     {
       "name": "Veggie Supreme Griller Sandwich",
       "price": 9.5,
-      "description": "A vibrant mix of grilled vegetables and melty cheese, served on artisan bread.",
+      "description": "A vibrant mix of grilled vegetables and melty cheese, served on artisan bread",
       "category": "FOOD",
-      "simplified_description": "Grilled sandwich with vegetables and melted cheese on artisan bread.",
+      "simplified_description": "Grilled sandwich with vegetables and melted cheese on artisan bread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -429,27 +429,27 @@
     {
       "name": "Salad & Wings Combo",
       "price": 16.5,
-      "description": "Any salad, 5 wings, & drink.",
+      "description": "Any salad, 5 wings, & drink",
       "category": "FOOD",
-      "simplified_description": "Combo with any salad, five wings, and a drink.",
+      "simplified_description": "Combo with any salad, five wings, and a drink",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Family Feast",
       "price": 52.75,
-      "description": "2 calzones, 20 wings, garlic bread, & 2 drinks.",
+      "description": "2 calzones, 20 wings, garlic bread, & 2 drinks",
       "category": "FOOD",
-      "simplified_description": "Meal with calzones, wings, garlic bread, and drinks for sharing.",
+      "simplified_description": "Meal with calzones, wings, garlic bread, and drinks for sharing",
       "dietary_info": [],
       "other_info": "Serves multiple people"
     },
     {
       "name": "Wings Combo",
       "price": 19.99,
-      "description": "10 wings, 5 garlic doughballs, marinara, & drink.",
+      "description": "10 wings, 5 garlic doughballs, marinara, & drink",
       "category": "FOOD",
-      "simplified_description": "Combo with wings, garlic doughballs, marinara sauce, and a drink.",
+      "simplified_description": "Combo with wings, garlic doughballs, marinara sauce, and a drink",
       "dietary_info": [],
       "other_info": ""
     },
@@ -458,7 +458,7 @@
       "price": 3.75,
       "description": "Veg",
       "category": "FOOD",
-      "simplified_description": "Vegetarian potato puff patties.",
+      "simplified_description": "Vegetarian potato puff patties",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -470,7 +470,7 @@
       "price": 10.99,
       "description": "Cheese Fingers",
       "category": "FOOD",
-      "simplified_description": "Cheese fingers with bacon.",
+      "simplified_description": "Cheese fingers with bacon",
       "dietary_info": [],
       "other_info": ""
     },
@@ -479,7 +479,7 @@
       "price": 9.99,
       "description": "Cheese Fingers",
       "category": "FOOD",
-      "simplified_description": "Cheese fingers with garlic flavor.",
+      "simplified_description": "Cheese fingers with garlic flavor",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -491,7 +491,7 @@
       "price": 10.99,
       "description": "Cheese Fingers",
       "category": "FOOD",
-      "simplified_description": "Cheese fingers with five types of cheese and garlic.",
+      "simplified_description": "Cheese fingers with five types of cheese and garlic",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -503,16 +503,16 @@
       "price": 10.99,
       "description": "Cheese Fingers",
       "category": "FOOD",
-      "simplified_description": "Cheese fingers topped with Italian sausage and garlic.",
+      "simplified_description": "Cheese fingers topped with Italian sausage and garlic",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Jalapeno Cheese Fingers",
       "price": 10.99,
-      "description": "Made with our fresh dough, garlic butter, jalapenos, and our extremely cheesy mix of mozzarella and Adam, topped with oregano and served with ranch on side.",
+      "description": "Made with our fresh dough, garlic butter, jalapenos, and our extremely cheesy mix of mozzarella and Adam, topped with oregano and served with ranch on side",
       "category": "FOOD",
-      "simplified_description": "Cheesy breadsticks with jalapenos, garlic butter, and oregano, served with ranch.",
+      "simplified_description": "Cheesy breadsticks with jalapenos, garlic butter, and oregano, served with ranch",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -524,7 +524,7 @@
       "price": 11.99,
       "description": "with Vanilla Ice Cream",
       "category": "DESSERT",
-      "simplified_description": "Warm chocolate cake with a gooey center, served with vanilla ice cream.",
+      "simplified_description": "Warm chocolate cake with a gooey center, served with vanilla ice cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -536,7 +536,7 @@
       "price": 7.95,
       "description": "",
       "category": "DESSERT",
-      "simplified_description": "8oz chocolate lava cake with a molten chocolate center.",
+      "simplified_description": "8oz chocolate lava cake with a molten chocolate center",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -548,7 +548,7 @@
       "price": 3.99,
       "description": "",
       "category": "DESSERT",
-      "simplified_description": "Small, rich chocolate brownie bites.",
+      "simplified_description": "Small, rich chocolate brownie bites",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -558,9 +558,9 @@
     {
       "name": "Chocolate Calzone",
       "price": 13.95,
-      "description": "Nutella-filled dessert calzone - marsh mellow, Choco chips.",
+      "description": "Nutella-filled dessert calzone - marsh mellow, Choco chips",
       "category": "DESSERT",
-      "simplified_description": "Dessert calzone filled with Nutella, marshmallow, and chocolate chips.",
+      "simplified_description": "Dessert calzone filled with Nutella, marshmallow, and chocolate chips",
       "dietary_info": [
         "vegetarian"
       ],
@@ -571,7 +571,7 @@
       "price": 1.79,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Canned beverages.",
+      "simplified_description": "Canned beverages",
       "dietary_info": [],
       "other_info": ""
     },
@@ -580,7 +580,7 @@
       "price": 2.99,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Bottled beverages.",
+      "simplified_description": "Bottled beverages",
       "dietary_info": [],
       "other_info": ""
     },
@@ -589,7 +589,7 @@
       "price": 8.99,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Pack of six beverages.",
+      "simplified_description": "Pack of six beverages",
       "dietary_info": [],
       "other_info": ""
     },
@@ -598,7 +598,7 @@
       "price": 4.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Two-liter bottle of beverage.",
+      "simplified_description": "Two-liter bottle of beverage",
       "dietary_info": [],
       "other_info": ""
     },
@@ -607,7 +607,7 @@
       "price": 1.39,
       "description": "",
       "category": "DIPS",
-      "simplified_description": "Creamy ranch dipping sauce.",
+      "simplified_description": "Creamy ranch dipping sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -619,7 +619,7 @@
       "price": 1.39,
       "description": "",
       "category": "DIPS",
-      "simplified_description": "Cheddar cheese and chipotle flavored dip.",
+      "simplified_description": "Cheddar cheese and chipotle flavored dip",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -631,7 +631,7 @@
       "price": 1.39,
       "description": "",
       "category": "DIPS",
-      "simplified_description": "Smooth and creamy garlic dipping sauce.",
+      "simplified_description": "Smooth and creamy garlic dipping sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -643,7 +643,7 @@
       "price": 1.39,
       "description": "",
       "category": "DIPS",
-      "simplified_description": "Spicy hot sauce dip.",
+      "simplified_description": "Spicy hot sauce dip",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -656,7 +656,7 @@
       "price": 1.39,
       "description": "",
       "category": "DIPS",
-      "simplified_description": "Tangy and spicy buffalo sauce dip.",
+      "simplified_description": "Tangy and spicy buffalo sauce dip",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -669,7 +669,7 @@
       "price": 1.39,
       "description": "",
       "category": "DIPS",
-      "simplified_description": "Sweet and smoky barbecue sauce dip.",
+      "simplified_description": "Sweet and smoky barbecue sauce dip",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -681,7 +681,7 @@
       "price": 3.75,
       "description": "Ice cream (Kulfi)",
       "category": "DESSERT",
-      "simplified_description": "Traditional Indian ice cream dessert.",
+      "simplified_description": "Traditional Indian ice cream dessert",
       "dietary_info": [
         "vegetarian",
         "nut-free"

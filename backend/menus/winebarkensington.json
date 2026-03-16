@@ -194,7 +194,7 @@
     },
     {
       "name": "N/V Champagne Grand Cru",
-      "price": 300.0,
+      "price": null,
       "description": "Mailly (Champagne, FR)",
       "category": "DRINK",
       "simplified_description": "Mailly (Champagne, FR)",
@@ -203,7 +203,7 @@
     },
     {
       "name": "2010 Dom Perignon",
-      "price": 800.0,
+      "price": null,
       "description": "(Champagne, FR)",
       "category": "DRINK",
       "simplified_description": "(Champagne, FR)",
@@ -212,7 +212,7 @@
     },
     {
       "name": "2022 Sancerre (WBK Exclusive)",
-      "price": 220.0,
+      "price": null,
       "description": "Domaine Henri Bourgeois d'ANTAN (Sancerre, FR)",
       "category": "DRINK",
       "simplified_description": "Domaine Henri Bourgeois d'ANTAN (Sancerre, FR)",
@@ -221,7 +221,7 @@
     },
     {
       "name": "2022 Chateauneuf-Du-Pape Blanc",
-      "price": 260.0,
+      "price": null,
       "description": "La Ferme Du Mont \"Vendange\" (Chateauneuf-Du-Pape, Rhone Valley, FR)",
       "category": "DRINK",
       "simplified_description": "La Ferme Du Mont \"Vendange\" (Chateauneuf-Du-Pape, Rhone Valley, FR)",
@@ -230,7 +230,7 @@
     },
     {
       "name": "2019 Chianti Classico DOCG Gran Selezione",
-      "price": 320.0,
+      "price": null,
       "description": "Cari(Tuscany, IT)",
       "category": "DRINK",
       "simplified_description": "Cari(Tuscany, IT)",
@@ -239,7 +239,7 @@
     },
     {
       "name": "2019 Cabernet Franc/Merlot",
-      "price": 290.0,
+      "price": null,
       "description": "Ruffino Alauda (Tuscany, IT)",
       "category": "DRINK",
       "simplified_description": "Ruffino Alauda (Tuscany, IT)",
@@ -248,7 +248,7 @@
     },
     {
       "name": "2008 Amarone Della Valpolicella Classico DOC",
-      "price": 300.0,
+      "price": null,
       "description": "Tommasi (Amarone Della Valpolicella, IT)",
       "category": "DRINK",
       "simplified_description": "Tommasi (Amarone Della Valpolicella, IT)",
@@ -384,9 +384,9 @@
     {
       "name": "Kentucky Straight Bourbon",
       "price": 20.0,
-      "description": "Kentucky Spirits Ltd Barrel #24 (Kentucky, US)",
+      "description": "Kentucky Spirits Ltd Barrel 24 (Kentucky, US)",
       "category": "BOURBON & RYE",
-      "simplified_description": "Kentucky Spirits Ltd Barrel #24 (Kentucky, US)",
+      "simplified_description": "Kentucky Spirits Ltd Barrel 24 (Kentucky, US)",
       "dietary_info": [],
       "other_info": ""
     },
@@ -681,9 +681,9 @@
     {
       "name": "Truffle Arancini (V)",
       "price": 17.0,
-      "description": "Arborio, Fior de Latte, Pecorino, Spinach & Basil Pesto, Black Truffle,",
+      "description": "Arborio, Fior de Latte, Pecorino, Spinach & Basil Pesto, Black Truffle",
       "category": "FOOD",
-      "simplified_description": "Arborio, Fior de Latte, Pecorino, Spinach & Basil Pesto, Black Truffle,",
+      "simplified_description": "Arborio, Fior de Latte, Pecorino, Spinach & Basil Pesto, Black Truffle",
       "dietary_info": [],
       "other_info": ""
     },
@@ -868,7 +868,7 @@
       "other_info": ""
     },
     {
-      "name": "Beef Bresaola*",
+      "name": "Beef Bresaola",
       "price": 15.0,
       "description": "Air Dried | Salty | Cured",
       "category": "OTHER",
@@ -886,7 +886,7 @@
       "other_info": ""
     },
     {
-      "name": "Prosciutto Di Parma*",
+      "name": "Prosciutto Di Parma",
       "price": 15.0,
       "description": "Pork Leg | Salty | Sweet",
       "category": "OTHER",

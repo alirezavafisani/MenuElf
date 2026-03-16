@@ -8,7 +8,7 @@
       "price": 7.5,
       "description": "Austrian Goulasch Soup & bun",
       "category": "SOUP",
-      "simplified_description": "Traditional Austrian goulash soup served with a bun.",
+      "simplified_description": "Traditional Austrian goulash soup served with a bun",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 8.5,
       "description": "Liver dumpling soup, large $12.50",
       "category": "SOUP",
-      "simplified_description": "Soup with liver dumplings, available in large size.",
+      "simplified_description": "Soup with liver dumplings, available in large size",
       "dietary_info": [],
       "other_info": "Large size available"
     },
@@ -26,7 +26,7 @@
       "price": 0.75,
       "description": "Fresh White Crusty Bun",
       "category": "OTHER",
-      "simplified_description": "Freshly baked white crusty bread bun.",
+      "simplified_description": "Freshly baked white crusty bread bun",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -38,7 +38,7 @@
       "price": 9.0,
       "description": "The famous Austrian Club’s assorted House salad, large - $15.00",
       "category": "SALAD",
-      "simplified_description": "Assorted mixed house salad, available in large size.",
+      "simplified_description": "Assorted mixed house salad, available in large size",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -50,7 +50,7 @@
       "price": 9.0,
       "description": "Large - $15.00",
       "category": "SALAD",
-      "simplified_description": "Classic Caesar salad, available in large size.",
+      "simplified_description": "Classic Caesar salad, available in large size",
       "dietary_info": [],
       "other_info": "Large size available"
     },
@@ -59,7 +59,7 @@
       "price": 6.5,
       "description": "Freshly baked, served with assorted mustard",
       "category": "SNACK",
-      "simplified_description": "Freshly baked pretzel served with assorted mustard.",
+      "simplified_description": "Freshly baked pretzel served with assorted mustard",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -71,7 +71,7 @@
       "price": 10.5,
       "description": "Freshly baked, served with assorted mustard",
       "category": "SNACK",
-      "simplified_description": "Pretzel served with choice of sausage and mustard.",
+      "simplified_description": "Pretzel served with choice of sausage and mustard",
       "dietary_info": [],
       "other_info": ""
     },
@@ -80,7 +80,7 @@
       "price": 12.0,
       "description": "Served with Rye Bread, cucumber and tomato",
       "category": "APPETIZER",
-      "simplified_description": "Marinated herring served with rye bread, cucumber, and tomato.",
+      "simplified_description": "Marinated herring served with rye bread, cucumber, and tomato",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -92,7 +92,7 @@
       "price": 12.0,
       "description": "Served with Rye Bread, cucumber and tomato or with French fries and Caesar salad",
       "category": "APPETIZER",
-      "simplified_description": "Curried herring served with rye bread and vegetables or fries and salad.",
+      "simplified_description": "Curried herring served with rye bread and vegetables or fries and salad",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -104,7 +104,7 @@
       "price": 12.0,
       "description": "Shaved on Danish Rye with Sauce Remoulade, Horseradish & red onion jam",
       "category": "SANDWICH",
-      "simplified_description": "Open-faced roast beef sandwich with remoulade and horseradish on rye.",
+      "simplified_description": "Open-faced roast beef sandwich with remoulade and horseradish on rye",
       "dietary_info": [],
       "other_info": ""
     },
@@ -113,7 +113,7 @@
       "price": 12.0,
       "description": "Served on Danish Rye with Italian Salad & green Asparagus",
       "category": "SANDWICH",
-      "simplified_description": "Open-faced ham sandwich with Italian salad and asparagus on rye.",
+      "simplified_description": "Open-faced ham sandwich with Italian salad and asparagus on rye",
       "dietary_info": [],
       "other_info": ""
     },
@@ -122,7 +122,7 @@
       "price": 22.0,
       "description": "Russian Salad with smoked salmon and cucumber salad",
       "category": "SALAD",
-      "simplified_description": "Russian salad with smoked salmon and cucumber salad.",
+      "simplified_description": "Russian salad with smoked salmon and cucumber salad",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -134,7 +134,7 @@
       "price": 18.5,
       "description": "Served with French fries, add Swiss cheese - $2.50, add Bacon - $3.50",
       "category": "BURGER",
-      "simplified_description": "Schnitzel burger served with fries, optional cheese or bacon.",
+      "simplified_description": "Schnitzel burger served with fries, optional cheese or bacon",
       "dietary_info": [],
       "other_info": "Add Swiss cheese or bacon for extra cost"
     },
@@ -143,7 +143,7 @@
       "price": 19.5,
       "description": "Served with fries, Lettuce, tomato, pickles, onions, add Cheddar cheese - $2.50, add Bacon - $3.50",
       "category": "BURGER",
-      "simplified_description": "Prime rib burger with fries and toppings, optional cheese or bacon.",
+      "simplified_description": "Prime rib burger with fries and toppings, optional cheese or bacon",
       "dietary_info": [],
       "other_info": "Add Cheddar cheese or bacon for extra cost"
     },
@@ -152,7 +152,7 @@
       "price": 19.0,
       "description": "Served with fried onions, potato salad",
       "category": "SANDWICH",
-      "simplified_description": "Bratwurst sandwich with fried onions and potato salad.",
+      "simplified_description": "Bratwurst sandwich with fried onions and potato salad",
       "dietary_info": [],
       "other_info": ""
     },
@@ -161,7 +161,7 @@
       "price": 22.0,
       "description": "Served with gravy, boiled potatoes and braised red cabbage",
       "category": "MAIN",
-      "simplified_description": "Pork sausage with gravy, boiled potatoes, and braised red cabbage.",
+      "simplified_description": "Pork sausage with gravy, boiled potatoes, and braised red cabbage",
       "dietary_info": [
         "nut-free"
       ],
@@ -172,7 +172,7 @@
       "price": 22.0,
       "description": "Seared ground pork loin, served with boiled potatoes & red cabbage",
       "category": "MAIN",
-      "simplified_description": "Seared ground pork loin with boiled potatoes and red cabbage.",
+      "simplified_description": "Seared ground pork loin with boiled potatoes and red cabbage",
       "dietary_info": [
         "nut-free"
       ],
@@ -183,7 +183,7 @@
       "price": 28.0,
       "description": "Bratwurst, Weisswurst, wiener schnitzel with red cabbage and Tyrolean dumpling",
       "category": "MAIN",
-      "simplified_description": "Mixed sausages and schnitzel with red cabbage and dumpling.",
+      "simplified_description": "Mixed sausages and schnitzel with red cabbage and dumpling",
       "dietary_info": [
         "nut-free"
       ],
@@ -194,7 +194,7 @@
       "price": 26.0,
       "description": "Braised beef in a paprika onion sauce, served with Spätzle",
       "category": "MAIN",
-      "simplified_description": "Braised beef in paprika sauce with Spätzle noodles.",
+      "simplified_description": "Braised beef in paprika sauce with Spätzle noodles",
       "dietary_info": [
         "nut-free"
       ],
@@ -205,7 +205,7 @@
       "price": 28.0,
       "description": "Breaded tenderized Pork Tenderloin, served with pan-fries, vegetables & assorted Salad, add cranberry - $2.00",
       "category": "MAIN",
-      "simplified_description": "Breaded pork tenderloin with fries, vegetables, and salad.",
+      "simplified_description": "Breaded pork tenderloin with fries, vegetables, and salad",
       "dietary_info": [
         "nut-free"
       ],
@@ -216,7 +216,7 @@
       "price": 29.0,
       "description": "Breaded Chicken Schnitzel with pan-fries, vegetables & assorted salad, add cranberry - $2.00",
       "category": "MAIN",
-      "simplified_description": "Breaded chicken schnitzel with fries, vegetables, and salad.",
+      "simplified_description": "Breaded chicken schnitzel with fries, vegetables, and salad",
       "dietary_info": [
         "nut-free"
       ],
@@ -227,7 +227,7 @@
       "price": 29.0,
       "description": "Served with mushroom gravy, Spätzle, vegetables & assorted salad",
       "category": "MAIN",
-      "simplified_description": "Grilled pork schnitzel with mushroom gravy, Spätzle, vegetables, and salad.",
+      "simplified_description": "Grilled pork schnitzel with mushroom gravy, Spätzle, vegetables, and salad",
       "dietary_info": [
         "nut-free"
       ],
@@ -238,7 +238,7 @@
       "price": 21.0,
       "description": "Served with sauce remoulade, coleslaw & French fries",
       "category": "MAIN",
-      "simplified_description": "Fried haddock with remoulade sauce, coleslaw, and fries.",
+      "simplified_description": "Fried haddock with remoulade sauce, coleslaw, and fries",
       "dietary_info": [
         "nut-free"
       ],
@@ -249,7 +249,7 @@
       "price": 20.5,
       "description": "Served with garlic toast",
       "category": "MAIN",
-      "simplified_description": "Spiced chicken on Caesar salad with garlic toast.",
+      "simplified_description": "Spiced chicken on Caesar salad with garlic toast",
       "dietary_info": [
         "nut-free",
         "spicy"
@@ -261,7 +261,7 @@
       "price": 21.5,
       "description": "Served with garlic toast",
       "category": "MAIN",
-      "simplified_description": "Tiger prawns on Caesar salad with garlic toast.",
+      "simplified_description": "Tiger prawns on Caesar salad with garlic toast",
       "dietary_info": [
         "nut-free"
       ],
@@ -272,7 +272,7 @@
       "price": 19.5,
       "description": "Cheese Spätzle with fried onion rings and assorted salad",
       "category": "MAIN",
-      "simplified_description": "Cheese noodles with fried onions and salad.",
+      "simplified_description": "Cheese noodles with fried onions and salad",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -284,7 +284,7 @@
       "price": 9.5,
       "description": "Apple strudel (slice) with whipped cream, add Ice cream - $2.50",
       "category": "DESSERT",
-      "simplified_description": "Apple strudel slice with whipped cream.",
+      "simplified_description": "Apple strudel slice with whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -296,7 +296,7 @@
       "price": 9.5,
       "description": "The famous Austrian Chocolate Cake (slice) with whipped cream, add Ice cream - $2.50",
       "category": "DESSERT",
-      "simplified_description": "Chocolate cake slice with whipped cream.",
+      "simplified_description": "Chocolate cake slice with whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -308,7 +308,7 @@
       "price": 9.5,
       "description": "Vanilla ice cream with warm chocolate sauce",
       "category": "DESSERT",
-      "simplified_description": "Vanilla ice cream topped with warm chocolate sauce.",
+      "simplified_description": "Vanilla ice cream topped with warm chocolate sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -320,7 +320,7 @@
       "price": 9.5,
       "description": "Fresh Strawberries with Pear Williams Schnapps served with Vanilla ice cream & whipping cream",
       "category": "DESSERT",
-      "simplified_description": "Strawberries with schnapps, vanilla ice cream, and whipped cream.",
+      "simplified_description": "Strawberries with schnapps, vanilla ice cream, and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -332,7 +332,7 @@
       "price": 9.5,
       "description": "with whipping cream",
       "category": "DRINK",
-      "simplified_description": "Iced coffee topped with whipping cream.",
+      "simplified_description": "Iced coffee topped with whipping cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -344,7 +344,7 @@
       "price": 12.5,
       "description": "Royal Pancakes with compote",
       "category": "DESSERT",
-      "simplified_description": "Sweet shredded pancakes served with fruit compote.",
+      "simplified_description": "Sweet shredded pancakes served with fruit compote",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -356,7 +356,7 @@
       "price": 21.95,
       "description": "Served with soup or assorted salad",
       "category": "SANDWICH",
-      "simplified_description": "Classic Rueben sandwich with choice of soup or salad.",
+      "simplified_description": "Classic Rueben sandwich with choice of soup or salad",
       "dietary_info": [],
       "other_info": ""
     },
@@ -365,7 +365,7 @@
       "price": 24.95,
       "description": "Seared salmon medallions on rotini pasta in a dill cream sauce with citrus herb gremoulata",
       "category": "MAIN",
-      "simplified_description": "Salmon with rotini pasta in creamy dill and citrus sauce.",
+      "simplified_description": "Salmon with rotini pasta in creamy dill and citrus sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -376,7 +376,7 @@
       "price": 26.95,
       "description": "Danish pork patty with gronaerter sauce, pickled beets and parsley potatoes",
       "category": "MAIN",
-      "simplified_description": "Pork patty served with green pea sauce, pickled beets, and potatoes.",
+      "simplified_description": "Pork patty served with green pea sauce, pickled beets, and potatoes",
       "dietary_info": [
         "nut-free"
       ],
@@ -387,7 +387,7 @@
       "price": 34.95,
       "description": "Served with ratatouille and baby potatoes",
       "category": "MAIN",
-      "simplified_description": "Herbed mustard lamb rack with ratatouille and baby potatoes.",
+      "simplified_description": "Herbed mustard lamb rack with ratatouille and baby potatoes",
       "dietary_info": [
         "nut-free"
       ],
@@ -398,7 +398,7 @@
       "price": 9.5,
       "description": "Chocolate Mousse",
       "category": "DESSERT",
-      "simplified_description": "Rich and creamy chocolate mousse dessert.",
+      "simplified_description": "Rich and creamy chocolate mousse dessert",
       "dietary_info": [
         "vegetarian",
         "gluten-free",

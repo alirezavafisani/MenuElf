@@ -69,18 +69,18 @@
     {
       "name": "Pico de Gallo (16oz)",
       "price": 5.25,
-      "description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nSize\nSmall$5.25\nMedium$9.95\nLarge$17.95",
+      "description": "Gluten free Gluten free Vegetarian Vegetarian Vegan Vegan Size Small$5.25 Medium$9.95 Large$17.95",
       "category": "SIDE",
-      "simplified_description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nSize\nSmall$5.25\nMedium",
+      "simplified_description": "Gluten free Gluten free Vegetarian Vegetarian Vegan Vegan Size Small$5.25 Medium",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mango-pineapple Salsa 16oz",
       "price": 5.0,
-      "description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nMy New Option\nSmall$5\nMedium$9\nLarge$17",
+      "description": "Gluten free Gluten free Vegetarian Vegetarian Vegan Vegan My New Option Small$5 Medium$9 Large$17",
       "category": "SIDE",
-      "simplified_description": "Gluten free\nGluten free\nVegetarian\nVegetarian\nVegan\nVegan\nMy New Option\nSmall$5\n",
+      "simplified_description": "Gluten free Gluten free Vegetarian Vegetarian Vegan Vegan My New Option Small$5",
       "dietary_info": [],
       "other_info": ""
     },
@@ -143,7 +143,7 @@
       "price": 38.95,
       "description": "6 tamales. Choose from: beef or pork or chicken or spinach & cheese. Comes with 16oz Mexican rice and 8oz red or green sauce. (Ready in 2hrs)",
       "category": "FOOD",
-      "simplified_description": "6 tamales. Choose from: beef or pork or chicken or spinach & cheese. Comes with ",
+      "simplified_description": "6 tamales. Choose from: beef or pork or chicken or spinach & cheese. Comes with",
       "dietary_info": [],
       "other_info": ""
     },
@@ -215,7 +215,7 @@
       "price": 2.0,
       "description": "Made with freshly-ground almonds. Gluten-free option (with chocolate chips - no nuts) also available",
       "category": "DESSERT",
-      "simplified_description": "Made with freshly-ground almonds. Gluten-free option (with chocolate chips - no ",
+      "simplified_description": "Made with freshly-ground almonds. Gluten-free option (with chocolate chips - no",
       "dietary_info": [],
       "other_info": ""
     },

@@ -321,9 +321,9 @@
     {
       "name": "Onion Rings",
       "price": 5.99,
-      "description": ".",
+      "description": null,
       "category": "SIDE",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -339,9 +339,9 @@
     {
       "name": "Tasty Bread",
       "price": 3.99,
-      "description": ".",
+      "description": null,
       "category": "SIDE",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -366,9 +366,9 @@
     {
       "name": "French Fries",
       "price": 4.99,
-      "description": ".",
+      "description": null,
       "category": "SIDE",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -393,9 +393,9 @@
     {
       "name": "Dipping Sauce",
       "price": 1.25,
-      "description": ".",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -420,63 +420,63 @@
     {
       "name": "Can Pop",
       "price": 1.5,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "2L Pop",
       "price": 3.99,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pack of 6 Cans",
       "price": 7.99,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Vitamin",
       "price": 2.99,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Water",
       "price": 1.5,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Juice",
       "price": 2.99,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Energy Drink",
       "price": 3.99,
-      "description": ".",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": ".",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     }

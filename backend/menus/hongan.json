@@ -8,7 +8,7 @@
       "price": 9.25,
       "description": "Gỏi Cuốn Tôm ( 3 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Three fresh shrimp salad rolls wrapped in rice paper.",
+      "simplified_description": "Three fresh shrimp salad rolls wrapped in rice paper",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -22,7 +22,7 @@
       "price": 9.25,
       "description": "Gỏi Cuốn Gà ( 3 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Three grilled chicken salad rolls wrapped in rice paper.",
+      "simplified_description": "Three grilled chicken salad rolls wrapped in rice paper",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -36,7 +36,7 @@
       "price": 9.25,
       "description": "Gỏi Cuốn Bò ( 3 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Three grilled beef salad rolls wrapped in rice paper.",
+      "simplified_description": "Three grilled beef salad rolls wrapped in rice paper",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -50,7 +50,7 @@
       "price": 9.25,
       "description": "Gỏi Cuốn Bì ( 3 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Three shredded pork salad rolls wrapped in rice paper.",
+      "simplified_description": "Three shredded pork salad rolls wrapped in rice paper",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -64,7 +64,7 @@
       "price": 9.25,
       "description": "Chả Giò ( 4 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Four crispy fried pork spring rolls.",
+      "simplified_description": "Four crispy fried pork spring rolls",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -77,7 +77,7 @@
       "price": 9.5,
       "description": "Hoành Thánh Chiên (8 cái)",
       "category": "APPETIZER",
-      "simplified_description": "Eight crispy deep-fried wontons.",
+      "simplified_description": "Eight crispy deep-fried wontons",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -89,7 +89,7 @@
       "price": 10.95,
       "description": "Tôm Chiên (8 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Eight crispy deep-fried shrimp rolls.",
+      "simplified_description": "Eight crispy deep-fried shrimp rolls",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -102,7 +102,7 @@
       "price": 10.25,
       "description": "Cánh Gà Chiên Muối Tiêu (8 Cái)",
       "category": "APPETIZER",
-      "simplified_description": "Eight fried chicken wings seasoned with salt and pepper.",
+      "simplified_description": "Eight fried chicken wings seasoned with salt and pepper",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -115,7 +115,7 @@
       "price": 11.45,
       "description": "Bánh Mì Gà Satế",
       "category": "OTHER",
-      "simplified_description": "Sandwich with satay-flavored chicken.",
+      "simplified_description": "Sandwich with satay-flavored chicken",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -127,7 +127,7 @@
       "price": 11.45,
       "description": "Bánh Mì Bò Satế",
       "category": "OTHER",
-      "simplified_description": "Sandwich with satay-flavored beef.",
+      "simplified_description": "Sandwich with satay-flavored beef",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -139,7 +139,7 @@
       "price": 12.95,
       "description": "Bánh Mì Gà & Bò Satế",
       "category": "OTHER",
-      "simplified_description": "Sandwich with satay-flavored chicken and beef.",
+      "simplified_description": "Sandwich with satay-flavored chicken and beef",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -151,7 +151,7 @@
       "price": 12.95,
       "description": "Bánh Mì Tôm Satế",
       "category": "OTHER",
-      "simplified_description": "Sandwich with satay-flavored shrimp.",
+      "simplified_description": "Sandwich with satay-flavored shrimp",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -163,7 +163,7 @@
       "price": 8.5,
       "description": "Bánh Mì Rau Cải",
       "category": "OTHER",
-      "simplified_description": "Sandwich filled with assorted vegetables.",
+      "simplified_description": "Sandwich filled with assorted vegetables",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -177,7 +177,7 @@
       "price": 11.45,
       "description": "Bánh Mì Gà Nướng",
       "category": "OTHER",
-      "simplified_description": "Sandwich with grilled chicken.",
+      "simplified_description": "Sandwich with grilled chicken",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -189,7 +189,7 @@
       "price": 11.45,
       "description": "Bánh Mì Bò Nướng",
       "category": "OTHER",
-      "simplified_description": "Sandwich with grilled beef.",
+      "simplified_description": "Sandwich with grilled beef",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -201,7 +201,7 @@
       "price": 16.95,
       "description": "Phở Đặt Biệt Hồng Ân",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with rare beef, flank, tripe, and beef balls.",
+      "simplified_description": "Noodle soup with rare beef, flank, tripe, and beef balls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -215,7 +215,7 @@
       "price": 16.25,
       "description": "Phở Tái Bò Viên",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with rare beef and beef balls.",
+      "simplified_description": "Noodle soup with rare beef and beef balls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -229,7 +229,7 @@
       "price": 16.25,
       "description": "Phở Tái",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with rare beef slices.",
+      "simplified_description": "Noodle soup with rare beef slices",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -243,7 +243,7 @@
       "price": 16.75,
       "description": "Phở Tái Nạm Bò Viên",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with rare beef, brisket, and beef balls.",
+      "simplified_description": "Noodle soup with rare beef, brisket, and beef balls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -257,7 +257,7 @@
       "price": 15.95,
       "description": "Phở Bò Viên",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with beef balls.",
+      "simplified_description": "Noodle soup with beef balls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -271,7 +271,7 @@
       "price": 16.25,
       "description": "Phở Gà",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with chicken.",
+      "simplified_description": "Noodle soup with chicken",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -285,7 +285,7 @@
       "price": 15.95,
       "description": "Phở Rau Cải",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with mixed vegetables.",
+      "simplified_description": "Noodle soup with mixed vegetables",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -300,7 +300,7 @@
       "price": 16.75,
       "description": "Phở Satế Gà",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with chicken in satay sauce.",
+      "simplified_description": "Noodle soup with chicken in satay sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -315,7 +315,7 @@
       "price": 16.75,
       "description": "Phở Satế Bò",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with beef in satay sauce.",
+      "simplified_description": "Noodle soup with beef in satay sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -330,7 +330,7 @@
       "price": 17.5,
       "description": "Phở Satế Đồ Biển (Tôm, Cua, Mực)",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with shrimp, crabstick, squid in satay sauce.",
+      "simplified_description": "Noodle soup with shrimp, crabstick, squid in satay sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -345,7 +345,7 @@
       "price": 16.95,
       "description": "Bún Càri Gà",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodle soup with chicken in curry broth.",
+      "simplified_description": "Vermicelli noodle soup with chicken in curry broth",
       "dietary_info": [
         "dairy-free",
         "halal",
@@ -359,7 +359,7 @@
       "price": 16.95,
       "description": "Bún Càri Bò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodle soup with beef in curry broth.",
+      "simplified_description": "Vermicelli noodle soup with beef in curry broth",
       "dietary_info": [
         "dairy-free",
         "halal",
@@ -373,7 +373,7 @@
       "price": 17.5,
       "description": "Bún Càri Đồ Biển (Tôm, Cua, Mực)",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodle soup with shrimp, crabstick, squid in curry broth.",
+      "simplified_description": "Vermicelli noodle soup with shrimp, crabstick, squid in curry broth",
       "dietary_info": [
         "dairy-free",
         "halal",
@@ -387,7 +387,7 @@
       "price": 16.25,
       "description": "Hoành Thánh Soup, Rau Cải",
       "category": "FOOD",
-      "simplified_description": "Wonton soup with vegetables.",
+      "simplified_description": "Wonton soup with vegetables",
       "dietary_info": [
         "dairy-free",
         "halal",
@@ -400,7 +400,7 @@
       "price": 14.95,
       "description": "Bún Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles served with pork spring rolls.",
+      "simplified_description": "Vermicelli noodles served with pork spring rolls",
       "dietary_info": [
         "dairy-free",
         "halal",
@@ -413,7 +413,7 @@
       "price": 15.5,
       "description": "Bún Thịt Nướng (Heo Hoặc Bò Hoặc Gà)",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles with your choice of charbroiled pork, beef, or chicken.",
+      "simplified_description": "Vermicelli noodles with your choice of charbroiled pork, beef, or chicken",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -427,7 +427,7 @@
       "price": 15.95,
       "description": "Bún Thịt Nướng (Heo Hoặc Bò Hoặc Gà) Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled meat and crispy pork spring rolls.",
+      "simplified_description": "Vermicelli with charbroiled meat and crispy pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -441,7 +441,7 @@
       "price": 17.5,
       "description": "Bún Bò Nướng, Gà Nướng, Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled beef or chicken and pork spring rolls.",
+      "simplified_description": "Vermicelli with charbroiled beef or chicken and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -455,7 +455,7 @@
       "price": 18.5,
       "description": "Bún Thịt Nướng, Gà Nướng, Bò Nướng, Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with mixed charbroiled meats and pork spring rolls.",
+      "simplified_description": "Vermicelli with mixed charbroiled meats and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -469,7 +469,7 @@
       "price": 15.95,
       "description": "Bún Tôm Nướng, Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled shrimp and pork spring rolls.",
+      "simplified_description": "Vermicelli with charbroiled shrimp and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -483,7 +483,7 @@
       "price": 16.25,
       "description": "Bún Nem Nướng, Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled ground pork sausage and pork spring rolls.",
+      "simplified_description": "Vermicelli with charbroiled ground pork sausage and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -497,7 +497,7 @@
       "price": 17.5,
       "description": "Bún Bì, Thịt Nướng, Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with shredded pork, charbroiled pork, and pork spring rolls.",
+      "simplified_description": "Vermicelli with shredded pork, charbroiled pork, and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -511,7 +511,7 @@
       "price": 18.75,
       "description": "Bún Thịt Nướng, Nem Nướng, Tôm Nướng, Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with mixed charbroiled pork, shrimp, sausage, and pork spring rolls.",
+      "simplified_description": "Vermicelli with mixed charbroiled pork, shrimp, sausage, and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -525,7 +525,7 @@
       "price": 18.25,
       "description": "Bún Thịt Xào (Bò Hoặc Gà Hoặc Tôm) Chả Giò",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with lemongrass stir-fried meat or shrimp and pork spring rolls.",
+      "simplified_description": "Vermicelli with lemongrass stir-fried meat or shrimp and pork spring rolls",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -539,7 +539,7 @@
       "price": 17.25,
       "description": "Cơm Xường Nướng (2 miến)",
       "category": "OTHER",
-      "simplified_description": "Two pieces of charbroiled pork chop served with rice.",
+      "simplified_description": "Two pieces of charbroiled pork chop served with rice",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -553,7 +553,7 @@
       "price": 18.95,
       "description": "Cơm Xường Bò Korean Nướng (2 miến), Trứng Chiên",
       "category": "OTHER",
-      "simplified_description": "Two Korean BBQ short ribs with rice and a pan-fried egg.",
+      "simplified_description": "Two Korean BBQ short ribs with rice and a pan-fried egg",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -566,7 +566,7 @@
       "price": 17.25,
       "description": "Cơm Bì, Xường Nướng, Trứng Chiên",
       "category": "OTHER",
-      "simplified_description": "Charbroiled pork chop, shredded pork, and pan-fried egg with rice.",
+      "simplified_description": "Charbroiled pork chop, shredded pork, and pan-fried egg with rice",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -580,7 +580,7 @@
       "price": 9.0,
       "description": "Chả Giò Chay (4 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Four deep-fried vegetarian spring rolls.",
+      "simplified_description": "Four deep-fried vegetarian spring rolls",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -594,7 +594,7 @@
       "price": 8.0,
       "description": "Gỏi Cuốn Chay (3 Cuốn)",
       "category": "APPETIZER",
-      "simplified_description": "Three fresh vegetarian salad rolls.",
+      "simplified_description": "Three fresh vegetarian salad rolls",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -609,7 +609,7 @@
       "price": 14.95,
       "description": "(served with shredded lettuce, carrots, beansprout, roasted peanuts, cooked green onion and house special fish sauce)",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with vegetarian spring rolls and fresh vegetables.",
+      "simplified_description": "Vermicelli with vegetarian spring rolls and fresh vegetables",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -622,7 +622,7 @@
       "price": 17.95,
       "description": "Cơm Đậu Hủ Xào Rau Cải",
       "category": "FOOD",
-      "simplified_description": "Tofu and mixed vegetables stir-fried served over steamed rice.",
+      "simplified_description": "Tofu and mixed vegetables stir-fried served over steamed rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -638,7 +638,7 @@
       "price": 17.95,
       "description": "Cơm Đậu Hủ Xào Satế Rau Cải",
       "category": "FOOD",
-      "simplified_description": "Tofu and vegetables stir-fried with satay sauce served on steamed rice.",
+      "simplified_description": "Tofu and vegetables stir-fried with satay sauce served on steamed rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -655,7 +655,7 @@
       "price": 18.5,
       "description": "Mì Sào Đậu Hủ Rau Cải",
       "category": "FOOD",
-      "simplified_description": "Tofu and vegetables stir-fried served on crispy egg noodles.",
+      "simplified_description": "Tofu and vegetables stir-fried served on crispy egg noodles",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -670,7 +670,7 @@
       "price": 6.25,
       "description": "Cà Phê Sữa Đá",
       "category": "DRINK",
-      "simplified_description": "Iced Vietnamese espresso coffee with sweetened condensed milk.",
+      "simplified_description": "Iced Vietnamese espresso coffee with sweetened condensed milk",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -683,7 +683,7 @@
       "price": 2.95,
       "description": "Nước Trái Cây (Apple, Cranberry, Orange)",
       "category": "DRINK",
-      "simplified_description": "Fresh apple, cranberry, or orange juice.",
+      "simplified_description": "Fresh apple, cranberry, or orange juice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -697,9 +697,9 @@
     {
       "name": "Jasmine Tea pot (1 cup)",
       "price": 1.0,
-      "description": "Nước Trà Jasmine ",
+      "description": "Nước Trà Jasmine",
       "category": "DRINK",
-      "simplified_description": "Pot of jasmine tea, serves one cup.",
+      "simplified_description": "Pot of jasmine tea, serves one cup",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -715,7 +715,7 @@
       "price": 3.25,
       "description": "Sữa Tuoi",
       "category": "DRINK",
-      "simplified_description": "Fresh white milk.",
+      "simplified_description": "Fresh white milk",
       "dietary_info": [
         "nut-free",
         "halal",
@@ -728,7 +728,7 @@
       "price": 1.95,
       "description": "Nước Giải Khát Côca",
       "category": "DRINK",
-      "simplified_description": "Variety of soft drinks including Coke, Pepsi, and ginger ale.",
+      "simplified_description": "Variety of soft drinks including Coke, Pepsi, and ginger ale",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -744,7 +744,7 @@
       "price": 6.95,
       "description": "Taro, Mango, Strawberry, Avocado & Pineapple (Uses Fresh Fruit) * Coconut, Lychee, Honeydew (Uses Powder)",
       "category": "DRINK",
-      "simplified_description": "Fruit-flavored bubble tea served with pearls or jelly toppings.",
+      "simplified_description": "Fruit-flavored bubble tea served with pearls or jelly toppings",
       "dietary_info": [
         "dairy-free",
         "nut-free",

@@ -15,27 +15,27 @@
     {
       "name": "Traditional Mixed Grill",
       "price": 22.95,
-      "description": "2 bacon, 2 sausage links, and ham.",
+      "description": "2 bacon, 2 sausage links, and ham",
       "category": "FOOD",
-      "simplified_description": "2 bacon, 2 sausage links, and ham.",
+      "simplified_description": "2 bacon, 2 sausage links, and ham",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Phil's Mixed Grill",
       "price": 22.95,
-      "description": "2 bacon, 2 beef chubbies, 2 pork chubbies.",
+      "description": "2 bacon, 2 beef chubbies, 2 pork chubbies",
       "category": "FOOD",
-      "simplified_description": "2 bacon, 2 beef chubbies, 2 pork chubbies.",
+      "simplified_description": "2 bacon, 2 beef chubbies, 2 pork chubbies",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Steak & Eggs",
       "price": 25.95,
-      "description": "6oz AAA angus sirloin, charbroiled to perfection.",
+      "description": "6oz AAA angus sirloin, charbroiled to perfection",
       "category": "FOOD",
-      "simplified_description": "6oz AAA angus sirloin, charbroiled to perfection.",
+      "simplified_description": "6oz AAA angus sirloin, charbroiled to perfection",
       "dietary_info": [],
       "other_info": ""
     },
@@ -78,16 +78,16 @@
     {
       "name": "Spanish",
       "price": 19.5,
-      "description": "Spanish sauce, tomatoes, sautéed onions, peppers, & mushrooms.",
+      "description": "Spanish sauce, tomatoes, sautéed onions, peppers, & mushrooms",
       "category": "FOOD",
-      "simplified_description": "Spanish sauce, tomatoes, sautéed onions, peppers, & mushrooms.",
+      "simplified_description": "Spanish sauce, tomatoes, sautéed onions, peppers, & mushrooms",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "West Coast",
       "price": 23.5,
-      "description": "Smoked salmon, onion marmalade, cream cheese, grilled tomatoes, capers, & hollandaise sauce.",
+      "description": "Smoked salmon, onion marmalade, cream cheese, grilled tomatoes, capers, & hollandaise sauce",
       "category": "FOOD",
       "simplified_description": "Smoked salmon, onion marmalade, cream cheese, grilled tomatoes, capers, & hollan",
       "dietary_info": [],
@@ -96,16 +96,16 @@
     {
       "name": "Benedict",
       "price": 19.95,
-      "description": "Peameal back bacon, hollandaise sauce, and green onions.",
+      "description": "Peameal back bacon, hollandaise sauce, and green onions",
       "category": "FOOD",
-      "simplified_description": "Peameal back bacon, hollandaise sauce, and green onions.",
+      "simplified_description": "Peameal back bacon, hollandaise sauce, and green onions",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Build Your Own",
       "price": 15.5,
-      "description": "Add +$4.00 each: Beef Chubbies | Pork Chubbies | Chicken Chubbies | Smoked Salmon • Add +$2.50 each: Bacon | Minced Ham | Sausage Links | Peameal Back Bacon | Smoked Salmon | Cheddar Cheese | Monterey Jack Cheese • Add +$1.00 each: Mushrooms | Tomatoes | Green or Regular Onions | Jalapeños | Bell Peppers | Spinach | Hollandaise | Salsa",
+      "description": "Add +$4.00 each: Beef Chubbies | Pork Chubbies | Chicken Chubbies | Smoked Salmon • Add +$2.50 each: Bacon | Minced Ham | Sausage Links | Peameal Back Bacon | Smoked Salmon | Cheddar Cheese | Monterey Jack Cheese • Add +$1.00 each: Mushrooms | Tomatoes | Green or Regular Onions | Jalapeños | Bell",
       "category": "FOOD",
       "simplified_description": "Add +$4.00 each: Beef Chubbies | Pork Chubbies | Chicken Chubbies | Smoked Salmo",
       "dietary_info": [],
@@ -114,36 +114,36 @@
     {
       "name": "Apple Cinnamon",
       "price": null,
-      "description": "Warm, sweet, and delicious.",
+      "description": "Warm, sweet, and delicious",
       "category": "FOOD",
-      "simplified_description": "Warm, sweet, and delicious.",
+      "simplified_description": "Warm, sweet, and delicious",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Blueberry",
       "price": null,
-      "description": "Warm and tart.",
+      "description": "Warm and tart",
       "category": "FOOD",
-      "simplified_description": "Warm and tart.",
+      "simplified_description": "Warm and tart",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Strawberry",
       "price": null,
-      "description": "Cool and tangy.",
+      "description": "Cool and tangy",
       "category": "FOOD",
-      "simplified_description": "Cool and tangy.",
+      "simplified_description": "Cool and tangy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Peach Melba",
       "price": null,
-      "description": "Peaches in light syrup and raspberries.",
+      "description": "Peaches in light syrup and raspberries",
       "category": "FOOD",
-      "simplified_description": "Peaches in light syrup and raspberries.",
+      "simplified_description": "Peaches in light syrup and raspberries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -177,9 +177,9 @@
     {
       "name": "Cinnamon Swirl",
       "price": 14.95,
-      "description": "3 Cinnamon sugar pancakes, finished with cream cheese icing.",
+      "description": "3 Cinnamon sugar pancakes, finished with cream cheese icing",
       "category": "FOOD",
-      "simplified_description": "3 Cinnamon sugar pancakes, finished with cream cheese icing.",
+      "simplified_description": "3 Cinnamon sugar pancakes, finished with cream cheese icing",
       "dietary_info": [],
       "other_info": ""
     },
@@ -195,16 +195,16 @@
     {
       "name": "Stuffed French Toast",
       "price": 19.95,
-      "description": "2 French toast stuffed with peameal back bacon, scrambled eggs, monterey Jack & cheddar cheese. Served with apple compote.",
+      "description": "2 French toast stuffed with peameal back bacon, scrambled eggs, monterey Jack & cheddar cheese. Served with apple compote",
       "category": "FOOD",
-      "simplified_description": "2 French toast stuffed with peameal back bacon, scrambled eggs, monterey Jack & ",
+      "simplified_description": "2 French toast stuffed with peameal back bacon, scrambled eggs, monterey Jack &",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "3 French Toast & One Side",
       "price": 19.5,
-      "description": "Choose one: 3 bacon, 3 peameal back bacon, 2 slices of ham, 2 eggs, 3 chubbies (beef, pork, chicken), 3 sausage.",
+      "description": "Choose one: 3 bacon, 3 peameal back bacon, 2 slices of ham, 2 eggs, 3 chubbies (beef, pork, chicken), 3 sausage",
       "category": "FOOD",
       "simplified_description": "Choose one: 3 bacon, 3 peameal back bacon, 2 slices of ham, 2 eggs, 3 chubbies (",
       "dietary_info": [],
@@ -213,9 +213,9 @@
     {
       "name": "3 Banana Cream French Toast",
       "price": 19.5,
-      "description": "Topped with banana pudding, sliced banana, whipped cream, & coconut shavings.",
+      "description": "Topped with banana pudding, sliced banana, whipped cream, & coconut shavings",
       "category": "FOOD",
-      "simplified_description": "Topped with banana pudding, sliced banana, whipped cream, & coconut shavings.",
+      "simplified_description": "Topped with banana pudding, sliced banana, whipped cream, & coconut shavings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -231,16 +231,16 @@
     {
       "name": "Chicken & Waffle",
       "price": 21.5,
-      "description": "Breaded chicken, jalapeño cream sauce, and drizzled maple syrup.",
+      "description": "Breaded chicken, jalapeño cream sauce, and drizzled maple syrup",
       "category": "FOOD",
-      "simplified_description": "Breaded chicken, jalapeño cream sauce, and drizzled maple syrup.",
+      "simplified_description": "Breaded chicken, jalapeño cream sauce, and drizzled maple syrup",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Waffle & One Side",
       "price": 19.5,
-      "description": "Choose one: 3 bacon, 3 peameal back bacon, 2 slices of ham, 2 eggs, 3 chubbies (beef, pork, chicken), 3 sausage.",
+      "description": "Choose one: 3 bacon, 3 peameal back bacon, 2 slices of ham, 2 eggs, 3 chubbies (beef, pork, chicken), 3 sausage",
       "category": "FOOD",
       "simplified_description": "Choose one: 3 bacon, 3 peameal back bacon, 2 slices of ham, 2 eggs, 3 chubbies (",
       "dietary_info": [],
@@ -249,7 +249,7 @@
     {
       "name": "Nutella Crepes",
       "price": 16.95,
-      "description": "2 Crepes filled with nutella, apples, and bananas. Topped with chocolate sauce & whipped cream.",
+      "description": "2 Crepes filled with nutella, apples, and bananas. Topped with chocolate sauce & whipped cream",
       "category": "FOOD",
       "simplified_description": "2 Crepes filled with nutella, apples, and bananas. Topped with chocolate sauce &",
       "dietary_info": [],
@@ -258,16 +258,16 @@
     {
       "name": "Fruit Compote Crepes",
       "price": 16.95,
-      "description": "3 Crepes filled with your choice of Phil’s fruit compote & whipped cream.",
+      "description": "3 Crepes filled with your choice of Phil’s fruit compote & whipped cream",
       "category": "FOOD",
-      "simplified_description": "3 Crepes filled with your choice of Phil’s fruit compote & whipped cream.",
+      "simplified_description": "3 Crepes filled with your choice of Phil’s fruit compote & whipped cream",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Monte Cristo",
       "price": 19.5,
-      "description": "Triple layered bread with ham, sliced turkey breast & Monterey jack cheese, dipped in egg batter & grilled.",
+      "description": "Triple layered bread with ham, sliced turkey breast & Monterey jack cheese, dipped in egg batter & grilled",
       "category": "FOOD",
       "simplified_description": "Triple layered bread with ham, sliced turkey breast & Monterey jack cheese, dipp",
       "dietary_info": [],
@@ -276,7 +276,7 @@
     {
       "name": "Breakfast Quesadilla",
       "price": 19.5,
-      "description": "Flour tortilla, scrambled eggs, peppers, onions, tomatoes, & Monterey jack cheese. Side salsa & sour cream.",
+      "description": "Flour tortilla, scrambled eggs, peppers, onions, tomatoes, & Monterey jack cheese. Side salsa & sour cream",
       "category": "FOOD",
       "simplified_description": "Flour tortilla, scrambled eggs, peppers, onions, tomatoes, & Monterey jack chees",
       "dietary_info": [],
@@ -285,25 +285,25 @@
     {
       "name": "Breakfast Club",
       "price": 21.5,
-      "description": "Triple layered toast with ham, egg, bacon, mayo, lettuce & tomato.",
+      "description": "Triple layered toast with ham, egg, bacon, mayo, lettuce & tomato",
       "category": "FOOD",
-      "simplified_description": "Triple layered toast with ham, egg, bacon, mayo, lettuce & tomato.",
+      "simplified_description": "Triple layered toast with ham, egg, bacon, mayo, lettuce & tomato",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Western Denver",
       "price": 17.5,
-      "description": "2 scrambled eggs with green pepper, onion, minced ham & toast.",
+      "description": "2 scrambled eggs with green pepper, onion, minced ham & toast",
       "category": "FOOD",
-      "simplified_description": "2 scrambled eggs with green pepper, onion, minced ham & toast.",
+      "simplified_description": "2 scrambled eggs with green pepper, onion, minced ham & toast",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Breakfast Smash Burger",
       "price": 20.5,
-      "description": "Beef smash patty, processed cheese, shredded hash browns, bacon, fried egg & chipotle aioli.",
+      "description": "Beef smash patty, processed cheese, shredded hash browns, bacon, fried egg & chipotle aioli",
       "category": "FOOD",
       "simplified_description": "Beef smash patty, processed cheese, shredded hash browns, bacon, fried egg & chi",
       "dietary_info": [],
@@ -312,7 +312,7 @@
     {
       "name": "Corned Beef Hash",
       "price": 20.5,
-      "description": "Corned beef, 2 eggs, green onions, shredded hash browns & hollandaise sauce. Served with toast.",
+      "description": "Corned beef, 2 eggs, green onions, shredded hash browns & hollandaise sauce. Served with toast",
       "category": "FOOD",
       "simplified_description": "Corned beef, 2 eggs, green onions, shredded hash browns & hollandaise sauce. Ser",
       "dietary_info": [],
@@ -330,16 +330,16 @@
     {
       "name": "Eggs Ranchero",
       "price": 19.5,
-      "description": "½ crispy tortilla bowl, refried beans, jalapeños, Spanish sauce, 2 poached eggs, monterey jack & cheddar cheese. Served with shredded or chunky hash browns.",
+      "description": "½ crispy tortilla bowl, refried beans, jalapeños, Spanish sauce, 2 poached eggs, monterey jack & cheddar cheese. Served with shredded or chunky hash browns",
       "category": "FOOD",
-      "simplified_description": "½ crispy tortilla bowl, refried beans, jalapeños, Spanish sauce, 2 poached eggs,",
+      "simplified_description": "½ crispy tortilla bowl, refried beans, jalapeños, Spanish sauce, 2 poached eggs",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Hangover Poutine",
       "price": 19.5,
-      "description": "Fries, monterey jack cheese, chopped bacon, 2 poached eggs, hollandaise, & a dash of paprika.",
+      "description": "Fries, monterey jack cheese, chopped bacon, 2 poached eggs, hollandaise, & a dash of paprika",
       "category": "FOOD",
       "simplified_description": "Fries, monterey jack cheese, chopped bacon, 2 poached eggs, hollandaise, & a das",
       "dietary_info": [],
@@ -357,34 +357,34 @@
     {
       "name": "Caesar Salad",
       "price": 16.5,
-      "description": "Parmesan cheese, bacon bits, croutons. Served with garlic toast.",
+      "description": "Parmesan cheese, bacon bits, croutons. Served with garlic toast",
       "category": "FOOD",
-      "simplified_description": "Parmesan cheese, bacon bits, croutons. Served with garlic toast.",
+      "simplified_description": "Parmesan cheese, bacon bits, croutons. Served with garlic toast",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chef Salad",
       "price": 21.95,
-      "description": "Mixed greens, green onion, tomato, ham, turkey, hard boiled egg, monterey jack, & cheddar cheese.",
+      "description": "Mixed greens, green onion, tomato, ham, turkey, hard boiled egg, monterey jack, & cheddar cheese",
       "category": "FOOD",
-      "simplified_description": "Mixed greens, green onion, tomato, ham, turkey, hard boiled egg, monterey jack, ",
+      "simplified_description": "Mixed greens, green onion, tomato, ham, turkey, hard boiled egg, monterey jack",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Taco Salad",
       "price": 21.95,
-      "description": "Crispy tortilla bowl, mixed greens, onions, tomatoes, green pepper, black beans, jalapeños, monterey jack, cheddar cheese, & guacamole. Choose: seasoned beef or crispy chicken. Side sour cream & salsa.",
+      "description": "Crispy tortilla bowl, mixed greens, onions, tomatoes, green pepper, black beans, jalapeños, monterey jack, cheddar cheese, & guacamole. Choose: seasoned beef or crispy chicken. Side sour cream & salsa",
       "category": "FOOD",
-      "simplified_description": "Crispy tortilla bowl, mixed greens, onions, tomatoes, green pepper, black beans,",
+      "simplified_description": "Crispy tortilla bowl, mixed greens, onions, tomatoes, green pepper, black beans",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "French Beef Dip",
       "price": 20.95,
-      "description": "Slow roasted Alberta beef, on a French loaf grilled with garlic butter. Served with Au Jus or beef gravy.",
+      "description": "Slow roasted Alberta beef, on a French loaf grilled with garlic butter. Served with Au Jus or beef gravy",
       "category": "FOOD",
       "simplified_description": "Slow roasted Alberta beef, on a French loaf grilled with garlic butter. Served w",
       "dietary_info": [],
@@ -393,25 +393,25 @@
     {
       "name": "Club House",
       "price": 21.5,
-      "description": "Triple layered toast with bacon, sliced turkey, mayo, processed cheese, lettuce, & tomato.",
+      "description": "Triple layered toast with bacon, sliced turkey, mayo, processed cheese, lettuce, & tomato",
       "category": "FOOD",
-      "simplified_description": "Triple layered toast with bacon, sliced turkey, mayo, processed cheese, lettuce,",
+      "simplified_description": "Triple layered toast with bacon, sliced turkey, mayo, processed cheese, lettuce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Reuben on Rye",
       "price": 19.95,
-      "description": "Corned beef with monterey jack cheese & sauerkraut.",
+      "description": "Corned beef with monterey jack cheese & sauerkraut",
       "category": "FOOD",
-      "simplified_description": "Corned beef with monterey jack cheese & sauerkraut.",
+      "simplified_description": "Corned beef with monterey jack cheese & sauerkraut",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Patty Melt Supreme",
       "price": 19.95,
-      "description": "6oz. hamburger patty with sautéed onions & melted monterey jack cheese, on grilled rye bread.",
+      "description": "6oz. hamburger patty with sautéed onions & melted monterey jack cheese, on grilled rye bread",
       "category": "FOOD",
       "simplified_description": "6oz. hamburger patty with sautéed onions & melted monterey jack cheese, on grill",
       "dietary_info": [],
@@ -420,9 +420,9 @@
     {
       "name": "Traditional",
       "price": 19.5,
-      "description": "English muffin, peameal back bacon, poached eggs, & hollandaise.",
+      "description": "English muffin, peameal back bacon, poached eggs, & hollandaise",
       "category": "FOOD",
-      "simplified_description": "English muffin, peameal back bacon, poached eggs, & hollandaise.",
+      "simplified_description": "English muffin, peameal back bacon, poached eggs, & hollandaise",
       "dietary_info": [],
       "other_info": ""
     },
@@ -447,16 +447,16 @@
     {
       "name": "Brisket",
       "price": 21.95,
-      "description": "Smoked beef brisket, English muffin, poached eggs, hollandaise, dash of Frank’s hot sauce, & crispy frizzled onions.",
+      "description": "Smoked beef brisket, English muffin, poached eggs, hollandaise, dash of Frank’s hot sauce, & crispy frizzled onions",
       "category": "FOOD",
-      "simplified_description": "Smoked beef brisket, English muffin, poached eggs, hollandaise, dash of Frank’s ",
+      "simplified_description": "Smoked beef brisket, English muffin, poached eggs, hollandaise, dash of Frank’s",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Vegetarian",
       "price": 17.95,
-      "description": "Puréed avocado replaces hollandaise and flows over poached eggs, tomato slices & toasted English muffin.",
+      "description": "Puréed avocado replaces hollandaise and flows over poached eggs, tomato slices & toasted English muffin",
       "category": "FOOD",
       "simplified_description": "Puréed avocado replaces hollandaise and flows over poached eggs, tomato slices &",
       "dietary_info": [],
@@ -483,16 +483,16 @@
     {
       "name": "Fish & Chips",
       "price": 23.5,
-      "description": "10 oz piece of battered cod. Served with fries, coleslaw, & tartar sauce.",
+      "description": "10 oz piece of battered cod. Served with fries, coleslaw, & tartar sauce",
       "category": "FOOD",
-      "simplified_description": "10 oz piece of battered cod. Served with fries, coleslaw, & tartar sauce.",
+      "simplified_description": "10 oz piece of battered cod. Served with fries, coleslaw, & tartar sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Salisbury Steak",
       "price": 19.95,
-      "description": "Smothered with onions, mushrooms, & beef gravy. Served with mixed vegetables & choice of potato.",
+      "description": "Smothered with onions, mushrooms, & beef gravy. Served with mixed vegetables & choice of potato",
       "category": "FOOD",
       "simplified_description": "Smothered with onions, mushrooms, & beef gravy. Served with mixed vegetables & c",
       "dietary_info": [],
@@ -501,7 +501,7 @@
     {
       "name": "Pork or Veal Cutlet",
       "price": 19.95,
-      "description": "Pork $19.95 | Veal $22.50 • Cutlet served atop our own Mushroom Cream Sauce served with Mixed Vegetables & Choice of Potato.",
+      "description": "Pork $19.95 | Veal $22.50 • Cutlet served atop our own Mushroom Cream Sauce served with Mixed Vegetables & Choice of Potato",
       "category": "FOOD",
       "simplified_description": "Pork $19.95 | Veal $22.50 • Cutlet served atop our own Mushroom Cream Sauce serv",
       "dietary_info": [],
@@ -510,7 +510,7 @@
     {
       "name": "Grilled Beef Liver",
       "price": 21.95,
-      "description": "2 pieces of grilled liver, sautéed onions, beef gravy, & 2 strips of bacon. Served with mixed vegetables & choice of potato.",
+      "description": "2 pieces of grilled liver, sautéed onions, beef gravy, & 2 strips of bacon. Served with mixed vegetables & choice of potato",
       "category": "FOOD",
       "simplified_description": "2 pieces of grilled liver, sautéed onions, beef gravy, & 2 strips of bacon. Serv",
       "dietary_info": [],
@@ -629,7 +629,7 @@
       "price": 5.95,
       "description": "Quarter Belgian waffle topped with foothills ice cream and your choice of apple cinnamon, blueberry, strawberry, or peach melba fruit compote. Substitute gluten free waffle + $0.25",
       "category": "DESSERT",
-      "simplified_description": "Quarter Belgian waffle topped with foothills ice cream and your choice of apple ",
+      "simplified_description": "Quarter Belgian waffle topped with foothills ice cream and your choice of apple",
       "dietary_info": [],
       "other_info": ""
     },
@@ -663,9 +663,9 @@
     {
       "name": "Dollar Size Pancakes",
       "price": 5.5,
-      "description": "(6) delicious mini pancakes | Free for children 8 and under.",
+      "description": "(6) delicious mini pancakes | Free for children 8 and under",
       "category": "FOOD",
-      "simplified_description": "(6) delicious mini pancakes | Free for children 8 and under.",
+      "simplified_description": "(6) delicious mini pancakes | Free for children 8 and under",
       "dietary_info": [],
       "other_info": ""
     },
@@ -681,25 +681,25 @@
     {
       "name": "Bacon Breakfast",
       "price": 9.95,
-      "description": "2 buttermilk or buckwheat pancakes & 2 bacon.",
+      "description": "2 buttermilk or buckwheat pancakes & 2 bacon",
       "category": "FOOD",
-      "simplified_description": "2 buttermilk or buckwheat pancakes & 2 bacon.",
+      "simplified_description": "2 buttermilk or buckwheat pancakes & 2 bacon",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Minced Ham & Scrambled Egg",
       "price": 9.95,
-      "description": "1 scrambled egg with minced ham, served with 2 buttermilk or buckwheat pancakes.",
+      "description": "1 scrambled egg with minced ham, served with 2 buttermilk or buckwheat pancakes",
       "category": "FOOD",
-      "simplified_description": "1 scrambled egg with minced ham, served with 2 buttermilk or buckwheat pancakes.",
+      "simplified_description": "1 scrambled egg with minced ham, served with 2 buttermilk or buckwheat pancakes",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Cheese Omelette",
       "price": 9.95,
-      "description": "1 egg omelette with melted cheddar cheese, served with 2 buttermilk or buckwheat pancakes.",
+      "description": "1 egg omelette with melted cheddar cheese, served with 2 buttermilk or buckwheat pancakes",
       "category": "FOOD",
       "simplified_description": "1 egg omelette with melted cheddar cheese, served with 2 buttermilk or buckwheat",
       "dietary_info": [],
@@ -717,18 +717,18 @@
     {
       "name": "French Toast & Bacon",
       "price": 9.95,
-      "description": "1 French toast & 2 bacon.",
+      "description": "1 French toast & 2 bacon",
       "category": "FOOD",
-      "simplified_description": "1 French toast & 2 bacon.",
+      "simplified_description": "1 French toast & 2 bacon",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Grilled Cheese Sandwich",
       "price": 9.95,
-      "description": "Processed cheese. Comes with fries or a cup of soup of the day.",
+      "description": "Processed cheese. Comes with fries or a cup of soup of the day",
       "category": "FOOD",
-      "simplified_description": "Processed cheese. Comes with fries or a cup of soup of the day.",
+      "simplified_description": "Processed cheese. Comes with fries or a cup of soup of the day",
       "dietary_info": [],
       "other_info": ""
     },
@@ -744,9 +744,9 @@
     {
       "name": "Chicken Fingers & Fries",
       "price": 9.95,
-      "description": "2 breaded chicken fingers and fries.",
+      "description": "2 breaded chicken fingers and fries",
       "category": "FOOD",
-      "simplified_description": "2 breaded chicken fingers and fries.",
+      "simplified_description": "2 breaded chicken fingers and fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -798,9 +798,9 @@
     {
       "name": "Ice Coffee",
       "price": 5.25,
-      "description": "Plain, Caramel, or Vanilla.",
+      "description": "Plain, Caramel, or Vanilla",
       "category": "DRINK",
-      "simplified_description": "Plain, Caramel, or Vanilla.",
+      "simplified_description": "Plain, Caramel, or Vanilla",
       "dietary_info": [],
       "other_info": ""
     },

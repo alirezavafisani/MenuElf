@@ -15,9 +15,9 @@
     {
       "name": "Bruschetta",
       "price": 9.0,
-      "description": "Fresh tomato brsuchetta with cheese on garlic buttered cheese toast.",
+      "description": "Fresh tomato brsuchetta with cheese on garlic buttered cheese toast",
       "category": "APPETIZER",
-      "simplified_description": "Fresh tomato brsuchetta with cheese on garlic buttered cheese toast.",
+      "simplified_description": "Fresh tomato brsuchetta with cheese on garlic buttered cheese toast",
       "dietary_info": [],
       "other_info": ""
     },
@@ -33,9 +33,9 @@
     {
       "name": "Garlic Toast",
       "price": 3.0,
-      "description": "Perfectly toasted garlic buttered Italian bread.",
+      "description": "Perfectly toasted garlic buttered Italian bread",
       "category": "APPETIZER",
-      "simplified_description": "Perfectly toasted garlic buttered Italian bread.",
+      "simplified_description": "Perfectly toasted garlic buttered Italian bread",
       "dietary_info": [],
       "other_info": ""
     },
@@ -186,7 +186,7 @@
     {
       "name": "Greek",
       "price": 15.5,
-      "description": "Spinach, tomato, black olives, goat feta. Add red onion, artichokes or Italian sausage for no extra charge.",
+      "description": "Spinach, tomato, black olives, goat feta. Add red onion, artichokes or Italian sausage for no extra charge",
       "category": "FOOD",
       "simplified_description": "Spinach, tomato, black olives, goat feta. Add red onion, artichokes or Italian s",
       "dietary_info": [],
@@ -213,7 +213,7 @@
     {
       "name": "Garden",
       "price": 4.5,
-      "description": "Crisp romaine, topped with fresh vegetables. Served with your choice of ranch or Italian dressing.",
+      "description": "Crisp romaine, topped with fresh vegetables. Served with your choice of ranch or Italian dressing",
       "category": "SALAD",
       "simplified_description": "Crisp romaine, topped with fresh vegetables. Served with your choice of ranch or",
       "dietary_info": [],
@@ -222,7 +222,7 @@
     {
       "name": "Caesar",
       "price": 5.5,
-      "description": "Crisp romaine tossed with our famous homemade caesar dressing, croutons and fresh parmesan.",
+      "description": "Crisp romaine tossed with our famous homemade caesar dressing, croutons and fresh parmesan",
       "category": "SALAD",
       "simplified_description": "Crisp romaine tossed with our famous homemade caesar dressing, croutons and fres",
       "dietary_info": [],
@@ -231,7 +231,7 @@
     {
       "name": "Greek",
       "price": 7.0,
-      "description": "Crisp romaine, tomato, cucumber, green and red peppers, red onion, goat feta, kalamata olives.",
+      "description": "Crisp romaine, tomato, cucumber, green and red peppers, red onion, goat feta, kalamata olives",
       "category": "SALAD",
       "simplified_description": "Crisp romaine, tomato, cucumber, green and red peppers, red onion, goat feta, ka",
       "dietary_info": [],
@@ -240,7 +240,7 @@
     {
       "name": "Spinach",
       "price": 7.0,
-      "description": "Baby spinach, red onion, mushrooms, hard boiled egg, bacon bits. Drizzled with our creamy maple dressing.",
+      "description": "Baby spinach, red onion, mushrooms, hard boiled egg, bacon bits. Drizzled with our creamy maple dressing",
       "category": "SALAD",
       "simplified_description": "Baby spinach, red onion, mushrooms, hard boiled egg, bacon bits. Drizzled with o",
       "dietary_info": [],
@@ -249,7 +249,7 @@
     {
       "name": "Chicken Wings",
       "price": 15.0,
-      "description": "Ten oven baked wings. Salt & Pepper, Ragin' Red, BBQ, Honey garlic, Sweet Thai chili, House sauce (sweet & spicy), Billy the Greek style.",
+      "description": "Ten oven baked wings. Salt & Pepper, Ragin' Red, BBQ, Honey garlic, Sweet Thai chili, House sauce (sweet & spicy), Billy the Greek style",
       "category": "OTHER",
       "simplified_description": "Ten oven baked wings. Salt & Pepper, Ragin' Red, BBQ, Honey garlic, Sweet Thai c",
       "dietary_info": [],
@@ -285,7 +285,7 @@
     {
       "name": "Lasagna",
       "price": 13.0,
-      "description": "Beef, pork, tomato sauce, vegetables and lots of cheese! Served with garlic toast.",
+      "description": "Beef, pork, tomato sauce, vegetables and lots of cheese! Served with garlic toast",
       "category": "FOOD",
       "simplified_description": "Beef, pork, tomato sauce, vegetables and lots of cheese! Served with garlic toas",
       "dietary_info": [],

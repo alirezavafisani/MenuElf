@@ -62,7 +62,7 @@
       "price": 19.4,
       "description": "cashew nut, cilantro, chili, red onion, mango, crispy shredded tilapia fillets, gree onion",
       "category": "FOOD",
-      "simplified_description": "cashew nut, cilantro, chili, red onion, mango, crispy shredded tilapia fillets, ",
+      "simplified_description": "cashew nut, cilantro, chili, red onion, mango, crispy shredded tilapia fillets",
       "dietary_info": [],
       "other_info": ""
     },
@@ -96,50 +96,50 @@
     {
       "name": "SILOM SET (for 2 ppl)",
       "price": 61.0,
-      "description": "Vegetable Spring Rolls\nRed Curry Chicken\nMixed Veggies Beef\nCoconut Rice\nCustard Sticky Rice",
+      "description": "Vegetable Spring Rolls Red Curry Chicken Mixed Veggies Beef Coconut Rice Custard Sticky Rice",
       "category": "OTHER",
-      "simplified_description": "Vegetable Spring Rolls\nRed Curry Chicken\nMixed Veggies Beef\nCoconut Rice\nCustard",
+      "simplified_description": "Vegetable Spring Rolls Red Curry Chicken Mixed Veggies Beef Coconut Rice Custard",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Sukhumvit Set (for 2 ppl)",
       "price": 67.0,
-      "description": "Shrimp Salad Rolls\nGreen Curry Shrimp\nCashew Chicken\nCoconut Rice\nMango Sticky Rice",
+      "description": "Shrimp Salad Rolls Green Curry Shrimp Cashew Chicken Coconut Rice Mango Sticky Rice",
       "category": "OTHER",
-      "simplified_description": "Shrimp Salad Rolls\nGreen Curry Shrimp\nCashew Chicken\nCoconut Rice\nMango Sticky R",
+      "simplified_description": "Shrimp Salad Rolls Green Curry Shrimp Cashew Chicken Coconut Rice Mango Sticky R",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Sathorn Set (for 2 ppl) (veg)",
       "price": 61.0,
-      "description": "Deep Fried Tofu\nYellow Curry Tofu\nMixed Veggie with Cashew Nuts\nCoconut Rice\nMango Sticky Rice",
+      "description": "Deep Fried Tofu Yellow Curry Tofu Mixed Veggie with Cashew Nuts Coconut Rice Mango Sticky Rice",
       "category": "OTHER",
-      "simplified_description": "Deep Fried Tofu\nYellow Curry Tofu\nMixed Veggie with Cashew Nuts\nCoconut Rice\nMan",
+      "simplified_description": "Deep Fried Tofu Yellow Curry Tofu Mixed Veggie with Cashew Nuts Coconut Rice Man",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Bang Rak Set (for 4 ppl)",
       "price": 116.0,
-      "description": "Crispy Pork Wontons\nMassaman Beef\nMixed Veggies Chicken\nBasil Grounded Pork\nPad Thai Shrimp\nCoconut Rice\nMango Sticky Rice",
+      "description": "Crispy Pork Wontons Massaman Beef Mixed Veggies Chicken Basil Grounded Pork Pad Thai Shrimp Coconut Rice Mango Sticky Rice",
       "category": "OTHER",
-      "simplified_description": "Crispy Pork Wontons\nMassaman Beef\nMixed Veggies Chicken\nBasil Grounded Pork\nPad ",
+      "simplified_description": "Crispy Pork Wontons Massaman Beef Mixed Veggies Chicken Basil Grounded Pork Pad",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lunch Specials Set",
       "price": 17.9,
-      "description": "Each set includes:\nFried Wontons (3pcs) + Main of your choice (choose between L1-L6) + Regular Rice + Dessert of the Day",
+      "description": "Each set includes: Fried Wontons (3pcs) + Main of your choice (choose between L1-L6) + Regular Rice + Dessert of the Day",
       "category": "OTHER",
-      "simplified_description": "Each set includes:\nFried Wontons (3pcs) + Main of your choice (choose between L1",
+      "simplified_description": "Each set includes: Fried Wontons (3pcs) + Main of your choice (choose between L1",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "L1 Green Curry*",
+      "name": "L1 Green Curry",
       "price": null,
       "description": "null",
       "category": "FOOD",
@@ -148,7 +148,7 @@
       "other_info": ""
     },
     {
-      "name": "L2 Red Curry*",
+      "name": "L2 Red Curry",
       "price": null,
       "description": "null",
       "category": "FOOD",
@@ -157,7 +157,7 @@
       "other_info": ""
     },
     {
-      "name": "L3 Mixed Veggies Stir Fried*",
+      "name": "L3 Mixed Veggies Stir Fried",
       "price": null,
       "description": "null",
       "category": "FOOD",
@@ -260,7 +260,7 @@
       "price": 5.8,
       "description": "Butterfly Pea Lemonade / Thai Milk Tea / Thai Iced Coffee / Pink Milk / Coconut Juice",
       "category": "DRINK",
-      "simplified_description": "Butterfly Pea Lemonade / Thai Milk Tea / Thai Iced Coffee / Pink Milk / Coconut ",
+      "simplified_description": "Butterfly Pea Lemonade / Thai Milk Tea / Thai Iced Coffee / Pink Milk / Coconut",
       "dietary_info": [],
       "other_info": ""
     },
@@ -303,9 +303,9 @@
     {
       "name": "Wine",
       "price": null,
-      "description": "House Wine\nRed: Cabernet Sauvignon / Merlot\nWhite: Sauvignon Blanc / Pinot Grigio",
+      "description": "House Wine Red: Cabernet Sauvignon / Merlot White: Sauvignon Blanc / Pinot Grigio",
       "category": "DRINK",
-      "simplified_description": "House Wine\nRed: Cabernet Sauvignon / Merlot\nWhite: Sauvignon Blanc / Pinot Grigi",
+      "simplified_description": "House Wine Red: Cabernet Sauvignon / Merlot White: Sauvignon Blanc / Pinot Grigi",
       "dietary_info": [],
       "other_info": ""
     },

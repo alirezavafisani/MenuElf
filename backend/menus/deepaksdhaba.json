@@ -8,7 +8,7 @@
       "price": null,
       "description": "null",
       "category": "OTHER",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,7 +44,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,7 +53,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -62,7 +62,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -71,7 +71,7 @@
       "price": null,
       "description": "Each",
       "category": "DRINK",
-      "simplified_description": "Chai-flavored beer served individually.",
+      "simplified_description": "Chai-flavored beer served individually",
       "dietary_info": [],
       "other_info": ""
     },
@@ -80,7 +80,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -89,7 +89,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [],
       "other_info": ""
     },
@@ -98,7 +98,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "No description available.",
+      "simplified_description": "No description available",
       "dietary_info": [
         "vegetarian",
         "halal"
@@ -110,7 +110,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "Whole wheat tandoori flatbread without animal products.",
+      "simplified_description": "Whole wheat tandoori flatbread without animal products",
       "dietary_info": [
         "vegan",
         "halal"
@@ -122,7 +122,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "Yogurt mixed with cucumber for a cooling side dish.",
+      "simplified_description": "Yogurt mixed with cucumber for a cooling side dish",
       "dietary_info": [
         "vegetarian",
         "halal"
@@ -134,7 +134,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "Simple white flour flatbread baked in a tandoor.",
+      "simplified_description": "Simple white flour flatbread baked in a tandoor",
       "dietary_info": [
         "vegetarian",
         "halal"
@@ -146,7 +146,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "Flatbread topped with butter and garlic.",
+      "simplified_description": "Flatbread topped with butter and garlic",
       "dietary_info": [
         "vegetarian",
         "halal"
@@ -158,7 +158,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "A vegan Indian flatbread made with yellow lentils and spices.",
+      "simplified_description": "A vegan Indian flatbread made with yellow lentils and spices",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -173,7 +173,7 @@
       "price": null,
       "description": "null",
       "category": "SIDE",
-      "simplified_description": "A fresh mix of garden vegetables served as a salad.",
+      "simplified_description": "A fresh mix of garden vegetables served as a salad",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -188,7 +188,7 @@
       "price": null,
       "description": "null",
       "category": "DESSERT",
-      "simplified_description": "Warm deep-fried milk dumplings soaked in sweet syrup.",
+      "simplified_description": "Warm deep-fried milk dumplings soaked in sweet syrup",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -201,7 +201,7 @@
       "price": null,
       "description": "null",
       "category": "DESSERT",
-      "simplified_description": "A creamy rice pudding flavored with cardamom and nuts.",
+      "simplified_description": "A creamy rice pudding flavored with cardamom and nuts",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -214,7 +214,7 @@
       "price": null,
       "description": "null",
       "category": "DESSERT",
-      "simplified_description": "A dessert combining gulab jamun with ice cream.",
+      "simplified_description": "A dessert combining gulab jamun with ice cream",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -227,7 +227,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A popular American lager beer.",
+      "simplified_description": "A popular American lager beer",
       "dietary_info": [
         "halal"
       ],
@@ -238,7 +238,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A well-known Dutch pale lager beer.",
+      "simplified_description": "A well-known Dutch pale lager beer",
       "dietary_info": [
         "halal"
       ],
@@ -249,7 +249,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A Belgian pilsner beer with a crisp taste.",
+      "simplified_description": "A Belgian pilsner beer with a crisp taste",
       "dietary_info": [
         "halal"
       ],
@@ -260,7 +260,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A dark Irish stout beer with rich flavor.",
+      "simplified_description": "A dark Irish stout beer with rich flavor",
       "dietary_info": [
         "halal"
       ],
@@ -271,7 +271,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A light beer with chai spice flavors.",
+      "simplified_description": "A light beer with chai spice flavors",
       "dietary_info": [
         "halal"
       ],
@@ -282,7 +282,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A Japanese lager beer known for its smooth taste.",
+      "simplified_description": "A Japanese lager beer known for its smooth taste",
       "dietary_info": [
         "halal"
       ],
@@ -293,7 +293,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A Mexican pilsner-style beer with a crisp finish.",
+      "simplified_description": "A Mexican pilsner-style beer with a crisp finish",
       "dietary_info": [
         "halal"
       ],
@@ -302,9 +302,9 @@
     {
       "name": "Red",
       "price": null,
-      "description": "Cabernet Sauvignon\nMalbec \nShiraz\nPinot Noir",
+      "description": "Cabernet Sauvignon Malbec Shiraz Pinot Noir",
       "category": "DRINK",
-      "simplified_description": "A selection of red wines including Cabernet and Shiraz.",
+      "simplified_description": "A selection of red wines including Cabernet and Shiraz",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -317,9 +317,9 @@
     {
       "name": "White",
       "price": null,
-      "description": "Pinot Grigio \nSauvignon Blanc",
+      "description": "Pinot Grigio Sauvignon Blanc",
       "category": "DRINK",
-      "simplified_description": "A selection of white wines including Pinot Grigio and Sauvignon Blanc.",
+      "simplified_description": "A selection of white wines including Pinot Grigio and Sauvignon Blanc",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -334,7 +334,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A popular Indian dark rum.",
+      "simplified_description": "A popular Indian dark rum",
       "dietary_info": [
         "halal"
       ],
@@ -345,7 +345,7 @@
       "price": null,
       "description": "null",
       "category": "DRINK",
-      "simplified_description": "A popular brand of Indian whisky.",
+      "simplified_description": "A popular brand of Indian whisky",
       "dietary_info": [
         "gluten-free",
         "dairy-free",

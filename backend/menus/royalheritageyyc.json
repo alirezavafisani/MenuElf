@@ -42,7 +42,7 @@
     {
       "name": "Butter chicken",
       "price": 18.0,
-      "description": "Chicken Dishes - Classic butter chicken simmered to perfection in a creamy tomato-based gravy.",
+      "description": "Chicken Dishes - Classic butter chicken simmered to perfection in a creamy tomato-based gravy",
       "category": "FOOD",
       "simplified_description": "Chicken Dishes - Classic butter chicken simmered to perfection in a creamy tomat",
       "dietary_info": [],
@@ -51,70 +51,70 @@
     {
       "name": "Chicken Tikka Masala",
       "price": 17.0,
-      "description": "Chicken Dishes - Grilled chicken in a rich and spicy tikka sauce.",
+      "description": "Chicken Dishes - Grilled chicken in a rich and spicy tikka sauce",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - Grilled chicken in a rich and spicy tikka sauce.",
+      "simplified_description": "Chicken Dishes - Grilled chicken in a rich and spicy tikka sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Palak (Spinach) Chicken",
       "price": 17.0,
-      "description": "Chicken Dishes - Chicken simmered in spice spinach gravy.",
+      "description": "Chicken Dishes - Chicken simmered in spice spinach gravy",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - Chicken simmered in spice spinach gravy.",
+      "simplified_description": "Chicken Dishes - Chicken simmered in spice spinach gravy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Coconut Chicken Curry",
       "price": 17.0,
-      "description": "Chicken Dishes - Chicken in a mildly spiced coconut-based sauce.",
+      "description": "Chicken Dishes - Chicken in a mildly spiced coconut-based sauce",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - Chicken in a mildly spiced coconut-based sauce.",
+      "simplified_description": "Chicken Dishes - Chicken in a mildly spiced coconut-based sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mango chicken curry",
       "price": 17.0,
-      "description": "Chicken Dishes - A sweet and savory chicken curry with mango flavor.",
+      "description": "Chicken Dishes - A sweet and savory chicken curry with mango flavor",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - A sweet and savory chicken curry with mango flavor.",
+      "simplified_description": "Chicken Dishes - A sweet and savory chicken curry with mango flavor",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Traditional Chicken Curry",
       "price": 19.0,
-      "description": "Chicken Dishes - Homestyle chicken curry with robust gravy.",
+      "description": "Chicken Dishes - Homestyle chicken curry with robust gravy",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - Homestyle chicken curry with robust gravy.",
+      "simplified_description": "Chicken Dishes - Homestyle chicken curry with robust gravy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Vindaloo",
       "price": 17.0,
-      "description": "Chicken Dishes - Fiery goan-style chicken curry with vinegar and chilli.",
+      "description": "Chicken Dishes - Fiery goan-style chicken curry with vinegar and chilli",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - Fiery goan-style chicken curry with vinegar and chilli.",
+      "simplified_description": "Chicken Dishes - Fiery goan-style chicken curry with vinegar and chilli",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Korma",
       "price": 17.0,
-      "description": "Chicken Dishes - Creamy chicken curry made with yogurt, nuts and mild spices.",
+      "description": "Chicken Dishes - Creamy chicken curry made with yogurt, nuts and mild spices",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - Creamy chicken curry made with yogurt, nuts and mild spices.",
+      "simplified_description": "Chicken Dishes - Creamy chicken curry made with yogurt, nuts and mild spices",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Kadai Chicken",
       "price": 17.0,
-      "description": "Chicken Dishes - Spicy chicken cooked with onions, bell peppers, and bold spices.",
+      "description": "Chicken Dishes - Spicy chicken cooked with onions, bell peppers, and bold spices",
       "category": "FOOD",
       "simplified_description": "Chicken Dishes - Spicy chicken cooked with onions, bell peppers, and bold spices",
       "dietary_info": [],
@@ -123,9 +123,9 @@
     {
       "name": "Chicken Malabar",
       "price": 17.0,
-      "description": "Chicken Dishes - South Indian inspired dish cooked in fresh coconut-based sauce, curry leaves and strong Indian spices.",
+      "description": "Chicken Dishes - South Indian inspired dish cooked in fresh coconut-based sauce, curry leaves and strong Indian spices",
       "category": "FOOD",
-      "simplified_description": "Chicken Dishes - South Indian inspired dish cooked in fresh coconut-based sauce,",
+      "simplified_description": "Chicken Dishes - South Indian inspired dish cooked in fresh coconut-based sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -141,27 +141,27 @@
     {
       "name": "Lamb/ Beef / Goat Coconut Curry",
       "price": 18.0,
-      "description": "Meat Dishes - Tender meat cooked in a coconut-based gravy.",
+      "description": "Meat Dishes - Tender meat cooked in a coconut-based gravy",
       "category": "FOOD",
-      "simplified_description": "Meat Dishes - Tender meat cooked in a coconut-based gravy.",
+      "simplified_description": "Meat Dishes - Tender meat cooked in a coconut-based gravy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lamb/ Beef / Goat Vindaloo",
       "price": 18.0,
-      "description": "Meat Dishes - Spicy and tangy curry with bold goan flavors.",
+      "description": "Meat Dishes - Spicy and tangy curry with bold goan flavors",
       "category": "FOOD",
-      "simplified_description": "Meat Dishes - Spicy and tangy curry with bold goan flavors.",
+      "simplified_description": "Meat Dishes - Spicy and tangy curry with bold goan flavors",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lamb/ Beef / Goat Rogan Josh",
       "price": 18.0,
-      "description": "Meat Dishes - Slow cooked meat in kashmiri style red curry.",
+      "description": "Meat Dishes - Slow cooked meat in kashmiri style red curry",
       "category": "FOOD",
-      "simplified_description": "Meat Dishes - Slow cooked meat in kashmiri style red curry.",
+      "simplified_description": "Meat Dishes - Slow cooked meat in kashmiri style red curry",
       "dietary_info": [],
       "other_info": ""
     },
@@ -179,7 +179,7 @@
       "price": 18.0,
       "description": "Meat Dishes - North Indian braised meat dish made with browned onions, fragrant spices and yougurt",
       "category": "FOOD",
-      "simplified_description": "Meat Dishes - North Indian braised meat dish made with browned onions, fragrant ",
+      "simplified_description": "Meat Dishes - North Indian braised meat dish made with browned onions, fragrant",
       "dietary_info": [],
       "other_info": ""
     },
@@ -377,7 +377,7 @@
       "price": 16.0,
       "description": "Biryani - Fragrant basmati rice cooked with spiced vegetables and herbs. Served with Raita",
       "category": "FOOD",
-      "simplified_description": "Biryani - Fragrant basmati rice cooked with spiced vegetables and herbs. Served ",
+      "simplified_description": "Biryani - Fragrant basmati rice cooked with spiced vegetables and herbs. Served",
       "dietary_info": [],
       "other_info": ""
     },
@@ -422,7 +422,7 @@
       "price": 19.0,
       "description": "Biryani - Juicy prawns layered with spiced rice and fragrant herbs. Served with Raita",
       "category": "FOOD",
-      "simplified_description": "Biryani - Juicy prawns layered with spiced rice and fragrant herbs. Served with ",
+      "simplified_description": "Biryani - Juicy prawns layered with spiced rice and fragrant herbs. Served with",
       "dietary_info": [],
       "other_info": ""
     },
@@ -440,7 +440,7 @@
       "price": 15.0,
       "description": "Indo- Chinese - Stir fried noodles tossed with juicy chicken and soy-based Indo Chinese seasoning",
       "category": "FOOD",
-      "simplified_description": "Indo- Chinese - Stir fried noodles tossed with juicy chicken and soy-based Indo ",
+      "simplified_description": "Indo- Chinese - Stir fried noodles tossed with juicy chicken and soy-based Indo",
       "dietary_info": [],
       "other_info": ""
     },

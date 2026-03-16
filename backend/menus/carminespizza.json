@@ -8,36 +8,36 @@
       "price": null,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Basic pizza dough without toppings or sauce.",
+      "simplified_description": "Basic pizza dough without toppings or sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "#29 Cheesy Does It",
+      "name": "29 Cheesy Does It",
       "price": null,
       "description": "Cheese Pizza",
       "category": "FOOD",
-      "simplified_description": "Classic cheese pizza with tomato sauce and melted cheese.",
+      "simplified_description": "Classic cheese pizza with tomato sauce and melted cheese",
       "dietary_info": [
         "vegetarian"
       ],
       "other_info": ""
     },
     {
-      "name": "#30 Pepperoni Passion",
+      "name": "30 Pepperoni Passion",
       "price": null,
       "description": "Pepperoni Pizza",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with pepperoni slices and cheese.",
+      "simplified_description": "Pizza topped with pepperoni slices and cheese",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Build Your Own Pizza",
       "price": null,
-      "description": "Choose Size\n  * 10\" Pizza - $17 \n  * 12\" Pizza - $19 \n  * 14\" Pizza - $21 \n  * 18\" Pizza - $24 \n  * 12\" Gluten Free Pizza - $19 ![](https://www.carminespizza.ca/frontend/images/gluten-free.svg)\n\n\nChoose Sauce\n  * Pizza Bianco – White Sauce \n  * Pizza Rosso – Red Sauce \n\n\nToppings\nChoose toppings within the list\nRoasted Chicken CA$ 1.00\nPepperoni CA$ 1.00\nHam CA$ 1.00\nSalami CA$ 1.00\nGround Beef CA$ 1.00\nItalian Sausage CA$ 1.00\nShrimp CA$ 1.00\nBasil CA$ 1.00\nArtichoke Hearts CA$ 1.00\nTomato CA$ 1.00\nOnion CA$ 1.00\nGarlic CA$ 1.00\nMushroom CA$ 1.00\nPineapple CA$ 1.00\nFeta Cheese CA$ 1.00\nSpinach CA$ 1.00\nRed Pepper CA$ 1.00\nGreen Pepper CA$ 1.00\nJalapeno CA$ 1.00\nKalamata Olives CA$ 1.00\nBlack Olives CA$ 1.00\nGreen Olives CA$ 1.00\nBanana Pepper CA$ 1.00\n[-](javascript:void(0);) [+](javascript:void(0);)\nTotal Cost : CA$ 17.00",
+      "description": "Choose Size 10\" Pizza - $17 12\" Pizza - $19 14\" Pizza - $21 18\" Pizza - $24 12\" Gluten Free Pizza - $19 !",
       "category": "FOOD",
-      "simplified_description": "Customizable pizza with choice of size, sauce, and various toppings.",
+      "simplified_description": "Customizable pizza with choice of size, sauce, and various toppings",
       "dietary_info": [],
       "other_info": "Includes gluten-free option"
     },
@@ -46,7 +46,7 @@
       "price": null,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Special bundle offer to combine pizzas.",
+      "simplified_description": "Special bundle offer to combine pizzas",
       "dietary_info": [],
       "other_info": ""
     },
@@ -55,7 +55,7 @@
       "price": null,
       "description": "2 x 10\" - Choose Any Two House Pizzas (Specialty Pizzas Not Included)",
       "category": "FOOD",
-      "simplified_description": "Two 10-inch house pizzas, specialty pizzas excluded.",
+      "simplified_description": "Two 10-inch house pizzas, specialty pizzas excluded",
       "dietary_info": [],
       "other_info": "Serves two"
     },
@@ -64,7 +64,7 @@
       "price": null,
       "description": "2 x 12\" - Choose Any Two House Pizzas (Specialty Pizzas Not Included)",
       "category": "FOOD",
-      "simplified_description": "Two 12-inch house pizzas, specialty pizzas excluded.",
+      "simplified_description": "Two 12-inch house pizzas, specialty pizzas excluded",
       "dietary_info": [],
       "other_info": "Serves two"
     },
@@ -73,7 +73,7 @@
       "price": null,
       "description": "2 x 14\" - Choose Any Two House Pizzas (Specialty Pizzas Not Included)",
       "category": "FOOD",
-      "simplified_description": "Two 14-inch house pizzas, specialty pizzas excluded.",
+      "simplified_description": "Two 14-inch house pizzas, specialty pizzas excluded",
       "dietary_info": [],
       "other_info": "Serves two"
     },
@@ -82,7 +82,7 @@
       "price": null,
       "description": "Thick-Cut Italian Toast with a Touch of Garlic Butter & Cheese",
       "category": "APPETIZER",
-      "simplified_description": "Thick Italian toast with garlic butter and melted cheese.",
+      "simplified_description": "Thick Italian toast with garlic butter and melted cheese",
       "dietary_info": [
         "vegetarian"
       ],
@@ -93,7 +93,7 @@
       "price": null,
       "description": "Thick-Cut Italian Toast with a Touch of Garlic Butter",
       "category": "APPETIZER",
-      "simplified_description": "Thick Italian toast with garlic butter.",
+      "simplified_description": "Thick Italian toast with garlic butter",
       "dietary_info": [
         "vegetarian"
       ],
@@ -104,7 +104,7 @@
       "price": null,
       "description": "Cheesy Garlic Breadsticks",
       "category": "APPETIZER",
-      "simplified_description": "Breadsticks topped with garlic and melted cheese.",
+      "simplified_description": "Breadsticks topped with garlic and melted cheese",
       "dietary_info": [
         "vegetarian"
       ],
@@ -115,7 +115,7 @@
       "price": null,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Twelve pieces of chicken wings.",
+      "simplified_description": "Twelve pieces of chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -124,7 +124,7 @@
       "price": null,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Twenty-four pieces of chicken wings.",
+      "simplified_description": "Twenty-four pieces of chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -133,16 +133,16 @@
       "price": null,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Five pieces of breaded chicken fingers.",
+      "simplified_description": "Five pieces of breaded chicken fingers",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Caesar Salad",
       "price": null,
-      "description": "Romaine Lettuce & Croutons, Tossed in Creamy Caesar Dressing.",
+      "description": "Romaine Lettuce & Croutons, Tossed in Creamy Caesar Dressing",
       "category": "FOOD",
-      "simplified_description": "Romaine lettuce and croutons with creamy Caesar dressing.",
+      "simplified_description": "Romaine lettuce and croutons with creamy Caesar dressing",
       "dietary_info": [
         "vegetarian"
       ],
@@ -151,9 +151,9 @@
     {
       "name": "Carmine’s Salad",
       "price": null,
-      "description": "Romaine Lettuce, Cucumber, Tomato & Onion, Drizzled with House Dressing.",
+      "description": "Romaine Lettuce, Cucumber, Tomato & Onion, Drizzled with House Dressing",
       "category": "FOOD",
-      "simplified_description": "Fresh salad with lettuce, cucumber, tomato, onion, and house dressing.",
+      "simplified_description": "Fresh salad with lettuce, cucumber, tomato, onion, and house dressing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -163,9 +163,9 @@
     {
       "name": "Greek Salad",
       "price": null,
-      "description": "Cucumber, Tomato, Green Pepper, Onion, Feta & Kalamata Olives, Drizzled with House Dressing.",
+      "description": "Cucumber, Tomato, Green Pepper, Onion, Feta & Kalamata Olives, Drizzled with House Dressing",
       "category": "FOOD",
-      "simplified_description": "Salad with cucumber, tomato, pepper, onion, feta cheese, olives, and dressing.",
+      "simplified_description": "Salad with cucumber, tomato, pepper, onion, feta cheese, olives, and dressing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -175,9 +175,9 @@
     {
       "name": "Baked Lasagna with Meat Sauce",
       "price": null,
-      "description": "Lasagna with House-Made Meat Sauce & Mozzarella, Served with Garlic Toast.",
+      "description": "Lasagna with House-Made Meat Sauce & Mozzarella, Served with Garlic Toast",
       "category": "FOOD",
-      "simplified_description": "Lasagna baked with meat sauce, mozzarella, and served with garlic toast.",
+      "simplified_description": "Lasagna baked with meat sauce, mozzarella, and served with garlic toast",
       "dietary_info": [
         "nut-free"
       ],
@@ -188,7 +188,7 @@
       "price": null,
       "description": "Spaghetti with House-Made Meat Sauce & Mozzarella, Served with Garlic Toast",
       "category": "FOOD",
-      "simplified_description": "Baked spaghetti with meat sauce, mozzarella cheese, and garlic toast.",
+      "simplified_description": "Baked spaghetti with meat sauce, mozzarella cheese, and garlic toast",
       "dietary_info": [
         "nut-free"
       ],
@@ -199,7 +199,7 @@
       "price": null,
       "description": "Lasagna with House-Made Alfredo Sauce & Mozzarella, Served with Garlic Toast",
       "category": "FOOD",
-      "simplified_description": "Lasagna baked with Alfredo sauce, mozzarella, and served with garlic toast.",
+      "simplified_description": "Lasagna baked with Alfredo sauce, mozzarella, and served with garlic toast",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -211,7 +211,7 @@
       "price": null,
       "description": "Spaghetti with House-Made Alfredo Sauce & Mozzarella, Served with Garlic Toast",
       "category": "FOOD",
-      "simplified_description": "Baked spaghetti with Alfredo sauce, mozzarella cheese, and garlic toast.",
+      "simplified_description": "Baked spaghetti with Alfredo sauce, mozzarella cheese, and garlic toast",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -223,7 +223,7 @@
       "price": null,
       "description": "Freshly Baked In-House Chocolate Chunk Cookie",
       "category": "DESSERT",
-      "simplified_description": "Freshly baked chocolate chunk cookie made in-house.",
+      "simplified_description": "Freshly baked chocolate chunk cookie made in-house",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -235,7 +235,7 @@
       "price": null,
       "description": "Can",
       "category": "DRINK",
-      "simplified_description": "Can of Diet Coca Cola soda.",
+      "simplified_description": "Can of Diet Coca Cola soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -249,7 +249,7 @@
       "price": null,
       "description": "Can",
       "category": "DRINK",
-      "simplified_description": "Can of Coca Cola soda.",
+      "simplified_description": "Can of Coca Cola soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -263,7 +263,7 @@
       "price": null,
       "description": "Can",
       "category": "DRINK",
-      "simplified_description": "Can of Orange Fanta soda.",
+      "simplified_description": "Can of Orange Fanta soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -277,7 +277,7 @@
       "price": null,
       "description": "Can",
       "category": "DRINK",
-      "simplified_description": "Can of ginger ale soda.",
+      "simplified_description": "Can of ginger ale soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -291,7 +291,7 @@
       "price": null,
       "description": "Can",
       "category": "DRINK",
-      "simplified_description": "Can of iced tea.",
+      "simplified_description": "Can of iced tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -305,7 +305,7 @@
       "price": null,
       "description": "Can",
       "category": "DRINK",
-      "simplified_description": "Can of Sprite soda.",
+      "simplified_description": "Can of Sprite soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -319,7 +319,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Can of Bubly sparkling water.",
+      "simplified_description": "Can of Bubly sparkling water",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -333,7 +333,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Basic pizza sauce.",
+      "simplified_description": "Basic pizza sauce",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -347,7 +347,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A creamy, tangy dressing and dipping sauce.",
+      "simplified_description": "A creamy, tangy dressing and dipping sauce",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -360,7 +360,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A spicy sauce to add heat and flavor.",
+      "simplified_description": "A spicy sauce to add heat and flavor",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -375,7 +375,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A sweet and savory sauce with honey and garlic.",
+      "simplified_description": "A sweet and savory sauce with honey and garlic",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -387,7 +387,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A smoky and tangy barbecue sauce.",
+      "simplified_description": "A smoky and tangy barbecue sauce",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -401,7 +401,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A sweet and savory soy-based sauce.",
+      "simplified_description": "A sweet and savory soy-based sauce",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -413,7 +413,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A smooth sauce with sweet and garlicky flavors.",
+      "simplified_description": "A smooth sauce with sweet and garlicky flavors",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -426,7 +426,7 @@
       "price": null,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A spicy, buttery hot sauce.",
+      "simplified_description": "A spicy, buttery hot sauce",
       "dietary_info": [
         "gluten-free",
         "nut-free",

@@ -8,7 +8,7 @@
       "price": 36.23,
       "description": "Any 2 Small Calzone",
       "category": "OTHER",
-      "simplified_description": "Two small calzones of your choice.",
+      "simplified_description": "Two small calzones of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 40.19,
       "description": "Any 2 Medium Calzone",
       "category": "OTHER",
-      "simplified_description": "Two medium calzones of your choice.",
+      "simplified_description": "Two medium calzones of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": 44.33,
       "description": "Any 2 Large Calzone",
       "category": "OTHER",
-      "simplified_description": "Two large calzones of your choice.",
+      "simplified_description": "Two large calzones of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 27.59,
       "description": "Any 2 Small Pizzas",
       "category": "OTHER",
-      "simplified_description": "Two small pizzas of your choice.",
+      "simplified_description": "Two small pizzas of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,7 +44,7 @@
       "price": 35.24,
       "description": "Any 2 Medium Pizzas",
       "category": "OTHER",
-      "simplified_description": "Two medium pizzas of your choice.",
+      "simplified_description": "Two medium pizzas of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,7 +53,7 @@
       "price": 38.39,
       "description": "Any 2 Large Pizzas",
       "category": "OTHER",
-      "simplified_description": "Two large pizzas of your choice.",
+      "simplified_description": "Two large pizzas of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -62,7 +62,7 @@
       "price": 18.14,
       "description": "Masala Paneer, Cabbage, Mushroom, Onion, Spinach, ginger cilantro, green Chilly, Cheese, and Sauce",
       "category": "FOOD",
-      "simplified_description": "Spiced paneer with vegetables, cheese, and sauce.",
+      "simplified_description": "Spiced paneer with vegetables, cheese, and sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -74,7 +74,7 @@
       "price": 18.14,
       "description": "Achari Paneer, Cabbage, Mushroom, Onion, Spinach, ginger cilantro, green chilly, Cheese, and Sauce",
       "category": "FOOD",
-      "simplified_description": "Pickled spiced paneer with vegetables, cheese, and sauce.",
+      "simplified_description": "Pickled spiced paneer with vegetables, cheese, and sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -86,7 +86,7 @@
       "price": 18.14,
       "description": "Masala Chicken, Cabbage, Mushroom, Onion, Spinach, ginger cilantro, green Chilly, Cheese, and Sauce",
       "category": "FOOD",
-      "simplified_description": "Spiced chicken with vegetables, cheese, and sauce.",
+      "simplified_description": "Spiced chicken with vegetables, cheese, and sauce",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -98,7 +98,7 @@
       "price": 18.14,
       "description": "Roasted Chicken, Cabbage, Mushroom, Onion, Spinach, ginger cilantro, green Chilly, Cheese, and Sauce",
       "category": "FOOD",
-      "simplified_description": "Roasted chicken with vegetables, cheese, and sauce.",
+      "simplified_description": "Roasted chicken with vegetables, cheese, and sauce",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -110,7 +110,7 @@
       "price": 18.14,
       "description": "Pepperoni, Bacon, Sausage, Cabbage, Mushroom, Onion, Spinach, ginger, cilantro, green Chilly, Cheese, and Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with pepperoni, bacon, sausage, vegetables, cheese, and sauce.",
+      "simplified_description": "Calzone with pepperoni, bacon, sausage, vegetables, cheese, and sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -121,7 +121,7 @@
       "price": 15.44,
       "description": "Shahi paneer, Red Onion, Green Peppers, Black Olives, Mozzarella Cheese, Butter sauce",
       "category": "FOOD",
-      "simplified_description": "Paneer with vegetables, olives, mozzarella, and butter sauce.",
+      "simplified_description": "Paneer with vegetables, olives, mozzarella, and butter sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -133,7 +133,7 @@
       "price": 15.44,
       "description": "Achari Paneer, Onion, Red Peppers, Jalapenos, Mozzarella Cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Pickled paneer pizza with onions, peppers, jalapenos, and cheese.",
+      "simplified_description": "Pickled paneer pizza with onions, peppers, jalapenos, and cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -146,7 +146,7 @@
       "price": 15.44,
       "description": "Tandoori Paneer, Onions, Banana Pepper, Mushroom, Pineapple, Mozzarella Cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Tandoori paneer pizza with vegetables, pineapple, and cheese.",
+      "simplified_description": "Tandoori paneer pizza with vegetables, pineapple, and cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -158,7 +158,7 @@
       "price": 15.44,
       "description": "Paneer, Onion, Black Olives, Green Peppers, Mozzarella Cheese, Special sauce",
       "category": "FOOD",
-      "simplified_description": "Paneer pizza with onions, olives, peppers, cheese, and special sauce.",
+      "simplified_description": "Paneer pizza with onions, olives, peppers, cheese, and special sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -170,7 +170,7 @@
       "price": 15.44,
       "description": "Masala Paneer, Onion, Spinach, Mushroom, Red Peppers, Mozzarella Cheese, Pizza Sauce and Ranch Sauce on top",
       "category": "FOOD",
-      "simplified_description": "Vegetable calzone with paneer, spinach, mushrooms, peppers, and cheese.",
+      "simplified_description": "Vegetable calzone with paneer, spinach, mushrooms, peppers, and cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -182,7 +182,7 @@
       "price": 15.44,
       "description": "Paneer, Onion, Red Peppers, Jalapenos, Mozzarella cheese, Pizza Sauce and BBQ Sauce on top",
       "category": "FOOD",
-      "simplified_description": "Spicy paneer calzone with jalapenos, onions, peppers, and BBQ sauce.",
+      "simplified_description": "Spicy paneer calzone with jalapenos, onions, peppers, and BBQ sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -195,7 +195,7 @@
       "price": 15.44,
       "description": "Mushroom, Red Onion, Green Peppers, Black Olives, tomatoes, Mozzarella cheeses, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone filled with mushrooms, peppers, olives, tomatoes, and cheese.",
+      "simplified_description": "Calzone filled with mushrooms, peppers, olives, tomatoes, and cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -207,7 +207,7 @@
       "price": 15.44,
       "description": "Chicken, Green Peppers, Onions, Black Olives, Mozzarella cheese, Butter Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with chicken, peppers, onions, olives, cheese, and butter sauce.",
+      "simplified_description": "Calzone with chicken, peppers, onions, olives, cheese, and butter sauce",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -219,7 +219,7 @@
       "price": 15.44,
       "description": "Tandoori Chicken, Green Peppers, Onions, Black Olives, Pineapple Mozzarella cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with tandoori chicken, peppers, onions, olives, pineapple, and cheese.",
+      "simplified_description": "Calzone with tandoori chicken, peppers, onions, olives, pineapple, and cheese",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -231,7 +231,7 @@
       "price": 15.44,
       "description": "Achari Chicken, Green Peppers, Onions, Black Olives, Mushroom, Mozzarella cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with achari chicken, vegetables, olives, mushrooms, and cheese.",
+      "simplified_description": "Calzone with achari chicken, vegetables, olives, mushrooms, and cheese",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -243,7 +243,7 @@
       "price": 15.44,
       "description": "Chicken, Green Peppers, Onions, Black Olives, Mozzarella cheese, Special sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with chicken, peppers, onions, olives, cheese, and special sauce.",
+      "simplified_description": "Calzone with chicken, peppers, onions, olives, cheese, and special sauce",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -255,7 +255,7 @@
       "price": 15.44,
       "description": "Chicken, Green Peppers, Onions, Black Olives, Mozzarella cheese, Pizza Sauce and BBQ Sauce on top",
       "category": "FOOD",
-      "simplified_description": "Calzone with chicken, peppers, onions, olives, cheese, and BBQ sauce.",
+      "simplified_description": "Calzone with chicken, peppers, onions, olives, cheese, and BBQ sauce",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -267,7 +267,7 @@
       "price": 15.44,
       "description": "Masala Chicken, Spinach,Mushroom, Onion, Red Pepper, Mozzarella cheese, Pizza Sauce and Ranch Sauce on top",
       "category": "FOOD",
-      "simplified_description": "Calzone with masala chicken, spinach, mushrooms, peppers, cheese, and sauces.",
+      "simplified_description": "Calzone with masala chicken, spinach, mushrooms, peppers, cheese, and sauces",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -279,7 +279,7 @@
       "price": 15.44,
       "description": "Chicken Bacon, Onion, Green Peppers, Mozzarella cheese, Pizza Sauce and Ranch Sauce on top",
       "category": "FOOD",
-      "simplified_description": "Calzone with chicken bacon, onions, peppers, cheese, and ranch sauce.",
+      "simplified_description": "Calzone with chicken bacon, onions, peppers, cheese, and ranch sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -290,7 +290,7 @@
       "price": 15.44,
       "description": "Beef, Bacon, Pepperoni, Italian Sausage, Mozzarella cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone loaded with beef, bacon, pepperoni, sausage, cheese, and sauce.",
+      "simplified_description": "Calzone loaded with beef, bacon, pepperoni, sausage, cheese, and sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -301,7 +301,7 @@
       "price": 15.44,
       "description": "Beef, Bacon, Sausage, Mushroom, Pineapple, Mozzarella cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with beef, bacon, sausage, mushrooms, pineapple, cheese, and sauce.",
+      "simplified_description": "Calzone with beef, bacon, sausage, mushrooms, pineapple, cheese, and sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -312,7 +312,7 @@
       "price": 15.44,
       "description": "Beef, Bacon, Mushroom, Pepperoni, Mozzarella cheese, Pizza Sauce",
       "category": "FOOD",
-      "simplified_description": "Calzone with beef, bacon, mushrooms, pepperoni, cheese, and sauce.",
+      "simplified_description": "Calzone with beef, bacon, mushrooms, pepperoni, cheese, and sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -323,7 +323,7 @@
       "price": 15.44,
       "description": "Beef, Pepperoni, Black Olives, Red Popper, Onion, Mozzarella cheese, Pizza Sauce and Ranch Sauce on top",
       "category": "FOOD",
-      "simplified_description": "Calzone with beef, pepperoni, olives, peppers, onions, cheese, and sauces.",
+      "simplified_description": "Calzone with beef, pepperoni, olives, peppers, onions, cheese, and sauces",
       "dietary_info": [
         "nut-free"
       ],
@@ -334,7 +334,7 @@
       "price": 11.99,
       "description": "Hot, Sweet & Sour, BBQ, Honey Garlic & Teriyaki",
       "category": "APPETIZER",
-      "simplified_description": "Chicken wings available in various sauces including hot, BBQ, and teriyaki.",
+      "simplified_description": "Chicken wings available in various sauces including hot, BBQ, and teriyaki",
       "dietary_info": [
         "nut-free"
       ],
@@ -345,7 +345,7 @@
       "price": 11.99,
       "description": "Chicken Wings ( 10 Pcs )",
       "category": "APPETIZER",
-      "simplified_description": "Ten pieces of chicken wings.",
+      "simplified_description": "Ten pieces of chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -354,7 +354,7 @@
       "price": 21.99,
       "description": "Chicken Wings ( 20 Pcs )",
       "category": "APPETIZER",
-      "simplified_description": "Twenty pieces of chicken wings.",
+      "simplified_description": "Twenty pieces of chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -363,7 +363,7 @@
       "price": 30.99,
       "description": "Chicken Wings ( 30 Pcs )",
       "category": "APPETIZER",
-      "simplified_description": "Thirty pieces of chicken wings.",
+      "simplified_description": "Thirty pieces of chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -372,7 +372,7 @@
       "price": 12.99,
       "description": "2 Topping Pizza",
       "category": "OTHER",
-      "simplified_description": "Pizza with two toppings of your choice.",
+      "simplified_description": "Pizza with two toppings of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -381,7 +381,7 @@
       "price": 9.99,
       "description": "Cheese Pizza",
       "category": "OTHER",
-      "simplified_description": "Pizza topped with cheese.",
+      "simplified_description": "Pizza topped with cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -393,7 +393,7 @@
       "price": 11.99,
       "description": "4 Cheese Pizza",
       "category": "OTHER",
-      "simplified_description": "Pizza topped with four types of cheese.",
+      "simplified_description": "Pizza topped with four types of cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -405,7 +405,7 @@
       "price": 11.99,
       "description": "Cheese Pepperoni",
       "category": "OTHER",
-      "simplified_description": "Pizza with cheese and pepperoni toppings.",
+      "simplified_description": "Pizza with cheese and pepperoni toppings",
       "dietary_info": [
         "nut-free"
       ],
@@ -416,7 +416,7 @@
       "price": 11.39,
       "description": "Cheese, Garlic Sauce and Seasoning",
       "category": "SIDE",
-      "simplified_description": "Bread sticks with cheese, garlic sauce, and seasoning.",
+      "simplified_description": "Bread sticks with cheese, garlic sauce, and seasoning",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -428,7 +428,7 @@
       "price": 10.49,
       "description": "1 Veg Sabji + 5 Roti",
       "category": "OTHER",
-      "simplified_description": "One vegetable curry served with five flatbreads.",
+      "simplified_description": "One vegetable curry served with five flatbreads",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -441,7 +441,7 @@
       "price": 12.29,
       "description": "1 Chicken Sabji + 5 Roti",
       "category": "OTHER",
-      "simplified_description": "One chicken curry served with five flatbreads.",
+      "simplified_description": "One chicken curry served with five flatbreads",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -453,7 +453,7 @@
       "price": 12.29,
       "description": "1 Butter Chicken + Plain Rice",
       "category": "OTHER",
-      "simplified_description": "Butter chicken curry served with plain rice.",
+      "simplified_description": "Butter chicken curry served with plain rice",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -465,7 +465,7 @@
       "price": 14.91,
       "description": "1 Goat Sabji + 5 Roti",
       "category": "OTHER",
-      "simplified_description": "Goat curry served with five flatbreads.",
+      "simplified_description": "Goat curry served with five flatbreads",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -477,7 +477,7 @@
       "price": 3.99,
       "description": "Boondi Raita",
       "category": "SIDE",
-      "simplified_description": "Yogurt mixed with small fried chickpea flour balls.",
+      "simplified_description": "Yogurt mixed with small fried chickpea flour balls",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -489,7 +489,7 @@
       "price": 4.99,
       "description": "Fried Rice",
       "category": "SIDE",
-      "simplified_description": "Rice stir-fried with vegetables and seasonings.",
+      "simplified_description": "Rice stir-fried with vegetables and seasonings",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -501,7 +501,7 @@
       "price": 3.99,
       "description": "Salad",
       "category": "SIDE",
-      "simplified_description": "Fresh mixed salad.",
+      "simplified_description": "Fresh mixed salad",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -515,7 +515,7 @@
       "price": 14.99,
       "description": "Malai Paneer Tikka",
       "category": "FOOD",
-      "simplified_description": "Creamy grilled paneer cubes marinated in spices.",
+      "simplified_description": "Creamy grilled paneer cubes marinated in spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -527,7 +527,7 @@
       "price": 14.99,
       "description": "Malai Soya Chaap",
       "category": "FOOD",
-      "simplified_description": "Creamy marinated soya chaap grilled to perfection.",
+      "simplified_description": "Creamy marinated soya chaap grilled to perfection",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -539,7 +539,7 @@
       "price": 16.79,
       "description": "Veggies, Cheese Filled Crust",
       "category": "FOOD",
-      "simplified_description": "Pie filled with vegetables and cheese in a crust.",
+      "simplified_description": "Pie filled with vegetables and cheese in a crust",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -551,7 +551,7 @@
       "price": 17.69,
       "description": "Chicken, Cheese filled Crust",
       "category": "FOOD",
-      "simplified_description": "Pie filled with chicken and cheese in a crust.",
+      "simplified_description": "Pie filled with chicken and cheese in a crust",
       "dietary_info": [
         "nut-free"
       ],
@@ -562,7 +562,7 @@
       "price": 13.19,
       "description": "Makhani Fish",
       "category": "FOOD",
-      "simplified_description": "Fish cooked in a rich buttery tomato sauce.",
+      "simplified_description": "Fish cooked in a rich buttery tomato sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -573,7 +573,7 @@
       "price": 14.99,
       "description": "Makhani Fish Masala",
       "category": "FOOD",
-      "simplified_description": "Fish cooked in spicy makhani masala sauce.",
+      "simplified_description": "Fish cooked in spicy makhani masala sauce",
       "dietary_info": [
         "nut-free",
         "spicy"
@@ -585,7 +585,7 @@
       "price": 13.19,
       "description": "Chicken Boti",
       "category": "FOOD",
-      "simplified_description": "Grilled chicken chunks marinated with spices.",
+      "simplified_description": "Grilled chicken chunks marinated with spices",
       "dietary_info": [
         "nut-free"
       ],
@@ -596,7 +596,7 @@
       "price": 15.98,
       "description": "Seekh Kebab",
       "category": "FOOD",
-      "simplified_description": "Spiced minced meat grilled on skewers.",
+      "simplified_description": "Spiced minced meat grilled on skewers",
       "dietary_info": [
         "nut-free"
       ],
@@ -607,7 +607,7 @@
       "price": 14.99,
       "description": "Makhani Chicken Masala",
       "category": "FOOD",
-      "simplified_description": "Chicken cooked in rich buttery tomato masala sauce.",
+      "simplified_description": "Chicken cooked in rich buttery tomato masala sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -618,7 +618,7 @@
       "price": 15.98,
       "description": "Chicken Malai Tikka",
       "category": "FOOD",
-      "simplified_description": "Creamy marinated grilled chicken pieces.",
+      "simplified_description": "Creamy marinated grilled chicken pieces",
       "dietary_info": [
         "nut-free"
       ],
@@ -629,7 +629,7 @@
       "price": 13.19,
       "description": "Chicken Pakoda",
       "category": "FOOD",
-      "simplified_description": "Deep-fried chicken fritters with spices.",
+      "simplified_description": "Deep-fried chicken fritters with spices",
       "dietary_info": [
         "nut-free"
       ],
@@ -640,7 +640,7 @@
       "price": 13.19,
       "description": "Roasted Chicken",
       "category": "FOOD",
-      "simplified_description": "Whole roasted chicken with seasoning.",
+      "simplified_description": "Whole roasted chicken with seasoning",
       "dietary_info": [
         "nut-free"
       ],
@@ -651,7 +651,7 @@
       "price": 7.99,
       "description": "Mini Calzone Veg",
       "category": "FOOD",
-      "simplified_description": "Small folded pizza filled with vegetables and cheese.",
+      "simplified_description": "Small folded pizza filled with vegetables and cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -663,7 +663,7 @@
       "price": 9.99,
       "description": "Mini Calzone Non-Veg",
       "category": "FOOD",
-      "simplified_description": "Small folded pizza filled with meat and cheese.",
+      "simplified_description": "Small folded pizza filled with meat and cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -674,7 +674,7 @@
       "price": 6.99,
       "description": "Veg Burger",
       "category": "FOOD",
-      "simplified_description": "Burger with a vegetable patty and toppings.",
+      "simplified_description": "Burger with a vegetable patty and toppings",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -686,7 +686,7 @@
       "price": 6.99,
       "description": "Chicken Burger",
       "category": "FOOD",
-      "simplified_description": "A burger made with chicken patty.",
+      "simplified_description": "A burger made with chicken patty",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -698,7 +698,7 @@
       "price": 9.99,
       "description": "Veg Burger with Fries",
       "category": "FOOD",
-      "simplified_description": "Vegetarian burger served with fries.",
+      "simplified_description": "Vegetarian burger served with fries",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -710,7 +710,7 @@
       "price": 9.99,
       "description": "Chicken Burger with Fries",
       "category": "FOOD",
-      "simplified_description": "Chicken burger served with fries.",
+      "simplified_description": "Chicken burger served with fries",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -722,7 +722,7 @@
       "price": 9.99,
       "description": "Fries & 2 Chicken Strips",
       "category": "FOOD",
-      "simplified_description": "Two chicken strips served with fries.",
+      "simplified_description": "Two chicken strips served with fries",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -734,7 +734,7 @@
       "price": 3.29,
       "description": "Tid Bit (4 Oz)",
       "category": "DESSERT",
-      "simplified_description": "Small 4 oz dessert portion.",
+      "simplified_description": "Small 4 oz dessert portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -743,7 +743,7 @@
       "price": 5.36,
       "description": "Tid Bit (8 Oz)",
       "category": "DESSERT",
-      "simplified_description": "Medium 8 oz dessert portion.",
+      "simplified_description": "Medium 8 oz dessert portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -752,7 +752,7 @@
       "price": 7.79,
       "description": "Tid Bit (12 Oz)",
       "category": "DESSERT",
-      "simplified_description": "Large 12 oz dessert portion.",
+      "simplified_description": "Large 12 oz dessert portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -761,7 +761,7 @@
       "price": 9.59,
       "description": "Tid Bit (16 Oz)",
       "category": "DESSERT",
-      "simplified_description": "Extra large 16 oz dessert portion.",
+      "simplified_description": "Extra large 16 oz dessert portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -770,7 +770,7 @@
       "price": 12.29,
       "description": "Tid Bit (20 Oz)",
       "category": "DESSERT",
-      "simplified_description": "20 oz dessert portion.",
+      "simplified_description": "20 oz dessert portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -779,7 +779,7 @@
       "price": 15.89,
       "description": "Tid Bit (24 Oz)",
       "category": "DESSERT",
-      "simplified_description": "Largest 24 oz dessert portion.",
+      "simplified_description": "Largest 24 oz dessert portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -788,7 +788,7 @@
       "price": 7.79,
       "description": "Onion Rings",
       "category": "SIDE",
-      "simplified_description": "Fried onion rings side dish.",
+      "simplified_description": "Fried onion rings side dish",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -800,7 +800,7 @@
       "price": 7.79,
       "description": "Masala Fries",
       "category": "SIDE",
-      "simplified_description": "Fries seasoned with masala spices.",
+      "simplified_description": "Fries seasoned with masala spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -812,7 +812,7 @@
       "price": 4.19,
       "description": "Fries",
       "category": "SIDE",
-      "simplified_description": "Classic fried potato fries.",
+      "simplified_description": "Classic fried potato fries",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -824,7 +824,7 @@
       "price": 5.99,
       "description": "Spicy Fries",
       "category": "SIDE",
-      "simplified_description": "Fries with spicy seasoning.",
+      "simplified_description": "Fries with spicy seasoning",
       "dietary_info": [
         "vegetarian",
         "spicy",

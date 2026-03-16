@@ -8,7 +8,7 @@
       "price": 58.99,
       "description": "2 Large 1-Topping Pizzas & 4 Fountain Drinks",
       "category": "FOOD",
-      "simplified_description": "Two large pizzas with one topping each and four fountain drinks.",
+      "simplified_description": "Two large pizzas with one topping each and four fountain drinks",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": null,
       "description": "4 Fountain Drinks",
       "category": "DRINK",
-      "simplified_description": "Four fountain soft drinks.",
+      "simplified_description": "Four fountain soft drinks",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -30,16 +30,16 @@
       "price": 56.99,
       "description": "(2) 60-Minute All You Can Play Cards",
       "category": "OTHER",
-      "simplified_description": "Two 60-minute all you can play game cards.",
+      "simplified_description": "Two 60-minute all you can play game cards",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "60 Minutes of All You Can Play for $19.99",
+      "name": "60 Minutes of All You Can Play for",
       "price": 19.99,
       "description": "60 Minutes of All You Can Play for $19.99",
       "category": "OTHER",
-      "simplified_description": "One 60-minute all you can play game card.",
+      "simplified_description": "One 60-minute all you can play game card",
       "dietary_info": [],
       "other_info": ""
     },
@@ -48,7 +48,7 @@
       "price": null,
       "description": "Buy 1 Large Pizza, Get One Large 50% OFF",
       "category": "FOOD",
-      "simplified_description": "Buy one large pizza, get a second large pizza half off.",
+      "simplified_description": "Buy one large pizza, get a second large pizza half off",
       "dietary_info": [],
       "other_info": ""
     },
@@ -57,7 +57,7 @@
       "price": null,
       "description": "30% OFF 60 Minutes of All You Can Play every Wednesday",
       "category": "OTHER",
-      "simplified_description": "Get 30% off 60 minutes of all you can play every Wednesday.",
+      "simplified_description": "Get 30% off 60 minutes of all you can play every Wednesday",
       "dietary_info": [],
       "other_info": "Weekly special"
     },
@@ -66,7 +66,7 @@
       "price": 34.99,
       "description": "1 Large 1-topping pizza, 4 fountain drinks, & 45 Play Points",
       "category": "FOOD",
-      "simplified_description": "One large pizza with one topping, four drinks, and 45 play points.",
+      "simplified_description": "One large pizza with one topping, four drinks, and 45 play points",
       "dietary_info": [],
       "other_info": ""
     },
@@ -75,7 +75,7 @@
       "price": 58.48,
       "description": "2 Large 1-Topping Pizzas, 4 fountain drinks & 100 Play Points",
       "category": "FOOD",
-      "simplified_description": "Two large pizzas with one topping each, four drinks, and 100 play points.",
+      "simplified_description": "Two large pizzas with one topping each, four drinks, and 100 play points",
       "dietary_info": [],
       "other_info": ""
     }

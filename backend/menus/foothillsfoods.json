@@ -6,18 +6,18 @@
     {
       "name": "Crispy Chicken Wings",
       "price": null,
-      "description": "Premium chicken wings fried to crispy perfection with your choice of seasoning options including garlic aioli, sweet soy, miso lime, or gochujang glaze. Each wing features the same quality brining process as all our chicken for maximum flavor and juiciness.",
+      "description": "Premium chicken wings fried to crispy perfection with your choice of seasoning options including garlic aioli, sweet soy, miso lime, or gochujang glaze. Each wing features the same quality brining process as all our chicken for maximum flavor and juiciness",
       "category": "FOOD",
-      "simplified_description": "Crispy fried chicken wings with various seasoning options.",
+      "simplified_description": "Crispy fried chicken wings with various seasoning options",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "ZFC Feast",
       "price": null,
-      "description": "Our signature feast featuring four juicy chicken thighs fried to golden perfection with our 12-hour brine process. Served with house-made slaw and sweet pickles, plus your choice of sides. Generous portions perfect for sharing or satisfying a hearty appetite.",
+      "description": "Our signature feast featuring four juicy chicken thighs fried to golden perfection with our 12-hour brine process. Served with house-made slaw and sweet pickles, plus your choice of sides. Generous portions perfect for sharing or satisfying a hearty appetite",
       "category": "FOOD",
-      "simplified_description": "Four fried chicken thighs served with slaw, pickles, and sides.",
+      "simplified_description": "Four fried chicken thighs served with slaw, pickles, and sides",
       "dietary_info": [],
       "other_info": "Serves two"
     },
@@ -26,7 +26,7 @@
       "price": 3.81,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Small portion of fried potato fries.",
+      "simplified_description": "Small portion of fried potato fries",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -40,7 +40,7 @@
       "price": 4.76,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Large portion of fried potato fries.",
+      "simplified_description": "Large portion of fried potato fries",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -54,7 +54,7 @@
       "price": 1.53,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Savory sauce typically served with fries or chicken.",
+      "simplified_description": "Savory sauce typically served with fries or chicken",
       "dietary_info": [],
       "other_info": ""
     },
@@ -63,7 +63,7 @@
       "price": 10.48,
       "description": "",
       "category": "CHICKEN PACK",
-      "simplified_description": "Two pieces of chicken served with fries.",
+      "simplified_description": "Two pieces of chicken served with fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -72,7 +72,7 @@
       "price": 13.33,
       "description": "",
       "category": "CHICKEN PACK",
-      "simplified_description": "Three pieces of chicken served with fries.",
+      "simplified_description": "Three pieces of chicken served with fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -81,7 +81,7 @@
       "price": 38.08,
       "description": "",
       "category": "CHICKEN PACK",
-      "simplified_description": "Ten pieces of chicken with fries and gravy, ideal for families.",
+      "simplified_description": "Ten pieces of chicken with fries and gravy, ideal for families",
       "dietary_info": [],
       "other_info": "Serves multiple"
     },
@@ -90,7 +90,7 @@
       "price": 2.86,
       "description": "",
       "category": "CHICKEN SINGLES",
-      "simplified_description": "Single chicken drumstick or wing piece.",
+      "simplified_description": "Single chicken drumstick or wing piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -99,7 +99,7 @@
       "price": 3.33,
       "description": "",
       "category": "CHICKEN SINGLES",
-      "simplified_description": "Single chicken thigh or rib piece.",
+      "simplified_description": "Single chicken thigh or rib piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -108,7 +108,7 @@
       "price": 3.33,
       "description": "",
       "category": "CHICKEN SINGLES",
-      "simplified_description": "Small-sized chicken breast piece.",
+      "simplified_description": "Small-sized chicken breast piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -117,7 +117,7 @@
       "price": 4.29,
       "description": "",
       "category": "CHICKEN SINGLES",
-      "simplified_description": "Medium-sized chicken breast piece.",
+      "simplified_description": "Medium-sized chicken breast piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -126,7 +126,7 @@
       "price": 5.24,
       "description": "",
       "category": "CHICKEN SINGLES",
-      "simplified_description": "Large-sized chicken breast piece.",
+      "simplified_description": "Large-sized chicken breast piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -135,7 +135,7 @@
       "price": 3.33,
       "description": "",
       "category": "FRICKEN BY THE PIECE",
-      "simplified_description": "Single chicken wing or leg piece.",
+      "simplified_description": "Single chicken wing or leg piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -144,7 +144,7 @@
       "price": 4.29,
       "description": "",
       "category": "FRICKEN BY THE PIECE",
-      "simplified_description": "Single chicken thigh or rib piece.",
+      "simplified_description": "Single chicken thigh or rib piece",
       "dietary_info": [],
       "other_info": ""
     },
@@ -153,7 +153,7 @@
       "price": 4.29,
       "description": "",
       "category": "FRICKEN BY THE PIECE",
-      "simplified_description": "A small piece of chicken breast.",
+      "simplified_description": "A small piece of chicken breast",
       "dietary_info": [],
       "other_info": ""
     },
@@ -162,7 +162,7 @@
       "price": 5.29,
       "description": "",
       "category": "FRICKEN BY THE PIECE",
-      "simplified_description": "A medium piece of chicken breast.",
+      "simplified_description": "A medium piece of chicken breast",
       "dietary_info": [],
       "other_info": ""
     },
@@ -171,7 +171,7 @@
       "price": 6.29,
       "description": "",
       "category": "FRICKEN BY THE PIECE",
-      "simplified_description": "A large piece of chicken breast.",
+      "simplified_description": "A large piece of chicken breast",
       "dietary_info": [],
       "other_info": ""
     },
@@ -180,7 +180,7 @@
       "price": 10.48,
       "description": "",
       "category": "FRICKEN MENU",
-      "simplified_description": "Two pieces of chicken with fries.",
+      "simplified_description": "Two pieces of chicken with fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -189,7 +189,7 @@
       "price": 13.33,
       "description": "",
       "category": "FRICKEN MENU",
-      "simplified_description": "Three pieces of chicken with fries.",
+      "simplified_description": "Three pieces of chicken with fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -198,7 +198,7 @@
       "price": 16.99,
       "description": "",
       "category": "FRICKEN MENU",
-      "simplified_description": "Four pieces of chicken with fries.",
+      "simplified_description": "Four pieces of chicken with fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -207,7 +207,7 @@
       "price": 38.08,
       "description": "",
       "category": "FRICKEN MENU",
-      "simplified_description": "Ten pieces of chicken with fries and gravy.",
+      "simplified_description": "Ten pieces of chicken with fries and gravy",
       "dietary_info": [],
       "other_info": "Serves multiple people"
     },
@@ -216,7 +216,7 @@
       "price": 6.65,
       "description": "",
       "category": "SEXY SANDWICHES",
-      "simplified_description": "A chicken sandwich.",
+      "simplified_description": "A chicken sandwich",
       "dietary_info": [],
       "other_info": ""
     },
@@ -225,7 +225,7 @@
       "price": 6.65,
       "description": "",
       "category": "SEXY SANDWICHES",
-      "simplified_description": "Another style of chicken sandwich.",
+      "simplified_description": "Another style of chicken sandwich",
       "dietary_info": [],
       "other_info": ""
     },
@@ -234,7 +234,7 @@
       "price": 9.51,
       "description": "",
       "category": "SEXY SANDWICHES",
-      "simplified_description": "A premium chicken sandwich.",
+      "simplified_description": "A premium chicken sandwich",
       "dietary_info": [],
       "other_info": ""
     }

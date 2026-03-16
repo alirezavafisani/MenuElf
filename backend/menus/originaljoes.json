@@ -8,25 +8,25 @@
       "price": null,
       "description": "cuervo especial silver, triple sec, cranberry coulis, egg whites, simple syrup, lime juice, rosemary. 1.5oz | 3oz",
       "category": "DRINK",
-      "simplified_description": "cuervo especial silver, triple sec, cranberry coulis, egg whites, simple syrup, ",
+      "simplified_description": "cuervo especial silver, triple sec, cranberry coulis, egg whites, simple syrup",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "CLASSIC",
       "price": null,
-      "description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge.  traditional lime, raspberry or strawberry. 1.5oz | 3oz",
+      "description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge. traditional lime, raspberry or strawberry. 1.5oz | 3oz",
       "category": "DRINK",
-      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge.  traditional l",
+      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, lime wedge. traditional l",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "FROZEN",
       "price": null,
-      "description": "cuervo especial silver, triple sec, fresh lime juice, simple syrup.  traditional lime, raspberry, strawberry, peach, watermelon or blue raspberry. 1.5oz | 3oz",
+      "description": "cuervo especial silver, triple sec, fresh lime juice, simple syrup. traditional lime, raspberry, strawberry, peach, watermelon or blue raspberry. 1.5oz | 3oz",
       "category": "DRINK",
-      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, simple syrup.  traditional",
+      "simplified_description": "cuervo especial silver, triple sec, fresh lime juice, simple syrup. traditional",
       "dietary_info": [],
       "other_info": ""
     },
@@ -42,9 +42,9 @@
     {
       "name": "MEXICAN BULLDOG",
       "price": null,
-      "description": "cuervo especial silver, triple sec, coronita, fresh lime juice, simple syrup.  traditional lime, raspberry, strawberry, peach or watermelon. 1.5oz + 207ml",
+      "description": "cuervo especial silver, triple sec, coronita, fresh lime juice, simple syrup. traditional lime, raspberry, strawberry, peach or watermelon. 1.5oz + 207ml",
       "category": "DRINK",
-      "simplified_description": "cuervo especial silver, triple sec, coronita, fresh lime juice, simple syrup.  t",
+      "simplified_description": "cuervo especial silver, triple sec, coronita, fresh lime juice, simple syrup. t",
       "dietary_info": [],
       "other_info": ""
     },
@@ -96,7 +96,7 @@
     {
       "name": "Wings",
       "price": null,
-      "description": "whiskey bbq, honey garlic, teriyaki, sweet chili, caribbean jerk, hot, salt & pepper, ghost pepper, salt & vinegar, dill pickle, cajun, greek, nashville hot, shanghai, hot parmesan, truffle parmesan, garlic parmesan. 1lb.",
+      "description": "whiskey bbq, honey garlic, teriyaki, sweet chili, caribbean jerk, hot, salt & pepper, ghost pepper, salt & vinegar, dill pickle, cajun, greek, nashville hot, shanghai, hot parmesan, truffle parmesan, garlic parmesan. 1lb",
       "category": "FOOD",
       "simplified_description": "whiskey bbq, honey garlic, teriyaki, sweet chili, caribbean jerk, hot, salt & pe",
       "dietary_info": [],
@@ -114,9 +114,9 @@
     {
       "name": "Joe's Dry Ribs",
       "price": 10.0,
-      "description": "garlic sesame marinated pork ends, garlic butter, coarse black pepper.",
+      "description": "garlic sesame marinated pork ends, garlic butter, coarse black pepper",
       "category": "FOOD",
-      "simplified_description": "garlic sesame marinated pork ends, garlic butter, coarse black pepper.",
+      "simplified_description": "garlic sesame marinated pork ends, garlic butter, coarse black pepper",
       "dietary_info": [],
       "other_info": ""
     },
@@ -159,9 +159,9 @@
     {
       "name": "Fish & Chips",
       "price": null,
-      "description": "north atlantic haddock, tartar sauce, gravy or dill dip. 2 piece.",
+      "description": "north atlantic haddock, tartar sauce, gravy or dill dip. 2 piece",
       "category": "FOOD",
-      "simplified_description": "north atlantic haddock, tartar sauce, gravy or dill dip. 2 piece.",
+      "simplified_description": "north atlantic haddock, tartar sauce, gravy or dill dip. 2 piece",
       "dietary_info": [],
       "other_info": ""
     },

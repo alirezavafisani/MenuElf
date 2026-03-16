@@ -15,7 +15,7 @@
     {
       "name": "Western Roast Beef",
       "price": 14.0,
-      "description": "Seasoned roast beef sandwich with cheddar or provolone cheese and all the fixins'.",
+      "description": "Seasoned roast beef sandwich with cheddar or provolone cheese and all the fixins'",
       "category": "FOOD",
       "simplified_description": "Seasoned roast beef sandwich with cheddar or provolone cheese and all the fixins",
       "dietary_info": [],
@@ -24,16 +24,16 @@
     {
       "name": "Turkey Breast Sub",
       "price": 13.75,
-      "description": "Succulent lean turkey breast and fresh sliced lettuce and tomato. Gobble gobble.",
+      "description": "Succulent lean turkey breast and fresh sliced lettuce and tomato. Gobble gobble",
       "category": "FOOD",
-      "simplified_description": "Succulent lean turkey breast and fresh sliced lettuce and tomato. Gobble gobble.",
+      "simplified_description": "Succulent lean turkey breast and fresh sliced lettuce and tomato. Gobble gobble",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "9th Avenue Sub",
       "price": 13.5,
-      "description": "A Spolumbo's original - an assorted mix of 3 special salami's all made here in-house. Beer Salami, French Cervalet, Kosher Beef.",
+      "description": "A Spolumbo's original - an assorted mix of 3 special salami's all made here in-house. Beer Salami, French Cervalet, Kosher Beef",
       "category": "FOOD",
       "simplified_description": "A Spolumbo's original - an assorted mix of 3 special salami's all made here in-h",
       "dietary_info": [],
@@ -42,7 +42,7 @@
     {
       "name": "Reuben or Rachel",
       "price": null,
-      "description": "Montreal smoked meat Rueben served steaming hot on sliced Rye deli bread with provolone cheese, and sauerkraut. Top it off with regular or Dijon mustard. Subsitute black forest ham if you prefer a Rachel.",
+      "description": "Montreal smoked meat Rueben served steaming hot on sliced Rye deli bread with provolone cheese, and sauerkraut. Top it off with regular or Dijon mustard. Subsitute black forest ham if you prefer a Rachel",
       "category": "FOOD",
       "simplified_description": "Montreal smoked meat Rueben served steaming hot on sliced Rye deli bread with pr",
       "dietary_info": [],
@@ -60,18 +60,18 @@
     {
       "name": "Magic bars",
       "price": 2.5,
-      "description": "Contains nuts.",
+      "description": "Contains nuts",
       "category": "DESSERT",
-      "simplified_description": "Contains nuts.",
+      "simplified_description": "Contains nuts",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Peanut Butter Chocolate Chip Bars",
       "price": 2.5,
-      "description": "Contains nuts.",
+      "description": "Contains nuts",
       "category": "DESSERT",
-      "simplified_description": "Contains nuts.",
+      "simplified_description": "Contains nuts",
       "dietary_info": [],
       "other_info": ""
     },
@@ -96,9 +96,9 @@
     {
       "name": "San Pellegrino",
       "price": 3.65,
-      "description": "Original Italian Sodas - Limonata, Aranciata, and more...",
+      "description": "Original Italian Sodas - Limonata, Aranciata, and more",
       "category": "DRINK",
-      "simplified_description": "Original Italian Sodas - Limonata, Aranciata, and more...",
+      "simplified_description": "Original Italian Sodas - Limonata, Aranciata, and more",
       "dietary_info": [],
       "other_info": ""
     },
@@ -132,7 +132,7 @@
     {
       "name": "Soft Drinks",
       "price": 3.5,
-      "description": "Glass bottle Coke, Sprite, Ginger Ale, and many other canned beverage selections.",
+      "description": "Glass bottle Coke, Sprite, Ginger Ale, and many other canned beverage selections",
       "category": "DRINK",
       "simplified_description": "Glass bottle Coke, Sprite, Ginger Ale, and many other canned beverage selections",
       "dietary_info": [],

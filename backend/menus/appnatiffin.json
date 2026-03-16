@@ -5,7 +5,7 @@
   "items": [
     {
       "name": "Small Tiffin (8oz)",
-      "price": 220,
+      "price": null,
       "description": "4 Roti, One Dal, One Sabzi",
       "simplified_description": "A small meal with 4 flatbreads, one lentil dish, and one vegetable dish",
       "category": "Monthly Package",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Small Tiffin (8oz)",
-      "price": 240,
+      "price": null,
       "description": "6 Roti, One Dal, One Sabzi",
       "simplified_description": "A small meal with 6 flatbreads, one lentil dish, and one vegetable dish",
       "category": "Monthly Package",
@@ -23,7 +23,7 @@
     },
     {
       "name": "Medium Tiffin (12OZ)",
-      "price": 260,
+      "price": null,
       "description": "6 Roti, One Dal, One Sabzi",
       "simplified_description": "A medium meal with 6 flatbreads, one lentil dish, and one vegetable dish",
       "category": "Monthly Package",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Medium Tiffin (12OZ)",
-      "price": 280,
+      "price": null,
       "description": "8 Roti, One Dal, One Sabzi",
       "simplified_description": "A medium meal with 8 flatbreads, one lentil dish, and one vegetable dish",
       "category": "Monthly Package",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Large Tiffin (16OZ)",
-      "price": 300,
+      "price": null,
       "description": "8 Roti, One Dal, One Sabzi",
       "simplified_description": "A large meal with 8 flatbreads, one lentil dish, and one vegetable dish",
       "category": "Monthly Package",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Large Tiffin (16OZ)",
-      "price": 320,
+      "price": null,
       "description": "10 Roti, One Dal, One Sabzi",
       "simplified_description": "A large meal with 10 flatbreads, one lentil dish, and one vegetable dish",
       "category": "Monthly Package",

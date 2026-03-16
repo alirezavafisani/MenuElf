@@ -123,7 +123,7 @@
     {
       "name": "Meat Sauce Lasagna",
       "price": 13.2,
-      "description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated with a golden layer of crispy mozzarella cheese.",
+      "description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated with a golden layer of crispy mozzarella cheese",
       "category": "FOOD",
       "simplified_description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated",
       "dietary_info": [],
@@ -132,7 +132,7 @@
     {
       "name": "Meat Sauce Spaghetti",
       "price": 13.2,
-      "description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated with a golden layer of crispy mozzarella cheese.",
+      "description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated with a golden layer of crispy mozzarella cheese",
       "category": "FOOD",
       "simplified_description": "Our homemade meat sauce are prepared with AAA Lean Ground Beef. Baked and coated",
       "dietary_info": [],
@@ -143,7 +143,7 @@
       "price": 13.9,
       "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
@@ -152,7 +152,7 @@
       "price": 13.9,
       "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
@@ -161,7 +161,7 @@
       "price": 14.9,
       "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
@@ -170,7 +170,7 @@
       "price": 14.9,
       "description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella ",
+      "simplified_description": "Baked with lush cream sauce and coated with a golden layer of crispy mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
@@ -231,7 +231,7 @@
     {
       "name": "Greek Salad",
       "price": 8.35,
-      "description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Greek dressing.",
+      "description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Greek dressing",
       "category": "FOOD",
       "simplified_description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Gree",
       "dietary_info": [],
@@ -240,7 +240,7 @@
     {
       "name": "Greek Salad",
       "price": 13.3,
-      "description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Greek dressing.",
+      "description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Greek dressing",
       "category": "FOOD",
       "simplified_description": "romaine lettuce, onions, tomatoes, olives, feta, toss in a tangy lemon-herb Gree",
       "dietary_info": [],
@@ -249,18 +249,18 @@
     {
       "name": "Add protein",
       "price": 2.6,
-      "description": "Grill Chicken Strip  Shrimp",
+      "description": "Grill Chicken Strip Shrimp",
       "category": "OTHER",
-      "simplified_description": "Grill Chicken Strip  Shrimp",
+      "simplified_description": "Grill Chicken Strip Shrimp",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Add protein",
       "price": 4.8,
-      "description": "Grill Chicken Strip  Shrimp",
+      "description": "Grill Chicken Strip Shrimp",
       "category": "OTHER",
-      "simplified_description": "Grill Chicken Strip  Shrimp",
+      "simplified_description": "Grill Chicken Strip Shrimp",
       "dietary_info": [],
       "other_info": ""
     },

@@ -293,7 +293,7 @@
     },
     {
       "name": "Carmenere, Petit Verdot",
-      "price": 220.0,
+      "price": null,
       "description": "COLCHAGUA, CHILE",
       "category": "WINE",
       "simplified_description": "COLCHAGUA, CHILE",
@@ -302,7 +302,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 400.0,
+      "price": null,
       "description": "MAIPO, CHILE",
       "category": "WINE",
       "simplified_description": "MAIPO, CHILE",
@@ -311,7 +311,7 @@
     },
     {
       "name": "Barolo",
-      "price": 220.0,
+      "price": null,
       "description": "piedmonte, ITALY",
       "category": "WINE",
       "simplified_description": "piedmonte, ITALY",
@@ -320,7 +320,7 @@
     },
     {
       "name": "Barbaresco",
-      "price": 250.0,
+      "price": null,
       "description": "piedmonte, ITALY",
       "category": "WINE",
       "simplified_description": "piedmonte, ITALY",
@@ -329,7 +329,7 @@
     },
     {
       "name": "Tuscan Blend",
-      "price": 400.0,
+      "price": null,
       "description": "TUSCANY, ITALY",
       "category": "WINE",
       "simplified_description": "TUSCANY, ITALY",
@@ -338,7 +338,7 @@
     },
     {
       "name": "Tuscan Blend",
-      "price": 1100.0,
+      "price": null,
       "description": "TUSCANY, ITALY",
       "category": "WINE",
       "simplified_description": "TUSCANY, ITALY",
@@ -356,7 +356,7 @@
     },
     {
       "name": "Pinot Noir",
-      "price": 300.0,
+      "price": null,
       "description": "COTES DE NUITS, FRANCE",
       "category": "WINE",
       "simplified_description": "COTES DE NUITS, FRANCE",
@@ -365,7 +365,7 @@
     },
     {
       "name": "Bordeaux Red Blend",
-      "price": 600.0,
+      "price": null,
       "description": "BORDEAUX, FRANCE",
       "category": "WINE",
       "simplified_description": "BORDEAUX, FRANCE",
@@ -374,7 +374,7 @@
     },
     {
       "name": "Bordeaux Red Blend",
-      "price": 800.0,
+      "price": null,
       "description": "BORDEAUX, FRANCE",
       "category": "WINE",
       "simplified_description": "BORDEAUX, FRANCE",
@@ -401,7 +401,7 @@
     },
     {
       "name": "Merlot, Cabernet Sauvignon, Cabernet Franc, & Petit Verdot",
-      "price": 460.0,
+      "price": null,
       "description": "SOKANAGAN VALLEY, BC",
       "category": "WINE",
       "simplified_description": "SOKANAGAN VALLEY, BC",
@@ -410,7 +410,7 @@
     },
     {
       "name": "Merlot",
-      "price": 240.0,
+      "price": null,
       "description": "oliver, BC",
       "category": "WINE",
       "simplified_description": "oliver, BC",
@@ -428,7 +428,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 240.0,
+      "price": null,
       "description": "NAPA VALLEY, CALIFORNIA",
       "category": "WINE",
       "simplified_description": "NAPA VALLEY, CALIFORNIA",
@@ -437,7 +437,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 220.0,
+      "price": null,
       "description": "NAPA VALLEY, CALIFORNIA",
       "category": "WINE",
       "simplified_description": "NAPA VALLEY, CALIFORNIA",
@@ -446,7 +446,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 340.0,
+      "price": null,
       "description": "ALEXANDER VALLEY, CALIFORNIA",
       "category": "WINE",
       "simplified_description": "ALEXANDER VALLEY, CALIFORNIA",
@@ -464,7 +464,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 450.0,
+      "price": null,
       "description": "NAPA VALLEY, CALIFORNIA",
       "category": "WINE",
       "simplified_description": "NAPA VALLEY, CALIFORNIA",
@@ -473,7 +473,7 @@
     },
     {
       "name": "Red Blend",
-      "price": 420.0,
+      "price": null,
       "description": "NAPA VALLEY, CALIFORNIA",
       "category": "WINE",
       "simplified_description": "NAPA VALLEY, CALIFORNIA",
@@ -482,7 +482,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 460.0,
+      "price": null,
       "description": "NAPA VALLEY, CALIFORNA",
       "category": "WINE",
       "simplified_description": "NAPA VALLEY, CALIFORNA",
@@ -491,7 +491,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 630.0,
+      "price": null,
       "description": "HOWELL MOUNTAIN, NAPA VALLEY",
       "category": "WINE",
       "simplified_description": "HOWELL MOUNTAIN, NAPA VALLEY",
@@ -500,7 +500,7 @@
     },
     {
       "name": "Cabernet Sauvignon, Merlot",
-      "price": 700.0,
+      "price": null,
       "description": "RUTHERFORD, NAPA VALLEY",
       "category": "WINE",
       "simplified_description": "RUTHERFORD, NAPA VALLEY",
@@ -509,7 +509,7 @@
     },
     {
       "name": "Cabernet Sauvignon",
-      "price": 1000.0,
+      "price": null,
       "description": "NAPA VALLEY, CALIFORNIA",
       "category": "WINE",
       "simplified_description": "NAPA VALLEY, CALIFORNIA",
@@ -518,7 +518,7 @@
     },
     {
       "name": "Shiraz",
-      "price": 2300.0,
+      "price": null,
       "description": "SOUTH AUSTRALIA, AUSTRALIA",
       "category": "WINE",
       "simplified_description": "SOUTH AUSTRALIA, AUSTRALIA",
@@ -593,7 +593,7 @@
       "price": 14.0,
       "description": "Empress rose gin, st. germain elderflower, lime juice, egg white, simple syrup, hibiscus crystal",
       "category": "DRINK",
-      "simplified_description": "Empress rose gin, st. germain elderflower, lime juice, egg white, simple syrup, ",
+      "simplified_description": "Empress rose gin, st. germain elderflower, lime juice, egg white, simple syrup",
       "dietary_info": [],
       "other_info": ""
     },

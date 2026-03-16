@@ -150,9 +150,9 @@
     {
       "name": "Hummus",
       "price": 6.0,
-      "description": "Traditional Middle Eastern dip made from chickpeas.",
+      "description": "Traditional Middle Eastern dip made from chickpeas",
       "category": "APPETIZER",
-      "simplified_description": "Traditional Middle Eastern dip made from chickpeas.",
+      "simplified_description": "Traditional Middle Eastern dip made from chickpeas",
       "dietary_info": [],
       "other_info": ""
     },
@@ -177,9 +177,9 @@
     {
       "name": "Greek Salad",
       "price": 6.99,
-      "description": "Fresh mix of tomatoes, cucumbers, feta cheese, and olives.",
+      "description": "Fresh mix of tomatoes, cucumbers, feta cheese, and olives",
       "category": "APPETIZER",
-      "simplified_description": "Fresh mix of tomatoes, cucumbers, feta cheese, and olives.",
+      "simplified_description": "Fresh mix of tomatoes, cucumbers, feta cheese, and olives",
       "dietary_info": [],
       "other_info": ""
     },

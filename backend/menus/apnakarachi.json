@@ -8,7 +8,7 @@
       "price": 12.99,
       "description": "fish pakora",
       "category": "APPETIZER",
-      "simplified_description": "Deep-fried battered fish fritters.",
+      "simplified_description": "Deep-fried battered fish fritters",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -21,7 +21,7 @@
       "price": 12.99,
       "description": "fried fish",
       "category": "APPETIZER",
-      "simplified_description": "Fish pieces fried until crispy.",
+      "simplified_description": "Fish pieces fried until crispy",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -34,7 +34,7 @@
       "price": null,
       "description": "dahi baray",
       "category": "APPETIZER",
-      "simplified_description": "Fried lentil dumplings served with yogurt.",
+      "simplified_description": "Fried lentil dumplings served with yogurt",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -46,7 +46,7 @@
       "price": null,
       "description": "chana chat papri",
       "category": "APPETIZER",
-      "simplified_description": "Chickpeas and crispy wafers with spices.",
+      "simplified_description": "Chickpeas and crispy wafers with spices",
       "dietary_info": [
         "vegan",
         "nut-free"
@@ -58,7 +58,7 @@
       "price": null,
       "description": "chicken schezwan Noodles",
       "category": "APPETIZER",
-      "simplified_description": "Spicy chicken noodles with Schezwan sauce.",
+      "simplified_description": "Spicy chicken noodles with Schezwan sauce",
       "dietary_info": [
         "halal",
         "nut-free",
@@ -71,7 +71,7 @@
       "price": null,
       "description": "noodles",
       "category": "APPETIZER",
-      "simplified_description": "Simple cooked noodles.",
+      "simplified_description": "Simple cooked noodles",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -83,7 +83,7 @@
       "price": null,
       "description": "Chicken Chow Mein",
       "category": "APPETIZER",
-      "simplified_description": "Stir-fried noodles with chicken and vegetables.",
+      "simplified_description": "Stir-fried noodles with chicken and vegetables",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -95,7 +95,7 @@
       "price": 11.99,
       "description": "dehli beef gola kabab dehli (4pcs)",
       "category": "BBQ",
-      "simplified_description": "Four pieces of spiced grilled beef kababs.",
+      "simplified_description": "Four pieces of spiced grilled beef kababs",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -108,7 +108,7 @@
       "price": 11.99,
       "description": "karachi beef dhaga kabab (2pcs)",
       "category": "BBQ",
-      "simplified_description": "Two pieces of grilled beef thread kababs.",
+      "simplified_description": "Two pieces of grilled beef thread kababs",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -121,7 +121,7 @@
       "price": 11.99,
       "description": "dehli chicken seekh kabab (2pcs)",
       "category": "BBQ",
-      "simplified_description": "Two pieces of spiced grilled chicken kababs.",
+      "simplified_description": "Two pieces of spiced grilled chicken kababs",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -134,7 +134,7 @@
       "price": 11.99,
       "description": "karachi malai boti/tikka (6-7pcs)",
       "category": "BBQ",
-      "simplified_description": "6-7 pieces of creamy grilled chicken tikka.",
+      "simplified_description": "6-7 pieces of creamy grilled chicken tikka",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -146,7 +146,7 @@
       "price": 11.99,
       "description": "karachi chicken tikka boneless",
       "category": "BBQ",
-      "simplified_description": "Boneless grilled chicken tikka pieces.",
+      "simplified_description": "Boneless grilled chicken tikka pieces",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -158,7 +158,7 @@
       "price": 11.99,
       "description": "karachi chicken tandoori 4pc",
       "category": "BBQ",
-      "simplified_description": "Four pieces of tandoori grilled chicken.",
+      "simplified_description": "Four pieces of tandoori grilled chicken",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -171,7 +171,7 @@
       "price": 50.0,
       "description": "chicken biryani / pulao",
       "category": "biryani / pulao​",
-      "simplified_description": "Spiced chicken cooked with rice in biryani style.",
+      "simplified_description": "Spiced chicken cooked with rice in biryani style",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -183,7 +183,7 @@
       "price": 60.0,
       "description": "beef biryani / pulao",
       "category": "biryani / pulao​",
-      "simplified_description": "Spiced beef cooked with rice in biryani style.",
+      "simplified_description": "Spiced beef cooked with rice in biryani style",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -195,7 +195,7 @@
       "price": 70.0,
       "description": "goat biryani / pulao",
       "category": "biryani / pulao​",
-      "simplified_description": "Spiced rice dish cooked with goat meat.",
+      "simplified_description": "Spiced rice dish cooked with goat meat",
       "dietary_info": [
         "halal",
         "gluten-free",
@@ -209,7 +209,7 @@
       "price": 70.0,
       "description": "beef nihari",
       "category": "meat curries",
-      "simplified_description": "Slow-cooked spicy beef stew.",
+      "simplified_description": "Slow-cooked spicy beef stew",
       "dietary_info": [
         "halal",
         "gluten-free",
@@ -224,7 +224,7 @@
       "price": 65.0,
       "description": "beef haleem",
       "category": "meat curries",
-      "simplified_description": "Thick stew of beef and lentils.",
+      "simplified_description": "Thick stew of beef and lentils",
       "dietary_info": [
         "halal",
         "gluten-free",
@@ -238,7 +238,7 @@
       "price": 60.0,
       "description": "chicken karahi /qorma",
       "category": "meat curries",
-      "simplified_description": "Chicken cooked in spicy karahi or creamy qorma style.",
+      "simplified_description": "Chicken cooked in spicy karahi or creamy qorma style",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -250,7 +250,7 @@
       "price": 65.0,
       "description": "beef karahi /qorma",
       "category": "meat curries",
-      "simplified_description": "Beef cooked in spicy karahi or creamy qorma style.",
+      "simplified_description": "Beef cooked in spicy karahi or creamy qorma style",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -262,7 +262,7 @@
       "price": 65.0,
       "description": "Butten chicken / handi",
       "category": "meat curries",
-      "simplified_description": "Creamy butter chicken or handi style chicken curry.",
+      "simplified_description": "Creamy butter chicken or handi style chicken curry",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -274,7 +274,7 @@
       "price": 70.0,
       "description": "goat karahi /qorma",
       "category": "meat curries",
-      "simplified_description": "Goat cooked in spicy karahi or creamy qorma style.",
+      "simplified_description": "Goat cooked in spicy karahi or creamy qorma style",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -286,7 +286,7 @@
       "price": 35.0,
       "description": "chana masala",
       "category": "veg curries",
-      "simplified_description": "Spicy chickpea curry.",
+      "simplified_description": "Spicy chickpea curry",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -301,7 +301,7 @@
       "price": 40.0,
       "description": "bhagaray baigun",
       "category": "veg curries",
-      "simplified_description": "Eggplant cooked with spices and tamarind.",
+      "simplified_description": "Eggplant cooked with spices and tamarind",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -316,7 +316,7 @@
       "price": 40.0,
       "description": "aloo palak",
       "category": "veg curries",
-      "simplified_description": "Potatoes cooked with spinach and spices.",
+      "simplified_description": "Potatoes cooked with spinach and spices",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -330,7 +330,7 @@
       "price": 40.0,
       "description": "mixed vegetable",
       "category": "veg curries",
-      "simplified_description": "Assorted vegetables cooked with spices.",
+      "simplified_description": "Assorted vegetables cooked with spices",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -344,7 +344,7 @@
       "price": 1.49,
       "description": "Plain Naan",
       "category": "Naan / Paratha",
-      "simplified_description": "Soft, plain flatbread.",
+      "simplified_description": "Soft, plain flatbread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -356,7 +356,7 @@
       "price": 2.99,
       "description": "Garlic Naan",
       "category": "Naan / Paratha",
-      "simplified_description": "Flatbread topped with garlic.",
+      "simplified_description": "Flatbread topped with garlic",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -368,7 +368,7 @@
       "price": 1.99,
       "description": "Till Wala Naan",
       "category": "Naan / Paratha",
-      "simplified_description": "Flatbread topped with sesame seeds.",
+      "simplified_description": "Flatbread topped with sesame seeds",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -380,7 +380,7 @@
       "price": 1.99,
       "description": "Butter Naan",
       "category": "Naan / Paratha",
-      "simplified_description": "Flatbread brushed with butter.",
+      "simplified_description": "Flatbread brushed with butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -392,7 +392,7 @@
       "price": 2.99,
       "description": "Laccha Paratha",
       "category": "Naan / Paratha",
-      "simplified_description": "Layered flaky Indian flatbread.",
+      "simplified_description": "Layered flaky Indian flatbread",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -405,7 +405,7 @@
       "price": 45.0,
       "description": "kheer",
       "category": "desserts / sweets",
-      "simplified_description": "Sweet rice pudding dessert.",
+      "simplified_description": "Sweet rice pudding dessert",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -418,7 +418,7 @@
       "price": 45.0,
       "description": "khubani ka metha",
       "category": "desserts / sweets",
-      "simplified_description": "Sweet apricot dessert.",
+      "simplified_description": "Sweet apricot dessert",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -431,7 +431,7 @@
       "price": 45.0,
       "description": "mango custard",
       "category": "desserts / sweets",
-      "simplified_description": "Creamy mango-flavored custard dessert.",
+      "simplified_description": "Creamy mango-flavored custard dessert",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -444,7 +444,7 @@
       "price": 45.0,
       "description": "shahi tukray",
       "category": "desserts / sweets",
-      "simplified_description": "Sweet fried bread soaked in syrup.",
+      "simplified_description": "Sweet fried bread soaked in syrup",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -457,7 +457,7 @@
       "price": 45.0,
       "description": "lab-e-shireen",
       "category": "desserts / sweets",
-      "simplified_description": "Sweet fruit custard dessert.",
+      "simplified_description": "Sweet fruit custard dessert",
       "dietary_info": [
         "vegetarian",
         "halal",

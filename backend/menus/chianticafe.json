@@ -6,9 +6,9 @@
     {
       "name": "Vitello Marsala",
       "price": 20.0,
-      "description": "Veal cutlets in a traditional Marsala demi-glace sauce.",
+      "description": "Veal cutlets in a traditional Marsala demi-glace sauce",
       "category": "FOOD",
-      "simplified_description": "Veal cutlets cooked in a Marsala wine sauce.",
+      "simplified_description": "Veal cutlets cooked in a Marsala wine sauce",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -18,27 +18,27 @@
     {
       "name": "Combinazione Della Casa",
       "price": 24.0,
-      "description": "A house favourite trio: cannelloni, spinach fettuccine alfredo and veal parmigiana.",
+      "description": "A house favourite trio: cannelloni, spinach fettuccine alfredo and veal parmigiana",
       "category": "FOOD",
-      "simplified_description": "A trio of cannelloni, spinach fettuccine alfredo, and veal parmigiana.",
+      "simplified_description": "A trio of cannelloni, spinach fettuccine alfredo, and veal parmigiana",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Vitello Alla Parmigiana",
       "price": 22.0,
-      "description": "Breaded veal cutlet topped with capicola ham, cheese and tomato sauce, served with spaghetti napoletana.",
+      "description": "Breaded veal cutlet topped with capicola ham, cheese and tomato sauce, served with spaghetti napoletana",
       "category": "FOOD",
-      "simplified_description": "Breaded veal with ham, cheese, tomato sauce, and spaghetti.",
+      "simplified_description": "Breaded veal with ham, cheese, tomato sauce, and spaghetti",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Petti Di Pollo Milanese",
       "price": 20.0,
-      "description": "Classic Italian hand-battered chicken breast, fried to golden brown. Served with potatoes & vegetables.",
+      "description": "Classic Italian hand-battered chicken breast, fried to golden brown. Served with potatoes & vegetables",
       "category": "FOOD",
-      "simplified_description": "Hand-battered fried chicken breast with potatoes and vegetables.",
+      "simplified_description": "Hand-battered fried chicken breast with potatoes and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -47,18 +47,18 @@
     {
       "name": "Pollo Al Oscar",
       "price": 23.0,
-      "description": "Chicken breast topped with prawns and shrimp meat in a rich cream and cheese sauce. Served with potatoes & vegetables.",
+      "description": "Chicken breast topped with prawns and shrimp meat in a rich cream and cheese sauce. Served with potatoes & vegetables",
       "category": "FOOD",
-      "simplified_description": "Chicken breast with prawns in creamy cheese sauce, served with sides.",
+      "simplified_description": "Chicken breast with prawns in creamy cheese sauce, served with sides",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pollo Con Funghi",
       "price": 23.0,
-      "description": "Breaded chicken breast in a fresh mushroom sauce. Served with potatoes & vegetables.",
+      "description": "Breaded chicken breast in a fresh mushroom sauce. Served with potatoes & vegetables",
       "category": "FOOD",
-      "simplified_description": "Breaded chicken breast with mushroom sauce, potatoes, and vegetables.",
+      "simplified_description": "Breaded chicken breast with mushroom sauce, potatoes, and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -67,27 +67,27 @@
     {
       "name": "Pollo Alla Parmigiana",
       "price": 22.0,
-      "description": "Breaded chicken breast topped with capicola ham and cheese in tomato sauce. Served with spaghetti napoletana.",
+      "description": "Breaded chicken breast topped with capicola ham and cheese in tomato sauce. Served with spaghetti napoletana",
       "category": "FOOD",
-      "simplified_description": "Breaded chicken with ham, cheese, tomato sauce, and spaghetti.",
+      "simplified_description": "Breaded chicken with ham, cheese, tomato sauce, and spaghetti",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pollo Stefania",
       "price": 23.0,
-      "description": "Chicken breast and pears sautéed in a curry cream sauce with Parmesan and gorgonzola cheese. Served with half spinach fettuccine napoletana.",
+      "description": "Chicken breast and pears sautéed in a curry cream sauce with Parmesan and gorgonzola cheese. Served with half spinach fettuccine napoletana",
       "category": "FOOD",
-      "simplified_description": "Chicken and pears in curry cream sauce with cheese and pasta.",
+      "simplified_description": "Chicken and pears in curry cream sauce with cheese and pasta",
       "dietary_info": [],
       "other_info": "Contains curry sauce"
     },
     {
       "name": "Biscotti",
       "price": 3.0,
-      "description": "Classic Italian cookie—perfect with coffee.",
+      "description": "Classic Italian cookie—perfect with coffee",
       "category": "DESSERT",
-      "simplified_description": "Traditional Italian cookie, great with coffee.",
+      "simplified_description": "Traditional Italian cookie, great with coffee",
       "dietary_info": [
         "nut-free"
       ],
@@ -96,9 +96,9 @@
     {
       "name": "Biscotti & Cappuccino",
       "price": 7.5,
-      "description": "A delightful pairing of one biscotti and a fresh cappuccino.",
+      "description": "A delightful pairing of one biscotti and a fresh cappuccino",
       "category": "DESSERT",
-      "simplified_description": "One biscotti served with a fresh cappuccino.",
+      "simplified_description": "One biscotti served with a fresh cappuccino",
       "dietary_info": [
         "nut-free"
       ],
@@ -107,9 +107,9 @@
     {
       "name": "Carrot Cake",
       "price": 8.0,
-      "description": "Moist carrot cake blended with raisins, nuts and spices, topped with rich cream cheese frosting.",
+      "description": "Moist carrot cake blended with raisins, nuts and spices, topped with rich cream cheese frosting",
       "category": "DESSERT",
-      "simplified_description": "Carrot cake with raisins, nuts, spices, and cream cheese frosting.",
+      "simplified_description": "Carrot cake with raisins, nuts, spices, and cream cheese frosting",
       "dietary_info": [
         "vegetarian"
       ],
@@ -118,9 +118,9 @@
     {
       "name": "Crème Caramel",
       "price": 8.0,
-      "description": "Traditional silky egg custard topped with golden sugar syrup and a touch of whipped cream.",
+      "description": "Traditional silky egg custard topped with golden sugar syrup and a touch of whipped cream",
       "category": "DESSERT",
-      "simplified_description": "Silky egg custard with caramel syrup and whipped cream.",
+      "simplified_description": "Silky egg custard with caramel syrup and whipped cream",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -131,18 +131,18 @@
     {
       "name": "Dessert & Cappuccino",
       "price": 16.5,
-      "description": "Enjoy two cappuccinos with your choice of one of our house desserts.",
+      "description": "Enjoy two cappuccinos with your choice of one of our house desserts",
       "category": "DESSERT",
-      "simplified_description": "Two cappuccinos with a choice of house dessert.",
+      "simplified_description": "Two cappuccinos with a choice of house dessert",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "European Cheesecake",
       "price": 8.0,
-      "description": "Velvety smooth cheesecake topped with your choice of strawberries, chocolate or caramel sauce.",
+      "description": "Velvety smooth cheesecake topped with your choice of strawberries, chocolate or caramel sauce",
       "category": "DESSERT",
-      "simplified_description": "Smooth cheesecake with strawberry, chocolate, or caramel topping.",
+      "simplified_description": "Smooth cheesecake with strawberry, chocolate, or caramel topping",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -152,9 +152,9 @@
     {
       "name": "Gelato Rainbow Sorbet",
       "price": 8.0,
-      "description": "Refreshing Italian-style fruit sorbet.",
+      "description": "Refreshing Italian-style fruit sorbet",
       "category": "DESSERT",
-      "simplified_description": "Refreshing Italian fruit sorbet.",
+      "simplified_description": "Refreshing Italian fruit sorbet",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -166,9 +166,9 @@
     {
       "name": "German Chocolate Cake",
       "price": 8.0,
-      "description": "Super moist dark chocolate cake filled with Belgian creamy toffee and topped with coconut and toasted pecans.",
+      "description": "Super moist dark chocolate cake filled with Belgian creamy toffee and topped with coconut and toasted pecans",
       "category": "DESSERT",
-      "simplified_description": "Moist chocolate cake with creamy toffee, coconut, and toasted pecans.",
+      "simplified_description": "Moist chocolate cake with creamy toffee, coconut, and toasted pecans",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -178,9 +178,9 @@
     {
       "name": "Spumoni Ice Cream",
       "price": 9.0,
-      "description": "Classic Italian tri-flavour ice cream layered with pistachio, chocolate and cherry.",
+      "description": "Classic Italian tri-flavour ice cream layered with pistachio, chocolate and cherry",
       "category": "DESSERT",
-      "simplified_description": "Italian tri-flavor ice cream with pistachio, chocolate, and cherry.",
+      "simplified_description": "Italian tri-flavor ice cream with pistachio, chocolate, and cherry",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -190,9 +190,9 @@
     {
       "name": "Tiramisu",
       "price": 8.0,
-      "description": "An Italian classic—ladyfingers dipped in espresso and rum, layered with creamy mascarpone cheese and dusted with cocoa.",
+      "description": "An Italian classic—ladyfingers dipped in espresso and rum, layered with creamy mascarpone cheese and dusted with cocoa",
       "category": "DESSERT",
-      "simplified_description": "Ladyfingers soaked in espresso and rum with mascarpone and cocoa.",
+      "simplified_description": "Ladyfingers soaked in espresso and rum with mascarpone and cocoa",
       "dietary_info": [
         "vegetarian"
       ],
@@ -203,16 +203,16 @@
       "price": 8.0,
       "description": "Inquire about our rotating chef’s special dessert of the day!",
       "category": "DESSERT",
-      "simplified_description": "Ask about today’s rotating chef’s special dessert.",
+      "simplified_description": "Ask about today’s rotating chef’s special dessert",
       "dietary_info": [],
       "other_info": "Rotating item"
     },
     {
       "name": "Americano",
       "price": 4.0,
-      "description": "Smooth espresso blended with hot water.",
+      "description": "Smooth espresso blended with hot water",
       "category": "DRINK",
-      "simplified_description": "Espresso diluted with hot water for a smooth coffee.",
+      "simplified_description": "Espresso diluted with hot water for a smooth coffee",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -226,9 +226,9 @@
     {
       "name": "Brewed Coffee",
       "price": 3.75,
-      "description": "Freshly brewed, aromatic coffee made from premium roasted beans.",
+      "description": "Freshly brewed, aromatic coffee made from premium roasted beans",
       "category": "DRINK",
-      "simplified_description": "Freshly brewed aromatic coffee from premium beans.",
+      "simplified_description": "Freshly brewed aromatic coffee from premium beans",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -242,9 +242,9 @@
     {
       "name": "Cappuccino",
       "price": 4.75,
-      "description": "Classic Italian coffee with equal parts espresso, steamed milk and foam.",
+      "description": "Classic Italian coffee with equal parts espresso, steamed milk and foam",
       "category": "DRINK",
-      "simplified_description": "Espresso with steamed milk and foam.",
+      "simplified_description": "Espresso with steamed milk and foam",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -254,9 +254,9 @@
     {
       "name": "Caffè Latte",
       "price": 5.75,
-      "description": "A creamy blend of espresso and steamed milk, lightly topped with foam.",
+      "description": "A creamy blend of espresso and steamed milk, lightly topped with foam",
       "category": "DRINK",
-      "simplified_description": "Espresso mixed with steamed milk and foam.",
+      "simplified_description": "Espresso mixed with steamed milk and foam",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -266,9 +266,9 @@
     {
       "name": "Espresso",
       "price": 3.5,
-      "description": "A rich, full-bodied shot of Italian coffee with deep, roasted flavour and a velvety crema.",
+      "description": "A rich, full-bodied shot of Italian coffee with deep, roasted flavour and a velvety crema",
       "category": "DRINK",
-      "simplified_description": "Strong, rich Italian coffee shot with crema.",
+      "simplified_description": "Strong, rich Italian coffee shot with crema",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -282,9 +282,9 @@
     {
       "name": "Hot Chocolate",
       "price": 4.75,
-      "description": "Warm milk and rich, creamy cocoa.",
+      "description": "Warm milk and rich, creamy cocoa",
       "category": "DRINK",
-      "simplified_description": "Warm milk mixed with rich cocoa.",
+      "simplified_description": "Warm milk mixed with rich cocoa",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -294,9 +294,9 @@
     {
       "name": "Tea",
       "price": 3.75,
-      "description": "Chamomile, Earl Grey, English Breakfast, Green Tea, Lemon, Orange Pekoe, Peppermint, Sweet Orange.",
+      "description": "Chamomile, Earl Grey, English Breakfast, Green Tea, Lemon, Orange Pekoe, Peppermint, Sweet Orange",
       "category": "DRINK",
-      "simplified_description": "Variety of hot teas including chamomile, Earl Grey, and green tea.",
+      "simplified_description": "Variety of hot teas including chamomile, Earl Grey, and green tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -310,9 +310,9 @@
     {
       "name": "Affogato",
       "price": 7.75,
-      "description": "Vanilla ice cream topped with espresso. Add Kahlua shot for 2.00 (1 oz).",
+      "description": "Vanilla ice cream topped with espresso. Add Kahlua shot for 2.00 (1 oz)",
       "category": "DRINK",
-      "simplified_description": "Vanilla ice cream topped with espresso shot.",
+      "simplified_description": "Vanilla ice cream topped with espresso shot",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -322,9 +322,9 @@
     {
       "name": "Bailey’s Coffee (1 oz)",
       "price": 8.75,
-      "description": "Bailey’s and coffee topped with whipped cream.",
+      "description": "Bailey’s and coffee topped with whipped cream",
       "category": "DRINK",
-      "simplified_description": "Coffee with Bailey’s liqueur and whipped cream.",
+      "simplified_description": "Coffee with Bailey’s liqueur and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -334,18 +334,18 @@
     {
       "name": "Blueberry Tea (1 oz)",
       "price": 8.75,
-      "description": "Hot tea served with Grand Marnier and Amaretto.",
+      "description": "Hot tea served with Grand Marnier and Amaretto",
       "category": "DRINK",
-      "simplified_description": "Hot tea with Grand Marnier and Amaretto liqueurs.",
+      "simplified_description": "Hot tea with Grand Marnier and Amaretto liqueurs",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Café Chianti (2 oz)",
       "price": 10.5,
-      "description": "Coffee with Sambuca, Frangelico and Bailey’s, topped with whipped cream.",
+      "description": "Coffee with Sambuca, Frangelico and Bailey’s, topped with whipped cream",
       "category": "DRINK",
-      "simplified_description": "Coffee with Sambuca, Frangelico, Bailey’s, and whipped cream.",
+      "simplified_description": "Coffee with Sambuca, Frangelico, Bailey’s, and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -355,9 +355,9 @@
     {
       "name": "Café Europa (1 oz)",
       "price": 8.75,
-      "description": "Grand Marnier, Galliano and coffee topped with whipped cream.",
+      "description": "Grand Marnier, Galliano and coffee topped with whipped cream",
       "category": "DRINK",
-      "simplified_description": "Coffee with Grand Marnier, Galliano, and whipped cream.",
+      "simplified_description": "Coffee with Grand Marnier, Galliano, and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -367,9 +367,9 @@
     {
       "name": "Irish Coffee (1 oz)",
       "price": 8.75,
-      "description": "Irish whiskey and coffee topped with whipped cream.",
+      "description": "Irish whiskey and coffee topped with whipped cream",
       "category": "DRINK",
-      "simplified_description": "Coffee with Irish whiskey and whipped cream.",
+      "simplified_description": "Coffee with Irish whiskey and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -379,9 +379,9 @@
     {
       "name": "Monte Cristo (1 oz)",
       "price": 8.75,
-      "description": "Grand Marnier, Kahlua, and coffee topped with whipped cream.",
+      "description": "Grand Marnier, Kahlua, and coffee topped with whipped cream",
       "category": "DRINK",
-      "simplified_description": "Coffee with Grand Marnier, Kahlua, and whipped cream.",
+      "simplified_description": "Coffee with Grand Marnier, Kahlua, and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -391,9 +391,9 @@
     {
       "name": "Spanish Coffee (1 oz)",
       "price": 8.75,
-      "description": "Kahlua, brandy and coffee topped with whipped cream.",
+      "description": "Kahlua, brandy and coffee topped with whipped cream",
       "category": "DRINK",
-      "simplified_description": "Coffee with Kahlua, brandy, and whipped cream.",
+      "simplified_description": "Coffee with Kahlua, brandy, and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -403,9 +403,9 @@
     {
       "name": "Chianti Coffee",
       "price": 8.5,
-      "description": "Frangelico, Baileys and Sambuca.",
+      "description": "Frangelico, Baileys and Sambuca",
       "category": "DRINK",
-      "simplified_description": "Coffee with Frangelico, Baileys, and Sambuca liqueurs.",
+      "simplified_description": "Coffee with Frangelico, Baileys, and Sambuca liqueurs",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -415,9 +415,9 @@
     {
       "name": "Irish Coffee",
       "price": 8.5,
-      "description": "Irish whiskey and Irish Mist.",
+      "description": "Irish whiskey and Irish Mist",
       "category": "DRINK",
-      "simplified_description": "Irish whiskey and Irish Mist liqueur drink.",
+      "simplified_description": "Irish whiskey and Irish Mist liqueur drink",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -427,9 +427,9 @@
     {
       "name": "Monte Cristo Coffee",
       "price": 8.5,
-      "description": "Grand Marnier and Kahlua.",
+      "description": "Grand Marnier and Kahlua",
       "category": "DRINK",
-      "simplified_description": "Coffee drink with Grand Marnier and Kahlua.",
+      "simplified_description": "Coffee drink with Grand Marnier and Kahlua",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -439,9 +439,9 @@
     {
       "name": "Spanish Coffee",
       "price": 8.5,
-      "description": "Brandy and Kahlua.",
+      "description": "Brandy and Kahlua",
       "category": "DRINK",
-      "simplified_description": "Coffee drink with brandy and Kahlua.",
+      "simplified_description": "Coffee drink with brandy and Kahlua",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -451,9 +451,9 @@
     {
       "name": "Limoncello (2 oz)",
       "price": 8.5,
-      "description": "A sweet Italian lemon liqueur, served chilled.",
+      "description": "A sweet Italian lemon liqueur, served chilled",
       "category": "DRINK",
-      "simplified_description": "Chilled sweet Italian lemon liqueur.",
+      "simplified_description": "Chilled sweet Italian lemon liqueur",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -467,7 +467,7 @@
       "price": 8.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A distilled Italian grape-based spirit.",
+      "simplified_description": "A distilled Italian grape-based spirit",
       "dietary_info": [
         "vegetarian",
         "gluten-free",

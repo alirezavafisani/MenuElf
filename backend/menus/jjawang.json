@@ -8,7 +8,7 @@
       "price": 9.0,
       "description": "Minced pork and vegetable dumplings / 6 pcs",
       "category": "APPETIZER",
-      "simplified_description": "Six dumplings filled with minced pork and vegetables.",
+      "simplified_description": "Six dumplings filled with minced pork and vegetables",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 6.0,
       "description": "Cucumber mixed with Jjawang’s special chili bean salad dressing",
       "category": "APPETIZER",
-      "simplified_description": "Cucumber salad with spicy chili bean dressing.",
+      "simplified_description": "Cucumber salad with spicy chili bean dressing",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -31,7 +31,7 @@
       "price": 13.0,
       "description": "Jelly fish and cucumber mixed with sweet and sour salad dressing",
       "category": "APPETIZER",
-      "simplified_description": "Jellyfish and cucumber in sweet and sour dressing.",
+      "simplified_description": "Jellyfish and cucumber in sweet and sour dressing",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -43,7 +43,7 @@
       "price": 14.0,
       "description": "Noodles with vegetables and ground pork in black bean sauce",
       "category": "NOODLE",
-      "simplified_description": "Noodles with vegetables and ground pork in black bean sauce.",
+      "simplified_description": "Noodles with vegetables and ground pork in black bean sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -52,7 +52,7 @@
       "price": 28.0,
       "description": "Stir-fried noodles with vegetables and ground pork in spicy black bean sauce served family style",
       "category": "NOODLE",
-      "simplified_description": "Spicy stir-fried noodles with vegetables and ground pork.",
+      "simplified_description": "Spicy stir-fried noodles with vegetables and ground pork",
       "dietary_info": [
         "spicy"
       ],
@@ -63,7 +63,7 @@
       "price": 17.0,
       "description": "Spicy noodle soup with variety of vegetables and seafood",
       "category": "NOODLE",
-      "simplified_description": "Spicy noodle soup with vegetables and seafood.",
+      "simplified_description": "Spicy noodle soup with vegetables and seafood",
       "dietary_info": [
         "spicy",
         "dairy-free",
@@ -76,7 +76,7 @@
       "price": 18.0,
       "description": "Spicy noodle soup with variety of vegetables and beef",
       "category": "NOODLE",
-      "simplified_description": "Spicy noodle soup with vegetables and beef.",
+      "simplified_description": "Spicy noodle soup with vegetables and beef",
       "dietary_info": [
         "spicy",
         "dairy-free",
@@ -89,7 +89,7 @@
       "price": 17.0,
       "description": "Savoury noodle soup with variety of vegetables and seafood",
       "category": "NOODLE",
-      "simplified_description": "Savory noodle soup with vegetables and seafood.",
+      "simplified_description": "Savory noodle soup with vegetables and seafood",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -101,7 +101,7 @@
       "price": 14.0,
       "description": "Vegetables and egg fried rice with black bean sauce on the side",
       "category": "RICE",
-      "simplified_description": "Egg fried rice with vegetables and black bean sauce on the side.",
+      "simplified_description": "Egg fried rice with vegetables and black bean sauce on the side",
       "dietary_info": [
         "nut-free"
       ],
@@ -112,7 +112,7 @@
       "price": 16.0,
       "description": "Shrimp, vegetables, and egg fried rice with black bean sauce on the side",
       "category": "RICE",
-      "simplified_description": "Egg fried rice with shrimp, vegetables, and black bean sauce on the side.",
+      "simplified_description": "Egg fried rice with shrimp, vegetables, and black bean sauce on the side",
       "dietary_info": [
         "nut-free"
       ],
@@ -123,7 +123,7 @@
       "price": 17.0,
       "description": "Spicy soup containing variety of vegetables and seafood or beef with steamed rice on the side",
       "category": "RICE",
-      "simplified_description": "Spicy soup with vegetables and seafood, served with steamed rice.",
+      "simplified_description": "Spicy soup with vegetables and seafood, served with steamed rice",
       "dietary_info": [
         "spicy",
         "dairy-free",
@@ -136,7 +136,7 @@
       "price": 18.0,
       "description": "Spicy soup containing variety of vegetables and seafood or beef with steamed rice on the side",
       "category": "RICE",
-      "simplified_description": "Spicy soup with vegetables and beef, served with steamed rice.",
+      "simplified_description": "Spicy soup with vegetables and beef, served with steamed rice",
       "dietary_info": [
         "spicy",
         "dairy-free",
@@ -149,7 +149,7 @@
       "price": 25.0,
       "description": "Deep fried pork with sweet and sour sauce | Sauce on the side",
       "category": "MAIN",
-      "simplified_description": "Deep fried pork served with sweet and sour sauce on the side.",
+      "simplified_description": "Deep fried pork served with sweet and sour sauce on the side",
       "dietary_info": [],
       "other_info": "Sauce on the side"
     },
@@ -158,7 +158,7 @@
       "price": 29.0,
       "description": "Deep fried pork with Jjawang’s signature secret cream sauce | Sauce on the side",
       "category": "MAIN",
-      "simplified_description": "Deep fried pork with special cream sauce served on the side.",
+      "simplified_description": "Deep fried pork with special cream sauce served on the side",
       "dietary_info": [],
       "other_info": "Sauce on the side"
     },
@@ -167,7 +167,7 @@
       "price": 27.0,
       "description": "Deep fried pork with spicy, sweet, and sour sauce | Sauce on the side",
       "category": "MAIN",
-      "simplified_description": "Deep fried pork with spicy sweet and sour sauce on the side.",
+      "simplified_description": "Deep fried pork with spicy sweet and sour sauce on the side",
       "dietary_info": [
         "spicy"
       ],
@@ -178,7 +178,7 @@
       "price": 28.0,
       "description": "Deep fried pork with sweet and spicy sauce",
       "category": "MAIN",
-      "simplified_description": "Deep fried pork in a sweet and spicy sauce.",
+      "simplified_description": "Deep fried pork in a sweet and spicy sauce",
       "dietary_info": [
         "spicy"
       ],
@@ -189,7 +189,7 @@
       "price": 28.0,
       "description": "Deep fried chicken thigh with sweet and spicy sauce",
       "category": "MAIN",
-      "simplified_description": "Deep fried chicken thigh with sweet and spicy sauce.",
+      "simplified_description": "Deep fried chicken thigh with sweet and spicy sauce",
       "dietary_info": [
         "spicy"
       ],
@@ -200,7 +200,7 @@
       "price": 32.0,
       "description": "Deep fried shrimp with sweet and spicy sauce",
       "category": "MAIN",
-      "simplified_description": "Deep fried shrimp served with sweet and spicy sauce.",
+      "simplified_description": "Deep fried shrimp served with sweet and spicy sauce",
       "dietary_info": [
         "spicy"
       ],
@@ -211,7 +211,7 @@
       "price": 32.0,
       "description": "Deep fried shrimp with Jjawang’s signature secret cream sauce | Sauce on the side",
       "category": "MAIN",
-      "simplified_description": "Deep fried shrimp with a special cream sauce served on the side.",
+      "simplified_description": "Deep fried shrimp with a special cream sauce served on the side",
       "dietary_info": [],
       "other_info": "Sauce served on the side"
     },
@@ -220,7 +220,7 @@
       "price": 34.0,
       "description": "Deep fried shrimp coated with Jjawang’s signature secret powder",
       "category": "MAIN",
-      "simplified_description": "Deep fried shrimp coated with a special secret powder.",
+      "simplified_description": "Deep fried shrimp coated with a special secret powder",
       "dietary_info": [],
       "other_info": ""
     },
@@ -229,7 +229,7 @@
       "price": 29.0,
       "description": "Deep fried chicken thigh with sweet soy sauce and hot pepper",
       "category": "MAIN",
-      "simplified_description": "Deep fried chicken thigh with sweet soy sauce and hot pepper.",
+      "simplified_description": "Deep fried chicken thigh with sweet soy sauce and hot pepper",
       "dietary_info": [
         "spicy"
       ],
@@ -240,7 +240,7 @@
       "price": 30.0,
       "description": "Stir-fried pork with black bean sauce served along with sliced vegetables to be wrapped soybean paper",
       "category": "MAIN",
-      "simplified_description": "Stir-fried pork with black bean sauce and vegetables wrapped in soybean paper.",
+      "simplified_description": "Stir-fried pork with black bean sauce and vegetables wrapped in soybean paper",
       "dietary_info": [],
       "other_info": ""
     },
@@ -249,7 +249,7 @@
       "price": 28.0,
       "description": "Hot and sour soup with vegetables, seafood, tofu, and eggs",
       "category": "MAIN",
-      "simplified_description": "Hot and sour soup with vegetables, seafood, tofu, and eggs.",
+      "simplified_description": "Hot and sour soup with vegetables, seafood, tofu, and eggs",
       "dietary_info": [],
       "other_info": ""
     },
@@ -258,7 +258,7 @@
       "price": 23.0,
       "description": "Spicy soup containing variety of vegetables and seafood or beef",
       "category": "MAIN",
-      "simplified_description": "Spicy soup with vegetables and seafood or beef.",
+      "simplified_description": "Spicy soup with vegetables and seafood or beef",
       "dietary_info": [
         "spicy"
       ],
@@ -269,7 +269,7 @@
       "price": 26.0,
       "description": "Spicy soup containing variety of vegetables and seafood or beef",
       "category": "MAIN",
-      "simplified_description": "Spicy soup with vegetables and seafood or beef.",
+      "simplified_description": "Spicy soup with vegetables and seafood or beef",
       "dietary_info": [
         "spicy"
       ],
@@ -280,7 +280,7 @@
       "price": 2.5,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Plain steamed white rice.",
+      "simplified_description": "Plain steamed white rice",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -297,7 +297,7 @@
       "price": 3.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Additional serving of noodles.",
+      "simplified_description": "Additional serving of noodles",
       "dietary_info": [],
       "other_info": ""
     },
@@ -306,7 +306,7 @@
       "price": 4.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Extra sauce for Tangsuyouk dish.",
+      "simplified_description": "Extra sauce for Tangsuyouk dish",
       "dietary_info": [],
       "other_info": ""
     },
@@ -315,7 +315,7 @@
       "price": 5.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Extra spicy sauce for Tangsuyouk dish.",
+      "simplified_description": "Extra spicy sauce for Tangsuyouk dish",
       "dietary_info": [
         "spicy"
       ],
@@ -326,7 +326,7 @@
       "price": 6.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Extra cream sauce for Tangsuyouk dish.",
+      "simplified_description": "Extra cream sauce for Tangsuyouk dish",
       "dietary_info": [],
       "other_info": ""
     },
@@ -335,7 +335,7 @@
       "price": 2.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A cold carbonated soft drink.",
+      "simplified_description": "A cold carbonated soft drink",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -349,7 +349,7 @@
       "price": 18.0,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A traditional Korean distilled alcoholic beverage.",
+      "simplified_description": "A traditional Korean distilled alcoholic beverage",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -363,7 +363,7 @@
       "price": 18.0,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Soju with added fruit or other flavors.",
+      "simplified_description": "Soju with added fruit or other flavors",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -377,7 +377,7 @@
       "price": 45.0,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A strong Chinese distilled spirit made from sorghum.",
+      "simplified_description": "A strong Chinese distilled spirit made from sorghum",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -391,7 +391,7 @@
       "price": 6.0,
       "description": "Kokanee, Canadian",
       "category": "DRINK",
-      "simplified_description": "Domestic Canadian beer brands including Kokanee.",
+      "simplified_description": "Domestic Canadian beer brands including Kokanee",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -405,7 +405,7 @@
       "price": 6.0,
       "description": "Stella $6 | Asahi (500ml) $7 | Sapporo (650ml) $9",
       "category": "DRINK",
-      "simplified_description": "Imported beers including Stella, Asahi, and Sapporo.",
+      "simplified_description": "Imported beers including Stella, Asahi, and Sapporo",
       "dietary_info": [
         "vegan",
         "vegetarian",

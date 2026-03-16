@@ -195,27 +195,27 @@
     {
       "name": "Fish Tikka Masala",
       "price": 17.99,
-      "description": "Boneless Fish cooked with spices in tomato and onion based gravy.",
+      "description": "Boneless Fish cooked with spices in tomato and onion based gravy",
       "category": "FOOD",
-      "simplified_description": "Boneless Fish cooked with spices in tomato and onion based gravy.",
+      "simplified_description": "Boneless Fish cooked with spices in tomato and onion based gravy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lamb Saag",
       "price": 18.95,
-      "description": "Lamb Cooked Fresh Spinach and Saag and Spices.",
+      "description": "Lamb Cooked Fresh Spinach and Saag and Spices",
       "category": "FOOD",
-      "simplified_description": "Lamb Cooked Fresh Spinach and Saag and Spices.",
+      "simplified_description": "Lamb Cooked Fresh Spinach and Saag and Spices",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Goat Saag",
       "price": 18.95,
-      "description": "Goat Cooked Fresh Spinach and Saag and Spices.",
+      "description": "Goat Cooked Fresh Spinach and Saag and Spices",
       "category": "FOOD",
-      "simplified_description": "Goat Cooked Fresh Spinach and Saag and Spices.",
+      "simplified_description": "Goat Cooked Fresh Spinach and Saag and Spices",
       "dietary_info": [],
       "other_info": ""
     },
@@ -375,7 +375,7 @@
     {
       "name": "Chicken Manchow Soup",
       "price": 10.99,
-      "description": "Veg Manchow Soup is a Delicious Vegan Soup Recipe Made by Cooking Finely Chopped Vegetables in a Hot & Spicy Broth Filled With Asian Flavors.",
+      "description": "Veg Manchow Soup is a Delicious Vegan Soup Recipe Made by Cooking Finely Chopped Vegetables in a Hot & Spicy Broth Filled With Asian Flavors",
       "category": "SOUP",
       "simplified_description": "Veg Manchow Soup is a Delicious Vegan Soup Recipe Made by Cooking Finely Chopped",
       "dietary_info": [],
@@ -384,7 +384,7 @@
     {
       "name": "Veg Manchow Soup",
       "price": 7.99,
-      "description": "Veg Manchow Soup is a Delicious Vegan Soup Recipe Made by Cooking Finely Chopped Vegetables in a Hot & Spicy Broth Filled With Asian Flavors.",
+      "description": "Veg Manchow Soup is a Delicious Vegan Soup Recipe Made by Cooking Finely Chopped Vegetables in a Hot & Spicy Broth Filled With Asian Flavors",
       "category": "SOUP",
       "simplified_description": "Veg Manchow Soup is a Delicious Vegan Soup Recipe Made by Cooking Finely Chopped",
       "dietary_info": [],
@@ -420,18 +420,18 @@
     {
       "name": "Sweet Lassi",
       "price": 6.95,
-      "description": "Sweet yogurt drink.",
+      "description": "Sweet yogurt drink",
       "category": "DRINK",
-      "simplified_description": "Sweet yogurt drink.",
+      "simplified_description": "Sweet yogurt drink",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mango Lassi",
       "price": 6.95,
-      "description": "Sweet yogurt drink blended with mango pulp.",
+      "description": "Sweet yogurt drink blended with mango pulp",
       "category": "DRINK",
-      "simplified_description": "Sweet yogurt drink blended with mango pulp.",
+      "simplified_description": "Sweet yogurt drink blended with mango pulp",
       "dietary_info": [],
       "other_info": ""
     },
@@ -501,18 +501,18 @@
     {
       "name": "Rasmalai (2 pcs)",
       "price": 5.95,
-      "description": "Cottage cheese dumplings soaked in sweetened milk flavored with cardamom.",
+      "description": "Cottage cheese dumplings soaked in sweetened milk flavored with cardamom",
       "category": "DESSERT",
-      "simplified_description": "Cottage cheese dumplings soaked in sweetened milk flavored with cardamom.",
+      "simplified_description": "Cottage cheese dumplings soaked in sweetened milk flavored with cardamom",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Gulab Jamun (2 pcs)",
       "price": 5.95,
-      "description": "Sweet milk dumplings soaked in rose flavored syrup.",
+      "description": "Sweet milk dumplings soaked in rose flavored syrup",
       "category": "DESSERT",
-      "simplified_description": "Sweet milk dumplings soaked in rose flavored syrup.",
+      "simplified_description": "Sweet milk dumplings soaked in rose flavored syrup",
       "dietary_info": [],
       "other_info": ""
     },
@@ -546,7 +546,7 @@
     {
       "name": "Veg Lunch Combo",
       "price": 17.99,
-      "description": "Meal includes butter chicken, dal tadka, mixed vegetables, rice, naan, and salad.",
+      "description": "Meal includes butter chicken, dal tadka, mixed vegetables, rice, naan, and salad",
       "category": "OTHER",
       "simplified_description": "Meal includes butter chicken, dal tadka, mixed vegetables, rice, naan, and salad",
       "dietary_info": [],
@@ -555,7 +555,7 @@
     {
       "name": "Non Veg Lunch Combo",
       "price": 17.99,
-      "description": "Meal includes paneer makhani, dal tadka, mixed vegetables, rice, naan, and salad.",
+      "description": "Meal includes paneer makhani, dal tadka, mixed vegetables, rice, naan, and salad",
       "category": "OTHER",
       "simplified_description": "Meal includes paneer makhani, dal tadka, mixed vegetables, rice, naan, and salad",
       "dietary_info": [],

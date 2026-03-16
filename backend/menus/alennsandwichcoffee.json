@@ -8,7 +8,7 @@
       "price": 10.8,
       "description": "egg, bacon, cheddar, arugula, vegetable spread, on brioche",
       "category": "FOOD",
-      "simplified_description": "Breakfast sandwich with egg, bacon, cheddar, and arugula on brioche.",
+      "simplified_description": "Breakfast sandwich with egg, bacon, cheddar, and arugula on brioche",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 11.6,
       "description": "mayo, egg, bacon, cheddar, tomato, lettuce, guacamole, on brioche",
       "category": "FOOD",
-      "simplified_description": "Breakfast sandwich with egg, bacon, cheddar, tomato, lettuce, and guacamole.",
+      "simplified_description": "Breakfast sandwich with egg, bacon, cheddar, tomato, lettuce, and guacamole",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": 12.7,
       "description": "mayo, egg, bacon, cheddar, sausage patty, onion, chipotle aioli, on brioche",
       "category": "FOOD",
-      "simplified_description": "Breakfast sandwich with egg, bacon, sausage, cheddar, and chipotle aioli.",
+      "simplified_description": "Breakfast sandwich with egg, bacon, sausage, cheddar, and chipotle aioli",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 16.8,
       "description": "red pepper spread, capocollo, salami, mozzarella, tomato, red onion, lettuce, garlic aioli",
       "category": "FOOD",
-      "simplified_description": "Italian sandwich with spicy red pepper spread, meats, mozzarella, and veggies.",
+      "simplified_description": "Italian sandwich with spicy red pepper spread, meats, mozzarella, and veggies",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,7 +44,7 @@
       "price": 15.6,
       "description": "garlic aioli, turkey, bacon, cheddar, tomato, lettuce, spicy mayo",
       "category": "FOOD",
-      "simplified_description": "Club sandwich with turkey, bacon, cheddar, tomato, lettuce, and spicy mayo.",
+      "simplified_description": "Club sandwich with turkey, bacon, cheddar, tomato, lettuce, and spicy mayo",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -53,7 +53,7 @@
       "price": 16.3,
       "description": "spicy mayo, steak, red onion, jalapeño, green pepper, mozzarella, garlic aioli",
       "category": "FOOD",
-      "simplified_description": "Steak sandwich with spicy mayo, jalapeño, peppers, and mozzarella cheese.",
+      "simplified_description": "Steak sandwich with spicy mayo, jalapeño, peppers, and mozzarella cheese",
       "dietary_info": [
         "spicy"
       ],
@@ -64,7 +64,7 @@
       "price": 16.5,
       "description": "butter, chicken, bacon, tomato, red onion, lettuce, ranch",
       "category": "FOOD",
-      "simplified_description": "Chicken sandwich with bacon, tomato, onion, lettuce, and ranch dressing.",
+      "simplified_description": "Chicken sandwich with bacon, tomato, onion, lettuce, and ranch dressing",
       "dietary_info": [],
       "other_info": ""
     },
@@ -73,7 +73,7 @@
       "price": 15.9,
       "description": "butter, cajun chicken, cheddar, tomato, lettuce, mayo",
       "category": "FOOD",
-      "simplified_description": "Cajun chicken sandwich with cheddar, tomato, lettuce, and mayo.",
+      "simplified_description": "Cajun chicken sandwich with cheddar, tomato, lettuce, and mayo",
       "dietary_info": [],
       "other_info": ""
     },
@@ -82,7 +82,7 @@
       "price": 15.3,
       "description": "vegetable spread, sun dried tomato, artichoke, onion, goat cheese, mozzarella, arugula, balsamic",
       "category": "FOOD",
-      "simplified_description": "Vegetarian sandwich with vegetables, goat cheese, mozzarella, and balsamic.",
+      "simplified_description": "Vegetarian sandwich with vegetables, goat cheese, mozzarella, and balsamic",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -94,7 +94,7 @@
       "price": 16.5,
       "description": "blackened chicken, cheddar, tomato, onion, lettuce, caesar dressing",
       "category": "FOOD",
-      "simplified_description": "Blackened chicken sandwich with cheddar, tomato, onion, lettuce, and Caesar dressing.",
+      "simplified_description": "Blackened chicken sandwich with cheddar, tomato, onion, lettuce, and Caesar dressing",
       "dietary_info": [],
       "other_info": ""
     },
@@ -103,7 +103,7 @@
       "price": 17.7,
       "description": "spicy mayo, turkey, chicken, bacon, cheddar, tomato, lettuce, guacamole",
       "category": "FOOD",
-      "simplified_description": "Turkey, chicken, bacon sandwich with cheddar, tomato, lettuce, guacamole, and spicy mayo.",
+      "simplified_description": "Turkey, chicken, bacon sandwich with cheddar, tomato, lettuce, guacamole, and spicy mayo",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -112,7 +112,7 @@
       "price": 16.8,
       "description": "cranberry chutney, turkey, brie cheese, arugula, mayo",
       "category": "FOOD",
-      "simplified_description": "Turkey sandwich with cranberry chutney, brie cheese, arugula, and mayo.",
+      "simplified_description": "Turkey sandwich with cranberry chutney, brie cheese, arugula, and mayo",
       "dietary_info": [],
       "other_info": ""
     },
@@ -121,7 +121,7 @@
       "price": 16.2,
       "description": "breaded chicken, nashville oil, bread and butter pickle, coleslaw, honey mustard aioli",
       "category": "FOOD",
-      "simplified_description": "Spicy breaded chicken sandwich with pickles, coleslaw, and honey mustard aioli.",
+      "simplified_description": "Spicy breaded chicken sandwich with pickles, coleslaw, and honey mustard aioli",
       "dietary_info": [
         "spicy"
       ],
@@ -132,7 +132,7 @@
       "price": 11.5,
       "description": "mozzarella, cheddar, butter, on marble rye",
       "category": "FOOD",
-      "simplified_description": "Grilled cheese sandwich with mozzarella and cheddar on marble rye bread.",
+      "simplified_description": "Grilled cheese sandwich with mozzarella and cheddar on marble rye bread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -144,7 +144,7 @@
       "price": 6.9,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Classic tomato soup.",
+      "simplified_description": "Classic tomato soup",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -158,7 +158,7 @@
       "price": 13.6,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Salad with blackened chicken and Caesar dressing.",
+      "simplified_description": "Salad with blackened chicken and Caesar dressing",
       "dietary_info": [],
       "other_info": ""
     },
@@ -167,7 +167,7 @@
       "price": 5.2,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Classic Caesar salad side dish.",
+      "simplified_description": "Classic Caesar salad side dish",
       "dietary_info": [],
       "other_info": ""
     },
@@ -176,7 +176,7 @@
       "price": 3.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "A bag of chips.",
+      "simplified_description": "A bag of chips",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -191,7 +191,7 @@
       "price": 6.9,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Creamy macaroni pasta with cheese sauce.",
+      "simplified_description": "Creamy macaroni pasta with cheese sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -203,7 +203,7 @@
       "price": 8.6,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Spiced chili stew.",
+      "simplified_description": "Spiced chili stew",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -212,7 +212,7 @@
       "price": 4.5,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Toasted bread topped with melted cheese.",
+      "simplified_description": "Toasted bread topped with melted cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -224,7 +224,7 @@
       "price": 6.9,
       "description": "bagel choice (plain/ everything / sesame) + spread choice (plain cream cheese/ herb & garlic)",
       "category": "FOOD",
-      "simplified_description": "Bagel with choice of cream cheese spread.",
+      "simplified_description": "Bagel with choice of cream cheese spread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -236,7 +236,7 @@
       "price": 9.5,
       "description": "on sesame bagel, smashed avocado, chilli oil, crispy fried onion, sesame seeds, mayo",
       "category": "FOOD",
-      "simplified_description": "Sesame bagel with avocado, chili oil, and crispy onions.",
+      "simplified_description": "Sesame bagel with avocado, chili oil, and crispy onions",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -248,7 +248,7 @@
       "price": 7.45,
       "description": "plain yogurt, peanut butter, banana, maple syrup, granola",
       "category": "FOOD",
-      "simplified_description": "Yogurt bowl with peanut butter, banana, and granola.",
+      "simplified_description": "Yogurt bowl with peanut butter, banana, and granola",
       "dietary_info": [
         "vegetarian"
       ],
@@ -259,7 +259,7 @@
       "price": 7.2,
       "description": "plain yogurt, strawberry, blueberry, maple syrup, granola",
       "category": "FOOD",
-      "simplified_description": "Yogurt bowl with strawberries, blueberries, and granola.",
+      "simplified_description": "Yogurt bowl with strawberries, blueberries, and granola",
       "dietary_info": [
         "vegetarian"
       ],

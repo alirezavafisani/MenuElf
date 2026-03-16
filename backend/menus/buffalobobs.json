@@ -8,7 +8,7 @@
       "price": null,
       "description": "$1.00 off Tall Cans",
       "category": "DRINK",
-      "simplified_description": "Discount on tall canned drinks.",
+      "simplified_description": "Discount on tall canned drinks",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": null,
       "description": "$3.00 off all burgers",
       "category": "FOOD",
-      "simplified_description": "Discount on all burgers.",
+      "simplified_description": "Discount on all burgers",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": null,
       "description": "$3 off Steak Sandwich with Fries",
       "category": "FOOD",
-      "simplified_description": "Discount on steak sandwich served with fries.",
+      "simplified_description": "Discount on steak sandwich served with fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": null,
       "description": "$1.00 off Granville Island Pints",
       "category": "DRINK",
-      "simplified_description": "Discount on Granville Island pint beers.",
+      "simplified_description": "Discount on Granville Island pint beers",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,7 +44,7 @@
       "price": 0.69,
       "description": "Wings with purchase of a beverage $0.69",
       "category": "FOOD",
-      "simplified_description": "Chicken wings available for $0.69 with a drink purchase.",
+      "simplified_description": "Chicken wings available for $0.69 with a drink purchase",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,7 +53,7 @@
       "price": null,
       "description": "$1.00 off Wild Rose Pints",
       "category": "DRINK",
-      "simplified_description": "Discount on Wild Rose pint beers.",
+      "simplified_description": "Discount on Wild Rose pint beers",
       "dietary_info": [],
       "other_info": ""
     },
@@ -62,7 +62,7 @@
       "price": null,
       "description": "$2 off Beer Battered Fish & Chips",
       "category": "FOOD",
-      "simplified_description": "Discount on beer battered fish served with chips.",
+      "simplified_description": "Discount on beer battered fish served with chips",
       "dietary_info": [],
       "other_info": ""
     },
@@ -71,7 +71,7 @@
       "price": 9.0,
       "description": "$9 Hi Ball Doubles",
       "category": "DRINK",
-      "simplified_description": "Double Hi Ball cocktails for $9.",
+      "simplified_description": "Double Hi Ball cocktails for $9",
       "dietary_info": [],
       "other_info": ""
     },
@@ -80,7 +80,7 @@
       "price": 8.0,
       "description": "Taco Friday Ground brisket, chicken, shrimp, spicy brisket, spicy chicken, spicy shrimp tacos. Mix and Match, Minimum of 2 tacos $8",
       "category": "FOOD",
-      "simplified_description": "Mix and match two tacos with various meats and spice levels for $8.",
+      "simplified_description": "Mix and match two tacos with various meats and spice levels for $8",
       "dietary_info": [
         "spicy"
       ],
@@ -91,7 +91,7 @@
       "price": null,
       "description": "$3.00 off Jugs of Beer",
       "category": "DRINK",
-      "simplified_description": "Discount on jugs of beer.",
+      "simplified_description": "Discount on jugs of beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -100,7 +100,7 @@
       "price": null,
       "description": "1/2 priced Bottles of Wine after 6pm",
       "category": "DRINK",
-      "simplified_description": "Half price bottles of wine after 6pm.",
+      "simplified_description": "Half price bottles of wine after 6pm",
       "dietary_info": [],
       "other_info": "Available after 6pm"
     },
@@ -109,7 +109,7 @@
       "price": 0.69,
       "description": "Wings with purchase of a beverage $0.69",
       "category": "FOOD",
-      "simplified_description": "Chicken wings available for $0.69 with a drink purchase.",
+      "simplified_description": "Chicken wings available for $0.69 with a drink purchase",
       "dietary_info": [],
       "other_info": ""
     },
@@ -118,7 +118,7 @@
       "price": null,
       "description": "$1.00 off Phillips Pints",
       "category": "DRINK",
-      "simplified_description": "Discount on Phillips pint beers.",
+      "simplified_description": "Discount on Phillips pint beers",
       "dietary_info": [],
       "other_info": ""
     },
@@ -127,7 +127,7 @@
       "price": null,
       "description": "1/2 price Nachos",
       "category": "FOOD",
-      "simplified_description": "Half price nachos.",
+      "simplified_description": "Half price nachos",
       "dietary_info": [],
       "other_info": ""
     },
@@ -136,7 +136,7 @@
       "price": 6.0,
       "description": "Caesar’s $6",
       "category": "DRINK",
-      "simplified_description": "Caesar cocktail for $6.",
+      "simplified_description": "Caesar cocktail for $6",
       "dietary_info": [],
       "other_info": ""
     }

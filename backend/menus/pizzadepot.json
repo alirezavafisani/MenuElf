@@ -13,7 +13,7 @@
       "other_info": ""
     },
     {
-      "name": "[Make Your Own](https://pizzadepot.ca/orderonline/?ICID=C396)",
+      "name": "Make Your Own",
       "price": 12.99,
       "description": "Single Large Pizza with Pizza Sauce & Mozzarella Cheese",
       "category": "FOOD",
@@ -22,7 +22,7 @@
       "other_info": ""
     },
     {
-      "name": "[Make Your Own](https://pizzadepot.ca/orderonline/?ICID=C397)",
+      "name": "Make Your Own",
       "price": 12.99,
       "description": "Single X-Large Pizza with Pizza Sauce & Mozzarella Cheese",
       "category": "FOOD",
@@ -31,7 +31,7 @@
       "other_info": ""
     },
     {
-      "name": "[Make Your Own](https://pizzadepot.ca/orderonline/?ICID=C398)",
+      "name": "Make Your Own",
       "price": 24.99,
       "description": "Single Square Pizza with Pizza Sauce & Mozzarella Cheese and one topping (Toppings Extra)",
       "category": "FOOD",
@@ -40,7 +40,7 @@
       "other_info": ""
     },
     {
-      "name": "[1 Topping Pizza](https://pizzadepot.ca/orderonline/?ICID=C493)",
+      "name": "1 Topping Pizza",
       "price": null,
       "description": "1 Pizza with 1 Topping & 1 Dipping Sauce",
       "category": "FOOD",
@@ -49,7 +49,7 @@
       "other_info": ""
     },
     {
-      "name": "[3 Topping Pizza](https://pizzadepot.ca/orderonline/?ICID=C500)",
+      "name": "3 Topping Pizza",
       "price": null,
       "description": "1 Pizza with 3 Toppings & 1 Dipping Sauce",
       "category": "FOOD",
@@ -58,7 +58,7 @@
       "other_info": ""
     },
     {
-      "name": "[2 Pizzas Combo](https://pizzadepot.ca/orderonline/?ICID=C123)",
+      "name": "2 Pizzas Combo",
       "price": null,
       "description": "2 Pizzas with 3 toppings on each & 2 dips",
       "category": "FOOD",
@@ -67,7 +67,7 @@
       "other_info": ""
     },
     {
-      "name": "[3 Pizzas Combo](https://pizzadepot.ca/orderonline/?ICID=C146)",
+      "name": "3 Pizzas Combo",
       "price": null,
       "description": "3 Pizzas with 3 Toppings on each & 3 dips",
       "category": "FOOD",
@@ -76,7 +76,7 @@
       "other_info": ""
     },
     {
-      "name": "[Pizza & Wings Combo](https://pizzadepot.ca/orderonline/?ICID=C334)",
+      "name": "Pizza & Wings Combo",
       "price": null,
       "description": "1 Pizza with 2 toppings and an option of 5 or 10 Wings with 1 Dipping Sauce",
       "category": "FOOD",
@@ -85,7 +85,7 @@
       "other_info": ""
     },
     {
-      "name": "[Canadian Pizza](https://pizzadepot.ca/orderonline/?ICID=C388)",
+      "name": "Canadian Pizza",
       "price": null,
       "description": "Pepperoni, Mushrooms & Bacon (260 Cals/Slice)",
       "category": "FOOD",
@@ -94,7 +94,7 @@
       "other_info": ""
     },
     {
-      "name": "[Meat Lovers Pizza](https://pizzadepot.ca/orderonline/?ICID=C352)",
+      "name": "Meat Lovers Pizza",
       "price": null,
       "description": "Ground Beef, Pepperoni, Bacon & Sausage (330 Cals/Slice)",
       "category": "FOOD",
@@ -103,7 +103,7 @@
       "other_info": ""
     },
     {
-      "name": "[Meatball Pizza](https://pizzadepot.ca/orderonline/?ICID=C336)",
+      "name": "Meatball Pizza",
       "price": null,
       "description": "Juicy Meatballs, Green Peppers & Onions (230 Cals/Slice)",
       "category": "FOOD",
@@ -112,7 +112,7 @@
       "other_info": ""
     },
     {
-      "name": "[Greek Pizza](https://pizzadepot.ca/orderonline/?ICID=C376)",
+      "name": "Greek Pizza",
       "price": null,
       "description": "Black Olives, Sliced Tomatoes, Onions & Feta Cheese (220 Cals/Slice)",
       "category": "FOOD",
@@ -121,7 +121,7 @@
       "other_info": ""
     },
     {
-      "name": "[Hawaiian Pizza](https://pizzadepot.ca/orderonline/?ICID=C384)",
+      "name": "Hawaiian Pizza",
       "price": null,
       "description": "Ham, Pineapple & Extra Cheese (220 Cals/Slice)",
       "category": "FOOD",
@@ -130,7 +130,7 @@
       "other_info": ""
     },
     {
-      "name": "[Buffalo Chicken Pizza](https://pizzadepot.ca/orderonline/?ICID=C356)",
+      "name": "Buffalo Chicken Pizza",
       "price": null,
       "description": "Buffalo Chicken, Onions & Hot Peppers (210 Cals/Slice)",
       "category": "FOOD",
@@ -139,7 +139,7 @@
       "other_info": ""
     },
     {
-      "name": "[Health Smart Pizza](https://pizzadepot.ca/orderonline/?ICID=C324)",
+      "name": "Health Smart Pizza",
       "price": null,
       "description": "Green peppers, Onions, Mushrooms & Broccoli (190 Cals/Slice)",
       "category": "FOOD",
@@ -148,7 +148,7 @@
       "other_info": ""
     },
     {
-      "name": "[Canadian Veggie Pizza](https://pizzadepot.ca/orderonline/?ICID=C368)",
+      "name": "Canadian Veggie Pizza",
       "price": null,
       "description": "Green Peppers, Tomatoes, Mushrooms & Green Olives (210 Cals/Slice)",
       "category": "FOOD",
@@ -157,7 +157,7 @@
       "other_info": ""
     },
     {
-      "name": "[Mexican Pizza](https://pizzadepot.ca/orderonline/?ICID=C372)",
+      "name": "Mexican Pizza",
       "price": null,
       "description": "Ground Beef, Tomatoes, Onions & Jalapeno Peppers (220 Cals/Slice)",
       "category": "FOOD",
@@ -166,7 +166,7 @@
       "other_info": ""
     },
     {
-      "name": "[Chicken Deluxe Pizza](https://pizzadepot.ca/orderonline/?ICID=C360)",
+      "name": "Chicken Deluxe Pizza",
       "price": null,
       "description": "Chicken, Mushrooms, Green Peppers & Onions (210 Cals/Slice)",
       "category": "FOOD",
@@ -175,7 +175,7 @@
       "other_info": ""
     },
     {
-      "name": "[Spicy Italian Pizza](https://pizzadepot.ca/orderonline/?ICID=C380)",
+      "name": "Spicy Italian Pizza",
       "price": null,
       "description": "Thin Crust, Hot Italian Sausage, Ham & Roasted Red Peppers (240 Cals/Slice)",
       "category": "FOOD",
@@ -184,7 +184,7 @@
       "other_info": ""
     },
     {
-      "name": "[Garden Veggie Pizza](https://pizzadepot.ca/orderonline/?ICID=C328)",
+      "name": "Garden Veggie Pizza",
       "price": null,
       "description": "Green Peppers, Onions, Tomatoes & Green Olives (210 Cals/Slice)",
       "category": "FOOD",
@@ -193,7 +193,7 @@
       "other_info": ""
     },
     {
-      "name": "[Bacon Cheeseburger Pizza](https://pizzadepot.ca/orderonline/?ICID=C344)",
+      "name": "Bacon Cheeseburger Pizza",
       "price": null,
       "description": "Bacon, Ground Beef, Cheddar & Mozzarella Cheese (280 Cals/Slice)",
       "category": "FOOD",
@@ -202,7 +202,7 @@
       "other_info": ""
     },
     {
-      "name": "[BBQ Chicken Pizza](https://pizzadepot.ca/orderonline/?ICID=C356)",
+      "name": "BBQ Chicken Pizza",
       "price": null,
       "description": "BBQ Chicken, Mushrooms & Red Onions (210 Cals/Slice)",
       "category": "FOOD",
@@ -211,7 +211,7 @@
       "other_info": ""
     },
     {
-      "name": "[Spicy Veggie Deluxe](https://pizzadepot.ca/orderonline/?ICID=C356)",
+      "name": "Spicy Veggie Deluxe",
       "price": null,
       "description": "Single Pizza with Green peppers, Onions, Tomatoes & Hot Peppers (200 Cals/Slice)",
       "category": "FOOD",
@@ -220,16 +220,16 @@
       "other_info": ""
     },
     {
-      "name": "[Signature Veggie Corn](https://pizzadepot.ca/orderonline/?ICID=C479)",
+      "name": "Signature Veggie Corn",
       "price": null,
       "description": "1 Pizza with Garlic Sauce Base, Corn, Green Pepper, Mushrooms & Red Onion (1640-3040 Cals)",
       "category": "FOOD",
-      "simplified_description": "1 Pizza with Garlic Sauce Base, Corn, Green Pepper, Mushrooms & Red Onion (1640-",
+      "simplified_description": "1 Pizza with Garlic Sauce Base, Corn, Green Pepper, Mushrooms & Red Onion (1640",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "[Wings Combo(2090-2550 Cals)](https://pizzadepot.ca/orderonline/?ICID=C301)",
+      "name": "Wings Combo(2090-2550 Cals)",
       "price": 13.99,
       "description": "10 Classic Wings + Small Fries + 591ml Pop",
       "category": "FOOD",
@@ -238,7 +238,7 @@
       "other_info": ""
     },
     {
-      "name": "[Indian Style Wings (910 Cals)](https://pizzadepot.ca/orderonline/?ICID=I457)",
+      "name": "Indian Style Wings (910 Cals)",
       "price": null,
       "description": "Seasoned with hot sauce, caesar, onions, ginger, green chili & coriander",
       "category": "FOOD",
@@ -247,7 +247,7 @@
       "other_info": ""
     },
     {
-      "name": "[Chicken Strips (6 pcs)](https://pizzadepot.ca/orderonline/?ICID=I323)",
+      "name": "Chicken Strips (6 pcs)",
       "price": 10.99,
       "description": "Boneless strips of chicken breast meat available with your choice of dip",
       "category": "FOOD",
@@ -256,7 +256,7 @@
       "other_info": ""
     },
     {
-      "name": "[Boneless Wings (10 pcs)](https://pizzadepot.ca/orderonline/?ICID=I322)",
+      "name": "Boneless Wings (10 pcs)",
       "price": 10.99,
       "description": "Crispy battered boneless wngs of chicken breast available with your choice of dip",
       "category": "FOOD",

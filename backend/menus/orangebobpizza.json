@@ -6,7 +6,7 @@
     {
       "name": "Hail to the Kale",
       "price": 7.9,
-      "description": "Kale, red cabbage, carrot, sunflower and pumpkin seeds, flax oil and balsamic dressing.",
+      "description": "Kale, red cabbage, carrot, sunflower and pumpkin seeds, flax oil and balsamic dressing",
       "category": "SALAD",
       "simplified_description": "Kale, red cabbage, carrot, sunflower and pumpkin seeds, flax oil and balsamic dr",
       "dietary_info": [],
@@ -15,16 +15,16 @@
     {
       "name": "Caesar",
       "price": 7.9,
-      "description": "Romaine, Garlic Basil Pecorino Croutons, In house Parmesan Caesar dressing & In-house cooked bacon bits.",
+      "description": "Romaine, Garlic Basil Pecorino Croutons, In house Parmesan Caesar dressing & In-house cooked bacon bits",
       "category": "SALAD",
-      "simplified_description": "Romaine, Garlic Basil Pecorino Croutons, In house Parmesan Caesar dressing & In-",
+      "simplified_description": "Romaine, Garlic Basil Pecorino Croutons, In house Parmesan Caesar dressing & In",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Greek Fattoush",
       "price": 7.9,
-      "description": "Romaine, Toasted Whole Wheat Pita, Vegetables, Kalamata Olives, Feta, Sumac & Vinaigrette.",
+      "description": "Romaine, Toasted Whole Wheat Pita, Vegetables, Kalamata Olives, Feta, Sumac & Vinaigrette",
       "category": "SALAD",
       "simplified_description": "Romaine, Toasted Whole Wheat Pita, Vegetables, Kalamata Olives, Feta, Sumac & Vi",
       "dietary_info": [],
@@ -33,9 +33,9 @@
     {
       "name": "Classic Greek",
       "price": 7.9,
-      "description": "Diced Vegetables, Kalamata, Feta, White wine vinaigrette.",
+      "description": "Diced Vegetables, Kalamata, Feta, White wine vinaigrette",
       "category": "SALAD",
-      "simplified_description": "Diced Vegetables, Kalamata, Feta, White wine vinaigrette.",
+      "simplified_description": "Diced Vegetables, Kalamata, Feta, White wine vinaigrette",
       "dietary_info": [],
       "other_info": ""
     },
@@ -87,117 +87,117 @@
     {
       "name": "House",
       "price": 12.95,
-      "description": "Ham, pepperoni, mushroom, Buttered shrimp, green pepper, and black olive.",
+      "description": "Ham, pepperoni, mushroom, Buttered shrimp, green pepper, and black olive",
       "category": "PIZZA",
-      "simplified_description": "Ham, pepperoni, mushroom, Buttered shrimp, green pepper, and black olive.",
+      "simplified_description": "Ham, pepperoni, mushroom, Buttered shrimp, green pepper, and black olive",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Billy's",
       "price": 12.95,
-      "description": "Back bacon, ham, pepperoni, salami, beef, onion, and tomato.",
+      "description": "Back bacon, ham, pepperoni, salami, beef, onion, and tomato",
       "category": "PIZZA",
-      "simplified_description": "Back bacon, ham, pepperoni, salami, beef, onion, and tomato.",
+      "simplified_description": "Back bacon, ham, pepperoni, salami, beef, onion, and tomato",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Parmigiana",
       "price": 12.95,
-      "description": "Almond Crusted Chicken breast, spinach, Peppers, Green Onion and onions.",
+      "description": "Almond Crusted Chicken breast, spinach, Peppers, Green Onion and onions",
       "category": "PIZZA",
-      "simplified_description": "Almond Crusted Chicken breast, spinach, Peppers, Green Onion and onions.",
+      "simplified_description": "Almond Crusted Chicken breast, spinach, Peppers, Green Onion and onions",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mexican Beef Steak",
       "price": 12.95,
-      "description": "Pepperoni, salami, Ancho Chicken, Pascilla Beef Steak, Green Pepper, Red Pepper, Onions, Tomato, Cilantro, Green Onion and banana pepper.",
+      "description": "Pepperoni, salami, Ancho Chicken, Pascilla Beef Steak, Green Pepper, Red Pepper, Onions, Tomato, Cilantro, Green Onion and banana pepper",
       "category": "PIZZA",
-      "simplified_description": "Pepperoni, salami, Ancho Chicken, Pascilla Beef Steak, Green Pepper, Red Pepper,",
+      "simplified_description": "Pepperoni, salami, Ancho Chicken, Pascilla Beef Steak, Green Pepper, Red Pepper",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Greek",
       "price": 12.95,
-      "description": "Ham, pepperoni, onion, tomato, feta, and black olive.",
+      "description": "Ham, pepperoni, onion, tomato, feta, and black olive",
       "category": "PIZZA",
-      "simplified_description": "Ham, pepperoni, onion, tomato, feta, and black olive.",
+      "simplified_description": "Ham, pepperoni, onion, tomato, feta, and black olive",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Italian",
       "price": 12.95,
-      "description": "Pepperoni, salami, sausage, and green pepper.",
+      "description": "Pepperoni, salami, sausage, and green pepper",
       "category": "PIZZA",
-      "simplified_description": "Pepperoni, salami, sausage, and green pepper.",
+      "simplified_description": "Pepperoni, salami, sausage, and green pepper",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "All Meat",
       "price": 12.95,
-      "description": "Ham, pepperoni, salami, beef, and sausage.",
+      "description": "Ham, pepperoni, salami, beef, and sausage",
       "category": "PIZZA",
-      "simplified_description": "Ham, pepperoni, salami, beef, and sausage.",
+      "simplified_description": "Ham, pepperoni, salami, beef, and sausage",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Hawaiian",
       "price": 12.95,
-      "description": "Ham and pineapple.",
+      "description": "Ham and pineapple",
       "category": "PIZZA",
-      "simplified_description": "Ham and pineapple.",
+      "simplified_description": "Ham and pineapple",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Summer BBQ Chicken",
       "price": 12.95,
-      "description": "Chicken, pineapple, onion, and BBQ sauce.",
+      "description": "Chicken, pineapple, onion, and BBQ sauce",
       "category": "PIZZA",
-      "simplified_description": "Chicken, pineapple, onion, and BBQ sauce.",
+      "simplified_description": "Chicken, pineapple, onion, and BBQ sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Cheesy Cheese",
       "price": 12.95,
-      "description": "Parmesan, cheddar, Monterey Jack, and Mozzarella.",
+      "description": "Parmesan, cheddar, Monterey Jack, and Mozzarella",
       "category": "PIZZA",
-      "simplified_description": "Parmesan, cheddar, Monterey Jack, and Mozzarella.",
+      "simplified_description": "Parmesan, cheddar, Monterey Jack, and Mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Trio",
       "price": 12.95,
-      "description": "Pepperoni, bacon crumbles, and Italian sausage.",
+      "description": "Pepperoni, bacon crumbles, and Italian sausage",
       "category": "PIZZA",
-      "simplified_description": "Pepperoni, bacon crumbles, and Italian sausage.",
+      "simplified_description": "Pepperoni, bacon crumbles, and Italian sausage",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Double Pepperoni",
       "price": 12.95,
-      "description": "Double pepperoni and extra mozzarella.",
+      "description": "Double pepperoni and extra mozzarella",
       "category": "PIZZA",
-      "simplified_description": "Double pepperoni and extra mozzarella.",
+      "simplified_description": "Double pepperoni and extra mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Pesto",
       "price": 12.95,
-      "description": "Grilled chicken, basil pesto, parmesan, feta, and spinach.",
+      "description": "Grilled chicken, basil pesto, parmesan, feta, and spinach",
       "category": "PIZZA",
-      "simplified_description": "Grilled chicken, basil pesto, parmesan, feta, and spinach.",
+      "simplified_description": "Grilled chicken, basil pesto, parmesan, feta, and spinach",
       "dietary_info": [],
       "other_info": ""
     },
@@ -206,7 +206,7 @@
       "price": 12.95,
       "description": "Indonesian Chicken Satay, Thai Spiced Ground Beef, Basil, Green Onion, Cilantro, Peppers, and Onions (we recommend Peanut sauce with it)",
       "category": "PIZZA",
-      "simplified_description": "Indonesian Chicken Satay, Thai Spiced Ground Beef, Basil, Green Onion, Cilantro,",
+      "simplified_description": "Indonesian Chicken Satay, Thai Spiced Ground Beef, Basil, Green Onion, Cilantro",
       "dietary_info": [],
       "other_info": ""
     },
@@ -215,7 +215,7 @@
       "price": 12.95,
       "description": "Tandoori spiced chicken, butter chicken sauce, marinara, peppers, onion, tomato, cilantro, ginger, green onion",
       "category": "PIZZA",
-      "simplified_description": "Tandoori spiced chicken, butter chicken sauce, marinara, peppers, onion, tomato,",
+      "simplified_description": "Tandoori spiced chicken, butter chicken sauce, marinara, peppers, onion, tomato",
       "dietary_info": [],
       "other_info": ""
     },

@@ -230,7 +230,7 @@
     {
       "name": "WINGS",
       "price": 20,
-      "description": "Wings & drums\nSalt & Pepper | House Hot | Creamy Dill Pickle",
+      "description": "Wings & drums Salt & Pepper | House Hot | Creamy Dill Pickle",
       "simplified_description": "Chicken wings with various seasoning options",
       "category": "Pub Classics",
       "dietary_info": [],
@@ -239,7 +239,7 @@
     {
       "name": "MANGO CHIPOTLE NACHOS",
       "price": 22,
-      "description": "In-house fried corn tortillas, lime crema, mango salsa, tangerine chili olives, fresh jalapeño, smoked gouda\nAdd Guacamole - $3\nAdd Mango Habanero Chicken - $7",
+      "description": "In-house fried corn tortillas, lime crema, mango salsa, tangerine chili olives, fresh jalapeño, smoked gouda Add Guacamole - $3 Add Mango Habanero Chicken - $7",
       "simplified_description": "Nachos with various toppings including mango salsa and cheese",
       "category": "Pub Classics",
       "dietary_info": [],
@@ -248,7 +248,7 @@
     {
       "name": "THE BEE KEEPER",
       "price": 19,
-      "description": "San Marzano tomato sauce, mozzarella, fior di latte, basil, Burwood honey\nAdd Mango Habanero Chicken - $7",
+      "description": "San Marzano tomato sauce, mozzarella, fior di latte, basil, Burwood honey Add Mango Habanero Chicken - $7",
       "simplified_description": "Pizza with tomato sauce, cheese, basil, and honey",
       "category": "Forno Pizza",
       "dietary_info": [],
@@ -257,7 +257,7 @@
     {
       "name": "THE COWBOY",
       "price": 24,
-      "description": "Cured beef sirloin, spicy soppressata, pickled peppers, red onions, San Marzano tomato sauce, fior di latte\nAdd Bacon - $3",
+      "description": "Cured beef sirloin, spicy soppressata, pickled peppers, red onions, San Marzano tomato sauce, fior di latte Add Bacon - $3",
       "simplified_description": "Pizza with cured beef, spicy sausage, and pickled vegetables",
       "category": "Forno Pizza",
       "dietary_info": [],
@@ -266,7 +266,7 @@
     {
       "name": "THE FORAGER",
       "price": 23,
-      "description": "Nut-free basil pesto sauce, charred cauliflower, crimini mushrooms, goat feta, black truffle oil\nAdd Bacon - $3",
+      "description": "Nut-free basil pesto sauce, charred cauliflower, crimini mushrooms, goat feta, black truffle oil Add Bacon - $3",
       "simplified_description": "Pizza with pesto, vegetables, and cheese",
       "category": "Forno Pizza",
       "dietary_info": [],
@@ -331,7 +331,7 @@
     {
       "name": "BATTLEFORD CAESAR",
       "price": 18,
-      "description": "Romaine, Grana Padano, prosciutto, crispy chickpeas, dill and garlic dressing\nAdd Grilled Chicken - $6\nAdd Mango Habanero Chicken - $7\nAdd Seared Albacore Tuna - $8\nAdd Garlic Prawns - $10\nAdd Steak - $12\nAdd Salmon - $12",
+      "description": "Romaine, Grana Padano, prosciutto, crispy chickpeas, dill and garlic dressing Add Grilled Chicken - $6 Add Mango Habanero Chicken - $7 Add Seared Albacore Tuna - $8 Add Garlic Prawns - $10 Add Steak - $12 Add Salmon - $12",
       "simplified_description": "Caesar salad with various toppings available",
       "category": "Salads",
       "dietary_info": [],
@@ -358,7 +358,7 @@
     {
       "name": "STABLES OLD FASHIONED",
       "price": 16,
-      "description": "Our spin on a timeless sipper. Smooth Talker Bur-Bon style whisky, Burwood’s own honey syrup, and bitters, served on a king cube.",
+      "description": "Our spin on a timeless sipper. Smooth Talker Bur-Bon style whisky, Burwood’s own honey syrup, and bitters, served on a king cube",
       "simplified_description": "A classic cocktail made with whisky and honey",
       "category": "Drinks",
       "dietary_info": [],
@@ -367,7 +367,7 @@
     {
       "name": "SUMMER SCORCHER MARGARITA",
       "price": 16,
-      "description": "A bold cocktail made from fresh watermelon, lime and jalapeño, paired with blanco tequila. Half salted rim and a bit of an edge.",
+      "description": "A bold cocktail made from fresh watermelon, lime and jalapeño, paired with blanco tequila. Half salted rim and a bit of an edge",
       "simplified_description": "A spicy margarita with watermelon and lime",
       "category": "Drinks",
       "dietary_info": [],
@@ -376,7 +376,7 @@
     {
       "name": "THE HONEY SPICED DAIQUIRI",
       "price": 16,
-      "description": "Honey-Spiced Rhum and pineapple, shaken to silky perfection with a touch of natural sweetness.",
+      "description": "Honey-Spiced Rhum and pineapple, shaken to silky perfection with a touch of natural sweetness",
       "simplified_description": "A sweet daiquiri made with rum and pineapple",
       "category": "Drinks",
       "dietary_info": [],
@@ -385,7 +385,7 @@
     {
       "name": "BEES, BEER, BARLEY, SPIRITS",
       "price": null,
-      "description": "Burwood Cocktails - Various prices listed.",
+      "description": "Burwood Cocktails - Various prices listed",
       "simplified_description": "Cocktails made with local ingredients, prices vary",
       "category": "Drinks",
       "dietary_info": [],

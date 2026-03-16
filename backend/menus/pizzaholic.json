@@ -6,7 +6,7 @@
     {
       "name": "Butter Chicken",
       "price": 16.95,
-      "description": "Creamy garlic sauce, grilled chicken, red peppers, mozzarella, and cheddar cheese, topped with a butter chicken sauce drizzle.",
+      "description": "Creamy garlic sauce, grilled chicken, red peppers, mozzarella, and cheddar cheese, topped with a butter chicken sauce drizzle",
       "category": "FOOD",
       "simplified_description": "Creamy garlic sauce, grilled chicken, red peppers, mozzarella, and cheddar chees",
       "dietary_info": [],
@@ -15,25 +15,25 @@
     {
       "name": "Pepperoni Feast",
       "price": 16.95,
-      "description": "Tomato sauce, extra pepperoni, topped with extra mozzarella cheese.",
+      "description": "Tomato sauce, extra pepperoni, topped with extra mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Tomato sauce, extra pepperoni, topped with extra mozzarella cheese.",
+      "simplified_description": "Tomato sauce, extra pepperoni, topped with extra mozzarella cheese",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Hawaiian Feast",
       "price": 16.95,
-      "description": "Tomato sauce, extra ham, extra pineapple, topped with extra mozzarella.",
+      "description": "Tomato sauce, extra ham, extra pineapple, topped with extra mozzarella",
       "category": "FOOD",
-      "simplified_description": "Tomato sauce, extra ham, extra pineapple, topped with extra mozzarella.",
+      "simplified_description": "Tomato sauce, extra ham, extra pineapple, topped with extra mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Donair",
       "price": 16.95,
-      "description": "Creamy garlic sauce, donair meat, red onions, tomatoes, mozzarella cheese, topped with a donair sauce drizzle.",
+      "description": "Creamy garlic sauce, donair meat, red onions, tomatoes, mozzarella cheese, topped with a donair sauce drizzle",
       "category": "FOOD",
       "simplified_description": "Creamy garlic sauce, donair meat, red onions, tomatoes, mozzarella cheese, toppe",
       "dietary_info": [],
@@ -42,7 +42,7 @@
     {
       "name": "Veggie",
       "price": 16.95,
-      "description": "Tomato sauce, red onions, green peppers, mushrooms, tomatoes, topped with mozzarella cheese.",
+      "description": "Tomato sauce, red onions, green peppers, mushrooms, tomatoes, topped with mozzarella cheese",
       "category": "FOOD",
       "simplified_description": "Tomato sauce, red onions, green peppers, mushrooms, tomatoes, topped with mozzar",
       "dietary_info": [],
@@ -51,7 +51,7 @@
     {
       "name": "Veggie Mediterranean",
       "price": 16.95,
-      "description": "Tomato sauce, spinach, red onions, red peppers, mushrooms, tomatoes, black olives, topped with mozzarella and feta cheese.",
+      "description": "Tomato sauce, spinach, red onions, red peppers, mushrooms, tomatoes, black olives, topped with mozzarella and feta cheese",
       "category": "FOOD",
       "simplified_description": "Tomato sauce, spinach, red onions, red peppers, mushrooms, tomatoes, black olive",
       "dietary_info": [],
@@ -60,7 +60,7 @@
     {
       "name": "Pesto Veggie",
       "price": 16.95,
-      "description": "Tomato sauce, spinach, red onions, red peppers, mushrooms, mozzarella, and cheddar cheese, topped with a pesto sauce drizzle.",
+      "description": "Tomato sauce, spinach, red onions, red peppers, mushrooms, mozzarella, and cheddar cheese, topped with a pesto sauce drizzle",
       "category": "FOOD",
       "simplified_description": "Tomato sauce, spinach, red onions, red peppers, mushrooms, mozzarella, and chedd",
       "dietary_info": [],
@@ -69,7 +69,7 @@
     {
       "name": "Chipotle Chicken",
       "price": 16.95,
-      "description": "Creamy garlic sauce, grilled chicken, red onions, green peppers, red peppers, mozzarella and cheddar cheese, topped with a chipotle sauce drizzle.",
+      "description": "Creamy garlic sauce, grilled chicken, red onions, green peppers, red peppers, mozzarella and cheddar cheese, topped with a chipotle sauce drizzle",
       "category": "FOOD",
       "simplified_description": "Creamy garlic sauce, grilled chicken, red onions, green peppers, red peppers, mo",
       "dietary_info": [],
@@ -78,7 +78,7 @@
     {
       "name": "Beef and Garlic",
       "price": 16.95,
-      "description": "Tomato sauce, beef, mozzarella, and cheddar cheese, topped with a garlic sauce drizzle.",
+      "description": "Tomato sauce, beef, mozzarella, and cheddar cheese, topped with a garlic sauce drizzle",
       "category": "FOOD",
       "simplified_description": "Tomato sauce, beef, mozzarella, and cheddar cheese, topped with a garlic sauce d",
       "dietary_info": [],
@@ -87,16 +87,16 @@
     {
       "name": "Cheesy and Garlic",
       "price": 16.95,
-      "description": "Garlic sauce, mozzarella and cheddar cheese.",
+      "description": "Garlic sauce, mozzarella and cheddar cheese",
       "category": "FOOD",
-      "simplified_description": "Garlic sauce, mozzarella and cheddar cheese.",
+      "simplified_description": "Garlic sauce, mozzarella and cheddar cheese",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BBQ Chicken",
       "price": 16.95,
-      "description": "Creamy garlic sauce, grilled chicken, bacon, mozzarella, and cheddar cheese topped with a BBQ sauce drizzle.",
+      "description": "Creamy garlic sauce, grilled chicken, bacon, mozzarella, and cheddar cheese topped with a BBQ sauce drizzle",
       "category": "FOOD",
       "simplified_description": "Creamy garlic sauce, grilled chicken, bacon, mozzarella, and cheddar cheese topp",
       "dietary_info": [],
@@ -105,7 +105,7 @@
     {
       "name": "Meat Lovers",
       "price": 16.95,
-      "description": "Tomato sauce, ham, pepperoni, Italian sausage, bacon, topped with mozzarella cheese.",
+      "description": "Tomato sauce, ham, pepperoni, Italian sausage, bacon, topped with mozzarella cheese",
       "category": "FOOD",
       "simplified_description": "Tomato sauce, ham, pepperoni, Italian sausage, bacon, topped with mozzarella che",
       "dietary_info": [],
@@ -114,18 +114,18 @@
     {
       "name": "Deluxe",
       "price": 16.95,
-      "description": "Tomato sauce, pepperoni, Italian sausage, green peppers, red onions, mushrooms, topped with mozzarella cheese.",
+      "description": "Tomato sauce, pepperoni, Italian sausage, green peppers, red onions, mushrooms, topped with mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Tomato sauce, pepperoni, Italian sausage, green peppers, red onions, mushrooms, ",
+      "simplified_description": "Tomato sauce, pepperoni, Italian sausage, green peppers, red onions, mushrooms",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pepperoni and Mushrooms",
       "price": 16.95,
-      "description": "Tomato sauce, pepperoni, mushrooms, topped with mozzarella cheese.",
+      "description": "Tomato sauce, pepperoni, mushrooms, topped with mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Tomato sauce, pepperoni, mushrooms, topped with mozzarella cheese.",
+      "simplified_description": "Tomato sauce, pepperoni, mushrooms, topped with mozzarella cheese",
       "dietary_info": [],
       "other_info": ""
     }
