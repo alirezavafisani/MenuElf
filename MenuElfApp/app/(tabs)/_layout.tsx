@@ -1,41 +1,41 @@
 import { Tabs } from 'expo-router';
-import { Platform, Text } from 'react-native';
+import { Platform } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
+import { colors } from '../../lib/theme';
 
 export default function TabLayout() {
   return (
     <Tabs
       screenOptions={{
         headerShown: false,
+        tabBarShowLabel: false,
         tabBarStyle: {
-          backgroundColor: '#FFFFFF',
+          backgroundColor: colors.background,
           borderTopWidth: 1,
-          borderTopColor: '#E8E0D8',
+          borderTopColor: colors.border,
           height: Platform.OS === 'ios' ? 88 : 60,
           paddingBottom: Platform.OS === 'ios' ? 28 : 8,
           paddingTop: 8,
         },
-        tabBarActiveTintColor: '#D4754E',
-        tabBarInactiveTintColor: '#7A7A7A',
+        tabBarActiveTintColor: colors.goldPrimary,
+        tabBarInactiveTintColor: colors.textTertiary,
       }}>
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Search',
-          tabBarIcon: ({ color }) => <Text style={{ fontSize: 22 }}>🔍</Text>,
+          tabBarIcon: ({ color, size }) => <Ionicons name="map-outline" size={24} color={color} />,
         }}
       />
       <Tabs.Screen
         name="recommendations"
         options={{
-          title: 'For You',
-          tabBarIcon: ({ color }) => <Text style={{ fontSize: 22 }}>❤️</Text>,
+          tabBarIcon: ({ color, size }) => <Ionicons name="search-outline" size={24} color={color} />,
         }}
       />
       <Tabs.Screen
         name="friends"
         options={{
-          title: 'Friends',
-          tabBarIcon: ({ color }) => <Text style={{ fontSize: 22 }}>👥</Text>,
+          tabBarIcon: ({ color, size }) => <Ionicons name="people-outline" size={24} color={color} />,
         }}
       />
     </Tabs>
