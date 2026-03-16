@@ -28,6 +28,10 @@ app.add_middleware(
 from routers.user_intelligence import router as user_intelligence_router
 app.include_router(user_intelligence_router)
 
+# ─── Friends router ───
+from routers.friends import router as friends_router
+app.include_router(friends_router)
+
 # ─── Restaurant name list ───
 NAME_MAPPING_FILE = os.path.join(BASE_DIR, "name_mapping.json")
 NAME_MAPPING = {}
