@@ -6,34 +6,34 @@
     {
       "name": "GARLIC KNOTS",
       "price": 9.0,
-      "description": "Served with dip of choice.",
+      "description": "Served with dip of choice",
       "category": "APPETIZER",
-      "simplified_description": "Served with dip of choice.",
+      "simplified_description": "Served with dip of choice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "CHEESY GARLIC FINGERS",
       "price": 9.0,
-      "description": "Served with dip of choice.",
+      "description": "Served with dip of choice",
       "category": "APPETIZER",
-      "simplified_description": "Served with dip of choice.",
+      "simplified_description": "Served with dip of choice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "DONAIR EGG ROLLS",
       "price": 12.0,
-      "description": "Deep fried to perfection. Served with sweet sauce.",
+      "description": "Deep fried to perfection. Served with sweet sauce",
       "category": "APPETIZER",
-      "simplified_description": "Deep fried to perfection. Served with sweet sauce.",
+      "simplified_description": "Deep fried to perfection. Served with sweet sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "DIPS",
       "price": 1.5,
-      "description": "Ranch, creamy garlic, chipotle ranch, blue cheese, creamy dill, hot sauce, marinara, our famous pizza sauce.",
+      "description": "Ranch, creamy garlic, chipotle ranch, blue cheese, creamy dill, hot sauce, marinara, our famous pizza sauce",
       "category": "OTHER",
       "simplified_description": "Ranch, creamy garlic, chipotle ranch, blue cheese, creamy dill, hot sauce, marin",
       "dietary_info": [],
@@ -42,16 +42,16 @@
     {
       "name": "HOT HONEY",
       "price": 3.0,
-      "description": "Ask us to drizzle on any pizza or have on the side.",
+      "description": "Ask us to drizzle on any pizza or have on the side",
       "category": "OTHER",
-      "simplified_description": "Ask us to drizzle on any pizza or have on the side.",
+      "simplified_description": "Ask us to drizzle on any pizza or have on the side",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "SPICY PEPP",
       "price": 13.0,
-      "description": "Our Special Cup n' Char Spicy Pepperoni, crushed garlic & chili flakes. Drizzled with hot honey.",
+      "description": "Our Special Cup n' Char Spicy Pepperoni, crushed garlic & chili flakes. Drizzled with hot honey",
       "category": "FOOD",
       "simplified_description": "Our Special Cup n' Char Spicy Pepperoni, crushed garlic & chili flakes. Drizzled",
       "dietary_info": [],
@@ -60,43 +60,43 @@
     {
       "name": "MEAT LOVERS",
       "price": 14.0,
-      "description": "Pepperoni, salami, ham & beef.",
+      "description": "Pepperoni, salami, ham & beef",
       "category": "FOOD",
-      "simplified_description": "Pepperoni, salami, ham & beef.",
+      "simplified_description": "Pepperoni, salami, ham & beef",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "ACE CHICKEN",
       "price": 14.0,
-      "description": "Spinach, roasted chicken, red onion, feta & banana peppers.",
+      "description": "Spinach, roasted chicken, red onion, feta & banana peppers",
       "category": "FOOD",
-      "simplified_description": "Spinach, roasted chicken, red onion, feta & banana peppers.",
+      "simplified_description": "Spinach, roasted chicken, red onion, feta & banana peppers",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BACON CHEESEBURGER",
       "price": 14.0,
-      "description": "Ground beef, onion, tomato, bacon, mozzarella & cheddar cheese.",
+      "description": "Ground beef, onion, tomato, bacon, mozzarella & cheddar cheese",
       "category": "FOOD",
-      "simplified_description": "Ground beef, onion, tomato, bacon, mozzarella & cheddar cheese.",
+      "simplified_description": "Ground beef, onion, tomato, bacon, mozzarella & cheddar cheese",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "HONEY,I'M HOME!",
       "price": 14.0,
-      "description": "Hot Soppressata & prosciutto, drizzled in hot honey.",
+      "description": "Hot Soppressata & prosciutto, drizzled in hot honey",
       "category": "FOOD",
-      "simplified_description": "Hot Soppressata & prosciutto, drizzled in hot honey.",
+      "simplified_description": "Hot Soppressata & prosciutto, drizzled in hot honey",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "MEXICAN",
       "price": 14.0,
-      "description": "Beef, onion, mushroom, jalapeño, lettuce and sliced tomatoes. Served with sour cream and salsa on the side.",
+      "description": "Beef, onion, mushroom, jalapeño, lettuce and sliced tomatoes. Served with sour cream and salsa on the side",
       "category": "FOOD",
       "simplified_description": "Beef, onion, mushroom, jalapeño, lettuce and sliced tomatoes. Served with sour c",
       "dietary_info": [],
@@ -105,7 +105,7 @@
     {
       "name": "CHICKEN ALFREDO",
       "price": 14.0,
-      "description": "Chicken breast, chopped bacon, mushrooms and green onion on top of our delicious alfredo sauce.",
+      "description": "Chicken breast, chopped bacon, mushrooms and green onion on top of our delicious alfredo sauce",
       "category": "FOOD",
       "simplified_description": "Chicken breast, chopped bacon, mushrooms and green onion on top of our delicious",
       "dietary_info": [],
@@ -114,27 +114,27 @@
     {
       "name": "THE 'ARTIE BUCCO'",
       "price": 14.0,
-      "description": "Spinach, tomatoes, crushed garlic, artichokes & fresh basil.",
+      "description": "Spinach, tomatoes, crushed garlic, artichokes & fresh basil",
       "category": "FOOD",
-      "simplified_description": "Spinach, tomatoes, crushed garlic, artichokes & fresh basil.",
+      "simplified_description": "Spinach, tomatoes, crushed garlic, artichokes & fresh basil",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "DONAIR",
       "price": 14.0,
-      "description": "Donair meat, onions, tomatoes, drizzled in donair sauce.",
+      "description": "Donair meat, onions, tomatoes, drizzled in donair sauce",
       "category": "FOOD",
-      "simplified_description": "Donair meat, onions, tomatoes, drizzled in donair sauce.",
+      "simplified_description": "Donair meat, onions, tomatoes, drizzled in donair sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "VEGETARIAN",
       "price": 14.0,
-      "description": "Mushroom, tomato, onion, green pepper & black olives.",
+      "description": "Mushroom, tomato, onion, green pepper & black olives",
       "category": "FOOD",
-      "simplified_description": "Mushroom, tomato, onion, green pepper & black olives.",
+      "simplified_description": "Mushroom, tomato, onion, green pepper & black olives",
       "dietary_info": [],
       "other_info": ""
     },
@@ -150,7 +150,7 @@
     {
       "name": "CHICKEN PESTO",
       "price": 14.0,
-      "description": "Pesto base, roasted chicken, spinach, red onions, red pepper, crushed garlic & feta.",
+      "description": "Pesto base, roasted chicken, spinach, red onions, red pepper, crushed garlic & feta",
       "category": "FOOD",
       "simplified_description": "Pesto base, roasted chicken, spinach, red onions, red pepper, crushed garlic & f",
       "dietary_info": [],
@@ -159,79 +159,79 @@
     {
       "name": "MARGHERITA",
       "price": 29.0,
-      "description": "Mozzarella & basil.",
+      "description": "Mozzarella & basil",
       "category": "FOOD",
-      "simplified_description": "Mozzarella & basil.",
+      "simplified_description": "Mozzarella & basil",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "FOUR CHEESE",
       "price": 29.0,
-      "description": "Mozzarella, provolone, cheddar & parmesan.",
+      "description": "Mozzarella, provolone, cheddar & parmesan",
       "category": "FOOD",
-      "simplified_description": "Mozzarella, provolone, cheddar & parmesan.",
+      "simplified_description": "Mozzarella, provolone, cheddar & parmesan",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BBQ CHICKEN",
       "price": 30.0,
-      "description": "Barbecue sauce, roasted chicken, bacon, red onion, and roasted red peppers.",
+      "description": "Barbecue sauce, roasted chicken, bacon, red onion, and roasted red peppers",
       "category": "FOOD",
-      "simplified_description": "Barbecue sauce, roasted chicken, bacon, red onion, and roasted red peppers.",
+      "simplified_description": "Barbecue sauce, roasted chicken, bacon, red onion, and roasted red peppers",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "SPICY ITALIAN",
       "price": 30.0,
-      "description": "Spicy sausage, mushrooms, olives, onions, jalapeno & basil.",
+      "description": "Spicy sausage, mushrooms, olives, onions, jalapeno & basil",
       "category": "FOOD",
-      "simplified_description": "Spicy sausage, mushrooms, olives, onions, jalapeno & basil.",
+      "simplified_description": "Spicy sausage, mushrooms, olives, onions, jalapeno & basil",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "PROSCIUTTO",
       "price": 30.0,
-      "description": "Provolone, grated parmesan, prosciutto, arugula.",
+      "description": "Provolone, grated parmesan, prosciutto, arugula",
       "category": "FOOD",
-      "simplified_description": "Provolone, grated parmesan, prosciutto, arugula.",
+      "simplified_description": "Provolone, grated parmesan, prosciutto, arugula",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BUFFALO CHICKEN",
       "price": 30.0,
-      "description": "Buffalo chicken breast, red onion, tomatoes, drizzled in ranch.",
+      "description": "Buffalo chicken breast, red onion, tomatoes, drizzled in ranch",
       "category": "FOOD",
-      "simplified_description": "Buffalo chicken breast, red onion, tomatoes, drizzled in ranch.",
+      "simplified_description": "Buffalo chicken breast, red onion, tomatoes, drizzled in ranch",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "MEDITERRANIAN",
       "price": 30.0,
-      "description": "Artichoke, tomato, olives, feta, fresh basil & crushed garlic.",
+      "description": "Artichoke, tomato, olives, feta, fresh basil & crushed garlic",
       "category": "FOOD",
-      "simplified_description": "Artichoke, tomato, olives, feta, fresh basil & crushed garlic.",
+      "simplified_description": "Artichoke, tomato, olives, feta, fresh basil & crushed garlic",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "LASAGNA",
       "price": 17.0,
-      "description": "Ricotta, mozzarella and cheddar with layers of home made meat sauce.",
+      "description": "Ricotta, mozzarella and cheddar with layers of home made meat sauce",
       "category": "FOOD",
-      "simplified_description": "Ricotta, mozzarella and cheddar with layers of home made meat sauce.",
+      "simplified_description": "Ricotta, mozzarella and cheddar with layers of home made meat sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "FETTUCINE ALFREDO",
       "price": 15.0,
-      "description": "Our creamy Alfredo sauce with parmesan cheese, butter and a hint of herbs and spices.",
+      "description": "Our creamy Alfredo sauce with parmesan cheese, butter and a hint of herbs and spices",
       "category": "FOOD",
       "simplified_description": "Our creamy Alfredo sauce with parmesan cheese, butter and a hint of herbs and sp",
       "dietary_info": [],
@@ -240,7 +240,7 @@
     {
       "name": "BAKED SPAGHETTI",
       "price": 17.0,
-      "description": "Spaghetti noodles, smothered in our house made meat sauce. Topped with cheddar and mozzarella.",
+      "description": "Spaghetti noodles, smothered in our house made meat sauce. Topped with cheddar and mozzarella",
       "category": "FOOD",
       "simplified_description": "Spaghetti noodles, smothered in our house made meat sauce. Topped with cheddar a",
       "dietary_info": [],
@@ -249,7 +249,7 @@
     {
       "name": "CAESAR",
       "price": 10.0,
-      "description": "Romaine lettuce tossed in our creamy house made caesar dressing topped with parmesan, croutons and chopped bacon.",
+      "description": "Romaine lettuce tossed in our creamy house made caesar dressing topped with parmesan, croutons and chopped bacon",
       "category": "SALAD",
       "simplified_description": "Romaine lettuce tossed in our creamy house made caesar dressing topped with parm",
       "dietary_info": [],
@@ -258,7 +258,7 @@
     {
       "name": "GREEK SALAD",
       "price": 12.0,
-      "description": "Romaine lettuce, cucumber, tomato, green & red pepper, onion, kalamata olives and crumbled feta, tossed in our home made greek dressing.",
+      "description": "Romaine lettuce, cucumber, tomato, green & red pepper, onion, kalamata olives and crumbled feta, tossed in our home made greek dressing",
       "category": "SALAD",
       "simplified_description": "Romaine lettuce, cucumber, tomato, green & red pepper, onion, kalamata olives an",
       "dietary_info": [],
@@ -267,9 +267,9 @@
     {
       "name": "TIRAMISU",
       "price": 12.0,
-      "description": "Made fresh in house.",
+      "description": "Made fresh in house",
       "category": "DESSERT",
-      "simplified_description": "Made fresh in house.",
+      "simplified_description": "Made fresh in house",
       "dietary_info": [],
       "other_info": ""
     },

@@ -6,9 +6,9 @@
     {
       "name": "y hand labour of love Bolognese",
       "price": 14.95,
-      "description": "$14.95 _per person_",
+      "description": "$14.95 per person",
       "category": "OTHER",
-      "simplified_description": "Bolognese sauce served per person.",
+      "simplified_description": "Bolognese sauce served per person",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 14.95,
       "description": "Fired Cannelloni shell stuffed with beef filling and fresh spice – Mamma Angelas famous cannelloni",
       "category": "FOOD",
-      "simplified_description": "Fried pasta shells filled with spiced beef.",
+      "simplified_description": "Fried pasta shells filled with spiced beef",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": 14.95,
       "description": "Filled with pecorino cheese and Bartlett pear butter sauce",
       "category": "FOOD",
-      "simplified_description": "Pasta filled with cheese and served with pear butter sauce.",
+      "simplified_description": "Pasta filled with cheese and served with pear butter sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -38,7 +38,7 @@
       "price": 15.95,
       "description": "Spicy peppers & homemade sausage",
       "category": "FOOD",
-      "simplified_description": "Penne pasta with spicy peppers and homemade sausage.",
+      "simplified_description": "Penne pasta with spicy peppers and homemade sausage",
       "dietary_info": [
         "spicy"
       ],
@@ -49,7 +49,7 @@
       "price": 14.95,
       "description": "Fettuccine with truffle cream sauce, mushrooms and pecorino cheese",
       "category": "FOOD",
-      "simplified_description": "Fettuccine pasta with truffle cream, mushrooms, and cheese.",
+      "simplified_description": "Fettuccine pasta with truffle cream, mushrooms, and cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -61,7 +61,7 @@
       "price": 11.95,
       "description": "Garlic, chili, olive oil and mushrooms",
       "category": "FOOD",
-      "simplified_description": "Spaghetti with garlic, chili, olive oil, and mushrooms.",
+      "simplified_description": "Spaghetti with garlic, chili, olive oil, and mushrooms",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -74,7 +74,7 @@
       "price": 10.95,
       "description": "Herbs, onion, in a light, spicy tomato sauce",
       "category": "FOOD",
-      "simplified_description": "Penne pasta in a spicy tomato and herb sauce.",
+      "simplified_description": "Penne pasta in a spicy tomato and herb sauce",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -88,7 +88,7 @@
       "price": 20.95,
       "description": "Linguine with jumbo shrimp in spicy rose sauce",
       "category": "FOOD",
-      "simplified_description": "Linguine pasta with jumbo shrimp in spicy rose sauce.",
+      "simplified_description": "Linguine pasta with jumbo shrimp in spicy rose sauce",
       "dietary_info": [
         "gluten-free",
         "nut-free",
@@ -101,7 +101,7 @@
       "price": 24.95,
       "description": "Linguine with calamari, shrimp and mussels in our homemade seafood tomato sauce",
       "category": "FOOD",
-      "simplified_description": "Linguine with calamari, shrimp, mussels in seafood tomato sauce.",
+      "simplified_description": "Linguine with calamari, shrimp, mussels in seafood tomato sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -112,7 +112,7 @@
       "price": 11.95,
       "description": "Fried Chicken breast cutlet topped with tomato sauce and secret cheese mix",
       "category": "FOOD",
-      "simplified_description": "Fried chicken cutlet with tomato sauce and cheese topping.",
+      "simplified_description": "Fried chicken cutlet with tomato sauce and cheese topping",
       "dietary_info": [
         "nut-free"
       ],
@@ -121,9 +121,9 @@
     {
       "name": "Pescatore 2 Shrimp",
       "price": 14.95,
-      "description": "(2 pieces shrimp) Chicken scaloppini with homemade rose sauce and jumbo shrimps _Original calamari recipe from mamma._ _**$14.95** pasta not included_",
+      "description": "(2 pieces shrimp) Chicken scaloppini with homemade rose sauce and jumbo shrimps Original calamari recipe from mamma. $14.95 pasta not included",
       "category": "FOOD",
-      "simplified_description": "Chicken scaloppini with rose sauce and two jumbo shrimp.",
+      "simplified_description": "Chicken scaloppini with rose sauce and two jumbo shrimp",
       "dietary_info": [
         "nut-free"
       ],
@@ -134,7 +134,7 @@
       "price": 11.95,
       "description": "Chicken scaloppini with white wine, lemon and capers sauce",
       "category": "FOOD",
-      "simplified_description": "Chicken scaloppini in white wine, lemon, and caper sauce.",
+      "simplified_description": "Chicken scaloppini in white wine, lemon, and caper sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -145,7 +145,7 @@
       "price": 12.95,
       "description": "Chicken scaloppini with marsala sauce",
       "category": "FOOD",
-      "simplified_description": "Chicken scaloppini served with marsala wine sauce.",
+      "simplified_description": "Chicken scaloppini served with marsala wine sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -156,7 +156,7 @@
       "price": 13.95,
       "description": "Chicken scaloppini with our signature porcini and cream sauce",
       "category": "FOOD",
-      "simplified_description": "Chicken scaloppini with porcini mushrooms and cream sauce.",
+      "simplified_description": "Chicken scaloppini with porcini mushrooms and cream sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -167,7 +167,7 @@
       "price": 4.95,
       "description": "Italian homemade sausage with reed and yellow peppers and Shaved Parmigiano",
       "category": "FOOD",
-      "simplified_description": "Italian sausage with red and yellow peppers and shaved cheese.",
+      "simplified_description": "Italian sausage with red and yellow peppers and shaved cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -230,27 +230,27 @@
     {
       "name": "Tiramisu",
       "price": 39.95,
-      "description": "_Tray per 10 person_",
+      "description": "Tray per 10 person",
       "category": "DESSERT",
-      "simplified_description": "_Tray per 10 person_",
+      "simplified_description": "Tray per 10 person",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Berry Cheesecake",
       "price": 44.95,
-      "description": "_Tray per 10 person_",
+      "description": "Tray per 10 person",
       "category": "DESSERT",
-      "simplified_description": "_Tray per 10 person_",
+      "simplified_description": "Tray per 10 person",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Cannoli",
       "price": 2.45,
-      "description": "_per piece_",
+      "description": "per piece",
       "category": "DESSERT",
-      "simplified_description": "_per piece_",
+      "simplified_description": "per piece",
       "dietary_info": [],
       "other_info": ""
     }

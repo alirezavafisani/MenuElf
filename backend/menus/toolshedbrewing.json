@@ -8,7 +8,7 @@
       "price": 18.0,
       "description": "Pork shoulder, Memphis red, creamy coleslaw, hickory sticks, served on a potato bun",
       "category": "FOOD",
-      "simplified_description": "Pork shoulder, Memphis red, creamy coleslaw, hickory sticks, served on a potato ",
+      "simplified_description": "Pork shoulder, Memphis red, creamy coleslaw, hickory sticks, served on a potato",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 21.0,
       "description": "Brisket, people skills beer mustard, garlic aioli, arugula, house-made pickles, served on a sesame bun",
       "category": "FOOD",
-      "simplified_description": "Brisket, people skills beer mustard, garlic aioli, arugula, house-made pickles, ",
+      "simplified_description": "Brisket, people skills beer mustard, garlic aioli, arugula, house-made pickles",
       "dietary_info": [],
       "other_info": ""
     },
@@ -159,7 +159,7 @@
     {
       "name": "People Skills",
       "price": null,
-      "description": "Beer | 5.2% • Our crushable beer is light, refreshing, and gets along with everybody. This smooth, lightly hopped ale offers beautiful mouthfeel and a golden crystal-clear appearance. It's a real crowd pleaser.",
+      "description": "Beer | 5.2% • Our crushable beer is light, refreshing, and gets along with everybody. This smooth, lightly hopped ale offers beautiful mouthfeel and a golden crystal-clear appearance. It's a real crowd pleaser",
       "category": "DRINK",
       "simplified_description": "Beer | 5.2% • Our crushable beer is light, refreshing, and gets along with every",
       "dietary_info": [],
@@ -168,7 +168,7 @@
     {
       "name": "Red Rage",
       "price": null,
-      "description": "Red Ale | 5.6% • Roasty like coffee, toasty like fresh bread, and makes your mouth water for more. We put just enough hops in to remind you what they’re capable of. This ale is medium boded and easy to drink.",
+      "description": "Red Ale | 5.6% • Roasty like coffee, toasty like fresh bread, and makes your mouth water for more. We put just enough hops in to remind you what they’re capable of. This ale is medium boded and easy to drink",
       "category": "DRINK",
       "simplified_description": "Red Ale | 5.6% • Roasty like coffee, toasty like fresh bread, and makes your mou",
       "dietary_info": [],
@@ -186,9 +186,9 @@
     {
       "name": "Departure",
       "price": null,
-      "description": "West Coast IPA | 6.7% • Our departure began with a road trip to Yakima, home to the world’s finest hops, sparking a new evolution of our West Coast IPA. With grapefruit, stone fruit, and citrus notes, it’s crisp, aromatic, and breaks away from the ordinary. It’s built for those who carve their own path!",
+      "description": "West Coast IPA | 6.7% • Our departure began with a road trip to Yakima, home to the world’s finest hops, sparking a new evolution of our West Coast IPA. With grapefruit, stone fruit, and citrus notes, it’s crisp, aromatic, and breaks away from the ordinary",
       "category": "DRINK",
-      "simplified_description": "West Coast IPA | 6.7% • Our departure began with a road trip to Yakima, home to ",
+      "simplified_description": "West Coast IPA | 6.7% • Our departure began with a road trip to Yakima, home to",
       "dietary_info": [],
       "other_info": ""
     },
@@ -204,7 +204,7 @@
     {
       "name": "Prairie Berry Sour",
       "price": null,
-      "description": "Sour | 5.9% • We had a lively debate about the greatest berry on earth — and our Prairie-born team quickly agreed: Saskatoon berries win! They bring back memories of purple hands from berry picking and gramma’s famous pie. Proudly grown in the Canadian prairies, these berries inspired a brand new beer.",
+      "description": "Sour | 5.9% • We had a lively debate about the greatest berry on earth — and our Prairie-born team quickly agreed: Saskatoon berries win! They bring back memories of purple hands from berry picking and gramma’s famous pie",
       "category": "DRINK",
       "simplified_description": "Sour | 5.9% • We had a lively debate about the greatest berry on earth — and our",
       "dietary_info": [],
@@ -222,9 +222,9 @@
     {
       "name": "Pete's Pils",
       "price": null,
-      "description": "Pilsner | 4.5% • This beautifully simple Pilsner is a perfect representation of what life is like in the mountains. It’s easy, flavourful, light, rewarding and it’s even brewed with water originating from Kananaskis | Pick your pour: Hladinka, Šnyt, Mlíko.",
+      "description": "Pilsner | 4.5% • This beautifully simple Pilsner is a perfect representation of what life is like in the mountains. It’s easy, flavourful, light, rewarding and it’s even brewed with water originating from Kananaskis | Pick your pour: Hladinka, Šnyt, Mlíko",
       "category": "DRINK",
-      "simplified_description": "Pilsner | 4.5% • This beautifully simple Pilsner is a perfect representation of ",
+      "simplified_description": "Pilsner | 4.5% • This beautifully simple Pilsner is a perfect representation of",
       "dietary_info": [],
       "other_info": ""
     },
@@ -233,14 +233,14 @@
       "price": null,
       "description": "Beer | 0.5% • Barley, Hops, Yeast, and Water. The definition of beer! Still has the same great ingredients. Still the same great People Skills Beer. Still has the same great flavor. But with zero alcohol, I guess we’d have no choice but to call it “Zero People Skills”!",
       "category": "DRINK",
-      "simplified_description": "Beer | 0.5% • Barley, Hops, Yeast, and Water. The definition of beer! Still has ",
+      "simplified_description": "Beer | 0.5% • Barley, Hops, Yeast, and Water. The definition of beer! Still has",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Zero Red Rage",
       "price": null,
-      "description": "Red Ale | 0.5% • This “Zero Version” contains all the same freakish, ginger rage of the original Red Rage, just without the alcohol! At Tool Shed we feel 0.5% beer should be for everyone, not just light beer drinkers so here’s one with some oomph!! A true red ale that’ll shock you that’s it non-alcoholic!",
+      "description": "Red Ale | 0.5% • This “Zero Version” contains all the same freakish, ginger rage of the original Red Rage, just without the alcohol! At Tool Shed we feel 0.5% beer should be for everyone, not just light beer drinkers so here’s one with some oomph!!",
       "category": "DRINK",
       "simplified_description": "Red Ale | 0.5% • This “Zero Version” contains all the same freakish, ginger rage",
       "dietary_info": [],
@@ -249,7 +249,7 @@
     {
       "name": "Zero Golden Hour",
       "price": null,
-      "description": "Hazy Pale | 0.5% • Zero Golden Hour is all the glow, none of the buzz. Same golden haze, same tropical vibes - peach, mango, pineapple - now at just 0.5%. Whether you're on the clock, on the trails, or just taking it easy, this brew brings the good times without the alcohol. Because Golden Hour isn't about what's in your glass - it's about what's around you.",
+      "description": "Hazy Pale | 0.5% • Zero Golden Hour is all the glow, none of the buzz. Same golden haze, same tropical vibes - peach, mango, pineapple - now at just 0.5%. Whether you're on the clock, on the trails, or just taking it easy, this brew brings the good times without the alcohol",
       "category": "DRINK",
       "simplified_description": "Hazy Pale | 0.5% • Zero Golden Hour is all the glow, none of the buzz. Same gold",
       "dietary_info": [],

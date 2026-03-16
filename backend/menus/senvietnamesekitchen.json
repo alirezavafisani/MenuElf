@@ -432,7 +432,7 @@
     {
       "name": "Sen Special Beef Noodle Soup",
       "price": 16.25,
-      "description": "Sliced beef, beef balls, brisket, tripe & tendon.",
+      "description": "Sliced beef, beef balls, brisket, tripe & tendon",
       "simplified_description": "Special beef noodle soup with various beef cuts",
       "category": "Beef Noodle Soup - Pho",
       "dietary_info": [],
@@ -638,7 +638,7 @@
     {
       "name": "Sen Fried Rice",
       "price": 18.25,
-      "description": "Shrimp, chicken, fried egg & vegetables.",
+      "description": "Shrimp, chicken, fried egg & vegetables",
       "simplified_description": "Fried rice with shrimp, chicken, fried egg, and vegetables",
       "category": "Rice Dishes / Com Día",
       "dietary_info": [],
@@ -787,7 +787,7 @@
     {
       "name": "Kid's & Senior's Combo",
       "price": 13.75,
-      "description": "Valid for kids up to 12 years old, and seniors over 60 years old\n1 Appetizer: Spring roll or Salad roll\n1 Choice of Entree: Wonton soup | Chicken Noodle soup | Beef Noodle Soup | Rice with a spring roll and a choice of meat (Beef, Chicken, or Pork) | Vermicelli with a Spring roll and a choice of meat (Beef, Chicken, or Pork) | $2.00 Charge for adult orders of kids' size portion\n1 Drink: Soft drink or juice",
+      "description": "Valid for kids up to 12 years old, and seniors over 60 years old 1 Appetizer: Spring roll or Salad roll 1 Choice of Entree: Wonton soup | Chicken Noodle soup | Beef Noodle Soup | Rice with a spring roll and a choice of meat (Beef, Chicken, or Pork) | Vermicelli with a Spring roll and a choice of",
       "simplified_description": "Combo meal for kids and seniors with appetizer, entree, and drink",
       "category": "Kid's & Senior's Combo",
       "dietary_info": [],
@@ -814,7 +814,7 @@
     {
       "name": "Pho Combo for 4",
       "price": 53.25,
-      "description": "Served as a combo of 4 bowls of rice noodles and beef broth, with the choice of meat and broth\nChoice of Meat: 1. Sliced beef, 2. Chicken\nChoice of Broth: 1. Clear beef broth | 2. Spicy satay beef broth (Add $1.00/bowl) | 3. Spicy peanut satay beef broth (Add $2.00/bowl) | Gluten-free option: Additional $1.00/bowl",
+      "description": "Served as a combo of 4 bowls of rice noodles and beef broth, with the choice of meat and broth Choice of Meat: 1. Sliced beef, 2. Chicken Choice of Broth: 1. Clear beef broth | 2. Spicy satay beef broth (Add $1.00/bowl) | 3",
       "simplified_description": "Combo for 4 with rice noodles and beef broth, choice of meat and broth",
       "category": "Pho Combo for 4",
       "dietary_info": [
@@ -825,7 +825,7 @@
     {
       "name": "Vermicelli Combo for 4",
       "price": 56.25,
-      "description": "Served as a combo of 4 bowls of rice vermicelli and 2 choices of protein\nChoice of protein #1: 1. 2 pork spring rolls | 2. 2 vegetarian spring rolls\nChoice of Protein #2: 1. Grilled pork | 2. Grilled lemongrass chicken | 3. Satay chicken | 4. Grilled satay beef | 5. Lemongrass beef\nGluten-Free Option: Additional $1.00/bowl",
+      "description": "Served as a combo of 4 bowls of rice vermicelli and 2 choices of protein Choice of protein 1: 1. 2 pork spring rolls | 2. 2 vegetarian spring rolls Choice of Protein 2: 1. Grilled pork | 2. Grilled lemongrass chicken | 3. Satay chicken | 4. Grilled satay beef | 5",
       "simplified_description": "Combo for 4 with rice vermicelli and choice of proteins",
       "category": "Vermicelli Combo for 4",
       "dietary_info": [
@@ -836,7 +836,7 @@
     {
       "name": "Coorslight",
       "price": 7.95,
-      "description": "/341ml",
+      "description": "341ml",
       "simplified_description": "Coorslight beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -845,7 +845,7 @@
     {
       "name": "Budweiser",
       "price": 7.95,
-      "description": "/341ml",
+      "description": "341ml",
       "simplified_description": "Budweiser beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -854,7 +854,7 @@
     {
       "name": "Canadian",
       "price": 7.95,
-      "description": "/341ml",
+      "description": "341ml",
       "simplified_description": "Canadian beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -863,7 +863,7 @@
     {
       "name": "Saporo",
       "price": 8.95,
-      "description": "/330ml",
+      "description": "330ml",
       "simplified_description": "Saporo beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -872,7 +872,7 @@
     {
       "name": "Tsingtao",
       "price": 8.95,
-      "description": "/330ml",
+      "description": "330ml",
       "simplified_description": "Tsingtao beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -881,7 +881,7 @@
     {
       "name": "Saigon",
       "price": 8.95,
-      "description": "/330ml",
+      "description": "330ml",
       "simplified_description": "Saigon beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -890,7 +890,7 @@
     {
       "name": "Corona",
       "price": 8.95,
-      "description": "/330ml",
+      "description": "330ml",
       "simplified_description": "Corona beer",
       "category": "Drinks",
       "dietary_info": [],
@@ -944,7 +944,7 @@
     {
       "name": "Bubble Tea",
       "price": 7.5,
-      "description": "Mango, taro, coconut, honeydew, strawberry, watermelon.",
+      "description": "Mango, taro, coconut, honeydew, strawberry, watermelon",
       "simplified_description": "Bubble tea with various flavors",
       "category": "Drinks",
       "dietary_info": [],
@@ -953,7 +953,7 @@
     {
       "name": "Fresh Fruit Smoothies",
       "price": 8.5,
-      "description": "Mango, strawberry, avocado.",
+      "description": "Mango, strawberry, avocado",
       "simplified_description": "Smoothies with various fruits",
       "category": "Drinks",
       "dietary_info": [],

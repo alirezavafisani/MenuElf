@@ -6,9 +6,9 @@
     {
       "name": "tacos",
       "price": 3.0,
-      "description": "$3 tacos &amp; $18/ 6 packs of Sol! 🍻",
+      "description": "$3 tacos & $18/ 6 packs of Sol! 🍻",
       "category": "OTHER",
-      "simplified_description": "Tacos available for $3 each with 6-pack Sol beer for $18.",
+      "simplified_description": "Tacos available for $3 each with 6-pack Sol beer for $18",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": null,
       "description": "Fluffy pancakes, crispy bacon, buttermilk fried chicken, maple sauce and Chile butter with a sunny up egg ☀️",
       "category": "FOOD",
-      "simplified_description": "Pancakes with fried chicken, bacon, maple sauce, chile butter, and a sunny side egg.",
+      "simplified_description": "Pancakes with fried chicken, bacon, maple sauce, chile butter, and a sunny side egg",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": null,
       "description": "We proudly serve our very own delicious Blue Star Blend, roasted by the great people at @fratellocoffeeroasters, right here in Calgary! 💙 Now available on the Blue Star Takeout menu!",
       "category": "DRINK",
-      "simplified_description": "House blend coffee roasted locally in Calgary.",
+      "simplified_description": "House blend coffee roasted locally in Calgary",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -41,16 +41,16 @@
       "price": 10.0,
       "description": "Chicken wings are $10/ lb and White Claw is $18/ 6 pack. Every Wednesday🧨",
       "category": "FOOD",
-      "simplified_description": "Chicken wings priced at $10 per pound.",
+      "simplified_description": "Chicken wings priced at $10 per pound",
       "dietary_info": [],
       "other_info": "Available every Wednesday"
     },
     {
       "name": "Journey Bowl",
       "price": null,
-      "description": "Brown Rice, Kale, Thai curry sauce, ginger vinaigrette, 🥕, beets,",
+      "description": "Brown Rice, Kale, Thai curry sauce, ginger vinaigrette, 🥕, beets",
       "category": "FOOD",
-      "simplified_description": "Brown rice bowl with kale, Thai curry sauce, ginger vinaigrette, and beets.",
+      "simplified_description": "Brown rice bowl with kale, Thai curry sauce, ginger vinaigrette, and beets",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -60,9 +60,9 @@
     {
       "name": "Calgary beers & ciders, wines and Whiteclaws",
       "price": null,
-      "description": "Blue Star Takeout is running happy hour alllllll night! Calgary beers &amp; ciders, wines and Whiteclaws! 🍾 Hit the link in our bio to order for pickup! 💙",
+      "description": "Blue Star Takeout is running happy hour alllllll night! Calgary beers & ciders, wines and Whiteclaws! 🍾 Hit the link in our bio to order for pickup! 💙",
       "category": "DRINK",
-      "simplified_description": "Happy hour all night on local beers, ciders, wines, and Whiteclaws.",
+      "simplified_description": "Happy hour all night on local beers, ciders, wines, and Whiteclaws",
       "dietary_info": [],
       "other_info": "Happy hour all night"
     }

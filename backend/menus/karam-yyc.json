@@ -6,9 +6,9 @@
     {
       "name": "Beef Donair Wrap",
       "price": 9.99,
-      "description": "Perfectly spiced beef.",
+      "description": "Perfectly spiced beef",
       "category": "FOOD",
-      "simplified_description": "Wrap with perfectly spiced beef.",
+      "simplified_description": "Wrap with perfectly spiced beef",
       "dietary_info": [
         "halal"
       ],
@@ -17,9 +17,9 @@
     {
       "name": "Chicken Shawarma Wrap",
       "price": 10.5,
-      "description": "Marinated chicken, slow-cooked.",
+      "description": "Marinated chicken, slow-cooked",
       "category": "FOOD",
-      "simplified_description": "Wrap with marinated slow-cooked chicken.",
+      "simplified_description": "Wrap with marinated slow-cooked chicken",
       "dietary_info": [
         "halal"
       ],
@@ -28,9 +28,9 @@
     {
       "name": "Mix Meats Wrap",
       "price": 10.99,
-      "description": "Beef and Chicken combination.",
+      "description": "Beef and Chicken combination",
       "category": "FOOD",
-      "simplified_description": "Wrap with a combination of beef and chicken.",
+      "simplified_description": "Wrap with a combination of beef and chicken",
       "dietary_info": [
         "halal"
       ],
@@ -39,9 +39,9 @@
     {
       "name": "Beef Kabab Wrap",
       "price": 13.5,
-      "description": "Grilled marinated ground beef skewer.",
+      "description": "Grilled marinated ground beef skewer",
       "category": "FOOD",
-      "simplified_description": "Wrap with grilled marinated ground beef skewer.",
+      "simplified_description": "Wrap with grilled marinated ground beef skewer",
       "dietary_info": [
         "halal"
       ],
@@ -50,9 +50,9 @@
     {
       "name": "Taouk Wrap",
       "price": 13.5,
-      "description": "Grilled marinated chicken breast skewer.",
+      "description": "Grilled marinated chicken breast skewer",
       "category": "FOOD",
-      "simplified_description": "Wrap with grilled marinated chicken breast skewer.",
+      "simplified_description": "Wrap with grilled marinated chicken breast skewer",
       "dietary_info": [
         "halal"
       ],
@@ -61,9 +61,9 @@
     {
       "name": "Kafta Wrap",
       "price": 13.5,
-      "description": "Grilled seasoned ground beef skewer.",
+      "description": "Grilled seasoned ground beef skewer",
       "category": "FOOD",
-      "simplified_description": "Wrap with grilled seasoned ground beef skewer.",
+      "simplified_description": "Wrap with grilled seasoned ground beef skewer",
       "dietary_info": [
         "halal"
       ],
@@ -72,9 +72,9 @@
     {
       "name": "Falafel Wrap (Veg.)",
       "price": 11.99,
-      "description": "Crispy, house-made chickpeas patties.",
+      "description": "Crispy, house-made chickpeas patties",
       "category": "FOOD",
-      "simplified_description": "Wrap with crispy house-made chickpea patties.",
+      "simplified_description": "Wrap with crispy house-made chickpea patties",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -88,7 +88,7 @@
       "price": 20.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with beef donair.",
+      "simplified_description": "Plate with beef donair",
       "dietary_info": [
         "halal"
       ],
@@ -99,7 +99,7 @@
       "price": 20.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with chicken shawarma.",
+      "simplified_description": "Plate with chicken shawarma",
       "dietary_info": [
         "halal"
       ],
@@ -110,7 +110,7 @@
       "price": 22.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with mixed beef and chicken meats.",
+      "simplified_description": "Plate with mixed beef and chicken meats",
       "dietary_info": [
         "halal"
       ],
@@ -121,7 +121,7 @@
       "price": 22.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with grilled seasoned ground beef kafta.",
+      "simplified_description": "Plate with grilled seasoned ground beef kafta",
       "dietary_info": [
         "halal"
       ],
@@ -132,7 +132,7 @@
       "price": 23.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with grilled marinated chicken breast taouk.",
+      "simplified_description": "Plate with grilled marinated chicken breast taouk",
       "dietary_info": [
         "halal"
       ],
@@ -143,7 +143,7 @@
       "price": 24.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with grilled marinated ground beef kabab.",
+      "simplified_description": "Plate with grilled marinated ground beef kabab",
       "dietary_info": [
         "halal"
       ],
@@ -152,9 +152,9 @@
     {
       "name": "Mix BBQ Plate",
       "price": 25.99,
-      "description": "Includes Beef Kabab, Taouk, and Kafta skewer (one each).",
+      "description": "Includes Beef Kabab, Taouk, and Kafta skewer (one each)",
       "category": "FOOD",
-      "simplified_description": "Plate with one skewer each of beef kabab, taouk, and kafta.",
+      "simplified_description": "Plate with one skewer each of beef kabab, taouk, and kafta",
       "dietary_info": [
         "halal"
       ],
@@ -165,7 +165,7 @@
       "price": 19.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with vegetarian falafel.",
+      "simplified_description": "Plate with vegetarian falafel",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -177,9 +177,9 @@
     {
       "name": "Beef Donair and/or Chicken Shawarma Platter (500g)",
       "price": 49.99,
-      "description": "Come with Rice and/or Fries, Hummus, Salad, Pita Bread and 2 Sauces of your choice.",
+      "description": "Come with Rice and/or Fries, Hummus, Salad, Pita Bread and 2 Sauces of your choice",
       "category": "FOOD",
-      "simplified_description": "Beef or chicken platter with rice/fries, hummus, salad, pita, and sauces.",
+      "simplified_description": "Beef or chicken platter with rice/fries, hummus, salad, pita, and sauces",
       "dietary_info": [
         "halal"
       ],
@@ -188,9 +188,9 @@
     {
       "name": "BBQ Platter (600g)",
       "price": 59.99,
-      "description": "2 Kafta, 2 Taouk, 2 Kabab.",
+      "description": "2 Kafta, 2 Taouk, 2 Kabab",
       "category": "FOOD",
-      "simplified_description": "Mixed grilled meats including kafta, taouk, and kabab.",
+      "simplified_description": "Mixed grilled meats including kafta, taouk, and kabab",
       "dietary_info": [
         "halal"
       ],
@@ -199,9 +199,9 @@
     {
       "name": "Shawarma Platter",
       "price": 79.99,
-      "description": "Donair and Shawarma with Rice and/or Fries, Hummus, Salad, Pita bread, 2 Sauce of your choice + 5 Baklava.",
+      "description": "Donair and Shawarma with Rice and/or Fries, Hummus, Salad, Pita bread, 2 Sauce of your choice + 5 Baklava",
       "category": "FOOD",
-      "simplified_description": "Donair and shawarma with sides and 5 baklava desserts.",
+      "simplified_description": "Donair and shawarma with sides and 5 baklava desserts",
       "dietary_info": [
         "halal"
       ],
@@ -210,9 +210,9 @@
     {
       "name": "BBQ Platter",
       "price": 89.99,
-      "description": "3 Kabab, 3 Taouk, 4 Kafta with Rice and/or Fries, Hummus, Salad, Pita bread, 2 Sauce of your choice + 5 Baklava.",
+      "description": "3 Kabab, 3 Taouk, 4 Kafta with Rice and/or Fries, Hummus, Salad, Pita bread, 2 Sauce of your choice + 5 Baklava",
       "category": "FOOD",
-      "simplified_description": "Mixed grilled meats with sides and 5 baklava desserts.",
+      "simplified_description": "Mixed grilled meats with sides and 5 baklava desserts",
       "dietary_info": [
         "halal"
       ],
@@ -221,9 +221,9 @@
     {
       "name": "5 Wraps Platter",
       "price": 84.99,
-      "description": "5 Medium Wraps of your choice with Salad, French Fries, Hummus and 5 Baklava.",
+      "description": "5 Medium Wraps of your choice with Salad, French Fries, Hummus and 5 Baklava",
       "category": "FOOD",
-      "simplified_description": "Five wraps with salad, fries, hummus, and 5 baklava desserts.",
+      "simplified_description": "Five wraps with salad, fries, hummus, and 5 baklava desserts",
       "dietary_info": [
         "halal"
       ],
@@ -234,7 +234,7 @@
       "price": 13.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Wrap filled with chicken.",
+      "simplified_description": "Wrap filled with chicken",
       "dietary_info": [
         "halal"
       ],
@@ -245,7 +245,7 @@
       "price": 13.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Wrap filled with donair meat.",
+      "simplified_description": "Wrap filled with donair meat",
       "dietary_info": [
         "halal"
       ],
@@ -256,7 +256,7 @@
       "price": 14.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Wrap with a mix of different meats.",
+      "simplified_description": "Wrap with a mix of different meats",
       "dietary_info": [
         "halal"
       ],
@@ -267,7 +267,7 @@
       "price": 24.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate served with chicken.",
+      "simplified_description": "Plate served with chicken",
       "dietary_info": [
         "halal"
       ],
@@ -278,7 +278,7 @@
       "price": 24.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate served with donair meat.",
+      "simplified_description": "Plate served with donair meat",
       "dietary_info": [
         "halal"
       ],
@@ -289,7 +289,7 @@
       "price": 25.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Plate with a variety of meats.",
+      "simplified_description": "Plate with a variety of meats",
       "dietary_info": [
         "halal"
       ],
@@ -300,7 +300,7 @@
       "price": 7.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Fresh mixed greens and vegetables salad.",
+      "simplified_description": "Fresh mixed greens and vegetables salad",
       "dietary_info": [
         "vegetarian",
         "vegan",
@@ -317,7 +317,7 @@
       "price": 13.99,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Salad topped with donair meat.",
+      "simplified_description": "Salad topped with donair meat",
       "dietary_info": [
         "halal"
       ],
@@ -328,7 +328,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Salad topped with shawarma meat.",
+      "simplified_description": "Salad topped with shawarma meat",
       "dietary_info": [
         "halal"
       ],
@@ -339,7 +339,7 @@
       "price": null,
       "description": "Buy Five, Get One Free",
       "category": "DESSERT",
-      "simplified_description": "Sweet layered pastry with nuts and honey.",
+      "simplified_description": "Sweet layered pastry with nuts and honey",
       "dietary_info": [
         "vegetarian",
         "halal"
@@ -351,7 +351,7 @@
       "price": 7.99,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Creamy chickpea dip made with tahini and olive oil.",
+      "simplified_description": "Creamy chickpea dip made with tahini and olive oil",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -367,7 +367,7 @@
       "price": 3.99,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Soft, round flatbread served in a pack of five.",
+      "simplified_description": "Soft, round flatbread served in a pack of five",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -380,7 +380,7 @@
       "price": 5.5,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Crispy fried potato strips served hot.",
+      "simplified_description": "Crispy fried potato strips served hot",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -396,7 +396,7 @@
       "price": 6.99,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "French fries topped with cheese curds and gravy.",
+      "simplified_description": "French fries topped with cheese curds and gravy",
       "dietary_info": [
         "halal",
         "kosher"
@@ -406,9 +406,9 @@
     {
       "name": "6 pcs Falafel",
       "price": 7.99,
-      "description": "Dedicated options for dietary needs.",
+      "description": "Dedicated options for dietary needs",
       "category": "SIDE",
-      "simplified_description": "Six deep-fried chickpea patties seasoned with herbs.",
+      "simplified_description": "Six deep-fried chickpea patties seasoned with herbs",
       "dietary_info": [
         "vegan",
         "gluten-free",

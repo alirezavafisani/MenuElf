@@ -6,16 +6,16 @@
     {
       "name": "Combinacion Mexicana",
       "price": 15.0,
-      "description": "Guacamole, salsa mexicana, pickles, beans, and chips.",
+      "description": "Guacamole, salsa mexicana, pickles, beans, and chips",
       "category": "APPETIZER",
-      "simplified_description": "Guacamole, salsa mexicana, pickles, beans, and chips.",
+      "simplified_description": "Guacamole, salsa mexicana, pickles, beans, and chips",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Fish Taco",
       "price": 23.0,
-      "description": "Crispy battered fish, cabbage, chipotle mayo, and pico de gallo on a corn tortilla.",
+      "description": "Crispy battered fish, cabbage, chipotle mayo, and pico de gallo on a corn tortilla",
       "category": "TACO",
       "simplified_description": "Crispy battered fish, cabbage, chipotle mayo, and pico de gallo on a corn tortil",
       "dietary_info": [],
@@ -24,9 +24,9 @@
     {
       "name": "Sopes",
       "price": 15.0,
-      "description": "Thick corn masa cakes topped with beans, lettuce, cheese, and sour cream.",
+      "description": "Thick corn masa cakes topped with beans, lettuce, cheese, and sour cream",
       "category": "ANTOJITOS",
-      "simplified_description": "Thick corn masa cakes topped with beans, lettuce, cheese, and sour cream.",
+      "simplified_description": "Thick corn masa cakes topped with beans, lettuce, cheese, and sour cream",
       "dietary_info": [],
       "other_info": ""
     },
@@ -168,9 +168,9 @@
     {
       "name": "Torta Ahogada",
       "price": 14.0,
-      "description": "Antojitos - Salsa-drowned sandwich stuffed with beans & pork carnitas. Very hot sauce on the side.",
+      "description": "Antojitos - Salsa-drowned sandwich stuffed with beans & pork carnitas. Very hot sauce on the side",
       "category": "ANTOJITOS",
-      "simplified_description": "Antojitos - Salsa-drowned sandwich stuffed with beans & pork carnitas. Very hot ",
+      "simplified_description": "Antojitos - Salsa-drowned sandwich stuffed with beans & pork carnitas. Very hot",
       "dietary_info": [],
       "other_info": ""
     },
@@ -222,7 +222,7 @@
     {
       "name": "Caldo de Mariscos",
       "price": 20.0,
-      "description": "Soups - Delicious Mexican fish soup that features white fish and juicy shrimps in a slightly spicy tomato chipotle broth.",
+      "description": "Soups - Delicious Mexican fish soup that features white fish and juicy shrimps in a slightly spicy tomato chipotle broth",
       "category": "SOUP",
       "simplified_description": "Soups - Delicious Mexican fish soup that features white fish and juicy shrimps i",
       "dietary_info": [],
@@ -420,9 +420,9 @@
     {
       "name": "Chicken Flautas",
       "price": 20.0,
-      "description": "Main Courses - Rolled crispy corn tortillas, stuffed with chicken, tomato sauce, feta, and sour cream.",
+      "description": "Main Courses - Rolled crispy corn tortillas, stuffed with chicken, tomato sauce, feta, and sour cream",
       "category": "MAIN COURSE",
-      "simplified_description": "Main Courses - Rolled crispy corn tortillas, stuffed with chicken, tomato sauce,",
+      "simplified_description": "Main Courses - Rolled crispy corn tortillas, stuffed with chicken, tomato sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -467,7 +467,7 @@
       "price": 23.0,
       "description": "Main Courses - Top sirloin steak, enchilada, veggies with melted cheese, rice & beans",
       "category": "MAIN COURSE",
-      "simplified_description": "Main Courses - Top sirloin steak, enchilada, veggies with melted cheese, rice & ",
+      "simplified_description": "Main Courses - Top sirloin steak, enchilada, veggies with melted cheese, rice &",
       "dietary_info": [],
       "other_info": ""
     },
@@ -492,7 +492,7 @@
     {
       "name": "Alambre",
       "price": 24.0,
-      "description": "Main Courses - Grilled beef, chicken or pastor topped with chopped bacon bell peppers and onions served with corn or flour tortillas.",
+      "description": "Main Courses - Grilled beef, chicken or pastor topped with chopped bacon bell peppers and onions served with corn or flour tortillas",
       "category": "MAIN COURSE",
       "simplified_description": "Main Courses - Grilled beef, chicken or pastor topped with chopped bacon bell pe",
       "dietary_info": [],

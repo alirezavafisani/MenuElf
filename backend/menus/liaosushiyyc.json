@@ -330,7 +330,7 @@
     {
       "name": "Sake",
       "price": null,
-      "description": "Sake probably is the best known Japanese drink in the world. You can drink it cold or warm and there are hundreds of different brands from hundreds of breweries. Learn more about the qualification system to distinguish sake qualities and flavours.",
+      "description": "Sake probably is the best known Japanese drink in the world. You can drink it cold or warm and there are hundreds of different brands from hundreds of breweries. Learn more about the qualification system to distinguish sake qualities and flavours",
       "category": "DRINK",
       "simplified_description": "Sake probably is the best known Japanese drink in the world. You can drink it co",
       "dietary_info": [],
@@ -339,18 +339,18 @@
     {
       "name": "Red Wine",
       "price": 8.99,
-      "description": "5 oz.",
+      "description": "5 oz",
       "category": "DRINK",
-      "simplified_description": "5 oz.",
+      "simplified_description": "5 oz",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "White Wine",
       "price": 8.99,
-      "description": "5 oz.",
+      "description": "5 oz",
       "category": "DRINK",
-      "simplified_description": "5 oz.",
+      "simplified_description": "5 oz",
       "dietary_info": [],
       "other_info": ""
     },
@@ -429,9 +429,9 @@
     {
       "name": "Sapporo Draft",
       "price": 6.99,
-      "description": "16 oz.",
+      "description": "16 oz",
       "category": "DRINK",
-      "simplified_description": "16 oz.",
+      "simplified_description": "16 oz",
       "dietary_info": [],
       "other_info": ""
     },
@@ -467,7 +467,7 @@
       "price": 67.99,
       "description": "Volcano roll 8 pc, Dynamite roll 8pc, California roll 8pc, Spicy tuna roll 8pc, Philadelphia roll 8pc, Spicy salmon roll 8pc, Rainbow roll 8pc, Salmon mango roll 8pc",
       "category": "OTHER",
-      "simplified_description": "Volcano roll 8 pc, Dynamite roll 8pc, California roll 8pc, Spicy tuna roll 8pc, ",
+      "simplified_description": "Volcano roll 8 pc, Dynamite roll 8pc, California roll 8pc, Spicy tuna roll 8pc",
       "dietary_info": [],
       "other_info": ""
     },

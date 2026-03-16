@@ -8,7 +8,7 @@
       "price": 5.5,
       "description": "Highballs $5.50",
       "category": "DRINK",
-      "simplified_description": "Classic highball cocktail served at $5.50.",
+      "simplified_description": "Classic highball cocktail served at $5.50",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 5.5,
       "description": "Domestic Bottles $5.50",
       "category": "DRINK",
-      "simplified_description": "Domestic bottled beer priced at $5.50.",
+      "simplified_description": "Domestic bottled beer priced at $5.50",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": 5.75,
       "description": "House Lager $5.75",
       "category": "DRINK",
-      "simplified_description": "House lager beer available for $5.75.",
+      "simplified_description": "House lager beer available for $5.75",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 6.0,
       "description": "House Red Wine $6",
       "category": "DRINK",
-      "simplified_description": "House red wine served at $6.",
+      "simplified_description": "House red wine served at $6",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,16 +44,16 @@
       "price": 6.0,
       "description": "House White Wine $6",
       "category": "DRINK",
-      "simplified_description": "House white wine served at $6.",
+      "simplified_description": "House white wine served at $6",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Street Tacos",
       "price": 5.5,
-      "description": "$5.50 each Street Tacos _(2 min)_",
+      "description": "$5.50 each Street Tacos (2 min)",
       "category": "FOOD",
-      "simplified_description": "Individual street tacos available for $5.50 each.",
+      "simplified_description": "Individual street tacos available for $5.50 each",
       "dietary_info": [],
       "other_info": "Preparation time about 2 minutes"
     },
@@ -62,7 +62,7 @@
       "price": 16.0,
       "description": "$16 AAA 5oz Steak Sandwich",
       "category": "FOOD",
-      "simplified_description": "5oz AAA steak sandwich priced at $16.",
+      "simplified_description": "5oz AAA steak sandwich priced at $16",
       "dietary_info": [],
       "other_info": ""
     },
@@ -71,7 +71,7 @@
       "price": 17.0,
       "description": "$17 Quesadilla + Fries",
       "category": "FOOD",
-      "simplified_description": "Quesadilla served with fries for $17.",
+      "simplified_description": "Quesadilla served with fries for $17",
       "dietary_info": [
         "vegetarian"
       ],
@@ -82,7 +82,7 @@
       "price": 7.0,
       "description": "$7 Molson Canadian & Coors Light",
       "category": "DRINK",
-      "simplified_description": "Molson Canadian beer available for $7.",
+      "simplified_description": "Molson Canadian beer available for $7",
       "dietary_info": [],
       "other_info": ""
     },
@@ -91,16 +91,16 @@
       "price": 7.0,
       "description": "$7 Molson Canadian & Coors Light",
       "category": "DRINK",
-      "simplified_description": "Coors Light beer available for $7.",
+      "simplified_description": "Coors Light beer available for $7",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Moscow Mules",
       "price": 8.0,
-      "description": "$8 Moscow Mules\n_Original | Cucumber | Orange | Blueberry | Pomegranate_",
+      "description": "$8 Moscow Mules Original | Cucumber | Orange | Blueberry | Pomegranate",
       "category": "DRINK",
-      "simplified_description": "Moscow Mule cocktails in various flavors for $8.",
+      "simplified_description": "Moscow Mule cocktails in various flavors for $8",
       "dietary_info": [],
       "other_info": ""
     },
@@ -109,16 +109,16 @@
       "price": 11.0,
       "description": "$11 Crushable Cocktails",
       "category": "DRINK",
-      "simplified_description": "Cocktails priced at $11 each.",
+      "simplified_description": "Cocktails priced at $11 each",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Pizzas",
       "price": 36.0,
-      "description": "2 x Pizzas for **$36**",
+      "description": "2 x Pizzas for $36",
       "category": "FOOD",
-      "simplified_description": "Two pizzas offered together for $36.",
+      "simplified_description": "Two pizzas offered together for $36",
       "dietary_info": [
         "vegetarian"
       ],
@@ -127,9 +127,9 @@
     {
       "name": "Sliders",
       "price": 5.5,
-      "description": "$5.50 each Sliders _(min 2)_",
+      "description": "$5.50 each Sliders (min 2)",
       "category": "FOOD",
-      "simplified_description": "Small sliders available at $5.50 each, minimum order two.",
+      "simplified_description": "Small sliders available at $5.50 each, minimum order two",
       "dietary_info": [],
       "other_info": "Minimum order of two"
     },
@@ -138,7 +138,7 @@
       "price": 14.0,
       "description": "$14 Chicken Wings",
       "category": "FOOD",
-      "simplified_description": "Chicken wings served for $14.",
+      "simplified_description": "Chicken wings served for $14",
       "dietary_info": [
         "gluten-free"
       ],
@@ -149,7 +149,7 @@
       "price": 13.0,
       "description": "Half Nachos $13",
       "category": "FOOD",
-      "simplified_description": "A half portion of nachos.",
+      "simplified_description": "A half portion of nachos",
       "dietary_info": [],
       "other_info": ""
     },
@@ -158,7 +158,7 @@
       "price": null,
       "description": "$2 OFF Gourmet Burger + Side",
       "category": "FOOD",
-      "simplified_description": "Discount on gourmet burger with a side.",
+      "simplified_description": "Discount on gourmet burger with a side",
       "dietary_info": [],
       "other_info": ""
     },
@@ -167,7 +167,7 @@
       "price": 15.0,
       "description": "$15 1 pc | $20 2 pc Fish & Chips",
       "category": "FOOD",
-      "simplified_description": "One or two pieces of fish with chips.",
+      "simplified_description": "One or two pieces of fish with chips",
       "dietary_info": [],
       "other_info": ""
     },
@@ -176,7 +176,7 @@
       "price": 5.5,
       "description": "$5.50 Hiballs",
       "category": "DRINK",
-      "simplified_description": "A $5.50 hiball drink.",
+      "simplified_description": "A $5.50 hiball drink",
       "dietary_info": [],
       "other_info": ""
     },
@@ -185,7 +185,7 @@
       "price": 6.0,
       "description": "$6 Shafts",
       "category": "DRINK",
-      "simplified_description": "A $6 shaft drink.",
+      "simplified_description": "A $6 shaft drink",
       "dietary_info": [],
       "other_info": ""
     },
@@ -194,16 +194,16 @@
       "price": 7.0,
       "description": "$7 Michelob Ultra",
       "category": "DRINK",
-      "simplified_description": "A $7 Michelob Ultra beer.",
+      "simplified_description": "A $7 Michelob Ultra beer",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Slushies",
       "price": 11.0,
-      "description": "$11 Slushies\n**_Strawberry Margarita | Lime Margarita | Peach Bellini | Fraperol Spritz_**",
+      "description": "$11 Slushies Strawberry Margarita | Lime Margarita | Peach Bellini | Fraperol Spritz",
       "category": "DRINK",
-      "simplified_description": "Frozen slushie drinks in various flavors.",
+      "simplified_description": "Frozen slushie drinks in various flavors",
       "dietary_info": [],
       "other_info": ""
     },
@@ -212,7 +212,7 @@
       "price": 28.0,
       "description": "$28 Corona Buckets (4 x 330ml)",
       "category": "DRINK",
-      "simplified_description": "Bucket of four 330ml Corona beers.",
+      "simplified_description": "Bucket of four 330ml Corona beers",
       "dietary_info": [],
       "other_info": "Serves four"
     },
@@ -221,7 +221,7 @@
       "price": 6.0,
       "description": "$6 Caesars & Mimosas",
       "category": "DRINK",
-      "simplified_description": "A $6 Caesar cocktail.",
+      "simplified_description": "A $6 Caesar cocktail",
       "dietary_info": [],
       "other_info": ""
     },
@@ -230,7 +230,7 @@
       "price": 6.0,
       "description": "$6 Caesars & Mimosas",
       "category": "DRINK",
-      "simplified_description": "A $6 mimosa cocktail.",
+      "simplified_description": "A $6 mimosa cocktail",
       "dietary_info": [],
       "other_info": ""
     }

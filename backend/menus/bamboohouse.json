@@ -6,9 +6,9 @@
     {
       "name": "Mixed Vegetables with Chicken",
       "price": 15.95,
-      "description": "Slices of chicken stir fry with 11 types of vegetables stir fry with your choice of meat. Vegetables include broccoli, califlower, onion, celery, bok choy, suey choy, mushroom, carrots, baby corn, bamboo shoot and water chestnut.",
+      "description": "Slices of chicken stir fry with 11 types of vegetables stir fry with your choice of meat. Vegetables include broccoli, califlower, onion, celery, bok choy, suey choy, mushroom, carrots, baby corn, bamboo shoot and water chestnut",
       "category": "FOOD",
-      "simplified_description": "Chicken stir-fried with 11 mixed vegetables.",
+      "simplified_description": "Chicken stir-fried with 11 mixed vegetables",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -19,9 +19,9 @@
     {
       "name": "Curried Chicken with steamed Rice",
       "price": 16.5,
-      "description": "Chinese style curry with green pepper, onion, mushroom and bamboo shoot.",
+      "description": "Chinese style curry with green pepper, onion, mushroom and bamboo shoot",
       "category": "FOOD",
-      "simplified_description": "Chinese curry chicken with vegetables and steamed rice.",
+      "simplified_description": "Chinese curry chicken with vegetables and steamed rice",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -32,9 +32,9 @@
     {
       "name": "Curried Beef with Steamed Rice",
       "price": 16.5,
-      "description": "Chinese style curry with green pepper, onion, mushroom and bamboo shoot.",
+      "description": "Chinese style curry with green pepper, onion, mushroom and bamboo shoot",
       "category": "FOOD",
-      "simplified_description": "Chinese curry beef with vegetables and steamed rice.",
+      "simplified_description": "Chinese curry beef with vegetables and steamed rice",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -45,9 +45,9 @@
     {
       "name": "Curried Shrimp with Steamed Rice",
       "price": 17.5,
-      "description": "Chinese style curry with green pepper, onion, mushroom and bamboo shoot.",
+      "description": "Chinese style curry with green pepper, onion, mushroom and bamboo shoot",
       "category": "FOOD",
-      "simplified_description": "Chinese curry shrimp with vegetables and steamed rice.",
+      "simplified_description": "Chinese curry shrimp with vegetables and steamed rice",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -58,9 +58,9 @@
     {
       "name": "Singapore Style Fried Noodle",
       "price": 16.5,
-      "description": "Rice vermicelli with egg, pork, chicken & shrimp along with green & red pepper, mushroom, onion, beansprout fried in our spicy curry. Mild available upon request. Meatless vegetarian avail upon request.",
+      "description": "Rice vermicelli with egg, pork, chicken & shrimp along with green & red pepper, mushroom, onion, beansprout fried in our spicy curry. Mild available upon request. Meatless vegetarian avail upon request",
       "category": "FOOD",
-      "simplified_description": "Spicy fried rice noodles with mixed meats and vegetables.",
+      "simplified_description": "Spicy fried rice noodles with mixed meats and vegetables",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -74,7 +74,7 @@
       "price": 18.5,
       "description": "12 pc of lightly battered shrimp with onion, celery and green pepper in hot sweet & sour sauce",
       "category": "FOOD",
-      "simplified_description": "12 battered shrimp in hot sweet and sour sauce with vegetables.",
+      "simplified_description": "12 battered shrimp in hot sweet and sour sauce with vegetables",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -88,7 +88,7 @@
       "price": 16.5,
       "description": "Lightly battered chicken with onion, celery and green pepper in hot sweet & sour sauce",
       "category": "FOOD",
-      "simplified_description": "Battered chicken in hot sweet and sour sauce with vegetables.",
+      "simplified_description": "Battered chicken in hot sweet and sour sauce with vegetables",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -102,7 +102,7 @@
       "price": 16.5,
       "description": "Shredded chicken in light batter in our ginger sauce",
       "category": "FOOD",
-      "simplified_description": "Lightly battered shredded chicken in ginger sauce.",
+      "simplified_description": "Lightly battered shredded chicken in ginger sauce",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -115,7 +115,7 @@
       "price": 16.5,
       "description": "Shredded beef in light batter in our ginger sauce",
       "category": "FOOD",
-      "simplified_description": "Lightly battered shredded beef in ginger sauce.",
+      "simplified_description": "Lightly battered shredded beef in ginger sauce",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -128,7 +128,7 @@
       "price": 16.5,
       "description": "Lightly battered beef fried with onion, green and red pepper then seasoned with our house seasoning salt",
       "category": "FOOD",
-      "simplified_description": "Battered beef fried with peppers and seasoned with salt.",
+      "simplified_description": "Battered beef fried with peppers and seasoned with salt",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -141,7 +141,7 @@
       "price": 16.5,
       "description": "Along with mushroom & bean sprout",
       "category": "FOOD",
-      "simplified_description": "Shanghai noodles fried with shredded cabbage, pork, mushrooms, and bean sprouts.",
+      "simplified_description": "Shanghai noodles fried with shredded cabbage, pork, mushrooms, and bean sprouts",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -154,7 +154,7 @@
       "price": 16.95,
       "description": "with green pepper, onion, mushroom, & celery",
       "category": "FOOD",
-      "simplified_description": "Sliced beef or chicken fried with vegetables in black pepper sauce.",
+      "simplified_description": "Sliced beef or chicken fried with vegetables in black pepper sauce",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -168,7 +168,7 @@
       "price": 16.95,
       "description": "With green pepper, onion, carrots, & celery",
       "category": "FOOD",
-      "simplified_description": "Beef or chicken with vegetables in satay sauce.",
+      "simplified_description": "Beef or chicken with vegetables in satay sauce",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -182,7 +182,7 @@
       "price": 16.95,
       "description": "Garlicky spicy",
       "category": "FOOD",
-      "simplified_description": "Spicy garlicky chicken, beef, or tofu dish.",
+      "simplified_description": "Spicy garlicky chicken, beef, or tofu dish",
       "dietary_info": [
         "spicy",
         "dairy-free",
@@ -196,7 +196,7 @@
       "price": 16.5,
       "description": "Thick Shanghai noodle fried with chicken, beef and shrimp then top with mushroom & bean sprout",
       "category": "FOOD",
-      "simplified_description": "Shanghai noodles fried with chicken, beef, shrimp, mushrooms, and bean sprouts.",
+      "simplified_description": "Shanghai noodles fried with chicken, beef, shrimp, mushrooms, and bean sprouts",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -209,7 +209,7 @@
       "price": 16.5,
       "description": "Lightly battered chicken fried with onion, green and red pepper then seasoned with our house seasoning salt",
       "category": "FOOD",
-      "simplified_description": "Battered fried chicken with onions and peppers seasoned with house salt.",
+      "simplified_description": "Battered fried chicken with onions and peppers seasoned with house salt",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -222,7 +222,7 @@
       "price": 16.95,
       "description": "Lightly battered squid fried with onion, green and red pepper then seasoned with our house seasoning salt",
       "category": "FOOD",
-      "simplified_description": "Battered fried squid with onions and peppers seasoned with house salt.",
+      "simplified_description": "Battered fried squid with onions and peppers seasoned with house salt",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -235,7 +235,7 @@
       "price": 16.5,
       "description": "Shanghai noodle with 11 types of vegetables",
       "category": "FOOD",
-      "simplified_description": "Shanghai noodles stir-fried with a mix of 11 vegetables.",
+      "simplified_description": "Shanghai noodles stir-fried with a mix of 11 vegetables",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -248,7 +248,7 @@
       "price": 16.5,
       "description": "Tender beef fried with flat rice noodle along with egg, onion and beansprouts",
       "category": "FOOD",
-      "simplified_description": "Beef stir-fried with flat rice noodles, egg, onion, and beansprouts.",
+      "simplified_description": "Beef stir-fried with flat rice noodles, egg, onion, and beansprouts",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -261,7 +261,7 @@
       "price": 16.5,
       "description": "Tender Beef with broccoli, green pepper, onion and carrots in black bean sauce over wide flat rice noodle",
       "category": "FOOD",
-      "simplified_description": "Beef and vegetables in black bean sauce served over flat rice noodles.",
+      "simplified_description": "Beef and vegetables in black bean sauce served over flat rice noodles",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -274,7 +274,7 @@
       "price": 7.5,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Classic hamburger with a beef patty in a bun.",
+      "simplified_description": "Classic hamburger with a beef patty in a bun",
       "dietary_info": [],
       "other_info": ""
     },
@@ -283,7 +283,7 @@
       "price": 7.95,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Classic hamburger topped with cheese in a bun.",
+      "simplified_description": "Classic hamburger topped with cheese in a bun",
       "dietary_info": [],
       "other_info": ""
     },
@@ -292,7 +292,7 @@
       "price": 10.95,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Classic hamburger served with a side of French fries.",
+      "simplified_description": "Classic hamburger served with a side of French fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -301,7 +301,7 @@
       "price": 11.5,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Cheeseburger served with a side of French fries.",
+      "simplified_description": "Cheeseburger served with a side of French fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -310,7 +310,7 @@
       "price": 6.5,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Crispy fried potato sticks.",
+      "simplified_description": "Crispy fried potato sticks",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -324,7 +324,7 @@
       "price": 15.95,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Fried chicken served with chips (French fries).",
+      "simplified_description": "Fried chicken served with chips (French fries)",
       "dietary_info": [
         "nut-free",
         "halal"
@@ -336,7 +336,7 @@
       "price": 17.95,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Ten breaded fried shrimp served with chips (French fries).",
+      "simplified_description": "Ten breaded fried shrimp served with chips (French fries)",
       "dietary_info": [
         "nut-free"
       ],
@@ -347,7 +347,7 @@
       "price": 2.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Chilled canned soft drink.",
+      "simplified_description": "Chilled canned soft drink",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -362,7 +362,7 @@
       "price": 4.95,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Two-liter bottle of soft drink.",
+      "simplified_description": "Two-liter bottle of soft drink",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -377,7 +377,7 @@
       "price": 0.5,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Crispy cookies with a fortune message inside.",
+      "simplified_description": "Crispy cookies with a fortune message inside",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -389,7 +389,7 @@
       "price": 14.95,
       "description": "Plain with seasoning",
       "category": "FOOD",
-      "simplified_description": "Seasoned deep fried chicken wings.",
+      "simplified_description": "Seasoned deep fried chicken wings",
       "dietary_info": [
         "halal"
       ],
@@ -400,7 +400,7 @@
       "price": 14.5,
       "description": "Over bean sprouts or steamed rice",
       "category": "FOOD",
-      "simplified_description": "Barbecued pork served with bean sprouts or steamed rice.",
+      "simplified_description": "Barbecued pork served with bean sprouts or steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -409,7 +409,7 @@
       "price": 18.95,
       "description": "Chinese style",
       "category": "FOOD",
-      "simplified_description": "Chinese style barbecued long ribs.",
+      "simplified_description": "Chinese style barbecued long ribs",
       "dietary_info": [],
       "other_info": ""
     },
@@ -418,7 +418,7 @@
       "price": 14.5,
       "description": "For 2 bowls",
       "category": "FOOD",
-      "simplified_description": "Sweet corn soup with chicken, serves two.",
+      "simplified_description": "Sweet corn soup with chicken, serves two",
       "dietary_info": [
         "halal"
       ],
@@ -429,7 +429,7 @@
       "price": 15.5,
       "description": "With green pepper & onion",
       "category": "FOOD",
-      "simplified_description": "Spicy dried ribs with green pepper and onion.",
+      "simplified_description": "Spicy dried ribs with green pepper and onion",
       "dietary_info": [
         "spicy"
       ],
@@ -440,7 +440,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Fried sliced chicken with mushrooms and vegetables.",
+      "simplified_description": "Fried sliced chicken with mushrooms and vegetables",
       "dietary_info": [
         "halal"
       ],
@@ -451,7 +451,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Diced chicken with cashew nuts and vegetables.",
+      "simplified_description": "Diced chicken with cashew nuts and vegetables",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -463,7 +463,7 @@
       "price": 14.95,
       "description": "Diced vegetables with chicken, pork and shrimp topped with cashew nuts",
       "category": "FOOD",
-      "simplified_description": "Mixed diced chicken, pork, shrimp, vegetables with cashew nuts.",
+      "simplified_description": "Mixed diced chicken, pork, shrimp, vegetables with cashew nuts",
       "dietary_info": [
         "nut-free"
       ],
@@ -474,7 +474,7 @@
       "price": 15.95,
       "description": "10 pcs of shrimp stir fry with 11 types of vegetables",
       "category": "FOOD",
-      "simplified_description": "Shrimp stir-fried with eleven types of vegetables.",
+      "simplified_description": "Shrimp stir-fried with eleven types of vegetables",
       "dietary_info": [
         "dairy-free",
         "nut-free",
@@ -487,7 +487,7 @@
       "price": 15.95,
       "description": "10 pcs of shrimp stir fry with diced vegetables then topped with cashew",
       "category": "FOOD",
-      "simplified_description": "Shrimp stir-fried with vegetables and cashew nuts.",
+      "simplified_description": "Shrimp stir-fried with vegetables and cashew nuts",
       "dietary_info": [
         "nut-free"
       ],
@@ -498,7 +498,7 @@
       "price": 15.5,
       "description": "11 different vegetables stir-fry with chicken, pork & shrimp",
       "category": "FOOD",
-      "simplified_description": "Mixed vegetables stir-fried with chicken, pork, and shrimp.",
+      "simplified_description": "Mixed vegetables stir-fried with chicken, pork, and shrimp",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -510,7 +510,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Bok choy served with chicken or beef.",
+      "simplified_description": "Bok choy served with chicken or beef",
       "dietary_info": [
         "halal"
       ],
@@ -521,7 +521,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Broccoli served with beef or chicken.",
+      "simplified_description": "Broccoli served with beef or chicken",
       "dietary_info": [
         "halal"
       ],
@@ -532,7 +532,7 @@
       "price": 15.5,
       "description": "In garlic sauce",
       "category": "FOOD",
-      "simplified_description": "Beef with broccoli and snow peas in garlic sauce.",
+      "simplified_description": "Beef with broccoli and snow peas in garlic sauce",
       "dietary_info": [
         "halal"
       ],
@@ -543,7 +543,7 @@
       "price": 14.95,
       "description": "Rice vermicelli with chicken, pork, shrimp & vegetables in curry",
       "category": "FOOD",
-      "simplified_description": "Spicy fried rice vermicelli with meat, shrimp, and vegetables.",
+      "simplified_description": "Spicy fried rice vermicelli with meat, shrimp, and vegetables",
       "dietary_info": [
         "spicy"
       ],
@@ -554,7 +554,7 @@
       "price": 15.5,
       "description": "Garlicky spicy",
       "category": "FOOD",
-      "simplified_description": "Spicy garlicky chicken, beef, or tofu dish.",
+      "simplified_description": "Spicy garlicky chicken, beef, or tofu dish",
       "dietary_info": [
         "spicy",
         "dairy-free",
@@ -567,7 +567,7 @@
       "price": 12.75,
       "description": "Available in regular size for $2.00 less All regular size is served in 16 oz styrofoam cup",
       "category": "FOOD",
-      "simplified_description": "Fried rice with chicken, served in two sizes.",
+      "simplified_description": "Fried rice with chicken, served in two sizes",
       "dietary_info": [
         "nut-free"
       ],
@@ -578,7 +578,7 @@
       "price": 14.95,
       "description": "With B.B.Q. pork, chicken, mushroom & shrimp",
       "category": "FOOD",
-      "simplified_description": "Fried rice with BBQ pork, chicken, mushroom, and shrimp.",
+      "simplified_description": "Fried rice with BBQ pork, chicken, mushroom, and shrimp",
       "dietary_info": [
         "nut-free"
       ],
@@ -589,7 +589,7 @@
       "price": 13.5,
       "description": "With egg, mushroom and a variety of vegetables",
       "category": "FOOD",
-      "simplified_description": "Fried rice with egg, mushrooms, and mixed vegetables.",
+      "simplified_description": "Fried rice with egg, mushrooms, and mixed vegetables",
       "dietary_info": [
         "nut-free",
         "vegetarian"
@@ -601,7 +601,7 @@
       "price": 12.95,
       "description": "Short crispy egg noodle & bean sprouts, with onion, celery and bamboo shoots and chicken. Available in regular size for $2.00 less",
       "category": "FOOD",
-      "simplified_description": "Crispy egg noodles with chicken and vegetables.",
+      "simplified_description": "Crispy egg noodles with chicken and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -612,7 +612,7 @@
       "price": 14.5,
       "description": "Contains mostly long egg noodle fried with a bit of onion, bean sprout & chicken",
       "category": "FOOD",
-      "simplified_description": "Long egg noodles fried with chicken and vegetables.",
+      "simplified_description": "Long egg noodles fried with chicken and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -623,7 +623,7 @@
       "price": 14.95,
       "description": "Stir-fry mixed vegetables with chicken, pork & shrimp over top of egg noodle",
       "category": "FOOD",
-      "simplified_description": "Egg noodles topped with mixed vegetables and meats.",
+      "simplified_description": "Egg noodles topped with mixed vegetables and meats",
       "dietary_info": [
         "nut-free"
       ],
@@ -634,7 +634,7 @@
       "price": 14.95,
       "description": "Bean sprout & crispy noodle with a bit of onion, celery & bamboo shoot along with chicken, pork, shrimp & mushroom",
       "category": "FOOD",
-      "simplified_description": "Crispy noodles with bean sprouts, meats, and vegetables.",
+      "simplified_description": "Crispy noodles with bean sprouts, meats, and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -645,7 +645,7 @@
       "price": 14.95,
       "description": "Thick Shanghai noodle fried with chicken, beef and shrimp then top with mushroom & bean sprout",
       "category": "FOOD",
-      "simplified_description": "Thick noodles fried with chicken, beef, shrimp, and vegetables.",
+      "simplified_description": "Thick noodles fried with chicken, beef, shrimp, and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -656,7 +656,7 @@
       "price": 12.75,
       "description": "Bean sprouts stir-fry with a bit of onion, celery, and bamboo shoot along with chicken",
       "category": "FOOD",
-      "simplified_description": "Stir-fried chicken with bean sprouts and vegetables.",
+      "simplified_description": "Stir-fried chicken with bean sprouts and vegetables",
       "dietary_info": [
         "nut-free"
       ],
@@ -667,7 +667,7 @@
       "price": 12.95,
       "description": "Chinese omelet (sauce available upon request)",
       "category": "FOOD",
-      "simplified_description": "Chinese omelet with barbecued pork.",
+      "simplified_description": "Chinese omelet with barbecued pork",
       "dietary_info": [
         "nut-free"
       ],
@@ -678,7 +678,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Diced chicken stir-fried with cashews and vegetables.",
+      "simplified_description": "Diced chicken stir-fried with cashews and vegetables",
       "dietary_info": [
         "dairy-free",
         "halal",
@@ -691,7 +691,7 @@
       "price": 15.95,
       "description": "10 shrimps stir fry with cashew and diced vegetables",
       "category": "FOOD",
-      "simplified_description": "Shrimp stir-fried with cashews and vegetables.",
+      "simplified_description": "Shrimp stir-fried with cashews and vegetables",
       "dietary_info": [
         "dairy-free",
         "halal"
@@ -703,7 +703,7 @@
       "price": 15.5,
       "description": "Vegetables stir-fry with chicken, pork & shrimp",
       "category": "FOOD",
-      "simplified_description": "Mixed vegetable stir-fry with chicken, pork, and shrimp.",
+      "simplified_description": "Mixed vegetable stir-fry with chicken, pork, and shrimp",
       "dietary_info": [
         "nut-free"
       ],
@@ -714,7 +714,7 @@
       "price": 14.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Broccoli stir-fried with beef or chicken.",
+      "simplified_description": "Broccoli stir-fried with beef or chicken",
       "dietary_info": [
         "nut-free"
       ],
@@ -725,7 +725,7 @@
       "price": null,
       "description": "Broccoli, cauliflower, mushroom & baby corn",
       "category": "FOOD",
-      "simplified_description": "Mixed vegetables in fresh garlic sauce.",
+      "simplified_description": "Mixed vegetables in fresh garlic sauce",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -741,7 +741,7 @@
       "price": 14.5,
       "description": "Riblets deep fried and seasoned with salt",
       "category": "FOOD",
-      "simplified_description": "Deep fried riblets seasoned with salt.",
+      "simplified_description": "Deep fried riblets seasoned with salt",
       "dietary_info": [],
       "other_info": ""
     },
@@ -750,7 +750,7 @@
       "price": 15.5,
       "description": "With green pepper & onion",
       "category": "FOOD",
-      "simplified_description": "Spicy riblets with green pepper and onion.",
+      "simplified_description": "Spicy riblets with green pepper and onion",
       "dietary_info": [
         "spicy"
       ],
@@ -761,7 +761,7 @@
       "price": 14.95,
       "description": "With pineapple, green pepper & onion",
       "category": "FOOD",
-      "simplified_description": "Sweet and sour pork with pineapple and vegetables.",
+      "simplified_description": "Sweet and sour pork with pineapple and vegetables",
       "dietary_info": [],
       "other_info": ""
     },
@@ -770,7 +770,7 @@
       "price": 14.95,
       "description": "Riblets fried in fresh garlic",
       "category": "FOOD",
-      "simplified_description": "Riblets fried with fresh garlic.",
+      "simplified_description": "Riblets fried with fresh garlic",
       "dietary_info": [],
       "other_info": ""
     },
@@ -779,7 +779,7 @@
       "price": 14.95,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Chicken wings with honey garlic or spicy salt and pepper.",
+      "simplified_description": "Chicken wings with honey garlic or spicy salt and pepper",
       "dietary_info": [
         "spicy"
       ],
@@ -790,7 +790,7 @@
       "price": 14.95,
       "description": "With cashew",
       "category": "FOOD",
-      "simplified_description": "Spicy chicken with cashew nuts.",
+      "simplified_description": "Spicy chicken with cashew nuts",
       "dietary_info": [
         "spicy",
         "nut-free"
@@ -802,7 +802,7 @@
       "price": 14.95,
       "description": "Shredded beef in light batter in our ginger sauce",
       "category": "FOOD",
-      "simplified_description": "Shredded beef in ginger sauce, lightly battered.",
+      "simplified_description": "Shredded beef in ginger sauce, lightly battered",
       "dietary_info": [
         "spicy"
       ],
@@ -813,7 +813,7 @@
       "price": 14.95,
       "description": "Garlicky spicy",
       "category": "FOOD",
-      "simplified_description": "Spicy garlicky chicken, beef, or tofu.",
+      "simplified_description": "Spicy garlicky chicken, beef, or tofu",
       "dietary_info": [
         "spicy"
       ],
@@ -824,7 +824,7 @@
       "price": 14.95,
       "description": "Lightly battered chicken fried with onion, green and red pepper then seasoned with our house seasoning salt",
       "category": "FOOD",
-      "simplified_description": "Lightly battered chicken with peppers and house seasoning.",
+      "simplified_description": "Lightly battered chicken with peppers and house seasoning",
       "dietary_info": [
         "spicy"
       ],
@@ -835,7 +835,7 @@
       "price": 15.5,
       "description": "Lightly battered squid fried with onion, green and red pepper then seasoned with our house seasoning salt",
       "category": "FOOD",
-      "simplified_description": "Lightly battered squid with peppers and house seasoning.",
+      "simplified_description": "Lightly battered squid with peppers and house seasoning",
       "dietary_info": [
         "spicy"
       ],
@@ -846,7 +846,7 @@
       "price": 15.5,
       "description": "Your choice of any 2 letters from the following list with chicken fried rice. Any extra order $8.50",
       "category": "FOOD",
-      "simplified_description": "Choice of 2 dishes with chicken fried rice.",
+      "simplified_description": "Choice of 2 dishes with chicken fried rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -855,7 +855,7 @@
       "price": 38.95,
       "description": "2 Egg Rolls (or 2 Spring Rolls), Sweet & Sour Spareribs, Chicken Chow Mein, Deep Fried Shrimps, Chicken Fried Rice, Fortune Cookies",
       "category": "FOOD",
-      "simplified_description": "Set meal with rolls, spareribs, chow mein, shrimp, rice, and cookies.",
+      "simplified_description": "Set meal with rolls, spareribs, chow mein, shrimp, rice, and cookies",
       "dietary_info": [],
       "other_info": "Serves two"
     },
@@ -864,7 +864,7 @@
       "price": 38.95,
       "description": "2 Egg Rolls (or 2 Spring Rolls), Ginger Beef, Chicken Chow Mein, Chicken Fried Rice, Fortune Cookies",
       "category": "FOOD",
-      "simplified_description": "Set meal with rolls, ginger beef, chow mein, rice, and cookies.",
+      "simplified_description": "Set meal with rolls, ginger beef, chow mein, rice, and cookies",
       "dietary_info": [],
       "other_info": "Serves two"
     },
@@ -873,7 +873,7 @@
       "price": 55.95,
       "description": "3 Egg Rolls (or 3 Spring Rolls), Sweet & Sour Spareribs, Mixed Vegetables with Beef, Deep Fried Shrimp, Chicken Fried Rice, Fortune Cookies",
       "category": "FOOD",
-      "simplified_description": "Set meal with rolls, spareribs, beef veggies, shrimp, rice, and cookies.",
+      "simplified_description": "Set meal with rolls, spareribs, beef veggies, shrimp, rice, and cookies",
       "dietary_info": [],
       "other_info": "Serves three"
     },
@@ -882,7 +882,7 @@
       "price": 69.95,
       "description": "4 Egg Rolls or 4 Spring Rolls, Ginger Beef, Pineapple Sweet & Sour Boneless Pork, House Special Mixed Vegetables, House Special Fried Rice, Fortune Cookies",
       "category": "FOOD",
-      "simplified_description": "A meal for four with rolls, beef, pork, vegetables, fried rice, and cookies.",
+      "simplified_description": "A meal for four with rolls, beef, pork, vegetables, fried rice, and cookies",
       "dietary_info": [],
       "other_info": "Serves four"
     }

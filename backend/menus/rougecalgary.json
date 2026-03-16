@@ -6,8 +6,8 @@
     {
       "name": "Gathered & Foraged",
       "price": 120,
-      "description": "A seasonal six-course culinary journey crafted from the finest locally sourced ingredients. Optional curated wine pairing for $75. Full table participation requested.",
-      "simplified_description": "A seasonal six-course meal made from local ingredients, with an optional wine pairing.",
+      "description": "A seasonal six-course culinary journey crafted from the finest locally sourced ingredients. Optional curated wine pairing for $75. Full table participation requested",
+      "simplified_description": "A seasonal six-course meal made from local ingredients, with an optional wine pairing",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -16,7 +16,7 @@
       "name": "Vegetable Pave",
       "price": 23,
       "description": "Layered Vegetable & Potato Terrine, Preserved Herb Turnip Cream, Shaved Black Truffle",
-      "simplified_description": "A layered dish of vegetables and potatoes with herb cream and truffle.",
+      "simplified_description": "A layered dish of vegetables and potatoes with herb cream and truffle",
       "category": "A La Carte Menu",
       "dietary_info": [
         "vegetarian"
@@ -27,7 +27,7 @@
       "name": "Cheese and Charcuterie",
       "price": 38,
       "description": "House-Cured Meats, Canadian Cheese, Accompaniments (Designed to Share)",
-      "simplified_description": "A platter of cured meats and Canadian cheeses meant for sharing.",
+      "simplified_description": "A platter of cured meats and Canadian cheeses meant for sharing",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": "Designed to share"
@@ -36,7 +36,7 @@
       "name": "Velvet Celeriac Soup",
       "price": 23,
       "description": "Smoked Bacon, Poppy Seed Grissini, Ginger Garlic Crumb, Cold Pressed Canola Oil, Maple Cream",
-      "simplified_description": "A creamy soup with smoked bacon and various toppings.",
+      "simplified_description": "A creamy soup with smoked bacon and various toppings",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -45,7 +45,7 @@
       "name": "Grilled Radicchio & Kale Salad",
       "price": 22,
       "description": "Roasted Butternut Squash, Cranberry, Fermented Squash Vinaigrette (v)",
-      "simplified_description": "A salad with grilled radicchio, kale, butternut squash, and a special vinaigrette.",
+      "simplified_description": "A salad with grilled radicchio, kale, butternut squash, and a special vinaigrette",
       "category": "A La Carte Menu",
       "dietary_info": [
         "vegan"
@@ -56,7 +56,7 @@
       "name": "Foie Gras Parfait",
       "price": 25,
       "description": "Notes of Garden Rhubarb, Brioche, Garden Blossoms",
-      "simplified_description": "A rich parfait with flavors of rhubarb and served with brioche.",
+      "simplified_description": "A rich parfait with flavors of rhubarb and served with brioche",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -65,7 +65,7 @@
       "name": "Noble Farms Bison Tartare",
       "price": 26,
       "description": "Charred Bison Rump, Nasturtium Aioli, Pickled Garlic Scape Flax Seed Cracker",
-      "simplified_description": "Raw bison meat served with aioli and a flax seed cracker.",
+      "simplified_description": "Raw bison meat served with aioli and a flax seed cracker",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -74,7 +74,7 @@
       "name": "Salmon, Ricotta & Squid Ink Ravioli",
       "price": 24,
       "description": "Lemon Thyme Cream, Garlic Essence, Beet Juice and Salmon Roe",
-      "simplified_description": "Ravioli filled with salmon and ricotta, served with a creamy sauce.",
+      "simplified_description": "Ravioli filled with salmon and ricotta, served with a creamy sauce",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -83,7 +83,7 @@
       "name": "Layered & Pressed Game Hen",
       "price": 49,
       "description": "Savoury Cornbread Pudding, Caramelized Fennel, Mulled “Little Gem” Haskap Jus",
-      "simplified_description": "A game hen dish served with cornbread pudding and a special sauce.",
+      "simplified_description": "A game hen dish served with cornbread pudding and a special sauce",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -92,7 +92,7 @@
       "name": "Lamb Ossobucco",
       "price": 54,
       "description": "Pomme Aligot, Roasted Beets, Marjoram Jus",
-      "simplified_description": "Braised lamb shank served with creamy potatoes and roasted beets.",
+      "simplified_description": "Braised lamb shank served with creamy potatoes and roasted beets",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -101,7 +101,7 @@
       "name": "28 Day Aged Beef Striploin",
       "price": 65,
       "description": "Braised Red Cabbage, Charred Shallots Two Ways, Truffle Fondant Potato",
-      "simplified_description": "Aged beef striploin served with cabbage and truffle potatoes.",
+      "simplified_description": "Aged beef striploin served with cabbage and truffle potatoes",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -110,7 +110,7 @@
       "name": "Seared Arctic Char",
       "price": 54,
       "description": "Lyonnaise Potato, Swiss Chard, Sumac Carrot Beurre Blanc",
-      "simplified_description": "Seared fish served with potatoes and a creamy sauce.",
+      "simplified_description": "Seared fish served with potatoes and a creamy sauce",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -119,7 +119,7 @@
       "name": "Rabbit Saddle",
       "price": 46,
       "description": "Wild Mushroom Stuffed, Caramelized Brussels Sprouts, Parsnip Purée, Apple Balsamic and Mustard Sauce",
-      "simplified_description": "Rabbit stuffed with mushrooms, served with Brussels sprouts and a sauce.",
+      "simplified_description": "Rabbit stuffed with mushrooms, served with Brussels sprouts and a sauce",
       "category": "A La Carte Menu",
       "dietary_info": [],
       "other_info": ""
@@ -128,7 +128,7 @@
       "name": "Vegan Lentil Sausage",
       "price": 39,
       "description": "Stewed Tomato and White Bean Cassoulet, Roasted Mushroom Reduction",
-      "simplified_description": "A vegan sausage dish with beans and a mushroom sauce.",
+      "simplified_description": "A vegan sausage dish with beans and a mushroom sauce",
       "category": "A La Carte Menu",
       "dietary_info": [
         "vegan"
@@ -139,7 +139,7 @@
       "name": "Chocolate Textures",
       "price": 15,
       "description": "Smoked Dark Chocolate Crémeux, Maple Whiskey Date Coulis, White Chocolate Espresso Cream, Hazelnut Florentine and Brownie",
-      "simplified_description": "A dessert with various chocolate textures and flavors.",
+      "simplified_description": "A dessert with various chocolate textures and flavors",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -148,7 +148,7 @@
       "name": "Apple Tart Tatin",
       "price": 15,
       "description": "Caramelized Apples, Laminated Pastry, Cinnamon Meringue, Pastry Cream and Apple Pearls",
-      "simplified_description": "A caramelized apple tart with pastry and meringue.",
+      "simplified_description": "A caramelized apple tart with pastry and meringue",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -157,7 +157,7 @@
       "name": "Buckwheat Cookie Honey Cake",
       "price": 15,
       "description": "Burnt Honey Ganache, Roasted Pumpkin and Sumac Puree, Caramel Popcorn, Miso-Rum Ice Cream, Milk Waffle",
-      "simplified_description": "A honey cake with various toppings including ice cream.",
+      "simplified_description": "A honey cake with various toppings including ice cream",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": ""
@@ -166,7 +166,7 @@
       "name": "Canadian Cheese Tasting",
       "price": 16,
       "description": "A Selection of Artisan and Seasonal Accompaniments (v)",
-      "simplified_description": "A tasting of various Canadian cheeses with accompaniments.",
+      "simplified_description": "A tasting of various Canadian cheeses with accompaniments",
       "category": "A La Carte Menu",
       "dietary_info": [
         "vegetarian"
@@ -177,7 +177,7 @@
       "name": "Prosecco",
       "price": 11,
       "description": "(Paladin, Millesimato Extra Dry Prosecco)",
-      "simplified_description": "A type of sparkling wine from Italy.",
+      "simplified_description": "A type of sparkling wine from Italy",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -186,7 +186,7 @@
       "name": "Rosé Prosecco",
       "price": 12,
       "description": "(Paladin, Millesimato Brut)",
-      "simplified_description": "A sparkling rosé wine from Italy.",
+      "simplified_description": "A sparkling rosé wine from Italy",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -195,7 +195,7 @@
       "name": "Blanquette de Limoux",
       "price": 12,
       "description": "(Maison Rosier, Languedoc, France)",
-      "simplified_description": "A sparkling wine from the Limoux region in France.",
+      "simplified_description": "A sparkling wine from the Limoux region in France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -204,7 +204,7 @@
       "name": "Champagne",
       "price": 26,
       "description": "(Moutard Grand Cuvée Brut)",
-      "simplified_description": "A high-quality sparkling wine from France.",
+      "simplified_description": "A high-quality sparkling wine from France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -213,7 +213,7 @@
       "name": "Riesling",
       "price": 15,
       "description": "(2024 Leitz Dragonstone, Rheingau, Germany)",
-      "simplified_description": "A white wine from the Rheingau region in Germany.",
+      "simplified_description": "A white wine from the Rheingau region in Germany",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -222,7 +222,7 @@
       "name": "Pinot Grigio",
       "price": 11,
       "description": "(2023 Fielding, Niagara, Ontario, Canada)",
-      "simplified_description": "A white wine from Niagara, Canada.",
+      "simplified_description": "A white wine from Niagara, Canada",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -231,7 +231,7 @@
       "name": "Sauvignon Blanc",
       "price": 13,
       "description": "(La Petite Perriere, Loire, France)",
-      "simplified_description": "A white wine from the Loire region in France.",
+      "simplified_description": "A white wine from the Loire region in France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -240,7 +240,7 @@
       "name": "Chardonnay",
       "price": 13,
       "description": "(2023 Domaine Lalage, Novellum, Languedoc, France)",
-      "simplified_description": "A white wine from the Languedoc region in France.",
+      "simplified_description": "A white wine from the Languedoc region in France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -249,7 +249,7 @@
       "name": "Spice Jar",
       "price": 12,
       "description": "(2021 Lake Breeze, Naramata Bench, British Columbia)",
-      "simplified_description": "A wine from British Columbia, Canada.",
+      "simplified_description": "A wine from British Columbia, Canada",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -258,7 +258,7 @@
       "name": "Pinot Noir",
       "price": 16,
       "description": "(2023 Côté Pierre Lys, Languedoc, France)",
-      "simplified_description": "A red wine from the Languedoc region in France.",
+      "simplified_description": "A red wine from the Languedoc region in France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -267,7 +267,7 @@
       "name": "Gamay Noir",
       "price": 14,
       "description": "(2023 Joseph Burrier, Les Belouzes Beaujolais, France)",
-      "simplified_description": "A red wine from the Beaujolais region in France.",
+      "simplified_description": "A red wine from the Beaujolais region in France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -276,7 +276,7 @@
       "name": "Merlot, Cabernet Sauvignon",
       "price": 13,
       "description": "(2023 Aia Vecchia Lagone, Tuscany, Italy)",
-      "simplified_description": "A blend of Merlot and Cabernet Sauvignon from Tuscany, Italy.",
+      "simplified_description": "A blend of Merlot and Cabernet Sauvignon from Tuscany, Italy",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -285,7 +285,7 @@
       "name": "Grenache, Syrah, Carignan",
       "price": 13,
       "description": "(2021 Baron Du Montfaucon, Côtes Du Rhône, France)",
-      "simplified_description": "A blend of red grapes from the Rhône region in France.",
+      "simplified_description": "A blend of red grapes from the Rhône region in France",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -294,7 +294,7 @@
       "name": "Cabernet Sauvignon",
       "price": 12,
       "description": "(2023 Maison Rouge, Vale Central, Chile)",
-      "simplified_description": "A red wine from Chile.",
+      "simplified_description": "A red wine from Chile",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": ""
@@ -303,7 +303,7 @@
       "name": "Craft Beers",
       "price": null,
       "description": "",
-      "simplified_description": "A selection of craft beers.",
+      "simplified_description": "A selection of craft beers",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": "$10 - $11"
@@ -312,7 +312,7 @@
       "name": "Non-alcoholic drinks",
       "price": null,
       "description": "",
-      "simplified_description": "A selection of non-alcoholic beverages.",
+      "simplified_description": "A selection of non-alcoholic beverages",
       "category": "Bar & Cellar",
       "dietary_info": [],
       "other_info": "$9"
@@ -321,7 +321,7 @@
       "name": "Desserts",
       "price": null,
       "description": "",
-      "simplified_description": "A selection of desserts.",
+      "simplified_description": "A selection of desserts",
       "category": "Desserts",
       "dietary_info": [],
       "other_info": "$15 - $16"
@@ -329,8 +329,8 @@
     {
       "name": "New Year’s Eve Dinner",
       "price": 120,
-      "description": "Join us for an elegant six-course New Year’s Eve dinner - $120 per person.",
-      "simplified_description": "A special six-course dinner for New Year's Eve.",
+      "description": "Join us for an elegant six-course New Year’s Eve dinner - $120 per person",
+      "simplified_description": "A special six-course dinner for New Year's Eve",
       "category": "Special Events",
       "dietary_info": [],
       "other_info": ""
@@ -338,8 +338,8 @@
     {
       "name": "New Year’s Eve Meal Kit for Two",
       "price": 200,
-      "description": "Celebrate at home with a chef-crafted feast.",
-      "simplified_description": "A meal kit for two people to celebrate New Year's Eve at home.",
+      "description": "Celebrate at home with a chef-crafted feast",
+      "simplified_description": "A meal kit for two people to celebrate New Year's Eve at home",
       "category": "Special Events",
       "dietary_info": [],
       "other_info": ""

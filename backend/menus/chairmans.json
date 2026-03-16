@@ -701,7 +701,7 @@
     },
     {
       "name": "Venust (1 OZ)",
-      "price": 330,
+      "price": null,
       "description": "WARMED HENNESSY PARADIS, GRAND MARNIER GRAND CUVEE QUINTESSENCE",
       "simplified_description": "Exclusive drink made with warmed Hennessy Paradis and Grand Marnier Grand Cuvée Quintessence",
       "category": "After Dinner Drinks",
@@ -711,7 +711,7 @@
     {
       "name": "Thai Dragon Coffee",
       "price": 50,
-      "description": "THE MOST EXCLUSIVE COFFEE ON EARTH. BREWED TABLE SIDE.",
+      "description": "THE MOST EXCLUSIVE COFFEE ON EARTH. BREWED TABLE SIDE",
       "simplified_description": "Exclusive coffee brewed at the table",
       "category": "After Dinner Drinks",
       "dietary_info": [],

@@ -6,7 +6,7 @@
     {
       "name": "Appetizer platter",
       "price": 43.5,
-      "description": "Olovieh, Kashk-e-bademjan, Parvarde, Mast-o-khiar served with pita bread\n- upgrade to fresh bread + $3",
+      "description": "Olovieh, Kashk-e-bademjan, Parvarde, Mast-o-khiar served with pita bread upgrade to fresh bread + $3",
       "simplified_description": "A platter of various appetizers served with pita bread",
       "category": "Appetizers",
       "dietary_info": [],
@@ -15,7 +15,7 @@
     {
       "name": "Kashk-e-bademjan",
       "price": 13.5,
-      "description": "Seasoned sautéed eggplants prepared with caramelized onion and sautéed mint, mixed with Kashk (yogurt whey), served with pita\n- upgrade to fresh bread + $1.50",
+      "description": "Seasoned sautéed eggplants prepared with caramelized onion and sautéed mint, mixed with Kashk (yogurt whey), served with pita upgrade to fresh bread + $1.50",
       "simplified_description": "Sautéed eggplant dish served with pita bread",
       "category": "Appetizers",
       "dietary_info": [],
@@ -24,7 +24,7 @@
     {
       "name": "Mirza",
       "price": 13.5,
-      "description": "Smoked eggplant mixed with tomatoes, fresh garlic and eggs, served with pita bread\n- upgrade to fresh bread + $1.50",
+      "description": "Smoked eggplant mixed with tomatoes, fresh garlic and eggs, served with pita bread upgrade to fresh bread + $1.50",
       "simplified_description": "Smoked eggplant dish served with pita bread",
       "category": "Appetizers",
       "dietary_info": [],
@@ -33,7 +33,7 @@
     {
       "name": "Olovieh",
       "price": 13.5,
-      "description": "Chicken salad made with potatoes, carrot, peas and egg, served with pita bread\n- upgrade to fresh bread + $1.50",
+      "description": "Chicken salad made with potatoes, carrot, peas and egg, served with pita bread upgrade to fresh bread + $1.50",
       "simplified_description": "Chicken salad served with pita bread",
       "category": "Appetizers",
       "dietary_info": [],
@@ -42,7 +42,7 @@
     {
       "name": "Hummus",
       "price": 8,
-      "description": "Cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. Served with pita bread\n- upgrade to fresh bread + $1.50",
+      "description": "Cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. Served with pita bread upgrade to fresh bread + $1.50",
       "simplified_description": "Chickpea dip served with pita bread",
       "category": "Appetizers",
       "dietary_info": [],
@@ -87,7 +87,7 @@
     {
       "name": "Kuku",
       "price": 20,
-      "description": "Vegetable patties. Chopped vegetables mixed with walnuts. Served with Basmati Rice.\nMake it 1/2 Rice 1/2 Salad +$1, full salad +$2",
+      "description": "Vegetable patties. Chopped vegetables mixed with walnuts. Served with Basmati Rice. Make it 1/2 Rice 1/2 Salad +$1, full salad +$2",
       "simplified_description": "Vegetable patties served with rice",
       "category": "Veggie Dishes",
       "dietary_info": [],
@@ -96,7 +96,7 @@
     {
       "name": "Lamb Chenjeh",
       "price": 30,
-      "description": "Specially marinated chunks of pure lamb skewered with bell pepper and onion. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Specially marinated chunks of pure lamb skewered with bell pepper and onion. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Marinated lamb skewers served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -105,7 +105,7 @@
     {
       "name": "Beef Torsh",
       "price": 30,
-      "description": "Sour tenderloin fillet marinated with pomegranate sauce, walnuts and cashew. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Sour tenderloin fillet marinated with pomegranate sauce, walnuts and cashew. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Marinated beef fillet served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -114,7 +114,7 @@
     {
       "name": "Beef Koobideh",
       "price": 19,
-      "description": "Two skewers of juicy strips of charbroiled seasoned ground beef. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Two skewers of juicy strips of charbroiled seasoned ground beef. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Ground beef skewers served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -123,7 +123,7 @@
     {
       "name": "Special Beef Koobideh",
       "price": 20.5,
-      "description": "House special single skewer of juicy strips of charbroiled seasoned ground beef mixed with a variety of nuts and barberries. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "House special single skewer of juicy strips of charbroiled seasoned ground beef mixed with a variety of nuts and barberries. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Special ground beef skewer served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -132,7 +132,7 @@
     {
       "name": "Chicken Joujeh",
       "price": 21,
-      "description": "Charbroiled marinated boneless chicken breast. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Charbroiled marinated boneless chicken breast. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Marinated chicken breast served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -141,7 +141,7 @@
     {
       "name": "Chicken Yogurt",
       "price": 21,
-      "description": "Marinated boneless chicken thigh in house made yogurt. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Marinated boneless chicken thigh in house made yogurt. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Chicken thigh marinated in yogurt served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -150,7 +150,7 @@
     {
       "name": "Chicken Koobideh",
       "price": 19,
-      "description": "Two skewers of ground chicken mixed with special herbs and spices. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Two skewers of ground chicken mixed with special herbs and spices. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Ground chicken skewers served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -159,7 +159,7 @@
     {
       "name": "Beef Barg Kabob",
       "price": 28,
-      "description": "Beef striploin marinated in house special sauce. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Beef striploin marinated in house special sauce. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Marinated beef striploin served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -168,7 +168,7 @@
     {
       "name": "Lamb Loghmeh",
       "price": 17.5,
-      "description": "160 g Marinated charbroiled skewer of ground lamb marinated with Persian saffron. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "160 g Marinated charbroiled skewer of ground lamb marinated with Persian saffron. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Ground lamb skewer served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -177,7 +177,7 @@
     {
       "name": "Chicken Torsh",
       "price": 30,
-      "description": "Our finest cut of chicken fillet, marinated with pomegranate sauce, walnuts and parsley. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Our finest cut of chicken fillet, marinated with pomegranate sauce, walnuts and parsley. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Marinated chicken fillet served with rice and tomato",
       "category": "Kabobs",
       "dietary_info": [],
@@ -186,7 +186,7 @@
     {
       "name": "Koobideh & Joujeh (vaziri)",
       "price": 27,
-      "description": "Combination of Beef Koobideh and Chicken Joujeh. Served with Basmati Rice and grilled tomato.\nMake it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
+      "description": "Combination of Beef Koobideh and Chicken Joujeh. Served with Basmati Rice and grilled tomato. Make it 1/2 Rice 1/2 Salad +$2, full salad +$3.5",
       "simplified_description": "Combination of beef and chicken skewers served with rice and tomato",
       "category": "Mix Kabob",
       "dietary_info": [],
@@ -213,7 +213,7 @@
     {
       "name": "Chicken Joujeh Wrap",
       "price": 14.5,
-      "description": "Chicken joujeh kabob, tomato, pickle, onion, parsley and house sauce. Wrapped with pita bread and served with fries.",
+      "description": "Chicken joujeh kabob, tomato, pickle, onion, parsley and house sauce. Wrapped with pita bread and served with fries",
       "simplified_description": "Chicken wrap with various toppings served with fries",
       "category": "Hand Held",
       "dietary_info": [],
@@ -222,7 +222,7 @@
     {
       "name": "Beef Koobideh Wrap",
       "price": 14.5,
-      "description": "Beef Koobideh kabob, tomato, pickle, onion, parsley and house made sauce. Wrapped with pita bread and served with fries.",
+      "description": "Beef Koobideh kabob, tomato, pickle, onion, parsley and house made sauce. Wrapped with pita bread and served with fries",
       "simplified_description": "Beef wrap with various toppings served with fries",
       "category": "Hand Held",
       "dietary_info": [],
@@ -240,7 +240,7 @@
     {
       "name": "Ghormeh",
       "price": 21,
-      "description": "Sautéed herbs and vegetables cooked with dried limes, stewed beef and kidney beans and special seasoning. Served with Basmati rice.",
+      "description": "Sautéed herbs and vegetables cooked with dried limes, stewed beef and kidney beans and special seasoning. Served with Basmati rice",
       "simplified_description": "A stew with herbs, beef, and kidney beans served with rice",
       "category": "Stews",
       "dietary_info": [],
@@ -420,7 +420,7 @@
     {
       "name": "Tahchin",
       "price": 20,
-      "description": "Saffron rice cake mixed with chicken and barberries.",
+      "description": "Saffron rice cake mixed with chicken and barberries",
       "simplified_description": "Saffron rice cake with chicken and barberries",
       "category": "Dish Of The Day",
       "dietary_info": [],

@@ -8,25 +8,25 @@
       "price": 16.0,
       "description": "Delicious local pizza perfect for 1-2 people. Crispy crust and incredible toppings!",
       "category": "FOOD",
-      "simplified_description": "A crispy 10-inch pizza with tasty toppings for 1-2 people.",
+      "simplified_description": "A crispy 10-inch pizza with tasty toppings for 1-2 people",
       "dietary_info": [],
       "other_info": "Serves 1-2"
     },
     {
       "name": "Pepperoni",
       "price": 16.0,
-      "description": "The Go To, Tomato Sauce, Mozzarella, and Pepperoni. You cant go wrong with a Classic.",
+      "description": "The Go To, Tomato Sauce, Mozzarella, and Pepperoni. You cant go wrong with a Classic",
       "category": "FOOD",
-      "simplified_description": "Classic pizza with tomato sauce, mozzarella cheese, and pepperoni.",
+      "simplified_description": "Classic pizza with tomato sauce, mozzarella cheese, and pepperoni",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Hawaiian",
       "price": 16.0,
-      "description": "The Polarizer. Tomato Sauce, Mozzarella, Bacon and Pineapple. Why not Ham? Because Bacon. That's Why.",
+      "description": "The Polarizer. Tomato Sauce, Mozzarella, Bacon and Pineapple. Why not Ham? Because Bacon. That's Why",
       "category": "FOOD",
-      "simplified_description": "Pizza topped with tomato sauce, mozzarella, bacon, and pineapple.",
+      "simplified_description": "Pizza topped with tomato sauce, mozzarella, bacon, and pineapple",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 15.0,
       "description": "So Cheesy Its got dad jokes. Cheddar, Provolone, Gouda, Mozza",
       "category": "FOOD",
-      "simplified_description": "Cheesy pizza with cheddar, provolone, gouda, and mozzarella cheeses.",
+      "simplified_description": "Cheesy pizza with cheddar, provolone, gouda, and mozzarella cheeses",
       "dietary_info": [
         "vegetarian"
       ],
@@ -44,18 +44,18 @@
     {
       "name": "Meat Lovers",
       "price": 16.0,
-      "description": "Carnivores Dream. Tomato sauce, Mozzarella, Bacon, Pepperoni, Genoa Salami, Calabrese, Italian Sausage. Approved by Raptors.",
+      "description": "Carnivores Dream. Tomato sauce, Mozzarella, Bacon, Pepperoni, Genoa Salami, Calabrese, Italian Sausage. Approved by Raptors",
       "category": "FOOD",
-      "simplified_description": "Pizza loaded with tomato sauce, mozzarella, and various meats.",
+      "simplified_description": "Pizza loaded with tomato sauce, mozzarella, and various meats",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Buffalo Chicken ranch",
       "price": 16.0,
-      "description": "Tomato Sauce, Mozzarella, Cheddar, Onions, Red Pepper, Buffalo Hot Sauce and Ranch. No Buffalo were Harmed in the process of making this pizza.",
+      "description": "Tomato Sauce, Mozzarella, Cheddar, Onions, Red Pepper, Buffalo Hot Sauce and Ranch. No Buffalo were Harmed in the process of making this pizza",
       "category": "FOOD",
-      "simplified_description": "Spicy pizza with chicken, cheeses, onions, red pepper, buffalo sauce, and ranch.",
+      "simplified_description": "Spicy pizza with chicken, cheeses, onions, red pepper, buffalo sauce, and ranch",
       "dietary_info": [
         "spicy"
       ],
@@ -66,7 +66,7 @@
       "price": 11.0,
       "description": "whole cornmeal coated",
       "category": "FOOD",
-      "simplified_description": "Cornmeal-coated baked chicken wings.",
+      "simplified_description": "Cornmeal-coated baked chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -75,7 +75,7 @@
       "price": 11.0,
       "description": "null",
       "category": "FOOD",
-      "simplified_description": "Chicken wings with salt and pepper seasoning.",
+      "simplified_description": "Chicken wings with salt and pepper seasoning",
       "dietary_info": [],
       "other_info": ""
     },
@@ -84,7 +84,7 @@
       "price": 11.0,
       "description": "null",
       "category": "FOOD",
-      "simplified_description": "Spicy buffalo hot chicken wings.",
+      "simplified_description": "Spicy buffalo hot chicken wings",
       "dietary_info": [
         "spicy"
       ],
@@ -95,7 +95,7 @@
       "price": 11.0,
       "description": "null",
       "category": "FOOD",
-      "simplified_description": "Chicken wings with sweet chili sauce.",
+      "simplified_description": "Chicken wings with sweet chili sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -104,7 +104,7 @@
       "price": 11.0,
       "description": "null",
       "category": "FOOD",
-      "simplified_description": "Greek style chicken wings.",
+      "simplified_description": "Greek style chicken wings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -113,7 +113,7 @@
       "price": 11.0,
       "description": "null",
       "category": "FOOD",
-      "simplified_description": "Chicken wings with BBQ sauce.",
+      "simplified_description": "Chicken wings with BBQ sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -122,7 +122,7 @@
       "price": 12.0,
       "description": "Fresh crispy tenders with a side of tots, ketchup and tangy dipping sauce",
       "category": "FOOD",
-      "simplified_description": "Crispy chicken tenders served with tater tots, ketchup, and dipping sauce.",
+      "simplified_description": "Crispy chicken tenders served with tater tots, ketchup, and dipping sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -131,7 +131,7 @@
       "price": 13.0,
       "description": "Chickpeas, Cucumber, Tomato, Onion, Red Pepper, Honey Dijon Dressing",
       "category": "FOOD",
-      "simplified_description": "Salad with chickpeas, vegetables, and honey Dijon dressing.",
+      "simplified_description": "Salad with chickpeas, vegetables, and honey Dijon dressing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -143,7 +143,7 @@
       "price": 3.0,
       "description": "$3",
       "category": "FOOD",
-      "simplified_description": "Freshly made crispy potato chips.",
+      "simplified_description": "Freshly made crispy potato chips",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -157,7 +157,7 @@
       "price": 13.0,
       "description": "Chicken, Pickled Daikon and Carrot, Onion, Cucumber, Cilantro, Crushed Peanuts Sweet and Savory Char sui BBQ Sauce",
       "category": "FOOD",
-      "simplified_description": "Chicken salad with pickled vegetables, peanuts, and sweet-savory BBQ sauce.",
+      "simplified_description": "Chicken salad with pickled vegetables, peanuts, and sweet-savory BBQ sauce",
       "dietary_info": [],
       "other_info": ""
     }

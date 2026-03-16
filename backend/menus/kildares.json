@@ -8,7 +8,7 @@
       "price": 16.0,
       "description": "local farm fresh eggs, choice of ham, bacon, saskatoon berry beef sausage or ½ avocado, toast, fresh fruit garnish",
       "category": "FOOD",
-      "simplified_description": "Two eggs with choice of meat or avocado, toast, and fresh fruit.",
+      "simplified_description": "Two eggs with choice of meat or avocado, toast, and fresh fruit",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 17.5,
       "description": "Toasted buttermilk & chive biscuit, maple pork sausage smash patty, folded cheddar omelette, fresh avocado & tomato, fresh fruit garnish",
       "category": "FOOD",
-      "simplified_description": "Buttermilk biscuit with sausage, cheddar omelette, avocado, tomato, and fresh fruit.",
+      "simplified_description": "Buttermilk biscuit with sausage, cheddar omelette, avocado, tomato, and fresh fruit",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": 24.0,
       "description": "Two local farm fresh eggs, bacon, ham and saskatoon berry beef sausage, baked beans, grilled tomatoes & wild mushrooms, toast",
       "category": "FOOD",
-      "simplified_description": "Eggs with bacon, ham, sausage, beans, tomatoes, mushrooms, and toast.",
+      "simplified_description": "Eggs with bacon, ham, sausage, beans, tomatoes, mushrooms, and toast",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 22.0,
       "description": "Charbroiled striploin steak, roasted tomatoes & wild mushrooms, two local farm fresh eggs, toast",
       "category": "FOOD",
-      "simplified_description": "Steak with roasted tomatoes, mushrooms, eggs, and toast.",
+      "simplified_description": "Steak with roasted tomatoes, mushrooms, eggs, and toast",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,7 +44,7 @@
       "price": 17.5,
       "description": "homemade buttermilk biscuit, shaved honey ham",
       "category": "FOOD",
-      "simplified_description": "Buttermilk biscuit with shaved honey ham.",
+      "simplified_description": "Buttermilk biscuit with shaved honey ham",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,7 +53,7 @@
       "price": 18.5,
       "description": "homemade buttermilk biscuit, smoked pork belly, bacon jam, maple bourbon bbq sauce, chicharrons",
       "category": "FOOD",
-      "simplified_description": "Buttermilk biscuit with smoked pork belly, bacon jam, BBQ sauce, and chicharrons.",
+      "simplified_description": "Buttermilk biscuit with smoked pork belly, bacon jam, BBQ sauce, and chicharrons",
       "dietary_info": [],
       "other_info": ""
     },
@@ -62,7 +62,7 @@
       "price": 18.5,
       "description": "homemade buttermilk biscuit, avocado, tomato, spinach, feta",
       "category": "FOOD",
-      "simplified_description": "Buttermilk biscuit with avocado, tomato, spinach, and feta cheese.",
+      "simplified_description": "Buttermilk biscuit with avocado, tomato, spinach, and feta cheese",
       "dietary_info": [
         "vegetarian"
       ],
@@ -73,7 +73,7 @@
       "price": 18.5,
       "description": "homemade buttermilk biscuit, buttermilk marinated chicken thigh, honey sriracha sauce",
       "category": "FOOD",
-      "simplified_description": "Buttermilk biscuit with fried chicken thigh and honey sriracha sauce.",
+      "simplified_description": "Buttermilk biscuit with fried chicken thigh and honey sriracha sauce",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -82,7 +82,7 @@
       "price": 22.5,
       "description": "Battered Challah French Toast, crispy buttermilk chicken thighs, whipped maple butter, fresh fruit garnish",
       "category": "FOOD",
-      "simplified_description": "French toast with crispy chicken thighs, maple butter, and fresh fruit.",
+      "simplified_description": "French toast with crispy chicken thighs, maple butter, and fresh fruit",
       "dietary_info": [],
       "other_info": ""
     },
@@ -91,7 +91,7 @@
       "price": 19.0,
       "description": "Grilled homemade cornbread, BBQ pork belly burnt ends, pickled cabbage, maple jalapeno sour cream, green onions, cilantro, sunny eggs, signature hash",
       "category": "FOOD",
-      "simplified_description": "Cornbread with BBQ pork, pickled cabbage, jalapeno sour cream, eggs, and hash.",
+      "simplified_description": "Cornbread with BBQ pork, pickled cabbage, jalapeno sour cream, eggs, and hash",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -100,7 +100,7 @@
       "price": 22.0,
       "description": "House made beef patty, ham, bacon, cheddar cheese, hickory sticks, sunny egg, brioche bun, skinny fries",
       "category": "FOOD",
-      "simplified_description": "Beef burger with ham, bacon, cheddar, egg, and fries.",
+      "simplified_description": "Beef burger with ham, bacon, cheddar, egg, and fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -109,7 +109,7 @@
       "price": 19.0,
       "description": "Chorizo, sausage, bacon, peppers, green onions, sunny side eggs, salsa, hollandaise, signature hash browns",
       "category": "FOOD",
-      "simplified_description": "Bowl with chorizo, sausage, bacon, eggs, peppers, salsa, and hash browns.",
+      "simplified_description": "Bowl with chorizo, sausage, bacon, eggs, peppers, salsa, and hash browns",
       "dietary_info": [],
       "other_info": "Spicy"
     },
@@ -118,7 +118,7 @@
       "price": 19.0,
       "description": "Montreal smoked meat, baked beans, arugula, cheese curds, poached eggs, hollandaise, signature hash browns",
       "category": "FOOD",
-      "simplified_description": "Bowl with smoked meat, beans, arugula, cheese curds, eggs, and hash browns.",
+      "simplified_description": "Bowl with smoked meat, beans, arugula, cheese curds, eggs, and hash browns",
       "dietary_info": [],
       "other_info": ""
     },
@@ -127,7 +127,7 @@
       "price": 19.0,
       "description": "Canadian style donair meat, sweet sauce, Alberta cheese curds, grilled onions, tomatoes, sunny eggs, signature hash browns",
       "category": "FOOD",
-      "simplified_description": "Bowl with donair meat, cheese curds, onions, tomatoes, eggs, and hash browns.",
+      "simplified_description": "Bowl with donair meat, cheese curds, onions, tomatoes, eggs, and hash browns",
       "dietary_info": [],
       "other_info": ""
     },
@@ -136,7 +136,7 @@
       "price": 18.5,
       "description": "plant based spicy italian sausage, caramelized onions, mushrooms & spinach, signature hash browns, fresh salsa, poached eggs",
       "category": "FOOD",
-      "simplified_description": "Bowl with plant-based spicy sausage, veggies, salsa, eggs, and hash browns.",
+      "simplified_description": "Bowl with plant-based spicy sausage, veggies, salsa, eggs, and hash browns",
       "dietary_info": [
         "vegetarian"
       ],
@@ -228,7 +228,7 @@
       "price": 18.0,
       "description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli and salsa in 3 buttermilk pancake tacos",
       "category": "FOOD",
-      "simplified_description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli ",
+      "simplified_description": "Crumbled chorizo, bacon, scrambled eggs, cheddar, spinach, smoked paprika aioli",
       "dietary_info": [],
       "other_info": ""
     },
@@ -280,9 +280,9 @@
     {
       "name": "Striploin Steak Sandwich and Fries",
       "price": 16.0,
-      "description": "*$3 extra for yam fries, soup or salad",
+      "description": "$3 extra for yam fries, soup or salad",
       "category": "FOOD",
-      "simplified_description": "Steak sandwich served with fries, with optional yam fries, soup, or salad.",
+      "simplified_description": "Steak sandwich served with fries, with optional yam fries, soup, or salad",
       "dietary_info": [],
       "other_info": ""
     },
@@ -291,7 +291,7 @@
       "price": 6.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A pint of Red Truck Amber beer.",
+      "simplified_description": "A pint of Red Truck Amber beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -300,7 +300,7 @@
       "price": 6.0,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A 6oz glass of house red or white wine.",
+      "simplified_description": "A 6oz glass of house red or white wine",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -314,7 +314,7 @@
       "price": 6.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A pint of Okanagan Springs 1516 Lager beer.",
+      "simplified_description": "A pint of Okanagan Springs 1516 Lager beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -323,7 +323,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Discount of $2.00 on house cocktails.",
+      "simplified_description": "Discount of $2.00 on house cocktails",
       "dietary_info": [],
       "other_info": ""
     },
@@ -332,7 +332,7 @@
       "price": 6.25,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A pint of Phillips Blue Buck beer.",
+      "simplified_description": "A pint of Phillips Blue Buck beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -341,7 +341,7 @@
       "price": 6.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A pint of Phillips Gorilla Mode Yacht Rocker Hazy IPA beer.",
+      "simplified_description": "A pint of Phillips Gorilla Mode Yacht Rocker Hazy IPA beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -350,7 +350,7 @@
       "price": 6.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A pint of Hard Knox Grunt Work Amber Ale beer.",
+      "simplified_description": "A pint of Hard Knox Grunt Work Amber Ale beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -359,7 +359,7 @@
       "price": 6.5,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A pint of Pabst Blue Ribbon beer.",
+      "simplified_description": "A pint of Pabst Blue Ribbon beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -368,7 +368,7 @@
       "price": 6.0,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "A 1 oz serving of Ketel One Vodka.",
+      "simplified_description": "A 1 oz serving of Ketel One Vodka",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -382,7 +382,7 @@
       "price": 18.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Mussels cooked with chili and lime flavors.",
+      "simplified_description": "Mussels cooked with chili and lime flavors",
       "dietary_info": [
         "gluten-free",
         "dairy-free",

@@ -6,27 +6,27 @@
     {
       "name": "WINGS",
       "price": 11.0,
-      "description": "Breaded chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic or Honey Hot",
+      "description": "Breaded chicken wings: Salt & Pepper Buffalo​ BBQ Honey Garlic or Honey Hot",
       "category": "FOOD",
-      "simplified_description": "Breaded chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic o",
+      "simplified_description": "Breaded chicken wings: Salt & Pepper Buffalo​ BBQ Honey Garlic o",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "WINGS",
       "price": 11.0,
-      "description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic or Honey Hot",
+      "description": "Traditional chicken wings: Salt & Pepper Buffalo​ BBQ Honey Garlic or Honey Hot",
       "category": "FOOD",
-      "simplified_description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garl",
+      "simplified_description": "Traditional chicken wings: Salt & Pepper Buffalo​ BBQ Honey Garl",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "WINGS",
       "price": 11.0,
-      "description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garlic or Honey Hot",
+      "description": "Traditional chicken wings: Salt & Pepper Buffalo​ BBQ Honey Garlic or Honey Hot",
       "category": "FOOD",
-      "simplified_description": "Traditional chicken wings:\n  * Salt & Pepper\n  * Buffalo​\n  * BBQ\n  * Honey Garl",
+      "simplified_description": "Traditional chicken wings: Salt & Pepper Buffalo​ BBQ Honey Garl",
       "dietary_info": [],
       "other_info": ""
     },
@@ -51,9 +51,9 @@
     {
       "name": "ALOO TIKKI BURGER",
       "price": 7.0,
-      "description": "Spiced potato patty on a soft potato bun\n(A vegetarian favourite)",
+      "description": "Spiced potato patty on a soft potato bun (A vegetarian favourite)",
       "category": "FOOD",
-      "simplified_description": "Spiced potato patty on a soft potato bun\n(A vegetarian favourite)",
+      "simplified_description": "Spiced potato patty on a soft potato bun (A vegetarian favourite)",
       "dietary_info": [],
       "other_info": ""
     },
@@ -78,27 +78,27 @@
     {
       "name": "KADAK CHA",
       "price": null,
-      "description": "Black tea, milk, cardamom, other spices + secret family ingredients\nDragon Manjit's favourite",
+      "description": "Black tea, milk, cardamom, other spices + secret family ingredients Dragon Manjit's favourite",
       "category": "DRINK",
-      "simplified_description": "Black tea, milk, cardamom, other spices + secret family ingredients\nDragon Manji",
+      "simplified_description": "Black tea, milk, cardamom, other spices + secret family ingredients Dragon Manji",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "KASHMIRI CHA",
       "price": null,
-      "description": "Black tea, milk, cardamom, almonds, saffron (contains nuts*)\nRavinder's favourite",
+      "description": "Black tea, milk, cardamom, almonds, saffron (contains nuts*) Ravinder's favourite",
       "category": "DRINK",
-      "simplified_description": "Black tea, milk, cardamom, almonds, saffron (contains nuts*)\nRavinder's favourit",
+      "simplified_description": "Black tea, milk, cardamom, almonds, saffron (contains nuts*) Ravinder's favourit",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "SAFFRON KESAR CHA",
       "price": null,
-      "description": "Black tea, milk, cardamom, ginger\nMom + Dad's favourite",
+      "description": "Black tea, milk, cardamom, ginger Mom + Dad's favourite",
       "category": "DRINK",
-      "simplified_description": "Black tea, milk, cardamom, ginger\nMom + Dad's favourite",
+      "simplified_description": "Black tea, milk, cardamom, ginger Mom + Dad's favourite",
       "dietary_info": [],
       "other_info": ""
     }

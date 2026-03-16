@@ -24,9 +24,9 @@
     {
       "name": "FAJITAS",
       "price": 18.0,
-      "description": "Chicken or Beef or Vegetarian. Served with flour or corn tortillas, guacamole & sour cream.",
+      "description": "Chicken or Beef or Vegetarian. Served with flour or corn tortillas, guacamole & sour cream",
       "category": "FOOD",
-      "simplified_description": "Chicken or Beef or Vegetarian. Served with flour or corn tortillas, guacamole & ",
+      "simplified_description": "Chicken or Beef or Vegetarian. Served with flour or corn tortillas, guacamole &",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,14 +53,14 @@
       "price": 19.0,
       "description": "Flour tortilla stuffed with mozzarella, cheddar and Birria (beef). Broth on the side to Dip!",
       "category": "FOOD",
-      "simplified_description": "Flour tortilla stuffed with mozzarella, cheddar and Birria (beef). Broth on the ",
+      "simplified_description": "Flour tortilla stuffed with mozzarella, cheddar and Birria (beef). Broth on the",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "TACOS ( mexican street style)",
       "price": null,
-      "description": "Served in 2 soft corn tortillas. Topped with white onion & cilantro. Salsas on the side. The order are 2 tacos, same kind.",
+      "description": "Served in 2 soft corn tortillas. Topped with white onion & cilantro. Salsas on the side. The order are 2 tacos, same kind",
       "category": "FOOD",
       "simplified_description": "Served in 2 soft corn tortillas. Topped with white onion & cilantro. Salsas on t",
       "dietary_info": [],
@@ -69,9 +69,9 @@
     {
       "name": "ASADA (2)",
       "price": 6.5,
-      "description": "Thin and juicy sliced steak cooked on the Grill.",
+      "description": "Thin and juicy sliced steak cooked on the Grill",
       "category": "FOOD",
-      "simplified_description": "Thin and juicy sliced steak cooked on the Grill.",
+      "simplified_description": "Thin and juicy sliced steak cooked on the Grill",
       "dietary_info": [],
       "other_info": ""
     },

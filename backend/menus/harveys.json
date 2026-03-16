@@ -6,9 +6,9 @@
     {
       "name": "Frozen Red Bull® Lemonade",
       "price": 5.49,
-      "description": "Refresh and reenergize with a Frozen Red Bull infused with Lemonade flavour. Each cup contains a full can of Red Bull Energy Drink®. Frozen Red Bull contains 80mg of caffeine.",
+      "description": "Refresh and reenergize with a Frozen Red Bull infused with Lemonade flavour. Each cup contains a full can of Red Bull Energy Drink®. Frozen Red Bull contains 80mg of caffeine",
       "category": "DRINK",
-      "simplified_description": "Frozen Red Bull with lemonade flavor and 80mg caffeine per cup.",
+      "simplified_description": "Frozen Red Bull with lemonade flavor and 80mg caffeine per cup",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -18,9 +18,9 @@
     {
       "name": "Frozen Red Bull® Peach",
       "price": 5.49,
-      "description": "Refresh and reenergize with the Frozen Red Bull infused with Peach flavour. Each cup contains a full can of Red Bull Peach Edition Energy Drink®. Frozen Red Bull contains 80mg of caffeine.",
+      "description": "Refresh and reenergize with the Frozen Red Bull infused with Peach flavour. Each cup contains a full can of Red Bull Peach Edition Energy Drink®. Frozen Red Bull contains 80mg of caffeine",
       "category": "DRINK",
-      "simplified_description": "Frozen Red Bull with peach flavor and 80mg caffeine per cup.",
+      "simplified_description": "Frozen Red Bull with peach flavor and 80mg caffeine per cup",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -30,9 +30,9 @@
     {
       "name": "Frozen Red Bull® Strawberry Watermelon",
       "price": 5.49,
-      "description": "Refresh and reenergize with the Frozen Red Bull infused with Strawberry and Watermelon flavours. Each cup contains a full can of Red Bull Red Edition Energy Drink®. Frozen Red Bull contains 80mg of caffeine.",
+      "description": "Refresh and reenergize with the Frozen Red Bull infused with Strawberry and Watermelon flavours. Each cup contains a full can of Red Bull Red Edition Energy Drink®. Frozen Red Bull contains 80mg of caffeine",
       "category": "DRINK",
-      "simplified_description": "Frozen Red Bull with strawberry and watermelon flavors and 80mg caffeine.",
+      "simplified_description": "Frozen Red Bull with strawberry and watermelon flavors and 80mg caffeine",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -42,9 +42,9 @@
     {
       "name": "Pepsi",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/116433?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Classic Pepsi cola soft drink.",
+      "simplified_description": "Classic Pepsi cola soft drink",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -54,9 +54,9 @@
     {
       "name": "Pepsi Zero Sugar",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/124295?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Sugar-free Pepsi cola soft drink.",
+      "simplified_description": "Sugar-free Pepsi cola soft drink",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -66,9 +66,9 @@
     {
       "name": "Diet Pepsi",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/116436?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Diet Pepsi cola soft drink with no sugar.",
+      "simplified_description": "Diet Pepsi cola soft drink with no sugar",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -78,9 +78,9 @@
     {
       "name": "Brisk Iced Tea",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/116439?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Brisk brand iced tea beverage.",
+      "simplified_description": "Brisk brand iced tea beverage",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -90,9 +90,9 @@
     {
       "name": "7 Up",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/116442?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Lemon-lime flavored carbonated soft drink.",
+      "simplified_description": "Lemon-lime flavored carbonated soft drink",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -102,9 +102,9 @@
     {
       "name": "Mug Root Beer",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/116445?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Mug brand root beer soft drink.",
+      "simplified_description": "Mug brand root beer soft drink",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -114,9 +114,9 @@
     {
       "name": "Dr. Pepper",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/116451?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Dr. Pepper flavored carbonated soft drink.",
+      "simplified_description": "Dr. Pepper flavored carbonated soft drink",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -126,9 +126,9 @@
     {
       "name": "Brisk Lemonade",
       "price": 3.09,
-      "description": "[Order this item](https://order.harveys.ca/product/123491?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Order this item",
       "category": "DRINK",
-      "simplified_description": "Brisk brand lemonade beverage.",
+      "simplified_description": "Brisk brand lemonade beverage",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -138,9 +138,9 @@
     {
       "name": "Bottled Water",
       "price": 2.39,
-      "description": "Bottled Water [Order this item](https://order.harveys.ca/product/97216?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Bottled Water Order this item",
       "category": "DRINK",
-      "simplified_description": "Plain bottled water.",
+      "simplified_description": "Plain bottled water",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -154,9 +154,9 @@
     {
       "name": "Bubly - Lime 473ml can",
       "price": 2.99,
-      "description": "Bubly Lime [Order this item](https://order.harveys.ca/product/124260?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Bubly Lime Order this item",
       "category": "DRINK",
-      "simplified_description": "Bubly brand lime flavored sparkling water.",
+      "simplified_description": "Bubly brand lime flavored sparkling water",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -170,9 +170,9 @@
     {
       "name": "Peach Red Bull Energy Drink, 250 ml",
       "price": 3.99,
-      "description": "A fresh white peach and nectarine taste. The Red Bull Peach Edition. [Order this item](https://order.harveys.ca/product/123366?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "A fresh white peach and nectarine taste. The Red Bull Peach Edition. Order this item",
       "category": "DRINK",
-      "simplified_description": "Red Bull energy drink with peach and nectarine flavor.",
+      "simplified_description": "Red Bull energy drink with peach and nectarine flavor",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -182,9 +182,9 @@
     {
       "name": "Red Bull Energy Drink, 250 ml",
       "price": 3.99,
-      "description": "Vitalizes Body and Mind. [Order this item](https://order.harveys.ca/product/121258?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Vitalizes Body and Mind. Order this item",
       "category": "DRINK",
-      "simplified_description": "Classic Red Bull energy drink.",
+      "simplified_description": "Classic Red Bull energy drink",
       "dietary_info": [
         "dairy-free",
         "nut-free"
@@ -194,9 +194,9 @@
     {
       "name": "Watermelon Red Bull Energy Drink, 250 ml",
       "price": 3.99,
-      "description": "The Red Bull Red Edition with the fresh taste of watermelon [Order this item](https://order.harveys.ca/product/124338?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "The Red Bull Red Edition with the fresh taste of watermelon Order this item",
       "category": "DRINK",
-      "simplified_description": "Energy drink with watermelon flavor.",
+      "simplified_description": "Energy drink with watermelon flavor",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -205,11 +205,11 @@
       "other_info": ""
     },
     {
-      "name": "Dole Apple Juice ",
+      "name": "Dole Apple Juice",
       "price": 3.19,
-      "description": "Apple Juice [Order this item](https://order.harveys.ca/product/97210?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Apple Juice Order this item",
       "category": "DRINK",
-      "simplified_description": "Pure apple juice.",
+      "simplified_description": "Pure apple juice",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -221,9 +221,9 @@
     {
       "name": "Milk",
       "price": 1.99,
-      "description": "Milk [Order this item](https://order.harveys.ca/product/97219?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Milk Order this item",
       "category": "DRINK",
-      "simplified_description": "Plain milk beverage.",
+      "simplified_description": "Plain milk beverage",
       "dietary_info": [
         "nut-free",
         "gluten-free",
@@ -235,9 +235,9 @@
     {
       "name": "Chocolate Milk",
       "price": 1.99,
-      "description": "Chocolate Milk [Order this item](https://order.harveys.ca/product/97222?utm_source=HAR-marketing&utm_medium=website&utm_campaign=HAR-Web_Menus-202208&utm_content=body&orderType=p&store=2308)",
+      "description": "Chocolate Milk Order this item",
       "category": "DRINK",
-      "simplified_description": "Milk flavored with chocolate.",
+      "simplified_description": "Milk flavored with chocolate",
       "dietary_info": [
         "nut-free",
         "gluten-free",

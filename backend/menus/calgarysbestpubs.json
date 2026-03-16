@@ -6,9 +6,9 @@
     {
       "name": "Cheese",
       "price": 17.0,
-      "description": "* Cheese",
+      "description": "Cheese",
       "category": "FOOD",
-      "simplified_description": "A serving of cheese.",
+      "simplified_description": "A serving of cheese",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -21,7 +21,7 @@
       "price": 9.75,
       "description": "Double-chocolate fudge, ice cream, Skor crumbles",
       "category": "DESSERT",
-      "simplified_description": "Warm double-chocolate brownie with ice cream and Skor crumbles.",
+      "simplified_description": "Warm double-chocolate brownie with ice cream and Skor crumbles",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -33,7 +33,7 @@
       "price": 10.5,
       "description": "Fresh-baked cinnamon bites, brown sugar, cinnamon, cream cheese icing",
       "category": "DESSERT",
-      "simplified_description": "Fresh cinnamon bites with brown sugar and cream cheese icing.",
+      "simplified_description": "Fresh cinnamon bites with brown sugar and cream cheese icing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -45,7 +45,7 @@
       "price": 10.5,
       "description": "Ice cream, caramel, dark chocolate",
       "category": "DESSERT",
-      "simplified_description": "Bread and butter pudding with ice cream, caramel, and dark chocolate.",
+      "simplified_description": "Bread and butter pudding with ice cream, caramel, and dark chocolate",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -57,7 +57,7 @@
       "price": 5.6,
       "description": "Joyce's Gas Lamp Craft Beer",
       "category": "DRINK",
-      "simplified_description": "Joyce's Gas Lamp craft beer.",
+      "simplified_description": "Joyce's Gas Lamp craft beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -70,7 +70,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "Belgian White Mist beer, 14oz serving.",
+      "simplified_description": "Belgian White Mist beer, 14oz serving",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -83,7 +83,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "Blanc beer, 14oz serving.",
+      "simplified_description": "Blanc beer, 14oz serving",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -96,7 +96,7 @@
       "price": 5.6,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "Seasonal blueberry lemonade sour beer.",
+      "simplified_description": "Seasonal blueberry lemonade sour beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -109,7 +109,7 @@
       "price": 5.6,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "Seasonal chocolate mint winter ale.",
+      "simplified_description": "Seasonal chocolate mint winter ale",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -122,7 +122,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "Craft Light beer, 14oz serving.",
+      "simplified_description": "Craft Light beer, 14oz serving",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -135,7 +135,7 @@
       "price": 5.6,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "Seasonal habanero hazy IPA beer.",
+      "simplified_description": "Seasonal habanero hazy IPA beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -149,7 +149,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "New England IPA beer, 14oz serving.",
+      "simplified_description": "New England IPA beer, 14oz serving",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -162,7 +162,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "Nut Brown beer, 14oz serving.",
+      "simplified_description": "Nut Brown beer, 14oz serving",
       "dietary_info": [
         "vegan",
         "gluten-free"
@@ -174,7 +174,7 @@
       "price": 5.6,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "Seasonal peach super sour beer.",
+      "simplified_description": "Seasonal peach super sour beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -187,7 +187,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "Platinum Blonde beer, 14oz serving.",
+      "simplified_description": "Platinum Blonde beer, 14oz serving",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -200,7 +200,7 @@
       "price": 5.8,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "A seasonal sour drink with raspberry and lime flavors.",
+      "simplified_description": "A seasonal sour drink with raspberry and lime flavors",
       "dietary_info": [],
       "other_info": "Seasonal item"
     },
@@ -209,7 +209,7 @@
       "price": 5.6,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "A seasonal sour drink with a rocket pop flavor.",
+      "simplified_description": "A seasonal sour drink with a rocket pop flavor",
       "dietary_info": [],
       "other_info": "Seasonal item"
     },
@@ -218,7 +218,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Rustic Red beer.",
+      "simplified_description": "A 14oz serving of Rustic Red beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -227,7 +227,7 @@
       "price": 5.6,
       "description": "New Seasonal Flavour!",
       "category": "DRINK",
-      "simplified_description": "A seasonal sour drink with watermelon flavor.",
+      "simplified_description": "A seasonal sour drink with watermelon flavor",
       "dietary_info": [],
       "other_info": "Seasonal item"
     },
@@ -236,7 +236,7 @@
       "price": 5.6,
       "description": "$14oz 5.60",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of West Coast IPA beer.",
+      "simplified_description": "A 14oz serving of West Coast IPA beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -245,7 +245,7 @@
       "price": 5.8,
       "description": "$5.80 - 14oz",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Prairie Pale Ale beer.",
+      "simplified_description": "A 14oz serving of Prairie Pale Ale beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -254,7 +254,7 @@
       "price": 7.25,
       "description": "$7.25",
       "category": "DRINK",
-      "simplified_description": "A 355mL bottle of Millers Genuine Draft beer.",
+      "simplified_description": "A 355mL bottle of Millers Genuine Draft beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -263,7 +263,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Asahi beer.",
+      "simplified_description": "A 14oz serving of Asahi beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -272,7 +272,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Guinness Stout beer.",
+      "simplified_description": "A 14oz serving of Guinness Stout beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -281,7 +281,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Harp Irish Lager beer.",
+      "simplified_description": "A 14oz serving of Harp Irish Lager beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -290,7 +290,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Heineken Lager beer.",
+      "simplified_description": "A 14oz serving of Heineken Lager beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -299,7 +299,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Kilkenny Cream Ale beer.",
+      "simplified_description": "A 14oz serving of Kilkenny Cream Ale beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -308,7 +308,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Pilsner Urquel beer.",
+      "simplified_description": "A 14oz serving of Pilsner Urquel beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -317,7 +317,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Schofferhofer Radler beer.",
+      "simplified_description": "A 14oz serving of Schofferhofer Radler beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -326,7 +326,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Smithwicks Red Ale beer.",
+      "simplified_description": "A 14oz serving of Smithwicks Red Ale beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -335,7 +335,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Somersby Apple Cider.",
+      "simplified_description": "A 14oz serving of Somersby Apple Cider",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -348,7 +348,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Steigl Goldbrau beer.",
+      "simplified_description": "A 14oz serving of Steigl Goldbrau beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -359,7 +359,7 @@
       "price": 7.8,
       "description": "$14oz 7.80",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Strongbow Cider.",
+      "simplified_description": "A 14oz serving of Strongbow Cider",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -372,7 +372,7 @@
       "price": 9.25,
       "description": "$9.25",
       "category": "DRINK",
-      "simplified_description": "A 400mL bottle of Stella Artois beer.",
+      "simplified_description": "A 400mL bottle of Stella Artois beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -383,7 +383,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of 88 Brewing's rotating beer selection.",
+      "simplified_description": "A 14oz serving of 88 Brewing's rotating beer selection",
       "dietary_info": [
         "nut-free"
       ],
@@ -394,7 +394,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of ANNEX Forward Progress Pale Ale.",
+      "simplified_description": "A 14oz serving of ANNEX Forward Progress Pale Ale",
       "dietary_info": [
         "nut-free"
       ],
@@ -405,7 +405,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Banded Peak Fired Up beer.",
+      "simplified_description": "A 14oz serving of Banded Peak Fired Up beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -416,7 +416,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Banded Peak Microburst beer.",
+      "simplified_description": "A 14oz serving of Banded Peak Microburst beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -427,7 +427,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Banded Peak Mount Crushmore beer.",
+      "simplified_description": "A 14oz serving of Banded Peak Mount Crushmore beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -438,7 +438,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Banded Peak Plainsbreaker beer.",
+      "simplified_description": "A 14oz serving of Banded Peak Plainsbreaker beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -449,7 +449,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Big Rock Grasshopper beer.",
+      "simplified_description": "A 14oz serving of Big Rock Grasshopper beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -460,7 +460,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Big Rock Traditional beer.",
+      "simplified_description": "A 14oz serving of Big Rock Traditional beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -471,7 +471,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Blindman Pilsner beer.",
+      "simplified_description": "A 14oz serving of Blindman Pilsner beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -482,7 +482,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Goodmood Hefeweizen beer.",
+      "simplified_description": "A 14oz serving of Goodmood Hefeweizen beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -493,7 +493,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Grizzly Paw Rutting Elk Red beer.",
+      "simplified_description": "A 14oz serving of Grizzly Paw Rutting Elk Red beer",
       "dietary_info": [
         "nut-free"
       ],
@@ -504,7 +504,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Last Best IPA beer.",
+      "simplified_description": "A 14oz serving of Last Best IPA beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -517,7 +517,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of rotating Last Best beer.",
+      "simplified_description": "A 14oz serving of rotating Last Best beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -530,7 +530,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Parallel 49 Pilsner beer.",
+      "simplified_description": "A 14oz serving of Parallel 49 Pilsner beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -543,7 +543,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Parallel 49 Trash Panda beer.",
+      "simplified_description": "A 14oz serving of Parallel 49 Trash Panda beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -556,7 +556,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Railyard Peach Sour beer.",
+      "simplified_description": "A 14oz serving of Railyard Peach Sour beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -569,7 +569,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Rock Creek Peach Cider.",
+      "simplified_description": "A 14oz serving of Rock Creek Peach Cider",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -583,7 +583,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of rotating Sunny Cider.",
+      "simplified_description": "A 14oz serving of rotating Sunny Cider",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -597,7 +597,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Village Blacksmith beer.",
+      "simplified_description": "A 14oz serving of Village Blacksmith beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -610,7 +610,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Village Cider.",
+      "simplified_description": "A 14oz serving of Village Cider",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -624,7 +624,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of rotating Village beer.",
+      "simplified_description": "A 14oz serving of rotating Village beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -637,7 +637,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Village WIT beer.",
+      "simplified_description": "A 14oz serving of Village WIT beer",
       "dietary_info": [
         "vegan",
         "nut-free"
@@ -649,7 +649,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Wild Rose Electric Ave Lager beer.",
+      "simplified_description": "A 14oz serving of Wild Rose Electric Ave Lager beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -662,7 +662,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Wild Rose Velvet Fog beer.",
+      "simplified_description": "A 14oz serving of Wild Rose Velvet Fog beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -675,7 +675,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Zero Issue Nemesis IPA beer.",
+      "simplified_description": "A 14oz serving of Zero Issue Nemesis IPA beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -688,7 +688,7 @@
       "price": 6.4,
       "description": "$14oz 6.40",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Wild Rose Wraspberry beer.",
+      "simplified_description": "A 14oz serving of Wild Rose Wraspberry beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -701,7 +701,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Alexander Keiths beer.",
+      "simplified_description": "A 14oz serving of Alexander Keiths beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -715,7 +715,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Fernie Hit the Deck Hazy IPA beer.",
+      "simplified_description": "A 14oz serving of Fernie Hit the Deck Hazy IPA beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -729,7 +729,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Fernie What the Huck Fruit Ale beer.",
+      "simplified_description": "A 14oz serving of Fernie What the Huck Fruit Ale beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -743,7 +743,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Michelob Ultra beer.",
+      "simplified_description": "A 14oz serving of Michelob Ultra beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -757,7 +757,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of OK 1516 Lager beer.",
+      "simplified_description": "A 14oz serving of OK 1516 Lager beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -771,7 +771,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Original 16 Pale Ale beer.",
+      "simplified_description": "A 14oz serving of Original 16 Pale Ale beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -785,7 +785,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Pabst Blue Ribbon beer.",
+      "simplified_description": "A 14oz serving of Pabst Blue Ribbon beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -799,7 +799,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Philips Blue Buck beer.",
+      "simplified_description": "A 14oz serving of Philips Blue Buck beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -813,7 +813,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Philips Electric Unicorn beer.",
+      "simplified_description": "A 14oz serving of Philips Electric Unicorn beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -827,7 +827,7 @@
       "price": 6.45,
       "description": "$14oz 6.45",
       "category": "DRINK",
-      "simplified_description": "A 14oz serving of Phillips Dino Sour beer.",
+      "simplified_description": "A 14oz serving of Phillips Dino Sour beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -841,7 +841,7 @@
       "price": 10.99,
       "description": "Guinness & Kampus Galaxy Pale Ale",
       "category": "DRINK",
-      "simplified_description": "A mix of Guinness and Kampus Galaxy Pale Ale beers.",
+      "simplified_description": "A mix of Guinness and Kampus Galaxy Pale Ale beers",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -855,7 +855,7 @@
       "price": 10.99,
       "description": "Guinness & Kampus Belgian Wit",
       "category": "DRINK",
-      "simplified_description": "A mix of Guinness and Kampus Belgian Wit beers.",
+      "simplified_description": "A mix of Guinness and Kampus Belgian Wit beers",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -869,7 +869,7 @@
       "price": 10.99,
       "description": "Strongbow & Guinness",
       "category": "DRINK",
-      "simplified_description": "A mix of Strongbow cider and Guinness beer.",
+      "simplified_description": "A mix of Strongbow cider and Guinness beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -883,7 +883,7 @@
       "price": 10.99,
       "description": "Strongbow Cider & Stella Artois",
       "category": "DRINK",
-      "simplified_description": "A mix of Strongbow cider and Stella Artois beer.",
+      "simplified_description": "A mix of Strongbow cider and Stella Artois beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -897,7 +897,7 @@
       "price": 8.5,
       "description": "$8.50",
       "category": "DRINK",
-      "simplified_description": "A 355ml serving of Eau Claire Hard Ice Tea.",
+      "simplified_description": "A 355ml serving of Eau Claire Hard Ice Tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -911,7 +911,7 @@
       "price": 8.5,
       "description": "$8.50",
       "category": "DRINK",
-      "simplified_description": "A 355ml gin cocktail with blackberry flavor.",
+      "simplified_description": "A 355ml gin cocktail with blackberry flavor",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -924,7 +924,7 @@
       "price": 8.5,
       "description": "$8.50",
       "category": "DRINK",
-      "simplified_description": "A 355ml prickly pear flavored lemonade drink.",
+      "simplified_description": "A 355ml prickly pear flavored lemonade drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -938,7 +938,7 @@
       "price": 9.95,
       "description": "$9.95",
       "category": "DRINK",
-      "simplified_description": "A 475ml apple cider beverage.",
+      "simplified_description": "A 475ml apple cider beverage",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -952,7 +952,7 @@
       "price": 9.95,
       "description": "$9.95",
       "category": "DRINK",
-      "simplified_description": "A 475ml blackberry flavored cider drink.",
+      "simplified_description": "A 475ml blackberry flavored cider drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -966,7 +966,7 @@
       "price": 8.0,
       "description": "$8.00",
       "category": "DRINK",
-      "simplified_description": "A 330ml flavored malt beverage.",
+      "simplified_description": "A 330ml flavored malt beverage",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -979,7 +979,7 @@
       "price": 6.99,
       "description": "$6.99",
       "category": "DRINK",
-      "simplified_description": "A 341ml light lager beer.",
+      "simplified_description": "A 341ml light lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -992,7 +992,7 @@
       "price": 6.99,
       "description": "$6.99",
       "category": "DRINK",
-      "simplified_description": "A 341ml classic American lager beer.",
+      "simplified_description": "A 341ml classic American lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1005,7 +1005,7 @@
       "price": 6.99,
       "description": "$6.99",
       "category": "DRINK",
-      "simplified_description": "A 341ml Canadian style lager beer.",
+      "simplified_description": "A 341ml Canadian style lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1018,7 +1018,7 @@
       "price": 6.99,
       "description": "$6.99",
       "category": "DRINK",
-      "simplified_description": "A 341ml light lager beer.",
+      "simplified_description": "A 341ml light lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1031,7 +1031,7 @@
       "price": 6.99,
       "description": "$6.99",
       "category": "DRINK",
-      "simplified_description": "A 341ml Canadian pale lager beer.",
+      "simplified_description": "A 341ml Canadian pale lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1044,7 +1044,7 @@
       "price": 7.75,
       "description": "$7.75",
       "category": "DRINK",
-      "simplified_description": "A 341ml light lager beer with low calories.",
+      "simplified_description": "A 341ml light lager beer with low calories",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1057,7 +1057,7 @@
       "price": 7.25,
       "description": "$7.25",
       "category": "DRINK",
-      "simplified_description": "A 355ml draft-style lager beer.",
+      "simplified_description": "A 355ml draft-style lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1070,7 +1070,7 @@
       "price": 8.0,
       "description": "$8.00",
       "category": "DRINK",
-      "simplified_description": "A 330ml pale lager beer.",
+      "simplified_description": "A 330ml pale lager beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1083,7 +1083,7 @@
       "price": 11.0,
       "description": "$11.00",
       "category": "DRINK",
-      "simplified_description": "A 500ml dark wheat beer.",
+      "simplified_description": "A 500ml dark wheat beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1096,7 +1096,7 @@
       "price": 11.0,
       "description": "$11.00",
       "category": "DRINK",
-      "simplified_description": "A 500ml wheat beer with a cloudy appearance.",
+      "simplified_description": "A 500ml wheat beer with a cloudy appearance",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -1109,7 +1109,7 @@
       "price": 8.0,
       "description": "$8.00",
       "category": "DRINK",
-      "simplified_description": "A 330mL bottle of Heineken beer.",
+      "simplified_description": "A 330mL bottle of Heineken beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1118,7 +1118,7 @@
       "price": 7.75,
       "description": "$7.75",
       "category": "DRINK",
-      "simplified_description": "A 330mL bottle of Kronenbourg Blanc beer.",
+      "simplified_description": "A 330mL bottle of Kronenbourg Blanc beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1127,7 +1127,7 @@
       "price": 10.25,
       "description": "$10.25",
       "category": "DRINK",
-      "simplified_description": "A 473mL bottle of Stiegl Radler beer.",
+      "simplified_description": "A 473mL bottle of Stiegl Radler beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1136,7 +1136,7 @@
       "price": 8.75,
       "description": "$8.75",
       "category": "DRINK",
-      "simplified_description": "A 473mL bottle of Glutenberg Blonde beer.",
+      "simplified_description": "A 473mL bottle of Glutenberg Blonde beer",
       "dietary_info": [
         "gluten-free"
       ],
@@ -1147,7 +1147,7 @@
       "price": 5.9,
       "description": "$5.90",
       "category": "DRINK",
-      "simplified_description": "A 330mL bottle of Corona Sunbrew beer.",
+      "simplified_description": "A 330mL bottle of Corona Sunbrew beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1156,7 +1156,7 @@
       "price": 5.9,
       "description": "$5.90",
       "category": "DRINK",
-      "simplified_description": "A 355mL bottle of Grizzly Paw Ginger Beer.",
+      "simplified_description": "A 355mL bottle of Grizzly Paw Ginger Beer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -1170,7 +1170,7 @@
       "price": 8.5,
       "description": "$8.50",
       "category": "DRINK",
-      "simplified_description": "A 440mL bottle of Guinness Zero alcohol-free beer.",
+      "simplified_description": "A 440mL bottle of Guinness Zero alcohol-free beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1179,7 +1179,7 @@
       "price": 5.9,
       "description": "$5.90",
       "category": "DRINK",
-      "simplified_description": "A 330mL bottle of Heineken Zero alcohol-free beer.",
+      "simplified_description": "A 330mL bottle of Heineken Zero alcohol-free beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1188,7 +1188,7 @@
       "price": 7.5,
       "description": "$7.50",
       "category": "DRINK",
-      "simplified_description": "A 473mL bottle of Village Craft Pale Ale beer.",
+      "simplified_description": "A 473mL bottle of Village Craft Pale Ale beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1197,7 +1197,7 @@
       "price": 8.5,
       "description": "$8.50",
       "category": "DRINK",
-      "simplified_description": "A 500mL bottle of Erdinger alcohol-free beer.",
+      "simplified_description": "A 500mL bottle of Erdinger alcohol-free beer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1206,7 +1206,7 @@
       "price": 7.75,
       "description": "$5oz 7.75",
       "category": "DRINK",
-      "simplified_description": "A 5oz serving of Mission Ridge wine.",
+      "simplified_description": "A 5oz serving of Mission Ridge wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1215,7 +1215,7 @@
       "price": 7.99,
       "description": "$5oz 7.99",
       "category": "DRINK",
-      "simplified_description": "A 5oz serving of Screw It! wine.",
+      "simplified_description": "A 5oz serving of Screw It! wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1224,7 +1224,7 @@
       "price": 8.99,
       "description": "$5oz 8.99",
       "category": "DRINK",
-      "simplified_description": "A 5oz serving of Tocornal wine.",
+      "simplified_description": "A 5oz serving of Tocornal wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1233,7 +1233,7 @@
       "price": 54.0,
       "description": "$Btl 54.00",
       "category": "DRINK",
-      "simplified_description": "A bottle of Luigi Bosca wine.",
+      "simplified_description": "A bottle of Luigi Bosca wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1242,7 +1242,7 @@
       "price": 9.0,
       "description": "$5oz 9.00",
       "category": "DRINK",
-      "simplified_description": "A 5oz serving of Oxford Landing wine.",
+      "simplified_description": "A 5oz serving of Oxford Landing wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1251,7 +1251,7 @@
       "price": 10.0,
       "description": "$5oz 10.00",
       "category": "DRINK",
-      "simplified_description": "A 5-ounce serving of Gerard Bertrand wine.",
+      "simplified_description": "A 5-ounce serving of Gerard Bertrand wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1260,7 +1260,7 @@
       "price": 10.5,
       "description": "$5oz 10.50",
       "category": "DRINK",
-      "simplified_description": "A 5-ounce serving of La Linda wine.",
+      "simplified_description": "A 5-ounce serving of La Linda wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1269,7 +1269,7 @@
       "price": 10.5,
       "description": "$5oz 10.50",
       "category": "DRINK",
-      "simplified_description": "A 5-ounce serving of CVNE, Cune Crianza wine.",
+      "simplified_description": "A 5-ounce serving of CVNE, Cune Crianza wine",
       "dietary_info": [],
       "other_info": ""
     },
@@ -1278,7 +1278,7 @@
       "price": 12.0,
       "description": "$5oz 12.00",
       "category": "DRINK",
-      "simplified_description": "A 5-ounce serving of Barone Ricasoli wine.",
+      "simplified_description": "A 5-ounce serving of Barone Ricasoli wine",
       "dietary_info": [],
       "other_info": ""
     }

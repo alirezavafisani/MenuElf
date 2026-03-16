@@ -136,7 +136,7 @@
     {
       "name": "BRAISED MISO MUSHROOMS & SWEET POTATO HUMMUS",
       "price": 26,
-      "description": "DF, VEGAN\nrotating house miso, sweet potato hummus, thai basil emulsion, scallion flatbread, fresh radish, cucumber",
+      "description": "DF, VEGAN rotating house miso, sweet potato hummus, thai basil emulsion, scallion flatbread, fresh radish, cucumber",
       "simplified_description": "Mushrooms with sweet potato dip and flatbread",
       "category": "Large Plates",
       "dietary_info": [
@@ -157,7 +157,7 @@
     {
       "name": "BRAISED SHORT RIB & SWEET POTATO HUMMUS",
       "price": 32,
-      "description": "DF\nsweet potato hummus, thai basil emulsion, scallion flatbread, fresh radish, cucumber",
+      "description": "DF sweet potato hummus, thai basil emulsion, scallion flatbread, fresh radish, cucumber",
       "simplified_description": "Short rib with sweet potato dip and flatbread",
       "category": "Large Plates",
       "dietary_info": [
@@ -177,7 +177,7 @@
     {
       "name": "DUCK BREAST",
       "price": 38,
-      "description": "GA\nconfit leek rice, 63° egg, seasonal veg, chili crisp, thai basil emulsion, plum hoisin sauce",
+      "description": "GA confit leek rice, 63° egg, seasonal veg, chili crisp, thai basil emulsion, plum hoisin sauce",
       "simplified_description": "Duck breast with rice and seasonal vegetables",
       "category": "Large Plates",
       "dietary_info": [
@@ -197,7 +197,7 @@
     {
       "name": "10OZ SMOKED RIBEYE",
       "price": 62,
-      "description": "GA\nsmoked gouda pomme puree, pommes allumettes, seasonal vegetables, peppercorn jus",
+      "description": "GA smoked gouda pomme puree, pommes allumettes, seasonal vegetables, peppercorn jus",
       "simplified_description": "Smoked ribeye steak with mashed potatoes",
       "category": "Large Plates",
       "dietary_info": [
@@ -226,7 +226,7 @@
     {
       "name": "SEASONAL SORBET",
       "price": 13,
-      "description": "DF/VEGAN/NF\nThree scoops of seasonal and locally sourced fruit sorbet",
+      "description": "DF/VEGAN/NF Three scoops of seasonal and locally sourced fruit sorbet",
       "simplified_description": "Fruit sorbet made from seasonal fruits",
       "category": "Desserts",
       "dietary_info": [
@@ -257,7 +257,7 @@
     {
       "name": "WARM S’MORES CAKE",
       "price": 16,
-      "description": "GF,NF\nGraham crumb, smoked caramel, marshmallow ice cream",
+      "description": "GF,NF Graham crumb, smoked caramel, marshmallow ice cream",
       "simplified_description": "A cake with graham cracker and marshmallow ice cream",
       "category": "Desserts",
       "dietary_info": [
@@ -377,7 +377,7 @@
     {
       "name": "OYSTERS",
       "price": 2,
-      "description": "DF/GA\nper oyster, mignonette (changes weekly), black kale chimichurri",
+      "description": "DF/GA per oyster, mignonette (changes weekly), black kale chimichurri",
       "simplified_description": "Single oyster served with sauce",
       "category": "Snacks & Solo Plates",
       "dietary_info": [
@@ -398,7 +398,7 @@
     {
       "name": "WARM OLIVES",
       "price": 8,
-      "description": "GA/V\nmarinated in house, rotating variety and flavours",
+      "description": "GA/V marinated in house, rotating variety and flavours",
       "simplified_description": "A selection of warm olives with different flavors",
       "category": "Snacks & Solo Plates",
       "dietary_info": [
@@ -410,7 +410,7 @@
     {
       "name": "DEVILLED EGGS",
       "price": 2.5,
-      "description": "GA\neach. weekly rotating flavour",
+      "description": "GA each. weekly rotating flavour",
       "simplified_description": "Deviled eggs with a changing flavor each week",
       "category": "Snacks & Solo Plates",
       "dietary_info": [
@@ -421,7 +421,7 @@
     {
       "name": "SMOKED POTATO WEDGES",
       "price": 8,
-      "description": "DF/GA/VEGAN\nketchup, truffle aioli",
+      "description": "DF/GA/VEGAN ketchup, truffle aioli",
       "simplified_description": "Potato wedges served with sauces",
       "category": "Snacks & Solo Plates",
       "dietary_info": [
@@ -434,7 +434,7 @@
     {
       "name": "DUCK WINGS",
       "price": 12,
-      "description": "DF/GA\norange caramel, scallion powder, kimchi ranch",
+      "description": "DF/GA orange caramel, scallion powder, kimchi ranch",
       "simplified_description": "Duck wings with a sweet sauce",
       "category": "Snacks & Solo Plates",
       "dietary_info": [
@@ -455,7 +455,7 @@
     {
       "name": "BEEF TARTARE",
       "price": 10,
-      "description": "DF/GA\nscallion flatbread, black kale chimichurri, pickled red onion, aioli",
+      "description": "DF/GA scallion flatbread, black kale chimichurri, pickled red onion, aioli",
       "simplified_description": "Raw beef served with flatbread and sauces",
       "category": "Snacks & Solo Plates",
       "dietary_info": [

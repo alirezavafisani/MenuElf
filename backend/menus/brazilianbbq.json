@@ -6,9 +6,9 @@
     {
       "name": "Caipirinha",
       "price": null,
-      "description": "The original Brazilian cocktail, famous for its kick and flavour. Just add ice, kick it up with a few slices of lime and it's ready to go.",
+      "description": "The original Brazilian cocktail, famous for its kick and flavour. Just add ice, kick it up with a few slices of lime and it's ready to go",
       "category": "DRINK",
-      "simplified_description": "Classic Brazilian lime and sugar cocktail with a strong kick.",
+      "simplified_description": "Classic Brazilian lime and sugar cocktail with a strong kick",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -21,7 +21,7 @@
       "price": 6.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Toasted bread topped with garlic and butter.",
+      "simplified_description": "Toasted bread topped with garlic and butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -33,7 +33,7 @@
       "price": 6.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Crispy fried pork belly snack.",
+      "simplified_description": "Crispy fried pork belly snack",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -46,7 +46,7 @@
       "price": 10.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Fried dough filled with shredded chicken.",
+      "simplified_description": "Fried dough filled with shredded chicken",
       "dietary_info": [
         "nut-free"
       ],
@@ -57,7 +57,7 @@
       "price": 10.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Salad with romaine, croutons, cheese, and Caesar dressing.",
+      "simplified_description": "Salad with romaine, croutons, cheese, and Caesar dressing",
       "dietary_info": [
         "nut-free"
       ],
@@ -68,7 +68,7 @@
       "price": 13.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Traditional Brazilian black bean stew with pork and beef.",
+      "simplified_description": "Traditional Brazilian black bean stew with pork and beef",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -81,7 +81,7 @@
       "price": 15.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Brazilian-style beef sandwich with toppings.",
+      "simplified_description": "Brazilian-style beef sandwich with toppings",
       "dietary_info": [
         "nut-free"
       ],
@@ -92,7 +92,7 @@
       "price": 15.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Brazilian-style vegetarian sandwich with toppings.",
+      "simplified_description": "Brazilian-style vegetarian sandwich with toppings",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -104,7 +104,7 @@
       "price": 15.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Brazilian-style chicken sandwich with toppings.",
+      "simplified_description": "Brazilian-style chicken sandwich with toppings",
       "dietary_info": [
         "nut-free"
       ],
@@ -115,7 +115,7 @@
       "price": 39.0,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Mixed grilled meats served together.",
+      "simplified_description": "Mixed grilled meats served together",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -128,7 +128,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Refreshing blueberry-flavored beverage.",
+      "simplified_description": "Refreshing blueberry-flavored beverage",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -141,7 +141,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Classic lemon-flavored refreshing drink.",
+      "simplified_description": "Classic lemon-flavored refreshing drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -155,7 +155,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Choice of Gaucho Lager or IPA beer.",
+      "simplified_description": "Choice of Gaucho Lager or IPA beer",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -168,7 +168,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "House red or white wine served in 6oz glass.",
+      "simplified_description": "House red or white wine served in 6oz glass",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -182,7 +182,7 @@
       "price": null,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Mixed highball cocktails with various spirits.",
+      "simplified_description": "Mixed highball cocktails with various spirits",
       "dietary_info": [
         "gluten-free",
         "dairy-free",

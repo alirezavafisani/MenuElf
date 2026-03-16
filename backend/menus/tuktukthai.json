@@ -125,7 +125,7 @@
       "price": 4.49,
       "description": "hand carved chicken breast grilled on a bamboo skewer brushed in savoury peanut sauce",
       "category": "APPETIZER",
-      "simplified_description": "hand carved chicken breast grilled on a bamboo skewer brushed in savoury peanut ",
+      "simplified_description": "hand carved chicken breast grilled on a bamboo skewer brushed in savoury peanut",
       "dietary_info": [],
       "other_info": ""
     },
@@ -161,7 +161,7 @@
       "price": 9.49,
       "description": "crispy battered with 3 sauces to choose from: crying cowboy, tamarind, or sweet chili",
       "category": "APPETIZER",
-      "simplified_description": "crispy battered with 3 sauces to choose from: crying cowboy, tamarind, or sweet ",
+      "simplified_description": "crispy battered with 3 sauces to choose from: crying cowboy, tamarind, or sweet",
       "dietary_info": [],
       "other_info": ""
     },
@@ -170,7 +170,7 @@
       "price": 5.95,
       "description": "chicken or prawn in chicken broth with tomato, mushroom, cilantro, green onion, lime juice, chili oil, kaffir lime leaf, galangal root & lemongrass – vegetarian option- made with vegetable broth and tofu",
       "category": "SOUP",
-      "simplified_description": "chicken or prawn in chicken broth with tomato, mushroom, cilantro, green onion, ",
+      "simplified_description": "chicken or prawn in chicken broth with tomato, mushroom, cilantro, green onion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -238,7 +238,7 @@
       "other_info": ""
     },
     {
-      "name": "Swimming Rama*",
+      "name": "Swimming Rama",
       "price": null,
       "description": "chicken or tofu in a peanut sauce served over fresh spinach",
       "category": "FOOD",
@@ -247,7 +247,7 @@
       "other_info": ""
     },
     {
-      "name": "Masman Curry*",
+      "name": "Masman Curry",
       "price": null,
       "description": "chicken or beef, red potatoes & onions in masman curry topped with pickled radish",
       "category": "FOOD",
@@ -256,7 +256,7 @@
       "other_info": ""
     },
     {
-      "name": "Veggie Stir Fry*",
+      "name": "Veggie Stir Fry",
       "price": null,
       "description": "green beans, broccoli, carrot, cauliflower, baby corn with garlic oyster sauce or peanut sauce",
       "category": "FOOD",
@@ -265,25 +265,25 @@
       "other_info": ""
     },
     {
-      "name": "Red Curry*",
+      "name": "Red Curry",
       "price": null,
       "description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai red curry",
       "category": "FOOD",
-      "simplified_description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai ",
+      "simplified_description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "Green Curry*",
+      "name": "Green Curry",
       "price": null,
       "description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai green curry",
       "category": "FOOD",
-      "simplified_description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai ",
+      "simplified_description": "chicken or tofu, broccoli, baby corn, bamboo shoot, carrot, cauliflower in Thai",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "Tamarind Chicken*",
+      "name": "Tamarind Chicken",
       "price": null,
       "description": "crispy chicken, green & sweet onion, green bean & carrot in tamarind sauce topped with crispy onion",
       "category": "FOOD",
@@ -292,7 +292,7 @@
       "other_info": ""
     },
     {
-      "name": "Cashew Chicken*",
+      "name": "Cashew Chicken",
       "price": null,
       "description": "crispy chicken, basa or tofu, green & sweet onion, green beans, carrots with sweet & sour chili sauce topped with cashew nuts",
       "category": "FOOD",
@@ -301,16 +301,16 @@
       "other_info": ""
     },
     {
-      "name": "Crying Tiger*",
+      "name": "Crying Tiger",
       "price": null,
       "description": "beef with cilantro, green onion, romaine lettuce, carrot, chili lime dressing & crispy rice crumbs",
       "category": "FOOD",
-      "simplified_description": "beef with cilantro, green onion, romaine lettuce, carrot, chili lime dressing & ",
+      "simplified_description": "beef with cilantro, green onion, romaine lettuce, carrot, chili lime dressing &",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "The Devil*",
+      "name": "The Devil",
       "price": null,
       "description": "chicken or tofu in an extra spicy curry, lemongrass & turmeric sauce, seasoned with lime leaf & chili",
       "category": "FOOD",
@@ -319,7 +319,7 @@
       "other_info": ""
     },
     {
-      "name": "The Flames*",
+      "name": "The Flames",
       "price": null,
       "description": "beef or chicken stir-fried with green bean, broccoli, carrot, cauliflower, basil & onion in a garlic, chili & oyster sauce",
       "category": "FOOD",
@@ -337,11 +337,11 @@
       "other_info": ""
     },
     {
-      "name": "The Drunken*",
+      "name": "The Drunken",
       "price": null,
       "description": "crispy fried fish fillet stir-fried with sweet onion, green onion, green bean & carrot in a Thai-style sweet smoky chili paste",
       "category": "FOOD",
-      "simplified_description": "crispy fried fish fillet stir-fried with sweet onion, green onion, green bean & ",
+      "simplified_description": "crispy fried fish fillet stir-fried with sweet onion, green onion, green bean &",
       "dietary_info": [],
       "other_info": ""
     }

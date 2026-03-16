@@ -6,9 +6,9 @@
     {
       "name": "Tikka Platter",
       "price": 19.99,
-      "description": "Kabob Platters - Tender lamb chunks on a bed of seasoned rice, accompanied by roasted potatoes, fresh salad, and creamy hummus.",
+      "description": "Kabob Platters - Tender lamb chunks on a bed of seasoned rice, accompanied by roasted potatoes, fresh salad, and creamy hummus",
       "category": "FOOD",
-      "simplified_description": "Tender lamb with rice, potatoes, salad, and hummus.",
+      "simplified_description": "Tender lamb with rice, potatoes, salad, and hummus",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -18,9 +18,9 @@
     {
       "name": "10 Mixed Kabob Platter",
       "price": 19.99,
-      "description": "Kabob Platters - A combination of grilled minced meat, marinated chicken chunks, served with seasoned rice, hummus, pickled vegetables, fresh tomato slices, and...",
+      "description": "Kabob Platters - A combination of grilled minced meat, marinated chicken chunks, served with seasoned rice, hummus, pickled vegetables, fresh tomato slices, and",
       "category": "FOOD",
-      "simplified_description": "Mixed grilled meats with rice, hummus, and vegetables.",
+      "simplified_description": "Mixed grilled meats with rice, hummus, and vegetables",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -30,9 +30,9 @@
     {
       "name": "11 Lamb Shank Platter",
       "price": 19.99,
-      "description": "Kabob Platters - Tender lamb shank with fragrant rice, garnished with raisins, and served with fresh tomato and lettuce.",
+      "description": "Kabob Platters - Tender lamb shank with fragrant rice, garnished with raisins, and served with fresh tomato and lettuce",
       "category": "FOOD",
-      "simplified_description": "Tender lamb shank with rice, raisins, tomato, and lettuce.",
+      "simplified_description": "Tender lamb shank with rice, raisins, tomato, and lettuce",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -42,9 +42,9 @@
     {
       "name": "12 Falafel Platter",
       "price": 15.99,
-      "description": "Kabob Platters - Savory falafel served with seasoned rice, hummus, fresh tomato, lettuce, pickled vegetables, and crispy potatoes, drizzled with a tangy white sauce.",
+      "description": "Kabob Platters - Savory falafel served with seasoned rice, hummus, fresh tomato, lettuce, pickled vegetables, and crispy potatoes, drizzled with a tangy white sauce",
       "category": "FOOD",
-      "simplified_description": "Falafel with rice, hummus, vegetables, potatoes, and white sauce.",
+      "simplified_description": "Falafel with rice, hummus, vegetables, potatoes, and white sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -56,7 +56,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Chicken tikka kabob served with rice or salad.",
+      "simplified_description": "Chicken tikka kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -68,7 +68,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Chicken kofta kabob served with rice or salad.",
+      "simplified_description": "Chicken kofta kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -80,7 +80,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Chicken tandoori kabob served with rice or salad.",
+      "simplified_description": "Chicken tandoori kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -92,7 +92,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Creamy malai chicken tikka kabob served with rice or salad.",
+      "simplified_description": "Creamy malai chicken tikka kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -104,7 +104,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Grilled chicken wings kabob served with rice or salad.",
+      "simplified_description": "Grilled chicken wings kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -116,7 +116,7 @@
       "price": 17.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Beef tikka kabob served with rice or salad.",
+      "simplified_description": "Beef tikka kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -128,7 +128,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Beef kofta kabob served with rice or salad.",
+      "simplified_description": "Beef kofta kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -140,7 +140,7 @@
       "price": 17.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Lamb tikka kabob served with rice or salad.",
+      "simplified_description": "Lamb tikka kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -152,7 +152,7 @@
       "price": 17.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Mixed kabob served with rice or salad.",
+      "simplified_description": "Mixed kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -164,7 +164,7 @@
       "price": 15.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Fish tikka kabob served with rice or salad.",
+      "simplified_description": "Fish tikka kabob served with rice or salad",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -176,7 +176,7 @@
       "price": 13.99,
       "description": "Kabob with Rice or Salad",
       "category": "FOOD",
-      "simplified_description": "Falafel kabob served with rice or salad.",
+      "simplified_description": "Falafel kabob served with rice or salad",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -188,7 +188,7 @@
       "price": 16.99,
       "description": "Shawarma Menu",
       "category": "FOOD",
-      "simplified_description": "Platter with seasoned chicken shawarma and sides.",
+      "simplified_description": "Platter with seasoned chicken shawarma and sides",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -201,7 +201,7 @@
       "price": 16.99,
       "description": "Shawarma Menu",
       "category": "FOOD",
-      "simplified_description": "Platter featuring spiced beef donair with sides.",
+      "simplified_description": "Platter featuring spiced beef donair with sides",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -214,7 +214,7 @@
       "price": 17.99,
       "description": "Shawarma Menu",
       "category": "FOOD",
-      "simplified_description": "Platter combining chicken shawarma and beef donair with sides.",
+      "simplified_description": "Platter combining chicken shawarma and beef donair with sides",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -227,7 +227,7 @@
       "price": 9.99,
       "description": "Shawarma Menu",
       "category": "FOOD",
-      "simplified_description": "Wrap filled with seasoned chicken shawarma.",
+      "simplified_description": "Wrap filled with seasoned chicken shawarma",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -240,7 +240,7 @@
       "price": 9.99,
       "description": "Shawarma Menu",
       "category": "FOOD",
-      "simplified_description": "Wrap filled with spiced beef donair.",
+      "simplified_description": "Wrap filled with spiced beef donair",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -253,7 +253,7 @@
       "price": 10.99,
       "description": "Shawarma Menu",
       "category": "FOOD",
-      "simplified_description": "Wrap combining chicken shawarma and beef donair.",
+      "simplified_description": "Wrap combining chicken shawarma and beef donair",
       "dietary_info": [
         "halal",
         "dairy-free",
@@ -266,7 +266,7 @@
       "price": 10.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with marinated grilled chicken tikka.",
+      "simplified_description": "Wrap with marinated grilled chicken tikka",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -278,7 +278,7 @@
       "price": 10.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with spiced ground chicken kofta.",
+      "simplified_description": "Wrap with spiced ground chicken kofta",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -290,7 +290,7 @@
       "price": 10.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with smoky marinated chicken tandoori.",
+      "simplified_description": "Wrap with smoky marinated chicken tandoori",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -302,7 +302,7 @@
       "price": 10.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with creamy malai marinated chicken.",
+      "simplified_description": "Wrap with creamy malai marinated chicken",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -314,7 +314,7 @@
       "price": 11.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with marinated grilled beef tikka.",
+      "simplified_description": "Wrap with marinated grilled beef tikka",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -326,7 +326,7 @@
       "price": 10.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with spiced ground beef kofta.",
+      "simplified_description": "Wrap with spiced ground beef kofta",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -338,7 +338,7 @@
       "price": 11.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap with marinated grilled lamb tikka.",
+      "simplified_description": "Wrap with marinated grilled lamb tikka",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -350,7 +350,7 @@
       "price": 9.99,
       "description": "Kabob Wraps",
       "category": "FOOD",
-      "simplified_description": "Wrap filled with fried chickpea falafel balls.",
+      "simplified_description": "Wrap filled with fried chickpea falafel balls",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -364,7 +364,7 @@
       "price": 13.99,
       "description": "Qorma",
       "category": "FOOD",
-      "simplified_description": "Slow-cooked spiced beef curry.",
+      "simplified_description": "Slow-cooked spiced beef curry",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -376,7 +376,7 @@
       "price": 11.99,
       "description": "Qorma",
       "category": "FOOD",
-      "simplified_description": "Chicken cooked in a rich, creamy Qorma sauce.",
+      "simplified_description": "Chicken cooked in a rich, creamy Qorma sauce",
       "dietary_info": [
         "halal"
       ],
@@ -387,7 +387,7 @@
       "price": 9.99,
       "description": "Qorma",
       "category": "FOOD",
-      "simplified_description": "Lentils cooked in a flavorful Qorma sauce.",
+      "simplified_description": "Lentils cooked in a flavorful Qorma sauce",
       "dietary_info": [
         "vegetarian",
         "halal",
@@ -399,9 +399,9 @@
     {
       "name": "58 - Kabob Family Platter (4-5) People",
       "price": 75.0,
-      "description": "Family Platter - (Plain rice), any one qorma, 6 skewers of any kabobs, salad, rice, fries or garlic potatoes, 2 pita bread, if kabuli pulao for an additional charge, chutney,",
+      "description": "Family Platter - (Plain rice), any one qorma, 6 skewers of any kabobs, salad, rice, fries or garlic potatoes, 2 pita bread, if kabuli pulao for an additional charge, chutney",
       "category": "FOOD",
-      "simplified_description": "Family platter with kabobs, qorma, rice, salad, and sides for 4-5 people.",
+      "simplified_description": "Family platter with kabobs, qorma, rice, salad, and sides for 4-5 people",
       "dietary_info": [
         "halal"
       ],
@@ -410,9 +410,9 @@
     {
       "name": "59- Kabob Family Platter (9-10) People",
       "price": 129.0,
-      "description": "Family Platter - (Plain rice) any 2 qorma, 12 skewers kabobs, salad, rice, fries or garlic potatoes, 5 pita bread, if kabuli pulao for an additional charge, chutney.",
+      "description": "Family Platter - (Plain rice) any 2 qorma, 12 skewers kabobs, salad, rice, fries or garlic potatoes, 5 pita bread, if kabuli pulao for an additional charge, chutney",
       "category": "FOOD",
-      "simplified_description": "Large family platter with kabobs, qorma, rice, salad, and sides for 9-10 people.",
+      "simplified_description": "Large family platter with kabobs, qorma, rice, salad, and sides for 9-10 people",
       "dietary_info": [
         "halal"
       ],
@@ -421,9 +421,9 @@
     {
       "name": "60 - Shawarma family platter (4-5) people",
       "price": 65.0,
-      "description": "Family Platter - (Plain rice), any one qorma, chicken shawarma or beef shawarma meat or mix shawarma meat, salad, rice fries or garlic potatoes, 2 pita bread, if kabuli pulao for an additional charge, chutney.",
+      "description": "Family Platter - (Plain rice), any one qorma, chicken shawarma or beef shawarma meat or mix shawarma meat, salad, rice fries or garlic potatoes, 2 pita bread, if kabuli pulao for an additional charge, chutney",
       "category": "FOOD",
-      "simplified_description": "Family platter with shawarma, qorma, rice, salad, and sides for 4-5 people.",
+      "simplified_description": "Family platter with shawarma, qorma, rice, salad, and sides for 4-5 people",
       "dietary_info": [
         "halal"
       ],
@@ -432,9 +432,9 @@
     {
       "name": "61 - Shawarma family platter (9-10) people",
       "price": 100.0,
-      "description": "Family Platter - (Plain rice), any two qorma, chicken shawarma or beef shawarma meat or mix shawarma meat, salad, rice fries or garlic potatoes, 5 pita bread, if kabuli pulao for an additional charge, chutney.",
+      "description": "Family Platter - (Plain rice), any two qorma, chicken shawarma or beef shawarma meat or mix shawarma meat, salad, rice fries or garlic potatoes, 5 pita bread, if kabuli pulao for an additional charge, chutney",
       "category": "FOOD",
-      "simplified_description": "Large family platter with shawarma, qorma, rice, salad, and sides for 9-10 people.",
+      "simplified_description": "Large family platter with shawarma, qorma, rice, salad, and sides for 9-10 people",
       "dietary_info": [
         "halal"
       ],
@@ -443,9 +443,9 @@
     {
       "name": "42 Mantu (10 Pieces)",
       "price": 13.49,
-      "description": "Side Orders - Steamed dumplings filled with spiced meat, served in a set of 10.",
+      "description": "Side Orders - Steamed dumplings filled with spiced meat, served in a set of 10",
       "category": "SIDE",
-      "simplified_description": "Ten steamed dumplings filled with spiced meat.",
+      "simplified_description": "Ten steamed dumplings filled with spiced meat",
       "dietary_info": [
         "halal"
       ],
@@ -454,9 +454,9 @@
     {
       "name": "43 Ashak (10 Pieces)",
       "price": 12.49,
-      "description": "Side Orders - Traditional Afghan dumplings served steamed. ",
+      "description": "Side Orders - Traditional Afghan dumplings served steamed",
       "category": "SIDE",
-      "simplified_description": "Ten traditional steamed Afghan dumplings.",
+      "simplified_description": "Ten traditional steamed Afghan dumplings",
       "dietary_info": [
         "vegetarian",
         "halal"
@@ -466,9 +466,9 @@
     {
       "name": "44 Hummus / Garlic Sauce",
       "price": 5.99,
-      "description": "Side Orders - Creamy dip made with chickpeas and garlic.",
+      "description": "Side Orders - Creamy dip made with chickpeas and garlic",
       "category": "SIDE",
-      "simplified_description": "Creamy chickpea and garlic dip.",
+      "simplified_description": "Creamy chickpea and garlic dip",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -481,9 +481,9 @@
     {
       "name": "45 Fries",
       "price": 6.49,
-      "description": "Side Orders - Crispy potato sticks served hot.",
+      "description": "Side Orders - Crispy potato sticks served hot",
       "category": "SIDE",
-      "simplified_description": "Hot, crispy fried potato sticks.",
+      "simplified_description": "Hot, crispy fried potato sticks",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -496,9 +496,9 @@
     {
       "name": "46 Garlic Potatoes",
       "price": 4.99,
-      "description": "Side Orders - Tender potatoes infused with garlic.",
+      "description": "Side Orders - Tender potatoes infused with garlic",
       "category": "SIDE",
-      "simplified_description": "Tender potatoes cooked with garlic flavor.",
+      "simplified_description": "Tender potatoes cooked with garlic flavor",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -511,9 +511,9 @@
     {
       "name": "47 Mixed Salad",
       "price": 5.99,
-      "description": "Side Orders - Fresh mix of greens.",
+      "description": "Side Orders - Fresh mix of greens",
       "category": "SIDE",
-      "simplified_description": "Fresh mixed green salad.",
+      "simplified_description": "Fresh mixed green salad",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -528,7 +528,7 @@
       "price": 7.99,
       "description": "Side Orders",
       "category": "SIDE",
-      "simplified_description": "Simple plain cooked rice.",
+      "simplified_description": "Simple plain cooked rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -541,9 +541,9 @@
     {
       "name": "49 Medium BBQ Platter",
       "price": 27.99,
-      "description": "Side Orders - Any 5 skewers kabob.",
+      "description": "Side Orders - Any 5 skewers kabob",
       "category": "SIDE",
-      "simplified_description": "Five skewers of your choice of kabob.",
+      "simplified_description": "Five skewers of your choice of kabob",
       "dietary_info": [
         "halal"
       ],
@@ -552,9 +552,9 @@
     {
       "name": "50 Large BBQ Platter",
       "price": 54.99,
-      "description": "Side Orders - Any 10 skewers kabob. ",
+      "description": "Side Orders - Any 10 skewers kabob",
       "category": "SIDE",
-      "simplified_description": "Ten skewers of your choice of kabob.",
+      "simplified_description": "Ten skewers of your choice of kabob",
       "dietary_info": [
         "halal"
       ],
@@ -563,9 +563,9 @@
     {
       "name": "51 Baklava (10 pcs)",
       "price": 1.0,
-      "description": "Side Orders - Sweet pastry layers filled with nuts.",
+      "description": "Side Orders - Sweet pastry layers filled with nuts",
       "category": "SIDE",
-      "simplified_description": "Sweet layered pastry filled with nuts.",
+      "simplified_description": "Sweet layered pastry filled with nuts",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -575,9 +575,9 @@
     {
       "name": "52 Falafel",
       "price": 0.99,
-      "description": "Side Orders - Crispy, flavorful chickpea patties.",
+      "description": "Side Orders - Crispy, flavorful chickpea patties",
       "category": "SIDE",
-      "simplified_description": "Crispy fried chickpea patties.",
+      "simplified_description": "Crispy fried chickpea patties",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -591,9 +591,9 @@
     {
       "name": "53 Kabuli Pulao",
       "price": 9.99,
-      "description": "Side Orders - Aromatic rice dish with a blend of spices and herbs.",
+      "description": "Side Orders - Aromatic rice dish with a blend of spices and herbs",
       "category": "SIDE",
-      "simplified_description": "Spiced aromatic rice with herbs.",
+      "simplified_description": "Spiced aromatic rice with herbs",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -606,9 +606,9 @@
     {
       "name": "54 Firnee",
       "price": 3.99,
-      "description": "Side Orders - Traditional Middle Eastern-style rice pudding.",
+      "description": "Side Orders - Traditional Middle Eastern-style rice pudding",
       "category": "SIDE",
-      "simplified_description": "Creamy Middle Eastern rice pudding dessert.",
+      "simplified_description": "Creamy Middle Eastern rice pudding dessert",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -618,9 +618,9 @@
     {
       "name": "55 Extra Skewer",
       "price": 6.99,
-      "description": "Side Orders - Additional serving of skewered meat. ",
+      "description": "Side Orders - Additional serving of skewered meat",
       "category": "SIDE",
-      "simplified_description": "Extra portion of grilled skewered meat.",
+      "simplified_description": "Extra portion of grilled skewered meat",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -634,7 +634,7 @@
       "price": 3.49,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Non-alcoholic malt beverage.",
+      "simplified_description": "Non-alcoholic malt beverage",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -648,7 +648,7 @@
       "price": 3.49,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Flavored Mexican soda drink.",
+      "simplified_description": "Flavored Mexican soda drink",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -660,9 +660,9 @@
     {
       "name": "Ayran",
       "price": 3.49,
-      "description": "Drinks - A refreshing yogurt-based drink. ",
+      "description": "Drinks - A refreshing yogurt-based drink",
       "category": "DRINK",
-      "simplified_description": "Refreshing yogurt-based savory drink.",
+      "simplified_description": "Refreshing yogurt-based savory drink",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -675,7 +675,7 @@
       "price": 3.49,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Fresh fruit juice drink.",
+      "simplified_description": "Fresh fruit juice drink",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -689,7 +689,7 @@
       "price": 1.99,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Carbonated soft drink in a can.",
+      "simplified_description": "Carbonated soft drink in a can",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -701,9 +701,9 @@
     {
       "name": "Water",
       "price": 1.99,
-      "description": "Drinks - Refreshing and hydrating.",
+      "description": "Drinks - Refreshing and hydrating",
       "category": "DRINK",
-      "simplified_description": "Plain refreshing water.",
+      "simplified_description": "Plain refreshing water",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -720,7 +720,7 @@
       "price": 5.99,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Sweet almond-flavored milk drink.",
+      "simplified_description": "Sweet almond-flavored milk drink",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -732,7 +732,7 @@
       "price": 4.49,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Creamy mango fruit shake.",
+      "simplified_description": "Creamy mango fruit shake",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -744,7 +744,7 @@
       "price": 4.49,
       "description": "Drinks",
       "category": "DRINK",
-      "simplified_description": "Sweet mango yogurt drink.",
+      "simplified_description": "Sweet mango yogurt drink",
       "dietary_info": [
         "vegetarian",
         "nut-free"

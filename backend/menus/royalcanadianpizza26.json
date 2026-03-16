@@ -51,9 +51,9 @@
     {
       "name": "Veggie Pizza",
       "price": 13.99,
-      "description": "Onion, Mushroom, Green Pepper, Tomato & Mozzarella ",
+      "description": "Onion, Mushroom, Green Pepper, Tomato & Mozzarella",
       "category": "FOOD",
-      "simplified_description": "Onion, Mushroom, Green Pepper, Tomato & Mozzarella ",
+      "simplified_description": "Onion, Mushroom, Green Pepper, Tomato & Mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
@@ -177,9 +177,9 @@
     {
       "name": "Samosa",
       "price": 2.5,
-      "description": "Chicken, Veggie or Beef\nOut Of Stock",
+      "description": "Chicken, Veggie or Beef Out Of Stock",
       "category": "SIDE",
-      "simplified_description": "Chicken, Veggie or Beef\nOut Of Stock",
+      "simplified_description": "Chicken, Veggie or Beef Out Of Stock",
       "dietary_info": [],
       "other_info": ""
     },

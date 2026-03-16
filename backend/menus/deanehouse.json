@@ -8,7 +8,7 @@
       "price": 26.0,
       "description": "Finnish pancakes, two eggs any style, bacon, pork sausage, potato rösti",
       "category": "FOOD",
-      "simplified_description": "Pancakes served with eggs, bacon, sausage, and potato rösti.",
+      "simplified_description": "Pancakes served with eggs, bacon, sausage, and potato rösti",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 28.0,
       "description": "BC side stripe shrimp, chive, frisée",
       "category": "FOOD",
-      "simplified_description": "Omelette with shrimp, chives, and frisée greens.",
+      "simplified_description": "Omelette with shrimp, chives, and frisée greens",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -30,7 +30,7 @@
       "price": 30.0,
       "description": "two eggs any style, grilled sourdough, potato rösti, béarnaise",
       "category": "FOOD",
-      "simplified_description": "Steak with eggs, grilled sourdough, potato rösti, and béarnaise sauce.",
+      "simplified_description": "Steak with eggs, grilled sourdough, potato rösti, and béarnaise sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -39,7 +39,7 @@
       "price": 36.0,
       "description": "two soft poached eggs, English muffin, brown butter hollandaise, potato rösti, greens",
       "category": "FOOD",
-      "simplified_description": "Poached eggs on English muffin with hollandaise, potato rösti, and greens.",
+      "simplified_description": "Poached eggs on English muffin with hollandaise, potato rösti, and greens",
       "dietary_info": [
         "nut-free"
       ],
@@ -50,7 +50,7 @@
       "price": 7.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "House-made pork sausage.",
+      "simplified_description": "House-made pork sausage",
       "dietary_info": [],
       "other_info": ""
     },
@@ -59,7 +59,7 @@
       "price": 7.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Bacon from Broek Farms.",
+      "simplified_description": "Bacon from Broek Farms",
       "dietary_info": [],
       "other_info": ""
     },
@@ -68,7 +68,7 @@
       "price": 6.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Crispy shredded potato cake.",
+      "simplified_description": "Crispy shredded potato cake",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -81,7 +81,7 @@
       "price": 4.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Toasted Red Fife sourdough bread.",
+      "simplified_description": "Toasted Red Fife sourdough bread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -93,7 +93,7 @@
       "price": 3.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "One egg cooked any style.",
+      "simplified_description": "One egg cooked any style",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -105,7 +105,7 @@
       "price": 4.0,
       "description": "shallot mignonette, fermented hot sauce",
       "category": "APPETIZER",
-      "simplified_description": "Fresh oysters with shallot mignonette and hot sauce.",
+      "simplified_description": "Fresh oysters with shallot mignonette and hot sauce",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -118,7 +118,7 @@
       "price": 19.0,
       "description": "Poplar Bluff kale, Brussel sprouts, Broek Acres lardons, Sylvan Star gouda, anchovy, sourdough croutons",
       "category": "FOOD",
-      "simplified_description": "Caesar salad with kale, sprouts, bacon, cheese, anchovy, and croutons.",
+      "simplified_description": "Caesar salad with kale, sprouts, bacon, cheese, anchovy, and croutons",
       "dietary_info": [],
       "other_info": ""
     },
@@ -127,7 +127,7 @@
       "price": 21.0,
       "description": "Poplar Bluff hasselback potatoes, crème fraîche, trout roe, dill",
       "category": "FOOD",
-      "simplified_description": "Smoked trout with hasselback potatoes, crème fraîche, roe, and dill.",
+      "simplified_description": "Smoked trout with hasselback potatoes, crème fraîche, roe, and dill",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -139,7 +139,7 @@
       "price": 17.0,
       "description": "sprouted lentil crackers, seasonal crudités",
       "category": "FOOD",
-      "simplified_description": "Red lentil hummus served with lentil crackers and fresh vegetables.",
+      "simplified_description": "Red lentil hummus served with lentil crackers and fresh vegetables",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -152,7 +152,7 @@
       "price": 17.0,
       "description": "maple chili glaze, toasted sesame",
       "category": "FOOD",
-      "simplified_description": "Beets glazed with maple chili and topped with toasted sesame seeds.",
+      "simplified_description": "Beets glazed with maple chili and topped with toasted sesame seeds",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -166,7 +166,7 @@
       "price": 22.0,
       "description": "Farming Worx duck confit with gravy, haskap berry compote",
       "category": "FOOD",
-      "simplified_description": "Acorn squash perogies with duck confit, gravy, and berry compote.",
+      "simplified_description": "Acorn squash perogies with duck confit, gravy, and berry compote",
       "dietary_info": [],
       "other_info": ""
     },
@@ -175,7 +175,7 @@
       "price": 28.0,
       "description": "Trafford Farms chestnut mushrooms, cheese curd ragoût, butterleaf, salad or fries",
       "category": "FOOD",
-      "simplified_description": "Beef burger with mushrooms, cheese curd sauce, greens, and choice of salad or fries.",
+      "simplified_description": "Beef burger with mushrooms, cheese curd sauce, greens, and choice of salad or fries",
       "dietary_info": [],
       "other_info": ""
     },
@@ -184,7 +184,7 @@
       "price": 15.0,
       "description": "chocolate cremeux, cocoa spongecake",
       "category": "DESSERT",
-      "simplified_description": "Rich chocolate cake with creamy chocolate filling.",
+      "simplified_description": "Rich chocolate cake with creamy chocolate filling",
       "dietary_info": [
         "vegetarian"
       ],
@@ -195,7 +195,7 @@
       "price": 15.0,
       "description": "rhubarb compote, soft whipped cream",
       "category": "DESSERT",
-      "simplified_description": "Creamy rice pudding topped with rhubarb compote and whipped cream.",
+      "simplified_description": "Creamy rice pudding topped with rhubarb compote and whipped cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -207,7 +207,7 @@
       "price": 14.0,
       "description": "strawberry mousse, elderflower cordial",
       "category": "DESSERT",
-      "simplified_description": "Light strawberry mousse dessert with elderflower syrup.",
+      "simplified_description": "Light strawberry mousse dessert with elderflower syrup",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -219,7 +219,7 @@
       "price": 15.0,
       "description": "blueberry compote, buckwheat crumble",
       "category": "DESSERT",
-      "simplified_description": "Blueberry compote served with crunchy buckwheat crumble.",
+      "simplified_description": "Blueberry compote served with crunchy buckwheat crumble",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -231,7 +231,7 @@
       "price": 18.0,
       "description": "fermented pistachio & sesame chili crisp, kettle cooked chips",
       "category": "DESSERT",
-      "simplified_description": "Creamy labneh with spicy pistachio and sesame topping, served with chips.",
+      "simplified_description": "Creamy labneh with spicy pistachio and sesame topping, served with chips",
       "dietary_info": [
         "vegetarian",
         "gluten-free"

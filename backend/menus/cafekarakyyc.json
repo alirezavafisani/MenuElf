@@ -6,9 +6,9 @@
     {
       "name": "Tandoori Shakshuka",
       "price": 14.5,
-      "description": "Poached eggs nestled in a bold, tandoori-spiced tomato base. Smoky, spicy, and full of flavour.",
+      "description": "Poached eggs nestled in a bold, tandoori-spiced tomato base. Smoky, spicy, and full of flavour",
       "category": "FOOD",
-      "simplified_description": "Poached eggs in spicy tandoori tomato sauce.",
+      "simplified_description": "Poached eggs in spicy tandoori tomato sauce",
       "dietary_info": [
         "halal",
         "spicy"
@@ -18,9 +18,9 @@
     {
       "name": "Valeyti Naashta",
       "price": 18.5,
-      "description": "Crack it your way - eggs any style with chicken sausage, chicken bacon, hash potatoes, and toast. A proper desi take on the classic English breakfast.",
+      "description": "Crack it your way - eggs any style with chicken sausage, chicken bacon, hash potatoes, and toast. A proper desi take on the classic English breakfast",
       "category": "FOOD",
-      "simplified_description": "Eggs with chicken sausage, bacon, potatoes, and toast.",
+      "simplified_description": "Eggs with chicken sausage, bacon, potatoes, and toast",
       "dietary_info": [
         "halal"
       ],
@@ -29,9 +29,9 @@
     {
       "name": "Avocado Toast",
       "price": 14.0,
-      "description": "Creamy avocado with jalapeños and a touch of honey glaze over sourdough. Sweet heat on toast.",
+      "description": "Creamy avocado with jalapeños and a touch of honey glaze over sourdough. Sweet heat on toast",
       "category": "FOOD",
-      "simplified_description": "Avocado and jalapeños on sourdough toast with honey.",
+      "simplified_description": "Avocado and jalapeños on sourdough toast with honey",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -41,9 +41,9 @@
     {
       "name": "Breakfast Tacos",
       "price": 14.5,
-      "description": "Two tacos stuffed with a fluffy masala omelette, potato hash, and sautéed veggies. Portable desi flavour bombs.",
+      "description": "Two tacos stuffed with a fluffy masala omelette, potato hash, and sautéed veggies. Portable desi flavour bombs",
       "category": "FOOD",
-      "simplified_description": "Tacos filled with spiced omelette, potatoes, and veggies.",
+      "simplified_description": "Tacos filled with spiced omelette, potatoes, and veggies",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -54,9 +54,9 @@
     {
       "name": "Classic Breakfast Poutine",
       "price": 18.5,
-      "description": "Crispy potato wedges, fresh tomatoes, hollandaise sauce, and poached eggs. Simple and satisfying.",
+      "description": "Crispy potato wedges, fresh tomatoes, hollandaise sauce, and poached eggs. Simple and satisfying",
       "category": "FOOD",
-      "simplified_description": "Potato wedges with tomatoes, hollandaise, and poached eggs.",
+      "simplified_description": "Potato wedges with tomatoes, hollandaise, and poached eggs",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -66,9 +66,9 @@
     {
       "name": "Crispy Chick-In Poutine",
       "price": 19.5,
-      "description": "Golden chicken, sunny-side egg, and our secret house sauce served over spiced potato wedges. Crunchy meets creamy.",
+      "description": "Golden chicken, sunny-side egg, and our secret house sauce served over spiced potato wedges. Crunchy meets creamy",
       "category": "FOOD",
-      "simplified_description": "Chicken, egg, and sauce over spiced potato wedges.",
+      "simplified_description": "Chicken, egg, and sauce over spiced potato wedges",
       "dietary_info": [
         "halal"
       ],
@@ -77,27 +77,27 @@
     {
       "name": "Birria Nihari Poutine",
       "price": 22.5,
-      "description": "Slow-braised nihari birria, sunny-side egg, and seasoned wedges. The ultimate brunch-meets-desi fusion.",
+      "description": "Slow-braised nihari birria, sunny-side egg, and seasoned wedges. The ultimate brunch-meets-desi fusion",
       "category": "FOOD",
-      "simplified_description": "Braised birria, egg, and seasoned potato wedges.",
+      "simplified_description": "Braised birria, egg, and seasoned potato wedges",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Birria Nihari Benedict",
       "price": 22.5,
-      "description": "Poached eggs on a toasted English muffin, topped with slow-cooked birria nihari & hollandaise. Served with crispy hashed potatoes.",
+      "description": "Poached eggs on a toasted English muffin, topped with slow-cooked birria nihari & hollandaise. Served with crispy hashed potatoes",
       "category": "FOOD",
-      "simplified_description": "Poached eggs with birria and hollandaise on muffin.",
+      "simplified_description": "Poached eggs with birria and hollandaise on muffin",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Masala Waffle",
       "price": 14.5,
-      "description": "Waffle meets pakora - spiced and crispy, topped with our tangy mint chutney. Desi street vibes, café style.",
+      "description": "Waffle meets pakora - spiced and crispy, topped with our tangy mint chutney. Desi street vibes, café style",
       "category": "FOOD",
-      "simplified_description": "Spiced crispy waffle topped with tangy mint chutney.",
+      "simplified_description": "Spiced crispy waffle topped with tangy mint chutney",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -108,9 +108,9 @@
     {
       "name": "Paneer Bagel",
       "price": 16.5,
-      "description": "Toasted bagel stuffed with our signature spiced paneer mix. Served with a side of crispy potato wedges.",
+      "description": "Toasted bagel stuffed with our signature spiced paneer mix. Served with a side of crispy potato wedges",
       "category": "FOOD",
-      "simplified_description": "Bagel filled with spiced paneer and potato wedges.",
+      "simplified_description": "Bagel filled with spiced paneer and potato wedges",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -120,27 +120,27 @@
     {
       "name": "Smashed Lacha Burger (Beef or Aloo Tikki)",
       "price": 16.5,
-      "description": "Your choice of juicy smashed beef patty or crispy aloo tikki, layered with sauces and our signature lacha paratha bun.",
+      "description": "Your choice of juicy smashed beef patty or crispy aloo tikki, layered with sauces and our signature lacha paratha bun",
       "category": "FOOD",
-      "simplified_description": "Burger with beef or potato patty and lacha paratha bun.",
+      "simplified_description": "Burger with beef or potato patty and lacha paratha bun",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Keema Egg-Nest Paratha",
       "price": 19.5,
-      "description": "Golden paratha “nest” holding two eggs, finished with a generous topping of our spiced keema.",
+      "description": "Golden paratha “nest” holding two eggs, finished with a generous topping of our spiced keema",
       "category": "FOOD",
-      "simplified_description": "Paratha with two eggs and spiced keema topping.",
+      "simplified_description": "Paratha with two eggs and spiced keema topping",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Rose Milk Pancakes",
       "price": 19.5,
-      "description": "Fluffy rose milk pancakes topped with floral syrup and crushed rose petals. Pretty, pink, and dreamy.",
+      "description": "Fluffy rose milk pancakes topped with floral syrup and crushed rose petals. Pretty, pink, and dreamy",
       "category": "DESSERT",
-      "simplified_description": "Fluffy pancakes with rose syrup and rose petals.",
+      "simplified_description": "Fluffy pancakes with rose syrup and rose petals",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -150,9 +150,9 @@
     {
       "name": "Pista Pancakes",
       "price": 20.5,
-      "description": "Pillowy pancakes layered with pistachio cream, chopped nuts, and a touch of cardamom. Nutty & nostalgic.",
+      "description": "Pillowy pancakes layered with pistachio cream, chopped nuts, and a touch of cardamom. Nutty & nostalgic",
       "category": "DESSERT",
-      "simplified_description": "Pancakes with pistachio cream and chopped nuts.",
+      "simplified_description": "Pancakes with pistachio cream and chopped nuts",
       "dietary_info": [
         "vegetarian"
       ],
@@ -161,9 +161,9 @@
     {
       "name": "Cocoa Pancakes",
       "price": 18.5,
-      "description": "Decadent cocoa pancakes drizzled with rich chocolate. A chocolate lover's dream.",
+      "description": "Decadent cocoa pancakes drizzled with rich chocolate. A chocolate lover's dream",
       "category": "DESSERT",
-      "simplified_description": "Rich cocoa pancakes drizzled with chocolate sauce.",
+      "simplified_description": "Rich cocoa pancakes drizzled with chocolate sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -173,9 +173,9 @@
     {
       "name": "Karak Chai Toast Drip",
       "price": 18.5,
-      "description": "French toast soaked in our signature Karak chai and drizzled with chai. Soft, spiced, and golden.",
+      "description": "French toast soaked in our signature Karak chai and drizzled with chai. Soft, spiced, and golden",
       "category": "DESSERT",
-      "simplified_description": "French toast soaked in spiced Karak chai and drizzled with chai syrup.",
+      "simplified_description": "French toast soaked in spiced Karak chai and drizzled with chai syrup",
       "dietary_info": [
         "vegetarian"
       ],
@@ -184,9 +184,9 @@
     {
       "name": "Kunafa Crush",
       "price": 21.0,
-      "description": "Crispy kunafa-coated French toast layered with pistachio and chocolate sauce, topped with ice cream. Dessert for breakfast? Always.",
+      "description": "Crispy kunafa-coated French toast layered with pistachio and chocolate sauce, topped with ice cream. Dessert for breakfast? Always",
       "category": "DESSERT",
-      "simplified_description": "French toast with crispy kunafa, pistachio, chocolate sauce, and ice cream.",
+      "simplified_description": "French toast with crispy kunafa, pistachio, chocolate sauce, and ice cream",
       "dietary_info": [
         "vegetarian"
       ],
@@ -195,9 +195,9 @@
     {
       "name": "Lotus Drip",
       "price": 19.5,
-      "description": "Waffle topped with Lotus crumble, ice cream, and a waffle cone. It's sweet, messy, and totally worth it.",
+      "description": "Waffle topped with Lotus crumble, ice cream, and a waffle cone. It's sweet, messy, and totally worth it",
       "category": "DESSERT",
-      "simplified_description": "Waffle topped with Lotus crumble, ice cream, and a waffle cone.",
+      "simplified_description": "Waffle topped with Lotus crumble, ice cream, and a waffle cone",
       "dietary_info": [
         "vegetarian"
       ],
@@ -206,9 +206,9 @@
     {
       "name": "Gingerbread Cloud Pancakes",
       "price": 19.5,
-      "description": "Classic gingerbread flavours folded into a soft pancake stack, finished with a spiced syrup.",
+      "description": "Classic gingerbread flavours folded into a soft pancake stack, finished with a spiced syrup",
       "category": "DESSERT",
-      "simplified_description": "Soft pancakes with gingerbread flavors and spiced syrup.",
+      "simplified_description": "Soft pancakes with gingerbread flavors and spiced syrup",
       "dietary_info": [
         "vegetarian"
       ],

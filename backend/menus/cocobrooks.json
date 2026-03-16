@@ -8,7 +8,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, lean ground beef, sun ripened tomato sauce, sweet pineapple chunks, yellow onions",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with mozzarella, ground beef, tomato sauce, pineapple, and onions.",
+      "simplified_description": "Crisp crust pizza with mozzarella, ground beef, tomato sauce, pineapple, and onions",
       "dietary_info": [
         "dairy-free"
       ],
@@ -19,7 +19,7 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, sun ripened tomato sauce, dry cured pepperoni, sweet Italian sausage, black forest ham, lean ground beef",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with mozzarella, tomato sauce, pepperoni, sausage, ham, and ground beef.",
+      "simplified_description": "Crisp crust pizza with mozzarella, tomato sauce, pepperoni, sausage, ham, and ground beef",
       "dietary_info": [],
       "other_info": ""
     },
@@ -28,7 +28,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, dry cured pepperoni, sun ripened tomato sauce, green bell peppers, thick cut mushrooms",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with mozzarella, pepperoni, tomato sauce, bell peppers, and mushrooms.",
+      "simplified_description": "Crisp crust pizza with mozzarella, pepperoni, tomato sauce, bell peppers, and mushrooms",
       "dietary_info": [],
       "other_info": ""
     },
@@ -37,7 +37,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, scrambled eggs, 100% real mozzarella cheese, aged cheddar, smoked bacon, water, black pepper",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza topped with scrambled eggs, mozzarella, cheddar, and smoked bacon.",
+      "simplified_description": "Crisp crust pizza topped with scrambled eggs, mozzarella, cheddar, and smoked bacon",
       "dietary_info": [],
       "other_info": ""
     },
@@ -46,7 +46,7 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, lean ground beef, 100% real mozzarella cheese, tangy feta, sun ripened tomato sauce, diced tomatoes, yellow onions, black olives, oregano",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with ground beef, mozzarella, feta, tomato sauce, olives, and onions.",
+      "simplified_description": "Crisp crust pizza with ground beef, mozzarella, feta, tomato sauce, olives, and onions",
       "dietary_info": [],
       "other_info": ""
     },
@@ -55,7 +55,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, sweet Italian sausage, sun ripened tomato sauce, green bell peppers, thick cut mushrooms, oregano",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with mozzarella, Italian sausage, tomato sauce, bell peppers, and mushrooms.",
+      "simplified_description": "Crisp crust pizza with mozzarella, Italian sausage, tomato sauce, bell peppers, and mushrooms",
       "dietary_info": [],
       "other_info": ""
     },
@@ -64,7 +64,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, spicy chunky salsa , lean ground beef, aged cheddar, jalapeno slices",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with mozzarella, spicy salsa, ground beef, cheddar, and jalapenos.",
+      "simplified_description": "Crisp crust pizza with mozzarella, spicy salsa, ground beef, cheddar, and jalapenos",
       "dietary_info": [
         "spicy"
       ],
@@ -73,9 +73,9 @@
     {
       "name": "Mile High",
       "price": 11.25,
-      "description": "Our light and crisp original crust, 100% real mozzarella cheese, salami, thin sliced pepperoni, black forest ham, sun ripened tomato sauce,",
+      "description": "Our light and crisp original crust, 100% real mozzarella cheese, salami, thin sliced pepperoni, black forest ham, sun ripened tomato sauce",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with mozzarella, salami, pepperoni, ham, and tomato sauce.",
+      "simplified_description": "Crisp crust pizza with mozzarella, salami, pepperoni, ham, and tomato sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -84,7 +84,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, scrambled eggs, spicy chunky salsa , 100% real mozzarella cheese, aged cheddar, lean ground beef, jalapeno slices",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with scrambled eggs, spicy salsa, mozzarella, cheddar, beef, and jalapenos.",
+      "simplified_description": "Crisp crust pizza with scrambled eggs, spicy salsa, mozzarella, cheddar, beef, and jalapenos",
       "dietary_info": [
         "spicy"
       ],
@@ -95,16 +95,16 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, chicken breast strips in a hickory BBQ sauce, 100% real mozzarella cheese, red onions, cilantro",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with BBQ chicken, mozzarella, red onions, and cilantro.",
+      "simplified_description": "Crisp crust pizza with BBQ chicken, mozzarella, red onions, and cilantro",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Buffalo Ranch",
       "price": 11.25,
-      "description": "Our light and crisp original crust, chicken breast strips in our buffalo ranch sauce, 100% real mozzarella cheese,",
+      "description": "Our light and crisp original crust, chicken breast strips in our buffalo ranch sauce, 100% real mozzarella cheese",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with buffalo ranch chicken and mozzarella cheese.",
+      "simplified_description": "Crisp crust pizza with buffalo ranch chicken and mozzarella cheese",
       "dietary_info": [],
       "other_info": ""
     },
@@ -113,7 +113,7 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, spicy blend of hot sauce, parmesan and chicken breast strips, 100% real mozzarella cheese, hot sauce",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with spicy hot sauce, parmesan, chicken, and mozzarella.",
+      "simplified_description": "Crisp crust pizza with spicy hot sauce, parmesan, chicken, and mozzarella",
       "dietary_info": [
         "spicy"
       ],
@@ -124,7 +124,7 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, spicy blend of hot sauce, parmesan and chicken breast strips, 100% real mozzarella cheese, red bell peppers, chives, dried chilies",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with spicy hot sauce, parmesan, chicken, bell peppers, and chilies.",
+      "simplified_description": "Crisp crust pizza with spicy hot sauce, parmesan, chicken, bell peppers, and chilies",
       "dietary_info": [
         "spicy"
       ],
@@ -135,7 +135,7 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, chicken breast strips in a tangy ranch sauce, 100% real mozzarella cheese, red bell peppers, chives, black pepper",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with ranch chicken, mozzarella, bell peppers, and chives.",
+      "simplified_description": "Crisp crust pizza with ranch chicken, mozzarella, bell peppers, and chives",
       "dietary_info": [],
       "other_info": ""
     },
@@ -144,7 +144,7 @@
       "price": 11.25,
       "description": "Our light and crisp original crust, Chicken breast strips in santa fe sauce, 100% real mozzarella cheese, red bell peppers, aged cheddar, dried chilies",
       "category": "FOOD",
-      "simplified_description": "Crisp crust pizza with Santa Fe chicken, mozzarella, cheddar, bell peppers, and chilies.",
+      "simplified_description": "Crisp crust pizza with Santa Fe chicken, mozzarella, cheddar, bell peppers, and chilies",
       "dietary_info": [
         "spicy"
       ],
@@ -155,7 +155,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, sun ripened tomato sauce, sweet pineapple chunks, tangy feta, green bell peppers, red onions, oregano",
       "category": "FOOD",
-      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, pineapple, feta, and vegetables.",
+      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, pineapple, feta, and vegetables",
       "dietary_info": [
         "vegetarian"
       ],
@@ -164,9 +164,9 @@
     {
       "name": "New Orleans Veggie",
       "price": 11.0,
-      "description": "Our light and crisp original crust, 100% real mozzarella cheese, hot sauce, thick cut mushrooms, red bell peppers, green bell peppers, red onions,",
+      "description": "Our light and crisp original crust, 100% real mozzarella cheese, hot sauce, thick cut mushrooms, red bell peppers, green bell peppers, red onions",
       "category": "FOOD",
-      "simplified_description": "Crispy crust pizza with mozzarella, hot sauce, mushrooms, and bell peppers.",
+      "simplified_description": "Crispy crust pizza with mozzarella, hot sauce, mushrooms, and bell peppers",
       "dietary_info": [
         "vegetarian",
         "spicy"
@@ -178,7 +178,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, sun ripened tomato sauce, tangy feta, spinach, diced tomatoes, red onions, black olives, oregano, granulated garlic",
       "category": "FOOD",
-      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, feta, spinach, and olives.",
+      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, feta, spinach, and olives",
       "dietary_info": [
         "vegetarian"
       ],
@@ -189,7 +189,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, black forest ham, sweet pineapple chunks, sun ripened tomato sauce, smoked bacon",
       "category": "FOOD",
-      "simplified_description": "Crispy crust pizza with mozzarella, ham, pineapple, tomato sauce, and bacon.",
+      "simplified_description": "Crispy crust pizza with mozzarella, ham, pineapple, tomato sauce, and bacon",
       "dietary_info": [],
       "other_info": ""
     },
@@ -198,7 +198,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, dry cured pepperoni, sun ripened tomato sauce",
       "category": "FOOD",
-      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, and double pepperoni.",
+      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, and double pepperoni",
       "dietary_info": [],
       "other_info": ""
     },
@@ -207,7 +207,7 @@
       "price": 11.0,
       "description": "Our light and crisp original crust, 100% real mozzarella cheese, thick cut mushrooms, sun ripened tomato sauce, dry cured pepperoni",
       "category": "FOOD",
-      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, pepperoni, and mushrooms.",
+      "simplified_description": "Crispy crust pizza with mozzarella, tomato sauce, pepperoni, and mushrooms",
       "dietary_info": [],
       "other_info": ""
     }

@@ -8,7 +8,7 @@
       "price": 16.5,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Grilled beef served with vermicelli noodles.",
+      "simplified_description": "Grilled beef served with vermicelli noodles",
       "dietary_info": [],
       "other_info": ""
     },
@@ -17,7 +17,7 @@
       "price": 17.55,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles with lemongrass beef and spring rolls.",
+      "simplified_description": "Vermicelli noodles with lemongrass beef and spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -26,7 +26,7 @@
       "price": 17.55,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles with charbroiled beef and spring rolls.",
+      "simplified_description": "Vermicelli noodles with charbroiled beef and spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -35,7 +35,7 @@
       "price": 19.25,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with lemongrass beef, spring rolls, and grilled shrimp.",
+      "simplified_description": "Vermicelli with lemongrass beef, spring rolls, and grilled shrimp",
       "dietary_info": [],
       "other_info": ""
     },
@@ -44,7 +44,7 @@
       "price": 19.25,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled beef, spring rolls, and grilled shrimp.",
+      "simplified_description": "Vermicelli with charbroiled beef, spring rolls, and grilled shrimp",
       "dietary_info": [],
       "other_info": ""
     },
@@ -53,7 +53,7 @@
       "price": 19.25,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles with spring rolls and grilled shrimp.",
+      "simplified_description": "Vermicelli noodles with spring rolls and grilled shrimp",
       "dietary_info": [],
       "other_info": ""
     },
@@ -62,16 +62,16 @@
       "price": 18.15,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Grilled chicken served on steamed rice.",
+      "simplified_description": "Grilled chicken served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "84. Stir-Fried Satay Chicken or Beef on Steamed Rice",
       "price": 20.35,
-      "description": "Spicy.",
+      "description": "Spicy",
       "category": "FOOD",
-      "simplified_description": "Spicy stir-fried satay chicken or beef with steamed rice.",
+      "simplified_description": "Spicy stir-fried satay chicken or beef with steamed rice",
       "dietary_info": [
         "spicy"
       ],
@@ -82,16 +82,16 @@
       "price": 19.79,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Lemongrass chicken, beef, spring rolls, and vegetables with rice.",
+      "simplified_description": "Lemongrass chicken, beef, spring rolls, and vegetables with rice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "86. Lobster Seafood Pho Noodle Soup",
       "price": 27.45,
-      "description": "Spicy.",
+      "description": "Spicy",
       "category": "FOOD",
-      "simplified_description": "Spicy lobster seafood pho noodle soup.",
+      "simplified_description": "Spicy lobster seafood pho noodle soup",
       "dietary_info": [
         "spicy"
       ],
@@ -100,9 +100,9 @@
     {
       "name": "87. Pad Thai",
       "price": 19.79,
-      "description": "Shrimp, chicken, tofu bean sprouts, and eggs.",
+      "description": "Shrimp, chicken, tofu bean sprouts, and eggs",
       "category": "FOOD",
-      "simplified_description": "Pad Thai with shrimp, chicken, tofu, bean sprouts, and eggs.",
+      "simplified_description": "Pad Thai with shrimp, chicken, tofu, bean sprouts, and eggs",
       "dietary_info": [],
       "other_info": ""
     },
@@ -111,7 +111,7 @@
       "price": 19.79,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled beef, pork, spring rolls, and shrimp.",
+      "simplified_description": "Vermicelli with charbroiled beef, pork, spring rolls, and shrimp",
       "dietary_info": [],
       "other_info": ""
     },
@@ -120,7 +120,7 @@
       "price": 18.43,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled beef, chicken, shrimp, and spring rolls.",
+      "simplified_description": "Vermicelli with charbroiled beef, chicken, shrimp, and spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -129,7 +129,7 @@
       "price": 19.79,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with charbroiled pork, double shrimp, and spring rolls.",
+      "simplified_description": "Vermicelli with charbroiled pork, double shrimp, and spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -138,7 +138,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried chicken or beef with broccoli, celery, mushrooms, and rice.",
+      "simplified_description": "Stir-fried chicken or beef with broccoli, celery, mushrooms, and rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -147,7 +147,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried chicken or beef with cashew nuts and celery served on steamed rice.",
+      "simplified_description": "Stir-fried chicken or beef with cashew nuts and celery served on steamed rice",
       "dietary_info": [
         "nut-free"
       ],
@@ -158,7 +158,7 @@
       "price": 21.73,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles with grilled pork, shrimp, and spring rolls.",
+      "simplified_description": "Vermicelli noodles with grilled pork, shrimp, and spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -167,7 +167,7 @@
       "price": 21.73,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with lemongrass chicken, beef, shrimp, and spring rolls.",
+      "simplified_description": "Vermicelli with lemongrass chicken, beef, shrimp, and spring rolls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -176,7 +176,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Charbroiled beef, chicken, shrimp, and spring rolls served on steamed rice.",
+      "simplified_description": "Charbroiled beef, chicken, shrimp, and spring rolls served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -185,7 +185,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Lemongrass beef, chicken, shrimp, and spring rolls served on steamed rice.",
+      "simplified_description": "Lemongrass beef, chicken, shrimp, and spring rolls served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -194,25 +194,25 @@
       "price": 20.85,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried beef or chicken with vegetables and shrimp on steamed rice.",
+      "simplified_description": "Stir-fried beef or chicken with vegetables and shrimp on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "96. Vietnamese Crispy Crepe",
       "price": 17.88,
-      "description": "Vietnamese Crispy Crepe is served with shrimp, ground pork, mung beans, bean sprouts, lettuce, and house special sauce.",
+      "description": "Vietnamese Crispy Crepe is served with shrimp, ground pork, mung beans, bean sprouts, lettuce, and house special sauce",
       "category": "FOOD",
-      "simplified_description": "Crispy crepe with shrimp, pork, mung beans, sprouts, lettuce, and special sauce.",
+      "simplified_description": "Crispy crepe with shrimp, pork, mung beans, sprouts, lettuce, and special sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "97. Bun Bo Hue Hue-Style Noodle Soup",
       "price": 18.69,
-      "description": "Bun bo hue hue-style noodle soup is served with round noodles, beef shank, and pork balls.",
+      "description": "Bun bo hue hue-style noodle soup is served with round noodles, beef shank, and pork balls",
       "category": "FOOD",
-      "simplified_description": "Hue-style noodle soup with round noodles, beef shank, and pork balls.",
+      "simplified_description": "Hue-style noodle soup with round noodles, beef shank, and pork balls",
       "dietary_info": [],
       "other_info": ""
     },
@@ -221,7 +221,7 @@
       "price": 12.1,
       "description": "Spicy. 1 Foot Long Subs",
       "category": "FOOD",
-      "simplified_description": "Spicy chicken satay Vietnamese sub, 1 foot long.",
+      "simplified_description": "Spicy chicken satay Vietnamese sub, 1 foot long",
       "dietary_info": [
         "spicy"
       ],
@@ -232,7 +232,7 @@
       "price": 12.1,
       "description": "Spicy. 1 Foot Long Subs",
       "category": "FOOD",
-      "simplified_description": "Spicy beef satay Vietnamese sub, 1 foot long.",
+      "simplified_description": "Spicy beef satay Vietnamese sub, 1 foot long",
       "dietary_info": [
         "spicy"
       ],
@@ -243,7 +243,7 @@
       "price": 12.1,
       "description": "Spicy. 1 Foot Long Subs",
       "category": "FOOD",
-      "simplified_description": "Spicy BBQ pork Vietnamese sub, 1 foot long.",
+      "simplified_description": "Spicy BBQ pork Vietnamese sub, 1 foot long",
       "dietary_info": [
         "spicy"
       ],
@@ -254,7 +254,7 @@
       "price": 12.08,
       "description": "68A. Marinated Pork Patty ( New) - Banh Mi Nem Nuong",
       "category": "FOOD",
-      "simplified_description": "Vietnamese sub with marinated pork patty.",
+      "simplified_description": "Vietnamese sub with marinated pork patty",
       "dietary_info": [],
       "other_info": ""
     },
@@ -263,7 +263,7 @@
       "price": 11.55,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vegetarian Vietnamese sub with tofu.",
+      "simplified_description": "Vegetarian Vietnamese sub with tofu",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -275,7 +275,7 @@
       "price": 13.75,
       "description": "1 Foot Long Subs",
       "category": "FOOD",
-      "simplified_description": "Vietnamese sub with beef steak and eggs, 1 foot long.",
+      "simplified_description": "Vietnamese sub with beef steak and eggs, 1 foot long",
       "dietary_info": [],
       "other_info": ""
     },
@@ -284,7 +284,7 @@
       "price": 12.1,
       "description": "1 Foot Long Subs",
       "category": "FOOD",
-      "simplified_description": "Vietnamese cold cut sub, 1 foot long.",
+      "simplified_description": "Vietnamese cold cut sub, 1 foot long",
       "dietary_info": [],
       "other_info": ""
     },
@@ -293,7 +293,7 @@
       "price": 18.15,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Chicken cooked with lemongrass served on steamed rice.",
+      "simplified_description": "Chicken cooked with lemongrass served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -302,7 +302,7 @@
       "price": 18.15,
       "description": "Spicy.f",
       "category": "FOOD",
-      "simplified_description": "Spicy ginger chicken served on steamed rice.",
+      "simplified_description": "Spicy ginger chicken served on steamed rice",
       "dietary_info": [
         "spicy"
       ],
@@ -313,7 +313,7 @@
       "price": 18.65,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Choice of curry chicken or beef served on steamed rice.",
+      "simplified_description": "Choice of curry chicken or beef served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -322,7 +322,7 @@
       "price": 18.15,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Charbroiled pork chops served with steamed rice.",
+      "simplified_description": "Charbroiled pork chops served with steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -331,7 +331,7 @@
       "price": 18.15,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Charbroiled pork chop and fried eggs served on steamed rice.",
+      "simplified_description": "Charbroiled pork chop and fried eggs served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -340,7 +340,7 @@
       "price": 19.25,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Pork chop, fried egg, and grilled shrimp served on steamed rice.",
+      "simplified_description": "Pork chop, fried egg, and grilled shrimp served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -349,7 +349,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Special fried rice with mixed ingredients.",
+      "simplified_description": "Special fried rice with mixed ingredients",
       "dietary_info": [],
       "other_info": ""
     },
@@ -358,7 +358,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried chicken and vegetables served on steamed rice.",
+      "simplified_description": "Stir-fried chicken and vegetables served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -367,7 +367,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried beef and vegetables served on steamed rice.",
+      "simplified_description": "Stir-fried beef and vegetables served on steamed rice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -376,7 +376,7 @@
       "price": 13.48,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with mixed vegetables.",
+      "simplified_description": "Noodle soup with mixed vegetables",
       "dietary_info": [
         "vegan",
         "vegetarian",
@@ -388,9 +388,9 @@
     {
       "name": "14. Wor Wonton - Hoanh Thanh Sup Thap Cam",
       "price": 18.65,
-      "description": "Wonton, shrimp, chicken, and vegetables.",
+      "description": "Wonton, shrimp, chicken, and vegetables",
       "category": "FOOD",
-      "simplified_description": "Soup with wontons, shrimp, chicken, and vegetables.",
+      "simplified_description": "Soup with wontons, shrimp, chicken, and vegetables",
       "dietary_info": [],
       "other_info": ""
     },
@@ -399,7 +399,7 @@
       "price": 16.49,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Soup with wontons and choice of egg or rice noodles.",
+      "simplified_description": "Soup with wontons and choice of egg or rice noodles",
       "dietary_info": [],
       "other_info": ""
     },
@@ -408,7 +408,7 @@
       "price": 15.95,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with charbroiled chicken.",
+      "simplified_description": "Noodle soup with charbroiled chicken",
       "dietary_info": [],
       "other_info": ""
     },
@@ -417,7 +417,7 @@
       "price": 15.95,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Rice noodle soup with chicken.",
+      "simplified_description": "Rice noodle soup with chicken",
       "dietary_info": [],
       "other_info": ""
     },
@@ -426,7 +426,7 @@
       "price": 17.05,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Rice noodle soup with shrimp and chicken.",
+      "simplified_description": "Rice noodle soup with shrimp and chicken",
       "dietary_info": [],
       "other_info": ""
     },
@@ -435,7 +435,7 @@
       "price": 17.05,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Noodle soup with shrimp and pork.",
+      "simplified_description": "Noodle soup with shrimp and pork",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -449,7 +449,7 @@
       "price": 17.05,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Rice noodle soup with shrimp, crab stick, and pork.",
+      "simplified_description": "Rice noodle soup with shrimp, crab stick, and pork",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -463,7 +463,7 @@
       "price": 19.53,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Egg noodles stir-fried with beef.",
+      "simplified_description": "Egg noodles stir-fried with beef",
       "dietary_info": [
         "nut-free",
         "dairy-free",
@@ -476,7 +476,7 @@
       "price": 19.53,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Egg noodles stir-fried with chicken.",
+      "simplified_description": "Egg noodles stir-fried with chicken",
       "dietary_info": [
         "nut-free",
         "dairy-free",
@@ -489,7 +489,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Egg noodles stir-fried with shrimp and chicken.",
+      "simplified_description": "Egg noodles stir-fried with shrimp and chicken",
       "dietary_info": [
         "nut-free",
         "dairy-free",
@@ -502,7 +502,7 @@
       "price": 20.35,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Egg noodles stir-fried with shrimp and beef.",
+      "simplified_description": "Egg noodles stir-fried with shrimp and beef",
       "dietary_info": [
         "nut-free",
         "dairy-free",
@@ -515,7 +515,7 @@
       "price": 20.85,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Crispy egg noodles with stir-fried shrimp, chicken, and vegetables.",
+      "simplified_description": "Crispy egg noodles with stir-fried shrimp, chicken, and vegetables",
       "dietary_info": [
         "nut-free",
         "dairy-free",
@@ -528,7 +528,7 @@
       "price": 20.85,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Crispy egg noodles with stir-fried shrimp, beef, and vegetables.",
+      "simplified_description": "Crispy egg noodles with stir-fried shrimp, beef, and vegetables",
       "dietary_info": [
         "nut-free",
         "dairy-free",
@@ -541,7 +541,7 @@
       "price": 18.15,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Special vegetarian fried rice.",
+      "simplified_description": "Special vegetarian fried rice",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -552,9 +552,9 @@
     {
       "name": "99. Vegetarian Spring Rolls - Cha Gio Chay (4 pcs)",
       "price": 9.35,
-      "description": "One order comes with four rolls.",
+      "description": "One order comes with four rolls",
       "category": "FOOD",
-      "simplified_description": "Four vegetarian spring rolls per order.",
+      "simplified_description": "Four vegetarian spring rolls per order",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -565,9 +565,9 @@
     {
       "name": "100. Vegetarian Salad Rolls - Goi Cuoi Chay (2 pcs)",
       "price": 8.07,
-      "description": "One order comes with Two rolls.",
+      "description": "One order comes with Two rolls",
       "category": "FOOD",
-      "simplified_description": "Two fresh vegetarian salad rolls per order.",
+      "simplified_description": "Two fresh vegetarian salad rolls per order",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -580,7 +580,7 @@
       "price": 17.05,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Rice noodle soup with deep-fried tofu and vegetables.",
+      "simplified_description": "Rice noodle soup with deep-fried tofu and vegetables",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -594,7 +594,7 @@
       "price": 15.68,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli noodles served with vegetarian spring rolls.",
+      "simplified_description": "Vermicelli noodles served with vegetarian spring rolls",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -607,7 +607,7 @@
       "price": 16.45,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Vermicelli with satay sauce, deep-fried tofu, and veggie spring rolls.",
+      "simplified_description": "Vermicelli with satay sauce, deep-fried tofu, and veggie spring rolls",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -621,7 +621,7 @@
       "price": 18.66,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Steamed rice topped with stir-fried tofu and vegetables.",
+      "simplified_description": "Steamed rice topped with stir-fried tofu and vegetables",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -634,7 +634,7 @@
       "price": 19.75,
       "description": "",
       "category": "FOOD",
-      "simplified_description": "Stir-fried tofu and vegetables served on crispy or soft noodles.",
+      "simplified_description": "Stir-fried tofu and vegetables served on crispy or soft noodles",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -646,7 +646,7 @@
       "price": 6.55,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Refreshing lemonade drink with ice.",
+      "simplified_description": "Refreshing lemonade drink with ice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -660,7 +660,7 @@
       "price": 5.78,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Hot black Vietnamese coffee.",
+      "simplified_description": "Hot black Vietnamese coffee",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -674,7 +674,7 @@
       "price": 5.78,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Iced black Vietnamese coffee.",
+      "simplified_description": "Iced black Vietnamese coffee",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -688,7 +688,7 @@
       "price": 6.55,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Hot Vietnamese coffee with sweetened condensed milk.",
+      "simplified_description": "Hot Vietnamese coffee with sweetened condensed milk",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -700,7 +700,7 @@
       "price": 6.55,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Iced Vietnamese coffee with sweetened condensed milk.",
+      "simplified_description": "Iced Vietnamese coffee with sweetened condensed milk",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -712,7 +712,7 @@
       "price": 7.65,
       "description": "",
       "category": "DESSERT",
-      "simplified_description": "Deep-fried banana served with ice cream.",
+      "simplified_description": "Deep-fried banana served with ice cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -724,7 +724,7 @@
       "price": 4.68,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Fresh juice from young coconut.",
+      "simplified_description": "Fresh juice from young coconut",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -738,7 +738,7 @@
       "price": 2.75,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Carbonated soft drink (355 ml).",
+      "simplified_description": "Carbonated soft drink (355 ml)",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -752,7 +752,7 @@
       "price": 8.25,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Milkshake made with real fruit.",
+      "simplified_description": "Milkshake made with real fruit",
       "dietary_info": [
         "nut-free"
       ],
@@ -763,7 +763,7 @@
       "price": 3.03,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Hot jasmine tea.",
+      "simplified_description": "Hot jasmine tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -777,7 +777,7 @@
       "price": 8.25,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Bubble tea made with real fruit and tapioca pearls.",
+      "simplified_description": "Bubble tea made with real fruit and tapioca pearls",
       "dietary_info": [
         "nut-free"
       ],

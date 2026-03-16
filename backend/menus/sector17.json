@@ -24,9 +24,9 @@
     {
       "name": "Special Fries Chicken",
       "price": 13.49,
-      "description": "Special Fries Chicken\nPreparation Time : 15 Minutes",
+      "description": "Special Fries Chicken Preparation Time : 15 Minutes",
       "category": "APPETIZER",
-      "simplified_description": "Special Fries Chicken\nPreparation Time : 15 Minutes",
+      "simplified_description": "Special Fries Chicken Preparation Time : 15 Minutes",
       "dietary_info": [],
       "other_info": ""
     },
@@ -58,7 +58,7 @@
       "other_info": ""
     },
     {
-      "name": "Cheese corn roll ",
+      "name": "Cheese corn roll",
       "price": 1.25,
       "description": "",
       "category": "APPETIZER",
@@ -67,7 +67,7 @@
       "other_info": ""
     },
     {
-      "name": "veg bullets ",
+      "name": "veg bullets",
       "price": 3.99,
       "description": "",
       "category": "APPETIZER",
@@ -76,7 +76,7 @@
       "other_info": ""
     },
     {
-      "name": "Puff patties ",
+      "name": "Puff patties",
       "price": 2.99,
       "description": "",
       "category": "APPETIZER",
@@ -105,9 +105,9 @@
     {
       "name": "Cottage Cheese Burger",
       "price": 9.99,
-      "description": "Cottage Cheese Burger\nPreparation Time : 15 Minutes",
+      "description": "Cottage Cheese Burger Preparation Time : 15 Minutes",
       "category": "BURGER",
-      "simplified_description": "Cottage Cheese Burger\nPreparation Time : 15 Minutes",
+      "simplified_description": "Cottage Cheese Burger Preparation Time : 15 Minutes",
       "dietary_info": [],
       "other_info": ""
     },
@@ -211,7 +211,7 @@
       "other_info": ""
     },
     {
-      "name": "Water Bottle  ",
+      "name": "Water Bottle",
       "price": 1.99,
       "description": "",
       "category": "DRINK",
@@ -220,7 +220,7 @@
       "other_info": ""
     },
     {
-      "name": "Can  ",
+      "name": "Can",
       "price": 1.99,
       "description": "",
       "category": "DRINK",
@@ -238,7 +238,7 @@
       "other_info": ""
     },
     {
-      "name": "Limbuzz ",
+      "name": "Limbuzz",
       "price": 3.59,
       "description": "",
       "category": "DRINK",

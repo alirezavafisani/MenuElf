@@ -7,7 +7,7 @@
       "name": "STRAWBERRY OVERNIGHT OATS",
       "price": null,
       "description": "oats // coconut // chia // strawberry // Greek yogurt // vanilla // maple (GF)",
-      "simplified_description": "Overnight oats are a healthy breakfast option made by soaking oats in liquid overnight.",
+      "simplified_description": "Overnight oats are a healthy breakfast option made by soaking oats in liquid overnight",
       "category": "Breakfast",
       "dietary_info": [
         "gluten-free"
@@ -18,7 +18,7 @@
       "name": "OVERNIGHT OATS",
       "price": null,
       "description": "oats // banana // coconut // chia // dates // seasonal fruit (V)(GF)",
-      "simplified_description": "A similar dish to the strawberry version but with banana and other seasonal fruits.",
+      "simplified_description": "A similar dish to the strawberry version but with banana and other seasonal fruits",
       "category": "Breakfast",
       "dietary_info": [
         "vegan",
@@ -322,7 +322,7 @@
     {
       "name": "BUILD YOUR OWN",
       "price": null,
-      "description": "bases: choose up to 2: kale // romaine // spinach // spring mix // brown rice // quinoa // sushi rice\ningredients and toppings: choose up to 4 (additional)",
+      "description": "bases: choose up to 2: kale // romaine // spinach // spring mix // brown rice // quinoa // sushi rice ingredients and toppings: choose up to 4 (additional)",
       "simplified_description": "",
       "category": "Custom",
       "dietary_info": [],
@@ -483,7 +483,7 @@
     {
       "name": "JUICES",
       "price": null,
-      "description": "*Well Juice // *Stoked Juice",
+      "description": "Well Juice // *Stoked Juice",
       "simplified_description": "",
       "category": "Drinks",
       "dietary_info": [],
@@ -492,7 +492,7 @@
     {
       "name": "KOMBUCHA",
       "price": null,
-      "description": "*ask in store for flavors",
+      "description": "ask in store for flavors",
       "simplified_description": "",
       "category": "Drinks",
       "dietary_info": [],

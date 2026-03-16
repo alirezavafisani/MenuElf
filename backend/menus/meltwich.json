@@ -159,9 +159,9 @@
     {
       "name": "Standard Burger Combo",
       "price": 12.0,
-      "description": "Standard Burger Combo $12  Substitute dom. bottle or pint +$3.00",
+      "description": "Standard Burger Combo $12 Substitute dom. bottle or pint +$3.00",
       "category": "OTHER",
-      "simplified_description": "Standard Burger Combo $12  Substitute dom. bottle or pint +$3.00",
+      "simplified_description": "Standard Burger Combo $12 Substitute dom. bottle or pint +$3.00",
       "dietary_info": [],
       "other_info": ""
     },
@@ -222,9 +222,9 @@
     {
       "name": "Bottles of Sol or Heineken",
       "price": 5.25,
-      "description": "Bottles of Sol or Heineken $5.25 /  Mac Attack Melt $9",
+      "description": "Bottles of Sol or Heineken $5.25 / Mac Attack Melt $9",
       "category": "OTHER",
-      "simplified_description": "Bottles of Sol or Heineken $5.25 /  Mac Attack Melt $9",
+      "simplified_description": "Bottles of Sol or Heineken $5.25 / Mac Attack Melt $9",
       "dietary_info": [],
       "other_info": ""
     }

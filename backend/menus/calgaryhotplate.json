@@ -6,9 +6,9 @@
     {
       "name": "Haleem",
       "price": 12.99,
-      "description": "A savory blend of lentils, wheat, and spices, slow-cooked to perfection for a rich, hearty experience.",
+      "description": "A savory blend of lentils, wheat, and spices, slow-cooked to perfection for a rich, hearty experience",
       "category": "BREAKFAST",
-      "simplified_description": "Slow-cooked lentils and wheat with spices for a hearty dish.",
+      "simplified_description": "Slow-cooked lentils and wheat with spices for a hearty dish",
       "dietary_info": [
         "nut-free"
       ],
@@ -17,27 +17,27 @@
     {
       "name": "Mutton Paya",
       "price": 13.99,
-      "description": "Tender mutton simmered in a rich, flavorful broth, perfect for a hearty and satisfying meal.",
+      "description": "Tender mutton simmered in a rich, flavorful broth, perfect for a hearty and satisfying meal",
       "category": "BREAKFAST",
-      "simplified_description": "Tender mutton cooked in a rich broth for a hearty meal.",
+      "simplified_description": "Tender mutton cooked in a rich broth for a hearty meal",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Nihari",
       "price": 13.99,
-      "description": "A rich, slow-cooked stew with tender beef, aromatic spices, and a hint of warmth, perfect with rice or naan.",
+      "description": "A rich, slow-cooked stew with tender beef, aromatic spices, and a hint of warmth, perfect with rice or naan",
       "category": "BREAKFAST",
-      "simplified_description": "Slow-cooked beef stew with spices, served with rice or naan.",
+      "simplified_description": "Slow-cooked beef stew with spices, served with rice or naan",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Veg Samosa",
       "price": 1.5,
-      "description": "Crispy pastry filled with spiced potatoes and peas, perfect for a savory start to your meal.",
+      "description": "Crispy pastry filled with spiced potatoes and peas, perfect for a savory start to your meal",
       "category": "APPETIZER",
-      "simplified_description": "Crispy pastry filled with spiced potatoes and peas.",
+      "simplified_description": "Crispy pastry filled with spiced potatoes and peas",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -47,9 +47,9 @@
     {
       "name": "Fries",
       "price": 3.99,
-      "description": "Crispy golden fries, perfect as a starter or side, offering a satisfying crunch with every bite.",
+      "description": "Crispy golden fries, perfect as a starter or side, offering a satisfying crunch with every bite",
       "category": "SIDE",
-      "simplified_description": "Crispy golden fries, a perfect side or starter.",
+      "simplified_description": "Crispy golden fries, a perfect side or starter",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -61,9 +61,9 @@
     {
       "name": "Papdi Chat",
       "price": 6.99,
-      "description": "Crispy papdi topped with tangy chutneys, yogurt, and spices for a burst of flavors in every bite.",
+      "description": "Crispy papdi topped with tangy chutneys, yogurt, and spices for a burst of flavors in every bite",
       "category": "APPETIZER",
-      "simplified_description": "Crispy papdi with chutneys, yogurt, and spices.",
+      "simplified_description": "Crispy papdi with chutneys, yogurt, and spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -73,9 +73,9 @@
     {
       "name": "Veg Pakora",
       "price": 6.99,
-      "description": "Crispy vegetable fritters, seasoned with spices for a delightful start to your meal.",
+      "description": "Crispy vegetable fritters, seasoned with spices for a delightful start to your meal",
       "category": "APPETIZER",
-      "simplified_description": "Crispy spiced vegetable fritters.",
+      "simplified_description": "Crispy spiced vegetable fritters",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -85,9 +85,9 @@
     {
       "name": "Chana Chat",
       "price": 6.99,
-      "description": "Tangy and spicy chickpea salad with a burst of flavors from fresh herbs and spices.",
+      "description": "Tangy and spicy chickpea salad with a burst of flavors from fresh herbs and spices",
       "category": "APPETIZER",
-      "simplified_description": "Tangy and spicy chickpea salad with fresh herbs.",
+      "simplified_description": "Tangy and spicy chickpea salad with fresh herbs",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -100,9 +100,9 @@
     {
       "name": "Aloo Chat",
       "price": 6.99,
-      "description": "Tangy and spicy potato dish with a medley of flavors, perfect for a zesty start to your meal.",
+      "description": "Tangy and spicy potato dish with a medley of flavors, perfect for a zesty start to your meal",
       "category": "APPETIZER",
-      "simplified_description": "Tangy and spicy potato dish with mixed flavors.",
+      "simplified_description": "Tangy and spicy potato dish with mixed flavors",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -115,9 +115,9 @@
     {
       "name": "Veg Spring Roll (8 pcs)",
       "price": 6.99,
-      "description": "Crispy rolls filled with fresh veggies, perfect for a light and tasty start to your meal.",
+      "description": "Crispy rolls filled with fresh veggies, perfect for a light and tasty start to your meal",
       "category": "APPETIZER",
-      "simplified_description": "Crispy rolls filled with fresh vegetables.",
+      "simplified_description": "Crispy rolls filled with fresh vegetables",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -127,9 +127,9 @@
     {
       "name": "Dahi Bhalla",
       "price": 7.99,
-      "description": "Soft lentil dumplings in creamy yogurt, topped with tangy chutneys and spices for a refreshing starter.",
+      "description": "Soft lentil dumplings in creamy yogurt, topped with tangy chutneys and spices for a refreshing starter",
       "category": "APPETIZER",
-      "simplified_description": "Soft lentil dumplings in yogurt with chutneys and spices.",
+      "simplified_description": "Soft lentil dumplings in yogurt with chutneys and spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -139,9 +139,9 @@
     {
       "name": "Basmati Rice",
       "price": 6.99,
-      "description": "Aromatic long-grain rice.",
+      "description": "Aromatic long-grain rice",
       "category": "SIDE",
-      "simplified_description": "Aromatic long-grain basmati rice.",
+      "simplified_description": "Aromatic long-grain basmati rice",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -153,9 +153,9 @@
     {
       "name": "Vegetable Biryani",
       "price": 9.99,
-      "description": "Aromatic rice dish with mixed vegetables and spices, offering a rich and flavorful taste.",
+      "description": "Aromatic rice dish with mixed vegetables and spices, offering a rich and flavorful taste",
       "category": "RICE / BIRYANI",
-      "simplified_description": "Aromatic rice with mixed vegetables and spices.",
+      "simplified_description": "Aromatic rice with mixed vegetables and spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -165,27 +165,27 @@
     {
       "name": "Chicken Dum Biryani",
       "price": 9.99,
-      "description": "Dum-cooked rice and chicken, infused with spices for a rich, aromatic biryani experience.",
+      "description": "Dum-cooked rice and chicken, infused with spices for a rich, aromatic biryani experience",
       "category": "RICE / BIRYANI",
-      "simplified_description": "Spiced dum-cooked rice with chicken.",
+      "simplified_description": "Spiced dum-cooked rice with chicken",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Beef Biryani",
       "price": 12.99,
-      "description": "Aromatic rice dish with beef, spices, and herbs, offering a rich and flavorful biryani experience.",
+      "description": "Aromatic rice dish with beef, spices, and herbs, offering a rich and flavorful biryani experience",
       "category": "RICE / BIRYANI",
-      "simplified_description": "Aromatic rice with beef, spices, and herbs.",
+      "simplified_description": "Aromatic rice with beef, spices, and herbs",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mutton Dum Biryani",
       "price": 13.99,
-      "description": "Dum-cooked rice with tender mutton, infused with aromatic spices for a rich, flavorful biryani experience.",
+      "description": "Dum-cooked rice with tender mutton, infused with aromatic spices for a rich, flavorful biryani experience",
       "category": "RICE / BIRYANI",
-      "simplified_description": "Rice cooked with tender mutton and aromatic spices.",
+      "simplified_description": "Rice cooked with tender mutton and aromatic spices",
       "dietary_info": [],
       "other_info": ""
     },
@@ -194,7 +194,7 @@
       "price": 2.25,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Chicken-filled fried pastry snack.",
+      "simplified_description": "Chicken-filled fried pastry snack",
       "dietary_info": [],
       "other_info": ""
     },
@@ -203,25 +203,25 @@
       "price": 3.49,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Flaky pastry filled with chicken.",
+      "simplified_description": "Flaky pastry filled with chicken",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Lollipop (8pcs)",
       "price": 11.99,
-      "description": "Juicy chicken wings, marinated and cooked to perfection, served as a delightful appetizer.",
+      "description": "Juicy chicken wings, marinated and cooked to perfection, served as a delightful appetizer",
       "category": "NON-VEG STARTERS",
-      "simplified_description": "Marinated and cooked juicy chicken wings appetizer.",
+      "simplified_description": "Marinated and cooked juicy chicken wings appetizer",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Fish Pakora (1lb)",
       "price": 11.99,
-      "description": "Crispy fish bites seasoned with spices, perfect for a flavorful start to your meal.",
+      "description": "Crispy fish bites seasoned with spices, perfect for a flavorful start to your meal",
       "category": "NON-VEG STARTERS",
-      "simplified_description": "Crispy seasoned fish bites appetizer.",
+      "simplified_description": "Crispy seasoned fish bites appetizer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -230,16 +230,16 @@
       "price": 12.99,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Fish fried with a crispy crumb coating.",
+      "simplified_description": "Fish fried with a crispy crumb coating",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken 65 Dry",
       "price": 12.99,
-      "description": "Spicy chicken bites seasoned with aromatic spices for a flavorful start to your meal.",
+      "description": "Spicy chicken bites seasoned with aromatic spices for a flavorful start to your meal",
       "category": "NON-VEG STARTERS",
-      "simplified_description": "Spicy seasoned chicken bites appetizer.",
+      "simplified_description": "Spicy seasoned chicken bites appetizer",
       "dietary_info": [
         "spicy"
       ],
@@ -248,81 +248,81 @@
     {
       "name": "Chicken Pakora (1lb)",
       "price": 13.99,
-      "description": "Crispy chicken bites seasoned with spices, perfect for a flavorful start to your meal.",
+      "description": "Crispy chicken bites seasoned with spices, perfect for a flavorful start to your meal",
       "category": "NON-VEG STARTERS",
-      "simplified_description": "Crispy seasoned chicken bites appetizer.",
+      "simplified_description": "Crispy seasoned chicken bites appetizer",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Tawa Fish",
       "price": 16.99,
-      "description": "Delicious fish seasoned and cooked on a tawa, offering a savory start to your meal.",
+      "description": "Delicious fish seasoned and cooked on a tawa, offering a savory start to your meal",
       "category": "NON-VEG STARTERS",
-      "simplified_description": "Seasoned fish cooked on a flat griddle.",
+      "simplified_description": "Seasoned fish cooked on a flat griddle",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Beef Sheek Kebab",
       "price": 4.99,
-      "description": "Juicy beef kebabs seasoned with spices, offering a delightful taste of traditional flavors.",
+      "description": "Juicy beef kebabs seasoned with spices, offering a delightful taste of traditional flavors",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Juicy spiced beef kebabs.",
+      "simplified_description": "Juicy spiced beef kebabs",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Leg & Thigh Chicken",
       "price": 4.99,
-      "description": "Juicy chicken leg and thigh, expertly seasoned and cooked to perfection for a delightful BBQ experience.",
+      "description": "Juicy chicken leg and thigh, expertly seasoned and cooked to perfection for a delightful BBQ experience",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Seasoned and cooked chicken leg and thigh.",
+      "simplified_description": "Seasoned and cooked chicken leg and thigh",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Sheek Kebab",
       "price": 5.99,
-      "description": "Juicy chicken skewers seasoned with spices, grilled to perfection for a smoky, savory delight.",
+      "description": "Juicy chicken skewers seasoned with spices, grilled to perfection for a smoky, savory delight",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Grilled spiced chicken skewers.",
+      "simplified_description": "Grilled spiced chicken skewers",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chaapli Kebab",
       "price": 7.99,
-      "description": "Spiced ground meat patties, seasoned with aromatic spices, offering a burst of flavor in every bite.",
+      "description": "Spiced ground meat patties, seasoned with aromatic spices, offering a burst of flavor in every bite",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Spiced ground meat patties.",
+      "simplified_description": "Spiced ground meat patties",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lahori Chargha (Half)",
       "price": 12.99,
-      "description": "Spiced chicken marinated and cooked to perfection, offering a taste of traditional Lahori flavors.",
+      "description": "Spiced chicken marinated and cooked to perfection, offering a taste of traditional Lahori flavors",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Half spiced marinated cooked chicken.",
+      "simplified_description": "Half spiced marinated cooked chicken",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lahori Chargha (Full)",
       "price": 23.99,
-      "description": "Whole chicken marinated in spices, cooked to perfection for a flavorful Lahori experience.",
+      "description": "Whole chicken marinated in spices, cooked to perfection for a flavorful Lahori experience",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Whole spiced marinated cooked chicken.",
+      "simplified_description": "Whole spiced marinated cooked chicken",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "BBQ Chicken Wings (9pcs)",
       "price": 13.99,
-      "description": "Nine pieces of juicy chicken wings, coated in a rich BBQ sauce for a smoky, savory delight.",
+      "description": "Nine pieces of juicy chicken wings, coated in a rich BBQ sauce for a smoky, savory delight",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Nine smoky BBQ chicken wings, juicy and flavorful.",
+      "simplified_description": "Nine smoky BBQ chicken wings, juicy and flavorful",
       "dietary_info": [
         "halal"
       ],
@@ -331,18 +331,18 @@
     {
       "name": "Special BBQ Ribs",
       "price": 13.99,
-      "description": "Juicy beef ribs with a special BBQ glaze, delivering a savory and smoky taste in every bite.",
+      "description": "Juicy beef ribs with a special BBQ glaze, delivering a savory and smoky taste in every bite",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Juicy beef ribs with a smoky BBQ glaze.",
+      "simplified_description": "Juicy beef ribs with a smoky BBQ glaze",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Malai Tikka",
       "price": 14.99,
-      "description": "Tender chicken marinated in creamy spices, grilled to perfection for a juicy, flavorful bite.",
+      "description": "Tender chicken marinated in creamy spices, grilled to perfection for a juicy, flavorful bite",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Creamy spiced grilled chicken, tender and juicy.",
+      "simplified_description": "Creamy spiced grilled chicken, tender and juicy",
       "dietary_info": [
         "halal"
       ],
@@ -351,9 +351,9 @@
     {
       "name": "Chicken Tikka",
       "price": 14.99,
-      "description": "Tender chicken marinated in spices, cooked to perfection for a flavorful and juicy experience.",
+      "description": "Tender chicken marinated in spices, cooked to perfection for a flavorful and juicy experience",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Spiced grilled chicken, tender and juicy.",
+      "simplified_description": "Spiced grilled chicken, tender and juicy",
       "dietary_info": [
         "halal"
       ],
@@ -362,9 +362,9 @@
     {
       "name": "Fish Tikka",
       "price": 14.99,
-      "description": "Tender fish marinated in spices, cooked to perfection for a flavorful tandoor experience.",
+      "description": "Tender fish marinated in spices, cooked to perfection for a flavorful tandoor experience",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Spiced grilled fish, tender and flavorful.",
+      "simplified_description": "Spiced grilled fish, tender and flavorful",
       "dietary_info": [
         "gluten-free",
         "dairy-free",
@@ -375,9 +375,9 @@
     {
       "name": "Special Bihari Kebab",
       "price": 15.99,
-      "description": "Tender kebabs marinated in spices, offering a burst of authentic flavors.",
+      "description": "Tender kebabs marinated in spices, offering a burst of authentic flavors",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Spiced tender kebabs with authentic flavors.",
+      "simplified_description": "Spiced tender kebabs with authentic flavors",
       "dietary_info": [
         "halal"
       ],
@@ -386,18 +386,18 @@
     {
       "name": "Special BBQ Platter",
       "price": 28.99,
-      "description": "A delightful assortment of BBQ favorites, expertly seasoned and grilled to perfection.",
+      "description": "A delightful assortment of BBQ favorites, expertly seasoned and grilled to perfection",
       "category": "BBQ / TANDOOR",
-      "simplified_description": "Assorted BBQ favorites, seasoned and grilled.",
+      "simplified_description": "Assorted BBQ favorites, seasoned and grilled",
       "dietary_info": [],
       "other_info": "Serves two"
     },
     {
       "name": "Chicken Kadai",
       "price": 12.99,
-      "description": "Juicy chicken cooked with tomatoes, and spices, creating a flavorful and aromatic curry delight.",
+      "description": "Juicy chicken cooked with tomatoes, and spices, creating a flavorful and aromatic curry delight",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken cooked with tomatoes and spices in a flavorful curry.",
+      "simplified_description": "Chicken cooked with tomatoes and spices in a flavorful curry",
       "dietary_info": [
         "halal"
       ],
@@ -406,9 +406,9 @@
     {
       "name": "Chicken Korma",
       "price": 12.99,
-      "description": "Tender chicken simmered in a rich, creamy sauce with aromatic spices for a delightful curry experience.",
+      "description": "Tender chicken simmered in a rich, creamy sauce with aromatic spices for a delightful curry experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken in a rich, creamy, spiced curry sauce.",
+      "simplified_description": "Chicken in a rich, creamy, spiced curry sauce",
       "dietary_info": [
         "halal"
       ],
@@ -417,9 +417,9 @@
     {
       "name": "Achari Chicken",
       "price": 12.99,
-      "description": "Tender chicken marinated in tangy pickling spices, creating a flavorful and aromatic curry delight.",
+      "description": "Tender chicken marinated in tangy pickling spices, creating a flavorful and aromatic curry delight",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken marinated in tangy pickling spices curry.",
+      "simplified_description": "Chicken marinated in tangy pickling spices curry",
       "dietary_info": [
         "halal"
       ],
@@ -428,9 +428,9 @@
     {
       "name": "Chicken Vindaloo",
       "price": 13.99,
-      "description": "Tender chicken in a spicy, tangy curry with a blend of aromatic spices for a bold, flavorful experience.",
+      "description": "Tender chicken in a spicy, tangy curry with a blend of aromatic spices for a bold, flavorful experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Spicy and tangy chicken curry with aromatic spices.",
+      "simplified_description": "Spicy and tangy chicken curry with aromatic spices",
       "dietary_info": [
         "halal",
         "spicy"
@@ -440,9 +440,9 @@
     {
       "name": "Palak Chicken",
       "price": 13.99,
-      "description": "Tender chicken simmered with fresh spinach and aromatic spices for a rich, flavorful curry experience.",
+      "description": "Tender chicken simmered with fresh spinach and aromatic spices for a rich, flavorful curry experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken cooked with spinach and spices in curry.",
+      "simplified_description": "Chicken cooked with spinach and spices in curry",
       "dietary_info": [
         "halal"
       ],
@@ -451,9 +451,9 @@
     {
       "name": "Butter Chicken",
       "price": 14.99,
-      "description": "Tender chicken in a creamy tomato sauce, seasoned with aromatic spices for a rich, savory delight.",
+      "description": "Tender chicken in a creamy tomato sauce, seasoned with aromatic spices for a rich, savory delight",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken in creamy tomato sauce with spices.",
+      "simplified_description": "Chicken in creamy tomato sauce with spices",
       "dietary_info": [
         "halal"
       ],
@@ -462,9 +462,9 @@
     {
       "name": "Chicken Tikka Masala",
       "price": 14.99,
-      "description": "Tender chicken in a rich, spiced tomato sauce, offering a delightful blend of flavors.",
+      "description": "Tender chicken in a rich, spiced tomato sauce, offering a delightful blend of flavors",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken in rich, spiced tomato sauce.",
+      "simplified_description": "Chicken in rich, spiced tomato sauce",
       "dietary_info": [
         "halal"
       ],
@@ -473,9 +473,9 @@
     {
       "name": "Chicken Manchurian",
       "price": 14.99,
-      "description": "Savory chicken in a tangy sauce with spices, perfect for a flavorful non-veg curry experience.",
+      "description": "Savory chicken in a tangy sauce with spices, perfect for a flavorful non-veg curry experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Chicken in a tangy, spiced savory sauce.",
+      "simplified_description": "Chicken in a tangy, spiced savory sauce",
       "dietary_info": [
         "halal"
       ],
@@ -484,9 +484,9 @@
     {
       "name": "Chilli Chicken",
       "price": 14.99,
-      "description": "Spicy chicken curry with a kick, featuring tender pieces in a rich, flavorful sauce.",
+      "description": "Spicy chicken curry with a kick, featuring tender pieces in a rich, flavorful sauce",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Spicy chicken curry with tender pieces in a rich sauce.",
+      "simplified_description": "Spicy chicken curry with tender pieces in a rich sauce",
       "dietary_info": [
         "spicy"
       ],
@@ -495,36 +495,36 @@
     {
       "name": "Daal Gosht",
       "price": 13.99,
-      "description": "Tender lamb simmered with lentils and spices, creating a rich and hearty curry.",
+      "description": "Tender lamb simmered with lentils and spices, creating a rich and hearty curry",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Lamb cooked with lentils and spices in a rich curry.",
+      "simplified_description": "Lamb cooked with lentils and spices in a rich curry",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Palak Gosht",
       "price": 13.99,
-      "description": "Tender lamb simmered with fresh spinach and aromatic spices for a rich, savory curry experience.",
+      "description": "Tender lamb simmered with fresh spinach and aromatic spices for a rich, savory curry experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Lamb cooked with spinach and spices in a savory curry.",
+      "simplified_description": "Lamb cooked with spinach and spices in a savory curry",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mutton Kadai",
       "price": 14.99,
-      "description": "Tender mutton simmered with spices in a rich, flavorful sauce, perfect for a hearty meal.",
+      "description": "Tender mutton simmered with spices in a rich, flavorful sauce, perfect for a hearty meal",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Mutton cooked with spices in a rich, flavorful sauce.",
+      "simplified_description": "Mutton cooked with spices in a rich, flavorful sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mutton Vindaloo",
       "price": 14.99,
-      "description": "Tender mutton simmered in a spicy, tangy curry with a blend of aromatic spices.",
+      "description": "Tender mutton simmered in a spicy, tangy curry with a blend of aromatic spices",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Spicy and tangy mutton curry with aromatic spices.",
+      "simplified_description": "Spicy and tangy mutton curry with aromatic spices",
       "dietary_info": [
         "spicy"
       ],
@@ -533,27 +533,27 @@
     {
       "name": "Mutton Korma",
       "price": 14.99,
-      "description": "Tender mutton simmered in a rich, aromatic curry with a blend of spices for a flavorful experience.",
+      "description": "Tender mutton simmered in a rich, aromatic curry with a blend of spices for a flavorful experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Mutton cooked in a rich, aromatic spiced curry.",
+      "simplified_description": "Mutton cooked in a rich, aromatic spiced curry",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Achari Mutton",
       "price": 14.99,
-      "description": "Tender mutton simmered in tangy pickling spices for a rich, flavorful curry experience.",
+      "description": "Tender mutton simmered in tangy pickling spices for a rich, flavorful curry experience",
       "category": "NON-VEG CURRY",
-      "simplified_description": "Mutton cooked in tangy pickling spices for rich flavor.",
+      "simplified_description": "Mutton cooked in tangy pickling spices for rich flavor",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Paneer Lababdar",
       "price": 9.99,
-      "description": "Rich paneer curry with a blend of spices, tomatoes, and cream, offering a luscious and flavorful experience.",
+      "description": "Rich paneer curry with a blend of spices, tomatoes, and cream, offering a luscious and flavorful experience",
       "category": "VEG CURRY",
-      "simplified_description": "Creamy paneer curry with spices, tomatoes, and cream.",
+      "simplified_description": "Creamy paneer curry with spices, tomatoes, and cream",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -563,9 +563,9 @@
     {
       "name": "Chana Daal",
       "price": 9.99,
-      "description": "Savory chana daal simmered to perfection, offering a hearty and flavorful vegetarian delight.",
+      "description": "Savory chana daal simmered to perfection, offering a hearty and flavorful vegetarian delight",
       "category": "VEG CURRY",
-      "simplified_description": "Hearty and savory chickpea lentil curry.",
+      "simplified_description": "Hearty and savory chickpea lentil curry",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -576,9 +576,9 @@
     {
       "name": "Daal Mash",
       "price": 9.99,
-      "description": "A hearty lentil curry, rich in spices and flavors, perfect for a comforting vegetarian meal.",
+      "description": "A hearty lentil curry, rich in spices and flavors, perfect for a comforting vegetarian meal",
       "category": "VEG CURRY",
-      "simplified_description": "Spiced lentil curry, hearty and flavorful.",
+      "simplified_description": "Spiced lentil curry, hearty and flavorful",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -589,9 +589,9 @@
     {
       "name": "Chana Masala",
       "price": 9.99,
-      "description": "Spiced chickpeas simmered in a rich, tangy tomato sauce, perfect for a hearty vegetarian meal.",
+      "description": "Spiced chickpeas simmered in a rich, tangy tomato sauce, perfect for a hearty vegetarian meal",
       "category": "VEG CURRY",
-      "simplified_description": "Spiced chickpeas cooked in tangy tomato sauce.",
+      "simplified_description": "Spiced chickpeas cooked in tangy tomato sauce",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -602,9 +602,9 @@
     {
       "name": "Shahi Paneer",
       "price": 11.99,
-      "description": "Creamy paneer curry in a rich, spiced tomato sauce, perfect for a delightful vegetarian meal.",
+      "description": "Creamy paneer curry in a rich, spiced tomato sauce, perfect for a delightful vegetarian meal",
       "category": "VEG CURRY",
-      "simplified_description": "Creamy paneer curry with spiced tomato sauce.",
+      "simplified_description": "Creamy paneer curry with spiced tomato sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -614,9 +614,9 @@
     {
       "name": "Palak Paneer",
       "price": 11.99,
-      "description": "Creamy paneer cubes in a rich spinach sauce, seasoned with aromatic spices for a delightful vegetarian curry.",
+      "description": "Creamy paneer cubes in a rich spinach sauce, seasoned with aromatic spices for a delightful vegetarian curry",
       "category": "VEG CURRY",
-      "simplified_description": "Paneer cubes in creamy spinach sauce with spices.",
+      "simplified_description": "Paneer cubes in creamy spinach sauce with spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -626,9 +626,9 @@
     {
       "name": "Mixed Veg Curry",
       "price": 11.99,
-      "description": "A medley of fresh vegetables simmered in a rich, aromatic curry sauce for a delightful vegetarian experience.",
+      "description": "A medley of fresh vegetables simmered in a rich, aromatic curry sauce for a delightful vegetarian experience",
       "category": "VEG CURRY",
-      "simplified_description": "Mixed vegetables cooked in a rich, aromatic curry.",
+      "simplified_description": "Mixed vegetables cooked in a rich, aromatic curry",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -639,9 +639,9 @@
     {
       "name": "Bhindi Masala",
       "price": 11.99,
-      "description": "Spiced okra curry with a blend of aromatic spices, creating a flavorful vegetarian delight.",
+      "description": "Spiced okra curry with a blend of aromatic spices, creating a flavorful vegetarian delight",
       "category": "VEG CURRY",
-      "simplified_description": "Spiced okra cooked with aromatic spices.",
+      "simplified_description": "Spiced okra cooked with aromatic spices",
       "dietary_info": [
         "vegetarian",
         "dairy-free",
@@ -652,9 +652,9 @@
     {
       "name": "Aloo Gobi",
       "price": 11.99,
-      "description": "A classic Indian dish with potatoes and cauliflower, seasoned with aromatic spices for a delightful vegetarian curry.",
+      "description": "A classic Indian dish with potatoes and cauliflower, seasoned with aromatic spices for a delightful vegetarian curry",
       "category": "VEG CURRY",
-      "simplified_description": "Potato and cauliflower curry with aromatic spices.",
+      "simplified_description": "Potato and cauliflower curry with aromatic spices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -664,9 +664,9 @@
     {
       "name": "Tawa Roti",
       "price": 1.5,
-      "description": "Traditional Indian flatbread.",
+      "description": "Traditional Indian flatbread",
       "category": "BREADS/NAANS",
-      "simplified_description": "Traditional Indian flatbread.",
+      "simplified_description": "Traditional Indian flatbread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -676,9 +676,9 @@
     {
       "name": "Plain Naan",
       "price": 1.5,
-      "description": "Soft, fluffy naan bread, perfect for pairing with your favorite curry or dish.",
+      "description": "Soft, fluffy naan bread, perfect for pairing with your favorite curry or dish",
       "category": "BREADS/NAANS",
-      "simplified_description": "Soft and fluffy Indian flatbread.",
+      "simplified_description": "Soft and fluffy Indian flatbread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -688,9 +688,9 @@
     {
       "name": "Butter Naan",
       "price": 1.99,
-      "description": "Soft, fluffy naan brushed with rich butter, perfect for pairing with your favorite curry or dish.",
+      "description": "Soft, fluffy naan brushed with rich butter, perfect for pairing with your favorite curry or dish",
       "category": "BREADS/NAANS",
-      "simplified_description": "Soft naan bread brushed with butter.",
+      "simplified_description": "Soft naan bread brushed with butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -700,9 +700,9 @@
     {
       "name": "Garlic Naan",
       "price": 2.99,
-      "description": "Soft, fluffy naan infused with aromatic garlic, perfect for pairing with your favorite curry or dish.",
+      "description": "Soft, fluffy naan infused with aromatic garlic, perfect for pairing with your favorite curry or dish",
       "category": "BREADS/NAANS",
-      "simplified_description": "Soft naan bread flavored with garlic.",
+      "simplified_description": "Soft naan bread flavored with garlic",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -712,9 +712,9 @@
     {
       "name": "Plain Paratha",
       "price": 3.99,
-      "description": "Traditional Indian flatbread, perfect for pairing with curries and gravies.",
+      "description": "Traditional Indian flatbread, perfect for pairing with curries and gravies",
       "category": "BREADS/NAANS",
-      "simplified_description": "Traditional Indian layered flatbread.",
+      "simplified_description": "Traditional Indian layered flatbread",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -724,9 +724,9 @@
     {
       "name": "Cheese Naan",
       "price": 4.99,
-      "description": "Soft, warm naan filled with melted cheese, perfect for pairing with your favorite curry or as a standalone delight.",
+      "description": "Soft, warm naan filled with melted cheese, perfect for pairing with your favorite curry or as a standalone delight",
       "category": "BREADS/NAANS",
-      "simplified_description": "Soft naan stuffed with melted cheese.",
+      "simplified_description": "Soft naan stuffed with melted cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -736,9 +736,9 @@
     {
       "name": "Gobi Paratha",
       "price": 5.99,
-      "description": "Stuffed flatbread with spiced cauliflower, offering a delightful blend of flavors in every bite.",
+      "description": "Stuffed flatbread with spiced cauliflower, offering a delightful blend of flavors in every bite",
       "category": "BREADS/NAANS",
-      "simplified_description": "Flatbread stuffed with spiced cauliflower.",
+      "simplified_description": "Flatbread stuffed with spiced cauliflower",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -748,9 +748,9 @@
     {
       "name": "Aloo Paratha",
       "price": 5.99,
-      "description": "Stuffed flatbread with spiced potato filling, perfect for a hearty meal or snack.",
+      "description": "Stuffed flatbread with spiced potato filling, perfect for a hearty meal or snack",
       "category": "BREADS/NAANS",
-      "simplified_description": "Flatbread stuffed with spiced potatoes.",
+      "simplified_description": "Flatbread stuffed with spiced potatoes",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -760,9 +760,9 @@
     {
       "name": "Mix Veg Paratha",
       "price": 6.99,
-      "description": "A delicious flatbread filled with a medley of fresh vegetables, perfect for a wholesome meal.",
+      "description": "A delicious flatbread filled with a medley of fresh vegetables, perfect for a wholesome meal",
       "category": "BREADS/NAANS",
-      "simplified_description": "Flatbread filled with mixed vegetables.",
+      "simplified_description": "Flatbread filled with mixed vegetables",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -772,9 +772,9 @@
     {
       "name": "Kheema Naan",
       "price": 6.99,
-      "description": "Minced beef cooked with spices and herbs, served in a soft naan bread.",
+      "description": "Minced beef cooked with spices and herbs, served in a soft naan bread",
       "category": "BREADS/NAANS",
-      "simplified_description": "Soft naan filled with spiced minced beef.",
+      "simplified_description": "Soft naan filled with spiced minced beef",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -784,9 +784,9 @@
     {
       "name": "Paneer Paratha",
       "price": 6.99,
-      "description": "Stuffed flatbread with paneer, offering a delightful blend of spices for a savory experience.",
+      "description": "Stuffed flatbread with paneer, offering a delightful blend of spices for a savory experience",
       "category": "BREADS/NAANS",
-      "simplified_description": "Flatbread stuffed with spiced paneer cheese.",
+      "simplified_description": "Flatbread stuffed with spiced paneer cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -796,9 +796,9 @@
     {
       "name": "Gulab Jamun",
       "price": 3.99,
-      "description": "Sweet, syrup-soaked dumplings with a hint of cardamom, offering a melt-in-your-mouth dessert experience.",
+      "description": "Sweet, syrup-soaked dumplings with a hint of cardamom, offering a melt-in-your-mouth dessert experience",
       "category": "DESSERT",
-      "simplified_description": "Sweet syrup-soaked dumplings with cardamom flavor.",
+      "simplified_description": "Sweet syrup-soaked dumplings with cardamom flavor",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -808,9 +808,9 @@
     {
       "name": "Kheer",
       "price": 4.99,
-      "description": "Creamy rice pudding delicately sweetened, offering a comforting and traditional taste experience.",
+      "description": "Creamy rice pudding delicately sweetened, offering a comforting and traditional taste experience",
       "category": "DESSERT",
-      "simplified_description": "Sweet creamy rice pudding dessert.",
+      "simplified_description": "Sweet creamy rice pudding dessert",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -822,7 +822,7 @@
       "price": 4.99,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Carrot-based sweet dessert wrap.",
+      "simplified_description": "Carrot-based sweet dessert wrap",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -832,9 +832,9 @@
     {
       "name": "Beef Seekh Wrap",
       "price": 5.99,
-      "description": "Juicy beef wrapped in a soft naan/puri paratha, seasoned with aromatic spices for a delightful taste experience.",
+      "description": "Juicy beef wrapped in a soft naan/puri paratha, seasoned with aromatic spices for a delightful taste experience",
       "category": "WRAPS ROLLS",
-      "simplified_description": "Spiced beef wrapped in soft naan or puri bread.",
+      "simplified_description": "Spiced beef wrapped in soft naan or puri bread",
       "dietary_info": [
         "halal"
       ],
@@ -843,9 +843,9 @@
     {
       "name": "Chicken Seekh Wrap",
       "price": 6.99,
-      "description": "Juicy chicken wrapped in a soft naan/puri paratha, seasoned with aromatic spices for a delightful taste.",
+      "description": "Juicy chicken wrapped in a soft naan/puri paratha, seasoned with aromatic spices for a delightful taste",
       "category": "WRAPS ROLLS",
-      "simplified_description": "Spiced chicken wrapped in soft naan or puri bread.",
+      "simplified_description": "Spiced chicken wrapped in soft naan or puri bread",
       "dietary_info": [
         "halal"
       ],
@@ -854,9 +854,9 @@
     {
       "name": "Paneer Wrap",
       "price": 6.99,
-      "description": "Soft paneer wrapped in a fresh naan/ puri paratha, filled with vibrant flavors for a satisfying bite.",
+      "description": "Soft paneer wrapped in a fresh naan/ puri paratha, filled with vibrant flavors for a satisfying bite",
       "category": "WRAPS ROLLS",
-      "simplified_description": "Soft paneer cheese wrapped in fresh naan or puri bread.",
+      "simplified_description": "Soft paneer cheese wrapped in fresh naan or puri bread",
       "dietary_info": [
         "vegetarian"
       ],
@@ -865,9 +865,9 @@
     {
       "name": "Beef Jumbo Wrap",
       "price": 11.99,
-      "description": "A hearty wrap filled with beef, perfect for a satisfying meal on the go. Made with fresh naan/ puri paratha.",
+      "description": "A hearty wrap filled with beef, perfect for a satisfying meal on the go. Made with fresh naan/ puri paratha",
       "category": "WRAPS ROLLS",
-      "simplified_description": "Large wrap filled with beef and fresh naan or puri bread.",
+      "simplified_description": "Large wrap filled with beef and fresh naan or puri bread",
       "dietary_info": [
         "halal"
       ],
@@ -878,7 +878,7 @@
       "price": 14.99,
       "description": "A hearty wrap filled with juicy chicken, perfect for a satisfying meal on the go. Made with fresh naan/ puri paratha",
       "category": "WRAPS ROLLS",
-      "simplified_description": "Large wrap filled with juicy chicken and fresh naan or puri bread.",
+      "simplified_description": "Large wrap filled with juicy chicken and fresh naan or puri bread",
       "dietary_info": [
         "halal"
       ],
@@ -887,9 +887,9 @@
     {
       "name": "Water Bottle",
       "price": 1.5,
-      "description": "Refreshing and pure bottled water to quench your thirst.",
+      "description": "Refreshing and pure bottled water to quench your thirst",
       "category": "DRINKS",
-      "simplified_description": "Pure bottled water to refresh and hydrate.",
+      "simplified_description": "Pure bottled water to refresh and hydrate",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -903,9 +903,9 @@
     {
       "name": "Pepsi",
       "price": 1.99,
-      "description": "Refreshing carbonated drink, perfect for quenching your thirst.",
+      "description": "Refreshing carbonated drink, perfect for quenching your thirst",
       "category": "DRINKS",
-      "simplified_description": "Sweet, fizzy carbonated soft drink.",
+      "simplified_description": "Sweet, fizzy carbonated soft drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -919,9 +919,9 @@
     {
       "name": "Coca Cola",
       "price": 1.99,
-      "description": "Classic, refreshing beverage with a perfect balance of sweetness and fizz.",
+      "description": "Classic, refreshing beverage with a perfect balance of sweetness and fizz",
       "category": "DRINKS",
-      "simplified_description": "Classic sweet and fizzy carbonated drink.",
+      "simplified_description": "Classic sweet and fizzy carbonated drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -935,9 +935,9 @@
     {
       "name": "Diet Coke",
       "price": 1.99,
-      "description": "Refreshing, low-calorie soft drink with a crisp, clean taste. Perfect for a guilt-free thirst quencher.",
+      "description": "Refreshing, low-calorie soft drink with a crisp, clean taste. Perfect for a guilt-free thirst quencher",
       "category": "DRINKS",
-      "simplified_description": "Low-calorie, crisp and refreshing soft drink.",
+      "simplified_description": "Low-calorie, crisp and refreshing soft drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -951,9 +951,9 @@
     {
       "name": "Ginger Ale",
       "price": 1.99,
-      "description": "Refreshing ginger ale with a zesty kick, perfect for a cool, invigorating drink experience.",
+      "description": "Refreshing ginger ale with a zesty kick, perfect for a cool, invigorating drink experience",
       "category": "DRINKS",
-      "simplified_description": "Zesty and refreshing ginger-flavored soda.",
+      "simplified_description": "Zesty and refreshing ginger-flavored soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -967,9 +967,9 @@
     {
       "name": "Sprite",
       "price": 1.99,
-      "description": "Refreshing lemon-lime soda, perfect for a crisp, bubbly thirst-quencher.",
+      "description": "Refreshing lemon-lime soda, perfect for a crisp, bubbly thirst-quencher",
       "category": "DRINKS",
-      "simplified_description": "Crisp lemon-lime flavored carbonated soda.",
+      "simplified_description": "Crisp lemon-lime flavored carbonated soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -983,9 +983,9 @@
     {
       "name": "Fanta",
       "price": 1.99,
-      "description": "Refreshing citrus-flavored soda, perfect for a thirst-quenching break.",
+      "description": "Refreshing citrus-flavored soda, perfect for a thirst-quenching break",
       "category": "DRINKS",
-      "simplified_description": "Sweet and tangy citrus-flavored soda.",
+      "simplified_description": "Sweet and tangy citrus-flavored soda",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -999,9 +999,9 @@
     {
       "name": "Kadak Chai",
       "price": 2.5,
-      "description": "A robust and aromatic tea, perfect for a refreshing break.",
+      "description": "A robust and aromatic tea, perfect for a refreshing break",
       "category": "DRINKS",
-      "simplified_description": "Strong and aromatic spiced tea.",
+      "simplified_description": "Strong and aromatic spiced tea",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -1013,9 +1013,9 @@
     {
       "name": "Masala Soda",
       "price": 4.99,
-      "description": "Refreshing soda with a blend of spices for a tangy, zesty kick.",
+      "description": "Refreshing soda with a blend of spices for a tangy, zesty kick",
       "category": "DRINKS",
-      "simplified_description": "Spiced soda with a tangy and zesty flavor.",
+      "simplified_description": "Spiced soda with a tangy and zesty flavor",
       "dietary_info": [
         "vegan",
         "dairy-free",
@@ -1028,9 +1028,9 @@
     {
       "name": "Sweet Lassi",
       "price": 5.99,
-      "description": "Refreshing yogurt drink with a hint of sweetness, perfect for a cool, creamy treat.",
+      "description": "Refreshing yogurt drink with a hint of sweetness, perfect for a cool, creamy treat",
       "category": "DRINKS",
-      "simplified_description": "Sweet and creamy yogurt-based drink.",
+      "simplified_description": "Sweet and creamy yogurt-based drink",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -1042,9 +1042,9 @@
     {
       "name": "Salt Lassi",
       "price": 5.99,
-      "description": "Refreshing yogurt drink with a hint of salt, perfect for a cooling and savory sip.",
+      "description": "Refreshing yogurt drink with a hint of salt, perfect for a cooling and savory sip",
       "category": "DRINKS",
-      "simplified_description": "A salty, refreshing yogurt-based drink.",
+      "simplified_description": "A salty, refreshing yogurt-based drink",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -1057,9 +1057,9 @@
     {
       "name": "Mango Lassi",
       "price": 5.99,
-      "description": "Creamy blend of ripe mangoes and yogurt, a refreshing and sweet traditional Indian drink.",
+      "description": "Creamy blend of ripe mangoes and yogurt, a refreshing and sweet traditional Indian drink",
       "category": "DRINKS",
-      "simplified_description": "Sweet and creamy mango yogurt drink.",
+      "simplified_description": "Sweet and creamy mango yogurt drink",
       "dietary_info": [
         "vegetarian",
         "gluten-free",

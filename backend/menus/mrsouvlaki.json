@@ -6,15 +6,15 @@
   "items": [
     {
       "name": "APOLLO BOWL",
-      "price": "9.99",
-      "description": "For a limited time, get an Apollo Bowl for only $9.99 enough to fuel your day! Choose from souvlaki, gyro, or falafel.",
+      "price": 9.99,
+      "description": "For a limited time, get an Apollo Bowl for only $9.99 enough to fuel your day! Choose from souvlaki, gyro, or falafel",
       "category": "FOOD",
       "source": "text"
     },
     {
       "name": "bottled pop",
-      "price": "1.49",
-      "description": "Want a drink? add a bottled pop for only $1.49 when purchased with your bowl.",
+      "price": 1.49,
+      "description": "Want a drink? add a bottled pop for only $1.49 when purchased with your bowl",
       "category": "DRINK",
       "source": "text"
     },
@@ -84,14 +84,14 @@
     {
       "name": "CLASSIC",
       "price": null,
-      "description": "Signature 7 inch pita with lettuce, onion, tomato, choice of dip, side and bottled pop.",
+      "description": "Signature 7 inch pita with lettuce, onion, tomato, choice of dip, side and bottled pop",
       "category": "FOOD",
       "source": "text"
     },
     {
       "name": "LOADED",
       "price": null,
-      "description": "Large 9 inch pita loaded with fries, lettuce, onion, tomato, choice of dip, side and bottled pop.",
+      "description": "Large 9 inch pita loaded with fries, lettuce, onion, tomato, choice of dip, side and bottled pop",
       "category": "FOOD",
       "source": "text"
     },

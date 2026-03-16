@@ -6,153 +6,153 @@
     {
       "name": "Vege Dum Biryani",
       "price": 14.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken-65 Dum Biryani",
       "price": 16.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lamb Dum Biryani",
       "price": 17.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Beef Dum Biryani",
       "price": 17.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Shrimp Dum Biryani",
       "price": 16.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Goat Biryani (with Bone)",
       "price": 17.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Tandoori chicken Biryani",
       "price": null,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Kothu Paratha",
       "price": null,
-      "description": "Shredded crispy paratha (south-Indian bread) tossed with vegetables, spices and protein of choice. Served with Raita.",
+      "description": "Shredded crispy paratha (south-Indian bread) tossed with vegetables, spices and protein of choice. Served with Raita",
       "category": "FOOD",
-      "simplified_description": "Shredded crispy paratha (south-Indian bread) tossed with vegetables, spices and ",
+      "simplified_description": "Shredded crispy paratha (south-Indian bread) tossed with vegetables, spices and",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Veg Kothu",
       "price": 12.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Kothu",
       "price": 14.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Lamb Kothu",
       "price": 15.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Beef Kothu",
       "price": 15.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "EGG KOTHU PARATHA",
       "price": 14.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Podi Dosai",
       "price": 12.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Plain Dosai",
       "price": 11.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Onion Dosai",
       "price": 12.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Ghee Roast Dosai",
       "price": 12.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -177,9 +177,9 @@
     {
       "name": "Mysore Plain Dosai",
       "price": 12.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -240,18 +240,18 @@
     {
       "name": "Palak Paneer masala dosai",
       "price": 15.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Vege Ball Manchurian dosai",
       "price": 14.95,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -294,18 +294,18 @@
     {
       "name": "Rava Mysore Masala",
       "price": null,
-      "description": "* * *",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "* * *",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Plain uthppam",
       "price": 12.0,
-      "description": "_",
+      "description": null,
       "category": "FOOD",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -330,9 +330,9 @@
     {
       "name": "Chilli Chicken Dry",
       "price": 16.95,
-      "description": "Deep fried chicken strips tossed with fragrant peppers, onions, ginger.",
+      "description": "Deep fried chicken strips tossed with fragrant peppers, onions, ginger",
       "category": "FOOD",
-      "simplified_description": "Deep fried chicken strips tossed with fragrant peppers, onions, ginger.",
+      "simplified_description": "Deep fried chicken strips tossed with fragrant peppers, onions, ginger",
       "dietary_info": [],
       "other_info": ""
     },
@@ -348,25 +348,25 @@
     {
       "name": "Chilli Fish Dry",
       "price": null,
-      "description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style.",
+      "description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style",
       "category": "FOOD",
-      "simplified_description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style.",
+      "simplified_description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "chilli Fish Gravy",
       "price": null,
-      "description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style gravy.",
+      "description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style gravy",
       "category": "FOOD",
-      "simplified_description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style gravy.",
+      "simplified_description": "Deep fried fish tossed with, onions and peppers in Indo-Chinese style gravy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chilli Paneer Dry",
       "price": 15.95,
-      "description": "Deep fried Indian cottage cheese tossed with onions & peppers in Indo-Chinese style.",
+      "description": "Deep fried Indian cottage cheese tossed with onions & peppers in Indo-Chinese style",
       "category": "FOOD",
       "simplified_description": "Deep fried Indian cottage cheese tossed with onions & peppers in Indo-Chinese st",
       "dietary_info": [],
@@ -384,9 +384,9 @@
     {
       "name": "Cauliflower Manchurian Dry",
       "price": 15.95,
-      "description": "Deep fried cauliflower florets tossed in Indo-Chinese style.",
+      "description": "Deep fried cauliflower florets tossed in Indo-Chinese style",
       "category": "FOOD",
-      "simplified_description": "Deep fried cauliflower florets tossed in Indo-Chinese style.",
+      "simplified_description": "Deep fried cauliflower florets tossed in Indo-Chinese style",
       "dietary_info": [],
       "other_info": ""
     },
@@ -411,9 +411,9 @@
     {
       "name": "Veg ball Manch gravy",
       "price": 14.95,
-      "description": "Fried mixed veg ball in a spicy, sweet and tangy sauce.",
+      "description": "Fried mixed veg ball in a spicy, sweet and tangy sauce",
       "category": "FOOD",
-      "simplified_description": "Fried mixed veg ball in a spicy, sweet and tangy sauce.",
+      "simplified_description": "Fried mixed veg ball in a spicy, sweet and tangy sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -438,7 +438,7 @@
     {
       "name": "Indo-Chinese Noodles",
       "price": 12.95,
-      "description": "Egg noodles tossed with vegetables, sauces and protein of your choice. Can be made mild spice level upon request.",
+      "description": "Egg noodles tossed with vegetables, sauces and protein of your choice. Can be made mild spice level upon request",
       "category": "FOOD",
       "simplified_description": "Egg noodles tossed with vegetables, sauces and protein of your choice. Can be ma",
       "dietary_info": [],
@@ -447,9 +447,9 @@
     {
       "name": "Fried Rice",
       "price": 12.95,
-      "description": "Basmati rice tossed with vegetables, sauces and protein of your choice.",
+      "description": "Basmati rice tossed with vegetables, sauces and protein of your choice",
       "category": "FOOD",
-      "simplified_description": "Basmati rice tossed with vegetables, sauces and protein of your choice.",
+      "simplified_description": "Basmati rice tossed with vegetables, sauces and protein of your choice",
       "dietary_info": [],
       "other_info": ""
     },
@@ -483,16 +483,16 @@
     {
       "name": "Gulab Jamun (3 pcs)",
       "price": 4.95,
-      "description": "Deep fried dumpling of milk solids soaked in sugar syrup.",
+      "description": "Deep fried dumpling of milk solids soaked in sugar syrup",
       "category": "DESSERT",
-      "simplified_description": "Deep fried dumpling of milk solids soaked in sugar syrup.",
+      "simplified_description": "Deep fried dumpling of milk solids soaked in sugar syrup",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Mango Saffron Rasmalai",
       "price": 5.95,
-      "description": "Soft cottage cheese dumplings, poached in saffron flavoured milk syrup. Topped with mango puree, saffron and pistachio.",
+      "description": "Soft cottage cheese dumplings, poached in saffron flavoured milk syrup. Topped with mango puree, saffron and pistachio",
       "category": "DESSERT",
       "simplified_description": "Soft cottage cheese dumplings, poached in saffron flavoured milk syrup. Topped w",
       "dietary_info": [],
@@ -501,7 +501,7 @@
     {
       "name": "Kulfi Falooda",
       "price": 7.95,
-      "description": "Traditional Indian ice-cream served with vermicelli cooked in milk, nuts and flavours.",
+      "description": "Traditional Indian ice-cream served with vermicelli cooked in milk, nuts and flavours",
       "category": "DESSERT",
       "simplified_description": "Traditional Indian ice-cream served with vermicelli cooked in milk, nuts and fla",
       "dietary_info": [],
@@ -519,18 +519,18 @@
     {
       "name": "Saffron Rice Pudding",
       "price": 5.95,
-      "description": "Short grain rice cooked in milk, flavoured with saffron and cardamom.",
+      "description": "Short grain rice cooked in milk, flavoured with saffron and cardamom",
       "category": "DESSERT",
-      "simplified_description": "Short grain rice cooked in milk, flavoured with saffron and cardamom.",
+      "simplified_description": "Short grain rice cooked in milk, flavoured with saffron and cardamom",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "PINEAPPLE KESARI(semolina Pudding)",
       "price": 5.95,
-      "description": "Halwa made with semolina, sugar, and pineapple.",
+      "description": "Halwa made with semolina, sugar, and pineapple",
       "category": "DESSERT",
-      "simplified_description": "Halwa made with semolina, sugar, and pineapple.",
+      "simplified_description": "Halwa made with semolina, sugar, and pineapple",
       "dietary_info": [],
       "other_info": ""
     },
@@ -582,90 +582,90 @@
     {
       "name": "Rose Milk",
       "price": 2.5,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can of Thumbs Up (Indian Pop)",
       "price": 2.75,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can of Limca (Indian Pop)",
       "price": 2.75,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can Of Fanta (Indian pop)",
       "price": 2.75,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can Of Coke",
       "price": 2.5,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can Of Diet Coke",
       "price": 2.5,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can of Ginger ale",
       "price": 2.5,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can Of Lemon iced Tea",
       "price": 2.5,
-      "description": "_",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "_",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "KINGFISHER (330ML)",
       "price": 6.5,
-      "description": "Indian beer light smokey lager.",
+      "description": "Indian beer light smokey lager",
       "category": "DRINK",
-      "simplified_description": "Indian beer light smokey lager.",
+      "simplified_description": "Indian beer light smokey lager",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "TAJ MAHAL (330ML)",
       "price": 6.5,
-      "description": "Clean,crisp and light with delicate flavour.",
+      "description": "Clean,crisp and light with delicate flavour",
       "category": "DRINK",
-      "simplified_description": "Clean,crisp and light with delicate flavour.",
+      "simplified_description": "Clean,crisp and light with delicate flavour",
       "dietary_info": [],
       "other_info": ""
     }

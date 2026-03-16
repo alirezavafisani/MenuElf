@@ -6,7 +6,7 @@
     {
       "name": "154. Red Coral Roll",
       "price": 15.0,
-      "description": "Spicy | Crispy tempura bits, salmon, cucumber, kimchi, seaweed powder, house spicy sauce.",
+      "description": "Spicy | Crispy tempura bits, salmon, cucumber, kimchi, seaweed powder, house spicy sauce",
       "category": "FOOD",
       "simplified_description": "Spicy | Crispy tempura bits, salmon, cucumber, kimchi, seaweed powder, house spi",
       "dietary_info": [],
@@ -15,9 +15,9 @@
     {
       "name": "152. Alberta Beef Roll",
       "price": 15.0,
-      "description": "Tempura beef, avocado, cucumber, sesame seeds, teriyaki sauce.",
+      "description": "Tempura beef, avocado, cucumber, sesame seeds, teriyaki sauce",
       "category": "FOOD",
-      "simplified_description": "Tempura beef, avocado, cucumber, sesame seeds, teriyaki sauce.",
+      "simplified_description": "Tempura beef, avocado, cucumber, sesame seeds, teriyaki sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -33,7 +33,7 @@
     {
       "name": "163. Rainbow Roll",
       "price": 15.5,
-      "description": "Imitation crab mix, avocado, cucumber topped with assorted sashimi (salmon, tuna, red snapper, shrimp), avocado, and unagi sauce.",
+      "description": "Imitation crab mix, avocado, cucumber topped with assorted sashimi (salmon, tuna, red snapper, shrimp), avocado, and unagi sauce",
       "category": "FOOD",
       "simplified_description": "Imitation crab mix, avocado, cucumber topped with assorted sashimi (salmon, tuna",
       "dietary_info": [],
@@ -87,36 +87,36 @@
     {
       "name": "Combo A - Teriyaki Chicken",
       "price": 11.0,
-      "description": "Teriyaki chicken, steamed rice, and miso soup.",
+      "description": "Teriyaki chicken, steamed rice, and miso soup",
       "category": "FOOD",
-      "simplified_description": "Teriyaki chicken, steamed rice, and miso soup.",
+      "simplified_description": "Teriyaki chicken, steamed rice, and miso soup",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Combo B - Teriyaki Beef",
       "price": 11.0,
-      "description": "Teriyaki beef, steamed rice, and miso soup.",
+      "description": "Teriyaki beef, steamed rice, and miso soup",
       "category": "FOOD",
-      "simplified_description": "Teriyaki beef, steamed rice, and miso soup.",
+      "simplified_description": "Teriyaki beef, steamed rice, and miso soup",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Combo C - Teriyaki Salmon",
       "price": 11.0,
-      "description": "Teriyaki salmon, steamed rice, and miso soup.",
+      "description": "Teriyaki salmon, steamed rice, and miso soup",
       "category": "FOOD",
-      "simplified_description": "Teriyaki salmon, steamed rice, and miso soup.",
+      "simplified_description": "Teriyaki salmon, steamed rice, and miso soup",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Combo D - Tonkatsu Pork",
       "price": 11.0,
-      "description": "Tonkatsu pork, steamed rice, and miso soup.",
+      "description": "Tonkatsu pork, steamed rice, and miso soup",
       "category": "FOOD",
-      "simplified_description": "Tonkatsu pork, steamed rice, and miso soup.",
+      "simplified_description": "Tonkatsu pork, steamed rice, and miso soup",
       "dietary_info": [],
       "other_info": ""
     },

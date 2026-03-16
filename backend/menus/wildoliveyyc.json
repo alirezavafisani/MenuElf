@@ -6,18 +6,18 @@
     {
       "name": "Chef's Daily Special",
       "price": 20.22,
-      "description": "...",
+      "description": null,
       "category": "OTHER",
-      "simplified_description": "...",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Kibbeh",
       "price": 18.5,
-      "description": "Baked pieces of spiced meat, bulgur, and onions.  Served with salad or yogurt.",
+      "description": "Baked pieces of spiced meat, bulgur, and onions. Served with salad or yogurt",
       "category": "FOOD",
-      "simplified_description": "Baked pieces of spiced meat, bulgur, and onions.  Served with salad or yogurt.",
+      "simplified_description": "Baked pieces of spiced meat, bulgur, and onions. Served with salad or yogurt",
       "dietary_info": [],
       "other_info": ""
     },
@@ -51,9 +51,9 @@
     {
       "name": "Chicken with Rice",
       "price": 19.99,
-      "description": "Baked layers of spiced meat, bulgur and onions.   Served with salad or yogurt",
+      "description": "Baked layers of spiced meat, bulgur and onions. Served with salad or yogurt",
       "category": "FOOD",
-      "simplified_description": "Baked layers of spiced meat, bulgur and onions.   Served with salad or yogurt",
+      "simplified_description": "Baked layers of spiced meat, bulgur and onions. Served with salad or yogurt",
       "dietary_info": [],
       "other_info": ""
     },
@@ -125,7 +125,7 @@
       "price": 10.0,
       "description": "Balls of chickpeas and herbs that are crispy on the outside, soft and fluffy on the inside. Served with tahini sauce",
       "category": "APPETIZER",
-      "simplified_description": "Balls of chickpeas and herbs that are crispy on the outside, soft and fluffy on ",
+      "simplified_description": "Balls of chickpeas and herbs that are crispy on the outside, soft and fluffy on",
       "dietary_info": [],
       "other_info": ""
     },
@@ -141,45 +141,45 @@
     {
       "name": "Makhlouta (whole-grain stew)",
       "price": 12.99,
-      "description": "White beans, chickpeas, lentils, bulgur, onions, cumin,   salt, olive oil",
+      "description": "White beans, chickpeas, lentils, bulgur, onions, cumin, salt, olive oil",
       "category": "SOUP",
-      "simplified_description": "White beans, chickpeas, lentils, bulgur, onions, cumin,   salt, olive oil",
+      "simplified_description": "White beans, chickpeas, lentils, bulgur, onions, cumin, salt, olive oil",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Can pop / Water",
       "price": 2.25,
-      "description": "...",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "...",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Juice / Meranda",
       "price": 3.95,
-      "description": "...",
+      "description": null,
       "category": "DRINK",
-      "simplified_description": "...",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "6 Pieces Baklave",
       "price": 7.5,
-      "description": "...",
+      "description": null,
       "category": "DESSERT",
-      "simplified_description": "...",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Rice Pudding",
       "price": 6.5,
-      "description": "...",
+      "description": null,
       "category": "DESSERT",
-      "simplified_description": "...",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
@@ -231,27 +231,27 @@
     {
       "name": "5 pies",
       "price": 13.0,
-      "description": "...",
+      "description": null,
       "category": "PIES",
-      "simplified_description": "...",
+      "simplified_description": null,
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Fattoush",
       "price": 10.0,
-      "description": "Crisp vegetables, toasted bread, and   tangy sumac vinaigrette",
+      "description": "Crisp vegetables, toasted bread, and tangy sumac vinaigrette",
       "category": "SALADS",
-      "simplified_description": "Crisp vegetables, toasted bread, and   tangy sumac vinaigrette",
+      "simplified_description": "Crisp vegetables, toasted bread, and tangy sumac vinaigrette",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Tabbouleh",
       "price": 12.0,
-      "description": "Parsley, burgul, tomato, and lemon   tossed in olive oil",
+      "description": "Parsley, burgul, tomato, and lemon tossed in olive oil",
       "category": "SALADS",
-      "simplified_description": "Parsley, burgul, tomato, and lemon   tossed in olive oil",
+      "simplified_description": "Parsley, burgul, tomato, and lemon tossed in olive oil",
       "dietary_info": [],
       "other_info": ""
     },

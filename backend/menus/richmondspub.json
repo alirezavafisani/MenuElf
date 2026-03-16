@@ -42,9 +42,9 @@
     {
       "name": "Margarita 2oz",
       "price": 10.0,
-      "description": "Margarita 2oz | $10\nJust Peachy, Apple Cider, Classic Lime",
+      "description": "Margarita 2oz | $10 Just Peachy, Apple Cider, Classic Lime",
       "category": "DRINK",
-      "simplified_description": "Margarita 2oz | $10\nJust Peachy, Apple Cider, Classic Lime",
+      "simplified_description": "Margarita 2oz | $10 Just Peachy, Apple Cider, Classic Lime",
       "dietary_info": [],
       "other_info": ""
     },
@@ -96,9 +96,9 @@
     {
       "name": "Beerpocalypse 12oz",
       "price": 4.5,
-      "description": "Beerpocalypse 12oz | $4.50\nWR Wraspberry, Duke Lager, Wildrose IPA, Mount Crushmore",
+      "description": "Beerpocalypse 12oz | $4.50 WR Wraspberry, Duke Lager, Wildrose IPA, Mount Crushmore",
       "category": "DRINK",
-      "simplified_description": "Beerpocalypse 12oz | $4.50\nWR Wraspberry, Duke Lager, Wildrose IPA, Mount Crushm",
+      "simplified_description": "Beerpocalypse 12oz | $4.50 WR Wraspberry, Duke Lager, Wildrose IPA, Mount Crushm",
       "dietary_info": [],
       "other_info": ""
     },
@@ -114,9 +114,9 @@
     {
       "name": "Brunch Buffet",
       "price": 20.0,
-      "description": "Brunch Buffet - $20\nComes with a bud, bud light, mimosa, or 1oz Caesar",
+      "description": "Brunch Buffet - $20 Comes with a bud, bud light, mimosa, or 1oz Caesar",
       "category": "FOOD",
-      "simplified_description": "Brunch Buffet - $20\nComes with a bud, bud light, mimosa, or 1oz Caesar",
+      "simplified_description": "Brunch Buffet - $20 Comes with a bud, bud light, mimosa, or 1oz Caesar",
       "dietary_info": [],
       "other_info": ""
     },
@@ -130,74 +130,74 @@
       "other_info": ""
     },
     {
-      "name": "8″ – **$15**",
+      "name": "8″ –",
       "price": 15.0,
-      "description": "8″ – **$15**",
+      "description": "8″ – $15",
       "category": "FOOD",
-      "simplified_description": "8″ – **$15**",
+      "simplified_description": "8″ – $15",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "10″ – **$18**",
+      "name": "10″ –",
       "price": 18.0,
-      "description": "10″ – **$18**",
+      "description": "10″ – $18",
       "category": "FOOD",
-      "simplified_description": "10″ – **$18**",
+      "simplified_description": "10″ – $18",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "12″ – **$20**",
+      "name": "12″ –",
       "price": 20.0,
-      "description": "12″ – **$20**",
+      "description": "12″ – $20",
       "category": "FOOD",
-      "simplified_description": "12″ – **$20**",
+      "simplified_description": "12″ – $20",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "$6 Bud, BUD LIGHT, KOKANEE GOLD",
       "price": 6.0,
-      "description": "$6   \nBud, BUD LIGHT, KOKANEE GOLD",
+      "description": "$6 Bud, BUD LIGHT, KOKANEE GOLD",
       "category": "DRINK",
-      "simplified_description": "$6   \nBud, BUD LIGHT, KOKANEE GOLD",
+      "simplified_description": "$6 Bud, BUD LIGHT, KOKANEE GOLD",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "$6 Caesar 1oz",
       "price": 6.0,
-      "description": "$6   \nCaesar 1oz",
+      "description": "$6 Caesar 1oz",
       "category": "DRINK",
-      "simplified_description": "$6   \nCaesar 1oz",
+      "simplified_description": "$6 Caesar 1oz",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "C OF RED - $4 EVERY FLAME GAME",
       "price": 4.0,
-      "description": "C OF RED - $4 EVERY FLAME GAME\nWiser’s Whiskey, Cranberry, Amaretto",
+      "description": "C OF RED - $4 EVERY FLAME GAME Wiser’s Whiskey, Cranberry, Amaretto",
       "category": "DRINK",
-      "simplified_description": "C OF RED - $4 EVERY FLAME GAME\nWiser’s Whiskey, Cranberry, Amaretto",
+      "simplified_description": "C OF RED - $4 EVERY FLAME GAME Wiser’s Whiskey, Cranberry, Amaretto",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "$5 Canadian, Coors Light, Coors Original",
       "price": 5.0,
-      "description": "$5  \nCanadian, Coors Light, Coors Original   \n16oz  \n## *** flames games only ***",
+      "description": "$5 Canadian, Coors Light, Coors Original 16oz flames games only",
       "category": "DRINK",
-      "simplified_description": "$5  \nCanadian, Coors Light, Coors Original   \n16oz  \n## *** flames games only **",
+      "simplified_description": "$5 Canadian, Coors Light, Coors Original 16oz flames games only",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "$6 Bud OR BUD LIGHT",
       "price": 6.0,
-      "description": "$6  \nBud OR BUD LIGHT",
+      "description": "$6 Bud OR BUD LIGHT",
       "category": "DRINK",
-      "simplified_description": "$6  \nBud OR BUD LIGHT",
+      "simplified_description": "$6 Bud OR BUD LIGHT",
       "dietary_info": [],
       "other_info": ""
     }

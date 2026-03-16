@@ -186,7 +186,7 @@
     {
       "name": "Falafel",
       "price": 1.25,
-      "description": "/Each",
+      "description": "Each",
       "simplified_description": "",
       "category": "Side Orders",
       "dietary_info": [],
@@ -195,7 +195,7 @@
     {
       "name": "Baklava",
       "price": 1.25,
-      "description": "/Each",
+      "description": "Each",
       "simplified_description": "",
       "category": "Side Orders",
       "dietary_info": [],
@@ -204,7 +204,7 @@
     {
       "name": "Extra Pita Or Sauce",
       "price": 1.0,
-      "description": "/Each",
+      "description": "Each",
       "simplified_description": "",
       "category": "Side Orders",
       "dietary_info": [],

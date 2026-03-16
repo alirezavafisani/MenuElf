@@ -8,7 +8,7 @@
       "price": 65.0,
       "description": "(Romain, Crouton, Bacon, Parmesan)",
       "category": "SALADS",
-      "simplified_description": "Romaine lettuce with croutons, bacon, and Parmesan cheese.",
+      "simplified_description": "Romaine lettuce with croutons, bacon, and Parmesan cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -19,7 +19,7 @@
       "price": 70.0,
       "description": "(Mix Green, Fresh Vegetable, w/Balsamic Dressing)",
       "category": "SALADS",
-      "simplified_description": "Mixed greens and fresh vegetables with balsamic dressing.",
+      "simplified_description": "Mixed greens and fresh vegetables with balsamic dressing",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -33,7 +33,7 @@
       "price": 80.0,
       "description": "(Tomato, Cucumber, Onion, Olives, Bell pepper, Feta)",
       "category": "SALADS",
-      "simplified_description": "Tomatoes, cucumber, onion, olives, bell pepper, and feta cheese.",
+      "simplified_description": "Tomatoes, cucumber, onion, olives, bell pepper, and feta cheese",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -46,7 +46,7 @@
       "price": 80.0,
       "description": "(Pasta, Pesto, Black Olives, Red peppers, Parmesan Cheese)",
       "category": "SALADS",
-      "simplified_description": "Pasta with pesto, black olives, red peppers, and Parmesan cheese.",
+      "simplified_description": "Pasta with pesto, black olives, red peppers, and Parmesan cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -58,7 +58,7 @@
       "price": 70.0,
       "description": "(BBQ,SWEET CHILLI, LEMON PEPPER, SALT & PEPPER, HONEY GARLIC, HOT, TERIYAKI, DIL PICKLE, CAJUN, CHIPOTLE MANGO)",
       "category": "APPETIZERS",
-      "simplified_description": "Boneless ribs with various flavorful sauces and seasonings.",
+      "simplified_description": "Boneless ribs with various flavorful sauces and seasonings",
       "dietary_info": [],
       "other_info": "Multiple sauce options including spicy"
     },
@@ -67,7 +67,7 @@
       "price": 70.0,
       "description": "(BBQ,SWEET CHILLI, LEMON PEPPER, SALT & PEPPER, HONEY GARLIC, HOT, TERIYAKI, DIL PICKLE, CAJUN, CHIPOTLE MANGO)",
       "category": "APPETIZERS",
-      "simplified_description": "Chicken wings with a variety of sauces and seasonings.",
+      "simplified_description": "Chicken wings with a variety of sauces and seasonings",
       "dietary_info": [],
       "other_info": "Multiple sauce options including spicy"
     },
@@ -76,7 +76,7 @@
       "price": 75.0,
       "description": "(Dynamite Roll, smoked salmon Philly roll, veggie Philly rol",
       "category": "APPETIZERS",
-      "simplified_description": "Variety of sushi rolls including dynamite, smoked salmon, and veggie.",
+      "simplified_description": "Variety of sushi rolls including dynamite, smoked salmon, and veggie",
       "dietary_info": [],
       "other_info": ""
     },
@@ -85,7 +85,7 @@
       "price": 80.0,
       "description": "",
       "category": "HOT TRAY",
-      "simplified_description": "Fettuccini pasta served with creamy Alfredo sauce.",
+      "simplified_description": "Fettuccini pasta served with creamy Alfredo sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -97,7 +97,7 @@
       "price": 80.0,
       "description": "",
       "category": "HOT TRAY",
-      "simplified_description": "Spaghetti pasta served with tomato-based marinara sauce.",
+      "simplified_description": "Spaghetti pasta served with tomato-based marinara sauce",
       "dietary_info": [
         "vegan",
         "nut-free"
@@ -109,7 +109,7 @@
       "price": 85.0,
       "description": "",
       "category": "HOT TRAY",
-      "simplified_description": "Spaghetti pasta served with a savory meat sauce.",
+      "simplified_description": "Spaghetti pasta served with a savory meat sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -120,7 +120,7 @@
       "price": 95.0,
       "description": "",
       "category": "HOT TRAY",
-      "simplified_description": "Fettuccini pasta with chicken in creamy Alfredo sauce.",
+      "simplified_description": "Fettuccini pasta with chicken in creamy Alfredo sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -131,7 +131,7 @@
       "price": 95.0,
       "description": "",
       "category": "HOT TRAY",
-      "simplified_description": "Fettuccini pasta with chicken and mushrooms in Alfredo sauce.",
+      "simplified_description": "Fettuccini pasta with chicken and mushrooms in Alfredo sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -142,7 +142,7 @@
       "price": 100.0,
       "description": "(Grilled chicken breast, tomatoes, spinach, creamy rosé sauce)",
       "category": "HOT TRAY",
-      "simplified_description": "Fettuccini with grilled chicken, tomatoes, spinach, and creamy rosé sauce.",
+      "simplified_description": "Fettuccini with grilled chicken, tomatoes, spinach, and creamy rosé sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -153,7 +153,7 @@
       "price": 100.0,
       "description": "(Homemade Bolognese sauce, ricotta, mozzarella & parmesan)",
       "category": "HOT TRAY",
-      "simplified_description": "Lasagna layered with meat sauce and three types of cheese.",
+      "simplified_description": "Lasagna layered with meat sauce and three types of cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -164,7 +164,7 @@
       "price": 90.0,
       "description": "(Beef, Rice & Tender cabbage Braised in Tomato Sauce)",
       "category": "HOT TRAY",
-      "simplified_description": "Beef and rice wrapped in cabbage, cooked in tomato sauce.",
+      "simplified_description": "Beef and rice wrapped in cabbage, cooked in tomato sauce",
       "dietary_info": [
         "nut-free"
       ],
@@ -175,7 +175,7 @@
       "price": 75.0,
       "description": "(Feed 8-12 People) SERVED WITH RANCH AND HUMMUS -CARROTS -BROCCOLI -CELERY -CAULIFLOWER -CUCUMBER -BELL PEPPERS -GRAPE TOMATOES",
       "category": "OTHER",
-      "simplified_description": "A large vegetable platter with ranch and hummus for 8-12 people.",
+      "simplified_description": "A large vegetable platter with ranch and hummus for 8-12 people",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -187,7 +187,7 @@
       "price": 85.0,
       "description": "(CHOOSE ANY 4) -Cheddar Cheese -Chicken Salad -Egg Salad -Ham & Cheese -Roast Beef w/onion & mustard -Tuna Salad",
       "category": "OTHER",
-      "simplified_description": "A platter of 48 assorted sandwiches with various fillings.",
+      "simplified_description": "A platter of 48 assorted sandwiches with various fillings",
       "dietary_info": [],
       "other_info": ""
     },
@@ -196,7 +196,7 @@
       "price": 60.0,
       "description": "",
       "category": "SWEETS",
-      "simplified_description": "A selection of 36 assorted cookies.",
+      "simplified_description": "A selection of 36 assorted cookies",
       "dietary_info": [],
       "other_info": ""
     },
@@ -205,7 +205,7 @@
       "price": 60.0,
       "description": "",
       "category": "SWEETS",
-      "simplified_description": "A selection of 36 mini cakes.",
+      "simplified_description": "A selection of 36 mini cakes",
       "dietary_info": [],
       "other_info": ""
     },
@@ -214,7 +214,7 @@
       "price": 2.0,
       "description": "(Coke, Diet coke, root beer, ginger ale, iced tea)",
       "category": "DRINK",
-      "simplified_description": "Canned soft drinks including Coke, root beer, and iced tea.",
+      "simplified_description": "Canned soft drinks including Coke, root beer, and iced tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -228,7 +228,7 @@
       "price": 3.0,
       "description": "(Water, Coke, Diet Coke, Root beer, Ginger Ale, Iced Tea)",
       "category": "DRINK",
-      "simplified_description": "Small bottled drinks including water, Coke, and iced tea.",
+      "simplified_description": "Small bottled drinks including water, Coke, and iced tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -242,7 +242,7 @@
       "price": 6.0,
       "description": "(Water, Coke, Diet Coke, Root beer, Ginger Ale, Iced Tea)",
       "category": "DRINK",
-      "simplified_description": "Large bottled drinks including water, Coke, and iced tea.",
+      "simplified_description": "Large bottled drinks including water, Coke, and iced tea",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -256,7 +256,7 @@
       "price": 4.0,
       "description": "(ORANGE, APPLE)",
       "category": "DRINK",
-      "simplified_description": "Bottled orange or apple juice.",
+      "simplified_description": "Bottled orange or apple juice",
       "dietary_info": [
         "vegan",
         "gluten-free",

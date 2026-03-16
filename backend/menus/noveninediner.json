@@ -6,27 +6,27 @@
     {
       "name": "CALIFORNIA CHICKEN AVOCADO",
       "price": 16.75,
-      "description": "Chicken Breast + Avocado + Sweet Siracha + Za’atar spiced Shoestring fries.",
+      "description": "Chicken Breast + Avocado + Sweet Siracha + Za’atar spiced Shoestring fries",
       "category": "FOOD",
-      "simplified_description": "Chicken Breast + Avocado + Sweet Siracha + Za’atar spiced Shoestring fries.",
+      "simplified_description": "Chicken Breast + Avocado + Sweet Siracha + Za’atar spiced Shoestring fries",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "REUBEN",
       "price": 16.25,
-      "description": "Corned beef + Swiss cheese + Caramelized onions + House made Russian dressing + Sauerkraut + Crispy onions + Za’atar spiced Shoestring fries.",
+      "description": "Corned beef + Swiss cheese + Caramelized onions + House made Russian dressing + Sauerkraut + Crispy onions + Za’atar spiced Shoestring fries",
       "category": "FOOD",
-      "simplified_description": "Corned beef + Swiss cheese + Caramelized onions + House made Russian dressing + ",
+      "simplified_description": "Corned beef + Swiss cheese + Caramelized onions + House made Russian dressing +",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "PULLED PORK",
       "price": 16.25,
-      "description": "Coleslaw +BBQ Sauce + Sautéed mushrooms + Crispy onions + Mayo + Za’atar spiced shoestring fries.",
+      "description": "Coleslaw +BBQ Sauce + Sautéed mushrooms + Crispy onions + Mayo + Za’atar spiced shoestring fries",
       "category": "FOOD",
-      "simplified_description": "Coleslaw +BBQ Sauce + Sautéed mushrooms + Crispy onions + Mayo + Za’atar spiced ",
+      "simplified_description": "Coleslaw +BBQ Sauce + Sautéed mushrooms + Crispy onions + Mayo + Za’atar spiced",
       "dietary_info": [],
       "other_info": ""
     },
@@ -42,9 +42,9 @@
     {
       "name": "BREAKFAST SANDWICH",
       "price": 7.99,
-      "description": "Burger bun topped with an egg, bacon, cheddar, lettuce, tomato.",
+      "description": "Burger bun topped with an egg, bacon, cheddar, lettuce, tomato",
       "category": "FOOD",
-      "simplified_description": "Burger bun topped with an egg, bacon, cheddar, lettuce, tomato.",
+      "simplified_description": "Burger bun topped with an egg, bacon, cheddar, lettuce, tomato",
       "dietary_info": [],
       "other_info": ""
     },
@@ -60,25 +60,25 @@
     {
       "name": "CALIFORNIA CHICKEN AVOCADO",
       "price": 11.99,
-      "description": "Chicken breast, avocado, mix greens, siracha mayo served over ciabatta bun.",
+      "description": "Chicken breast, avocado, mix greens, siracha mayo served over ciabatta bun",
       "category": "FOOD",
-      "simplified_description": "Chicken breast, avocado, mix greens, siracha mayo served over ciabatta bun.",
+      "simplified_description": "Chicken breast, avocado, mix greens, siracha mayo served over ciabatta bun",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "REUBEN",
       "price": 11.99,
-      "description": "Corned beef, swiss cheese, caramelized onions, siracha mayo, sauerkraut, crispy onions served over ciabatta bun.",
+      "description": "Corned beef, swiss cheese, caramelized onions, siracha mayo, sauerkraut, crispy onions served over ciabatta bun",
       "category": "FOOD",
-      "simplified_description": "Corned beef, swiss cheese, caramelized onions, siracha mayo, sauerkraut, crispy ",
+      "simplified_description": "Corned beef, swiss cheese, caramelized onions, siracha mayo, sauerkraut, crispy",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "PULLED PORK",
       "price": 11.99,
-      "description": "Slow cooked pulled pork, sautéed mushroom, BBQ sauce, crispy onion, siracha mayo, cole slaw served over ciabatta bun.",
+      "description": "Slow cooked pulled pork, sautéed mushroom, BBQ sauce, crispy onion, siracha mayo, cole slaw served over ciabatta bun",
       "category": "FOOD",
       "simplified_description": "Slow cooked pulled pork, sautéed mushroom, BBQ sauce, crispy onion, siracha mayo",
       "dietary_info": [],
@@ -87,9 +87,9 @@
     {
       "name": "EGG SALAD SANDWICH",
       "price": 7.99,
-      "description": "Egg (Egg, mayo. salt, pepper, green onion, yellow mustard), lettuce served over multigrain bread.",
+      "description": "Egg (Egg, mayo. salt, pepper, green onion, yellow mustard), lettuce served over multigrain bread",
       "category": "FOOD",
-      "simplified_description": "Egg (Egg, mayo. salt, pepper, green onion, yellow mustard), lettuce served over ",
+      "simplified_description": "Egg (Egg, mayo. salt, pepper, green onion, yellow mustard), lettuce served over",
       "dietary_info": [],
       "other_info": ""
     },
@@ -107,7 +107,7 @@
       "price": 11.99,
       "description": "Paneer (Indian Cottage Cheese) with reach creamy tomato gravy with green pepper and onion, served with rice",
       "category": "FOOD",
-      "simplified_description": "Paneer (Indian Cottage Cheese) with reach creamy tomato gravy with green pepper ",
+      "simplified_description": "Paneer (Indian Cottage Cheese) with reach creamy tomato gravy with green pepper",
       "dietary_info": [],
       "other_info": ""
     },
@@ -123,18 +123,18 @@
     {
       "name": "LAMB CURRY (DAIRY FREE/GLUTEN FREE)",
       "price": 12.99,
-      "description": "Slow cooked boneless New Zealand lamb in traditional roganjosh sauce.",
+      "description": "Slow cooked boneless New Zealand lamb in traditional roganjosh sauce",
       "category": "FOOD",
-      "simplified_description": "Slow cooked boneless New Zealand lamb in traditional roganjosh sauce.",
+      "simplified_description": "Slow cooked boneless New Zealand lamb in traditional roganjosh sauce",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "AFTERNOON TEA",
       "price": 49.99,
-      "description": "Indulge in a delightful afternoon tea experience with us.",
+      "description": "Indulge in a delightful afternoon tea experience with us",
       "category": "OTHER",
-      "simplified_description": "Indulge in a delightful afternoon tea experience with us.",
+      "simplified_description": "Indulge in a delightful afternoon tea experience with us",
       "dietary_info": [],
       "other_info": ""
     }

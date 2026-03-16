@@ -6,7 +6,7 @@
     {
       "name": "12\" FUNKY BUNCH PIZZA + WINGS",
       "price": 40.0,
-      "description": "choose any of our 12\" Funky Bunch pizzas with 1lb of wings in your flavour choice.",
+      "description": "choose any of our 12\" Funky Bunch pizzas with 1lb of wings in your flavour choice",
       "category": "COMBO",
       "simplified_description": "choose any of our 12\" Funky Bunch pizzas with 1lb of wings in your flavour choic",
       "dietary_info": [],
@@ -15,7 +15,7 @@
     {
       "name": "14\" FUNKY BUNCH PIZZA + WINGS",
       "price": 45.0,
-      "description": "choose any of our 14\" Funky Bunch pizzas with 1lb of wings in your flavour choice.",
+      "description": "choose any of our 14\" Funky Bunch pizzas with 1lb of wings in your flavour choice",
       "category": "COMBO",
       "simplified_description": "choose any of our 14\" Funky Bunch pizzas with 1lb of wings in your flavour choic",
       "dietary_info": [],
@@ -24,7 +24,7 @@
     {
       "name": "12\" FUNKY BUNCH PIZZA + 4-PACK",
       "price": 46.0,
-      "description": "choose any of our 12\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "description": "choose any of our 12\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Blond",
       "category": "COMBO",
       "simplified_description": "choose any of our 12\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Bl",
       "dietary_info": [],
@@ -33,7 +33,7 @@
     {
       "name": "14\" FUNKY BUNCH PIZZA + 4-PACK",
       "price": 50.0,
-      "description": "choose any of our 14\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "description": "choose any of our 14\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Blond",
       "category": "COMBO",
       "simplified_description": "choose any of our 14\" Funky Bunch pizzas with a 4-pack of Pink Door Pineapple Bl",
       "dietary_info": [],
@@ -42,16 +42,16 @@
     {
       "name": "12\" OL' FAITHFUL PIZZA + WINGS",
       "price": 37.0,
-      "description": "choose any of our Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "description": "choose any of our Ol' Faithful pizzas with 1lb wings in your flavour choice",
       "category": "COMBO",
-      "simplified_description": "choose any of our Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "simplified_description": "choose any of our Ol' Faithful pizzas with 1lb wings in your flavour choice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "12\" OL' FAITHFUL PIZZA + 4-PACK",
       "price": 44.0,
-      "description": "choose any of our 12\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "description": "choose any of our 12\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple Blond",
       "category": "COMBO",
       "simplified_description": "choose any of our 12\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple B",
       "dietary_info": [],
@@ -60,23 +60,23 @@
     {
       "name": "14\" OL' FAITHFUL PIZZA + WINGS",
       "price": 41.0,
-      "description": "choose any of our 14\" Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "description": "choose any of our 14\" Ol' Faithful pizzas with 1lb wings in your flavour choice",
       "category": "COMBO",
-      "simplified_description": "choose any of our 14\" Ol' Faithful pizzas with 1lb wings in your flavour choice.",
+      "simplified_description": "choose any of our 14\" Ol' Faithful pizzas with 1lb wings in your flavour choice",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "14\" OL' FAITHFUL PIZZA + 4-PACK",
       "price": 48.0,
-      "description": "choose any of our 14\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple Blond.",
+      "description": "choose any of our 14\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple Blond",
       "category": "COMBO",
       "simplified_description": "choose any of our 14\" Ol' Faithful pizzas with a 4-pack of Pink Door Pineapple B",
       "dietary_info": [],
       "other_info": ""
     },
     {
-      "name": "*NEW* JAMAICAN ME CRAZY",
+      "name": "NEW* JAMAICAN ME CRAZY",
       "price": 23.0,
       "description": "jerk chicken, alfredo sauce, red peppers, mozza, jerk sauce, green onions 10\"-$23/12\"-$29/14\"-$34",
       "category": "PIZZA",
@@ -98,7 +98,7 @@
       "price": 23.0,
       "description": "tomato salsa, taco beef, mozza, cheddar, pico de gallo, chipotle aioli, crushed Doritos 10\"-$23/12\"-$29/14\"-$34",
       "category": "PIZZA",
-      "simplified_description": "tomato salsa, taco beef, mozza, cheddar, pico de gallo, chipotle aioli, crushed ",
+      "simplified_description": "tomato salsa, taco beef, mozza, cheddar, pico de gallo, chipotle aioli, crushed",
       "dietary_info": [],
       "other_info": ""
     },
@@ -107,7 +107,7 @@
       "price": 22.0,
       "description": "dill pickles, pickled fennel + onion + fresno chile, fresh dill, garlic butter, cheddar, mozza, chipotle aioli 10\"-$22/12\"-$28/14\"-$32",
       "category": "PIZZA",
-      "simplified_description": "dill pickles, pickled fennel + onion + fresno chile, fresh dill, garlic butter, ",
+      "simplified_description": "dill pickles, pickled fennel + onion + fresno chile, fresh dill, garlic butter",
       "dietary_info": [],
       "other_info": ""
     },
@@ -152,7 +152,7 @@
       "price": 22.0,
       "description": "tomato sauce, beef, fried onion, bacon, fancy sauce, cheddar, mozza 10\"-$22/12\"-$27/14\"-$32",
       "category": "PIZZA",
-      "simplified_description": "tomato sauce, beef, fried onion, bacon, fancy sauce, cheddar, mozza 10\"-$22/12\"-",
+      "simplified_description": "tomato sauce, beef, fried onion, bacon, fancy sauce, cheddar, mozza 10\"-$22/12\"",
       "dietary_info": [],
       "other_info": ""
     },

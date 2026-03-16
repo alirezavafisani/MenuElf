@@ -8,7 +8,7 @@
       "price": 24.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "A selection of fresh vegetables served as an appetizer.",
+      "simplified_description": "A selection of fresh vegetables served as an appetizer",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -22,7 +22,7 @@
       "price": 20.0,
       "description": "Zucchini sticks, chicken fingers, wings, and calamari",
       "category": "APPETIZER",
-      "simplified_description": "Mixed platter with zucchini sticks, chicken fingers, wings, and calamari.",
+      "simplified_description": "Mixed platter with zucchini sticks, chicken fingers, wings, and calamari",
       "dietary_info": [],
       "other_info": ""
     },
@@ -31,7 +31,7 @@
       "price": 40.0,
       "description": "Zucchini sticks, chicken fingers, wings, calamari, nachos and dry ribs",
       "category": "APPETIZER",
-      "simplified_description": "Large platter with various fried appetizers and ribs for sharing.",
+      "simplified_description": "Large platter with various fried appetizers and ribs for sharing",
       "dietary_info": [],
       "other_info": "Serves two or more"
     },
@@ -40,16 +40,16 @@
       "price": 18.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Seven pieces of breaded and fried shrimp appetizer.",
+      "simplified_description": "Seven pieces of breaded and fried shrimp appetizer",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Chicken Wings (12)",
       "price": 17.0,
-      "description": "_hot, medium, mild, BBQ, teriyaki, honey garlic, sweet Thai chili, suicide hot, salt and pepper & greek_",
+      "description": "hot, medium, mild, BBQ, teriyaki, honey garlic, sweet Thai chili, suicide hot, salt and pepper & greek",
       "category": "APPETIZER",
-      "simplified_description": "Twelve chicken wings with a choice of various sauces and spice levels.",
+      "simplified_description": "Twelve chicken wings with a choice of various sauces and spice levels",
       "dietary_info": [
         "halal",
         "nut-free"
@@ -61,7 +61,7 @@
       "price": 14.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Breaded and fried chicken strips served as an appetizer.",
+      "simplified_description": "Breaded and fried chicken strips served as an appetizer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -70,7 +70,7 @@
       "price": 19.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Fried squid rings served as a crispy appetizer.",
+      "simplified_description": "Fried squid rings served as a crispy appetizer",
       "dietary_info": [],
       "other_info": ""
     },
@@ -79,7 +79,7 @@
       "price": 20.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Full rack of pork back ribs cooked with BBQ sauce.",
+      "simplified_description": "Full rack of pork back ribs cooked with BBQ sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -88,7 +88,7 @@
       "price": 15.5,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Boneless pork ribs breaded and fried for a crispy texture.",
+      "simplified_description": "Boneless pork ribs breaded and fried for a crispy texture",
       "dietary_info": [],
       "other_info": ""
     },
@@ -97,7 +97,7 @@
       "price": 30.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Three beef ribs cooked with BBQ sauce.",
+      "simplified_description": "Three beef ribs cooked with BBQ sauce",
       "dietary_info": [],
       "other_info": ""
     },
@@ -106,7 +106,7 @@
       "price": 15.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Fried mozzarella cheese sticks served with dipping sauce.",
+      "simplified_description": "Fried mozzarella cheese sticks served with dipping sauce",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -118,7 +118,7 @@
       "price": 14.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Mushrooms pan-fried to a golden brown.",
+      "simplified_description": "Mushrooms pan-fried to a golden brown",
       "dietary_info": [
         "vegetarian",
         "gluten-free",
@@ -130,9 +130,9 @@
     {
       "name": "Baked Mushrooms",
       "price": 15.0,
-      "description": "_Stuffed with shrimp and crab, topped with mozzarella_",
+      "description": "Stuffed with shrimp and crab, topped with mozzarella",
       "category": "APPETIZER",
-      "simplified_description": "Mushrooms stuffed with shrimp and crab, topped with melted mozzarella.",
+      "simplified_description": "Mushrooms stuffed with shrimp and crab, topped with melted mozzarella",
       "dietary_info": [],
       "other_info": ""
     },
@@ -141,7 +141,7 @@
       "price": 14.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Breaded and fried zucchini sticks served as a snack.",
+      "simplified_description": "Breaded and fried zucchini sticks served as a snack",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -153,7 +153,7 @@
       "price": 15.0,
       "description": "",
       "category": "APPETIZER",
-      "simplified_description": "Potato skins loaded with toppings and baked until crispy.",
+      "simplified_description": "Potato skins loaded with toppings and baked until crispy",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -163,9 +163,9 @@
     {
       "name": "Nachos and Cheese",
       "price": 16.0,
-      "description": "_add chicken or beef_",
+      "description": "add chicken or beef",
       "category": "APPETIZER",
-      "simplified_description": "Tortilla chips topped with cheese, with optional chicken or beef.",
+      "simplified_description": "Tortilla chips topped with cheese, with optional chicken or beef",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -175,9 +175,9 @@
     {
       "name": "Pita Platter",
       "price": 15.0,
-      "description": "_tzatziki, hummus, spinach, and artichoke dips_",
+      "description": "tzatziki, hummus, spinach, and artichoke dips",
       "category": "APPETIZER",
-      "simplified_description": "Pita bread served with tzatziki, hummus, spinach, and artichoke dips.",
+      "simplified_description": "Pita bread served with tzatziki, hummus, spinach, and artichoke dips",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -189,7 +189,7 @@
       "price": 6.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Baked potato filled with a savory stuffing.",
+      "simplified_description": "Baked potato filled with a savory stuffing",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -201,7 +201,7 @@
       "price": 1.5,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Toasted bread topped with garlic butter.",
+      "simplified_description": "Toasted bread topped with garlic butter",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -213,7 +213,7 @@
       "price": 8.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Classic deep-fried potato fries.",
+      "simplified_description": "Classic deep-fried potato fries",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -227,7 +227,7 @@
       "price": 10.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Deep-fried sweet potato fries.",
+      "simplified_description": "Deep-fried sweet potato fries",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -239,9 +239,9 @@
     {
       "name": "Poutine",
       "price": 12.0,
-      "description": "_add pulled pork_",
+      "description": "add pulled pork",
       "category": "SIDE",
-      "simplified_description": "French fries topped with cheese curds and gravy, optional pulled pork.",
+      "simplified_description": "French fries topped with cheese curds and gravy, optional pulled pork",
       "dietary_info": [
         "nut-free"
       ],
@@ -252,7 +252,7 @@
       "price": 10.0,
       "description": "",
       "category": "SIDE",
-      "simplified_description": "Battered and fried onion slices.",
+      "simplified_description": "Battered and fried onion slices",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -264,7 +264,7 @@
       "price": 3.0,
       "description": "",
       "category": "DRINK",
-      "simplified_description": "Bottled carbonated soft drink.",
+      "simplified_description": "Bottled carbonated soft drink",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -278,7 +278,7 @@
       "price": 8.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Mixed green salad with fresh vegetables.",
+      "simplified_description": "Mixed green salad with fresh vegetables",
       "dietary_info": [
         "vegan",
         "gluten-free",
@@ -290,9 +290,9 @@
     {
       "name": "Caesar Salad",
       "price": 14.0,
-      "description": "_$18.00 for two_",
+      "description": "$18.00 for two",
       "category": "OTHER",
-      "simplified_description": "Classic Caesar salad with romaine and dressing.",
+      "simplified_description": "Classic Caesar salad with romaine and dressing",
       "dietary_info": [
         "nut-free"
       ],
@@ -303,7 +303,7 @@
       "price": 20.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Caesar salad topped with grilled chicken.",
+      "simplified_description": "Caesar salad topped with grilled chicken",
       "dietary_info": [
         "nut-free"
       ],
@@ -314,7 +314,7 @@
       "price": 24.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Caesar salad topped with sliced steak.",
+      "simplified_description": "Caesar salad topped with sliced steak",
       "dietary_info": [
         "nut-free"
       ],
@@ -325,7 +325,7 @@
       "price": 19.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Salad with tomatoes, cucumbers, olives, and feta cheese.",
+      "simplified_description": "Salad with tomatoes, cucumbers, olives, and feta cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free",
@@ -338,7 +338,7 @@
       "price": 22.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Salad with shrimp and crab meat.",
+      "simplified_description": "Salad with shrimp and crab meat",
       "dietary_info": [
         "nut-free",
         "gluten-free"
@@ -350,7 +350,7 @@
       "price": 20.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A mixed salad with various fresh ingredients.",
+      "simplified_description": "A mixed salad with various fresh ingredients",
       "dietary_info": [
         "gluten-free",
         "nut-free"
@@ -360,27 +360,27 @@
     {
       "name": "Baked French Onion",
       "price": 9.0,
-      "description": "_Dine-In only_",
+      "description": "Dine-In only",
       "category": "OTHER",
-      "simplified_description": "Classic French onion soup baked with melted cheese.",
+      "simplified_description": "Classic French onion soup baked with melted cheese",
       "dietary_info": [],
       "other_info": "Dine-In only"
     },
     {
       "name": "Soup of the Day",
       "price": 6.0,
-      "description": "_Dine-In only_",
+      "description": "Dine-In only",
       "category": "OTHER",
-      "simplified_description": "Daily special soup, varies by day.",
+      "simplified_description": "Daily special soup, varies by day",
       "dietary_info": [],
       "other_info": "Dine-In only"
     },
     {
       "name": "Clam Chowder",
       "price": 9.0,
-      "description": "_Dine-In only_",
+      "description": "Dine-In only",
       "category": "OTHER",
-      "simplified_description": "Creamy soup with clams and potatoes.",
+      "simplified_description": "Creamy soup with clams and potatoes",
       "dietary_info": [],
       "other_info": "Dine-In only"
     },
@@ -389,7 +389,7 @@
       "price": 16.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Sandwich with breakfast ingredients like eggs and meat.",
+      "simplified_description": "Sandwich with breakfast ingredients like eggs and meat",
       "dietary_info": [],
       "other_info": ""
     },
@@ -398,7 +398,7 @@
       "price": 15.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Toasted sandwich with melted cheese.",
+      "simplified_description": "Toasted sandwich with melted cheese",
       "dietary_info": [
         "vegetarian",
         "nut-free"
@@ -410,7 +410,7 @@
       "price": 16.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Bacon, lettuce, and tomato sandwich.",
+      "simplified_description": "Bacon, lettuce, and tomato sandwich",
       "dietary_info": [
         "nut-free"
       ],
@@ -421,7 +421,7 @@
       "price": 15.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Sandwich with ham and melted cheese.",
+      "simplified_description": "Sandwich with ham and melted cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -432,7 +432,7 @@
       "price": 18.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Fried ham and cheese sandwich with powdered sugar.",
+      "simplified_description": "Fried ham and cheese sandwich with powdered sugar",
       "dietary_info": [
         "nut-free"
       ],
@@ -443,7 +443,7 @@
       "price": 18.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Sandwich with sliced turkey and fresh toppings.",
+      "simplified_description": "Sandwich with sliced turkey and fresh toppings",
       "dietary_info": [
         "nut-free"
       ],
@@ -454,7 +454,7 @@
       "price": 18.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Triple-layer sandwich with meats, lettuce, and tomato.",
+      "simplified_description": "Triple-layer sandwich with meats, lettuce, and tomato",
       "dietary_info": [
         "nut-free"
       ],
@@ -465,7 +465,7 @@
       "price": 20.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Roast beef sandwich served with dipping au jus.",
+      "simplified_description": "Roast beef sandwich served with dipping au jus",
       "dietary_info": [
         "nut-free"
       ],
@@ -474,9 +474,9 @@
     {
       "name": "Seafood Melt",
       "price": 20.0,
-      "description": "_Topped with tomatoes, crab, shrimp, and melted cheese._",
+      "description": "Topped with tomatoes, crab, shrimp, and melted cheese",
       "category": "OTHER",
-      "simplified_description": "Seafood sandwich with crab, shrimp, tomatoes, and melted cheese.",
+      "simplified_description": "Seafood sandwich with crab, shrimp, tomatoes, and melted cheese",
       "dietary_info": [
         "nut-free"
       ],
@@ -485,9 +485,9 @@
     {
       "name": "Lemon Sole",
       "price": 24.0,
-      "description": "_Lightly breaded sole filets pan-fried to a perfect golden brown_",
+      "description": "Lightly breaded sole filets pan-fried to a perfect golden brown",
       "category": "OTHER",
-      "simplified_description": "Lightly breaded and pan-fried sole fish fillets.",
+      "simplified_description": "Lightly breaded and pan-fried sole fish fillets",
       "dietary_info": [
         "nut-free"
       ],
@@ -496,9 +496,9 @@
     {
       "name": "Fish & Chips",
       "price": 21.5,
-      "description": "_Extra Piece_",
+      "description": "Extra Piece",
       "category": "OTHER",
-      "simplified_description": "Fried fish served with chips; includes an extra piece.",
+      "simplified_description": "Fried fish served with chips; includes an extra piece",
       "dietary_info": [
         "nut-free"
       ],
@@ -509,7 +509,7 @@
       "price": 24.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "Six breaded jumbo shrimp served as a dinner portion.",
+      "simplified_description": "Six breaded jumbo shrimp served as a dinner portion",
       "dietary_info": [],
       "other_info": ""
     },
@@ -518,7 +518,7 @@
       "price": 45.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A dinner featuring a single lobster tail.",
+      "simplified_description": "A dinner featuring a single lobster tail",
       "dietary_info": [],
       "other_info": ""
     },
@@ -527,16 +527,16 @@
       "price": 75.0,
       "description": "",
       "category": "OTHER",
-      "simplified_description": "A dinner featuring two lobster tails.",
+      "simplified_description": "A dinner featuring two lobster tails",
       "dietary_info": [],
       "other_info": ""
     },
     {
       "name": "Steak & Lobster",
       "price": 60.0,
-      "description": "_The ultimate! An 8oz. top sirloin steak charbroiled the way you like it. Served with a tender lobster tail and browned butter for dipping_",
+      "description": "The ultimate! An 8oz. top sirloin steak charbroiled the way you like it. Served with a tender lobster tail and browned butter for dipping",
       "category": "OTHER",
-      "simplified_description": "Grilled 8oz sirloin steak with lobster tail and browned butter.",
+      "simplified_description": "Grilled 8oz sirloin steak with lobster tail and browned butter",
       "dietary_info": [],
       "other_info": ""
     }
