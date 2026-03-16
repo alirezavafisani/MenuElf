@@ -6,9 +6,11 @@ import {
 import { useRouter } from 'expo-router';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { apiGet, apiPost } from '../lib/api';
+import { colors, radii } from '../lib/theme';
+import GoldButton from '../components/ui/GoldButton';
 
-const { width: SCREEN_WIDTH } = Dimensions.get('window');
-const IMAGE_SIZE = Math.min(SCREEN_WIDTH * 0.42, 180);
+const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
+const CARD_HEIGHT = (SCREEN_HEIGHT - 280) / 2;
 
 type QuestionOption = {
   image_url: string;
@@ -37,14 +39,26 @@ export default function OnboardingScreen() {
   const [loading, setLoading] = useState(true);
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState('');
+  const [selected, setSelected] = useState<'a' | 'b' | null>(null);
   const fadeAnim = useRef(new Animated.Value(1)).current;
-  const scaleA = useRef(new Animated.Value(1)).current;
-  const scaleB = useRef(new Animated.Value(1)).current;
+  const slideAnim = useRef(new Animated.Value(0)).current;
+  const borderAnimA = useRef(new Animated.Value(0)).current;
+  const borderAnimB = useRef(new Animated.Value(0)).current;
+  const loadingDotAnim = useRef(new Animated.Value(0)).current;
 
-  // Load questions and restore progress
+  useEffect(() => { loadQuestions(); }, []);
+
+  // Loading dot animation for submitting state
   useEffect(() => {
-    loadQuestions();
-  }, []);
+    if (submitting) {
+      Animated.loop(
+        Animated.sequence([
+          Animated.timing(loadingDotAnim, { toValue: 1, duration: 800, useNativeDriver: true }),
+          Animated.timing(loadingDotAnim, { toValue: 0, duration: 800, useNativeDriver: true }),
+        ])
+      ).start();
+    }
+  }, [submitting]);
 
   const loadQuestions = async () => {
     try {
@@ -54,7 +68,6 @@ export default function OnboardingScreen() {
       const data = await res.json();
       setQuestions(data.questions || []);
 
-      // Restore progress
       const saved = await AsyncStorage.getItem(ONBOARDING_PROGRESS_KEY);
       if (saved) {
         const progress = JSON.parse(saved);
@@ -83,12 +96,10 @@ export default function OnboardingScreen() {
     const question = questions[currentIndex];
     if (!question) return;
 
-    // Animate tap
-    const scaleRef = option === 'a' ? scaleA : scaleB;
-    Animated.sequence([
-      Animated.spring(scaleRef, { toValue: 0.92, useNativeDriver: true, friction: 5 }),
-      Animated.spring(scaleRef, { toValue: 1, useNativeDriver: true, friction: 5 }),
-    ]).start();
+    // Show gold border on selected card
+    setSelected(option);
+    const borderRef = option === 'a' ? borderAnimA : borderAnimB;
+    Animated.timing(borderRef, { toValue: 1, duration: 200, useNativeDriver: false }).start();
 
     const newAnswer: Answer = { question_index: question.question_index, chosen_option: option };
     const newAnswers = [...answers.filter(a => a.question_index !== question.question_index), newAnswer];
@@ -96,18 +107,30 @@ export default function OnboardingScreen() {
 
     const nextIndex = currentIndex + 1;
 
-    if (nextIndex >= questions.length) {
-      // All answered — submit
-      await saveProgress(newAnswers, nextIndex);
-      submitOnboarding(newAnswers);
-    } else {
-      // Transition to next question
-      Animated.timing(fadeAnim, { toValue: 0, duration: 150, useNativeDriver: true }).start(() => {
-        setCurrentIndex(nextIndex);
+    // Delay before transition
+    setTimeout(() => {
+      if (nextIndex >= questions.length) {
         saveProgress(newAnswers, nextIndex);
-        Animated.timing(fadeAnim, { toValue: 1, duration: 250, useNativeDriver: true }).start();
-      });
-    }
+        submitOnboarding(newAnswers);
+      } else {
+        // Slide + fade transition
+        Animated.parallel([
+          Animated.timing(fadeAnim, { toValue: 0, duration: 200, useNativeDriver: true }),
+          Animated.timing(slideAnim, { toValue: -30, duration: 200, useNativeDriver: true }),
+        ]).start(() => {
+          setCurrentIndex(nextIndex);
+          setSelected(null);
+          borderAnimA.setValue(0);
+          borderAnimB.setValue(0);
+          slideAnim.setValue(30);
+          saveProgress(newAnswers, nextIndex);
+          Animated.parallel([
+            Animated.timing(fadeAnim, { toValue: 1, duration: 300, useNativeDriver: true }),
+            Animated.timing(slideAnim, { toValue: 0, duration: 300, useNativeDriver: true }),
+          ]).start();
+        });
+      }
+    }, 300);
   };
 
   const submitOnboarding = async (finalAnswers: Answer[]) => {
@@ -119,12 +142,8 @@ export default function OnboardingScreen() {
         const errData = await res.json().catch(() => ({}));
         throw new Error(errData.detail || 'Failed to save profile');
       }
-
-      // Mark complete
       await AsyncStorage.setItem(ONBOARDING_KEY, 'true');
       await AsyncStorage.removeItem(ONBOARDING_PROGRESS_KEY);
-
-      // Navigate to main app
       router.replace('/(tabs)');
     } catch (e: any) {
       setError(e.message || 'Something went wrong. Please try again.');
@@ -135,34 +154,32 @@ export default function OnboardingScreen() {
   const formatLabel = (label: string) =>
     label.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
 
-  // Loading state
   if (loading) {
     return (
       <View style={styles.container}>
-        <ActivityIndicator size="large" color="#D4A574" />
+        <ActivityIndicator size="large" color={colors.goldPrimary} />
         <Text style={styles.loadingText}>Loading questions...</Text>
       </View>
     );
   }
 
-  // Error state with retry
   if (error && questions.length === 0) {
     return (
       <View style={styles.container}>
         <Text style={styles.errorText}>{error}</Text>
-        <TouchableOpacity style={styles.retryBtn} onPress={() => { setLoading(true); loadQuestions(); }}>
-          <Text style={styles.retryBtnText}>Try Again</Text>
-        </TouchableOpacity>
+        <GoldButton title="Try Again" onPress={() => { setLoading(true); loadQuestions(); }} inline />
       </View>
     );
   }
 
-  // Submitting state
   if (submitting) {
     return (
       <View style={styles.container}>
-        <ActivityIndicator size="large" color="#D4A574" />
-        <Text style={styles.loadingText}>Building your taste profile...</Text>
+        <Animated.View style={{ opacity: loadingDotAnim.interpolate({ inputRange: [0, 1], outputRange: [0.4, 1] }) }}>
+          <Text style={styles.buildingEmoji}>&#9733;</Text>
+        </Animated.View>
+        <Text style={styles.buildingText}>Building your taste profile...</Text>
+        <Text style={styles.buildingSubtext}>This will only take a moment</Text>
       </View>
     );
   }
@@ -170,44 +187,62 @@ export default function OnboardingScreen() {
   const question = questions[currentIndex];
   if (!question) return null;
 
+  const borderColorA = borderAnimA.interpolate({
+    inputRange: [0, 1],
+    outputRange: [colors.border, colors.goldPrimary],
+  });
+  const borderColorB = borderAnimB.interpolate({
+    inputRange: [0, 1],
+    outputRange: [colors.border, colors.goldPrimary],
+  });
+
   return (
     <View style={styles.container}>
       {/* Progress dots */}
       <View style={styles.progressRow}>
         {questions.map((_, i) => (
-          <View key={i} style={[styles.dot, i <= currentIndex ? styles.dotActive : styles.dotInactive]} />
+          <View
+            key={i}
+            style={[
+              styles.dot,
+              i < currentIndex ? styles.dotCompleted :
+              i === currentIndex ? styles.dotActive : styles.dotInactive,
+            ]}
+          />
         ))}
       </View>
 
-      <Text style={styles.title}>Pick your vibe</Text>
-      <Text style={styles.subtitle}>{currentIndex + 1} of {questions.length}</Text>
+      <Text style={styles.heading}>What excites your taste buds?</Text>
+      <Text style={styles.counter}>{currentIndex + 1} of {questions.length}</Text>
 
       {error ? <Text style={styles.inlineError}>{error}</Text> : null}
 
-      <Animated.View style={[styles.optionsRow, { opacity: fadeAnim }]}>
+      <Animated.View style={[styles.optionsContainer, { opacity: fadeAnim, transform: [{ translateY: slideAnim }] }]}>
         {/* Option A */}
-        <Animated.View style={{ transform: [{ scale: scaleA }] }}>
+        <Animated.View style={[styles.optionCard, { borderColor: borderColorA }]}>
           <TouchableOpacity
-            style={styles.optionCard}
+            style={styles.optionTouchable}
             activeOpacity={0.85}
             onPress={() => handleChoice('a')}
           >
             <Image source={{ uri: question.option_a.image_url }} style={styles.foodImage} />
-            <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_a.label)}</Text>
+            <View style={styles.labelOverlay}>
+              <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_a.label)}</Text>
+            </View>
           </TouchableOpacity>
         </Animated.View>
 
-        <Text style={styles.orText}>or</Text>
-
         {/* Option B */}
-        <Animated.View style={{ transform: [{ scale: scaleB }] }}>
+        <Animated.View style={[styles.optionCard, { borderColor: borderColorB }]}>
           <TouchableOpacity
-            style={styles.optionCard}
+            style={styles.optionTouchable}
             activeOpacity={0.85}
             onPress={() => handleChoice('b')}
           >
             <Image source={{ uri: question.option_b.image_url }} style={styles.foodImage} />
-            <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_b.label)}</Text>
+            <View style={styles.labelOverlay}>
+              <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_b.label)}</Text>
+            </View>
           </TouchableOpacity>
         </Animated.View>
       </Animated.View>
@@ -218,14 +253,14 @@ export default function OnboardingScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#0D0D0D',
+    backgroundColor: colors.background,
     justifyContent: 'center',
     alignItems: 'center',
     padding: 24,
   },
   progressRow: {
     flexDirection: 'row',
-    gap: 8,
+    gap: 10,
     marginBottom: 32,
   },
   dot: {
@@ -234,78 +269,93 @@ const styles = StyleSheet.create({
     borderRadius: 5,
   },
   dotActive: {
-    backgroundColor: '#D4A574',
+    backgroundColor: colors.goldPrimary,
+    width: 24,
+    borderRadius: 5,
+  },
+  dotCompleted: {
+    backgroundColor: colors.goldDark,
   },
   dotInactive: {
-    backgroundColor: '#333',
+    backgroundColor: colors.surfaceElevated,
   },
-  title: {
-    fontSize: 28,
+  heading: {
+    fontSize: 24,
     fontWeight: '800',
-    color: '#FFFFFF',
+    color: colors.textPrimary,
+    textAlign: 'center',
     marginBottom: 4,
   },
-  subtitle: {
-    fontSize: 16,
-    color: '#888',
-    marginBottom: 32,
+  counter: {
+    fontSize: 14,
+    color: colors.textTertiary,
+    marginBottom: 28,
   },
-  optionsRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
+  inlineError: {
+    color: colors.error,
+    fontSize: 14,
+    textAlign: 'center',
+    marginBottom: 12,
+  },
+  optionsContainer: {
+    width: '100%',
     gap: 16,
   },
   optionCard: {
-    alignItems: 'center',
-    width: IMAGE_SIZE + 16,
+    borderRadius: radii.card,
+    borderWidth: 2,
+    overflow: 'hidden',
+    height: CARD_HEIGHT,
+  },
+  optionTouchable: {
+    flex: 1,
   },
   foodImage: {
-    width: IMAGE_SIZE,
-    height: IMAGE_SIZE,
-    borderRadius: 20,
-    backgroundColor: '#222',
+    width: '100%',
+    height: '100%',
+    backgroundColor: colors.surface,
+  },
+  labelOverlay: {
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    paddingVertical: 14,
+    paddingHorizontal: 16,
+    backgroundColor: 'rgba(0,0,0,0.6)',
   },
   optionLabel: {
-    color: '#FFFFFF',
-    fontSize: 14,
-    fontWeight: '600',
-    textAlign: 'center',
-    marginTop: 12,
-    lineHeight: 20,
-  },
-  orText: {
-    color: '#666',
+    color: colors.textPrimary,
     fontSize: 16,
-    fontWeight: '600',
+    fontWeight: '700',
+    textAlign: 'center',
   },
   loadingText: {
-    color: '#D4A574',
+    color: colors.goldPrimary,
     fontSize: 18,
     fontWeight: '600',
     marginTop: 16,
   },
   errorText: {
-    color: '#FF6B6B',
+    color: colors.error,
     fontSize: 16,
     textAlign: 'center',
     marginBottom: 20,
     lineHeight: 22,
   },
-  inlineError: {
-    color: '#FF6B6B',
-    fontSize: 14,
-    textAlign: 'center',
-    marginBottom: 12,
+  buildingEmoji: {
+    fontSize: 48,
+    color: colors.goldPrimary,
+    marginBottom: 16,
   },
-  retryBtn: {
-    backgroundColor: '#D4A574',
-    paddingHorizontal: 32,
-    paddingVertical: 14,
-    borderRadius: 12,
-  },
-  retryBtnText: {
-    color: '#0D0D0D',
-    fontSize: 16,
+  buildingText: {
+    color: colors.goldPrimary,
+    fontSize: 20,
     fontWeight: '700',
+    marginBottom: 8,
+  },
+  buildingSubtext: {
+    color: colors.textSecondary,
+    fontSize: 14,
   },
 });

@@ -1,12 +1,16 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import {
-  StyleSheet, View, Text, TextInput, TouchableOpacity,
+  StyleSheet, View, Text, TouchableOpacity,
   ActivityIndicator, Platform, Animated, FlatList, Keyboard,
 } from 'react-native';
 import { useRouter } from 'expo-router';
-import MapView, { Marker, Callout, PROVIDER_GOOGLE } from '../../components/MapView';
+import MapView, { Marker, PROVIDER_GOOGLE } from '../../components/MapView';
 import * as Location from 'expo-location';
 import { apiGet, logInteraction } from '../../lib/api';
+import { colors, radii, spacing, darkMapStyle, getMatchColor } from '../../lib/theme';
+import SearchBar from '../../components/ui/SearchBar';
+import MatchBadge from '../../components/ui/MatchBadge';
+import GoldButton from '../../components/ui/GoldButton';
 
 type TopDish = {
   dish_name: string;
@@ -26,16 +30,6 @@ type RestaurantInfo = {
   top_dish?: TopDish | null;
 };
 
-// ── Rating → color helper ────────────────────────────
-const ratingColor = (r: number | null) => {
-  if (!r) return '#999';
-  if (r >= 4.5) return '#27AE60';
-  if (r >= 4.0) return '#F39C12';
-  if (r >= 3.0) return '#E67E22';
-  return '#E74C3C';
-};
-
-// ── Component ────────────────────────────────────────
 export default function SearchScreen() {
   const router = useRouter();
   const [searchQuery, setSearchQuery] = useState('');
@@ -49,15 +43,12 @@ export default function SearchScreen() {
   const mapRef = useRef<any>(null);
   const cardAnim = useRef(new Animated.Value(0)).current;
 
-  // Let markers render fully before turning off tracking (Android fix)
-  // Reset whenever restaurants change (e.g. after search) so new markers render properly
   useEffect(() => {
     setMarkersReady(false);
     const timer = setTimeout(() => setMarkersReady(true), 2000);
     return () => clearTimeout(timer);
   }, [restaurants]);
 
-  // ── Get user location ──────────────────────────────
   useEffect(() => {
     (async () => {
       const { status } = await Location.requestForegroundPermissionsAsync();
@@ -68,11 +59,9 @@ export default function SearchScreen() {
     })();
   }, []);
 
-  // ── Fetch restaurants (personalized with fallback) ──
   const fetchRestaurants = useCallback(async (query: string = '') => {
     try {
       setError('');
-      // Try personalized endpoint first, fall back to regular
       let res = await apiGet(`/restaurants?q=${encodeURIComponent(query)}`);
       if (!res.ok) throw new Error('Network response was not ok');
       const data = await res.json();
@@ -87,13 +76,11 @@ export default function SearchScreen() {
 
   useEffect(() => { fetchRestaurants(''); }, [fetchRestaurants]);
 
-  // ── Debounced search ───────────────────────────────
   useEffect(() => {
     const timer = setTimeout(() => fetchRestaurants(searchQuery), 300);
     return () => clearTimeout(timer);
   }, [searchQuery, fetchRestaurants]);
 
-  // ── Animate bottom card ────────────────────────────
   useEffect(() => {
     Animated.spring(cardAnim, {
       toValue: selectedRestaurant ? 1 : 0,
@@ -102,7 +89,6 @@ export default function SearchScreen() {
     }).start();
   }, [selectedRestaurant]);
 
-  // ── Center map on user location ────────────────────
   useEffect(() => {
     if (userLocation && mapRef.current) {
       mapRef.current.animateToRegion?.({
@@ -113,7 +99,6 @@ export default function SearchScreen() {
     }
   }, [userLocation]);
 
-  // ── Handlers ───────────────────────────────────────
   const onMarkerPress = (item: RestaurantInfo) => {
     setSelectedRestaurant(item);
     setIsSearchFocused(false);
@@ -129,7 +114,6 @@ export default function SearchScreen() {
     setSearchQuery('');
     setIsSearchFocused(false);
     Keyboard.dismiss();
-    // If the restaurant has coordinates, zoom to it and select it
     if (item.lat && item.lng) {
       mapRef.current?.animateToRegion?.({
         latitude: item.lat,
@@ -139,35 +123,29 @@ export default function SearchScreen() {
       }, 600);
       setSelectedRestaurant(item);
     } else {
-      // If no coordinates, go straight to chat
       openChat(item.slug);
     }
   };
 
-  // ── Render ─────────────────────────────────────────
   const initialRegion = userLocation
     ? { ...userLocation, latitudeDelta: 0.025, longitudeDelta: 0.025 }
     : { latitude: 51.0447, longitude: -114.0719, latitudeDelta: 0.06, longitudeDelta: 0.06 };
 
   const cardTranslateY = cardAnim.interpolate({ inputRange: [0, 1], outputRange: [200, 0] });
-
   const showDropdown = isSearchFocused && searchQuery.trim().length > 0;
 
   return (
     <View style={styles.container}>
-      {/* ── Search Bar + Dropdown ───────────────────── */}
+      {/* Search Bar */}
       <View style={styles.searchOverlay}>
-        <TextInput
-          style={styles.searchInput}
-          placeholder="🔍  Search restaurants..."
-          placeholderTextColor="#999"
+        <SearchBar
           value={searchQuery}
           onChangeText={(t) => { setSearchQuery(t); setSelectedRestaurant(null); }}
+          placeholder="Search restaurants..."
           onFocus={() => setIsSearchFocused(true)}
-          clearButtonMode="while-editing"
         />
 
-        {/* ── Search Results Dropdown ──────────────── */}
+        {/* Dropdown */}
         {showDropdown && (
           <View style={styles.dropdown}>
             <FlatList
@@ -180,16 +158,15 @@ export default function SearchScreen() {
                   onPress={() => onSearchItemPress(item)}
                   activeOpacity={0.7}
                 >
-                  <View style={styles.dropdownLeft}>
-                    <View style={[styles.dropdownDot, { backgroundColor: ratingColor(item.rating) }]} />
-                    <Text style={styles.dropdownName} numberOfLines={1}>{item.name}</Text>
-                  </View>
+                  <Text style={styles.dropdownName} numberOfLines={1}>{item.name}</Text>
                   <View style={styles.dropdownRight}>
                     {item.match_score != null && (
-                      <Text style={styles.dropdownMatch}>{item.match_score}%</Text>
+                      <Text style={[styles.dropdownMatch, { color: getMatchColor(item.match_score) }]}>
+                        {item.match_score}%
+                      </Text>
                     )}
                     {item.rating ? (
-                      <Text style={styles.dropdownRating}>⭐ {item.rating}</Text>
+                      <Text style={styles.dropdownRating}>&#9733; {item.rating}</Text>
                     ) : null}
                   </View>
                 </TouchableOpacity>
@@ -204,11 +181,11 @@ export default function SearchScreen() {
         )}
       </View>
 
-      {/* ── Map ────────────────────────────────────── */}
+      {/* Map */}
       {isLoading ? (
         <View style={styles.centerBox}>
-          <ActivityIndicator size="large" color="#D4754E" />
-          <Text style={styles.loadingText}>Loading restaurants…</Text>
+          <ActivityIndicator size="large" color={colors.goldPrimary} />
+          <Text style={styles.loadingText}>Loading restaurants...</Text>
         </View>
       ) : error ? (
         <View style={styles.centerBox}>
@@ -225,6 +202,7 @@ export default function SearchScreen() {
           followsUserLocation
           showsCompass
           showsPointsOfInterest={false}
+          customMapStyle={darkMapStyle}
           onPress={() => { setSelectedRestaurant(null); setIsSearchFocused(false); Keyboard.dismiss(); }}
         >
           {restaurants.filter(r => r.lat != null && r.lng != null).map((item, idx) => (
@@ -235,20 +213,20 @@ export default function SearchScreen() {
               tracksViewChanges={!markersReady}
             >
               <View style={styles.markerOuter}>
-                <View style={[styles.markerPill, { backgroundColor: ratingColor(item.rating) }]}>
-                  <Text style={styles.markerIcon}>🍴</Text>
+                <View style={styles.markerPill}>
+                  <Text style={styles.markerIcon}>&#127860;</Text>
                   {item.rating ? (
                     <Text style={styles.markerScore}>{item.rating}</Text>
                   ) : null}
                 </View>
-                <View style={[styles.markerArrow, { borderTopColor: ratingColor(item.rating) }]} />
+                <View style={styles.markerArrow} />
               </View>
             </Marker>
           ))}
         </MapView>
       )}
 
-      {/* ── Bottom Card ────────────────────────────── */}
+      {/* Bottom Card */}
       <Animated.View
         style={[styles.bottomCard, { transform: [{ translateY: cardTranslateY }] }]}
         pointerEvents={selectedRestaurant ? 'auto' : 'none'}
@@ -258,16 +236,17 @@ export default function SearchScreen() {
             <View style={styles.cardTopRow}>
               <Text style={styles.cardName} numberOfLines={1}>{selectedRestaurant.name}</Text>
               {selectedRestaurant.match_score != null && (
-                <View style={styles.matchBadge}>
-                  <Text style={styles.matchBadgeText}>{selectedRestaurant.match_score}% match</Text>
-                </View>
+                <MatchBadge score={selectedRestaurant.match_score} />
               )}
             </View>
             <View style={styles.cardMeta}>
               {selectedRestaurant.rating ? (
                 <View style={styles.ratingBadge}>
-                  <Text style={styles.ratingBadgeText}>⭐ {selectedRestaurant.rating}</Text>
-                  <Text style={styles.reviewCount}>({selectedRestaurant.reviews})</Text>
+                  <Text style={styles.ratingStar}>&#9733;</Text>
+                  <Text style={styles.ratingBadgeText}>{selectedRestaurant.rating}</Text>
+                  {selectedRestaurant.reviews != null && (
+                    <Text style={styles.reviewCount}>({selectedRestaurant.reviews})</Text>
+                  )}
                 </View>
               ) : null}
               {selectedRestaurant.address ? (
@@ -280,13 +259,10 @@ export default function SearchScreen() {
                 {selectedRestaurant.top_dish.price ? ` ($${selectedRestaurant.top_dish.price.toFixed(0)})` : ''}
               </Text>
             )}
-            <TouchableOpacity
-              style={styles.chatBtn}
+            <GoldButton
+              title="Chat with menu"
               onPress={() => openChat(selectedRestaurant.slug)}
-              activeOpacity={0.8}
-            >
-              <Text style={styles.chatBtnText}>Chat with menu 💬</Text>
-            </TouchableOpacity>
+            />
           </>
         )}
       </Animated.View>
@@ -294,43 +270,24 @@ export default function SearchScreen() {
   );
 }
 
-// ── Styles ────────────────────────────────────────────
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: '#F5F5F5' },
+  container: { flex: 1, backgroundColor: colors.background },
 
-  // Search
   searchOverlay: {
     position: 'absolute',
     top: Platform.OS === 'ios' ? 54 : 36,
-    left: 16,
-    right: 16,
+    left: spacing.screenPadding,
+    right: spacing.screenPadding,
     zIndex: 20,
   },
-  searchInput: {
-    backgroundColor: '#FFF',
-    borderRadius: 14,
-    paddingHorizontal: 18,
-    paddingVertical: 14,
-    fontSize: 16,
-    color: '#1A1A1A',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.12,
-    shadowRadius: 8,
-    elevation: 6,
-  },
 
-  // Dropdown
   dropdown: {
-    backgroundColor: '#FFF',
-    borderRadius: 14,
+    backgroundColor: colors.surfaceElevated,
+    borderRadius: radii.card,
     marginTop: 6,
     maxHeight: 320,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 6 },
-    shadowOpacity: 0.15,
-    shadowRadius: 12,
-    elevation: 8,
+    borderWidth: 1,
+    borderColor: colors.border,
     overflow: 'hidden',
   },
   dropdownItem: {
@@ -340,11 +297,12 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
     paddingVertical: 14,
     borderBottomWidth: StyleSheet.hairlineWidth,
-    borderBottomColor: '#F0EBE6',
+    borderBottomColor: colors.border,
   },
-  dropdownLeft: {
-    flexDirection: 'row',
-    alignItems: 'center',
+  dropdownName: {
+    fontSize: 15,
+    fontWeight: '600',
+    color: colors.textPrimary,
     flex: 1,
     marginRight: 8,
   },
@@ -353,32 +311,14 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     gap: 8,
   },
-  dropdownDot: {
-    width: 10,
-    height: 10,
-    borderRadius: 5,
-    marginRight: 12,
-  },
-  dropdownName: {
-    fontSize: 15,
-    fontWeight: '600',
-    color: '#1A1A1A',
-    flex: 1,
-  },
   dropdownRating: {
     fontSize: 13,
     fontWeight: '600',
-    color: '#F39C12',
+    color: colors.goldPrimary,
   },
   dropdownMatch: {
     fontSize: 12,
     fontWeight: '700',
-    color: '#D4A574',
-    backgroundColor: '#FFF8F0',
-    paddingHorizontal: 6,
-    paddingVertical: 2,
-    borderRadius: 6,
-    overflow: 'hidden',
   },
   dropdownEmpty: {
     paddingVertical: 20,
@@ -386,19 +326,15 @@ const styles = StyleSheet.create({
   },
   dropdownEmptyText: {
     fontSize: 14,
-    color: '#999',
+    color: colors.textTertiary,
   },
 
-  // Map
   map: { flex: 1 },
-  centerBox: { flex: 1, justifyContent: 'center', alignItems: 'center' },
-  loadingText: { marginTop: 12, fontSize: 15, color: '#7A7A7A' },
-  errorText: { color: '#D4754E', fontSize: 16, textAlign: 'center', paddingHorizontal: 24 },
+  centerBox: { flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.background },
+  loadingText: { marginTop: 12, fontSize: 15, color: colors.textSecondary },
+  errorText: { color: colors.error, fontSize: 16, textAlign: 'center', paddingHorizontal: 24 },
 
-  // ── Map Marker ────────────────────────────────────
-  markerOuter: {
-    alignItems: 'center',
-  },
+  markerOuter: { alignItems: 'center' },
   markerPill: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -406,51 +342,49 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
     paddingVertical: 7,
     borderRadius: 22,
-    borderWidth: 3,
-    borderColor: '#FFFFFF',
+    borderWidth: 2,
+    borderColor: colors.goldPrimary,
+    backgroundColor: colors.surface,
     minWidth: 56,
     height: 42,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.35,
+    shadowOpacity: 0.4,
     shadowRadius: 6,
     elevation: 8,
   },
-  markerIcon: {
-    fontSize: 20,
-  },
+  markerIcon: { fontSize: 18 },
   markerScore: {
-    fontSize: 15,
+    fontSize: 14,
     fontWeight: '900',
-    color: '#FFF',
+    color: colors.textPrimary,
     marginLeft: 3,
-    textShadowColor: 'rgba(0,0,0,0.3)',
-    textShadowOffset: { width: 0, height: 1 },
-    textShadowRadius: 2,
   },
   markerArrow: {
     width: 0,
     height: 0,
-    borderLeftWidth: 9,
-    borderRightWidth: 9,
-    borderTopWidth: 12,
+    borderLeftWidth: 8,
+    borderRightWidth: 8,
+    borderTopWidth: 10,
     borderLeftColor: 'transparent',
     borderRightColor: 'transparent',
-    marginTop: -2,
+    borderTopColor: colors.goldPrimary,
+    marginTop: -1,
   },
 
-  // Bottom card
   bottomCard: {
     position: 'absolute',
     bottom: 100,
-    left: 16,
-    right: 16,
-    backgroundColor: '#FFF',
-    borderRadius: 20,
-    padding: 20,
+    left: spacing.screenPadding,
+    right: spacing.screenPadding,
+    backgroundColor: colors.surface,
+    borderRadius: radii.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.cardPadding,
     shadowColor: '#000',
     shadowOffset: { width: 0, height: -4 },
-    shadowOpacity: 0.15,
+    shadowOpacity: 0.3,
     shadowRadius: 12,
     elevation: 10,
   },
@@ -463,22 +397,9 @@ const styles = StyleSheet.create({
   cardName: {
     fontSize: 20,
     fontWeight: '700',
-    color: '#1A1A1A',
+    color: colors.textPrimary,
     flex: 1,
     marginRight: 8,
-  },
-  matchBadge: {
-    backgroundColor: '#FFF8F0',
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 10,
-    borderWidth: 1,
-    borderColor: '#D4A574',
-  },
-  matchBadgeText: {
-    fontSize: 13,
-    fontWeight: '700',
-    color: '#D4A574',
   },
   cardMeta: {
     flexDirection: 'row',
@@ -489,30 +410,19 @@ const styles = StyleSheet.create({
   ratingBadge: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: '#FFF8E1',
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-    borderRadius: 10,
   },
-  ratingBadgeText: { fontSize: 14, fontWeight: '700', color: '#F39C12' },
-  reviewCount: { fontSize: 12, color: '#999', marginLeft: 4 },
-  addressText: { fontSize: 13, color: '#777', flex: 1 },
+  ratingStar: {
+    fontSize: 14,
+    color: colors.goldPrimary,
+    marginRight: 3,
+  },
+  ratingBadgeText: { fontSize: 14, fontWeight: '700', color: colors.textPrimary },
+  reviewCount: { fontSize: 12, color: colors.textTertiary, marginLeft: 4 },
+  addressText: { fontSize: 13, color: colors.textSecondary, flex: 1 },
   topDishText: {
     fontSize: 14,
     fontWeight: '600',
-    color: '#D4A574',
+    color: colors.goldPrimary,
     marginBottom: 12,
-  },
-
-  chatBtn: {
-    backgroundColor: '#D4754E',
-    paddingVertical: 14,
-    borderRadius: 14,
-    alignItems: 'center',
-  },
-  chatBtnText: {
-    color: '#FFF',
-    fontSize: 16,
-    fontWeight: '700',
   },
 });

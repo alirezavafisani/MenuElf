@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { supabase } from '../lib/supabase';
 import { apiGet } from '../lib/api';
+import { colors } from '../lib/theme';
 import type { Session } from '@supabase/supabase-js';
 import LoginScreen from './login';
 import OnboardingScreen from './onboarding';
@@ -24,7 +25,6 @@ export default function RootLayout() {
 
     const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, s) => {
       setSession(s);
-      // Reset onboarding check when user changes
       if (s?.user?.id) {
         checkOnboarding(s);
       } else {
@@ -35,7 +35,6 @@ export default function RootLayout() {
     return () => subscription.unsubscribe();
   }, []);
 
-  // Check onboarding when session is first established
   useEffect(() => {
     if (session) {
       checkOnboarding(session);
@@ -43,7 +42,6 @@ export default function RootLayout() {
   }, [session]);
 
   const checkOnboarding = async (sess: Session) => {
-    // Check local cache first
     const cachedKey = `${ONBOARDING_KEY}_${sess.user.id}`;
     const cached = await AsyncStorage.getItem(cachedKey);
     if (cached === 'true') {
@@ -51,7 +49,6 @@ export default function RootLayout() {
       return;
     }
 
-    // Check backend
     try {
       const res = await apiGet('/profile/taste');
       if (res.ok) {
@@ -69,8 +66,8 @@ export default function RootLayout() {
 
   if (loading) {
     return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#FBF7F4' }}>
-        <ActivityIndicator size="large" color="#D4754E" />
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.background }}>
+        <ActivityIndicator size="large" color={colors.goldPrimary} />
       </View>
     );
   }
@@ -78,22 +75,20 @@ export default function RootLayout() {
   if (!session) {
     return (
       <>
-        <StatusBar style={Platform.OS === 'ios' ? 'dark' : 'auto'} />
+        <StatusBar style="light" />
         <LoginScreen />
       </>
     );
   }
 
-  // Waiting for onboarding check
   if (onboardingDone === null) {
     return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: '#FBF7F4' }}>
-        <ActivityIndicator size="large" color="#D4754E" />
+      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.background }}>
+        <ActivityIndicator size="large" color={colors.goldPrimary} />
       </View>
     );
   }
 
-  // Show onboarding if not completed
   if (!onboardingDone) {
     return (
       <>
@@ -105,10 +100,10 @@ export default function RootLayout() {
 
   return (
     <>
-      <StatusBar style={Platform.OS === 'ios' ? 'dark' : 'auto'} />
+      <StatusBar style="light" />
       <Stack screenOptions={{
         headerShown: false,
-        contentStyle: { backgroundColor: '#FBF7F4' }
+        contentStyle: { backgroundColor: colors.background },
       }}>
         <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
         <Stack.Screen
@@ -116,7 +111,7 @@ export default function RootLayout() {
           options={{
             headerShown: false,
             presentation: 'modal',
-            animation: 'slide_from_bottom'
+            animation: 'slide_from_bottom',
           }}
         />
       </Stack>

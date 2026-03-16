@@ -1,54 +1,47 @@
-import React, { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import {
   StyleSheet, View, Text, TextInput, TouchableOpacity,
-  ActivityIndicator, KeyboardAvoidingView, Platform, ScrollView, Keyboard,
-  TouchableWithoutFeedback,
+  KeyboardAvoidingView, Platform, ScrollView, Keyboard,
+  TouchableWithoutFeedback, Animated,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { supabase } from '../lib/supabase';
+import { colors, radii, spacing } from '../lib/theme';
+import GoldButton from '../components/ui/GoldButton';
 
 export default function LoginScreen() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const [isSignUp, setIsSignUp] = useState(false);
+  const [showPassword, setShowPassword] = useState(false);
+  const [emailFocused, setEmailFocused] = useState(false);
+  const [passwordFocused, setPasswordFocused] = useState(false);
+  const fadeAnim = useRef(new Animated.Value(0)).current;
 
-  const handleSignIn = async () => {
+  useEffect(() => {
+    Animated.timing(fadeAnim, { toValue: 1, duration: 600, useNativeDriver: true }).start();
+  }, []);
+
+  const handleAuth = async () => {
     if (!email.trim() || !password.trim()) {
       setError('Please enter both email and password.');
       return;
     }
-    setError('');
-    setLoading(true);
-    const { error: err } = await supabase.auth.signInWithPassword({
-      email: email.trim(),
-      password: password.trim(),
-    });
-    setLoading(false);
-    if (err) setError(err.message);
-  };
-
-  const handleSignUp = async () => {
-    if (!email.trim() || !password.trim()) {
-      setError('Please enter both email and password.');
-      return;
-    }
-    if (password.length < 6) {
+    if (isSignUp && password.length < 6) {
       setError('Password must be at least 6 characters.');
       return;
     }
     setError('');
     setLoading(true);
-    const { error: err } = await supabase.auth.signUp({
-      email: email.trim(),
-      password: password.trim(),
-    });
+
+    const { error: err } = isSignUp
+      ? await supabase.auth.signUp({ email: email.trim(), password: password.trim() })
+      : await supabase.auth.signInWithPassword({ email: email.trim(), password: password.trim() });
+
     setLoading(false);
-    if (err) {
-      setError(err.message);
-    } else {
-      setError('');
-    }
+    if (err) setError(err.message);
   };
 
   return (
@@ -62,47 +55,67 @@ export default function LoginScreen() {
             contentContainerStyle={styles.scrollContent}
             keyboardShouldPersistTaps="handled"
           >
-            <View style={styles.header}>
-              <Text style={styles.title}>MenuElf</Text>
-              <Text style={styles.subtitle}>Discover Calgary&apos;s best dishes</Text>
-            </View>
+            <Animated.View style={[styles.content, { opacity: fadeAnim }]}>
+              <View style={styles.header}>
+                <Text style={styles.logoEmoji}>&#129399;</Text>
+                <Text style={styles.title}>MenuElf</Text>
+                <Text style={styles.subtitle}>Discover your perfect dish</Text>
+              </View>
 
-            <View style={styles.form}>
-              <TextInput
-                style={styles.input}
-                placeholder="Email"
-                placeholderTextColor="#999"
-                value={email}
-                onChangeText={setEmail}
-                autoCapitalize="none"
-                keyboardType="email-address"
-                textContentType="emailAddress"
-              />
-              <TextInput
-                style={styles.input}
-                placeholder="Password"
-                placeholderTextColor="#999"
-                value={password}
-                onChangeText={setPassword}
-                secureTextEntry
-                textContentType="password"
-              />
+              <View style={styles.form}>
+                <View style={[styles.inputContainer, emailFocused && styles.inputFocused]}>
+                  <TextInput
+                    style={styles.input}
+                    placeholder="Email"
+                    placeholderTextColor={colors.textTertiary}
+                    value={email}
+                    onChangeText={setEmail}
+                    autoCapitalize="none"
+                    keyboardType="email-address"
+                    textContentType="emailAddress"
+                    onFocus={() => setEmailFocused(true)}
+                    onBlur={() => setEmailFocused(false)}
+                  />
+                </View>
 
-              {error ? <Text style={styles.errorText}>{error}</Text> : null}
-
-              {loading ? (
-                <ActivityIndicator size="large" color="#D4754E" style={styles.loader} />
-              ) : (
-                <>
-                  <TouchableOpacity style={styles.signInBtn} onPress={handleSignIn}>
-                    <Text style={styles.signInBtnText}>Sign In</Text>
+                <View style={[styles.inputContainer, passwordFocused && styles.inputFocused]}>
+                  <TextInput
+                    style={[styles.input, { flex: 1 }]}
+                    placeholder="Password"
+                    placeholderTextColor={colors.textTertiary}
+                    value={password}
+                    onChangeText={setPassword}
+                    secureTextEntry={!showPassword}
+                    textContentType="password"
+                    onFocus={() => setPasswordFocused(true)}
+                    onBlur={() => setPasswordFocused(false)}
+                  />
+                  <TouchableOpacity onPress={() => setShowPassword(!showPassword)} style={styles.eyeBtn}>
+                    <Text style={styles.eyeText}>{showPassword ? 'Hide' : 'Show'}</Text>
                   </TouchableOpacity>
-                  <TouchableOpacity style={styles.signUpBtn} onPress={handleSignUp}>
-                    <Text style={styles.signUpBtnText}>Create Account</Text>
-                  </TouchableOpacity>
-                </>
-              )}
-            </View>
+                </View>
+
+                {error ? <Text style={styles.errorText}>{error}</Text> : null}
+
+                <GoldButton
+                  title={isSignUp ? 'Create Account' : 'Sign In'}
+                  onPress={handleAuth}
+                  loading={loading}
+                />
+
+                <TouchableOpacity
+                  style={styles.toggleBtn}
+                  onPress={() => { setIsSignUp(!isSignUp); setError(''); }}
+                >
+                  <Text style={styles.toggleText}>
+                    {isSignUp ? 'Already have an account? ' : "Don't have an account? "}
+                    <Text style={styles.toggleHighlight}>
+                      {isSignUp ? 'Sign In' : 'Sign Up'}
+                    </Text>
+                  </Text>
+                </TouchableOpacity>
+              </View>
+            </Animated.View>
           </ScrollView>
         </KeyboardAvoidingView>
       </SafeAreaView>
@@ -111,7 +124,7 @@ export default function LoginScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, backgroundColor: '#FBF7F4' },
+  container: { flex: 1, backgroundColor: colors.background },
   flex: { flex: 1 },
   scrollContent: {
     flexGrow: 1,
@@ -119,67 +132,73 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
     paddingBottom: 40,
   },
+  content: { width: '100%' },
   header: {
     alignItems: 'center',
     marginBottom: 48,
   },
+  logoEmoji: {
+    fontSize: 48,
+    marginBottom: 12,
+  },
   title: {
-    fontSize: 42,
+    fontSize: 38,
     fontWeight: '900',
-    color: '#D4754E',
+    color: colors.goldPrimary,
     marginBottom: 8,
   },
   subtitle: {
-    fontSize: 18,
-    color: '#7A7A7A',
+    fontSize: 16,
+    color: colors.textSecondary,
     fontWeight: '500',
   },
   form: {
     width: '100%',
   },
-  input: {
-    backgroundColor: '#FFFFFF',
+  inputContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: colors.surface,
     borderWidth: 1,
-    borderColor: '#E8E0D8',
-    borderRadius: 14,
+    borderColor: colors.border,
+    borderRadius: radii.input,
+    marginBottom: 16,
+  },
+  inputFocused: {
+    borderColor: colors.goldPrimary,
+  },
+  input: {
+    flex: 1,
     paddingHorizontal: 18,
     paddingVertical: 16,
     fontSize: 16,
-    color: '#1A1A1A',
-    marginBottom: 16,
+    color: colors.textPrimary,
+  },
+  eyeBtn: {
+    paddingHorizontal: 14,
+    paddingVertical: 16,
+  },
+  eyeText: {
+    color: colors.textTertiary,
+    fontSize: 13,
+    fontWeight: '600',
   },
   errorText: {
-    color: '#E74C3C',
+    color: colors.error,
     fontSize: 14,
     textAlign: 'center',
     marginBottom: 16,
   },
-  loader: {
-    marginVertical: 20,
-  },
-  signInBtn: {
-    backgroundColor: '#D4754E',
-    borderRadius: 14,
-    paddingVertical: 16,
-    alignItems: 'center',
-    marginBottom: 12,
-  },
-  signInBtnText: {
-    color: '#FFFFFF',
-    fontSize: 18,
-    fontWeight: '700',
-  },
-  signUpBtn: {
-    backgroundColor: 'transparent',
-    borderRadius: 14,
-    borderWidth: 2,
-    borderColor: '#D4754E',
-    paddingVertical: 16,
+  toggleBtn: {
+    marginTop: 20,
     alignItems: 'center',
   },
-  signUpBtnText: {
-    color: '#D4754E',
-    fontSize: 18,
-    fontWeight: '700',
+  toggleText: {
+    color: colors.textSecondary,
+    fontSize: 14,
+  },
+  toggleHighlight: {
+    color: colors.goldPrimary,
+    fontWeight: '600',
   },
 });
