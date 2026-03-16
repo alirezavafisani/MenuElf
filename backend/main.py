@@ -32,6 +32,10 @@ app.include_router(user_intelligence_router)
 from routers.friends import router as friends_router
 app.include_router(friends_router)
 
+# ─── Group Dining router ───
+from routers.group_dining import router as group_dining_router
+app.include_router(group_dining_router)
+
 # ─── Restaurant name list ───
 NAME_MAPPING_FILE = os.path.join(BASE_DIR, "name_mapping.json")
 NAME_MAPPING = {}
