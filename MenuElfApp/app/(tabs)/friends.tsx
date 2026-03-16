@@ -1,95 +1,910 @@
-import React from 'react';
-import { StyleSheet, View, Text, TouchableOpacity, Alert } from 'react-native';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
+import {
+  StyleSheet, View, Text, TouchableOpacity, FlatList,
+  TextInput, Alert, RefreshControl, ActivityIndicator,
+  Animated, ScrollView,
+} from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { Ionicons } from '@expo/vector-icons';
 import { supabase } from '../../lib/supabase';
-import { logInteraction } from '../../lib/api';
+import { apiGet, apiPost, apiDelete, logInteraction } from '../../lib/api';
 import { colors, radii, spacing } from '../../lib/theme';
 import GoldButton from '../../components/ui/GoldButton';
+import SearchBar from '../../components/ui/SearchBar';
+
+// ── Types ──
+
+type UserProfile = {
+  id: string;
+  username: string;
+  display_name: string;
+  avatar_emoji: string;
+  taste_summary?: {
+    top_cuisines?: string[];
+    dietary_restrictions?: string[];
+  };
+};
+
+type FriendRequest = {
+  id: string;
+  from_user_id: string;
+  to_user_id: string;
+  status: string;
+  from_profile?: { username: string; display_name: string; avatar_emoji: string };
+  to_profile?: { username: string; display_name: string; avatar_emoji: string };
+};
+
+type SearchUser = {
+  id: string;
+  username: string;
+  display_name: string;
+  avatar_emoji: string;
+};
+
+// ── Avatar Emoji Choices ──
+
+const AVATAR_EMOJIS = [
+  '🧝', '🧑‍🍳', '🍕', '🍣', '🌮', '🍜',
+  '🥗', '🍰', '🍔', '🥘', '🧁', '🍷',
+];
+
+// ── Tabs ──
+
+type TabName = 'friends' | 'requests' | 'add';
+
+// ── Main Component ──
 
 export default function FriendsScreen() {
+  const [activeTab, setActiveTab] = useState<TabName>('friends');
+  const [myProfile, setMyProfile] = useState<UserProfile | null>(null);
+  const [profileLoading, setProfileLoading] = useState(true);
+  const [profileError, setProfileError] = useState('');
+
+  // Friends list
+  const [friends, setFriends] = useState<UserProfile[]>([]);
+  const [friendsLoading, setFriendsLoading] = useState(false);
+  const [friendsRefreshing, setFriendsRefreshing] = useState(false);
+
+  // Requests
+  const [incoming, setIncoming] = useState<FriendRequest[]>([]);
+  const [outgoing, setOutgoing] = useState<FriendRequest[]>([]);
+  const [requestsLoading, setRequestsLoading] = useState(false);
+  const [requestsRefreshing, setRequestsRefreshing] = useState(false);
+  const [acceptingId, setAcceptingId] = useState<string | null>(null);
+  const [decliningId, setDecliningId] = useState<string | null>(null);
+
+  // Search / Add
+  const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState<SearchUser[]>([]);
+  const [searchLoading, setSearchLoading] = useState(false);
+  const [sentRequestUsernames, setSentRequestUsernames] = useState<Set<string>>(new Set());
+
+  // Profile setup
+  const [setupUsername, setSetupUsername] = useState('');
+  const [setupDisplayName, setSetupDisplayName] = useState('');
+  const [setupEmoji, setSetupEmoji] = useState('🧝');
+  const [setupLoading, setSetupLoading] = useState(false);
+  const [setupError, setSetupError] = useState('');
+
+  // ── Load profile on mount ──
+
+  useEffect(() => {
+    loadMyProfile();
+  }, []);
+
+  useEffect(() => {
+    if (myProfile) {
+      if (activeTab === 'friends') loadFriends();
+      if (activeTab === 'requests') loadRequests();
+    }
+  }, [activeTab, myProfile]);
+
+  // ── Debounced search ──
+
+  useEffect(() => {
+    if (activeTab !== 'add' || !searchQuery.trim()) {
+      setSearchResults([]);
+      return;
+    }
+    const timer = setTimeout(() => searchUsers(searchQuery.trim()), 300);
+    return () => clearTimeout(timer);
+  }, [searchQuery, activeTab]);
+
+  // ── API calls ──
+
+  const loadMyProfile = async () => {
+    setProfileLoading(true);
+    setProfileError('');
+    try {
+      const res = await apiGet('/profile/me');
+      if (res.ok) {
+        const data = await res.json();
+        setMyProfile(data.profile);
+      } else if (res.status === 404) {
+        setMyProfile(null);
+      } else {
+        setProfileError('Could not load profile');
+      }
+    } catch {
+      setProfileError('Network error. Check your connection.');
+    } finally {
+      setProfileLoading(false);
+    }
+  };
+
+  const loadFriends = async (refreshing = false) => {
+    if (refreshing) setFriendsRefreshing(true);
+    else setFriendsLoading(true);
+    try {
+      const res = await apiGet('/friends');
+      if (res.ok) {
+        const data = await res.json();
+        setFriends(data.friends ?? []);
+      }
+    } catch {
+      // Silently fail, keep existing data
+    } finally {
+      setFriendsLoading(false);
+      setFriendsRefreshing(false);
+    }
+  };
+
+  const loadRequests = async (refreshing = false) => {
+    if (refreshing) setRequestsRefreshing(true);
+    else setRequestsLoading(true);
+    try {
+      const [inRes, outRes] = await Promise.all([
+        apiGet('/friends/requests/incoming'),
+        apiGet('/friends/requests/outgoing'),
+      ]);
+      if (inRes.ok) {
+        const inData = await inRes.json();
+        setIncoming(inData.requests ?? []);
+      }
+      if (outRes.ok) {
+        const outData = await outRes.json();
+        setOutgoing(outData.requests ?? []);
+      }
+    } catch {
+      // Silently fail
+    } finally {
+      setRequestsLoading(false);
+      setRequestsRefreshing(false);
+    }
+  };
+
+  const searchUsers = async (q: string) => {
+    setSearchLoading(true);
+    try {
+      const res = await apiGet(`/users/search?q=${encodeURIComponent(q)}`);
+      if (res.ok) {
+        const data = await res.json();
+        setSearchResults(data.users ?? []);
+      }
+    } catch {
+      setSearchResults([]);
+    } finally {
+      setSearchLoading(false);
+    }
+  };
+
+  const sendFriendRequest = async (username: string) => {
+    try {
+      const res = await apiPost('/friends/request', { username });
+      if (res.ok) {
+        setSentRequestUsernames(prev => new Set(prev).add(username));
+        logInteraction('friend_request_sent', { target_username: username });
+      } else {
+        const err = await res.json().catch(() => ({ detail: 'Request failed' }));
+        Alert.alert('Could not send request', err.detail ?? 'Something went wrong');
+      }
+    } catch {
+      Alert.alert('Network error', 'Check your connection and try again.');
+    }
+  };
+
+  const acceptRequest = async (requestId: string) => {
+    setAcceptingId(requestId);
+    try {
+      const res = await apiPost(`/friends/requests/${requestId}/accept`, {});
+      if (res.ok) {
+        setIncoming(prev => prev.filter(r => r.id !== requestId));
+        loadFriends();
+      } else {
+        Alert.alert('Error', 'Could not accept request');
+      }
+    } catch {
+      Alert.alert('Network error', 'Check your connection.');
+    } finally {
+      setAcceptingId(null);
+    }
+  };
+
+  const declineRequest = async (requestId: string) => {
+    setDecliningId(requestId);
+    try {
+      const res = await apiPost(`/friends/requests/${requestId}/decline`, {});
+      if (res.ok) {
+        setIncoming(prev => prev.filter(r => r.id !== requestId));
+      } else {
+        Alert.alert('Error', 'Could not decline request');
+      }
+    } catch {
+      Alert.alert('Network error', 'Check your connection.');
+    } finally {
+      setDecliningId(null);
+    }
+  };
+
+  const removeFriend = (friendId: string, friendName: string) => {
+    Alert.alert(
+      'Remove Friend',
+      `Remove ${friendName} from your friends?`,
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'Remove',
+          style: 'destructive',
+          onPress: async () => {
+            try {
+              const res = await apiDelete(`/friends/${friendId}`);
+              if (res.ok) {
+                setFriends(prev => prev.filter(f => f.id !== friendId));
+              } else {
+                Alert.alert('Error', 'Could not remove friend');
+              }
+            } catch {
+              Alert.alert('Network error', 'Check your connection.');
+            }
+          },
+        },
+      ],
+    );
+  };
+
   const handleLogout = () => {
     Alert.alert('Log Out', 'Are you sure you want to log out?', [
       { text: 'Cancel', style: 'cancel' },
-      {
-        text: 'Log Out',
-        style: 'destructive',
-        onPress: () => supabase.auth.signOut(),
-      },
+      { text: 'Log Out', style: 'destructive', onPress: () => supabase.auth.signOut() },
     ]);
   };
 
-  const handleNotify = () => {
-    logInteraction('notify_request', { feature: 'social_dining' });
-    Alert.alert('Got it!', "We'll let you know when Social Dining launches.");
+  const setupProfile = async () => {
+    const username = setupUsername.trim().toLowerCase();
+    if (!username) {
+      setSetupError('Username is required');
+      return;
+    }
+    if (!/^[a-z0-9_]{3,20}$/.test(username)) {
+      setSetupError('3-20 characters, lowercase letters, numbers, and underscores only');
+      return;
+    }
+
+    setSetupLoading(true);
+    setSetupError('');
+    try {
+      const res = await apiPost('/profile/setup', {
+        username,
+        display_name: setupDisplayName.trim() || username,
+        avatar_emoji: setupEmoji,
+      });
+      if (res.ok) {
+        const data = await res.json();
+        setMyProfile(data.profile);
+        logInteraction('profile_created', { username });
+      } else {
+        const err = await res.json().catch(() => ({ detail: 'Setup failed' }));
+        setSetupError(err.detail ?? 'Something went wrong');
+      }
+    } catch {
+      setSetupError('Network error. Check your connection.');
+    } finally {
+      setSetupLoading(false);
+    }
   };
+
+  // ── Render: Loading state ──
+
+  if (profileLoading) {
+    return (
+      <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
+        <View style={styles.center}>
+          <ActivityIndicator size="large" color={colors.goldPrimary} />
+        </View>
+      </SafeAreaView>
+    );
+  }
+
+  // ── Render: Profile setup ──
+
+  if (!myProfile) {
+    return (
+      <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
+        <ScrollView contentContainerStyle={styles.setupContainer} keyboardShouldPersistTaps="handled">
+          <Text style={styles.setupTitle}>Set Up Your Profile</Text>
+          <Text style={styles.setupSubtitle}>
+            Choose a username so friends can find you
+          </Text>
+
+          {/* Avatar picker */}
+          <Text style={styles.sectionLabel}>AVATAR</Text>
+          <View style={styles.emojiGrid}>
+            {AVATAR_EMOJIS.map(emoji => (
+              <TouchableOpacity
+                key={emoji}
+                style={[styles.emojiOption, setupEmoji === emoji && styles.emojiSelected]}
+                onPress={() => setSetupEmoji(emoji)}
+              >
+                <Text style={styles.emojiText}>{emoji}</Text>
+              </TouchableOpacity>
+            ))}
+          </View>
+
+          {/* Username */}
+          <Text style={styles.sectionLabel}>USERNAME</Text>
+          <TextInput
+            style={styles.setupInput}
+            placeholder="e.g. foodie_jane"
+            placeholderTextColor={colors.textTertiary}
+            value={setupUsername}
+            onChangeText={(t) => {
+              setSetupUsername(t.toLowerCase().replace(/[^a-z0-9_]/g, ''));
+              setSetupError('');
+            }}
+            autoCapitalize="none"
+            autoCorrect={false}
+            maxLength={20}
+          />
+          <Text style={styles.setupHint}>3-20 chars, lowercase, numbers, underscores</Text>
+
+          {/* Display Name */}
+          <Text style={styles.sectionLabel}>DISPLAY NAME</Text>
+          <TextInput
+            style={styles.setupInput}
+            placeholder="Your name (optional)"
+            placeholderTextColor={colors.textTertiary}
+            value={setupDisplayName}
+            onChangeText={setSetupDisplayName}
+            maxLength={50}
+          />
+
+          {setupError ? <Text style={styles.errorText}>{setupError}</Text> : null}
+          {profileError ? <Text style={styles.errorText}>{profileError}</Text> : null}
+
+          <View style={styles.setupButtonRow}>
+            <GoldButton title="Create Profile" onPress={setupProfile} loading={setupLoading} />
+          </View>
+        </ScrollView>
+
+        <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
+          <Text style={styles.logoutText}>Log Out</Text>
+        </TouchableOpacity>
+      </SafeAreaView>
+    );
+  }
+
+  // ── Render: Main tabbed screen ──
 
   return (
     <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
-      <View style={styles.centerBox}>
-        <Text style={styles.emojiComposition}>&#127869;&#129309;&#128101;</Text>
-        <Text style={styles.heading}>Social Dining</Text>
-        <Text style={styles.title}>Group dining is coming soon</Text>
-        <Text style={styles.subtitle}>
-          Find restaurants everyone loves, powered by AI
-        </Text>
-        <View style={styles.buttonContainer}>
-          <GoldButton title="Get Notified" onPress={handleNotify} />
-        </View>
+      {/* Tab bar */}
+      <View style={styles.tabBar}>
+        {(['friends', 'requests', 'add'] as TabName[]).map(tab => (
+          <TouchableOpacity
+            key={tab}
+            style={[styles.tab, activeTab === tab && styles.tabActive]}
+            onPress={() => setActiveTab(tab)}
+          >
+            <Text style={[styles.tabText, activeTab === tab && styles.tabTextActive]}>
+              {tab === 'friends' ? 'Friends' : tab === 'requests' ? 'Requests' : 'Add Friend'}
+            </Text>
+            {tab === 'requests' && incoming.length > 0 && (
+              <View style={styles.badge}>
+                <Text style={styles.badgeText}>{incoming.length}</Text>
+              </View>
+            )}
+          </TouchableOpacity>
+        ))}
       </View>
 
-      <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
-        <Text style={styles.logoutText}>Log Out</Text>
-      </TouchableOpacity>
+      {/* ── Tab: Friends ── */}
+      {activeTab === 'friends' && (
+        <>
+          {friendsLoading && friends.length === 0 ? (
+            <View style={styles.center}>
+              <ActivityIndicator size="large" color={colors.goldPrimary} />
+            </View>
+          ) : friends.length === 0 ? (
+            <View style={styles.center}>
+              <Text style={styles.emptyEmoji}>&#128101;</Text>
+              <Text style={styles.emptyTitle}>No friends yet</Text>
+              <Text style={styles.emptySubtext}>Add friends to plan meals together</Text>
+              <View style={{ marginTop: 16, width: 200 }}>
+                <GoldButton title="Add Friends" onPress={() => setActiveTab('add')} />
+              </View>
+            </View>
+          ) : (
+            <FlatList
+              data={friends}
+              keyExtractor={item => item.id}
+              contentContainerStyle={styles.listContent}
+              refreshControl={
+                <RefreshControl
+                  refreshing={friendsRefreshing}
+                  onRefresh={() => loadFriends(true)}
+                  tintColor={colors.goldPrimary}
+                />
+              }
+              renderItem={({ item }) => (
+                <TouchableOpacity
+                  style={styles.friendCard}
+                  onLongPress={() => removeFriend(item.id, item.display_name ?? item.username)}
+                  activeOpacity={0.8}
+                >
+                  <Text style={styles.avatar}>{item.avatar_emoji ?? '🧝'}</Text>
+                  <View style={styles.friendInfo}>
+                    <Text style={styles.friendName}>{item.display_name ?? item.username}</Text>
+                    <Text style={styles.friendUsername}>@{item.username}</Text>
+                    {item.taste_summary?.top_cuisines && item.taste_summary.top_cuisines.length > 0 && (
+                      <Text style={styles.friendCuisines}>
+                        Loves {item.taste_summary.top_cuisines.slice(0, 3).join(', ')}
+                      </Text>
+                    )}
+                  </View>
+                </TouchableOpacity>
+              )}
+            />
+          )}
+
+          {/* FAB */}
+          <TouchableOpacity
+            style={styles.fab}
+            onPress={() => setActiveTab('add')}
+            activeOpacity={0.8}
+          >
+            <Ionicons name="add" size={28} color="#FFFFFF" />
+          </TouchableOpacity>
+        </>
+      )}
+
+      {/* ── Tab: Requests ── */}
+      {activeTab === 'requests' && (
+        <ScrollView
+          contentContainerStyle={styles.listContent}
+          refreshControl={
+            <RefreshControl
+              refreshing={requestsRefreshing}
+              onRefresh={() => loadRequests(true)}
+              tintColor={colors.goldPrimary}
+            />
+          }
+        >
+          {requestsLoading && incoming.length === 0 && outgoing.length === 0 ? (
+            <View style={[styles.center, { paddingVertical: 60 }]}>
+              <ActivityIndicator size="large" color={colors.goldPrimary} />
+            </View>
+          ) : (
+            <>
+              {/* Incoming */}
+              {incoming.length > 0 && (
+                <>
+                  <Text style={styles.sectionLabel}>INCOMING</Text>
+                  {incoming.map(req => (
+                    <View key={req.id} style={styles.requestCard}>
+                      <Text style={styles.avatar}>{req.from_profile?.avatar_emoji ?? '🧝'}</Text>
+                      <View style={styles.friendInfo}>
+                        <Text style={styles.friendName}>{req.from_profile?.display_name ?? 'Unknown'}</Text>
+                        <Text style={styles.friendUsername}>@{req.from_profile?.username ?? '...'}</Text>
+                      </View>
+                      <View style={styles.requestActions}>
+                        <TouchableOpacity
+                          style={styles.acceptBtn}
+                          onPress={() => acceptRequest(req.id)}
+                          disabled={acceptingId === req.id}
+                        >
+                          {acceptingId === req.id ? (
+                            <ActivityIndicator size="small" color="#FFFFFF" />
+                          ) : (
+                            <Ionicons name="checkmark" size={18} color="#FFFFFF" />
+                          )}
+                        </TouchableOpacity>
+                        <TouchableOpacity
+                          style={styles.declineBtn}
+                          onPress={() => declineRequest(req.id)}
+                          disabled={decliningId === req.id}
+                        >
+                          {decliningId === req.id ? (
+                            <ActivityIndicator size="small" color={colors.textSecondary} />
+                          ) : (
+                            <Ionicons name="close" size={18} color={colors.textSecondary} />
+                          )}
+                        </TouchableOpacity>
+                      </View>
+                    </View>
+                  ))}
+                </>
+              )}
+
+              {/* Outgoing */}
+              {outgoing.length > 0 && (
+                <>
+                  <Text style={[styles.sectionLabel, incoming.length > 0 && { marginTop: 24 }]}>SENT</Text>
+                  {outgoing.map(req => (
+                    <View key={req.id} style={styles.requestCard}>
+                      <Text style={styles.avatar}>{req.to_profile?.avatar_emoji ?? '🧝'}</Text>
+                      <View style={styles.friendInfo}>
+                        <Text style={styles.friendName}>{req.to_profile?.display_name ?? 'Unknown'}</Text>
+                        <Text style={styles.friendUsername}>@{req.to_profile?.username ?? '...'}</Text>
+                      </View>
+                      <View style={styles.pendingBadge}>
+                        <Text style={styles.pendingText}>Pending</Text>
+                      </View>
+                    </View>
+                  ))}
+                </>
+              )}
+
+              {incoming.length === 0 && outgoing.length === 0 && (
+                <View style={[styles.center, { paddingVertical: 60 }]}>
+                  <Text style={styles.emptyTitle}>No pending requests</Text>
+                  <Text style={styles.emptySubtext}>Friend requests will appear here</Text>
+                </View>
+              )}
+            </>
+          )}
+        </ScrollView>
+      )}
+
+      {/* ── Tab: Add Friend ── */}
+      {activeTab === 'add' && (
+        <View style={styles.addContainer}>
+          <View style={styles.searchPadding}>
+            <SearchBar
+              value={searchQuery}
+              onChangeText={setSearchQuery}
+              placeholder="Search by username..."
+            />
+          </View>
+
+          {searchLoading ? (
+            <View style={[styles.center, { paddingVertical: 40 }]}>
+              <ActivityIndicator size="large" color={colors.goldPrimary} />
+            </View>
+          ) : searchQuery.trim().length === 0 ? (
+            <View style={[styles.center, { paddingVertical: 40 }]}>
+              <Text style={styles.emptySubtext}>Type a username to search</Text>
+            </View>
+          ) : searchResults.length === 0 ? (
+            <View style={[styles.center, { paddingVertical: 40 }]}>
+              <Text style={styles.emptyTitle}>No users found</Text>
+              <Text style={styles.emptySubtext}>Try a different username</Text>
+            </View>
+          ) : (
+            <FlatList
+              data={searchResults}
+              keyExtractor={item => item.id}
+              contentContainerStyle={styles.listContent}
+              keyboardShouldPersistTaps="handled"
+              renderItem={({ item }) => {
+                const alreadySent = sentRequestUsernames.has(item.username);
+                return (
+                  <View style={styles.searchResultCard}>
+                    <Text style={styles.avatar}>{item.avatar_emoji ?? '🧝'}</Text>
+                    <View style={styles.friendInfo}>
+                      <Text style={styles.friendName}>{item.display_name ?? item.username}</Text>
+                      <Text style={styles.friendUsername}>@{item.username}</Text>
+                    </View>
+                    <TouchableOpacity
+                      style={[styles.addBtn, alreadySent && styles.addBtnDisabled]}
+                      onPress={() => !alreadySent && sendFriendRequest(item.username)}
+                      disabled={alreadySent}
+                    >
+                      <Text style={[styles.addBtnText, alreadySent && styles.addBtnTextDisabled]}>
+                        {alreadySent ? 'Sent' : 'Add'}
+                      </Text>
+                    </TouchableOpacity>
+                  </View>
+                );
+              }}
+            />
+          )}
+        </View>
+      )}
+
+      {/* Logout at bottom */}
+      {activeTab === 'friends' && friends.length > 0 && (
+        <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
+          <Text style={styles.logoutText}>Log Out</Text>
+        </TouchableOpacity>
+      )}
     </SafeAreaView>
   );
 }
+
+// ── Styles ──
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: colors.background,
   },
-  centerBox: {
+  center: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    padding: 40,
+    padding: spacing.screenPadding,
+  },
+  listContent: {
+    padding: spacing.screenPadding,
+    paddingBottom: 100,
+  },
+
+  // Tab bar
+  tabBar: {
+    flexDirection: 'row',
+    borderBottomWidth: 1,
+    borderBottomColor: colors.border,
+    paddingHorizontal: spacing.screenPadding,
+  },
+  tab: {
+    flex: 1,
+    paddingVertical: 14,
+    alignItems: 'center',
+    flexDirection: 'row',
+    justifyContent: 'center',
+    gap: 6,
+  },
+  tabActive: {
+    borderBottomWidth: 2,
+    borderBottomColor: colors.goldPrimary,
+  },
+  tabText: {
+    fontSize: 14,
+    fontWeight: '600',
+    color: colors.textTertiary,
+  },
+  tabTextActive: {
+    color: colors.goldPrimary,
+  },
+  badge: {
+    backgroundColor: colors.goldPrimary,
+    borderRadius: 10,
+    minWidth: 20,
+    height: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingHorizontal: 6,
+  },
+  badgeText: {
+    color: colors.background,
+    fontSize: 11,
+    fontWeight: '800',
+  },
+
+  // Friend card
+  friendCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
     backgroundColor: colors.surface,
-    margin: spacing.screenPadding,
     borderRadius: radii.card,
     borderWidth: 1,
     borderColor: colors.border,
+    padding: spacing.cardPadding,
+    marginBottom: spacing.cardGap,
   },
-  emojiComposition: {
-    fontSize: 56,
-    marginBottom: 24,
+  avatar: {
+    fontSize: 36,
+    marginRight: 14,
   },
-  heading: {
+  friendInfo: {
+    flex: 1,
+  },
+  friendName: {
+    fontSize: 16,
+    fontWeight: '600',
+    color: colors.textPrimary,
+  },
+  friendUsername: {
+    fontSize: 13,
+    color: colors.textTertiary,
+    marginTop: 1,
+  },
+  friendCuisines: {
+    fontSize: 12,
+    color: colors.goldPrimary,
+    marginTop: 4,
+  },
+
+  // FAB
+  fab: {
+    position: 'absolute',
+    bottom: 24,
+    right: spacing.screenPadding,
+    width: 56,
+    height: 56,
+    borderRadius: 28,
+    backgroundColor: colors.goldDark,
+    justifyContent: 'center',
+    alignItems: 'center',
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 6,
+    elevation: 8,
+  },
+
+  // Request card
+  requestCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: colors.surface,
+    borderRadius: radii.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.cardPadding,
+    marginBottom: spacing.cardGap,
+  },
+  requestActions: {
+    flexDirection: 'row',
+    gap: 8,
+  },
+  acceptBtn: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    backgroundColor: colors.goldDark,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  declineBtn: {
+    width: 36,
+    height: 36,
+    borderRadius: 18,
+    backgroundColor: colors.surfaceElevated,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  pendingBadge: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: radii.pill,
+    backgroundColor: colors.surfaceElevated,
+  },
+  pendingText: {
+    fontSize: 12,
+    fontWeight: '600',
+    color: colors.textTertiary,
+  },
+
+  // Search / Add
+  addContainer: {
+    flex: 1,
+  },
+  searchPadding: {
+    padding: spacing.screenPadding,
+    paddingBottom: 0,
+  },
+  searchResultCard: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: colors.surface,
+    borderRadius: radii.card,
+    borderWidth: 1,
+    borderColor: colors.border,
+    padding: spacing.cardPadding,
+    marginBottom: spacing.cardGap,
+  },
+  addBtn: {
+    paddingHorizontal: 16,
+    paddingVertical: 8,
+    borderRadius: radii.pill,
+    backgroundColor: colors.goldDark,
+  },
+  addBtnDisabled: {
+    backgroundColor: colors.surfaceElevated,
+  },
+  addBtnText: {
+    fontSize: 13,
+    fontWeight: '700',
+    color: '#FFFFFF',
+  },
+  addBtnTextDisabled: {
+    color: colors.textTertiary,
+  },
+
+  // Empty states
+  emptyEmoji: {
+    fontSize: 48,
+    marginBottom: 12,
+  },
+  emptyTitle: {
+    fontSize: 18,
+    fontWeight: '600',
+    color: colors.textSecondary,
+    marginBottom: 4,
+  },
+  emptySubtext: {
+    fontSize: 14,
+    color: colors.textTertiary,
+    textAlign: 'center',
+  },
+
+  // Section label
+  sectionLabel: {
     fontSize: 13,
     fontWeight: '600',
     color: colors.goldPrimary,
     textTransform: 'uppercase',
-    letterSpacing: 2,
+    letterSpacing: 1,
     marginBottom: 12,
   },
-  title: {
-    fontSize: 22,
+
+  // Profile setup
+  setupContainer: {
+    padding: spacing.screenPadding,
+    paddingTop: 40,
+  },
+  setupTitle: {
+    fontSize: 28,
     fontWeight: '800',
     color: colors.textPrimary,
-    marginBottom: 12,
-    textAlign: 'center',
+    marginBottom: 8,
   },
-  subtitle: {
+  setupSubtitle: {
     fontSize: 15,
     color: colors.textSecondary,
-    textAlign: 'center',
-    lineHeight: 22,
+    marginBottom: 32,
+  },
+  emojiGrid: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    gap: 12,
     marginBottom: 24,
   },
-  buttonContainer: {
-    width: '100%',
-    maxWidth: 240,
+  emojiOption: {
+    width: 52,
+    height: 52,
+    borderRadius: 26,
+    backgroundColor: colors.surface,
+    borderWidth: 2,
+    borderColor: colors.border,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
+  emojiSelected: {
+    borderColor: colors.goldPrimary,
+    backgroundColor: 'rgba(212,165,116,0.1)',
+  },
+  emojiText: {
+    fontSize: 28,
+  },
+  setupInput: {
+    backgroundColor: colors.surface,
+    borderWidth: 1,
+    borderColor: colors.border,
+    borderRadius: radii.input,
+    paddingHorizontal: 16,
+    paddingVertical: 14,
+    fontSize: 16,
+    color: colors.textPrimary,
+    marginBottom: 6,
+  },
+  setupHint: {
+    fontSize: 12,
+    color: colors.textTertiary,
+    marginBottom: 20,
+  },
+  setupButtonRow: {
+    marginTop: 12,
+  },
+  errorText: {
+    color: colors.error,
+    fontSize: 14,
+    textAlign: 'center',
+    marginVertical: 8,
+  },
+
+  // Logout
   logoutBtn: {
     marginHorizontal: spacing.screenPadding,
     marginBottom: spacing.screenPadding,
