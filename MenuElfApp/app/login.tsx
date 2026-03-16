@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import {
   StyleSheet, View, Text, TextInput, TouchableOpacity,
   KeyboardAvoidingView, Platform, ScrollView, Keyboard,
-  TouchableWithoutFeedback, Animated,
+  TouchableWithoutFeedback, Animated, Linking,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { supabase } from '../lib/supabase';
@@ -114,6 +114,16 @@ export default function LoginScreen() {
                     </Text>
                   </Text>
                 </TouchableOpacity>
+
+                <View style={styles.legalLinks}>
+                  <TouchableOpacity onPress={() => Linking.openURL('https://menuelf-production.up.railway.app/legal/privacy')}>
+                    <Text style={styles.legalText}>Privacy Policy</Text>
+                  </TouchableOpacity>
+                  <Text style={styles.legalDot}> · </Text>
+                  <TouchableOpacity onPress={() => Linking.openURL('https://menuelf-production.up.railway.app/legal/terms')}>
+                    <Text style={styles.legalText}>Terms of Service</Text>
+                  </TouchableOpacity>
+                </View>
               </View>
             </Animated.View>
           </ScrollView>
@@ -200,5 +210,19 @@ const styles = StyleSheet.create({
   toggleHighlight: {
     color: colors.goldPrimary,
     fontWeight: '600',
+  },
+  legalLinks: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginTop: 32,
+  },
+  legalText: {
+    color: colors.textTertiary,
+    fontSize: 12,
+  },
+  legalDot: {
+    color: colors.textTertiary,
+    fontSize: 12,
   },
 });

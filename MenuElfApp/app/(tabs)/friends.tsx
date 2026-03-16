@@ -702,11 +702,22 @@ export default function FriendsScreen() {
         </View>
       )}
 
-      {/* Logout at bottom */}
-      {activeTab === 'friends' && friends.length > 0 && (
-        <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
-          <Text style={styles.logoutText}>Log Out</Text>
-        </TouchableOpacity>
+      {/* Footer: legal links + logout */}
+      {activeTab === 'friends' && (
+        <View style={styles.footerSection}>
+          <View style={styles.legalLinks}>
+            <TouchableOpacity onPress={() => router.push('/legal?type=privacy')}>
+              <Text style={styles.legalText}>Privacy Policy</Text>
+            </TouchableOpacity>
+            <Text style={styles.legalDot}> · </Text>
+            <TouchableOpacity onPress={() => router.push('/legal?type=terms')}>
+              <Text style={styles.legalText}>Terms</Text>
+            </TouchableOpacity>
+          </View>
+          <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
+            <Text style={styles.logoutText}>Log Out</Text>
+          </TouchableOpacity>
+        </View>
       )}
     </SafeAreaView>
   );
@@ -1053,10 +1064,27 @@ const styles = StyleSheet.create({
     marginVertical: 8,
   },
 
-  // Logout
+  // Footer
+  footerSection: {
+    paddingBottom: spacing.screenPadding,
+  },
+  legalLinks: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    paddingVertical: 8,
+  },
+  legalText: {
+    color: colors.textTertiary,
+    fontSize: 12,
+  },
+  legalDot: {
+    color: colors.textTertiary,
+    fontSize: 12,
+  },
   logoutBtn: {
     marginHorizontal: spacing.screenPadding,
-    marginBottom: spacing.screenPadding,
+    marginBottom: 4,
     paddingVertical: 14,
     borderRadius: radii.input,
     borderWidth: 1,
