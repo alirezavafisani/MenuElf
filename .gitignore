@@ -27,3 +27,7 @@ Thumbs.db
 .idea/
 BS_and_Crawl4ai_combined_menu_JSONS/
 MenuElfApp/dist/
+backend/menu_embeddings.npy
+
+# Legacy uncompressed embeddings
+backend/menu_embeddings.npy
