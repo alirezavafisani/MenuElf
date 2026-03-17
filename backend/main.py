@@ -121,6 +121,34 @@ def load_places_data():
 
 load_places_data()
 
+# ─── Photos Data ───
+PHOTOS_DATA_FILE = os.path.join(BASE_DIR, "restaurant_photos.json")
+PHOTOS_DATA = {}
+GOOGLE_MAPS_API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY", "")
+
+def load_photos_data():
+    global PHOTOS_DATA
+    if os.path.isfile(PHOTOS_DATA_FILE):
+        with open(PHOTOS_DATA_FILE, "r", encoding="utf-8") as f:
+            PHOTOS_DATA = json.load(f)
+        print(f"Loaded photo data for {len(PHOTOS_DATA)} restaurants", flush=True)
+
+load_photos_data()
+
+def get_photo_urls(slug: str) -> list[str]:
+    """Build full Google Places photo URLs for a restaurant slug."""
+    if not GOOGLE_MAPS_API_KEY or slug not in PHOTOS_DATA:
+        return []
+    photos = PHOTOS_DATA[slug].get("photos", [])
+    urls = []
+    for p in photos:
+        ref = p.get("photo_reference")
+        if ref:
+            urls.append(
+                f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference={ref}&key={GOOGLE_MAPS_API_KEY}"
+            )
+    return urls
+
 # ─── Endpoints ───
 @app.get("/health")
 def health_check():
@@ -154,7 +182,7 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
         if q and q not in display_name.lower():
             continue
         slug = REVERSE_MAPPING.get(display_name.lower())
-        rest_info = {"name": display_name, "slug": slug, "lat": None, "lng": None, "rating": None, "reviews": None, "address": None}
+        rest_info = {"name": display_name, "slug": slug, "lat": None, "lng": None, "rating": None, "reviews": None, "address": None, "photos": []}
         if slug and slug in PLACES_DATA:
             pdata = PLACES_DATA[slug]
             if "error" not in pdata:
@@ -163,6 +191,9 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
                 rest_info["rating"] = pdata.get("rating")
                 rest_info["reviews"] = pdata.get("user_ratings_total")
                 rest_info["address"] = pdata.get("address")
+
+        if slug:
+            rest_info["photos"] = get_photo_urls(slug)
 
         # Enrich with personalization if user profile is available
         if user_profile and slug:
