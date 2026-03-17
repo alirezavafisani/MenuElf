@@ -136,14 +136,26 @@ def load_photos_data():
 load_photos_data()
 
 def get_photo_urls(slug: str) -> list[str]:
-    """Build full Google Places photo URLs for a restaurant slug."""
+    """Build full Google Places photo URLs for a restaurant slug.
+
+    Supports both new API photo resource names (places/.../photos/...)
+    and legacy photo_reference strings.
+    """
     if not GOOGLE_MAPS_API_KEY or slug not in PHOTOS_DATA:
         return []
     photos = PHOTOS_DATA[slug].get("photos", [])
     urls = []
     for p in photos:
-        ref = p.get("photo_reference")
-        if ref:
+        ref = p.get("photo_reference", "")
+        if not ref:
+            continue
+        if ref.startswith("places/"):
+            # New Places API (v1) photo resource name
+            urls.append(
+                f"https://places.googleapis.com/v1/{ref}/media?maxWidthPx=800&key={GOOGLE_MAPS_API_KEY}"
+            )
+        else:
+            # Legacy photo_reference
             urls.append(
                 f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference={ref}&key={GOOGLE_MAPS_API_KEY}"
             )
