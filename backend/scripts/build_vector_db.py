@@ -20,7 +20,7 @@ BACKEND_DIR = Path(__file__).resolve().parent.parent
 MENUS_DIR = BACKEND_DIR / "menus"
 NAME_MAPPING_FILE = BACKEND_DIR / "name_mapping.json"
 MENU_DB_FILE = BACKEND_DIR / "menu_db.json"
-EMBEDDINGS_FILE = BACKEND_DIR / "menu_embeddings.npy"
+EMBEDDINGS_FILE = BACKEND_DIR / "menu_embeddings.npz"
 
 EMBEDDING_MODEL = "text-embedding-3-large"
 EMBEDDING_DIMENSIONS = 3072
@@ -142,10 +142,10 @@ def main():
     print("Generating embeddings...")
     embeddings = build_embeddings(menu_index)
 
-    # Save embeddings
-    np.save(EMBEDDINGS_FILE, embeddings)
+    # Save embeddings as compressed npz (stays under GitHub 100MB limit)
+    np.savez_compressed(EMBEDDINGS_FILE, embeddings=embeddings)
     print(f"Saved {EMBEDDINGS_FILE}")
-    print(f"Built embeddings for {len(menu_index)} items. Saved to menu_embeddings.npy")
+    print(f"Built embeddings for {len(menu_index)} items. Saved to menu_embeddings.npz")
 
 
 if __name__ == "__main__":

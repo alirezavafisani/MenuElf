@@ -86,7 +86,8 @@ def load_menu(display_name: str):
 import numpy as np
 
 MENU_DB_FILE = os.path.join(BASE_DIR, "menu_db.json")
-EMBEDDINGS_FILE = os.path.join(BASE_DIR, "menu_embeddings.npy")
+EMBEDDINGS_NPZ_FILE = os.path.join(BASE_DIR, "menu_embeddings.npz")
+EMBEDDINGS_NPY_FILE = os.path.join(BASE_DIR, "menu_embeddings.npy")
 MENU_INDEX: List[dict] = []
 MENU_EMBEDDINGS: np.ndarray = None
 
@@ -98,9 +99,12 @@ def load_menu_index():
                 MENU_INDEX = json.load(f)
         else:
             MENU_INDEX = []
-            
-        if os.path.isfile(EMBEDDINGS_FILE):
-            MENU_EMBEDDINGS = np.load(EMBEDDINGS_FILE, mmap_mode='r')
+
+        if os.path.isfile(EMBEDDINGS_NPZ_FILE):
+            data = np.load(EMBEDDINGS_NPZ_FILE)
+            MENU_EMBEDDINGS = data["embeddings"].astype(np.float32)
+        elif os.path.isfile(EMBEDDINGS_NPY_FILE):
+            MENU_EMBEDDINGS = np.load(EMBEDDINGS_NPY_FILE, mmap_mode='r')
         else:
             MENU_EMBEDDINGS = None
     except Exception as e:
