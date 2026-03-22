@@ -125,45 +125,18 @@ def load_places_data():
 
 load_places_data()
 
-# ─── Photos Data ───
-PHOTOS_DATA_FILE = os.path.join(BASE_DIR, "restaurant_photos.json")
-PHOTOS_DATA = {}
-GOOGLE_MAPS_API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY", "")
+# ─── Photo URLs ───
+PHOTO_URLS_FILE = os.path.join(BASE_DIR, "restaurant_photo_urls.json")
+PHOTO_URLS: dict[str, list[str]] = {}
 
-def load_photos_data():
-    global PHOTOS_DATA
-    if os.path.isfile(PHOTOS_DATA_FILE):
-        with open(PHOTOS_DATA_FILE, "r", encoding="utf-8") as f:
-            PHOTOS_DATA = json.load(f)
-        print(f"Loaded photo data for {len(PHOTOS_DATA)} restaurants", flush=True)
+def load_photo_urls():
+    global PHOTO_URLS
+    if os.path.isfile(PHOTO_URLS_FILE):
+        with open(PHOTO_URLS_FILE, "r", encoding="utf-8") as f:
+            PHOTO_URLS = json.load(f)
+        print(f"Loaded photo URLs for {len(PHOTO_URLS)} restaurants", flush=True)
 
-load_photos_data()
-
-def get_photo_urls(slug: str) -> list[str]:
-    """Build full Google Places photo URLs for a restaurant slug.
-
-    Supports both new API photo resource names (places/.../photos/...)
-    and legacy photo_reference strings.
-    """
-    if not GOOGLE_MAPS_API_KEY or slug not in PHOTOS_DATA:
-        return []
-    photos = PHOTOS_DATA[slug].get("photos", [])
-    urls = []
-    for p in photos:
-        ref = p.get("photo_reference", "")
-        if not ref:
-            continue
-        if ref.startswith("places/"):
-            # New Places API (v1) photo resource name
-            urls.append(
-                f"https://places.googleapis.com/v1/{ref}/media?maxWidthPx=800&key={GOOGLE_MAPS_API_KEY}"
-            )
-        else:
-            # Legacy photo_reference
-            urls.append(
-                f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference={ref}&key={GOOGLE_MAPS_API_KEY}"
-            )
-    return urls
+load_photo_urls()
 
 # ─── Endpoints ───
 @app.get("/health")
@@ -209,7 +182,7 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
                 rest_info["address"] = pdata.get("address")
 
         if slug:
-            rest_info["photos"] = get_photo_urls(slug)
+            rest_info["photos"] = PHOTO_URLS.get(slug, [])
 
         # Enrich with personalization if user profile is available
         if user_profile and slug:
