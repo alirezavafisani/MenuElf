@@ -6,10 +6,10 @@ import {
 import { useRouter } from 'expo-router';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { apiGet, apiPost } from '../lib/api';
-import { colors, radii } from '../lib/theme';
+import { colors, radii, shadows } from '../lib/theme';
 import GoldButton from '../components/ui/GoldButton';
 
-const { width: SCREEN_WIDTH, height: SCREEN_HEIGHT } = Dimensions.get('window');
+const { height: SCREEN_HEIGHT } = Dimensions.get('window');
 const CARD_HEIGHT = (SCREEN_HEIGHT - 280) / 2;
 
 type QuestionOption = {
@@ -48,7 +48,6 @@ export default function OnboardingScreen() {
 
   useEffect(() => { loadQuestions(); }, []);
 
-  // Loading dot animation for submitting state
   useEffect(() => {
     if (submitting) {
       Animated.loop(
@@ -96,7 +95,6 @@ export default function OnboardingScreen() {
     const question = questions[currentIndex];
     if (!question) return;
 
-    // Show gold border on selected card
     setSelected(option);
     const borderRef = option === 'a' ? borderAnimA : borderAnimB;
     Animated.timing(borderRef, { toValue: 1, duration: 200, useNativeDriver: false }).start();
@@ -107,13 +105,11 @@ export default function OnboardingScreen() {
 
     const nextIndex = currentIndex + 1;
 
-    // Delay before transition
     setTimeout(() => {
       if (nextIndex >= questions.length) {
         saveProgress(newAnswers, nextIndex);
         submitOnboarding(newAnswers);
       } else {
-        // Slide + fade transition
         Animated.parallel([
           Animated.timing(fadeAnim, { toValue: 0, duration: 200, useNativeDriver: true }),
           Animated.timing(slideAnim, { toValue: -30, duration: 200, useNativeDriver: true }),
@@ -157,7 +153,7 @@ export default function OnboardingScreen() {
   if (loading) {
     return (
       <View style={styles.container}>
-        <ActivityIndicator size="large" color={colors.goldPrimary} />
+        <ActivityIndicator size="large" color={colors.accent} />
         <Text style={styles.loadingText}>Loading questions...</Text>
       </View>
     );
@@ -189,16 +185,15 @@ export default function OnboardingScreen() {
 
   const borderColorA = borderAnimA.interpolate({
     inputRange: [0, 1],
-    outputRange: [colors.border, colors.goldPrimary],
+    outputRange: [colors.border, colors.accent],
   });
   const borderColorB = borderAnimB.interpolate({
     inputRange: [0, 1],
-    outputRange: [colors.border, colors.goldPrimary],
+    outputRange: [colors.border, colors.accent],
   });
 
   return (
     <View style={styles.container}>
-      {/* Progress dots */}
       <View style={styles.progressRow}>
         {questions.map((_, i) => (
           <View
@@ -218,13 +213,8 @@ export default function OnboardingScreen() {
       {error ? <Text style={styles.inlineError}>{error}</Text> : null}
 
       <Animated.View style={[styles.optionsContainer, { opacity: fadeAnim, transform: [{ translateY: slideAnim }] }]}>
-        {/* Option A */}
         <Animated.View style={[styles.optionCard, { borderColor: borderColorA }]}>
-          <TouchableOpacity
-            style={styles.optionTouchable}
-            activeOpacity={0.85}
-            onPress={() => handleChoice('a')}
-          >
+          <TouchableOpacity style={styles.optionTouchable} activeOpacity={0.85} onPress={() => handleChoice('a')}>
             <Image source={{ uri: question.option_a.image_url }} style={styles.foodImage} />
             <View style={styles.labelOverlay}>
               <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_a.label)}</Text>
@@ -232,13 +222,8 @@ export default function OnboardingScreen() {
           </TouchableOpacity>
         </Animated.View>
 
-        {/* Option B */}
         <Animated.View style={[styles.optionCard, { borderColor: borderColorB }]}>
-          <TouchableOpacity
-            style={styles.optionTouchable}
-            activeOpacity={0.85}
-            onPress={() => handleChoice('b')}
-          >
+          <TouchableOpacity style={styles.optionTouchable} activeOpacity={0.85} onPress={() => handleChoice('b')}>
             <Image source={{ uri: question.option_b.image_url }} style={styles.foodImage} />
             <View style={styles.labelOverlay}>
               <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_b.label)}</Text>
@@ -252,110 +237,33 @@ export default function OnboardingScreen() {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: colors.background,
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: 24,
+    flex: 1, backgroundColor: colors.background,
+    justifyContent: 'center', alignItems: 'center', padding: 24,
   },
-  progressRow: {
-    flexDirection: 'row',
-    gap: 10,
-    marginBottom: 32,
-  },
-  dot: {
-    width: 10,
-    height: 10,
-    borderRadius: 5,
-  },
-  dotActive: {
-    backgroundColor: colors.goldPrimary,
-    width: 24,
-    borderRadius: 5,
-  },
-  dotCompleted: {
-    backgroundColor: colors.goldDark,
-  },
-  dotInactive: {
-    backgroundColor: colors.surfaceElevated,
-  },
-  heading: {
-    fontSize: 24,
-    fontWeight: '800',
-    color: colors.textPrimary,
-    textAlign: 'center',
-    marginBottom: 4,
-  },
-  counter: {
-    fontSize: 14,
-    color: colors.textTertiary,
-    marginBottom: 28,
-  },
-  inlineError: {
-    color: colors.error,
-    fontSize: 14,
-    textAlign: 'center',
-    marginBottom: 12,
-  },
-  optionsContainer: {
-    width: '100%',
-    gap: 16,
-  },
+  progressRow: { flexDirection: 'row', gap: 10, marginBottom: 32 },
+  dot: { width: 10, height: 10, borderRadius: 5 },
+  dotActive: { backgroundColor: colors.accent, width: 24, borderRadius: 5 },
+  dotCompleted: { backgroundColor: colors.accentDark },
+  dotInactive: { backgroundColor: colors.backgroundTertiary },
+  heading: { fontSize: 24, fontWeight: '800', color: colors.textPrimary, textAlign: 'center', marginBottom: 4 },
+  counter: { fontSize: 14, color: colors.textTertiary, marginBottom: 28 },
+  inlineError: { color: colors.error, fontSize: 14, textAlign: 'center', marginBottom: 12 },
+  optionsContainer: { width: '100%', gap: 16 },
   optionCard: {
-    borderRadius: radii.card,
-    borderWidth: 2,
-    overflow: 'hidden',
-    height: CARD_HEIGHT,
+    borderRadius: radii.card, borderWidth: 2, overflow: 'hidden', height: CARD_HEIGHT,
+    ...shadows.card,
   },
-  optionTouchable: {
-    flex: 1,
-  },
-  foodImage: {
-    width: '100%',
-    height: '100%',
-    backgroundColor: colors.surface,
-  },
+  optionTouchable: { flex: 1 },
+  foodImage: { width: '100%', height: '100%', backgroundColor: colors.backgroundTertiary },
   labelOverlay: {
-    position: 'absolute',
-    bottom: 0,
-    left: 0,
-    right: 0,
-    paddingVertical: 14,
-    paddingHorizontal: 16,
-    backgroundColor: 'rgba(0,0,0,0.6)',
+    position: 'absolute', bottom: 0, left: 0, right: 0,
+    paddingVertical: 14, paddingHorizontal: 16,
+    backgroundColor: 'rgba(0,0,0,0.5)',
   },
-  optionLabel: {
-    color: colors.textPrimary,
-    fontSize: 16,
-    fontWeight: '700',
-    textAlign: 'center',
-  },
-  loadingText: {
-    color: colors.goldPrimary,
-    fontSize: 18,
-    fontWeight: '600',
-    marginTop: 16,
-  },
-  errorText: {
-    color: colors.error,
-    fontSize: 16,
-    textAlign: 'center',
-    marginBottom: 20,
-    lineHeight: 22,
-  },
-  buildingEmoji: {
-    fontSize: 48,
-    color: colors.goldPrimary,
-    marginBottom: 16,
-  },
-  buildingText: {
-    color: colors.goldPrimary,
-    fontSize: 20,
-    fontWeight: '700',
-    marginBottom: 8,
-  },
-  buildingSubtext: {
-    color: colors.textSecondary,
-    fontSize: 14,
-  },
+  optionLabel: { color: '#FFFFFF', fontSize: 16, fontWeight: '700', textAlign: 'center' },
+  loadingText: { color: colors.accent, fontSize: 18, fontWeight: '600', marginTop: 16 },
+  errorText: { color: colors.error, fontSize: 16, textAlign: 'center', marginBottom: 20, lineHeight: 22 },
+  buildingEmoji: { fontSize: 48, color: colors.accent, marginBottom: 16 },
+  buildingText: { color: colors.accent, fontSize: 20, fontWeight: '700', marginBottom: 8 },
+  buildingSubtext: { color: colors.textSecondary, fontSize: 14 },
 });

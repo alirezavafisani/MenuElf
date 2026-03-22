@@ -9,7 +9,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useRouter } from 'expo-router';
 import { supabase } from '../../lib/supabase';
 import { apiGet, apiPost, apiDelete, logInteraction } from '../../lib/api';
-import { colors, radii, spacing } from '../../lib/theme';
+import { colors, radii, spacing, shadows } from '../../lib/theme';
 import GoldButton from '../../components/ui/GoldButton';
 import SearchBar from '../../components/ui/SearchBar';
 
@@ -57,8 +57,8 @@ type DiningPlan = {
 // ── Avatar Emoji Choices ──
 
 const AVATAR_EMOJIS = [
-  '🧝', '🧑‍🍳', '🍕', '🍣', '🌮', '🍜',
-  '🥗', '🍰', '🍔', '🥘', '🧁', '🍷',
+  '\u{1F9DD}', '\u{1F9D1}\u200D\u{1F373}', '\u{1F355}', '\u{1F363}', '\u{1F32E}', '\u{1F35C}',
+  '\u{1F957}', '\u{1F370}', '\u{1F354}', '\u{1F958}', '\u{1F9C1}', '\u{1F377}',
 ];
 
 // ── Tabs ──
@@ -74,16 +74,13 @@ export default function FriendsScreen() {
   const [profileLoading, setProfileLoading] = useState(true);
   const [profileError, setProfileError] = useState('');
 
-  // Dining plans
   const [plans, setPlans] = useState<DiningPlan[]>([]);
   const [plansLoading, setPlansLoading] = useState(false);
 
-  // Friends list
   const [friends, setFriends] = useState<UserProfile[]>([]);
   const [friendsLoading, setFriendsLoading] = useState(false);
   const [friendsRefreshing, setFriendsRefreshing] = useState(false);
 
-  // Requests
   const [incoming, setIncoming] = useState<FriendRequest[]>([]);
   const [outgoing, setOutgoing] = useState<FriendRequest[]>([]);
   const [requestsLoading, setRequestsLoading] = useState(false);
@@ -91,137 +88,78 @@ export default function FriendsScreen() {
   const [acceptingId, setAcceptingId] = useState<string | null>(null);
   const [decliningId, setDecliningId] = useState<string | null>(null);
 
-  // Search / Add
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<SearchUser[]>([]);
   const [searchLoading, setSearchLoading] = useState(false);
   const [sentRequestUsernames, setSentRequestUsernames] = useState<Set<string>>(new Set());
 
-  // Profile setup
   const [setupUsername, setSetupUsername] = useState('');
   const [setupDisplayName, setSetupDisplayName] = useState('');
-  const [setupEmoji, setSetupEmoji] = useState('🧝');
+  const [setupEmoji, setSetupEmoji] = useState(AVATAR_EMOJIS[0]);
   const [setupLoading, setSetupLoading] = useState(false);
   const [setupError, setSetupError] = useState('');
 
-  // ── Load profile on mount ──
-
-  useEffect(() => {
-    loadMyProfile();
-  }, []);
+  useEffect(() => { loadMyProfile(); }, []);
 
   useEffect(() => {
     if (myProfile) {
-      if (activeTab === 'friends') {
-        loadFriends();
-        loadPlans();
-      }
+      if (activeTab === 'friends') { loadFriends(); loadPlans(); }
       if (activeTab === 'requests') loadRequests();
     }
   }, [activeTab, myProfile]);
 
-  // ── Debounced search ──
-
   useEffect(() => {
-    if (activeTab !== 'add' || !searchQuery.trim()) {
-      setSearchResults([]);
-      return;
-    }
+    if (activeTab !== 'add' || !searchQuery.trim()) { setSearchResults([]); return; }
     const timer = setTimeout(() => searchUsers(searchQuery.trim()), 300);
     return () => clearTimeout(timer);
   }, [searchQuery, activeTab]);
-
-  // ── API calls ──
 
   const loadMyProfile = async () => {
     setProfileLoading(true);
     setProfileError('');
     try {
       const res = await apiGet('/profile/me');
-      if (res.ok) {
-        const data = await res.json();
-        setMyProfile(data.profile);
-      } else if (res.status === 404) {
-        setMyProfile(null);
-      } else {
-        setProfileError('Could not load profile');
-      }
-    } catch {
-      setProfileError('Network error. Check your connection.');
-    } finally {
-      setProfileLoading(false);
-    }
+      if (res.ok) { const data = await res.json(); setMyProfile(data.profile); }
+      else if (res.status === 404) { setMyProfile(null); }
+      else { setProfileError('Could not load profile'); }
+    } catch { setProfileError('Network error. Check your connection.'); }
+    finally { setProfileLoading(false); }
   };
 
   const loadPlans = async () => {
     setPlansLoading(true);
     try {
       const res = await apiGet('/plans');
-      if (res.ok) {
-        const data = await res.json();
-        setPlans(data.plans ?? []);
-      }
-    } catch {
-      // Silently fail
-    } finally {
-      setPlansLoading(false);
-    }
+      if (res.ok) { const data = await res.json(); setPlans(data.plans ?? []); }
+    } catch {} finally { setPlansLoading(false); }
   };
 
   const loadFriends = async (refreshing = false) => {
-    if (refreshing) setFriendsRefreshing(true);
-    else setFriendsLoading(true);
+    if (refreshing) setFriendsRefreshing(true); else setFriendsLoading(true);
     try {
       const res = await apiGet('/friends');
-      if (res.ok) {
-        const data = await res.json();
-        setFriends(data.friends ?? []);
-      }
-    } catch {
-      // Silently fail, keep existing data
-    } finally {
-      setFriendsLoading(false);
-      setFriendsRefreshing(false);
-    }
+      if (res.ok) { const data = await res.json(); setFriends(data.friends ?? []); }
+    } catch {} finally { setFriendsLoading(false); setFriendsRefreshing(false); }
   };
 
   const loadRequests = async (refreshing = false) => {
-    if (refreshing) setRequestsRefreshing(true);
-    else setRequestsLoading(true);
+    if (refreshing) setRequestsRefreshing(true); else setRequestsLoading(true);
     try {
       const [inRes, outRes] = await Promise.all([
         apiGet('/friends/requests/incoming'),
         apiGet('/friends/requests/outgoing'),
       ]);
-      if (inRes.ok) {
-        const inData = await inRes.json();
-        setIncoming(inData.requests ?? []);
-      }
-      if (outRes.ok) {
-        const outData = await outRes.json();
-        setOutgoing(outData.requests ?? []);
-      }
-    } catch {
-      // Silently fail
-    } finally {
-      setRequestsLoading(false);
-      setRequestsRefreshing(false);
-    }
+      if (inRes.ok) { const inData = await inRes.json(); setIncoming(inData.requests ?? []); }
+      if (outRes.ok) { const outData = await outRes.json(); setOutgoing(outData.requests ?? []); }
+    } catch {} finally { setRequestsLoading(false); setRequestsRefreshing(false); }
   };
 
   const searchUsers = async (q: string) => {
     setSearchLoading(true);
     try {
       const res = await apiGet(`/users/search?q=${encodeURIComponent(q)}`);
-      if (res.ok) {
-        const data = await res.json();
-        setSearchResults(data.users ?? []);
-      }
-    } catch {
-      setSearchResults([]);
-    } finally {
-      setSearchLoading(false);
-    }
+      if (res.ok) { const data = await res.json(); setSearchResults(data.users ?? []); }
+    } catch { setSearchResults([]); } finally { setSearchLoading(false); }
   };
 
   const sendFriendRequest = async (username: string) => {
@@ -234,68 +172,43 @@ export default function FriendsScreen() {
         const err = await res.json().catch(() => ({ detail: 'Request failed' }));
         Alert.alert('Could not send request', err.detail ?? 'Something went wrong');
       }
-    } catch {
-      Alert.alert('Network error', 'Check your connection and try again.');
-    }
+    } catch { Alert.alert('Network error', 'Check your connection and try again.'); }
   };
 
   const acceptRequest = async (requestId: string) => {
     setAcceptingId(requestId);
     try {
       const res = await apiPost(`/friends/requests/${requestId}/accept`, {});
-      if (res.ok) {
-        setIncoming(prev => prev.filter(r => r.id !== requestId));
-        loadFriends();
-      } else {
-        Alert.alert('Error', 'Could not accept request');
-      }
-    } catch {
-      Alert.alert('Network error', 'Check your connection.');
-    } finally {
-      setAcceptingId(null);
-    }
+      if (res.ok) { setIncoming(prev => prev.filter(r => r.id !== requestId)); loadFriends(); }
+      else { Alert.alert('Error', 'Could not accept request'); }
+    } catch { Alert.alert('Network error', 'Check your connection.'); }
+    finally { setAcceptingId(null); }
   };
 
   const declineRequest = async (requestId: string) => {
     setDecliningId(requestId);
     try {
       const res = await apiPost(`/friends/requests/${requestId}/decline`, {});
-      if (res.ok) {
-        setIncoming(prev => prev.filter(r => r.id !== requestId));
-      } else {
-        Alert.alert('Error', 'Could not decline request');
-      }
-    } catch {
-      Alert.alert('Network error', 'Check your connection.');
-    } finally {
-      setDecliningId(null);
-    }
+      if (res.ok) { setIncoming(prev => prev.filter(r => r.id !== requestId)); }
+      else { Alert.alert('Error', 'Could not decline request'); }
+    } catch { Alert.alert('Network error', 'Check your connection.'); }
+    finally { setDecliningId(null); }
   };
 
   const removeFriend = (friendId: string, friendName: string) => {
-    Alert.alert(
-      'Remove Friend',
-      `Remove ${friendName} from your friends?`,
-      [
-        { text: 'Cancel', style: 'cancel' },
-        {
-          text: 'Remove',
-          style: 'destructive',
-          onPress: async () => {
-            try {
-              const res = await apiDelete(`/friends/${friendId}`);
-              if (res.ok) {
-                setFriends(prev => prev.filter(f => f.id !== friendId));
-              } else {
-                Alert.alert('Error', 'Could not remove friend');
-              }
-            } catch {
-              Alert.alert('Network error', 'Check your connection.');
-            }
-          },
+    Alert.alert('Remove Friend', `Remove ${friendName} from your friends?`, [
+      { text: 'Cancel', style: 'cancel' },
+      {
+        text: 'Remove', style: 'destructive',
+        onPress: async () => {
+          try {
+            const res = await apiDelete(`/friends/${friendId}`);
+            if (res.ok) { setFriends(prev => prev.filter(f => f.id !== friendId)); }
+            else { Alert.alert('Error', 'Could not remove friend'); }
+          } catch { Alert.alert('Network error', 'Check your connection.'); }
         },
-      ],
-    );
+      },
+    ]);
   };
 
   const handleLogout = () => {
@@ -307,15 +220,11 @@ export default function FriendsScreen() {
 
   const setupProfile = async () => {
     const username = setupUsername.trim().toLowerCase();
-    if (!username) {
-      setSetupError('Username is required');
-      return;
-    }
+    if (!username) { setSetupError('Username is required'); return; }
     if (!/^[a-z0-9_]{3,20}$/.test(username)) {
       setSetupError('3-20 characters, lowercase letters, numbers, and underscores only');
       return;
     }
-
     setSetupLoading(true);
     setSetupError('');
     try {
@@ -332,37 +241,29 @@ export default function FriendsScreen() {
         const err = await res.json().catch(() => ({ detail: 'Setup failed' }));
         setSetupError(err.detail ?? 'Something went wrong');
       }
-    } catch {
-      setSetupError('Network error. Check your connection.');
-    } finally {
-      setSetupLoading(false);
-    }
+    } catch { setSetupError('Network error. Check your connection.'); }
+    finally { setSetupLoading(false); }
   };
 
   // ── Render: Loading state ──
-
   if (profileLoading) {
     return (
       <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
         <View style={styles.center}>
-          <ActivityIndicator size="large" color={colors.goldPrimary} />
+          <ActivityIndicator size="large" color={colors.accent} />
         </View>
       </SafeAreaView>
     );
   }
 
   // ── Render: Profile setup ──
-
   if (!myProfile) {
     return (
       <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
         <ScrollView contentContainerStyle={styles.setupContainer} keyboardShouldPersistTaps="handled">
           <Text style={styles.setupTitle}>Set Up Your Profile</Text>
-          <Text style={styles.setupSubtitle}>
-            Choose a username so friends can find you
-          </Text>
+          <Text style={styles.setupSubtitle}>Choose a username so friends can find you</Text>
 
-          {/* Avatar picker */}
           <Text style={styles.sectionLabel}>AVATAR</Text>
           <View style={styles.emojiGrid}>
             {AVATAR_EMOJIS.map(emoji => (
@@ -376,24 +277,19 @@ export default function FriendsScreen() {
             ))}
           </View>
 
-          {/* Username */}
           <Text style={styles.sectionLabel}>USERNAME</Text>
           <TextInput
             style={styles.setupInput}
             placeholder="e.g. foodie_jane"
             placeholderTextColor={colors.textTertiary}
             value={setupUsername}
-            onChangeText={(t) => {
-              setSetupUsername(t.toLowerCase().replace(/[^a-z0-9_]/g, ''));
-              setSetupError('');
-            }}
+            onChangeText={(t) => { setSetupUsername(t.toLowerCase().replace(/[^a-z0-9_]/g, '')); setSetupError(''); }}
             autoCapitalize="none"
             autoCorrect={false}
             maxLength={20}
           />
           <Text style={styles.setupHint}>3-20 chars, lowercase, numbers, underscores</Text>
 
-          {/* Display Name */}
           <Text style={styles.sectionLabel}>DISPLAY NAME</Text>
           <TextInput
             style={styles.setupInput}
@@ -420,10 +316,8 @@ export default function FriendsScreen() {
   }
 
   // ── Render: Main tabbed screen ──
-
   return (
     <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
-      {/* Tab bar */}
       <View style={styles.tabBar}>
         {(['friends', 'requests', 'add'] as TabName[]).map(tab => (
           <TouchableOpacity
@@ -448,7 +342,7 @@ export default function FriendsScreen() {
         <>
           {friendsLoading && friends.length === 0 ? (
             <View style={styles.center}>
-              <ActivityIndicator size="large" color={colors.goldPrimary} />
+              <ActivityIndicator size="large" color={colors.accent} />
             </View>
           ) : (
             <FlatList
@@ -459,30 +353,23 @@ export default function FriendsScreen() {
                 <RefreshControl
                   refreshing={friendsRefreshing}
                   onRefresh={() => { loadFriends(true); loadPlans(); }}
-                  tintColor={colors.goldPrimary}
+                  tintColor={colors.accent}
                 />
               }
               ListHeaderComponent={
                 <View>
-                  {/* Dining Plans Section */}
                   <Text style={styles.sectionLabel}>DINING PLANS</Text>
                   <View style={{ marginBottom: 8 }}>
                     <GoldButton title="+ New Plan" onPress={() => router.push('/group/create')} />
                   </View>
                   {plansLoading && plans.length === 0 ? (
-                    <ActivityIndicator size="small" color={colors.goldPrimary} style={{ marginVertical: 12 }} />
+                    <ActivityIndicator size="small" color={colors.accent} style={{ marginVertical: 12 }} />
                   ) : plans.length > 0 ? (
-                    <ScrollView
-                      horizontal
-                      showsHorizontalScrollIndicator={false}
-                      style={styles.plansScroll}
-                      contentContainerStyle={styles.plansScrollContent}
-                    >
+                    <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.plansScroll} contentContainerStyle={styles.plansScrollContent}>
                       {plans.map(plan => {
-                        const invitedCount = (plan.members ?? []).filter(m => m.status === 'invited').length;
                         const avatars = (plan.members ?? [])
                           .filter(m => m.status === 'joined')
-                          .map(m => m.profile?.avatar_emoji ?? '🧝')
+                          .map(m => m.profile?.avatar_emoji ?? '\u{1F9DD}')
                           .slice(0, 5);
                         const isInvited = plan.my_status === 'invited';
                         return (
@@ -512,7 +399,6 @@ export default function FriendsScreen() {
                     <Text style={styles.plansEmpty}>No plans yet — create one above!</Text>
                   )}
 
-                  {/* Friends header */}
                   <Text style={[styles.sectionLabel, { marginTop: 20 }]}>FRIENDS</Text>
                   {friends.length === 0 && (
                     <View style={{ alignItems: 'center', paddingVertical: 24 }}>
@@ -532,7 +418,7 @@ export default function FriendsScreen() {
                   onLongPress={() => removeFriend(item.id, item.display_name ?? item.username)}
                   activeOpacity={0.8}
                 >
-                  <Text style={styles.avatar}>{item.avatar_emoji ?? '🧝'}</Text>
+                  <Text style={styles.avatar}>{item.avatar_emoji ?? '\u{1F9DD}'}</Text>
                   <View style={styles.friendInfo}>
                     <Text style={styles.friendName}>{item.display_name ?? item.username}</Text>
                     <Text style={styles.friendUsername}>@{item.username}</Text>
@@ -547,12 +433,7 @@ export default function FriendsScreen() {
             />
           )}
 
-          {/* FAB */}
-          <TouchableOpacity
-            style={styles.fab}
-            onPress={() => setActiveTab('add')}
-            activeOpacity={0.8}
-          >
+          <TouchableOpacity style={styles.fab} onPress={() => setActiveTab('add')} activeOpacity={0.8}>
             <Ionicons name="add" size={28} color="#FFFFFF" />
           </TouchableOpacity>
         </>
@@ -563,26 +444,21 @@ export default function FriendsScreen() {
         <ScrollView
           contentContainerStyle={styles.listContent}
           refreshControl={
-            <RefreshControl
-              refreshing={requestsRefreshing}
-              onRefresh={() => loadRequests(true)}
-              tintColor={colors.goldPrimary}
-            />
+            <RefreshControl refreshing={requestsRefreshing} onRefresh={() => loadRequests(true)} tintColor={colors.accent} />
           }
         >
           {requestsLoading && incoming.length === 0 && outgoing.length === 0 ? (
             <View style={[styles.center, { paddingVertical: 60 }]}>
-              <ActivityIndicator size="large" color={colors.goldPrimary} />
+              <ActivityIndicator size="large" color={colors.accent} />
             </View>
           ) : (
             <>
-              {/* Incoming */}
               {incoming.length > 0 && (
                 <>
                   <Text style={styles.sectionLabel}>INCOMING</Text>
                   {incoming.map(req => (
                     <View key={req.id} style={styles.requestCard}>
-                      <Text style={styles.avatar}>{req.from_profile?.avatar_emoji ?? '🧝'}</Text>
+                      <Text style={styles.avatar}>{req.from_profile?.avatar_emoji ?? '\u{1F9DD}'}</Text>
                       <View style={styles.friendInfo}>
                         <Text style={styles.friendName}>{req.from_profile?.display_name ?? 'Unknown'}</Text>
                         <Text style={styles.friendUsername}>@{req.from_profile?.username ?? '...'}</Text>
@@ -616,13 +492,12 @@ export default function FriendsScreen() {
                 </>
               )}
 
-              {/* Outgoing */}
               {outgoing.length > 0 && (
                 <>
                   <Text style={[styles.sectionLabel, incoming.length > 0 && { marginTop: 24 }]}>SENT</Text>
                   {outgoing.map(req => (
                     <View key={req.id} style={styles.requestCard}>
-                      <Text style={styles.avatar}>{req.to_profile?.avatar_emoji ?? '🧝'}</Text>
+                      <Text style={styles.avatar}>{req.to_profile?.avatar_emoji ?? '\u{1F9DD}'}</Text>
                       <View style={styles.friendInfo}>
                         <Text style={styles.friendName}>{req.to_profile?.display_name ?? 'Unknown'}</Text>
                         <Text style={styles.friendUsername}>@{req.to_profile?.username ?? '...'}</Text>
@@ -650,16 +525,12 @@ export default function FriendsScreen() {
       {activeTab === 'add' && (
         <View style={styles.addContainer}>
           <View style={styles.searchPadding}>
-            <SearchBar
-              value={searchQuery}
-              onChangeText={setSearchQuery}
-              placeholder="Search by username..."
-            />
+            <SearchBar value={searchQuery} onChangeText={setSearchQuery} placeholder="Search by username..." />
           </View>
 
           {searchLoading ? (
             <View style={[styles.center, { paddingVertical: 40 }]}>
-              <ActivityIndicator size="large" color={colors.goldPrimary} />
+              <ActivityIndicator size="large" color={colors.accent} />
             </View>
           ) : searchQuery.trim().length === 0 ? (
             <View style={[styles.center, { paddingVertical: 40 }]}>
@@ -680,7 +551,7 @@ export default function FriendsScreen() {
                 const alreadySent = sentRequestUsernames.has(item.username);
                 return (
                   <View style={styles.searchResultCard}>
-                    <Text style={styles.avatar}>{item.avatar_emoji ?? '🧝'}</Text>
+                    <Text style={styles.avatar}>{item.avatar_emoji ?? '\u{1F9DD}'}</Text>
                     <View style={styles.friendInfo}>
                       <Text style={styles.friendName}>{item.display_name ?? item.username}</Text>
                       <Text style={styles.friendUsername}>@{item.username}</Text>
@@ -702,7 +573,6 @@ export default function FriendsScreen() {
         </View>
       )}
 
-      {/* Footer: legal links + logout */}
       {activeTab === 'friends' && (
         <View style={styles.footerSection}>
           <View style={styles.legalLinks}>
@@ -723,25 +593,11 @@ export default function FriendsScreen() {
   );
 }
 
-// ── Styles ──
-
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: colors.background,
-  },
-  center: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: spacing.screenPadding,
-  },
-  listContent: {
-    padding: spacing.screenPadding,
-    paddingBottom: 100,
-  },
+  container: { flex: 1, backgroundColor: colors.background },
+  center: { flex: 1, justifyContent: 'center', alignItems: 'center', padding: spacing.screenPadding },
+  listContent: { padding: spacing.screenPadding, paddingBottom: 100 },
 
-  // Tab bar
   tabBar: {
     flexDirection: 'row',
     borderBottomWidth: 1,
@@ -749,352 +605,124 @@ const styles = StyleSheet.create({
     paddingHorizontal: spacing.screenPadding,
   },
   tab: {
-    flex: 1,
-    paddingVertical: 14,
-    alignItems: 'center',
-    flexDirection: 'row',
-    justifyContent: 'center',
-    gap: 6,
+    flex: 1, paddingVertical: 14, alignItems: 'center',
+    flexDirection: 'row', justifyContent: 'center', gap: 6,
   },
-  tabActive: {
-    borderBottomWidth: 2,
-    borderBottomColor: colors.goldPrimary,
-  },
-  tabText: {
-    fontSize: 14,
-    fontWeight: '600',
-    color: colors.textTertiary,
-  },
-  tabTextActive: {
-    color: colors.goldPrimary,
-  },
+  tabActive: { borderBottomWidth: 2, borderBottomColor: colors.textPrimary },
+  tabText: { fontSize: 14, fontWeight: '600', color: colors.textTertiary },
+  tabTextActive: { color: colors.textPrimary },
   badge: {
-    backgroundColor: colors.goldPrimary,
-    borderRadius: 10,
-    minWidth: 20,
-    height: 20,
-    justifyContent: 'center',
-    alignItems: 'center',
-    paddingHorizontal: 6,
+    backgroundColor: colors.accent, borderRadius: 10,
+    minWidth: 20, height: 20, justifyContent: 'center', alignItems: 'center', paddingHorizontal: 6,
   },
-  badgeText: {
-    color: colors.background,
-    fontSize: 11,
-    fontWeight: '800',
-  },
+  badgeText: { color: '#FFFFFF', fontSize: 11, fontWeight: '800' },
 
-  // Dining plans
-  plansScroll: {
-    marginBottom: 4,
-  },
-  plansScrollContent: {
-    gap: 10,
-    paddingVertical: 4,
-  },
+  plansScroll: { marginBottom: 4 },
+  plansScrollContent: { gap: 10, paddingVertical: 4 },
   planCard: {
-    width: 140,
-    backgroundColor: colors.surface,
-    borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    padding: 12,
+    width: 140, backgroundColor: colors.background,
+    borderRadius: radii.card, padding: 12, ...shadows.card,
   },
-  planCardInvited: {
-    borderColor: colors.goldPrimary,
-    backgroundColor: 'rgba(212,165,116,0.08)',
-  },
-  planName: {
-    fontSize: 14,
-    fontWeight: '600',
-    color: colors.textPrimary,
-    marginBottom: 6,
-  },
-  planAvatars: {
-    fontSize: 16,
-    marginBottom: 8,
-  },
+  planCardInvited: { borderWidth: 1, borderColor: colors.accent, backgroundColor: colors.accentLight },
+  planName: { fontSize: 14, fontWeight: '600', color: colors.textPrimary, marginBottom: 6 },
+  planAvatars: { fontSize: 16, marginBottom: 8 },
   planStatusBadge: {
-    alignSelf: 'flex-start',
-    paddingHorizontal: 8,
-    paddingVertical: 3,
-    borderRadius: radii.pill,
-    backgroundColor: 'rgba(212,165,116,0.15)',
+    alignSelf: 'flex-start', paddingHorizontal: 8, paddingVertical: 3,
+    borderRadius: radii.pill, backgroundColor: colors.backgroundTertiary,
   },
-  planStatusDecided: {
-    backgroundColor: 'rgba(76,175,80,0.15)',
-  },
-  planStatusCancelled: {
-    backgroundColor: 'rgba(239,83,80,0.15)',
-  },
-  planStatusInvited: {
-    backgroundColor: 'rgba(212,165,116,0.25)',
-  },
-  planStatusText: {
-    fontSize: 11,
-    fontWeight: '700',
-    color: colors.goldPrimary,
-  },
-  plansEmpty: {
-    fontSize: 13,
-    color: colors.textTertiary,
-    textAlign: 'center',
-    paddingVertical: 12,
-  },
+  planStatusDecided: { backgroundColor: 'rgba(52,168,83,0.15)' },
+  planStatusCancelled: { backgroundColor: 'rgba(234,67,53,0.15)' },
+  planStatusInvited: { backgroundColor: colors.accentLight },
+  planStatusText: { fontSize: 11, fontWeight: '700', color: colors.accent },
+  plansEmpty: { fontSize: 13, color: colors.textTertiary, textAlign: 'center', paddingVertical: 12 },
 
-  // Friend card
   friendCard: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: colors.surface,
-    borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    padding: spacing.cardPadding,
-    marginBottom: spacing.cardGap,
+    flexDirection: 'row', alignItems: 'center',
+    backgroundColor: colors.background, borderRadius: radii.card,
+    padding: spacing.cardPadding, marginBottom: spacing.cardGap, ...shadows.card,
   },
-  avatar: {
-    fontSize: 36,
-    marginRight: 14,
-  },
-  friendInfo: {
-    flex: 1,
-  },
-  friendName: {
-    fontSize: 16,
-    fontWeight: '600',
-    color: colors.textPrimary,
-  },
-  friendUsername: {
-    fontSize: 13,
-    color: colors.textTertiary,
-    marginTop: 1,
-  },
-  friendCuisines: {
-    fontSize: 12,
-    color: colors.goldPrimary,
-    marginTop: 4,
-  },
+  avatar: { fontSize: 36, marginRight: 14 },
+  friendInfo: { flex: 1 },
+  friendName: { fontSize: 16, fontWeight: '600', color: colors.textPrimary },
+  friendUsername: { fontSize: 13, color: colors.textTertiary, marginTop: 1 },
+  friendCuisines: { fontSize: 12, color: colors.accent, marginTop: 4 },
 
-  // FAB
   fab: {
-    position: 'absolute',
-    bottom: 24,
-    right: spacing.screenPadding,
-    width: 56,
-    height: 56,
-    borderRadius: 28,
-    backgroundColor: colors.goldDark,
-    justifyContent: 'center',
-    alignItems: 'center',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 6,
-    elevation: 8,
+    position: 'absolute', bottom: 24, right: spacing.screenPadding,
+    width: 56, height: 56, borderRadius: 28,
+    backgroundColor: colors.accent, justifyContent: 'center', alignItems: 'center',
+    ...shadows.elevated,
   },
 
-  // Request card
   requestCard: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: colors.surface,
-    borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    padding: spacing.cardPadding,
-    marginBottom: spacing.cardGap,
+    flexDirection: 'row', alignItems: 'center',
+    backgroundColor: colors.background, borderRadius: radii.card,
+    padding: spacing.cardPadding, marginBottom: spacing.cardGap, ...shadows.card,
   },
-  requestActions: {
-    flexDirection: 'row',
-    gap: 8,
-  },
+  requestActions: { flexDirection: 'row', gap: 8 },
   acceptBtn: {
-    width: 36,
-    height: 36,
-    borderRadius: 18,
-    backgroundColor: colors.goldDark,
-    justifyContent: 'center',
-    alignItems: 'center',
+    width: 36, height: 36, borderRadius: 18,
+    backgroundColor: colors.accent, justifyContent: 'center', alignItems: 'center',
   },
   declineBtn: {
-    width: 36,
-    height: 36,
-    borderRadius: 18,
-    backgroundColor: colors.surfaceElevated,
-    justifyContent: 'center',
-    alignItems: 'center',
+    width: 36, height: 36, borderRadius: 18,
+    backgroundColor: colors.backgroundTertiary, justifyContent: 'center', alignItems: 'center',
   },
   pendingBadge: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: radii.pill,
-    backgroundColor: colors.surfaceElevated,
+    paddingHorizontal: 12, paddingVertical: 6,
+    borderRadius: radii.pill, backgroundColor: colors.backgroundTertiary,
   },
-  pendingText: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: colors.textTertiary,
-  },
+  pendingText: { fontSize: 12, fontWeight: '600', color: colors.textTertiary },
 
-  // Search / Add
-  addContainer: {
-    flex: 1,
-  },
-  searchPadding: {
-    padding: spacing.screenPadding,
-    paddingBottom: 0,
-  },
+  addContainer: { flex: 1 },
+  searchPadding: { padding: spacing.screenPadding, paddingBottom: 0 },
   searchResultCard: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: colors.surface,
-    borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    padding: spacing.cardPadding,
-    marginBottom: spacing.cardGap,
+    flexDirection: 'row', alignItems: 'center',
+    backgroundColor: colors.background, borderRadius: radii.card,
+    padding: spacing.cardPadding, marginBottom: spacing.cardGap, ...shadows.card,
   },
-  addBtn: {
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-    borderRadius: radii.pill,
-    backgroundColor: colors.goldDark,
-  },
-  addBtnDisabled: {
-    backgroundColor: colors.surfaceElevated,
-  },
-  addBtnText: {
-    fontSize: 13,
-    fontWeight: '700',
-    color: '#FFFFFF',
-  },
-  addBtnTextDisabled: {
-    color: colors.textTertiary,
-  },
+  addBtn: { paddingHorizontal: 16, paddingVertical: 8, borderRadius: radii.pill, backgroundColor: colors.accent },
+  addBtnDisabled: { backgroundColor: colors.backgroundTertiary },
+  addBtnText: { fontSize: 13, fontWeight: '700', color: '#FFFFFF' },
+  addBtnTextDisabled: { color: colors.textTertiary },
 
-  // Empty states
-  emptyEmoji: {
-    fontSize: 48,
-    marginBottom: 12,
-  },
-  emptyTitle: {
-    fontSize: 18,
-    fontWeight: '600',
-    color: colors.textSecondary,
-    marginBottom: 4,
-  },
-  emptySubtext: {
-    fontSize: 14,
-    color: colors.textTertiary,
-    textAlign: 'center',
-  },
+  emptyEmoji: { fontSize: 48, marginBottom: 12 },
+  emptyTitle: { fontSize: 18, fontWeight: '600', color: colors.textSecondary, marginBottom: 4 },
+  emptySubtext: { fontSize: 14, color: colors.textTertiary, textAlign: 'center' },
 
-  // Section label
   sectionLabel: {
-    fontSize: 13,
-    fontWeight: '600',
-    color: colors.goldPrimary,
-    textTransform: 'uppercase',
-    letterSpacing: 1,
-    marginBottom: 12,
+    fontSize: 11, fontWeight: '600', color: colors.textSecondary,
+    textTransform: 'uppercase', letterSpacing: 1, marginBottom: 12,
   },
 
-  // Profile setup
-  setupContainer: {
-    padding: spacing.screenPadding,
-    paddingTop: 40,
-  },
-  setupTitle: {
-    fontSize: 28,
-    fontWeight: '800',
-    color: colors.textPrimary,
-    marginBottom: 8,
-  },
-  setupSubtitle: {
-    fontSize: 15,
-    color: colors.textSecondary,
-    marginBottom: 32,
-  },
-  emojiGrid: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    gap: 12,
-    marginBottom: 24,
-  },
+  setupContainer: { padding: spacing.screenPadding, paddingTop: 40 },
+  setupTitle: { fontSize: 28, fontWeight: '800', color: colors.textPrimary, marginBottom: 8 },
+  setupSubtitle: { fontSize: 15, color: colors.textSecondary, marginBottom: 32 },
+  emojiGrid: { flexDirection: 'row', flexWrap: 'wrap', gap: 12, marginBottom: 24 },
   emojiOption: {
-    width: 52,
-    height: 52,
-    borderRadius: 26,
-    backgroundColor: colors.surface,
-    borderWidth: 2,
-    borderColor: colors.border,
-    justifyContent: 'center',
-    alignItems: 'center',
+    width: 52, height: 52, borderRadius: 26,
+    backgroundColor: colors.backgroundSecondary, borderWidth: 2, borderColor: colors.border,
+    justifyContent: 'center', alignItems: 'center',
   },
-  emojiSelected: {
-    borderColor: colors.goldPrimary,
-    backgroundColor: 'rgba(212,165,116,0.1)',
-  },
-  emojiText: {
-    fontSize: 28,
-  },
+  emojiSelected: { borderColor: colors.accent, backgroundColor: colors.accentLight },
+  emojiText: { fontSize: 28 },
   setupInput: {
-    backgroundColor: colors.surface,
-    borderWidth: 1,
-    borderColor: colors.border,
-    borderRadius: radii.input,
-    paddingHorizontal: 16,
-    paddingVertical: 14,
-    fontSize: 16,
-    color: colors.textPrimary,
-    marginBottom: 6,
+    backgroundColor: colors.backgroundTertiary, borderRadius: radii.input,
+    paddingHorizontal: 16, paddingVertical: 14, fontSize: 16,
+    color: colors.textPrimary, marginBottom: 6,
   },
-  setupHint: {
-    fontSize: 12,
-    color: colors.textTertiary,
-    marginBottom: 20,
-  },
-  setupButtonRow: {
-    marginTop: 12,
-  },
-  errorText: {
-    color: colors.error,
-    fontSize: 14,
-    textAlign: 'center',
-    marginVertical: 8,
-  },
+  setupHint: { fontSize: 12, color: colors.textTertiary, marginBottom: 20 },
+  setupButtonRow: { marginTop: 12 },
+  errorText: { color: colors.error, fontSize: 14, textAlign: 'center', marginVertical: 8 },
 
-  // Footer
-  footerSection: {
-    paddingBottom: spacing.screenPadding,
-  },
-  legalLinks: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-    alignItems: 'center',
-    paddingVertical: 8,
-  },
-  legalText: {
-    color: colors.textTertiary,
-    fontSize: 12,
-  },
-  legalDot: {
-    color: colors.textTertiary,
-    fontSize: 12,
-  },
+  footerSection: { paddingBottom: spacing.screenPadding },
+  legalLinks: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', paddingVertical: 8 },
+  legalText: { color: colors.textTertiary, fontSize: 12 },
+  legalDot: { color: colors.textTertiary, fontSize: 12 },
   logoutBtn: {
-    marginHorizontal: spacing.screenPadding,
-    marginBottom: 4,
-    paddingVertical: 14,
-    borderRadius: radii.input,
-    borderWidth: 1,
-    borderColor: colors.border,
-    backgroundColor: colors.surface,
-    alignItems: 'center',
+    marginHorizontal: spacing.screenPadding, marginBottom: 4, paddingVertical: 14,
+    borderRadius: radii.input, borderWidth: 1, borderColor: colors.border,
+    backgroundColor: colors.background, alignItems: 'center',
   },
-  logoutText: {
-    color: colors.error,
-    fontSize: 16,
-    fontWeight: '600',
-  },
+  logoutText: { color: colors.error, fontSize: 16, fontWeight: '600' },
 });

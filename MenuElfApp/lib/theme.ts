@@ -1,47 +1,70 @@
-// MenuElf Dark Luxury Theme
+// MenuElf Minimalist Light Theme
 
 export const colors = {
-  background: '#0D0D0D',
-  surface: '#1A1A1A',
-  surfaceElevated: '#242424',
-  border: '#2A2A2A',
-  goldPrimary: '#D4A574',
-  goldLight: '#E8C9A0',
-  goldDark: '#B8894A',
-  textPrimary: '#FFFFFF',
-  textSecondary: '#A0A0A0',
-  textTertiary: '#666666',
-  success: '#4CAF50',
-  error: '#FF5252',
-  matchHigh: '#D4A574',
-  matchMedium: '#A0A0A0',
-  matchLow: '#666666',
-  userBubble: '#2A2315',
+  background: '#FFFFFF',
+  backgroundSecondary: '#F7F7F7',
+  backgroundTertiary: '#F0F0F0',
+  border: '#E5E5E5',
+  borderFocus: '#333333',
+  accent: '#E85D3A',
+  accentLight: '#FFF0EC',
+  accentDark: '#C94E30',
+  textPrimary: '#1A1A1A',
+  textSecondary: '#6B6B6B',
+  textTertiary: '#999999',
+  matchHigh: '#E85D3A',
+  matchMedium: '#6B6B6B',
+  matchLow: '#CCCCCC',
+  success: '#34A853',
+  error: '#EA4335',
+  star: '#F4B400',
+  tabActive: '#1A1A1A',
+  tabInactive: '#CCCCCC',
 } as const;
 
 export const typography = {
-  headingLarge: { fontSize: 28, fontWeight: 'bold' as const, color: colors.textPrimary },
-  headingMedium: { fontSize: 22, fontWeight: 'bold' as const, color: colors.textPrimary },
-  headingSmall: { fontSize: 18, fontWeight: '600' as const, color: colors.textPrimary },
+  hero: { fontSize: 32, fontWeight: 'bold' as const, color: colors.textPrimary },
+  headingLarge: { fontSize: 24, fontWeight: 'bold' as const, color: colors.textPrimary },
+  headingMedium: { fontSize: 20, fontWeight: '600' as const, color: colors.textPrimary },
+  headingSmall: { fontSize: 17, fontWeight: '600' as const, color: colors.textPrimary },
   body: { fontSize: 15, fontWeight: 'normal' as const, color: colors.textPrimary },
   bodySecondary: { fontSize: 14, fontWeight: 'normal' as const, color: colors.textSecondary },
   caption: { fontSize: 12, fontWeight: 'normal' as const, color: colors.textTertiary },
-  label: { fontSize: 13, fontWeight: '600' as const, color: colors.goldPrimary, textTransform: 'uppercase' as const },
-  matchScore: { fontSize: 16, fontWeight: 'bold' as const, color: colors.goldPrimary },
-  price: { fontSize: 15, fontWeight: '600' as const, color: colors.goldPrimary },
+  label: { fontSize: 11, fontWeight: '600' as const, color: colors.textSecondary, textTransform: 'uppercase' as const, letterSpacing: 1 },
+  button: { fontSize: 15, fontWeight: '600' as const, color: '#FFFFFF' },
+  price: { fontSize: 15, fontWeight: '600' as const, color: colors.accent },
+  matchScore: { fontSize: 14, fontWeight: 'bold' as const, color: colors.accent },
 } as const;
 
 export const spacing = {
   screenPadding: 20,
   cardPadding: 16,
   cardGap: 12,
-  sectionGap: 24,
+  sectionGap: 32,
 } as const;
 
 export const radii = {
-  card: 12,
+  card: 16,
+  button: 12,
   input: 8,
   pill: 24,
+} as const;
+
+export const shadows = {
+  card: {
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.06,
+    shadowRadius: 8,
+    elevation: 3,
+  },
+  elevated: {
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.1,
+    shadowRadius: 16,
+    elevation: 6,
+  },
 } as const;
 
 export function getMatchColor(score: number): string {
@@ -49,14 +72,3 @@ export function getMatchColor(score: number): string {
   if (score >= 50) return colors.matchMedium;
   return colors.matchLow;
 }
-
-export const darkMapStyle = [
-  { elementType: 'geometry', stylers: [{ color: '#212121' }] },
-  { elementType: 'labels.text.fill', stylers: [{ color: '#757575' }] },
-  { elementType: 'labels.text.stroke', stylers: [{ color: '#212121' }] },
-  { featureType: 'road', elementType: 'geometry', stylers: [{ color: '#383838' }] },
-  { featureType: 'road', elementType: 'labels.text.fill', stylers: [{ color: '#9e9e9e' }] },
-  { featureType: 'water', elementType: 'geometry', stylers: [{ color: '#000000' }] },
-  { featureType: 'poi', elementType: 'geometry', stylers: [{ color: '#181818' }] },
-  { featureType: 'transit', elementType: 'geometry', stylers: [{ color: '#2f2f2f' }] },
-];

@@ -67,7 +67,7 @@ export default function RootLayout() {
   if (loading) {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.background }}>
-        <ActivityIndicator size="large" color={colors.goldPrimary} />
+        <ActivityIndicator size="large" color={colors.accent} />
       </View>
     );
   }
@@ -75,7 +75,7 @@ export default function RootLayout() {
   if (!session) {
     return (
       <>
-        <StatusBar style="light" />
+        <StatusBar style="dark" />
         <LoginScreen />
       </>
     );
@@ -84,7 +84,7 @@ export default function RootLayout() {
   if (onboardingDone === null) {
     return (
       <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: colors.background }}>
-        <ActivityIndicator size="large" color={colors.goldPrimary} />
+        <ActivityIndicator size="large" color={colors.accent} />
       </View>
     );
   }
@@ -92,7 +92,7 @@ export default function RootLayout() {
   if (!onboardingDone) {
     return (
       <>
-        <StatusBar style="light" />
+        <StatusBar style="dark" />
         <OnboardingScreen />
       </>
     );
@@ -100,7 +100,7 @@ export default function RootLayout() {
 
   return (
     <>
-      <StatusBar style="light" />
+      <StatusBar style="dark" />
       <Stack screenOptions={{
         headerShown: false,
         contentStyle: { backgroundColor: colors.background },

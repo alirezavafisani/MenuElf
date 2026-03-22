@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, TextInput, TouchableOpacity, Text, StyleSheet } from 'react-native';
+import { View, TextInput, TouchableOpacity, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { colors, radii } from '../../lib/theme';
 
@@ -17,7 +17,7 @@ export default function SearchBar({ value, onChangeText, placeholder, onSubmitEd
 
   return (
     <View style={[styles.container, focused && styles.focused]}>
-      <Ionicons name="search" size={18} color={focused ? colors.goldPrimary : colors.textTertiary} style={styles.icon} />
+      <Ionicons name="search" size={18} color={colors.textTertiary} style={styles.icon} />
       <TextInput
         style={styles.input}
         value={value}
@@ -42,15 +42,15 @@ const styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: colors.surface,
+    backgroundColor: colors.backgroundTertiary,
     borderRadius: radii.input,
     borderWidth: 1,
-    borderColor: colors.border,
+    borderColor: 'transparent',
     paddingHorizontal: 14,
     height: 48,
   },
   focused: {
-    borderColor: colors.goldPrimary,
+    borderColor: colors.borderFocus,
   },
   icon: {
     marginRight: 10,

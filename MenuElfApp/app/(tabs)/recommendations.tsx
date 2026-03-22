@@ -146,7 +146,6 @@ export default function RecommendationsScreen() {
     );
   };
 
-  // Skeleton loading cards
   const renderSkeleton = () => (
     <View style={styles.resultsPadding}>
       {[1, 2, 3].map(i => (
@@ -258,10 +257,11 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   sectionLabel: {
-    fontSize: 13,
+    fontSize: 11,
     fontWeight: '600',
-    color: colors.goldPrimary,
+    color: colors.textSecondary,
     textTransform: 'uppercase',
+    letterSpacing: 1,
     marginBottom: 10,
     marginTop: 20,
   },
@@ -271,10 +271,8 @@ const styles = StyleSheet.create({
     marginBottom: 4,
   },
   priceInput: {
-    backgroundColor: colors.surface,
+    backgroundColor: colors.backgroundTertiary,
     borderRadius: radii.input,
-    borderWidth: 1,
-    borderColor: colors.border,
     paddingHorizontal: 15,
     height: 44,
     width: 100,
@@ -291,7 +289,7 @@ const styles = StyleSheet.create({
     marginBottom: 16,
   },
   chip: {
-    backgroundColor: colors.surface,
+    backgroundColor: colors.backgroundSecondary,
     paddingHorizontal: 16,
     paddingVertical: 10,
     borderRadius: radii.pill,
@@ -300,8 +298,8 @@ const styles = StyleSheet.create({
     borderColor: colors.border,
   },
   chipActive: {
-    backgroundColor: 'rgba(212,165,116,0.15)',
-    borderColor: colors.goldPrimary,
+    backgroundColor: colors.accentLight,
+    borderColor: colors.accent,
   },
   chipText: {
     color: colors.textSecondary,
@@ -309,7 +307,7 @@ const styles = StyleSheet.create({
     fontSize: 12,
   },
   chipTextActive: {
-    color: colors.goldPrimary,
+    color: colors.accent,
   },
   resultsPadding: {
     paddingHorizontal: spacing.screenPadding,
@@ -337,31 +335,29 @@ const styles = StyleSheet.create({
     color: colors.textTertiary,
   },
   skeletonCard: {
-    backgroundColor: colors.surface,
+    backgroundColor: colors.backgroundSecondary,
     borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
     padding: spacing.cardPadding,
     marginBottom: spacing.cardGap,
   },
   skeletonTitle: {
     width: '60%',
     height: 16,
-    backgroundColor: colors.surfaceElevated,
+    backgroundColor: colors.backgroundTertiary,
     borderRadius: 4,
     marginBottom: 10,
   },
   skeletonSubtitle: {
     width: '40%',
     height: 12,
-    backgroundColor: colors.surfaceElevated,
+    backgroundColor: colors.backgroundTertiary,
     borderRadius: 4,
     marginBottom: 10,
   },
   skeletonLine: {
     width: '80%',
     height: 12,
-    backgroundColor: colors.surfaceElevated,
+    backgroundColor: colors.backgroundTertiary,
     borderRadius: 4,
   },
 });

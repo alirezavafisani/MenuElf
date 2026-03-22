@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
-import { View, Text, TouchableOpacity, Animated, StyleSheet } from 'react-native';
-import { colors, radii, spacing } from '../../lib/theme';
+import { View, Text, Image, TouchableOpacity, Animated, StyleSheet } from 'react-native';
+import { colors, radii, spacing, shadows } from '../../lib/theme';
 import MatchBadge from './MatchBadge';
 
 type Props = {
@@ -11,12 +11,13 @@ type Props = {
   topDishPrice?: number | null;
   rating?: number | null;
   reviews?: number | null;
+  photoUrl?: string | null;
   onPress: () => void;
 };
 
 export default function RestaurantCard({
   name, cuisineType, matchScore, topDish, topDishPrice,
-  rating, reviews, onPress,
+  rating, reviews, photoUrl, onPress,
 }: Props) {
   const scale = useRef(new Animated.Value(1)).current;
 
@@ -36,28 +37,41 @@ export default function RestaurantCard({
         onPressIn={onPressIn}
         onPressOut={onPressOut}
       >
-        <View style={styles.topRow}>
-          <View style={styles.nameSection}>
-            <Text style={styles.name} numberOfLines={1}>{name}</Text>
-            {cuisineType ? <Text style={styles.cuisine}>{cuisineType}</Text> : null}
+        {photoUrl && (
+          <View style={styles.photoContainer}>
+            <Image source={{ uri: photoUrl }} style={styles.photo} />
+            {matchScore != null && (
+              <View style={styles.matchOverlay}>
+                <MatchBadge score={matchScore} />
+              </View>
+            )}
           </View>
-          {matchScore != null && <MatchBadge score={matchScore} />}
-        </View>
-
-        {topDish && (
-          <Text style={styles.topDish} numberOfLines={1}>
-            Try the {topDish}{topDishPrice ? ` ($${topDishPrice.toFixed(0)})` : ''}
-          </Text>
         )}
 
-        <View style={styles.metaRow}>
-          {rating != null && (
-            <View style={styles.ratingContainer}>
-              <Text style={styles.ratingStar}>&#9733;</Text>
-              <Text style={styles.ratingText}>{rating}</Text>
-              {reviews != null && <Text style={styles.reviewCount}>({reviews})</Text>}
+        <View style={styles.content}>
+          <View style={styles.topRow}>
+            <View style={styles.nameSection}>
+              <Text style={styles.name} numberOfLines={1}>{name}</Text>
+              {cuisineType ? <Text style={styles.cuisine}>{cuisineType}</Text> : null}
             </View>
+            {!photoUrl && matchScore != null && <MatchBadge score={matchScore} />}
+          </View>
+
+          {topDish && (
+            <Text style={styles.topDish} numberOfLines={1}>
+              Try the {topDish}{topDishPrice ? ` ($${topDishPrice.toFixed(0)})` : ''}
+            </Text>
           )}
+
+          <View style={styles.metaRow}>
+            {rating != null && (
+              <View style={styles.ratingContainer}>
+                <Text style={styles.ratingStar}>&#9733;</Text>
+                <Text style={styles.ratingText}>{rating}</Text>
+                {reviews != null && <Text style={styles.reviewCount}>({reviews})</Text>}
+              </View>
+            )}
+          </View>
         </View>
       </TouchableOpacity>
     </Animated.View>
@@ -66,12 +80,27 @@ export default function RestaurantCard({
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: colors.surface,
+    backgroundColor: colors.background,
     borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    padding: spacing.cardPadding,
     marginBottom: spacing.cardGap,
+    overflow: 'hidden',
+    ...shadows.card,
+  },
+  photoContainer: {
+    position: 'relative',
+  },
+  photo: {
+    width: '100%',
+    height: 160,
+    backgroundColor: colors.backgroundTertiary,
+  },
+  matchOverlay: {
+    position: 'absolute',
+    top: 12,
+    right: 12,
+  },
+  content: {
+    padding: spacing.cardPadding,
   },
   topRow: {
     flexDirection: 'row',
@@ -83,7 +112,7 @@ const styles = StyleSheet.create({
     marginRight: 8,
   },
   name: {
-    fontSize: 18,
+    fontSize: 17,
     fontWeight: '600',
     color: colors.textPrimary,
   },
@@ -95,7 +124,7 @@ const styles = StyleSheet.create({
   topDish: {
     fontSize: 14,
     fontWeight: '600',
-    color: colors.goldPrimary,
+    color: colors.accent,
     marginTop: 8,
   },
   metaRow: {
@@ -109,7 +138,7 @@ const styles = StyleSheet.create({
   },
   ratingStar: {
     fontSize: 14,
-    color: colors.goldPrimary,
+    color: colors.star,
     marginRight: 3,
   },
   ratingText: {
