@@ -36,31 +36,14 @@ export default function LegalScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: colors.background,
-  },
+  container: { flex: 1, backgroundColor: colors.background },
   header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    paddingHorizontal: 12,
-    paddingVertical: 12,
-    borderBottomWidth: 1,
-    borderBottomColor: colors.border,
+    flexDirection: 'row', alignItems: 'center',
+    paddingHorizontal: 12, paddingVertical: 12,
+    borderBottomWidth: 1, borderBottomColor: colors.border,
   },
-  backBtn: {
-    padding: 4,
-    marginRight: 8,
-  },
-  title: {
-    flex: 1,
-    fontSize: 18,
-    fontWeight: '700',
-    color: colors.textPrimary,
-  },
+  backBtn: { padding: 4, marginRight: 8 },
+  title: { flex: 1, fontSize: 18, fontWeight: '700', color: colors.textPrimary },
   spacer: { width: 36 },
-  webview: {
-    flex: 1,
-    backgroundColor: colors.background,
-  },
+  webview: { flex: 1, backgroundColor: colors.background },
 });

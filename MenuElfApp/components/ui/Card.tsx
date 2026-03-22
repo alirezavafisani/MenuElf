@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { Animated, TouchableOpacity, StyleSheet, ViewStyle } from 'react-native';
-import { colors, radii, spacing } from '../../lib/theme';
+import { colors, radii, spacing, shadows } from '../../lib/theme';
 
 type Props = {
   children: React.ReactNode;
@@ -48,18 +48,12 @@ export default function Card({ children, onPress, elevated, style }: Props) {
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: colors.surface,
+    backgroundColor: colors.background,
     borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
     padding: spacing.cardPadding,
+    ...shadows.card,
   },
   elevated: {
-    backgroundColor: colors.surfaceElevated,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 8,
-    elevation: 6,
+    ...shadows.elevated,
   },
 });

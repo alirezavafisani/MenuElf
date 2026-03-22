@@ -7,7 +7,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { Ionicons } from '@expo/vector-icons';
 import { apiGet, apiPost } from '../../lib/api';
-import { colors, radii, spacing, getMatchColor } from '../../lib/theme';
+import { colors, radii, spacing, shadows, getMatchColor } from '../../lib/theme';
 import GoldButton from '../../components/ui/GoldButton';
 
 type PerMember = {
@@ -38,54 +38,35 @@ export default function GroupRecommendationsScreen() {
   const [error, setError] = useState('');
   const [choosingSlug, setChoosingSlug] = useState<string | null>(null);
 
-  useEffect(() => {
-    if (planId) loadRecs();
-  }, [planId]);
+  useEffect(() => { if (planId) loadRecs(); }, [planId]);
 
   const loadRecs = async () => {
     setLoading(true);
     setError('');
     try {
       const res = await apiGet(`/plans/${planId}/recommendations`);
-      if (res.ok) {
-        const data = await res.json();
-        setRestaurants(data.restaurants ?? []);
-      } else {
-        setError('Could not load recommendations');
-      }
-    } catch {
-      setError('Network error. Check your connection.');
-    } finally {
-      setLoading(false);
-    }
+      if (res.ok) { const data = await res.json(); setRestaurants(data.restaurants ?? []); }
+      else { setError('Could not load recommendations'); }
+    } catch { setError('Network error. Check your connection.'); }
+    finally { setLoading(false); }
   };
 
   const handleChoose = async (slug: string, name: string) => {
-    Alert.alert(
-      'Choose Restaurant',
-      `Decide on ${name} for the group?`,
-      [
-        { text: 'Cancel', style: 'cancel' },
-        {
-          text: 'Choose',
-          onPress: async () => {
-            setChoosingSlug(slug);
-            try {
-              const res = await apiPost(`/plans/${planId}/decide`, { restaurant_slug: slug });
-              if (res.ok) {
-                router.back();
-              } else {
-                Alert.alert('Error', 'Could not decide restaurant');
-              }
-            } catch {
-              Alert.alert('Network error', 'Check your connection.');
-            } finally {
-              setChoosingSlug(null);
-            }
-          },
+    Alert.alert('Choose Restaurant', `Decide on ${name} for the group?`, [
+      { text: 'Cancel', style: 'cancel' },
+      {
+        text: 'Choose',
+        onPress: async () => {
+          setChoosingSlug(slug);
+          try {
+            const res = await apiPost(`/plans/${planId}/decide`, { restaurant_slug: slug });
+            if (res.ok) router.back();
+            else Alert.alert('Error', 'Could not decide restaurant');
+          } catch { Alert.alert('Network error', 'Check your connection.'); }
+          finally { setChoosingSlug(null); }
         },
-      ],
-    );
+      },
+    ]);
   };
 
   const renderRestaurant = ({ item }: { item: RestaurantRec }) => {
@@ -96,14 +77,11 @@ export default function GroupRecommendationsScreen() {
           <View style={styles.cardHeaderLeft}>
             <Text style={styles.restaurantName}>{item.name}</Text>
           </View>
-          <View style={[styles.scoreBadge, { borderColor: scoreColor }]}>
-            <Text style={[styles.scoreText, { color: scoreColor }]}>
-              {item.group_match_score}%
-            </Text>
+          <View style={[styles.scoreBadge, { backgroundColor: item.group_match_score >= 80 ? colors.accentLight : colors.backgroundTertiary }]}>
+            <Text style={[styles.scoreText, { color: scoreColor }]}>{item.group_match_score}%</Text>
           </View>
         </View>
 
-        {/* Per member dishes */}
         <View style={styles.memberDishes}>
           {item.per_member.map(member => (
             <View key={member.user_id} style={styles.memberRow}>
@@ -148,7 +126,7 @@ export default function GroupRecommendationsScreen() {
 
       {loading ? (
         <View style={styles.center}>
-          <ActivityIndicator size="large" color={colors.goldPrimary} />
+          <ActivityIndicator size="large" color={colors.accent} />
           <Text style={styles.loadingText}>Finding the best spots...</Text>
         </View>
       ) : error ? (
@@ -182,62 +160,30 @@ const styles = StyleSheet.create({
   center: { flex: 1, justifyContent: 'center', alignItems: 'center', padding: 24 },
 
   header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    paddingHorizontal: spacing.screenPadding,
-    paddingVertical: 12,
-    borderBottomWidth: 1,
-    borderBottomColor: colors.border,
+    flexDirection: 'row', alignItems: 'center',
+    paddingHorizontal: spacing.screenPadding, paddingVertical: 12,
+    borderBottomWidth: 1, borderBottomColor: colors.border,
   },
   backBtn: { width: 44, padding: 8 },
-  headerTitle: {
-    flex: 1,
-    fontSize: 17,
-    fontWeight: '700',
-    color: colors.textPrimary,
-    textAlign: 'center',
-  },
+  headerTitle: { flex: 1, fontSize: 17, fontWeight: '700', color: colors.textPrimary, textAlign: 'center' },
 
-  listContent: {
-    padding: spacing.screenPadding,
-    paddingBottom: 40,
-  },
+  listContent: { padding: spacing.screenPadding, paddingBottom: 40 },
   card: {
-    backgroundColor: colors.surface,
-    borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
-    padding: spacing.cardPadding,
-    marginBottom: spacing.cardGap,
+    backgroundColor: colors.background, borderRadius: radii.card,
+    padding: spacing.cardPadding, marginBottom: spacing.cardGap, ...shadows.card,
   },
-  cardHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    marginBottom: 12,
-  },
+  cardHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 },
   cardHeaderLeft: { flex: 1, marginRight: 8 },
   restaurantName: { fontSize: 17, fontWeight: '700', color: colors.textPrimary },
-  scoreBadge: {
-    borderWidth: 1,
-    borderRadius: radii.pill,
-    paddingHorizontal: 10,
-    paddingVertical: 4,
-  },
+  scoreBadge: { borderRadius: radii.pill, paddingHorizontal: 10, paddingVertical: 4 },
   scoreText: { fontSize: 14, fontWeight: '800' },
 
-  memberDishes: {
-    marginBottom: 14,
-    gap: 8,
-  },
-  memberRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-  },
+  memberDishes: { marginBottom: 14, gap: 8 },
+  memberRow: { flexDirection: 'row', alignItems: 'center' },
   memberEmoji: { fontSize: 20, marginRight: 10, width: 28 },
   memberDishInfo: { flex: 1 },
   memberName: { fontSize: 13, fontWeight: '600', color: colors.textSecondary },
-  memberDish: { fontSize: 14, color: colors.goldPrimary, marginTop: 1 },
+  memberDish: { fontSize: 14, color: colors.accent, marginTop: 1 },
   memberDishEmpty: { fontSize: 13, color: colors.textTertiary, fontStyle: 'italic', marginTop: 1 },
   memberScore: { fontSize: 13, fontWeight: '700', marginLeft: 8 },
 

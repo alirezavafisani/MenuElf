@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   logo: {
     fontSize: 20,
     fontWeight: '800',
-    color: colors.goldPrimary,
+    color: colors.textPrimary,
     width: 90,
   },
   title: {

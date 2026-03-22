@@ -51,13 +51,9 @@ export default function LoginScreen() {
           style={styles.flex}
           behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
         >
-          <ScrollView
-            contentContainerStyle={styles.scrollContent}
-            keyboardShouldPersistTaps="handled"
-          >
+          <ScrollView contentContainerStyle={styles.scrollContent} keyboardShouldPersistTaps="handled">
             <Animated.View style={[styles.content, { opacity: fadeAnim }]}>
               <View style={styles.header}>
-                <Text style={styles.logoEmoji}>&#129399;</Text>
                 <Text style={styles.title}>MenuElf</Text>
                 <Text style={styles.subtitle}>Discover your perfect dish</Text>
               </View>
@@ -136,93 +132,27 @@ export default function LoginScreen() {
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: colors.background },
   flex: { flex: 1 },
-  scrollContent: {
-    flexGrow: 1,
-    justifyContent: 'center',
-    paddingHorizontal: 32,
-    paddingBottom: 40,
-  },
+  scrollContent: { flexGrow: 1, justifyContent: 'center', paddingHorizontal: 32, paddingBottom: 40 },
   content: { width: '100%' },
-  header: {
-    alignItems: 'center',
-    marginBottom: 48,
-  },
-  logoEmoji: {
-    fontSize: 48,
-    marginBottom: 12,
-  },
-  title: {
-    fontSize: 38,
-    fontWeight: '900',
-    color: colors.goldPrimary,
-    marginBottom: 8,
-  },
-  subtitle: {
-    fontSize: 16,
-    color: colors.textSecondary,
-    fontWeight: '500',
-  },
-  form: {
-    width: '100%',
-  },
+  header: { alignItems: 'center', marginBottom: 48 },
+  title: { fontSize: 38, fontWeight: '900', color: colors.textPrimary, marginBottom: 8 },
+  subtitle: { fontSize: 16, color: colors.textSecondary, fontWeight: '500' },
+  form: { width: '100%' },
   inputContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: colors.surface,
-    borderWidth: 1,
-    borderColor: colors.border,
-    borderRadius: radii.input,
-    marginBottom: 16,
+    flexDirection: 'row', alignItems: 'center',
+    backgroundColor: colors.backgroundTertiary,
+    borderWidth: 1, borderColor: 'transparent',
+    borderRadius: radii.input, marginBottom: 16,
   },
-  inputFocused: {
-    borderColor: colors.goldPrimary,
-  },
-  input: {
-    flex: 1,
-    paddingHorizontal: 18,
-    paddingVertical: 16,
-    fontSize: 16,
-    color: colors.textPrimary,
-  },
-  eyeBtn: {
-    paddingHorizontal: 14,
-    paddingVertical: 16,
-  },
-  eyeText: {
-    color: colors.textTertiary,
-    fontSize: 13,
-    fontWeight: '600',
-  },
-  errorText: {
-    color: colors.error,
-    fontSize: 14,
-    textAlign: 'center',
-    marginBottom: 16,
-  },
-  toggleBtn: {
-    marginTop: 20,
-    alignItems: 'center',
-  },
-  toggleText: {
-    color: colors.textSecondary,
-    fontSize: 14,
-  },
-  toggleHighlight: {
-    color: colors.goldPrimary,
-    fontWeight: '600',
-  },
-  legalLinks: {
-    flexDirection: 'row',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginTop: 32,
-  },
-  legalText: {
-    color: colors.textTertiary,
-    fontSize: 12,
-  },
-  legalDot: {
-    color: colors.textTertiary,
-    fontSize: 12,
-  },
+  inputFocused: { borderColor: colors.borderFocus },
+  input: { flex: 1, paddingHorizontal: 18, paddingVertical: 16, fontSize: 16, color: colors.textPrimary },
+  eyeBtn: { paddingHorizontal: 14, paddingVertical: 16 },
+  eyeText: { color: colors.textTertiary, fontSize: 13, fontWeight: '600' },
+  errorText: { color: colors.error, fontSize: 14, textAlign: 'center', marginBottom: 16 },
+  toggleBtn: { marginTop: 20, alignItems: 'center' },
+  toggleText: { color: colors.textSecondary, fontSize: 14 },
+  toggleHighlight: { color: colors.accent, fontWeight: '600' },
+  legalLinks: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 32 },
+  legalText: { color: colors.textTertiary, fontSize: 12 },
+  legalDot: { color: colors.textTertiary, fontSize: 12 },
 });

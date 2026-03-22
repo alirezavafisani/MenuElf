@@ -17,25 +17,37 @@ export default function TabLayout() {
           paddingBottom: Platform.OS === 'ios' ? 28 : 8,
           paddingTop: 8,
         },
-        tabBarActiveTintColor: colors.goldPrimary,
-        tabBarInactiveTintColor: colors.textTertiary,
+        tabBarActiveTintColor: colors.tabActive,
+        tabBarInactiveTintColor: colors.tabInactive,
       }}>
       <Tabs.Screen
         name="index"
         options={{
-          tabBarIcon: ({ color, size }) => <Ionicons name="map-outline" size={24} color={color} />,
+          tabBarIcon: ({ color }) => <Ionicons name="sparkles-outline" size={24} color={color} />,
         }}
       />
       <Tabs.Screen
-        name="recommendations"
+        name="explore"
         options={{
-          tabBarIcon: ({ color, size }) => <Ionicons name="search-outline" size={24} color={color} />,
+          tabBarIcon: ({ color }) => <Ionicons name="compass-outline" size={24} color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="iatethis"
+        options={{
+          tabBarIcon: ({ color }) => <Ionicons name="camera-outline" size={24} color={color} />,
         }}
       />
       <Tabs.Screen
         name="friends"
         options={{
-          tabBarIcon: ({ color, size }) => <Ionicons name="people-outline" size={24} color={color} />,
+          tabBarIcon: ({ color }) => <Ionicons name="people-outline" size={24} color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="recommendations"
+        options={{
+          href: null,
         }}
       />
     </Tabs>

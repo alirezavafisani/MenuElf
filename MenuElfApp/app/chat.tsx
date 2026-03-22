@@ -136,7 +136,6 @@ export default function ChatScreen() {
         finally { setIsLoading(false); setShowTyping(false); }
       }, 500);
     } else {
-      // Proactive flow with typing indicator
       setShowTyping(true);
       setTimeout(async () => {
         try {
@@ -169,17 +168,9 @@ export default function ChatScreen() {
     const msgText = (text || inputText).trim();
     if (!msgText) return;
 
-    const userMessage: Message = {
-      id: Date.now().toString(),
-      role: 'user',
-      content: msgText,
-    };
+    const userMessage: Message = { id: Date.now().toString(), role: 'user', content: msgText };
 
-    logInteraction('chat_message', {
-      restaurant_slug: restaurant,
-      message: userMessage.content,
-      role: 'user',
-    });
+    logInteraction('chat_message', { restaurant_slug: restaurant, message: userMessage.content, role: 'user' });
 
     const previousHistory = [...messages];
     setMessages(prev => [...prev, userMessage]);
@@ -230,7 +221,6 @@ export default function ChatScreen() {
   return (
     <TouchableWithoutFeedback onPress={Keyboard.dismiss} accessible={false}>
       <SafeAreaView style={styles.container} edges={['top', 'bottom']}>
-        {/* Header */}
         <View style={styles.header}>
           <TouchableOpacity style={styles.backButton} onPress={handleBack}>
             <Ionicons name="arrow-back" size={22} color={colors.textPrimary} />
@@ -256,7 +246,6 @@ export default function ChatScreen() {
             ListFooterComponent={showTyping ? <TypingIndicator /> : null}
           />
 
-          {/* Quick suggestions */}
           {messages.length <= 2 && (
             <ScrollView
               horizontal
@@ -264,18 +253,13 @@ export default function ChatScreen() {
               contentContainerStyle={styles.suggestionsRow}
             >
               {QUICK_SUGGESTIONS.map((s) => (
-                <TouchableOpacity
-                  key={s}
-                  style={styles.suggestionPill}
-                  onPress={() => sendMessage(s)}
-                >
+                <TouchableOpacity key={s} style={styles.suggestionPill} onPress={() => sendMessage(s)}>
                   <Text style={styles.suggestionText}>{s}</Text>
                 </TouchableOpacity>
               ))}
             </ScrollView>
           )}
 
-          {/* Input */}
           <View style={styles.inputContainer}>
             <TextInput
               style={styles.textInput}
@@ -329,118 +313,65 @@ function MessageBubble({ isUser, children, index }: { isUser: boolean; children:
 const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: colors.background },
   header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    paddingHorizontal: spacing.screenPadding,
-    paddingVertical: 12,
-    borderBottomWidth: 1,
-    borderBottomColor: colors.border,
+    flexDirection: 'row', alignItems: 'center',
+    paddingHorizontal: spacing.screenPadding, paddingVertical: 12,
+    borderBottomWidth: 1, borderBottomColor: colors.border,
     backgroundColor: colors.background,
   },
   backButton: { width: 44, padding: 8 },
   headerTitle: {
-    flex: 1,
-    fontSize: 18,
-    fontWeight: '700',
-    color: colors.textPrimary,
-    textAlign: 'center',
+    flex: 1, fontSize: 18, fontWeight: '700',
+    color: colors.textPrimary, textAlign: 'center',
   },
   keyboardView: { flex: 1 },
   chatContent: { padding: spacing.screenPadding, gap: 12 },
-  messageBubble: {
-    maxWidth: '80%',
-    paddingHorizontal: 16,
-    paddingVertical: 12,
-    borderRadius: 20,
-  },
+  messageBubble: { maxWidth: '80%', paddingHorizontal: 16, paddingVertical: 12, borderRadius: 20 },
   userBubble: {
     alignSelf: 'flex-end',
-    backgroundColor: colors.userBubble,
+    backgroundColor: colors.accent,
     borderBottomRightRadius: 4,
   },
   assistantBubble: {
     alignSelf: 'flex-start',
-    backgroundColor: colors.surface,
+    backgroundColor: colors.backgroundTertiary,
     borderBottomLeftRadius: 4,
-    borderWidth: 1,
-    borderColor: colors.border,
   },
   messageText: { fontSize: 16, lineHeight: 22 },
-  userText: { color: colors.textPrimary },
+  userText: { color: '#FFFFFF' },
   assistantText: { color: colors.textPrimary },
 
   typingContainer: {
-    flexDirection: 'row',
-    alignSelf: 'flex-start',
-    backgroundColor: colors.surface,
-    borderRadius: 20,
-    borderBottomLeftRadius: 4,
-    borderWidth: 1,
-    borderColor: colors.border,
-    paddingHorizontal: 16,
-    paddingVertical: 14,
-    gap: 5,
+    flexDirection: 'row', alignSelf: 'flex-start',
+    backgroundColor: colors.backgroundTertiary,
+    borderRadius: 20, borderBottomLeftRadius: 4,
+    paddingHorizontal: 16, paddingVertical: 14, gap: 5,
   },
-  typingDot: {
-    width: 8,
-    height: 8,
-    borderRadius: 4,
-    backgroundColor: colors.goldPrimary,
-  },
+  typingDot: { width: 8, height: 8, borderRadius: 4, backgroundColor: colors.accent },
 
-  suggestionsRow: {
-    paddingHorizontal: spacing.screenPadding,
-    paddingBottom: 8,
-    gap: 8,
-  },
+  suggestionsRow: { paddingHorizontal: spacing.screenPadding, paddingBottom: 8, gap: 8 },
   suggestionPill: {
-    borderWidth: 1,
-    borderColor: colors.goldPrimary,
-    borderRadius: radii.pill,
-    paddingHorizontal: 16,
-    paddingVertical: 8,
-    marginRight: 8,
+    borderWidth: 1, borderColor: colors.border,
+    borderRadius: radii.pill, paddingHorizontal: 16, paddingVertical: 8, marginRight: 8,
   },
-  suggestionText: {
-    color: colors.goldPrimary,
-    fontSize: 13,
-    fontWeight: '600',
-  },
+  suggestionText: { color: colors.accent, fontSize: 13, fontWeight: '600' },
 
   inputContainer: {
-    flexDirection: 'row',
-    paddingHorizontal: spacing.screenPadding,
-    paddingVertical: 12,
-    paddingBottom: Platform.OS === 'ios' ? 24 : 12,
-    borderTopWidth: 1,
-    borderTopColor: colors.border,
-    backgroundColor: colors.background,
-    alignItems: 'flex-end',
+    flexDirection: 'row', paddingHorizontal: spacing.screenPadding,
+    paddingVertical: 12, paddingBottom: Platform.OS === 'ios' ? 24 : 12,
+    borderTopWidth: 1, borderTopColor: colors.border,
+    backgroundColor: colors.background, alignItems: 'flex-end',
   },
   textInput: {
-    flex: 1,
-    minHeight: 44,
-    maxHeight: 120,
-    backgroundColor: colors.surface,
-    borderWidth: 1,
-    borderColor: colors.border,
-    borderRadius: 22,
-    paddingHorizontal: 16,
-    paddingTop: 12,
-    paddingBottom: 12,
-    fontSize: 16,
-    color: colors.textPrimary,
-    marginRight: 12,
+    flex: 1, minHeight: 44, maxHeight: 120,
+    backgroundColor: colors.backgroundTertiary,
+    borderWidth: 1, borderColor: colors.border, borderRadius: 22,
+    paddingHorizontal: 16, paddingTop: 12, paddingBottom: 12,
+    fontSize: 16, color: colors.textPrimary, marginRight: 12,
   },
   sendButton: {
-    width: 44,
-    height: 44,
-    borderRadius: 22,
-    backgroundColor: colors.goldDark,
-    justifyContent: 'center',
-    alignItems: 'center',
+    width: 44, height: 44, borderRadius: 22,
+    backgroundColor: colors.accent,
+    justifyContent: 'center', alignItems: 'center',
   },
-  sendButtonDisabled: {
-    backgroundColor: colors.surfaceElevated,
-  },
+  sendButtonDisabled: { backgroundColor: colors.backgroundTertiary },
 });

@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import { View, Text, TouchableOpacity, Animated, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { colors, radii, spacing } from '../../lib/theme';
+import { colors, radii, spacing, shadows } from '../../lib/theme';
 
 type Props = {
   name: string;
@@ -49,7 +49,7 @@ export default function DishCard({
                 <Ionicons
                   name={saved ? 'heart' : 'heart-outline'}
                   size={20}
-                  color={saved ? colors.goldPrimary : colors.textTertiary}
+                  color={saved ? colors.accent : colors.textTertiary}
                 />
               </TouchableOpacity>
             )}
@@ -89,12 +89,11 @@ export default function DishCard({
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: colors.surface,
+    backgroundColor: colors.background,
     borderRadius: radii.card,
-    borderWidth: 1,
-    borderColor: colors.border,
     padding: spacing.cardPadding,
     marginBottom: spacing.cardGap,
+    ...shadows.card,
   },
   topRow: {
     flexDirection: 'row',
@@ -117,12 +116,12 @@ const styles = StyleSheet.create({
   price: {
     fontSize: 15,
     fontWeight: '600',
-    color: colors.goldPrimary,
+    color: colors.accent,
   },
   restaurant: {
     fontSize: 13,
     fontWeight: '600',
-    color: colors.goldPrimary,
+    color: colors.textSecondary,
     marginBottom: 4,
   },
   description: {
@@ -133,7 +132,7 @@ const styles = StyleSheet.create({
   },
   matchReason: {
     fontSize: 13,
-    color: colors.goldLight,
+    color: colors.accent,
     fontStyle: 'italic',
     marginTop: 4,
   },
@@ -144,7 +143,7 @@ const styles = StyleSheet.create({
     marginTop: 8,
   },
   categoryBadge: {
-    backgroundColor: colors.surfaceElevated,
+    backgroundColor: colors.backgroundTertiary,
     paddingHorizontal: 8,
     paddingVertical: 3,
     borderRadius: 6,
@@ -156,7 +155,7 @@ const styles = StyleSheet.create({
     textTransform: 'uppercase',
   },
   dietaryBadge: {
-    backgroundColor: 'rgba(76,175,80,0.15)',
+    backgroundColor: 'rgba(52,168,83,0.1)',
     paddingHorizontal: 8,
     paddingVertical: 3,
     borderRadius: 6,
