@@ -1,17 +1,36 @@
 #!/usr/bin/env python3
-"""Discover restaurants in Calgary via Google Places API."""
+"""Discover restaurants in Calgary via Google Places API (v1)."""
 
 import json
 import os
 import re
 import time
 from pathlib import Path
-from urllib.parse import urlencode
-from urllib.request import urlopen
+from urllib.request import Request, urlopen
 
-API_KEY = "AIzaSyAlNXWy4c6rHFcnPPxMsMwscOm2yRcf9Cw"
+API_KEY = os.environ.get(
+    "GOOGLE_PLACES_API_KEY", "AIzaSyAlNXWy4c6rHFcnPPxMsMwscOm2yRcf9Cw"
+)
 MENUS_DIR = Path(__file__).parent.parent / "menus"
 OUTPUT_PATH = Path(__file__).parent.parent / "data" / "discovered_restaurants.json"
+
+FIELD_MASK = ",".join(
+    [
+        "places.displayName",
+        "places.id",
+        "places.formattedAddress",
+        "places.location",
+        "places.rating",
+        "places.priceLevel",
+        "places.websiteUri",
+        "places.nationalPhoneNumber",
+        "places.types",
+        "nextPageToken",
+    ]
+)
+
+MAX_RESULTS_PER_PAGE = 20  # API max for v1 searchText
+MAX_PAGES_PER_QUERY = 3
 
 SEARCH_QUERIES = [
     "restaurants Calgary downtown",
@@ -21,6 +40,11 @@ SEARCH_QUERIES = [
     "restaurants Calgary Beltline",
     "restaurants Calgary Mission",
     "restaurants Calgary Marda Loop",
+    "restaurants Calgary Bridgeland",
+    "restaurants Calgary NE",
+    "restaurants Calgary NW",
+    "restaurants Calgary SE",
+    "restaurants Calgary SW",
     "Thai restaurant Calgary",
     "Japanese restaurant Calgary",
     "Indian restaurant Calgary",
@@ -30,11 +54,24 @@ SEARCH_QUERIES = [
     "Vietnamese restaurant Calgary",
     "Chinese restaurant Calgary",
     "Ethiopian restaurant Calgary",
+    "Middle Eastern restaurant Calgary",
     "Steakhouse Calgary",
     "Sushi Calgary",
+    "Pizza Calgary",
     "Brunch Calgary",
     "Fine dining Calgary",
+    "Ramen Calgary",
+    "Pho Calgary",
+    "BBQ Calgary",
 ]
+
+PRICE_MAP = {
+    "PRICE_LEVEL_FREE": 0,
+    "PRICE_LEVEL_INEXPENSIVE": 1,
+    "PRICE_LEVEL_MODERATE": 2,
+    "PRICE_LEVEL_EXPENSIVE": 3,
+    "PRICE_LEVEL_VERY_EXPENSIVE": 4,
+}
 
 
 def slugify(name: str) -> str:
@@ -63,46 +100,83 @@ def get_existing_restaurants() -> set:
     return names
 
 
+def _api_post(url: str, body: dict, headers: dict) -> dict:
+    """Make a POST request and return parsed JSON."""
+    req = Request(
+        url,
+        data=json.dumps(body).encode(),
+        headers=headers,
+        method="POST",
+    )
+    resp = urlopen(req)
+    return json.loads(resp.read())
+
+
+def _parse_place(p: dict) -> dict:
+    """Parse a single place from Places API v1 response."""
+    display = p.get("displayName", {})
+    loc = p.get("location", {})
+    return {
+        "name": display.get("text", ""),
+        "place_id": p.get("id", ""),
+        "address": p.get("formattedAddress", ""),
+        "lat": loc.get("latitude"),
+        "lng": loc.get("longitude"),
+        "rating": p.get("rating"),
+        "price_level": PRICE_MAP.get(p.get("priceLevel")),
+        "website": p.get("websiteUri"),
+        "phone": p.get("nationalPhoneNumber"),
+        "types": p.get("types", []),
+    }
+
+
 def search_places(query: str) -> list:
-    """Search Google Places API Text Search."""
-    url = "https://maps.googleapis.com/maps/api/place/textsearch/json?" + urlencode(
-        {"query": query, "key": API_KEY}
-    )
-    resp = urlopen(url)
-    data = json.loads(resp.read())
-    results = []
-    for r in data.get("results", []):
-        if "restaurant" in r.get("types", []) or "food" in r.get("types", []) or "meal_takeaway" in r.get("types", []):
-            results.append(
-                {
-                    "name": r.get("name", ""),
-                    "place_id": r.get("place_id", ""),
-                    "address": r.get("formatted_address", ""),
-                    "lat": r.get("geometry", {}).get("location", {}).get("lat"),
-                    "lng": r.get("geometry", {}).get("location", {}).get("lng"),
-                    "rating": r.get("rating"),
-                    "price_level": r.get("price_level"),
-                }
-            )
-    return results
+    """Search Google Places Text Search v1 with pagination."""
+    url = "https://places.googleapis.com/v1/places:searchText"
+    headers = {
+        "Content-Type": "application/json",
+        "X-Goog-Api-Key": API_KEY,
+        "X-Goog-FieldMask": FIELD_MASK,
+    }
 
+    all_results = []
+    body = {"textQuery": query, "maxResultCount": MAX_RESULTS_PER_PAGE}
 
-def get_place_details(place_id: str) -> str | None:
-    """Get website URL from place details."""
-    url = "https://maps.googleapis.com/maps/api/place/details/json?" + urlencode(
-        {"place_id": place_id, "fields": "website", "key": API_KEY}
-    )
-    try:
-        resp = urlopen(url)
-        data = json.loads(resp.read())
-        return data.get("result", {}).get("website")
-    except Exception:
-        return None
+    for page in range(MAX_PAGES_PER_QUERY):
+        try:
+            data = _api_post(url, body, headers)
+        except Exception as e:
+            print(f"    Page {page+1} error: {e}")
+            break
+
+        places = data.get("places", [])
+        food_types = {
+            "restaurant", "food", "meal_takeaway", "meal_delivery",
+            "cafe", "bar",
+        }
+        for p in places:
+            types = set(p.get("types", []))
+            if types & food_types:
+                all_results.append(_parse_place(p))
+
+        next_token = data.get("nextPageToken")
+        if not next_token:
+            break
+
+        time.sleep(2)
+        body = {
+            "textQuery": query,
+            "maxResultCount": MAX_RESULTS_PER_PAGE,
+            "pageToken": next_token,
+        }
+
+    return all_results
 
 
 def main():
     existing = get_existing_restaurants()
     print(f"Existing restaurants in database: {len(existing)}")
+    print(f"Using API key: {API_KEY[:12]}...{API_KEY[-4:]}")
 
     # Collect all results, deduplicate by place_id
     all_places = {}
@@ -110,28 +184,37 @@ def main():
         print(f"Searching [{i+1}/{len(SEARCH_QUERIES)}]: {query}")
         try:
             results = search_places(query)
+            new_in_batch = sum(
+                1 for r in results if r["place_id"] not in all_places
+            )
             for r in results:
                 pid = r["place_id"]
                 if pid not in all_places:
                     all_places[pid] = r
-            print(f"  Found {len(results)} restaurants ({len(all_places)} unique total)")
+            print(
+                f"  Found {len(results)} results, {new_in_batch} new "
+                f"({len(all_places)} unique total)"
+            )
         except Exception as e:
             print(f"  ERROR: {e}")
-        time.sleep(2)  # Rate limit
+        time.sleep(2)  # Rate limit between queries
 
     print(f"\nTotal unique restaurants found: {len(all_places)}")
 
-    # Get website URLs for all places
-    print("\nFetching website URLs...")
-    for i, (pid, place) in enumerate(all_places.items()):
-        if i % 20 == 0 and i > 0:
-            print(f"  Progress: {i}/{len(all_places)}")
-        place["website"] = get_place_details(pid)
-        time.sleep(0.5)  # Rate limit for details
+    # Classify new vs already_have
+    new_pids = []
+    already_pids = []
+    for pid, place in all_places.items():
+        norm = normalize_name(place["name"])
+        if norm in existing:
+            already_pids.append(pid)
+        else:
+            new_pids.append(pid)
 
-    # Compare against existing
-    new_count = 0
-    already_count = 0
+    print(f"Already in database: {len(already_pids)}")
+    print(f"NEW restaurants: {len(new_pids)}")
+
+    # Build output
     output = []
     new_names = []
 
@@ -139,10 +222,8 @@ def main():
         norm = normalize_name(place["name"])
         if norm in existing:
             status = "already_have"
-            already_count += 1
         else:
             status = "new"
-            new_count += 1
             new_names.append(place["name"])
 
         output.append(
@@ -155,7 +236,9 @@ def main():
                 "lng": place["lng"],
                 "rating": place["rating"],
                 "price_level": place["price_level"],
-                "website": place["website"],
+                "website": place.get("website"),
+                "phone": place.get("phone"),
+                "types": place.get("types", []),
                 "status": status,
             }
         )
@@ -169,8 +252,8 @@ def main():
     print("DISCOVERY SUMMARY")
     print("=" * 60)
     print(f"Total unique restaurants found: {len(output)}")
-    print(f"Already in database:            {already_count}")
-    print(f"NEW restaurants not in database: {new_count}")
+    print(f"Already in database:            {len(already_pids)}")
+    print(f"NEW restaurants not in database: {len(new_pids)}")
     print()
     print("NEW RESTAURANT NAMES:")
     print("-" * 60)
