@@ -1,0 +1,63 @@
+{
+  "restaurant": "rasa-palladium-indian-western-bar-restaurant",
+  "parsed_at": "2026-03-23T18:35:51.971997+00:00",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Beef Samosa",
+      "price": null,
+      "description": "Crispy pastry pockets filled with seasoned beef, served with mint and tamarind chutney. A popular appetizer starter showcasing our fusion approach with high customer demand.",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SIGNATURE DISHES & POPULAR MENU ITEMS",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BOGO Peri Peri Dumplings",
+      "price": null,
+      "description": "Dumplings tossed in a fiery peri-peri spice mix, delivering a bold and tangy kick. Our customer favorite and best-seller that perfectly represents our fusion expertise.",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tandoori Afghani Dumplings",
+      "price": null,
+      "description": "Dumplings coated in a rich, nutty afghani-style sauce with aromatic spices. A high demand item showcasing our fusion expertise and creativity.",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Butter Chicken",
+      "price": null,
+      "description": "Boneless chicken cooked in a creamy tomato sauce with aromatic spices. Our classic Indian favorite features modern presentation and premium quality ingredients.",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": null,
+      "description": "Barbecued chicken cooked in a creamy onion, tomato, and ginger-garlic sauce. Our premium signature dish showcases authentic Indian flavors with exceptional quality.",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Guacamole Phuchka",
+      "price": null,
+      "description": "Guacamole stuffed in crispy puri, topped with sweet yogurt and tangy sauce. Our unique fusion specialty showcasing the perfect Canadian-Indian blend.",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "View Full Menu",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

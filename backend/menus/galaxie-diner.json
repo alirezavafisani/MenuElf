@@ -1,0 +1,42 @@
+{
+  "restaurant": "galaxie-diner",
+  "parsed_at": "2026-03-23T18:31:38.724092+00:00",
+  "item_count": 5,
+  "items": [
+    {
+      "name": "Home",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "MENU",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Logo",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "FIND US",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "CONTACT",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

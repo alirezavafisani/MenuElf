@@ -1,0 +1,49 @@
+{
+  "restaurant": "beirut-street-food",
+  "parsed_at": "2026-03-23T18:39:43.296091+00:00",
+  "item_count": 6,
+  "items": [
+    {
+      "name": "Home",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "About",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Menu",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Gallery",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Contact",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Location",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

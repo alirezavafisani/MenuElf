@@ -1,0 +1,63 @@
+{
+  "restaurant": "j-club-grill-bar",
+  "parsed_at": "2026-03-23T18:32:12.948453+00:00",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Food",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Beverages",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Wine",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Happy Hour",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Contact Us",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Reservation",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "About Us",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Feature Menu",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

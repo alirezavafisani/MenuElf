@@ -1,0 +1,35 @@
+{
+  "restaurant": "deagla-restaurant-legacy",
+  "parsed_at": "2026-03-23T18:30:46.415632+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "name": "Home",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "About",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Our Menu",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Career",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}
