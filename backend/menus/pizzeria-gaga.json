@@ -1,0 +1,203 @@
+{
+  "restaurant": "pizzeria-gaga",
+  "parsed_at": "2026-03-23T18:11:09.637365+00:00",
+  "item_count": 28,
+  "items": [
+    {
+      "name": "La Cosa Nostra - Prosciutto, Egg, Cream Cheese, Provolone and Salad Sandwich",
+      "price": 14.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Trio Italiano - Capiccolo, Genoa and Provolone Sandwich",
+      "price": 12.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Uno - Ham and Cheese Sandwich",
+      "price": 12.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tonno - Tuna Sandwich",
+      "price": 12.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Pizzolini - A Large Pizza Slice Ready to go",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Burek - Balkan Style Pie with Meat and Cheese",
+      "price": 10.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Greek Salad - Tomato, Cucumber, Onions and Feta Cheese",
+      "price": 11.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Calzone - Mozzarella, Italian Sausage, Mushrooms, Ham and Capicolo",
+      "price": 15.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Pasta - Various Selection",
+      "price": 13.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Signora Gaga Mozzarella, Spinach, Olives, Prosciutto, Bocconcini and Figs",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Verona Mozzarella, Artichoke, Tomato, Olives and Garlic",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mamma Mia Mozzarella, Capiccollo, Olives, Italian Sausage, Mushrooms and Hot Peppers",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Aleksa Mozzarella, Genoa, Olives, Tomato and Feta Cheese",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Garden Mozzarella, Spinach, Green Pepper, Onions, Olives, Feta Cheese and Tomato",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tonno Mozzarella, Tuna, Onion and Olives",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Nikola Tesla White Sauce, Potato, Onion and walnut",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "? Mozza, apple, bacon and provolone",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "The Girl from Rio (NEW!) Ham, Egg, Onion and olives",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mafiosa Mozzarella, Ham, Pepperoni, Mushrooms, Hot Peppers, Capiccollo, Garlic and Oregano",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Capriciosa Mozzarella, Ham, Mushrooms, Olives, Italian Sausage and Basil",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Stella Rossa Belgrado Mozzarella, Ham, Bacon, Prunes and Feta Cheese",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Roma Mozzarella, Pepperoni, Mushrooms, Green Peppers and onion",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Margherita Mozzarella, Tomato and Garlic",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Sicillia Mozzarella, Ham, Leek and Tomato",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "New York Mozzarella and Pepperoni",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Baklava - A rich, sweet dessert pastry made of layers of filo filled with chopped nuts.",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Milana - 10\" Sweet Pizza // Nutella, Banana, Coconut + Love",
+      "price": 15.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Coffee & Tea",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}
