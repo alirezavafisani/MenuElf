@@ -1,0 +1,483 @@
+{
+  "restaurant": "kokocups-mission",
+  "parsed_at": "2026-03-23T18:09:46.020668+00:00",
+  "item_count": 68,
+  "items": [
+    {
+      "name": "Original Vegetable Bulgogi Spicy Pork Tuna mayo",
+      "price": 9.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Original",
+      "price": 9.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Vegetable",
+      "price": 9.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bulgogi",
+      "price": 9.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Pork",
+      "price": 9.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tuna mayo",
+      "price": 9.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Cheese Calamari Buldak Cheese Mini Spciy Bulgogi Mini Original",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Cheese",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Calamari",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Buldak Cheese",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mini Spciy Bulgogi",
+      "price": 6.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mini Original",
+      "price": 6.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kimbap ComboAdd Japchae for",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Add Japchae for",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Add Pop + Dessert",
+      "price": 5.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bulgogi Cupbap R - L - Bulgogi Kimchi CupbapR - L - Fried Chicken CupbapR - L",
+      "price": 12.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bulgogi Cupbap R - L",
+      "price": 12.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "R - L",
+      "price": 12.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bulgogi Kimchi CupbapR - L",
+      "price": 12.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Fried Chicken CupbapR - L",
+      "price": 11.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Pork CupbapR - L - Spicy Chicken CupbapR - L - Bibimbap",
+      "price": 11.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Pork CupbapR - L",
+      "price": 11.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Chicken CupbapR - L",
+      "price": 11.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bibimbap",
+      "price": 11.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Truffle ChapagettiBuldak RamyeonUdon$Add Topping (Bulgogi / Kimchi / Fish Cake)",
+      "price": 8.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Truffle Chapagetti",
+      "price": 8.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Buldak Ramyeon",
+      "price": 8.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Udon$Add Topping (Bulgogi / Kimchi / Fish Cake)",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "$Add Topping (Bulgogi / Kimchi / Fish Cake)",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Japchae Instant RamyeonSpicy Pork Instant Ramyeon",
+      "price": 11.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Japchae",
+      "price": 11.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Instant Ramyeon",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Pork Instant Ramyeon",
+      "price": 8.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Small",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Midium",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Large",
+      "price": 19.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Deep Fried Vegetable (3pcs) (5pcs)",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "(3pcs) (5pcs)",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Calamari (3pcs) (5pcs)",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Deep Fried Rice Cakew/ Sweet & Sour Sauce",
+      "price": 6.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "w/ Sweet & Sour Sauce",
+      "price": 6.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Fish Cake Skewers (3pcs)",
+      "price": 6.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "(3pcs)",
+      "price": 6.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Deep Fried Rice Cake + Deep Fried Chickenw/ Sweet & Sour SauceVegetable ManduBulgogi ManduPork Mandu",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Deep Fried Rice Cake + Deep Fried Chickenw/ Sweet & Sour Sauce",
+      "price": 10.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Vegetable Mandu",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bulgogi Mandu",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Pork Mandu",
+      "price": 7.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kimbap Set Kimbap 2Spicy Rice Cake SFish Cake Soup",
+      "price": 27.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kimbap Set",
+      "price": 27.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Rice Cake Set Spicy Rice Cake MDeep Fried Vegetable (3pcs)Mini KimbapFish Cake Soup",
+      "price": 27.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Rice Cake Set",
+      "price": 27.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Family Set Spicy Rice Cake LDeep Fried Vegetable (3pcs)Calamari (3pcs)Kimbap 2Udon",
+      "price": 55.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Family Set",
+      "price": 55.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Red Bean Custard Nutella",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Red Bean",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Custard",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Nutella",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Red Bean & Cream Cheese Custard & Cream Cheese Red Bean + Custard",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Red Bean & Cream Cheese",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Custard & Cream Cheese",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Red Bean + Custard",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "MayoWasabi Mayo",
+      "price": 0.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mayo",
+      "price": 0.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Wasabi Mayo",
+      "price": 0.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy MayoSsamjang Mayo",
+      "price": 0.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy Mayo",
+      "price": 0.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Ssamjang Mayo",
+      "price": 0.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

@@ -180,7 +180,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Acme Pizza & Pasta Co.",
@@ -502,7 +503,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Alvin’s Jazz Club",
@@ -590,7 +592,8 @@
       "store",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "An An Kitchen & Bar",
@@ -783,7 +786,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Arabi Shawarma & Grill",
@@ -803,7 +807,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "js_rendered"
   },
   {
     "name": "Arada Bar & Restaurant",
@@ -1381,7 +1386,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Bagolac Saigon Restaurant",
@@ -2949,7 +2954,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Brunch Glory & Calypso’s Greek Taverna",
@@ -3075,7 +3080,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "CHARCUT",
@@ -3492,7 +3498,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Calgary Momo House",
@@ -4040,7 +4047,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Cheongdam Korean BBQ - Royal Oak",
@@ -4736,7 +4743,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Cuty Restaurant",
@@ -5063,7 +5071,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Deng’s Dumpling",
@@ -5779,7 +5787,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "El Padrino Restaurant",
@@ -5989,7 +5997,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Famoso Italian Pizzeria - Country Hills",
@@ -6328,7 +6337,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Fortuna's Row",
@@ -6755,7 +6765,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Garden of Italy",
@@ -7031,7 +7042,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "js_rendered"
   },
   {
     "name": "Gogi Korean Kitchen",
@@ -7059,7 +7071,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Golden Bell 17 Ave SW",
@@ -7580,7 +7593,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "HEAL Wellness",
@@ -7755,7 +7769,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Hankki Centennial",
@@ -7775,7 +7790,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Hansang Korean Cuisine",
@@ -8314,7 +8330,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "IKUSA Izakaya & Tokyo Market",
@@ -8598,7 +8614,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_503"
   },
   {
     "name": "Izumi Kitchen & Bar",
@@ -8873,7 +8890,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Jane Bond BBQ - Sage Hill",
@@ -9004,7 +9021,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Jerusalem Shawarma Chinook",
@@ -9025,7 +9043,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Jerusalem Shawarma Deerfoot Meadows",
@@ -9092,7 +9111,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Jerusalem Shawarma Shawnessy",
@@ -9422,7 +9442,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_many_items"
   },
   {
     "name": "KINTON RAMEN SOUTH TRAIL CALGARY",
@@ -9523,7 +9544,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "KOR Korean Street Food - TC Energy Tower",
@@ -9628,7 +9649,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_400"
   },
   {
     "name": "Kam Han Szechuan House",
@@ -9942,7 +9964,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "js_rendered"
   },
   {
     "name": "Kin Dee Street Kitchen",
@@ -10269,7 +10292,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Koto Sushi & Izakaya",
@@ -10331,7 +10355,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "L'Olivo Cicchetti & Lounge",
@@ -10764,7 +10788,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_many_items"
   },
   {
     "name": "Lemon Garden",
@@ -11505,7 +11530,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "js_rendered"
   },
   {
     "name": "Masa Mama Taqueria",
@@ -11741,7 +11767,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Meltro Burger",
@@ -11920,7 +11946,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Mexico City Mexican Food",
@@ -12586,7 +12613,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Mr.Schnapps Restaurant & Bar",
@@ -14245,7 +14273,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_400"
   },
   {
     "name": "Pasquales",
@@ -15613,7 +15642,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Pizzomatic",
@@ -16114,7 +16143,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "Raja Foods Marlborough",
@@ -16738,7 +16768,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_503"
   },
   {
     "name": "Rose Garden Thai Restaurant",
@@ -16860,7 +16891,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_503"
   },
   {
     "name": "Royal Paan Falconridge N.E",
@@ -18718,7 +18750,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "State & Main",
@@ -21666,7 +21699,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Toscana Italian Grill",
@@ -22681,7 +22714,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Wellingtons of Calgary",
@@ -22771,7 +22805,8 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "http_403"
   },
   {
     "name": "Winebar Kensington",
@@ -23183,7 +23218,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "bb.q chicken",
@@ -23267,7 +23302,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "charbar",
@@ -23346,7 +23381,8 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed",
+    "failure_reason": "too_few_items"
   },
   {
     "name": "morning brunch co.",

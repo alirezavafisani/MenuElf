@@ -1,0 +1,623 @@
+{
+  "restaurant": "tori-bar",
+  "parsed_at": "2026-03-23T18:11:38.433999+00:00",
+  "item_count": 88,
+  "items": [
+    {
+      "name": "BABY POTATOES Boiled potatoes topped with homemade creamy sauce and crispy bacon chips",
+      "price": 3.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BABY POTATOES",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Boiled potatoes topped with homemade creamy sauce and crispy bacon chips",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SEAWEED SALAD Seaweed salad with sesame oil",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SEAWEED SALAD",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Seaweed salad with sesame oil",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SOUS VIDE EGG cooked at 60-70°C, creating creamy whites and partially set yolks with a unique texture",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SOUS VIDE EGG",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "cooked at 60-70°C, creating creamy whites and partially set yolks with a unique texture",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TAKO WASABI Raw octopus with wasabi sauce, served with seaweed for wrapping",
+      "price": 4.3,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TAKO WASABI",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Raw octopus with wasabi sauce, served with seaweed for wrapping",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "PICKLED CABBAGE",
+      "price": 2.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TOMATO GINGER Sliced tomatoes topped with ginger, honey, and seaweed flakes",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TOMATO GINGER",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced tomatoes topped with ginger, honey, and seaweed flakes",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "MISO CELERY Finely chopped celery with miso sauce, topped with bonito flakes",
+      "price": 3.2,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "MISO CELERY",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Finely chopped celery with miso sauce, topped with bonito flakes",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "DAIKON SALAD Sliced radish served with homemade sesame dressing.",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "DAIKON SALAD",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced radish served with homemade sesame dressing.",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SPICY SALAD Cucumber, Water Chestnut, Garlic Oil",
+      "price": 5.99,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SPICY SALAD",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Cucumber, Water Chestnut, Garlic Oil",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SKIN ON THIGH salt & pepper",
+      "price": 3.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SKIN ON THIGH",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "salt & pepper",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "CHICKEN BREAST",
+      "price": 3.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "NEGIMA chicken & green onion",
+      "price": 4.6,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "NEGIMA",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "chicken & green onion",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "CHICKEN WINGS limited",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "CHICKEN WINGS",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "limited",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "DRUMETTE limited",
+      "price": 3.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "DRUMETTE",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TSUKUNE chicken & pork meatball",
+      "price": 3.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TSUKUNE",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "chicken & pork meatball",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "GIZZARD",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "PORK BELLY BACON & TOMATO PORK INTESTINE",
+      "price": 3.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "PORK BELLY",
+      "price": 3.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BACON & TOMATO",
+      "price": 4.4,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "PORK INTESTINE",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BEEF PRIME RIB BEEF FINGER RIB LAMB",
+      "price": 7.2,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BEEF PRIME RIB",
+      "price": 7.2,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BEEF FINGER RIB",
+      "price": 6.7,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "LAMB",
+      "price": 3.8,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SCALLOP SHRIMP IKAYAKI GRILLED SQUID WITH TERIYAKI SHISHAMO grilled smelt fish MISO BLACK COD",
+      "price": 4.3,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SCALLOP",
+      "price": 4.3,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SHRIMP",
+      "price": 4.2,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "IKAYAKI GRILLED SQUID WITH TERIYAKI",
+      "price": 14.99,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "IKAYAKI",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "GRILLED SQUID WITH TERIYAKI",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SHISHAMO grilled smelt fish",
+      "price": 4.25,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "SHISHAMO",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "grilled smelt fish",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "MISO BLACK COD",
+      "price": 8.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "EGGPLANT butter & garlic sauce ONION BELLA MUSHROOM tare sauce ZUCCHINI miso sauce",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "EGGPLANT butter & garlic sauce",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "EGGPLANT",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "butter & garlic sauce",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "ONION",
+      "price": 2.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BELLA MUSHROOM tare sauce",
+      "price": 4.2,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "BELLA MUSHROOM",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "tare sauce",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "ZUCCHINI miso sauce",
+      "price": 2.9,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "ZUCCHINI",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "miso sauce",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "AGEDASHI TOFU AJI FRY IKA KARAAGE",
+      "price": 5.4,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "AGEDASHI TOFU",
+      "price": 5.4,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "AJI FRY",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "IKA KARAAGE",
+      "price": 6.75,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "ODEN SOUP fish broth with fish cake TORI SOUP a rich and deep broth using chicken bones, Shiitake mushrooms are added.",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "ODEN SOUP fish broth with fish cake",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "ODEN SOUP",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "fish broth with fish cake",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TORI SOUP a rich and deep broth using chicken bones, Shiitake mushrooms are added.",
+      "price": 3.95,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "TORI SOUP",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "a rich and deep broth using chicken bones, Shiitake mushrooms are added.",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "GRILLED RICE BALL",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "CHICKEN OCHAZUKE made by pouring green tea, dashi over cooked rice & chicken",
+      "price": 7.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "CHICKEN OCHAZUKE",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "made by pouring green tea, dashi over cooked rice & chicken",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "UNAGI DON Donburi topped with 3 pieces of unagi",
+      "price": 12.75,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "UNAGI DON",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Donburi topped with 3 pieces of unagi",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}
