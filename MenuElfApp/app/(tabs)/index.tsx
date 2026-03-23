@@ -1,7 +1,7 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import {
   StyleSheet, View, Text, TouchableOpacity, Image,
-  ActivityIndicator, ScrollView, FlatList,
+  ActivityIndicator, ScrollView, FlatList, RefreshControl,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useRouter } from 'expo-router';
@@ -38,6 +38,8 @@ export default function ForYouScreen() {
   const [heroResult, setHeroResult] = useState<RestaurantInfo | null>(null);
   const [heroLoading, setHeroLoading] = useState(false);
   const [mood, setMood] = useState<Mood>('everyday');
+  const [refreshing, setRefreshing] = useState(false);
+  const heroTapRef = useRef(false);
 
   const fetchRestaurants = useCallback(async () => {
     try {
@@ -55,15 +57,24 @@ export default function ForYouScreen() {
 
   useEffect(() => { fetchRestaurants(); }, [fetchRestaurants]);
 
+  const handleRefresh = useCallback(async () => {
+    setRefreshing(true);
+    await fetchRestaurants();
+    setRefreshing(false);
+  }, [fetchRestaurants]);
+
   const topRestaurants = [...restaurants]
     .sort((a, b) => (b.match_score ?? b.rating ?? 0) - (a.match_score ?? a.rating ?? 0))
     .slice(0, 10);
 
   const handleWhatShouldIEat = () => {
+    if (heroTapRef.current) return;
+    heroTapRef.current = true;
     setHeroLoading(true);
     const candidates = topRestaurants.length > 0 ? topRestaurants : restaurants;
     if (candidates.length === 0) {
       setHeroLoading(false);
+      heroTapRef.current = false;
       return;
     }
     const randomIdx = Math.floor(Math.random() * Math.min(candidates.length, 5));
@@ -72,6 +83,7 @@ export default function ForYouScreen() {
     setTimeout(() => {
       setHeroResult(pick);
       setHeroLoading(false);
+      heroTapRef.current = false;
     }, 600);
   };
 
@@ -114,7 +126,13 @@ export default function ForYouScreen() {
   return (
     <SafeAreaView style={styles.container} edges={['top', 'left', 'right']}>
       <Header />
-      <ScrollView contentContainerStyle={styles.scrollContent} showsVerticalScrollIndicator={false}>
+      <ScrollView
+        contentContainerStyle={styles.scrollContent}
+        showsVerticalScrollIndicator={false}
+        refreshControl={
+          <RefreshControl refreshing={refreshing} onRefresh={handleRefresh} tintColor={colors.accent} />
+        }
+      >
         {/* Hero Button */}
         <View style={styles.heroSection}>
           <TouchableOpacity

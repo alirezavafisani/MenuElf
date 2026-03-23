@@ -40,6 +40,7 @@ export default function OnboardingScreen() {
   const [submitting, setSubmitting] = useState(false);
   const [error, setError] = useState('');
   const [selected, setSelected] = useState<'a' | 'b' | null>(null);
+  const [failedImages, setFailedImages] = useState<Set<string>>(new Set());
   const fadeAnim = useRef(new Animated.Value(1)).current;
   const slideAnim = useRef(new Animated.Value(0)).current;
   const borderAnimA = useRef(new Animated.Value(0)).current;
@@ -215,7 +216,17 @@ export default function OnboardingScreen() {
       <Animated.View style={[styles.optionsContainer, { opacity: fadeAnim, transform: [{ translateY: slideAnim }] }]}>
         <Animated.View style={[styles.optionCard, { borderColor: borderColorA }]}>
           <TouchableOpacity style={styles.optionTouchable} activeOpacity={0.85} onPress={() => handleChoice('a')}>
-            <Image source={{ uri: question.option_a.image_url }} style={styles.foodImage} />
+            {failedImages.has(question.option_a.image_url) ? (
+              <View style={styles.imageFallback}>
+                <Text style={styles.imageFallbackEmoji}>&#127869;</Text>
+              </View>
+            ) : (
+              <Image
+                source={{ uri: question.option_a.image_url }}
+                style={styles.foodImage}
+                onError={() => setFailedImages(prev => new Set(prev).add(question.option_a.image_url))}
+              />
+            )}
             <View style={styles.labelOverlay}>
               <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_a.label)}</Text>
             </View>
@@ -224,7 +235,17 @@ export default function OnboardingScreen() {
 
         <Animated.View style={[styles.optionCard, { borderColor: borderColorB }]}>
           <TouchableOpacity style={styles.optionTouchable} activeOpacity={0.85} onPress={() => handleChoice('b')}>
-            <Image source={{ uri: question.option_b.image_url }} style={styles.foodImage} />
+            {failedImages.has(question.option_b.image_url) ? (
+              <View style={styles.imageFallback}>
+                <Text style={styles.imageFallbackEmoji}>&#127858;</Text>
+              </View>
+            ) : (
+              <Image
+                source={{ uri: question.option_b.image_url }}
+                style={styles.foodImage}
+                onError={() => setFailedImages(prev => new Set(prev).add(question.option_b.image_url))}
+              />
+            )}
             <View style={styles.labelOverlay}>
               <Text style={styles.optionLabel} numberOfLines={2}>{formatLabel(question.option_b.label)}</Text>
             </View>
@@ -255,6 +276,11 @@ const styles = StyleSheet.create({
   },
   optionTouchable: { flex: 1 },
   foodImage: { width: '100%', height: '100%', backgroundColor: colors.backgroundTertiary },
+  imageFallback: {
+    width: '100%', height: '100%', backgroundColor: colors.backgroundTertiary,
+    justifyContent: 'center', alignItems: 'center',
+  },
+  imageFallbackEmoji: { fontSize: 64 },
   labelOverlay: {
     position: 'absolute', bottom: 0, left: 0, right: 0,
     paddingVertical: 14, paddingHorizontal: 16,

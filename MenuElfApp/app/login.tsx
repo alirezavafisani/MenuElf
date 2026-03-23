@@ -24,24 +24,75 @@ export default function LoginScreen() {
     Animated.timing(fadeAnim, { toValue: 1, duration: 600, useNativeDriver: true }).start();
   }, []);
 
+  const isValidEmail = (e: string) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e);
+
+  const friendlyError = (msg: string): string => {
+    const lower = msg.toLowerCase();
+    if (lower.includes('invalid_grant') || lower.includes('invalid login'))
+      return 'Incorrect email or password. Please try again.';
+    if (lower.includes('email not confirmed'))
+      return 'Please check your inbox and confirm your email before signing in.';
+    if (lower.includes('user already registered'))
+      return 'An account with this email already exists. Try signing in instead.';
+    if (lower.includes('rate limit') || lower.includes('too many'))
+      return 'Too many attempts. Please wait a moment and try again.';
+    if (lower.includes('network') || lower.includes('fetch'))
+      return 'Network error. Please check your connection.';
+    return msg;
+  };
+
   const handleAuth = async () => {
     if (!email.trim() || !password.trim()) {
       setError('Please enter both email and password.');
       return;
     }
-    if (isSignUp && password.length < 6) {
+    if (!isValidEmail(email.trim())) {
+      setError('Please enter a valid email address.');
+      return;
+    }
+    if (password.length < 6) {
       setError('Password must be at least 6 characters.');
       return;
     }
     setError('');
     setLoading(true);
 
-    const { error: err } = isSignUp
-      ? await supabase.auth.signUp({ email: email.trim(), password: password.trim() })
-      : await supabase.auth.signInWithPassword({ email: email.trim(), password: password.trim() });
+    try {
+      const { error: err } = isSignUp
+        ? await supabase.auth.signUp({ email: email.trim(), password: password.trim() })
+        : await supabase.auth.signInWithPassword({ email: email.trim(), password: password.trim() });
 
-    setLoading(false);
-    if (err) setError(err.message);
+      if (err) setError(friendlyError(err.message));
+    } catch {
+      setError('Something went wrong. Please check your connection and try again.');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleForgotPassword = async () => {
+    const trimmed = email.trim();
+    if (!trimmed || !isValidEmail(trimmed)) {
+      setError('Enter your email address above, then tap Forgot Password.');
+      return;
+    }
+    setLoading(true);
+    setError('');
+    try {
+      const { error: err } = await supabase.auth.resetPasswordForEmail(trimmed);
+      if (err) {
+        setError(friendlyError(err.message));
+      } else {
+        setError('');
+        setPassword('');
+        // Use a brief success message in the error field
+        setError('Password reset email sent! Check your inbox.');
+      }
+    } catch {
+      setError('Could not send reset email. Please try again.');
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -90,6 +141,16 @@ export default function LoginScreen() {
                     <Text style={styles.eyeText}>{showPassword ? 'Hide' : 'Show'}</Text>
                   </TouchableOpacity>
                 </View>
+
+                {isSignUp && (
+                  <Text style={styles.passwordHint}>Minimum 6 characters</Text>
+                )}
+
+                {!isSignUp && (
+                  <TouchableOpacity onPress={handleForgotPassword} style={styles.forgotBtn}>
+                    <Text style={styles.forgotText}>Forgot Password?</Text>
+                  </TouchableOpacity>
+                )}
 
                 {error ? <Text style={styles.errorText}>{error}</Text> : null}
 
@@ -148,6 +209,9 @@ const styles = StyleSheet.create({
   input: { flex: 1, paddingHorizontal: 18, paddingVertical: 16, fontSize: 16, color: colors.textPrimary },
   eyeBtn: { paddingHorizontal: 14, paddingVertical: 16 },
   eyeText: { color: colors.textTertiary, fontSize: 13, fontWeight: '600' },
+  passwordHint: { color: colors.textTertiary, fontSize: 12, marginBottom: 12, marginLeft: 4 },
+  forgotBtn: { alignSelf: 'flex-end', marginBottom: 12 },
+  forgotText: { color: colors.accent, fontSize: 13, fontWeight: '600' },
   errorText: { color: colors.error, fontSize: 14, textAlign: 'center', marginBottom: 16 },
   toggleBtn: { marginTop: 20, alignItems: 'center' },
   toggleText: { color: colors.textSecondary, fontSize: 14 },

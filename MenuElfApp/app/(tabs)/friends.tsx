@@ -218,6 +218,37 @@ export default function FriendsScreen() {
     ]);
   };
 
+  const [deletingAccount, setDeletingAccount] = useState(false);
+
+  const handleDeleteAccount = () => {
+    Alert.alert(
+      'Delete Account',
+      'This will permanently delete your account and all data. This cannot be undone. Are you sure?',
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'Delete Account',
+          style: 'destructive',
+          onPress: async () => {
+            setDeletingAccount(true);
+            try {
+              const res = await apiDelete('/profile/account');
+              if (res.ok) {
+                await supabase.auth.signOut();
+              } else {
+                Alert.alert('Error', 'Could not delete account. Please try again.');
+              }
+            } catch {
+              Alert.alert('Network error', 'Check your connection and try again.');
+            } finally {
+              setDeletingAccount(false);
+            }
+          },
+        },
+      ]
+    );
+  };
+
   const setupProfile = async () => {
     const username = setupUsername.trim().toLowerCase();
     if (!username) { setSetupError('Username is required'); return; }
@@ -587,6 +618,17 @@ export default function FriendsScreen() {
           <TouchableOpacity style={styles.logoutBtn} onPress={handleLogout}>
             <Text style={styles.logoutText}>Log Out</Text>
           </TouchableOpacity>
+          <TouchableOpacity
+            style={styles.deleteAccountBtn}
+            onPress={handleDeleteAccount}
+            disabled={deletingAccount}
+          >
+            {deletingAccount ? (
+              <ActivityIndicator size="small" color={colors.error} />
+            ) : (
+              <Text style={styles.deleteAccountText}>Delete Account</Text>
+            )}
+          </TouchableOpacity>
         </View>
       )}
     </SafeAreaView>
@@ -725,4 +767,9 @@ const styles = StyleSheet.create({
     backgroundColor: colors.background, alignItems: 'center',
   },
   logoutText: { color: colors.error, fontSize: 16, fontWeight: '600' },
+  deleteAccountBtn: {
+    marginHorizontal: spacing.screenPadding, marginTop: 8, marginBottom: 4, paddingVertical: 14,
+    alignItems: 'center',
+  },
+  deleteAccountText: { color: colors.textTertiary, fontSize: 13 },
 });
