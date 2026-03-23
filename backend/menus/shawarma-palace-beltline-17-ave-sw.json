@@ -1,0 +1,259 @@
+{
+  "restaurant": "shawarma-palace-beltline-17-ave-sw",
+  "parsed_at": "2026-03-23T17:51:18.840925+00:00",
+  "item_count": 36,
+  "items": [
+    {
+      "name": "Chicken WrapM: L: Beef Donair WrapM: L: Premixed Lamb & Beef WrapM: L:",
+      "price": 11.49,
+      "description": "None",
+      "category": "WRAPS",
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken WrapM: L:",
+      "price": 11.49,
+      "description": "None",
+      "category": "WRAPS",
+      "dietary_info": []
+    },
+    {
+      "name": "M:",
+      "price": 11.49,
+      "description": "None",
+      "category": "Chicken Wrap",
+      "dietary_info": []
+    },
+    {
+      "name": "L:",
+      "price": 12.99,
+      "description": "None",
+      "category": "Chicken Wrap",
+      "dietary_info": []
+    },
+    {
+      "name": "Beef Donair WrapM: L:",
+      "price": 11.49,
+      "description": "None",
+      "category": "Chicken Wrap",
+      "dietary_info": []
+    },
+    {
+      "name": "Premixed Lamb & Beef WrapM: L:",
+      "price": 11.49,
+      "description": "None",
+      "category": "Beef Donair Wrap",
+      "dietary_info": []
+    },
+    {
+      "name": "Mix Wrap- Chicken & Beef DonairM: L: Mix Wrap – Chicken, Premixed Lamb & BeefM: L: Trio Wrap (Contain all meats)M: L:",
+      "price": 11.99,
+      "description": "None",
+      "category": "Premixed Lamb & Beef Wrap",
+      "dietary_info": []
+    },
+    {
+      "name": "Mix Wrap- Chicken & Beef DonairM: L:",
+      "price": 11.99,
+      "description": "None",
+      "category": "Premixed Lamb & Beef Wrap",
+      "dietary_info": []
+    },
+    {
+      "name": "Mix Wrap – Chicken, Premixed Lamb & BeefM: L:",
+      "price": 11.99,
+      "description": "None",
+      "category": "Mix Wrap- Chicken & Beef Donair",
+      "dietary_info": []
+    },
+    {
+      "name": "Trio Wrap (Contain all meats)M: L:",
+      "price": 11.99,
+      "description": "None",
+      "category": "Mix Wrap – Chicken, Premixed Lamb & Beef",
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Platter Beef Donair Platter Premixed Lamb & Beef (No Donair)",
+      "price": 17.99,
+      "description": "None",
+      "category": "PLATTERS",
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Platter",
+      "price": 17.99,
+      "description": "None",
+      "category": "PLATTERS",
+      "dietary_info": []
+    },
+    {
+      "name": "Beef Donair Platter",
+      "price": 17.99,
+      "description": "None",
+      "category": "Chicken Platter",
+      "dietary_info": []
+    },
+    {
+      "name": "Premixed Lamb & Beef (No Donair)",
+      "price": 17.99,
+      "description": "None",
+      "category": "Beef Donair Platter",
+      "dietary_info": []
+    },
+    {
+      "name": "(No Donair)",
+      "price": 17.99,
+      "description": "None",
+      "category": "Premixed Lamb & Beef",
+      "dietary_info": []
+    },
+    {
+      "name": "Mix Platter – Chicken & Beef Donair",
+      "price": 18.99,
+      "description": "None",
+      "category": "Premixed Lamb & Beef",
+      "dietary_info": []
+    },
+    {
+      "name": "Mix Platter – Chicken, Premixed Lamb & Beef (No Donair)",
+      "price": 18.99,
+      "description": "None",
+      "category": "Mix Platter – Chicken & Beef Donair",
+      "dietary_info": []
+    },
+    {
+      "name": "Trio Platter (Contain all meats)",
+      "price": 18.99,
+      "description": "None",
+      "category": "Mix Platter – Chicken, Premixed Lamb & Beef",
+      "dietary_info": []
+    },
+    {
+      "name": "Grape Leaves (10 Pcs) Greek or Tabouli Salad Falafel Platter (includes 2 Pcs Of Grape Leaves)",
+      "price": 7.99,
+      "description": "None",
+      "category": "Vegetarian Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Grape Leaves (10 Pcs)",
+      "price": 7.99,
+      "description": "None",
+      "category": "Vegetarian Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Greek or Tabouli Salad",
+      "price": 8.99,
+      "description": "None",
+      "category": "Grape Leaves (10 Pcs)",
+      "dietary_info": []
+    },
+    {
+      "name": "Falafel Platter (includes 2 Pcs Of Grape Leaves)",
+      "price": 14.49,
+      "description": "None",
+      "category": "Greek or Tabouli Salad",
+      "dietary_info": []
+    },
+    {
+      "name": "(includes 2 Pcs Of Grape Leaves)",
+      "price": 14.49,
+      "description": "None",
+      "category": "Falafel Platter",
+      "dietary_info": []
+    },
+    {
+      "name": "Falafel WrapM: L:",
+      "price": 8.99,
+      "description": "None",
+      "category": "Falafel Platter",
+      "dietary_info": []
+    },
+    {
+      "name": "Garlic Patatoes M: L: Rice M: L: Hummus",
+      "price": 7.49,
+      "description": "None",
+      "category": "Side Orders",
+      "dietary_info": []
+    },
+    {
+      "name": "Garlic Patatoes M: L:",
+      "price": 7.49,
+      "description": "None",
+      "category": "Side Orders",
+      "dietary_info": []
+    },
+    {
+      "name": "Rice M: L:",
+      "price": 6.99,
+      "description": "None",
+      "category": "Garlic Patatoes",
+      "dietary_info": []
+    },
+    {
+      "name": "Hummus",
+      "price": 7.99,
+      "description": "None",
+      "category": "Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Salad Falafel/Each Baklava/Each",
+      "price": 14.49,
+      "description": "None",
+      "category": "Hummus",
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Salad",
+      "price": 14.49,
+      "description": "None",
+      "category": "Hummus",
+      "dietary_info": []
+    },
+    {
+      "name": "Falafel/Each",
+      "price": 1.25,
+      "description": "None",
+      "category": "Chicken Salad",
+      "dietary_info": []
+    },
+    {
+      "name": "/Each",
+      "price": 1.25,
+      "description": "None",
+      "category": "Falafel",
+      "dietary_info": []
+    },
+    {
+      "name": "Baklava/Each",
+      "price": 1.25,
+      "description": "None",
+      "category": "Falafel",
+      "dietary_info": []
+    },
+    {
+      "name": "Extra Pita Or Sauce/Each Garlic Sauce",
+      "price": 1.0,
+      "description": "None",
+      "category": "Baklava",
+      "dietary_info": []
+    },
+    {
+      "name": "Extra Pita Or Sauce/Each",
+      "price": 1.0,
+      "description": "None",
+      "category": "Baklava",
+      "dietary_info": []
+    },
+    {
+      "name": "Garlic Sauce",
+      "price": 7.99,
+      "description": "None",
+      "category": "Extra Pita Or Sauce",
+      "dietary_info": []
+    }
+  ]
+}

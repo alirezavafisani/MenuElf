@@ -2861,5 +2861,33 @@
     "rating": 4,
     "user_ratings_total": 51,
     "address": "3851 Manchester Rd SE, Calgary, AB T2G 3Z8, Canada"
+  },
+  "dosirak": {
+    "lat": 50.9669671,
+    "lng": -114.0734172,
+    "rating": 5,
+    "user_ratings_total": null,
+    "address": "9737 Macleod Trl #425, Calgary, AB T2J 0P6, Canada"
+  },
+  "fifth-avenue-sushi": {
+    "lat": 51.048592299999996,
+    "lng": -114.06182079999999,
+    "rating": 5,
+    "user_ratings_total": null,
+    "address": "118 5 Ave SE, Calgary, AB T2G 0E2, Canada"
+  },
+  "osmow-s-shawarma": {
+    "lat": 51.053118399999995,
+    "lng": -114.086109,
+    "rating": 5,
+    "user_ratings_total": null,
+    "address": "211 10 St NW, Calgary, AB T2N 1V5, Canada"
+  },
+  "shawarma-palace-beltline-17-ave-sw": {
+    "lat": 51.0380006,
+    "lng": -114.09147829999999,
+    "rating": 5,
+    "user_ratings_total": null,
+    "address": "1256 17 Ave SW, Calgary, AB T2T 0B8, Canada"
   }
 }
