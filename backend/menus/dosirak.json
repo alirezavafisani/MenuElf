@@ -1,0 +1,105 @@
+{
+  "restaurant": "dosirak",
+  "parsed_at": "2026-03-23T17:49:39.742077+00:00",
+  "item_count": 14,
+  "items": [
+    {
+      "name": "Dosirak",
+      "price": 18.5,
+      "description": "None",
+      "category": "Our Dosirak Menu: Flavors Made with Passion",
+      "dietary_info": []
+    },
+    {
+      "name": "Bibim Cup Bop",
+      "price": 14.5,
+      "description": "None",
+      "category": "Our Dosirak Menu: Flavors Made with Passion",
+      "dietary_info": []
+    },
+    {
+      "name": "Corndog Korean style corndog with sausage & mozzarella cheese",
+      "price": 6.0,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Corndog",
+      "price": 6.0,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Tteokbokki Rice cake, fish cake, egg",
+      "price": 12.0,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Tteokbokki",
+      "price": 12.0,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Kimchi Fried Rice Rice, stir-fried Kimchi, corn, egg, mozzarella cheese",
+      "price": 14.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Kimchi Fried Rice",
+      "price": 14.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Deep Fried Rice Cake​ with Gochujang sauce",
+      "price": 8.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Deep Fried Rice Cake​",
+      "price": 8.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Spring Roll 6 Pieces",
+      "price": 8.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Spring Roll",
+      "price": 8.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Sweet Potato Croquette 3 Pieces",
+      "price": 8.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    },
+    {
+      "name": "Sweet Potato Croquette",
+      "price": 8.5,
+      "description": "None",
+      "category": "Special Dishes",
+      "dietary_info": []
+    }
+  ]
+}

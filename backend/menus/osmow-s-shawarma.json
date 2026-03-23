@@ -1,0 +1,35 @@
+{
+  "restaurant": "osmow-s-shawarma",
+  "parsed_at": "2026-03-23T17:50:55.125920+00:00",
+  "item_count": 4,
+  "items": [
+    {
+      "name": "DISCOVER WRAPBOX*WRAP + CHOICE OF SIDESorder Noworder Now",
+      "price": 13.99,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "DISCOVER WRAPBOX*WRAP + CHOICE OF SIDES",
+      "price": 13.99,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "PLUS TAXPLUS TAXDAILYSPECIAL",
+      "price": 12.0,
+      "description": "None",
+      "category": "OUR SIGNATURE CREATIONS",
+      "dietary_info": []
+    },
+    {
+      "name": "PLUS TAXPLUS TAX",
+      "price": 12.0,
+      "description": "None",
+      "category": "OUR SIGNATURE CREATIONS",
+      "dietary_info": []
+    }
+  ]
+}

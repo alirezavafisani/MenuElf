@@ -1,0 +1,490 @@
+{
+  "restaurant": "fifth-avenue-sushi",
+  "parsed_at": "2026-03-23T17:49:47.803750+00:00",
+  "item_count": 69,
+  "items": [
+    {
+      "name": "Soup, salad, choice of salmon or tuna for 2 sushi and 4 rolls, and a choice of protein, beef, chicken, or pork.Plate B",
+      "price": 28.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Miso soup, salad, and a choice of salmon or tuna for 2 sushi, 2 sashimi, and 4 rolls.Plate A",
+      "price": 23.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Rice pan-fried in garlic oil and soy sauce.​ ​ V, GF, DFGarlic Fried Rice",
+      "price": 10.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Steamed rice with garnish. ​ V, GF, DFSteamed Rice",
+      "price": 4.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Description needed ​ V, DF ​Yakimeshi Rice",
+      "price": 16.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken cooked with teriyaki sauce. ​ GF, DFTeriyaki Chicken",
+      "price": 25.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Snapper cooked in garlic oil, coated in garlic butter and served with a lemon wedge. ​ GF, DFLemon Garlic Snapper",
+      "price": 28.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Salmon cooked with teriyaki sauce. ​ GF, DFTeriyaki Salmon",
+      "price": 30.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Rice bowl topped with salmon, tuna, crabmeat, ebi, tobiko, cucumber, avocado, carrots, and a poached egg.Poke Bowl",
+      "price": 20.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Steak cooked how you like it, served with wafu bifu sauce, and a ramen egg.Wafu Bifu 7oz Steak",
+      "price": 42.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Teriyaki steak cooked how you like it.Tepanyaki 7oz NY Steak",
+      "price": 40.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Kakuni braised pork cooked in teriyaki sauce. ​ DFKakuni Braised Pork",
+      "price": 28.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "8 pieces, 1 of each typeDeluxe",
+      "price": 20.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Folded fried egg on rice, with nori. ​ GF, DFTamago",
+      "price": 6.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Crab on rice, with nori.Gungkan Crab",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Smoked salmon on rice.Smoked Salmon",
+      "price": 7.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Fish eggs on rice with nori. ​ ​ ​Gungkan Tobikko",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Unagi Eel on rice. ​ DFUnagi Eel",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced shrimp on rice. ​ GF, DFShrimp",
+      "price": 6.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi grade tuna on top of rice. ​ GF, DFTuna",
+      "price": 6.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi grade salmon on top or rice. ​ GF, DFSalmon",
+      "price": 6.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "7 pieces, 1 of each type.Deluxe",
+      "price": 20.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Folded fried eggs.Tamago",
+      "price": 10.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Pieces of crab meat.​ ​ GF, DFCrab",
+      "price": 15.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced sushi grade eel. ​ GF, DFUnagi Eel",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced shrimp. ​ GF, DFEbi Shrimp",
+      "price": 7.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced sushi grade tuna. ​ GF, DFTuna",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced smoked salmon. ​ GF, DFSmoked Salmon",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sliced sushi grade salmon. ​ GF, DFSalmon",
+      "price": 7.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Soy paste based soup with green onions, tofu, wakame and togarashi. ​ DFMiso Soup",
+      "price": 3.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Spicy +",
+      "price": 1.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sub udon noodles +",
+      "price": 1.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi roll containing yam and avocado, topped with sesame seed. ​ V, GF, DFYam Avocado",
+      "price": 13.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Salmon sushi roll topped with siracha mayo, sesame seed, sesame oil, and green onion.Spicy Salmon",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Tuna sushi roll topped with siracha mayo, sesame seed, sesame oil, and green onion.Spicy Tuna",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Cucumber sushi roll, topped with sesame seed. ​ V, GF, DFCucumber",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Avocado sushi roll, topped with sesame seed. ​ V, GF, DFAvocado",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi roll containing crab, mayo, shrimp, tuna, salmon, and avocado. Rainbow",
+      "price": 15.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi roll containing shrimp and avocado, topped with unagi sauce, mayo, sesame seed, and tobiko.Dynamite",
+      "price": 13.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi roll containing crab meat, mayo, and avocado. Topped with sesame seed.California",
+      "price": 10.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Cured tuna sushi roll. ​ GF, DFTuna",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Cured salmon sushi roll. ​ GF, DFSalmon",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Deep fried, battered, California roll topped with tempura bits and siracha mayo.Crispy California",
+      "price": 15.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Sushi roll containing lobster, avocado and cucumber, topped with unagi sauce, sesame seed, and mayo.Lobster",
+      "price": 25.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "AAA beef filled gyoza served with gyoza sauce. ​ DFGyoza AAA Alberta Beef",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "A selection of battered veggies served with hot tempura sauce. ​ V, DFVegetable Tempura",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Greens and veggies, dressed with vinaigrette and topped with sesame seeds.​ ​ V, DFHouse Salad",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "5 pieces of crispy battered yam served with hot tempura sauce.​ V, DFYam Tempura",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "5 pieces of crispy battered shrimp served with hot tempura sauce.Shrimp Tempura",
+      "price": 10.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Cucumbers pickled in a vinaigrette. ​ V, DFPickled Cucumbers",
+      "price": 8.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Seaweed dressed with a vinaigrette. ​ V, DFSeaweed Salad",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Delicious young soy beans tossed in sesame oil and salt. ​ V, GF, DF ​Edamame",
+      "price": 7.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Deep fried balls of octopus served with mayo, yakisoba and garnish.​ ​ ​Takoyaki",
+      "price": 10.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Deep fried squid served with shredded veggies.Calamari",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "5 pieces of crispy battered shrimp, served with garlic aioli.Crispy Shrimp",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Tender pork cooked with teriyaki sauce. ​ DFKakuni Pork",
+      "price": 10.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Crispy deep fried tofu squares served with hot tempura sauce. ​ V, GF, DF ​Agedashi Tofu",
+      "price": 9.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Seasoned deep fried chicken served with spicy mayo.​ ​ GF, DFChicken Karaage",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "2 chicken skewers cooked with teriyaki sauce. ​ DFYakitori Chicken",
+      "price": 12.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "5 pieces of asparagus wrapped with beef. ​ DFYakiniku Beef",
+      "price": 14.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Seared tuna with a sauce of gyoza and sushi vinegar. ​ DFTuna Tataki",
+      "price": 15.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Drinks Soda.............. Coke, Sprite, Ginger Ale Juice.............. Cranberry, Orange, Iced Tea Tea..............",
+      "price": 3.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Soda.............. Coke, Sprite, Ginger Ale Juice.............. Cranberry, Orange, Iced Tea Tea..............",
+      "price": 3.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Ask server for available flavoursIce Cream ScoopsDessert",
+      "price": 6.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Ask server for available flavoursIce Cream Scoops",
+      "price": 6.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Noodles with or without veggies tossed in yakisoba sauce.​ ​ DF, VVegetable or plain",
+      "price": 15.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Noodles, veggies, and beef tossed in yakisoba sauce. ​ DFBeef",
+      "price": 19.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Noodles, veggies, and shrimp tossed in yakisoba sauce. ​ DFShrimp",
+      "price": 18.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    },
+    {
+      "name": "Noodles, veggies, and chicken tossed in yakisoba sauce. ​ DFChicken",
+      "price": 18.0,
+      "description": "None",
+      "category": "Menu",
+      "dietary_info": []
+    }
+  ]
+}
