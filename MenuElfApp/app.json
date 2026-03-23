@@ -6,7 +6,7 @@
         "orientation": "portrait",
         "icon": "./assets/images/icon.png",
         "scheme": "menuelfapp",
-        "userInterfaceStyle": "automatic",
+        "userInterfaceStyle": "light",
         "newArchEnabled": true,
         "ios": {
             "supportsTablet": false,
@@ -62,7 +62,7 @@
                     "resizeMode": "contain",
                     "backgroundColor": "#ffffff",
                     "dark": {
-                        "backgroundColor": "#000000"
+                        "backgroundColor": "#ffffff"
                     }
                 }
             ]
