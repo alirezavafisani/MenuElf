@@ -298,7 +298,7 @@
     "lng": -114.22293,
     "rating": 4.4,
     "user_ratings_total": 77,
-    "address": "Calgary Farmers’ Market West, 25 Greenbriar Dr NW, Calgary, AB T3B 5X4, Canada"
+    "address": "Calgary Farmers\u2019 Market West, 25 Greenbriar Dr NW, Calgary, AB T3B 5X4, Canada"
   },
   "blowersgrafton": {
     "lat": 51.033595,
@@ -3197,5 +3197,47 @@
     "rating": 4.7,
     "user_ratings_total": null,
     "address": "1040 12 Ave SW, Calgary, AB T2R 0J6, Canada"
+  },
+  "bori_korean": {
+    "lat": 51.1016987,
+    "lng": -114.1394267,
+    "rating": 4.5,
+    "user_ratings_total": 381,
+    "address": "3616 52 Ave NW, Calgary, AB T2L 1V9, Canada"
+  },
+  "chef_express": {
+    "lat": 51.0152231,
+    "lng": -114.1753414,
+    "rating": 5,
+    "user_ratings_total": 1,
+    "address": "7337 Sierra Morena Blvd SW Unit 8, Calgary, AB T3H 3V4, Canada"
+  },
+  "shawarma_palace": {
+    "lat": 51.0380006,
+    "lng": -114.0914783,
+    "rating": 5,
+    "user_ratings_total": 580,
+    "address": "1256 17 Ave SW, Calgary, AB T2T 0B8, Canada"
+  },
+  "thai_sa_on": {
+    "lat": 51.04331209999999,
+    "lng": -114.0709507,
+    "rating": 4.4,
+    "user_ratings_total": 475,
+    "address": "351 10 Ave SW, Calgary, AB T2R 0A5, Canada"
+  },
+  "the_garage": {
+    "lat": 51.0477832,
+    "lng": -114.0674208,
+    "rating": 4.1,
+    "user_ratings_total": 1147,
+    "address": "250 6 Ave SW #181, Calgary, AB T2P 3H7, Canada"
+  },
+  "jerusalemshawarma": {
+    "lat": 51.0376241,
+    "lng": -114.0832642,
+    "rating": 4.6,
+    "user_ratings_total": 3655,
+    "address": "923 17 Ave SW, Calgary, AB T2T 5R6, Canada"
   }
 }

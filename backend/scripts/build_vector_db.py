@@ -142,8 +142,8 @@ def main():
     print("Generating embeddings...")
     embeddings = build_embeddings(menu_index)
 
-    # Save embeddings as compressed npz (stays under GitHub 100MB limit)
-    np.savez_compressed(EMBEDDINGS_FILE, embeddings=embeddings)
+    # Save embeddings as compressed npz in float16 (stays under GitHub 100MB limit)
+    np.savez_compressed(EMBEDDINGS_FILE, embeddings=embeddings.astype(np.float16))
     print(f"Saved {EMBEDDINGS_FILE}")
     print(f"Built embeddings for {len(menu_index)} items. Saved to menu_embeddings.npz")
 
