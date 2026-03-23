@@ -107,5 +107,104 @@
       "spice_tolerance": 0.2
     },
     "is_active": true
+  },
+  {
+    "question_index": 6,
+    "option_a_image_url": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&q=80",
+    "option_a_label": "Fluffy Japanese Souffle Pancakes",
+    "option_a_signals": {
+      "sweetness_preference": 0.9,
+      "cuisine_preferences.japanese": 0.6,
+      "meal_size_preference": 0.3
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1584208632869-05fa2b2a5934?w=800&q=80",
+    "option_b_label": "Loaded Breakfast Burrito",
+    "option_b_signals": {
+      "sweetness_preference": 0.15,
+      "cuisine_preferences.mexican": 0.7,
+      "meal_size_preference": 0.85,
+      "protein_preference.beef": 0.6
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 7,
+    "option_a_image_url": "https://images.unsplash.com/photo-1582878826629-29b7ad1cdc43?w=800&q=80",
+    "option_a_label": "Rich Beef Pho",
+    "option_a_signals": {
+      "texture_preferences.soupy": 0.9,
+      "cuisine_preferences.vietnamese": 0.85,
+      "protein_preference.beef": 0.7,
+      "spice_tolerance": 0.5
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&q=80",
+    "option_b_label": "Mediterranean Grain Bowl",
+    "option_b_signals": {
+      "meal_size_preference": 0.3,
+      "cuisine_preferences.mediterranean": 0.85,
+      "protein_preference.vegetarian": 0.6,
+      "adventurousness": 0.5
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 8,
+    "option_a_image_url": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800&q=80",
+    "option_a_label": "Butter Chicken with Garlic Naan",
+    "option_a_signals": {
+      "cuisine_preferences.indian": 0.9,
+      "spice_tolerance": 0.6,
+      "texture_preferences.creamy": 0.8,
+      "protein_preference.chicken": 0.8
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=800&q=80",
+    "option_b_label": "Wood Fired Margherita Pizza",
+    "option_b_signals": {
+      "cuisine_preferences.italian": 0.9,
+      "price_comfort": 0.4,
+      "texture_preferences.crispy": 0.7,
+      "adventurousness": 0.3
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 9,
+    "option_a_image_url": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=800&q=80",
+    "option_a_label": "Salmon Sashimi Platter",
+    "option_a_signals": {
+      "protein_preference.fish": 0.95,
+      "cuisine_preferences.japanese": 0.8,
+      "adventurousness": 0.8,
+      "price_comfort": 0.7
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=800&q=80",
+    "option_b_label": "Classic Cheeseburger and Fries",
+    "option_b_signals": {
+      "protein_preference.beef": 0.85,
+      "cuisine_preferences.american": 0.85,
+      "texture_preferences.crispy": 0.6,
+      "adventurousness": 0.15
+    },
+    "is_active": true
+  },
+  {
+    "question_index": 10,
+    "option_a_image_url": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=800&q=80",
+    "option_a_label": "Octopus Tacos with Chipotle Crema",
+    "option_a_signals": {
+      "adventurousness": 0.95,
+      "protein_preference.fish": 0.6,
+      "cuisine_preferences.mexican": 0.7,
+      "spice_tolerance": 0.7
+    },
+    "option_b_image_url": "https://images.unsplash.com/photo-1553909489-cd47e0907980?w=800&q=80",
+    "option_b_label": "Chicken Caesar Wrap",
+    "option_b_signals": {
+      "adventurousness": 0.1,
+      "protein_preference.chicken": 0.8,
+      "cuisine_preferences.american": 0.6,
+      "meal_size_preference": 0.4
+    },
+    "is_active": true
   }
 ]

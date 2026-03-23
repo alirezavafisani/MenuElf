@@ -170,32 +170,34 @@ def clean_tables():
     _reset_tables()
     # Re-assert our fake supabase client (another test module may have overwritten it)
     _router_mod._supabase_client = _FakeSupabase()
+    # Clear onboarding questions cache so fresh data is loaded from JSON
+    _router_mod._onboarding_questions_cache = None
     yield
     _reset_tables()
 
 
 def _onboarding_all_a():
-    """All 5 answers choosing option A (spicy/adventurous)."""
+    """All 10 answers choosing option A (spicy/adventurous)."""
     return {
         "answers": [
             {"question_index": i, "chosen_option": "a"}
-            for i in range(1, 6)
+            for i in range(1, 11)
         ]
     }
 
 
 def _onboarding_all_b():
-    """All 5 answers choosing option B (comfort/mild)."""
+    """All 10 answers choosing option B (comfort/mild)."""
     return {
         "answers": [
             {"question_index": i, "chosen_option": "b"}
-            for i in range(1, 6)
+            for i in range(1, 11)
         ]
     }
 
 
 def _onboarding_mixed():
-    """Mix of A and B answers."""
+    """Mix of A and B answers (10 questions)."""
     return {
         "answers": [
             {"question_index": 1, "chosen_option": "a"},
@@ -203,6 +205,21 @@ def _onboarding_mixed():
             {"question_index": 3, "chosen_option": "a"},
             {"question_index": 4, "chosen_option": "b"},
             {"question_index": 5, "chosen_option": "a"},
+            {"question_index": 6, "chosen_option": "b"},
+            {"question_index": 7, "chosen_option": "a"},
+            {"question_index": 8, "chosen_option": "b"},
+            {"question_index": 9, "chosen_option": "a"},
+            {"question_index": 10, "chosen_option": "b"},
+        ]
+    }
+
+
+def _onboarding_minimum():
+    """Only 5 answers (minimum allowed)."""
+    return {
+        "answers": [
+            {"question_index": i, "chosen_option": "a"}
+            for i in range(1, 6)
         ]
     }
 
@@ -467,7 +484,7 @@ def test_get_onboarding_questions():
     resp = client.get("/onboarding/questions")
     assert resp.status_code == 200
     questions = resp.json()["questions"]
-    assert len(questions) == 5
+    assert len(questions) == 10
 
     for q in questions:
         assert "question_index" in q
@@ -495,7 +512,7 @@ def test_scoring_real_data_all_a():
     questions_path = os.path.join(os.path.dirname(__file__), "..", "data", "onboarding_questions.json")
     with open(questions_path) as f:
         questions = _json.load(f)
-    assert len(questions) == 5
+    assert len(questions) == 10
 
     # Feed signals into the scoring engine directly
     from routers.user_intelligence import _compute_taste_profile
@@ -505,9 +522,9 @@ def test_scoring_real_data_all_a():
     profile = _compute_taste_profile(answers)
 
     # All-A picks spicy + adventurous foods
-    assert profile["spice_tolerance"] >= 0.75
+    assert profile["spice_tolerance"] >= 0.65  # avg across 7 questions with spice signal
     assert profile["adventurousness"] >= 0.75
-    # Beef is chosen in Q2 (0.9) and Q4 (0.6) and Q5 (0.95) → avg > 0.8
+    # Beef is chosen in Q2 (0.9), Q4 (0.6), Q5 (0.95), Q7 (0.7) → avg > 0.7
     assert isinstance(profile.get("protein_preference"), dict)
     assert profile["protein_preference"]["beef"] > 0.7
 
@@ -529,12 +546,66 @@ def test_scoring_real_data_all_b():
     answers = [OnboardingAnswer(question_index=q["question_index"], chosen_option="b") for q in questions]
     profile = _compute_taste_profile(answers)
 
-    # All-B picks comfort food — low spice
+    # All-B picks comfort food — low spice (Q1:0.15, Q3:0.1, Q4:0.15, Q5:0.2 → avg 0.15)
     assert profile["spice_tolerance"] <= 0.3
     # Fish from Q2 (0.9) + Q4 (0.7) → avg = 0.8
     assert isinstance(profile.get("protein_preference"), dict)
     assert profile["protein_preference"]["fish"] >= 0.7
-    # Vegetarian from Q3 (0.7) + Q5 (0.9) → avg = 0.8
-    assert profile["protein_preference"]["vegetarian"] >= 0.7
-    # Price comfort from Q2 (implied none), Q4 (0.95) → should be elevated
+    # Vegetarian from Q3 (0.7) + Q5 (0.9) + Q7 (0.6) → avg ≈ 0.73
+    assert profile["protein_preference"]["vegetarian"] >= 0.6
+    # Price comfort from Q4 (0.95) + Q8 (0.4) → avg ≈ 0.675
     assert profile["price_comfort"] > 0.5
+
+
+# ---------------------------------------------------------------------------
+# 14. Test minimum 5 answers still works
+# ---------------------------------------------------------------------------
+
+def test_onboarding_minimum_5_answers():
+    """5 answers (the minimum) should be accepted."""
+    resp = client.post(
+        "/onboarding/complete",
+        json=_onboarding_minimum(),
+        headers={"x-user-id": USER_A},
+    )
+    assert resp.status_code == 200
+    profile = resp.json()["profile"]
+    assert profile["onboarding_completed"] is True
+    assert profile["spice_tolerance"] >= 0.75  # All A's Q1-5 are spicy
+
+
+# ---------------------------------------------------------------------------
+# 15. Test 10 answers works
+# ---------------------------------------------------------------------------
+
+def test_onboarding_full_10_answers():
+    """10 answers should be accepted and produce a valid profile."""
+    resp = client.post(
+        "/onboarding/complete",
+        json=_onboarding_all_a(),
+        headers={"x-user-id": USER_A},
+    )
+    assert resp.status_code == 200
+    profile = resp.json()["profile"]
+    assert profile["onboarding_completed"] is True
+    # With 10 questions, we get more cuisine data
+    assert isinstance(profile.get("cuisine_preferences"), dict)
+    # Q6A signals japanese, Q8A signals indian, Q9A signals japanese again
+    assert profile["cuisine_preferences"]["japanese"] > 0.5
+
+
+# ---------------------------------------------------------------------------
+# 16. Test that >10 answers is rejected
+# ---------------------------------------------------------------------------
+
+def test_onboarding_too_many_answers():
+    """11 answers should be rejected (max_length=10)."""
+    resp = client.post(
+        "/onboarding/complete",
+        json={"answers": [
+            {"question_index": i, "chosen_option": "a"}
+            for i in range(1, 12)
+        ]},
+        headers={"x-user-id": USER_A},
+    )
+    assert resp.status_code == 422

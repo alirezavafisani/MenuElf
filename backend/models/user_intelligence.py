@@ -126,4 +126,4 @@ class OnboardingAnswer(BaseModel):
 
 
 class OnboardingRequest(BaseModel):
-    answers: List[OnboardingAnswer] = Field(..., min_length=5, max_length=5)
+    answers: List[OnboardingAnswer] = Field(..., min_length=5, max_length=10)
