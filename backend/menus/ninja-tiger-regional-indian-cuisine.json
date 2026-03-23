@@ -1,0 +1,462 @@
+{
+  "restaurant": "ninja-tiger-regional-indian-cuisine",
+  "parsed_at": "2026-03-23T18:35:16.288118+00:00",
+  "item_count": 65,
+  "items": [
+    {
+      "name": "Streets of Bombay",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Jhol Momo /each",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Almonds 65",
+      "price": 11.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Spring Rolls /each",
+      "price": 3.25,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Yogurt - Ricotta ke Kebabs /each",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Jumbo Prawn /each",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Dahi Puri /each",
+      "price": 1.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Corn on the cob /each",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Sidd’s chakna chaat",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Edamame & chestnut Kulcha",
+      "price": 21.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Ramen",
+      "price": 23.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kolambi (pawns) curry",
+      "price": 29.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kekda Bhaat",
+      "price": 31.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Pizza with Crab",
+      "price": 29.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Marathwada Chicken/Goat curry /24",
+      "price": 20.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kolhapuri Mutton leg Raan",
+      "price": 149.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Vada Paav",
+      "price": 12.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Khada Paav Bhaji",
+      "price": 15.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Missal Paav",
+      "price": 16.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Sabudana wada",
+      "price": 12.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Paneer Koliwada",
+      "price": 16.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Dahi Wada",
+      "price": 15.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kheema Fry & Paav",
+      "price": 17.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Thecha Chicken Tikka",
+      "price": 18.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Laal Tikkat Lamb Kebab",
+      "price": 22.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Veg Thaali",
+      "price": 27.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Vegan Thaali",
+      "price": 28.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Thali",
+      "price": 29.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Fish Thaali",
+      "price": 33.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Fusion Thali",
+      "price": 30.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mutton Thali",
+      "price": 35.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tiger Thali",
+      "price": 89.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tarri Chicken Or Tarri Mutton /",
+      "price": 18.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kaala Chicken or Kaala Mutton /",
+      "price": 18.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kolhapuri Chicken or Kolhapuri Mutton /",
+      "price": 18.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Sukkah Or Mutton Sukkah /",
+      "price": 19.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Butter Chicken",
+      "price": 19.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Malvani fish curry",
+      "price": 19.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Konkani Prawn masala",
+      "price": 20.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tawa Fried Fish",
+      "price": 18.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Veg Maratha Kofta",
+      "price": 18.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Baigan bharit",
+      "price": 17.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Flower - Batata",
+      "price": 16.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Shrikhand Puri",
+      "price": 16.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": 19.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Soya Chaap Masala",
+      "price": 20.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bibbo Masala",
+      "price": 22.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": 11.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Nuggets",
+      "price": 11.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "French Fries",
+      "price": 8.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bhakri",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tawa Roti",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tandoor Roti",
+      "price": 3.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Naan",
+      "price": 4.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Garlic naan",
+      "price": 4.5,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Cheese Naan",
+      "price": 11.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Chicken Alni Biryani",
+      "price": 20.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mutton Alni Biryani",
+      "price": 23.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Basmati Rice",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Warm apple and Cinnamon cake",
+      "price": 9.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Falooda",
+      "price": 11.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mango Tres Leches",
+      "price": 9.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Dates fudge pudding",
+      "price": 8.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Scoop of Ice cream /",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Modak /each",
+      "price": 6.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

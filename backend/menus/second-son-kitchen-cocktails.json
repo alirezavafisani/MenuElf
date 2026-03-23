@@ -1,0 +1,63 @@
+{
+  "restaurant": "second-son-kitchen-cocktails",
+  "parsed_at": "2026-03-23T18:37:04.773417+00:00",
+  "item_count": 8,
+  "items": [
+    {
+      "name": "Food Menu",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Drink Menu",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Functions",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "About",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Contact",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Gallery",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Book a Table",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Gift Cards",
+      "price": null,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}
