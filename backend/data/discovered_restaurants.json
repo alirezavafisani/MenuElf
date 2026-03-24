@@ -427,7 +427,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Alo Viet Kitchen",
@@ -446,7 +446,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Aloha Modern Kitchen",
@@ -465,7 +465,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Alpha Bar & Restaurant",
@@ -485,7 +485,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Alumni Sandwiches",
@@ -550,7 +550,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed"
   },
   {
     "name": "Ambarsariya kitchen + Grill",
@@ -570,7 +570,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Amihan Grill + Bakeshop",
@@ -614,7 +614,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Analog Coffee 17 Ave",
@@ -636,7 +636,7 @@
       "store",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed"
   },
   {
     "name": "Analog Coffee Inglewood",
@@ -655,7 +655,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed"
   },
   {
     "name": "Anatolia Turkish Foods - Calgary Main Location",
@@ -675,7 +675,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Anh Tu's Kitchen",
@@ -695,7 +695,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Annabelle's Kitchen Downtown",
@@ -718,7 +718,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Annabelle’s Kitchen Marda Loop",
@@ -738,7 +738,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Apple Eatery",
@@ -760,7 +760,7 @@
       "service",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Apprentice Cafe",
@@ -830,7 +830,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Ari Sushi",

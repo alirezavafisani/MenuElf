@@ -1,0 +1,1428 @@
+{
+  "restaurant": "anh-tu-s-kitchen",
+  "parsed_at": "2026-03-24T09:25:09.171588+00:00",
+  "item_count": 203,
+  "items": [
+    {
+      "name": "201. Two Spring rolls Hai cuốn Chả giò",
+      "price": 5.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "201. Two Spring rolls",
+      "price": 5.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "201B. Four Spring rollsBốn cuốn Chả giò",
+      "price": 10.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "201B. Four Spring rolls",
+      "price": 10.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "202. Two Popiah rollsHai cuốn Bò bía",
+      "price": 5.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "202. Two Popiah rolls",
+      "price": 5.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "202B. Four Popiah rollsBốn cuốn Bò bía",
+      "price": 10.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "202B. Four Popiah rolls",
+      "price": 10.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "204. Two Spring rolls with crispy tofuHai Gỏi cuốn đậu hũ",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "204. Two Spring rolls with crispy tofu",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "205. Two Spring rolls with boil shrimpHai Gỏi cuốn tôm",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "205. Two Spring rolls with boil shrimp",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "206. Two Spring rolls with grilled porkHai Gỏi cuốn nem nướng",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "206. Two Spring rolls with grilled pork",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "207. Fried Chicken Wings with salt & pepperCánh gà chiên",
+      "price": 13.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "207. Fried Chicken Wings with salt & pepper",
+      "price": 13.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "208. Fried Chicken Wings Fish SauceCánh gà chiên nước mắm",
+      "price": 13.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "208. Fried Chicken Wings Fish Sauce",
+      "price": 13.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "209. French FriesKhoai tây chiên",
+      "price": 7.0,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "209. French Fries",
+      "price": 7.0,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "210. Fried Fish BallsCá viên chiên",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "210. Fried Fish Balls",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "211. Fried Rice Flour CakeBột chiên",
+      "price": 12.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "211. Fried Rice Flour Cake",
+      "price": 12.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "212. Fried Cheese WontonHoành thánh phô mai chiên",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "212. Fried Cheese Wonton",
+      "price": 8.5,
+      "description": "None",
+      "category": "Appetizers",
+      "dietary_info": []
+    },
+    {
+      "name": "302. Papaya Salad With Shredded Beef JerkyGỏi đu đủ khô bò",
+      "price": 12.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "302. Papaya Salad With Shredded Beef Jerky",
+      "price": 12.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "303. Mango SaladGỏi xoài",
+      "price": 12.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "303. Mango Salad",
+      "price": 12.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "304. Salad With Duck FilletGỏi vit",
+      "price": 25.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "304. Salad With Duck Fillet",
+      "price": 25.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "305. Pad Thai (Chicken / Shrimp)Rice noodles stir fried with variety of vegetables",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "305. Pad Thai (Chicken / Shrimp)",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "306. Pad Siew (Chicken / Shrimp)Caramelized garlic rice noodles infuse with chargrilled flavor",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "306. Pad Siew (Chicken / Shrimp)",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "307. Stir-Fry Egg NoodleTraditional stir fry egg noodle dish",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "307. Stir-Fry Egg Noodle",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "308. Cashew DeluxeTangy & savory cashew stir fried with vegetables",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "308. Cashew Deluxe",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "309. Lemongrass ChickenLemongrass chicken sauteed with veggies & served with rice",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "309. Lemongrass Chicken",
+      "price": 18.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "310. Thai Satay* ChickenSpicy and savory sauteed vegetables with chicken",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "310. Thai Satay* Chicken",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "311. Thai Satay* BeefSpicy and savory sauteed vegetables with beef",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "311. Thai Satay* Beef",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "312. Thai Green Curry With RiceNutritious and intensely savory thai green curry",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "312. Thai Green Curry With Rice",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "313. Thai Red Curry With RiceNutritious and intensely savory thai red curry",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "313. Thai Red Curry With Rice",
+      "price": 17.0,
+      "description": "None",
+      "category": "Thai Cuisine",
+      "dietary_info": []
+    },
+    {
+      "name": "Banh MiSmall: | Large",
+      "price": 7.5,
+      "description": "None",
+      "category": "A must-try",
+      "dietary_info": []
+    },
+    {
+      "name": "Small: | Large",
+      "price": 7.5,
+      "description": "None",
+      "category": "Banh Mi",
+      "dietary_info": []
+    },
+    {
+      "name": "501. Pho Special *R. / L:Phở Đặc Biệt: Tái (Rare Beef), Nạm (Flank), Gân (Tendon), Bò Viên (Meatballs)",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "501. Pho Special *R. / L:",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "R. / L:",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "502. Special Chicken PhoR: / L:Phở Gà Đặc Biệt",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "502. Special Chicken PhoR: / L:",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "R: / L:",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "503. Bulalo PhoR: / L:Phở Sườn Bò",
+      "price": 22.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "503. Bulalo PhoR: / L:",
+      "price": 22.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "504. Satay PhoR: / L:Phở Sa tế",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "504. Satay PhoR: / L:",
+      "price": 15.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "505. Rare Beef PhoR: / L:Phở Tái",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "505. Rare Beef PhoR: / L:",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "506. Rare Beef Meatballs PhoR: / L:Phở Tái Bò Viên",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "506. Rare Beef Meatballs PhoR: / L:",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "507. Rare Beef Flank PhoR: / L:Phở Tái Nạm",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "507. Rare Beef Flank PhoR: / L:",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "508. Meatballs PhoR: / L:Phở Bò Viên",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "508. Meatballs PhoR: / L:",
+      "price": 14.0,
+      "description": "None",
+      "category": "Regular | Large",
+      "dietary_info": []
+    },
+    {
+      "name": "401. Special Vermicelli Bowl* With Spring Rolls, Grilled Pork & MeatballsBún Đặc Biệt* Chả Giò, Thịt Nướng, Nem Nướng",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "401. Special Vermicelli Bowl* With Spring Rolls, Grilled Pork & Meatballs",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "402 Grilled Chicken VermicelliBún Gà Nướng",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "402 Grilled Chicken Vermicelli",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "403. Grilled Beef VermicelliBún Bò Nướng",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "403. Grilled Beef Vermicelli",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "404. Grilled Pork VermicelliBún Thịt Nướng",
+      "price": 14.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "404. Grilled Pork Vermicelli",
+      "price": 14.0,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "405. Grilled Pork Vermicelli With Spring RollsBún Thịt Nướng Chả Giò",
+      "price": 15.5,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "405. Grilled Pork Vermicelli With Spring Rolls",
+      "price": 15.5,
+      "description": "None",
+      "category": "Vermicelli Bowl",
+      "dietary_info": []
+    },
+    {
+      "name": "406. Hue Style Beef Noodle SoupBún Bò Huế",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "406. Hue Style Beef Noodle Soup",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "407. Bamboo Shoot Noodle Soup With Duck (Or Chicken)Bún Măng (Vịt / Gà)",
+      "price": 18.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "407. Bamboo Shoot Noodle Soup With Duck (Or Chicken)",
+      "price": 18.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "410. Bamboo Shoot Noodle Soup With Duck (Or Chicken) + SaladBún Măng Gỏi (Vịt / Gà)",
+      "price": 28.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "410. Bamboo Shoot Noodle Soup With Duck (Or Chicken) + Salad",
+      "price": 28.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "408. Fermented Fish Noodle SoupBún Mắm",
+      "price": 18.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "408. Fermented Fish Noodle Soup",
+      "price": 18.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "409. Shrimp & Crab Paste Noodle SoupBún Riêu",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "409. Shrimp & Crab Paste Noodle Soup",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "411. Thick Rice Noodle With Crab MeatBánh Canh Cua",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "411. Thick Rice Noodle With Crab Meat",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "509. Vietnamese Pork Noodle Soup Or Without Soup",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Noodle Soup",
+      "dietary_info": []
+    },
+    {
+      "name": "601. Broken Rice Special",
+      "price": 17.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "602. Pork Chop, Shredded Pork With RiceCơm Sườn Bì",
+      "price": 14.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "602. Pork Chop, Shredded Pork With Rice",
+      "price": 14.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "603. Pork Chop, Shredded Pork, Baked egg meatloaf With RiceCơm Sườn Bì Chả",
+      "price": 15.5,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "603. Pork Chop, Shredded Pork, Baked egg meatloaf With Rice",
+      "price": 15.5,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "604. Shaken Beef With RiceCơm Bò Lúc Lắc",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "604. Shaken Beef With Rice",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "605. Grilled Lemongrass Chicken With RiceCơm Gà Nướng Xả",
+      "price": 15.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "605. Grilled Lemongrass Chicken With Rice",
+      "price": 15.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "606. Crispy Chicken with Fire RiceCơm Gà Xối Mỡ",
+      "price": 15.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "606. Crispy Chicken with Fire Rice",
+      "price": 15.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "607. Seafood Fried NoodleMì Xào Hải Sản",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "607. Seafood Fried Noodle",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "608. Beef Fried NoodleMì Xào Bò",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "608. Beef Fried Noodle",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "609. Yan Chow Fried RiceCơm Chiên Dương Châu",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "609. Yan Chow Fried Rice",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "610. Chargrilled pork chop with Fried RiceCơm Chiên Sườn Miếng",
+      "price": 19.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "610. Chargrilled pork chop with Fried Rice",
+      "price": 19.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "611. Seafood Fried RiceCơm Chiên Hải Sản",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "611. Seafood Fried Rice",
+      "price": 16.0,
+      "description": "None",
+      "category": "Vietnam Rice",
+      "dietary_info": []
+    },
+    {
+      "name": "701. Steam Clams With Lemongrass and Thai SauceNghêu Hấp Sả Hấp Thái",
+      "price": 25.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "701. Steam Clams With Lemongrass and Thai Sauce",
+      "price": 25.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "702. Snails With Salted Egg SauceỐc Hương Trứng Muối",
+      "price": 35.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "702. Snails With Salted Egg Sauce",
+      "price": 35.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "703. Snails With Garlic Butter SauceỐc Hương Bơ Tỏi",
+      "price": 30.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "703. Snails With Garlic Butter Sauce",
+      "price": 30.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "704. Sea Snails In Coconut MilkỐc Len Xào Dừa",
+      "price": 20.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "704. Sea Snails In Coconut Milk",
+      "price": 20.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "705. Grilled Mussles With Scallion OilChem Chép Nướng Mỡ Hành",
+      "price": 35.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "705. Grilled Mussles With Scallion Oil",
+      "price": 35.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "706. Grilled Mussles With CheeseChem Chép Nướng Phô Mai",
+      "price": 35.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "706. Grilled Mussles With Cheese",
+      "price": 35.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "707. Vietnamese Stew With Organ MeatsPhá Lấu",
+      "price": 17.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "707. Vietnamese Stew With Organ Meats",
+      "price": 17.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "708. Dodging BeefBò Né",
+      "price": 17.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "708. Dodging Beef",
+      "price": 17.0,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "709. Hard Boiled Duck EmbryoTrứng Vịt Lộn",
+      "price": 6.5,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "709. Hard Boiled Duck Embryo",
+      "price": 6.5,
+      "description": "None",
+      "category": "Special dish",
+      "dietary_info": []
+    },
+    {
+      "name": "Soda (each)Coca Cola, Diet Coke, Pepsi, Diet Pepsi, Sprite",
+      "price": 2.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Soda (each)",
+      "price": 2.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "(each)",
+      "price": 2.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Fruit Tea (Add boba +)Trà Trái Cây",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Fruit Tea (Add boba +)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "(Add boba +)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Peach Tea (Add boba +)Trà Đào",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Peach Tea (Add boba +)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Strawberry Tea (Add boba +)Trà Dâu",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Strawberry Tea (Add boba +)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Lemon Tea (Add boba +)Trà Chanh",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Lemon Tea (Add boba +)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Lychee Tea (Add boba +)Trà Vải",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Lychee Tea (Add boba +)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Vietnamese Iced Coffee With MilkCafe Sữa Đá",
+      "price": 5.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Vietnamese Iced Coffee With Milk",
+      "price": 5.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Vietnamese Iced Black CoffeeCafe Đen",
+      "price": 5.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Vietnamese Iced Black Coffee",
+      "price": 5.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Salted CoffeeCafe Muối",
+      "price": 6.5,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Salted Coffee",
+      "price": 6.5,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Smoothie (Avocado / Strawberry / Mango)Sinh Tố (Bơ / Dâu / Xoài)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Smoothie (Avocado / Strawberry / Mango)",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Vietnamese Milk Jelly DessertChè Khúc Bạch",
+      "price": 6.5,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Vietnamese Milk Jelly Dessert",
+      "price": 6.5,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "Signature DrinkVietnamese Iced Coffee With Milk BeerHeineikenKoKaneeCoors LightCorona",
+      "price": 6.0,
+      "description": "None",
+      "category": "Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "BeerHeineikenKoKaneeCoors LightCorona",
+      "price": 6.0,
+      "description": "None",
+      "category": "Signature Drink",
+      "dietary_info": []
+    },
+    {
+      "name": "HeineikenKoKaneeCoors LightCorona",
+      "price": 6.0,
+      "description": "None",
+      "category": "Beer",
+      "dietary_info": []
+    },
+    {
+      "name": "Heineiken",
+      "price": 6.0,
+      "description": "None",
+      "category": "Beer",
+      "dietary_info": []
+    },
+    {
+      "name": "KoKanee",
+      "price": 6.0,
+      "description": "None",
+      "category": "Beer",
+      "dietary_info": []
+    },
+    {
+      "name": "Coors Light",
+      "price": 6.0,
+      "description": "None",
+      "category": "Beer",
+      "dietary_info": []
+    },
+    {
+      "name": "Corona",
+      "price": 6.0,
+      "description": "None",
+      "category": "Beer",
+      "dietary_info": []
+    },
+    {
+      "name": "For 2 peopleFor 4 people",
+      "price": 35.0,
+      "description": "None",
+      "category": "Seafood Combo",
+      "dietary_info": []
+    },
+    {
+      "name": "For 2 people",
+      "price": 35.0,
+      "description": "None",
+      "category": "Seafood Combo",
+      "dietary_info": []
+    },
+    {
+      "name": "For 4 people",
+      "price": 65.0,
+      "description": "None",
+      "category": "Seafood Combo",
+      "dietary_info": []
+    },
+    {
+      "name": "Onion RingsLemongrass TofuSpring Rolls (2 pieces)Fish and ChipsFish BallsGarlic Bread",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "Onion Rings",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "Lemongrass Tofu",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "Spring Rolls (2 pieces)",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "Fish and Chips",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "Fish Balls",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "Garlic Bread",
+      "price": 5.0,
+      "description": "None",
+      "category": "Add-ons",
+      "dietary_info": []
+    },
+    {
+      "name": "MojitoRum, Lemon, Sugar, Mint Leaves, Soda",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Mojito",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "DaiquiriBacardi, Lemon, Sugar Syrup",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Daiquiri",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Blue LagoonVodka, Blue Curacao, Soda",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Blue Lagoon",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "ScrewdriverVodka, Orange",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Screwdriver",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Cuba LibreRum, Coke, Lemon",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "Cuba Libre",
+      "price": 8.0,
+      "description": "None",
+      "category": "Cocktail",
+      "dietary_info": []
+    },
+    {
+      "name": "* Add Vietnamese Pork Ham+*Thêm Chả +",
+      "price": 10.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "* Add Vietnamese Pork Ham+",
+      "price": 10.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "*Thêm Chả +",
+      "price": 10.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "* Add Grilled Pork Sausage + Grilled Betel Leaf Beef + Fine Rice Vermicelli Sheets+*Nem nướng + Bò lá lốt + Bánh hỏi +",
+      "price": 35.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "* Add Grilled Pork Sausage + Grilled Betel Leaf Beef + Fine Rice Vermicelli Sheets+",
+      "price": 35.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "*Nem nướng + Bò lá lốt + Bánh hỏi +",
+      "price": 35.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "Size for 2 people: | 3 people: | 4 people:",
+      "price": 55.0,
+      "description": "None",
+      "category": "Hot Pot",
+      "dietary_info": []
+    },
+    {
+      "name": "Bún Đậu Mắm Tôm Tàu Hủ, Rau Sống, Thịt Luộc, Chả Cốm, Chả Mực Hoặc Chả Tùy Theo Mùa (Thêm Chả + )",
+      "price": 10.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H01. Field Crab Hot Pot (2 people)Lẩu Riêu Cua Đồng",
+      "price": 55.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H01. Field Crab Hot Pot (2 people)",
+      "price": 55.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "(2 people)",
+      "price": 55.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H01. Field Crab Hot Pot (4 people)Lẩu Riêu Cua Đồng",
+      "price": 65.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H01. Field Crab Hot Pot (4 people)",
+      "price": 65.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "(4 people)",
+      "price": 65.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H02. Beef Hot Pot (2 people)Lẩu Bò",
+      "price": 55.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H02. Beef Hot Pot (2 people)",
+      "price": 55.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H02. Beef Hot Pot (4 people)Lẩu Bò",
+      "price": 65.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "H02. Beef Hot Pot (4 people)",
+      "price": 65.0,
+      "description": "None",
+      "category": "Weekend Special",
+      "dietary_info": []
+    },
+    {
+      "name": "Medium Size BEEF PHO only Monday to Sunday",
+      "price": 12.99,
+      "description": "None",
+      "category": "Privacy Preferences",
+      "dietary_info": []
+    },
+    {
+      "name": "Medium Size BEEF PHO only",
+      "price": 12.99,
+      "description": "None",
+      "category": "Privacy Preferences",
+      "dietary_info": []
+    }
+  ]
+}
