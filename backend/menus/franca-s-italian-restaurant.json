@@ -7,14 +7,14 @@
       "name": "Bread & dipsSourdough bread accompanied by hummus, beetroot & whipped feta dipsVegetarian",
       "price": 4.5,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Green saladA garden-fresh salad with seasonal greens and roasted almondsSmallMediumDairy freeMild",
       "price": 3.5,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -70,14 +70,14 @@
       "name": "Peanut crusted steakJuicy, tender steak cooked to your liking, served with steamed vegetablesPeanutsRaw",
       "price": 8.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "MushroomChickenBeef",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -91,7 +91,7 @@
       "name": "Chicken",
       "price": 7.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -105,35 +105,35 @@
       "name": "SchnitzelCrisp and golden on the outside, in a herb and parmesan crumb",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Sticky date & ice creamServed with vanilla ice cream, toffee sauce & a peanut crumbleVegetarian",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Classic cheesecakeTopped with a layer of raspberry jam & sliced strawberries",
       "price": 6.5,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Lemon meringue pieZesty lemon meringue, a pistachio crumble, served with a chantilly creamTree nuts",
       "price": 5.5,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Chocolate mousseOur delicate, yet rich signature chocolate mousse dessertSingle serveDouble serve",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -161,28 +161,28 @@
       "name": "Carrot cakeLightly spiced carrot cake layered with cream cheese frosting",
       "price": 5.5,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "BrownieFresh out the oven brownie filled with dark chocolate chips & walnutsDairy free",
       "price": 5.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Healthy smoothieNourish your body with our selection of healthy smoothies",
       "price": 3.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Fresh juiceA refreshing blend of freshly squeezed orange, watermelon, carrot, and gingerSmallMediumLarge",
       "price": 2.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -203,28 +203,28 @@
       "name": "WineChoice of red, white, or rosé",
       "price": 2.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Soft drinkSoda, Sprite, Pepsi & Diet Coke",
       "price": 1.5,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "CoffeeLocally roasted coffee, brewed in-house",
       "price": 2.5,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "CocktailsAperol Spritz, Gin & Tonic, Mojito",
       "price": 1.5,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     }
   ]

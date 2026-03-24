@@ -28,7 +28,7 @@
       "name": "Mumbai Sandwich",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -119,28 +119,28 @@
       "name": "Fries",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Cheesy Fries",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Peri Peri Fries",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Aloo Tikki Noodle Burger",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -175,7 +175,7 @@
       "name": "Thukpa With Steam Momo",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -189,21 +189,21 @@
       "name": "Lemon Coriander Soup",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Manchow Soup",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Sweet Corn Soup",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -336,7 +336,7 @@
       "name": "Tandoori Platter",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -364,28 +364,28 @@
       "name": "Hakka Noodles",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Fried Rice",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Triple Schezwan Rice With Gravy",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Combination Rice",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -441,21 +441,21 @@
       "name": "Plain Rice",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Jeera Rice",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Lemon Rice",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -476,21 +476,21 @@
       "name": "Veg Spring Roll",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Pink Sauce Pasta",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "White Sauce Pasta",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -539,14 +539,14 @@
       "name": "Coffee",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Cold Coffee",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -595,7 +595,7 @@
       "name": "Gulab Jamun with Ice Cream",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     }
   ]

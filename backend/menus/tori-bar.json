@@ -28,21 +28,21 @@
       "name": "SEAWEED SALAD Seaweed salad with sesame oil",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "SEAWEED SALAD",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Seaweed salad with sesame oil",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -70,7 +70,7 @@
       "name": "TAKO WASABI Raw octopus with wasabi sauce, served with seaweed for wrapping",
       "price": 4.3,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -84,7 +84,7 @@
       "name": "Raw octopus with wasabi sauce, served with seaweed for wrapping",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -140,14 +140,14 @@
       "name": "DAIKON SALAD Sliced radish served with homemade sesame dressing.",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "DAIKON SALAD",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -161,14 +161,14 @@
       "name": "SPICY SALAD Cucumber, Water Chestnut, Garlic Oil",
       "price": 5.99,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "SPICY SALAD",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -203,14 +203,14 @@
       "name": "CHICKEN BREAST",
       "price": 3.9,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "NEGIMA chicken & green onion",
       "price": 4.6,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -224,21 +224,21 @@
       "name": "chicken & green onion",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CHICKEN WINGS limited",
       "price": 5.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "CHICKEN WINGS",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -266,7 +266,7 @@
       "name": "TSUKUNE chicken & pork meatball",
       "price": 3.9,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -280,7 +280,7 @@
       "name": "chicken & pork meatball",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -525,84 +525,84 @@
       "name": "ODEN SOUP fish broth with fish cake TORI SOUP a rich and deep broth using chicken bones, Shiitake mushrooms are added.",
       "price": 4.5,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "ODEN SOUP fish broth with fish cake",
       "price": 4.5,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "ODEN SOUP",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "fish broth with fish cake",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "TORI SOUP a rich and deep broth using chicken bones, Shiitake mushrooms are added.",
       "price": 3.95,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "TORI SOUP",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "a rich and deep broth using chicken bones, Shiitake mushrooms are added.",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "GRILLED RICE BALL",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "CHICKEN OCHAZUKE made by pouring green tea, dashi over cooked rice & chicken",
       "price": 7.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CHICKEN OCHAZUKE",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "made by pouring green tea, dashi over cooked rice & chicken",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "UNAGI DON Donburi topped with 3 pieces of unagi",
       "price": 12.75,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -616,7 +616,7 @@
       "name": "Donburi topped with 3 pieces of unagi",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     }
   ]

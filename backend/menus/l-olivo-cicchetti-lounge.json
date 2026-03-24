@@ -7,7 +7,7 @@
       "name": "“Crostini” toasted filone bread, cold smoked chicken, pecan pesto & fresh apple",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -21,7 +21,7 @@
       "name": "toasted filone bread, cold smoked chicken, pecan pesto & fresh apple",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -49,7 +49,7 @@
       "name": "“Scarpetta” burrata, pesto & tomatoes & cannellini, chili & roasted garlic dips; flatbread",
       "price": 13.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -63,7 +63,7 @@
       "name": "burrata, pesto & tomatoes & cannellini, chili & roasted garlic dips; flatbread",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -280,7 +280,7 @@
       "name": "“Ziti” “Genovese style” sweet candied onions, pulled duck, white wine & fresh sage",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -294,7 +294,7 @@
       "name": "“Genovese style” sweet candied onions, pulled duck, white wine & fresh sage",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -406,7 +406,7 @@
       "name": "“Al Forno” duck fat roasted fingerlings, rosemary & garlic “Broccolini” grilled with puttanesca pesto & bread briciole",
       "price": 9.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -434,7 +434,7 @@
       "name": "“Broccolini” grilled with puttanesca pesto & bread briciole",
       "price": 9.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -448,21 +448,21 @@
       "name": "grilled with puttanesca pesto & bread briciole",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "“Lina’s Bakery Breadbasket” Puttanesca cold press EVOO",
       "price": 8.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "“Lina’s Bakery Breadbasket”",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -497,14 +497,14 @@
       "name": "“Cheesecake” Nutella, chocolate ganache, candied hazelnuts",
       "price": 10.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "“Cheesecake”",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -518,7 +518,7 @@
       "name": "“La Caffettiera” espresso for 2 with frollini & biscotti",
       "price": 10.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -532,7 +532,7 @@
       "name": "espresso for 2 with frollini & biscotti",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -581,7 +581,7 @@
       "name": "Negroni Buzz campari, gin, espresso infused sweet vermouth",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -595,7 +595,7 @@
       "name": "campari, gin, espresso infused sweet vermouth",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -707,7 +707,7 @@
       "name": "Americano campari, sweet vermouth, soda water",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -721,7 +721,7 @@
       "name": "campari, sweet vermouth, soda water",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -812,14 +812,14 @@
       "name": "Classic Sidecar cognac, cointreau, lemon",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Classic Sidecar",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -875,7 +875,7 @@
       "name": "Sober Spritz lemon, simple syrup, soda, rosemary",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -889,7 +889,7 @@
       "name": "lemon, simple syrup, soda, rosemary",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -973,7 +973,7 @@
       "name": "Acqua Ferrarelle 750ml still or sparkling San Pellegrino Soda 330ml assorted flavours Mole Cola 330ml",
       "price": 7.13,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -1001,14 +1001,14 @@
       "name": "San Pellegrino Soda 330ml assorted flavours",
       "price": 4.11,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "San Pellegrino Soda 330ml",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
