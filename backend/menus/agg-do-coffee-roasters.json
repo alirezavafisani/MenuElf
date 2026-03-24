@@ -63,7 +63,7 @@
       "name": "Guji Instant Coffee",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -84,7 +84,7 @@
       "name": "Our Coffee",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     }
   ]

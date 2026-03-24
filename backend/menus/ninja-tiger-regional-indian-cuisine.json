@@ -28,7 +28,7 @@
       "name": "Spring Rolls /each",
       "price": 3.25,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -70,7 +70,7 @@
       "name": "Edamame & chestnut Kulcha",
       "price": 21.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -84,7 +84,7 @@
       "name": "Kolambi (pawns) curry",
       "price": 29.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -98,14 +98,14 @@
       "name": "Pizza with Crab",
       "price": 29.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Marathwada Chicken/Goat curry /24",
       "price": 20.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -168,7 +168,7 @@
       "name": "Thecha Chicken Tikka",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -196,7 +196,7 @@
       "name": "Chicken Thali",
       "price": 29.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -231,42 +231,42 @@
       "name": "Tarri Chicken Or Tarri Mutton /",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Kaala Chicken or Kaala Mutton /",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Kolhapuri Chicken or Kolhapuri Mutton /",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Sukkah Or Mutton Sukkah /",
       "price": 19.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Butter Chicken",
       "price": 19.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Malvani fish curry",
       "price": 19.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -343,14 +343,14 @@
       "name": "Chicken Nuggets",
       "price": 11.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "French Fries",
       "price": 8.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -399,7 +399,7 @@
       "name": "Chicken Alni Biryani",
       "price": 20.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -413,14 +413,14 @@
       "name": "Basmati Rice",
       "price": 5.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Warm apple and Cinnamon cake",
       "price": 9.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -448,7 +448,7 @@
       "name": "Scoop of Ice cream /",
       "price": 5.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {

@@ -28,21 +28,21 @@
       "name": "Beer",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Wine",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Cocktails",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {

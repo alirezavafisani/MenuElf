@@ -40,11 +40,6 @@ SEARCH_QUERIES = [
     "restaurants Calgary Beltline",
     "restaurants Calgary Mission",
     "restaurants Calgary Marda Loop",
-    "restaurants Calgary Bridgeland",
-    "restaurants Calgary NE",
-    "restaurants Calgary NW",
-    "restaurants Calgary SE",
-    "restaurants Calgary SW",
     "Thai restaurant Calgary",
     "Japanese restaurant Calgary",
     "Indian restaurant Calgary",
@@ -54,15 +49,10 @@ SEARCH_QUERIES = [
     "Vietnamese restaurant Calgary",
     "Chinese restaurant Calgary",
     "Ethiopian restaurant Calgary",
-    "Middle Eastern restaurant Calgary",
     "Steakhouse Calgary",
     "Sushi Calgary",
-    "Pizza Calgary",
     "Brunch Calgary",
     "Fine dining Calgary",
-    "Ramen Calgary",
-    "Pho Calgary",
-    "BBQ Calgary",
 ]
 
 PRICE_MAP = {

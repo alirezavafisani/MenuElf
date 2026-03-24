@@ -1,0 +1,273 @@
+{
+  "restaurant": "acme-pizza-pasta-co",
+  "parsed_at": "2026-03-24T09:12:51.979742+00:00",
+  "item_count": 38,
+  "items": [
+    {
+      "name": "ACME 'MOZZA STICKS'panko crusted mozzarella, tomato agrodolce, chive *gluten free",
+      "price": 15.0,
+      "description": "None",
+      "category": "Featured Items",
+      "dietary_info": []
+    },
+    {
+      "name": "MARGHERITAacme red sauce, fior de latte, basil oil, parmigiano, fresh basil *cannot be made dairy free",
+      "price": 21.0,
+      "description": "None",
+      "category": "ACME 'MOZZA STICKS'",
+      "dietary_info": []
+    },
+    {
+      "name": "FUNGHIgarlic cream, smoked mozzarella, crimini mushrooms, arugula, truffle oil, pecorino *cannot be made dairy free",
+      "price": 26.0,
+      "description": "None",
+      "category": "MARGHERITA",
+      "dietary_info": []
+    },
+    {
+      "name": "MARINATED OLIVEScerignolas, shallot, smoked paprika, orange *dairy free *gluten free",
+      "price": 9.0,
+      "description": "None",
+      "category": "SNACKS & SMALL PLATES",
+      "dietary_info": []
+    },
+    {
+      "name": "STUFFED PICKLED PEPPERSsweet & spicy pickled peppers, macedonian feta, cucumber vierge, dill *gluten free",
+      "price": 9.0,
+      "description": "None",
+      "category": "MARINATED OLIVES",
+      "dietary_info": []
+    },
+    {
+      "name": "PROSCUITTO & BURRATA ‘DI MIRO’burrata, prosciutto di parma, figs, focaccia",
+      "price": 27.0,
+      "description": "None",
+      "category": "STUFFED PICKLED PEPPERS",
+      "dietary_info": []
+    },
+    {
+      "name": "ACME MEATBALLSpork & veal meatballs, tomato gravy, calabrian chili, parmigiano *gluten free",
+      "price": 16.0,
+      "description": "None",
+      "category": "ACME 'MOZZA STICKS'",
+      "dietary_info": []
+    },
+    {
+      "name": "PARM FRITESparmigano & fresh herbs-tossed french fries, garlic-parm aioli *gluten free *can be made dairy free",
+      "price": 9.0,
+      "description": "None",
+      "category": "ACME MEATBALLS",
+      "dietary_info": []
+    },
+    {
+      "name": "HOUSE FOCACCIAbaked daily, rosemary, xvoo & balsamic *dairy free",
+      "price": 9.0,
+      "description": "None",
+      "category": "PARM FRITES",
+      "dietary_info": []
+    },
+    {
+      "name": "GORGONZOLA BEET SALADcitrus marinated beets, arugula, gorgonzola vinaigrette, pistachio, mint *gluten free",
+      "price": 21.0,
+      "description": "None",
+      "category": "ACME CAESAR SALAD",
+      "dietary_info": []
+    },
+    {
+      "name": "MEDITERRANEAN SALADcured cucumber, zucchini ribbons, kalamata olive, chickpea yogurt, crispy chickpea *gluten free",
+      "price": 19.0,
+      "description": "None",
+      "category": "GORGONZOLA BEET SALAD",
+      "dietary_info": []
+    },
+    {
+      "name": "SIMPLE SALADmixed greens, shaved fennel, radish, sherry vinaigrette *dairy free *gluten free",
+      "price": 14.0,
+      "description": "None",
+      "category": "MEDITERRANEAN SALAD",
+      "dietary_info": []
+    },
+    {
+      "name": "ORTOLANO 2.0almond romesco, mozzarella, green olives, zucchini, eggplant, feta, parsley",
+      "price": 25.0,
+      "description": "None",
+      "category": "BURRATA PIZZA",
+      "dietary_info": []
+    },
+    {
+      "name": "CHICKEN ALFREDOalfredo sauce, roast chicken, mozzarella, bacon, parsley, black pepper *cannot be made dairy free",
+      "price": 25.0,
+      "description": "None",
+      "category": "ORTOLANO 2.0",
+      "dietary_info": []
+    },
+    {
+      "name": "SAPORITAwalnut cream, mozzarella, gorgonzola dolce, prosciutto, honey, pecorino *cannot be made dairy free",
+      "price": 26.0,
+      "description": "None",
+      "category": "CHICKEN ALFREDO",
+      "dietary_info": []
+    },
+    {
+      "name": "BIANCANEVEmascarpone cream, mozzarella, smoked prosciutto, parmigiano *cannot be made dairy free",
+      "price": 25.0,
+      "description": "None",
+      "category": "SAPORITA",
+      "dietary_info": []
+    },
+    {
+      "name": "PEPPERONIacme red sauce, mozzarella, pepperoni",
+      "price": 22.0,
+      "description": "None",
+      "category": "BIANCANEVE",
+      "dietary_info": []
+    },
+    {
+      "name": "ANANASCOSTA PICANTEacme red sauce, mozzarella, pickled jalapeno, spicy capicola, pineapple",
+      "price": 25.0,
+      "description": "None",
+      "category": "PEPPERONI",
+      "dietary_info": []
+    },
+    {
+      "name": "CARNEacme red sauce, mozzarella, spicy italian sausage, bacon, calabrese salami, porchetta, parmigiano",
+      "price": 26.0,
+      "description": "None",
+      "category": "CARBONARA PIZZA",
+      "dietary_info": []
+    },
+    {
+      "name": "PARMIGIANAacme red sauce, mozzarella, roasted eggplant, spicy italian sausage, parmigiano, basil oil",
+      "price": 24.0,
+      "description": "None",
+      "category": "CARNE",
+      "dietary_info": []
+    },
+    {
+      "name": "SALAMIacme red sauce, oregano, chili flakes, mozzarella, kalamata olives, red onion, calabrese salami, parmigiano",
+      "price": 25.0,
+      "description": "None",
+      "category": "PARMIGIANA",
+      "dietary_info": []
+    },
+    {
+      "name": "JUST CHEESEacme red sauce, mozzarella – add your favourite toppings to make it your own!",
+      "price": 17.0,
+      "description": "None",
+      "category": "SALAMI",
+      "dietary_info": []
+    },
+    {
+      "name": "FEATURE PIZZA - Vodka con SalsicciaVodka Sauce, Mozzarella, Nduja Sausage, Pecorino",
+      "price": 25.0,
+      "description": "None",
+      "category": "JUST CHEESE",
+      "dietary_info": []
+    },
+    {
+      "name": "POLLOfermented pappadew pepper-marinated chicken, cucumber insalata *gluten free *dairy free",
+      "price": 18.0,
+      "description": "None",
+      "category": "SPIEDINI",
+      "dietary_info": []
+    },
+    {
+      "name": "TONNOcitrus marinated ahi tuna, toasted black sesame, scallion oil *gluten free",
+      "price": 18.0,
+      "description": "None",
+      "category": "POLLO",
+      "dietary_info": []
+    },
+    {
+      "name": "MANZOharissa-marinated heritage striploin, arugula & pickled onion insalata",
+      "price": 19.0,
+      "description": "None",
+      "category": "TONNO",
+      "dietary_info": []
+    },
+    {
+      "name": "BOOZY TIRAMISUamaretto soaked lady fingers, mascarpone, coffee liqueur, cocoa",
+      "price": 9.0,
+      "description": "None",
+      "category": "DOLCE",
+      "dietary_info": []
+    },
+    {
+      "name": "PAVLOVAbaked meringue, whipped cream, mixed berries in cointreau, lemon curd, berry compote, mint *gluten free",
+      "price": 10.0,
+      "description": "None",
+      "category": "BOOZY TIRAMISU",
+      "dietary_info": []
+    },
+    {
+      "name": "COKE",
+      "price": 4.0,
+      "description": "None",
+      "category": "NON-ALCOHOLIC",
+      "dietary_info": []
+    },
+    {
+      "name": "DIET COKE",
+      "price": 4.0,
+      "description": "None",
+      "category": "COKE",
+      "dietary_info": []
+    },
+    {
+      "name": "SPRITE",
+      "price": 4.0,
+      "description": "None",
+      "category": "DIET COKE",
+      "dietary_info": []
+    },
+    {
+      "name": "DR. PEPPER",
+      "price": 4.0,
+      "description": "None",
+      "category": "SPRITE",
+      "dietary_info": []
+    },
+    {
+      "name": "ANNEX GINGERBEER",
+      "price": 6.0,
+      "description": "None",
+      "category": "DR. PEPPER",
+      "dietary_info": []
+    },
+    {
+      "name": "ORANGE PELEGRINO",
+      "price": 5.0,
+      "description": "None",
+      "category": "ANNEX GINGERBEER",
+      "dietary_info": []
+    },
+    {
+      "name": "GRAPEFRUIT PELEGRINO",
+      "price": 5.0,
+      "description": "None",
+      "category": "ORANGE PELEGRINO",
+      "dietary_info": []
+    },
+    {
+      "name": "TUESDAY Pale Ale",
+      "price": 7.0,
+      "description": "None",
+      "category": "GRAPEFRUIT PELEGRINO",
+      "dietary_info": []
+    },
+    {
+      "name": "TUESDAY LagerOUT OF STOCK",
+      "price": 7.0,
+      "description": "None",
+      "category": "TUESDAY Pale Ale",
+      "dietary_info": []
+    },
+    {
+      "name": "OUT OF STOCK",
+      "price": 7.0,
+      "description": "None",
+      "category": "TUESDAY Lager",
+      "dietary_info": []
+    }
+  ]
+}

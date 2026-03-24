@@ -1,0 +1,196 @@
+{
+  "total_discovered": 1098,
+  "scraped_success": 24,
+  "scraped_failed": 6,
+  "skipped": 0,
+  "remaining": 858,
+  "last_batch": "15c",
+  "restaurants": [
+    {
+      "name": "4th Spot Kitchen & Bar",
+      "slug": "4th-spot-kitchen-bar",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "5 Senses Ramen & Bistro",
+      "slug": "5-senses-ramen-bistro",
+      "status": "success",
+      "items_count": 26
+    },
+    {
+      "name": "A Boonsik Downtown",
+      "slug": "a-boonsik-downtown",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "A Touch of India",
+      "slug": "a-touch-of-india",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "AGNI- CALGARY INDIAN RESTAURANT",
+      "slug": "agni-calgary-indian-restaurant",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "AURORA ITALIANA",
+      "slug": "aurora-italiana",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "AYCE K BBQ",
+      "slug": "ayce-k-bbq",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Acme Pizza & Pasta Co.",
+      "slug": "acme-pizza-pasta-co",
+      "status": "success",
+      "items_count": 38
+    },
+    {
+      "name": "Acme Pizza Co. - In Sunalta",
+      "slug": "acme-pizza-co-in-sunalta",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Actually Pretty Good - Bankview",
+      "slug": "actually-pretty-good-bankview",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "Actually Pretty Good - Victoria Park",
+      "slug": "actually-pretty-good-victoria-park",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Aida's Bistro",
+      "slug": "aida-s-bistro",
+      "status": "success",
+      "items_count": 18
+    },
+    {
+      "name": "Ajito",
+      "slug": "ajito",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Aladdin's Casbah",
+      "slug": "aladdin-s-casbah",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Alforno Bakery & Cafe",
+      "slug": "alforno-bakery-cafe",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Alloy",
+      "slug": "alloy",
+      "status": "success",
+      "items_count": 24
+    },
+    {
+      "name": "Alo Viet Kitchen",
+      "slug": "alo-viet-kitchen",
+      "status": "success",
+      "items_count": 22
+    },
+    {
+      "name": "Aloha Modern Kitchen",
+      "slug": "aloha-modern-kitchen",
+      "status": "success",
+      "items_count": 23
+    },
+    {
+      "name": "Alpha Bar & Restaurant",
+      "slug": "alpha-bar-restaurant",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Amato Gelato Kensington",
+      "slug": "amato-gelato-kensington",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Ambarsariya kitchen + Grill",
+      "slug": "ambarsariya-kitchen-grill",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "An An Kitchen & Bar",
+      "slug": "an-an-kitchen-bar",
+      "status": "success",
+      "items_count": 84
+    },
+    {
+      "name": "Analog Coffee 17 Ave",
+      "slug": "analog-coffee-17-ave",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Analog Coffee Inglewood",
+      "slug": "analog-coffee-inglewood",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Anatolia Turkish Foods - Calgary Main Location",
+      "slug": "anatolia-turkish-foods-calgary-main-location",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "Anh Tu's Kitchen",
+      "slug": "anh-tu-s-kitchen",
+      "status": "success",
+      "items_count": 203
+    },
+    {
+      "name": "Annabelle's Kitchen Downtown",
+      "slug": "annabelle-s-kitchen-downtown",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "Annabelle\u2019s Kitchen Marda Loop",
+      "slug": "annabelle-s-kitchen-marda-loop",
+      "status": "success",
+      "items_count": 9
+    },
+    {
+      "name": "Apple Eatery",
+      "slug": "apple-eatery",
+      "status": "success",
+      "items_count": 23
+    },
+    {
+      "name": "Arada Bar & Restaurant",
+      "slug": "arada-bar-restaurant",
+      "status": "success",
+      "items_count": 25
+    }
+  ]
+}

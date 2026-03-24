@@ -7,14 +7,14 @@
       "name": "Beef Samosa",
       "price": null,
       "description": "Crispy pastry pockets filled with seasoned beef, served with mint and tamarind chutney. A popular appetizer starter showcasing our fusion approach with high customer demand",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "SIGNATURE DISHES & POPULAR MENU ITEMS",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -35,14 +35,14 @@
       "name": "Butter Chicken",
       "price": null,
       "description": "Boneless chicken cooked in a creamy tomato sauce with aromatic spices. Our classic Indian favorite features modern presentation and premium quality ingredients",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Tikka Masala",
       "price": null,
       "description": "Barbecued chicken cooked in a creamy onion, tomato, and ginger-garlic sauce. Our premium signature dish showcases authentic Indian flavors with exceptional quality",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {

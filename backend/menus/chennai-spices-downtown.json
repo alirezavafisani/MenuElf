@@ -21,42 +21,42 @@
       "name": "Chicken Soup",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Mutton Soup",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Sweet Corn Veg Soup",
       "price": 6.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Sweet Corn Chicken Soup",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Hot & Sour Veg Soup",
       "price": 6.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Hot & Sour Chic Soup",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -224,35 +224,35 @@
       "name": "Chicken 65",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Manchurian",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chilly Chicken",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Chukka",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Dragon Chicken",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -294,21 +294,21 @@
       "name": "Idiyappam Chicken Stew",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Paratha Veg Curry",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Paratha Chicken Curry",
       "price": 15.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -357,7 +357,7 @@
       "name": "Cocktail Uthappam X4",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -609,21 +609,21 @@
       "name": "Chicken Keema",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Tikka",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Deluxe",
       "price": 20.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -686,7 +686,7 @@
       "name": "Chicken Tikka Uthappam",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -700,21 +700,21 @@
       "name": "Kal Dosa Veg Curry",
       "price": 15.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Kal Dosa Chicken Curry",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Kal Dosa Butter Chicken",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -777,35 +777,35 @@
       "name": "Chicken Tikka Masala",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Butter Chicken",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Korma",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Pepper Chicken Curry",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Chettinad",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -840,28 +840,28 @@
       "name": "Fish Curry",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Prawn Curry",
       "price": 20.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Malabar Fish Curry",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Malabar Prawn Curry",
       "price": 20.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -882,7 +882,7 @@
       "name": "Chicken Biryani",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -903,7 +903,7 @@
       "name": "Chicken 65 Biryani",
       "price": 19.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -924,7 +924,7 @@
       "name": "Chicken Kothu",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -938,119 +938,119 @@
       "name": "Veg Fried Rice",
       "price": 15.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Egg Fried Rice",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Chicken Fried Rice",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Szechuan Veg Rice",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Szechuan Egg Rice",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Szechuan Chicken Rice",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Veg Noodles",
       "price": 15.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Egg Noodles",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Chicken Noodles",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Szechuan Veg Noodles",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Szechuan Egg Noodles",
       "price": 17.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Szechuan Chicken Noodles",
       "price": 18.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Plain Rice",
       "price": 5.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Coconut Rice",
       "price": 9.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Tamarind Rice",
       "price": 9.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Lemon Rice",
       "price": 9.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Pulao Rice",
       "price": 14.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -1078,42 +1078,42 @@
       "name": "Gulab Jamun & Ice Cream",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Carrot Halwa & Ice Cream",
       "price": 7.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Ice Cream (Vanilla / Chocolate)",
       "price": 5.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Pop",
       "price": 2.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Tea",
       "price": 2.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Coffee",
       "price": 2.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
@@ -1176,14 +1176,14 @@
       "name": "Hot & Sour Chick Soup",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Sweet Corn Chick Soup",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -1274,7 +1274,7 @@
       "name": "Seeraga Samba Chicken",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -1330,7 +1330,7 @@
       "name": "Bread Halwa",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     }
   ]

@@ -7,14 +7,14 @@
       "name": "Fried Chicken Rice Kup",
       "price": 12.99,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Beef Bulgogi BBQ Rice Kup",
       "price": 15.99,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -28,14 +28,14 @@
       "name": "Pork Katsu Rice Kup",
       "price": 14.99,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Spicy Pork BBQ Rice Kup",
       "price": 14.99,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {

@@ -1,0 +1,196 @@
+{
+  "restaurant": "acme-pizza-co-in-sunalta",
+  "parsed_at": "2026-03-24T09:13:15.281692+00:00",
+  "item_count": 27,
+  "items": [
+    {
+      "name": "Casey's4.6Icon Loading(1k+)•0.8 mi•26 min delivery fee, first order off",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "off",
+      "price": 5.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingPerkins American Food Co.4.1Icon Loading(10k+)•3.5 mi•44 min delivery fee, first order20% off on +",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Perkins American Food Co.4.1Icon Loading(10k+)•3.5 mi•44 min delivery fee, first order20% off on +",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "20% off on +",
+      "price": 35.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingToppers Pizza4.2Icon Loading(10k+)•8.8 mi•Closed delivery fee, first order off on +",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Toppers Pizza4.2Icon Loading(10k+)•8.8 mi•Closed delivery fee, first order off on +",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "off on +",
+      "price": 8.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingMama's Pizza4.7Icon Loading(100+)•6.7 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Mama's Pizza4.7Icon Loading(100+)•6.7 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Hy-Vee Grocery4.7Icon Loading(10k+)•Get it by 12:00 PM delivery fee • ClosedOpens Tue 11:00 AM",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "delivery fee • Closed",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Izzy's Pizza4.8Icon Loading(200+)•5.0 mi•Closed delivery fee, first orderIcon LoadingCustomer favoriteIcon Loading",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingPapa Johns Pizza4.6Icon Loading(2k+)•0.3 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Papa Johns Pizza4.6Icon Loading(2k+)•0.3 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Tractor Supply Co4.8Icon Loading(100+)•2.8 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Marco's Pizza4.6Icon Loading(3k+)•8.0 mi•Closed delivery fee, first orderIcon LoadingCustomer favoriteIcon Loading",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingPizza Hut4.5Icon Loading(500+)•1.4 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Pizza Hut4.5Icon Loading(500+)•1.4 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingPickleman's Gourmet Cafe4.5Icon Loading(500+)•4.4 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Pickleman's Gourmet Cafe4.5Icon Loading(500+)•4.4 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingGodfather's Pizza Express3.9Icon Loading(100+)•4.2 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Godfather's Pizza Express3.9Icon Loading(100+)•4.2 mi•Closed delivery fee, first order",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Icon LoadingBigfoot Fry Co.4.1Icon Loading(20+)•9.2 mi•Closed delivery fee, first orderFarther away (+ fee)",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Bigfoot Fry Co.4.1Icon Loading(20+)•9.2 mi•Closed delivery fee, first orderFarther away (+ fee)",
+      "price": 0.0,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    },
+    {
+      "name": "Farther away (+ fee)",
+      "price": 0.99,
+      "description": "None",
+      "category": null,
+      "dietary_info": []
+    }
+  ]
+}

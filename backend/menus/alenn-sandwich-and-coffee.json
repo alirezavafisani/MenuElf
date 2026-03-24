@@ -7,14 +7,14 @@
       "name": "THE DAILY BREAKFAST SANDWICH egg, bacon, cheddar, arugula, vegetable spread, on brioche",
       "price": 10.8,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "THE DAILY BREAKFAST SANDWICH",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -28,14 +28,14 @@
       "name": "BLT BREAKFAST SANDWICH mayo, egg, bacon, cheddar, tomato, lettuce, guacamole, on brioche",
       "price": 11.6,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "BLT BREAKFAST SANDWICH",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -49,14 +49,14 @@
       "name": "FARM HOUSE BREAKFAST SANDWICH mayo, egg, bacon, cheddar, sausage patty, onion, chipotle aioli, on brioche",
       "price": 12.7,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "FARM HOUSE BREAKFAST SANDWICH",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -112,77 +112,77 @@
       "name": "PHILLY CHEESE STEAK spicy mayo, steak, red onion, jalapeño, green pepper, mozzarella, garlic aioli",
       "price": 16.3,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "PHILLY CHEESE STEAK",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "spicy mayo, steak, red onion, jalapeño, green pepper, mozzarella, garlic aioli",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CHICKEN BACON RANCH butter, chicken, bacon, tomato, red onion, lettuce, ranch",
       "price": 16.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CHICKEN BACON RANCH",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "butter, chicken, bacon, tomato, red onion, lettuce, ranch",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CAJUN CHICKEN butter, cajun chicken, cheddar, tomato, lettuce, mayo",
       "price": 15.9,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CAJUN CHICKEN",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "butter, cajun chicken, cheddar, tomato, lettuce, mayo",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "VEGGIE SANDWICH vegetable spread, sun dried tomato, artichoke, onion, goat cheese, mozzarella, arugula, balsamic",
       "price": 15.3,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "VEGGIE SANDWICH",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -196,28 +196,28 @@
       "name": "BLACKENED CHICKEN CAESAR blackened chicken, cheddar, tomato, onion, lettuce, caesar dressing",
       "price": 16.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "BLACKENED CHICKEN CAESAR",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "blackened chicken, cheddar, tomato, onion, lettuce, caesar dressing",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "CALIFORNIA spicy mayo, turkey, chicken, bacon, cheddar, tomato, lettuce, guacamole",
       "price": 17.7,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -231,7 +231,7 @@
       "name": "spicy mayo, turkey, chicken, bacon, cheddar, tomato, lettuce, guacamole",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -259,7 +259,7 @@
       "name": "NASHVILLE HOT breaded chicken, nashville oil, bread and butter pickle, coleslaw, honey mustard aioli",
       "price": 16.2,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -273,7 +273,7 @@
       "name": "breaded chicken, nashville oil, bread and butter pickle, coleslaw, honey mustard aioli",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -301,28 +301,28 @@
       "name": "TOMATO SOUP CAJUN CHICKEN CAESAR SALAD SIDE CAESAR SALAD CHIP BAG MAC'N CHEESE CHEESE TOAST",
       "price": 6.9,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "TOMATO SOUP",
       "price": 6.9,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "CAJUN CHICKEN CAESAR SALAD",
       "price": 16.7,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "SIDE CAESAR SALAD",
       "price": 5.8,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -448,14 +448,14 @@
       "name": "TOMATO SOUP BLACKENED CHICKEN CAESAR SALAD SIDE CAESAR SALAD CHIP BAG MAC'N CHEESE CHILI CHEESE TOAST",
       "price": 6.9,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "BLACKENED CHICKEN CAESAR SALAD",
       "price": 13.6,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {

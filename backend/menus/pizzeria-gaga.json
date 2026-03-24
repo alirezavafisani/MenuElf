@@ -7,49 +7,49 @@
       "name": "La Cosa Nostra - Prosciutto, Egg, Cream Cheese, Provolone and Salad Sandwich",
       "price": 14.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Trio Italiano - Capiccolo, Genoa and Provolone Sandwich",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Uno - Ham and Cheese Sandwich",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Tonno - Tuna Sandwich",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Pizzolini - A Large Pizza Slice Ready to go",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Burek - Balkan Style Pie with Meat and Cheese",
       "price": 10.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Greek Salad - Tomato, Cucumber, Onions and Feta Cheese",
       "price": 11.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -63,7 +63,7 @@
       "name": "Pasta - Various Selection",
       "price": 13.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -182,21 +182,21 @@
       "name": "Baklava - A rich, sweet dessert pastry made of layers of filo filled with chopped nuts.",
       "price": 4.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Milana - 10\" Sweet Pizza // Nutella, Banana, Coconut + Love",
       "price": 15.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Coffee & Tea",
       "price": null,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     }
   ]

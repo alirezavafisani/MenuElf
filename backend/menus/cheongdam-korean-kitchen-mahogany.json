@@ -7,14 +7,14 @@
       "name": "Stone Bowl Bibimbap 돌솥비빔밥",
       "price": 20.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Egg Fried Rice 계란 볶음밥",
       "price": 16.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
@@ -49,7 +49,7 @@
       "name": "Spicy Pork Bone Soup 감자탕",
       "price": 22.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -63,21 +63,21 @@
       "name": "Shrimp Fried Rice 새우 볶음밥",
       "price": 19.0,
       "description": "None",
-      "category": null,
+      "category": "Sides",
       "dietary_info": []
     },
     {
       "name": "Seafood Soft Tofu Soup 해물순두부 찌개",
       "price": 22.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Shareable Stir-Fried Pork Belly 삼겹살볶음 Dak Kalbi 닭갈비 Kanshogi 깐쇼기 Korean Army Soup 부대찌개 Spicy Pork Bone Pot 감자탕전골",
       "price": 42.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -105,7 +105,7 @@
       "name": "Korean Army Soup 부대찌개",
       "price": 45.0,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -133,14 +133,14 @@
       "name": "Korean Fried Chicken 양념치킨",
       "price": 13.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Seafood Pancake 해물파전",
       "price": 22.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -175,14 +175,14 @@
       "name": "Children's Special Menu Kids’ Chicken Feast 키즈 치킨 너겟&감자튀김 Kids' Bulgogi Meal 키즈 불고기",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Kids’ Chicken Feast 키즈 치킨 너겟&감자튀김",
       "price": 12.0,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -196,28 +196,28 @@
       "name": "Beverages Pop (355 ml) Apple Juice Orange Juice Ramune Milkis (250 ml)",
       "price": 3.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Pop (355 ml)",
       "price": 3.0,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Apple Juice",
       "price": 3.5,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {
       "name": "Orange Juice",
       "price": 3.5,
       "description": "None",
-      "category": null,
+      "category": "Drinks",
       "dietary_info": []
     },
     {

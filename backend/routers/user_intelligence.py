@@ -124,11 +124,46 @@ DEFAULT_ONBOARDING_QUESTIONS: List[Dict] = [
         "option_b_label": "rainbow_buddha_bowl",
         "option_b_signals": {"protein_preference.vegetarian": 0.9, "protein_preference.vegan": 0.8, "meal_size_preference": 0.2, "adventurousness": 0.5, "sweetness_preference": 0.4, "spice_tolerance": 0.2},
     },
+    {
+        "question_index": 6,
+        "option_a_label": "fluffy_japanese_souffle_pancakes",
+        "option_a_signals": {"sweetness_preference": 0.9, "cuisine_preferences.japanese": 0.6, "meal_size_preference": 0.3},
+        "option_b_label": "loaded_breakfast_burrito",
+        "option_b_signals": {"sweetness_preference": 0.15, "cuisine_preferences.mexican": 0.7, "meal_size_preference": 0.85, "protein_preference.beef": 0.6},
+    },
+    {
+        "question_index": 7,
+        "option_a_label": "rich_beef_pho",
+        "option_a_signals": {"texture_preferences.soupy": 0.9, "cuisine_preferences.vietnamese": 0.85, "protein_preference.beef": 0.7, "spice_tolerance": 0.5},
+        "option_b_label": "mediterranean_grain_bowl",
+        "option_b_signals": {"meal_size_preference": 0.3, "cuisine_preferences.mediterranean": 0.85, "protein_preference.vegetarian": 0.6, "adventurousness": 0.5},
+    },
+    {
+        "question_index": 8,
+        "option_a_label": "butter_chicken_with_garlic_naan",
+        "option_a_signals": {"cuisine_preferences.indian": 0.9, "spice_tolerance": 0.6, "texture_preferences.creamy": 0.8, "protein_preference.chicken": 0.8},
+        "option_b_label": "wood_fired_margherita_pizza",
+        "option_b_signals": {"cuisine_preferences.italian": 0.9, "price_comfort": 0.4, "texture_preferences.crispy": 0.7, "adventurousness": 0.3},
+    },
+    {
+        "question_index": 9,
+        "option_a_label": "salmon_sashimi_platter",
+        "option_a_signals": {"protein_preference.fish": 0.95, "cuisine_preferences.japanese": 0.8, "adventurousness": 0.8, "price_comfort": 0.7},
+        "option_b_label": "classic_cheeseburger_and_fries",
+        "option_b_signals": {"protein_preference.beef": 0.85, "cuisine_preferences.american": 0.85, "texture_preferences.crispy": 0.6, "adventurousness": 0.15},
+    },
+    {
+        "question_index": 10,
+        "option_a_label": "octopus_tacos_with_chipotle_crema",
+        "option_a_signals": {"adventurousness": 0.95, "protein_preference.fish": 0.6, "cuisine_preferences.mexican": 0.7, "spice_tolerance": 0.7},
+        "option_b_label": "chicken_caesar_wrap",
+        "option_b_signals": {"adventurousness": 0.1, "protein_preference.chicken": 0.8, "cuisine_preferences.american": 0.6, "meal_size_preference": 0.4},
+    },
 ]
 
 
 def _compute_taste_profile(answers: List[OnboardingAnswer]) -> dict:
-    """Pure-math, deterministic scoring from 5 onboarding answers.
+    """Pure-math, deterministic scoring from 5-10 onboarding answers.
 
     For each taste dimension, we collect every signal from the chosen options,
     then average them.  Dimensions not covered by any answer stay at 0.5.

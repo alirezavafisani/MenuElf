@@ -105,14 +105,14 @@
       "name": "Add Pop + Dessert",
       "price": 5.5,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Bulgogi Cupbap R - L - Bulgogi Kimchi CupbapR - L - Fried Chicken CupbapR - L",
       "price": 12.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -140,14 +140,14 @@
       "name": "Fried Chicken CupbapR - L",
       "price": 11.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Spicy Pork CupbapR - L - Spicy Chicken CupbapR - L - Bibimbap",
       "price": 11.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -161,7 +161,7 @@
       "name": "Spicy Chicken CupbapR - L",
       "price": 11.5,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -175,7 +175,7 @@
       "name": "Truffle ChapagettiBuldak RamyeonUdon$Add Topping (Bulgogi / Kimchi / Fish Cake)",
       "price": 8.9,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -196,14 +196,14 @@
       "name": "Udon$Add Topping (Bulgogi / Kimchi / Fish Cake)",
       "price": 10.9,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "$Add Topping (Bulgogi / Kimchi / Fish Cake)",
       "price": 10.9,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -280,7 +280,7 @@
       "name": "Deep Fried Rice Cakew/ Sweet & Sour Sauce",
       "price": 6.9,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -294,7 +294,7 @@
       "name": "Fish Cake Skewers (3pcs)",
       "price": 6.0,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
@@ -308,14 +308,14 @@
       "name": "Deep Fried Rice Cake + Deep Fried Chickenw/ Sweet & Sour SauceVegetable ManduBulgogi ManduPork Mandu",
       "price": 10.9,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
       "name": "Deep Fried Rice Cake + Deep Fried Chickenw/ Sweet & Sour Sauce",
       "price": 10.9,
       "description": "None",
-      "category": null,
+      "category": "Mains",
       "dietary_info": []
     },
     {
@@ -343,7 +343,7 @@
       "name": "Kimbap Set Kimbap 2Spicy Rice Cake SFish Cake Soup",
       "price": 27.5,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
@@ -357,21 +357,21 @@
       "name": "Spicy Rice Cake Set Spicy Rice Cake MDeep Fried Vegetable (3pcs)Mini KimbapFish Cake Soup",
       "price": 27.5,
       "description": "None",
-      "category": null,
+      "category": "Appetizers",
       "dietary_info": []
     },
     {
       "name": "Spicy Rice Cake Set",
       "price": 27.5,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
       "name": "Family Set Spicy Rice Cake LDeep Fried Vegetable (3pcs)Calamari (3pcs)Kimbap 2Udon",
       "price": 55.5,
       "description": "None",
-      "category": null,
+      "category": "Desserts",
       "dietary_info": []
     },
     {
