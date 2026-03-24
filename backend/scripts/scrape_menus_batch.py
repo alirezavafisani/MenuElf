@@ -24,8 +24,9 @@ PLACES_DATA_PATH = Path(__file__).parent.parent / "restaurant_places_data.json"
 BATCH_SIZE = 15
 MIN_ITEMS = 3
 REQUEST_DELAY = 2
-REQUEST_TIMEOUT = 10
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; MenuElf/1.0)"}
+REQUEST_TIMEOUT = 5
+HEADERS = {"User-Agent": "MenuElf/1.0 Calgary Restaurant Menu Aggregator"}
+PROGRESS_PATH = DATA_DIR / "scrape_progress.json"
 
 OPENAI_KEY = os.environ.get("OPENAI_API_KEY")
 
@@ -383,7 +384,6 @@ def main():
     # Load discovered restaurants
     discovered = json.loads(DISCOVERED_PATH.read_text())
     new_restaurants = [r for r in discovered if r["status"] == "new"]
-    new_restaurants.sort(key=lambda r: r.get("rating") or 0, reverse=True)
     batch = new_restaurants[:BATCH_SIZE]
 
     print(f"=" * 70)
@@ -499,6 +499,34 @@ def main():
     print(f"Total new menu items:            {total_items}")
     print(f"Items with prices:               {total_with_price}")
     print("=" * 70)
+
+    # Save scrape_progress.json
+    failed_count = sum(1 for r in results if r["source"] == "failed")
+    skipped_count = sum(1 for r in results if r["source"] == "exists")
+    progress = {
+        "total_discovered": len(new_restaurants) + success_count + failed_count,
+        "scraped_success": success_count,
+        "scraped_failed": failed_count,
+        "skipped": skipped_count,
+        "remaining": len(new_restaurants) - len(batch),
+        "last_batch": "15b",
+        "restaurants": [],
+    }
+    for r in results:
+        entry = {
+            "name": r["name"],
+            "slug": slugify(r["name"]),
+            "status": "success" if r["source"] not in ("failed", "exists") else r["source"],
+            "items_count": r["items"],
+        }
+        if r["source"] == "failed":
+            entry["reason"] = "no menu found"
+        elif r["source"] == "exists":
+            entry["reason"] = "already exists"
+        progress["restaurants"].append(entry)
+
+    PROGRESS_PATH.write_text(json.dumps(progress, indent=2))
+    print(f"\nProgress saved to: {PROGRESS_PATH}")
 
 
 if __name__ == "__main__":

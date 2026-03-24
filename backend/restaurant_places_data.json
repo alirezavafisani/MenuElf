@@ -298,7 +298,7 @@
     "lng": -114.22293,
     "rating": 4.4,
     "user_ratings_total": 77,
-    "address": "Calgary Farmers\u2019 Market West, 25 Greenbriar Dr NW, Calgary, AB T3B 5X4, Canada"
+    "address": "Calgary Farmers’ Market West, 25 Greenbriar Dr NW, Calgary, AB T3B 5X4, Canada"
   },
   "blowersgrafton": {
     "lat": 51.033595,
@@ -3239,5 +3239,89 @@
     "rating": 4.6,
     "user_ratings_total": 3655,
     "address": "923 17 Ave SW, Calgary, AB T2T 5R6, Canada"
+  },
+  "5-senses-ramen-bistro": {
+    "lat": 51.0379787,
+    "lng": -114.0763638,
+    "rating": 4,
+    "user_ratings_total": null,
+    "address": "634A 17 Ave SW, Calgary, AB T2S 0B4, Canada"
+  },
+  "a-boonsik-downtown": {
+    "lat": 51.044577399999994,
+    "lng": -114.0921616,
+    "rating": 4.6,
+    "user_ratings_total": null,
+    "address": "1324 10 Ave SW #242, Calgary, AB T3C 0J2, Canada"
+  },
+  "a-touch-of-india": {
+    "lat": 51.0294723,
+    "lng": -114.1422329,
+    "rating": 4.3,
+    "user_ratings_total": null,
+    "address": "2835 37 Street SW #30, Calgary, AB T3E 3B3, Canada"
+  },
+  "agni-calgary-indian-restaurant": {
+    "lat": 51.0629892,
+    "lng": -114.0562915,
+    "rating": 4.5,
+    "user_ratings_total": null,
+    "address": "1211 Edmonton Trl #120, Calgary, AB T2E 6X4, Canada"
+  },
+  "acme-pizza-pasta-co": {
+    "lat": 51.0552359,
+    "lng": -114.08325819999999,
+    "rating": 4.5,
+    "user_ratings_total": null,
+    "address": "940 2 Ave NW, Calgary, AB T2N 0E6, Canada"
+  },
+  "acme-pizza-co-in-sunalta": {
+    "lat": 51.0445065,
+    "lng": -114.0968603,
+    "rating": 4.5,
+    "user_ratings_total": null,
+    "address": "1602 10 Ave SW, Calgary, AB T3C 0J8, Canada"
+  },
+  "actually-pretty-good-bankview": {
+    "lat": 51.0317321,
+    "lng": -114.0951733,
+    "rating": 4.6,
+    "user_ratings_total": null,
+    "address": "2509 14 St SW, Calgary, AB T2T 3T8, Canada"
+  },
+  "actually-pretty-good-victoria-park": {
+    "lat": 51.040173700000004,
+    "lng": -114.06628649999999,
+    "rating": 4.4,
+    "user_ratings_total": null,
+    "address": "1327 1 St SW, Calgary, AB T2R 1C9, Canada"
+  },
+  "aida-s-bistro": {
+    "lat": 51.033107,
+    "lng": -114.071345,
+    "rating": 4.5,
+    "user_ratings_total": null,
+    "address": "2208 4 St SW, Calgary, AB T2S 1W9, Canada"
+  },
+  "ajito": {
+    "lat": 50.9889298,
+    "lng": -114.07067140000001,
+    "rating": 4.6,
+    "user_ratings_total": null,
+    "address": "7212 Macleod Trl SE #110, Calgary, AB T2H 0L9, Canada"
+  },
+  "aladdin-s-casbah": {
+    "lat": 50.943109,
+    "lng": -114.068772,
+    "rating": 4.1,
+    "user_ratings_total": null,
+    "address": "12445 Lake Fraser Dr SE #109, Calgary, AB T2J 7H3, Canada"
+  },
+  "alforno-bakery-cafe": {
+    "lat": 51.051421,
+    "lng": -114.07815099999999,
+    "rating": 4.4,
+    "user_ratings_total": null,
+    "address": "222 7 St SW, Calgary, AB T2P 0E4, Canada"
   }
 }

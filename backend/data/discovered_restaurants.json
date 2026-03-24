@@ -17,7 +17,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed"
   },
   {
     "name": "5 Senses Ramen & Bistro",
@@ -36,7 +36,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "A Boonsik Downtown",
@@ -55,7 +55,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "A Touch of India",
@@ -75,7 +75,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "AGGÜDO COFFEE ROASTERS",
@@ -114,7 +114,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "AURORA ITALIANA",
@@ -134,7 +134,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed"
   },
   {
     "name": "AYCE K BBQ",
@@ -155,7 +155,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "failed"
   },
   {
     "name": "Abbey's Creations Mission",
@@ -200,7 +200,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Acme Pizza Co. - In Sunalta",
@@ -227,7 +227,7 @@
       "service",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Actually Pretty Good - Bankview",
@@ -247,7 +247,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Actually Pretty Good - Victoria Park",
@@ -267,7 +267,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Aida's Bistro",
@@ -288,7 +288,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Ajito",
@@ -309,7 +309,7 @@
       "food",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Aladdin's Casbah",
@@ -330,7 +330,7 @@
       "point_of_interest",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Alenn Sandwich and Coffee",
@@ -408,7 +408,7 @@
       "store",
       "establishment"
     ],
-    "status": "new"
+    "status": "scraped"
   },
   {
     "name": "Alloy",

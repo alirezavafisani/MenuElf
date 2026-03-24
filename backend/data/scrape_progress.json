@@ -1,0 +1,103 @@
+{
+  "total_discovered": 903,
+  "scraped_success": 12,
+  "scraped_failed": 3,
+  "skipped": 0,
+  "remaining": 873,
+  "last_batch": "15b",
+  "restaurants": [
+    {
+      "name": "4th Spot Kitchen & Bar",
+      "slug": "4th-spot-kitchen-bar",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "5 Senses Ramen & Bistro",
+      "slug": "5-senses-ramen-bistro",
+      "status": "success",
+      "items_count": 26
+    },
+    {
+      "name": "A Boonsik Downtown",
+      "slug": "a-boonsik-downtown",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "A Touch of India",
+      "slug": "a-touch-of-india",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "AGNI- CALGARY INDIAN RESTAURANT",
+      "slug": "agni-calgary-indian-restaurant",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "AURORA ITALIANA",
+      "slug": "aurora-italiana",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "AYCE K BBQ",
+      "slug": "ayce-k-bbq",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Acme Pizza & Pasta Co.",
+      "slug": "acme-pizza-pasta-co",
+      "status": "success",
+      "items_count": 38
+    },
+    {
+      "name": "Acme Pizza Co. - In Sunalta",
+      "slug": "acme-pizza-co-in-sunalta",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Actually Pretty Good - Bankview",
+      "slug": "actually-pretty-good-bankview",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "Actually Pretty Good - Victoria Park",
+      "slug": "actually-pretty-good-victoria-park",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Aida's Bistro",
+      "slug": "aida-s-bistro",
+      "status": "success",
+      "items_count": 18
+    },
+    {
+      "name": "Ajito",
+      "slug": "ajito",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Aladdin's Casbah",
+      "slug": "aladdin-s-casbah",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Alforno Bakery & Cafe",
+      "slug": "alforno-bakery-cafe",
+      "status": "success",
+      "items_count": 27
+    }
+  ]
+}
