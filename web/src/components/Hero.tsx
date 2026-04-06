@@ -5,8 +5,19 @@ export default function Hero() {
     const searchSection = document.getElementById('search');
     if (searchSection) {
       searchSection.scrollIntoView({ behavior: 'smooth' });
-      // Dispatch a custom event so DishSearch picks up the query
-      window.dispatchEvent(new CustomEvent('menuelf:search', { detail: query }));
+      // Parse "Under $X" style queries into price filter
+      const underMatch = query.match(/^Under \$(\d+)$/i);
+      if (underMatch) {
+        window.dispatchEvent(
+          new CustomEvent('menuelf:search', {
+            detail: { query: '', priceMax: Number(underMatch[1]) },
+          })
+        );
+      } else {
+        window.dispatchEvent(
+          new CustomEvent('menuelf:search', { detail: { query } })
+        );
+      }
     }
   };
 
@@ -21,8 +32,17 @@ export default function Hero() {
 
   return (
     <section className="relative pt-32 pb-20 px-4 overflow-hidden">
-      {/* Subtle background gradient */}
-      <div className="absolute inset-0 bg-gradient-to-br from-orange-50/80 via-bg to-amber-50/40 pointer-events-none" />
+      {/* Background photo with overlay */}
+      <div
+        className="absolute inset-0 -z-20"
+        style={{
+          backgroundImage: 'url(https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=2000&q=80)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+        }}
+      />
+      <div className="absolute inset-0 -z-10 bg-bg/[0.92]" />
+      {/* Subtle accent blobs */}
       <div className="absolute top-20 right-1/4 w-96 h-96 bg-accent/5 rounded-full blur-3xl pointer-events-none" />
       <div className="absolute bottom-0 left-1/4 w-80 h-80 bg-amber-200/20 rounded-full blur-3xl pointer-events-none" />
 

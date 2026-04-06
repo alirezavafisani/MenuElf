@@ -7,6 +7,7 @@ export interface Restaurant {
   reviews: number | null;
   address: string | null;
   photos: string[];
+  photo_url: string | null;
 }
 
 export interface Dish {

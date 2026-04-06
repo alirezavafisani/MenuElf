@@ -28,7 +28,13 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="flex items-center gap-1.5 group">
-            <span className="text-2xl">🧝</span>
+            <svg className="w-7 h-7 text-accent" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14h-2v-2h2v2zm0-4h-2V7h2v5zm4 4h-2v-2h2v2zm0-4h-2V7h2v5z" opacity="0"/>
+              <circle cx="12" cy="12" r="10" fill="none" stroke="currentColor" strokeWidth="1.5"/>
+              <path d="M8 14c0 2.2 1.8 4 4 4s4-1.8 4-4" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round"/>
+              <circle cx="9" cy="10" r="1.2" fill="currentColor"/>
+              <circle cx="15" cy="10" r="1.2" fill="currentColor"/>
+            </svg>
             <span className="text-xl font-bold text-accent">MenuElf</span>
           </a>
 

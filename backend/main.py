@@ -95,7 +95,63 @@ def load_menu(display_name: str):
                     return json.load(f)
     return None
 
-# ─── Flat menu index ───
+# ─── Data cleaning ───
+# Category normalization map: raw -> clean
+_CATEGORY_RENAME = {
+    "SEXY SANDWICHES": "Sandwiches",
+    "FRICKEN MENU": "Chicken",
+    "FRICKEN BY THE PIECE": "Chicken",
+    "CHICKEN SINGLES": "Chicken",
+    "CHICKEN PACK": "Chicken",
+    "KETO PITA WRAP": "Wraps",
+    "BAKED LASAGNA": "Pasta",
+    "PASTA ME": "Pasta",
+    "BŌLS": "Bowls",
+    "GUS'S FAVES": "Specials",
+    "SHISHA ACCESSORIES": "Other",
+    "UNCATEGORIZED": "Other",
+    "Uncategorized": "Other",
+    "Menu": "Food",
+    "Food Menu": "Food",
+    "General Menu Items": "Other",
+    "OTHER": "Other",
+}
+
+def _clean_category(cat: str | None) -> str:
+    if not cat:
+        return ""
+    # Check rename map first
+    if cat in _CATEGORY_RENAME:
+        return _CATEGORY_RENAME[cat]
+    # If ALL-CAPS (and more than 1 word or known short ones), title-case it
+    if cat.isupper() and len(cat) > 1:
+        return cat.title()
+    return cat
+
+def _clean_description(desc: str | None, name: str | None) -> str:
+    if not desc or desc in ("None", "null", "none"):
+        return ""
+    desc = desc.strip()
+    # Remove if description is just the name repeated
+    if name and desc == name.strip():
+        return ""
+    # Remove if description is just a price number
+    try:
+        float(desc.replace("$", "").replace(",", "").strip())
+        return ""
+    except ValueError:
+        pass
+    return desc
+
+def clean_menu_index(items: list[dict]) -> list[dict]:
+    """Clean categories and descriptions in menu index in-place."""
+    for item in items:
+        item["category"] = _clean_category(item.get("category"))
+        item["description"] = _clean_description(
+            item.get("description"), item.get("name")
+        )
+    return items
+
 # ─── Flat menu index ───
 import numpy as np
 
@@ -111,6 +167,8 @@ def load_menu_index():
         if os.path.isfile(MENU_DB_FILE):
             with open(MENU_DB_FILE, "r") as f:
                 MENU_INDEX = json.load(f)
+            clean_menu_index(MENU_INDEX)
+            print(f"Loaded and cleaned {len(MENU_INDEX)} menu items", flush=True)
         else:
             MENU_INDEX = []
 
@@ -152,6 +210,28 @@ def load_photo_urls():
 
 load_photo_urls()
 
+# ─── Restaurant Photos (Google Places references + Foursquare static) ───
+RESTAURANT_PHOTOS_FILE = os.path.join(BASE_DIR, "restaurant_photos.json")
+RESTAURANT_PHOTOS: dict[str, dict] = {}
+
+def load_restaurant_photos():
+    global RESTAURANT_PHOTOS
+    if os.path.isfile(RESTAURANT_PHOTOS_FILE):
+        with open(RESTAURANT_PHOTOS_FILE, "r", encoding="utf-8") as f:
+            RESTAURANT_PHOTOS = json.load(f)
+        print(f"Loaded photo references for {len(RESTAURANT_PHOTOS)} restaurants", flush=True)
+
+load_restaurant_photos()
+
+# Static images directory (for Foursquare-scraped photos)
+IMAGES_DIR = os.path.join(BASE_DIR, "restaurant_images")
+PHOTO_MANIFEST_FILE = os.path.join(BASE_DIR, "restaurant_images_manifest.json")
+PHOTO_MANIFEST: dict[str, str] = {}
+if os.path.isfile(PHOTO_MANIFEST_FILE):
+    with open(PHOTO_MANIFEST_FILE, "r") as f:
+        PHOTO_MANIFEST = json.load(f)
+    print(f"Loaded photo manifest with {len(PHOTO_MANIFEST)} entries", flush=True)
+
 # ─── Endpoints ───
 @app.get("/health")
 def health_check():
@@ -185,7 +265,7 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
         if q and q not in display_name.lower():
             continue
         slug = REVERSE_MAPPING.get(display_name.lower())
-        rest_info = {"name": display_name, "slug": slug, "lat": None, "lng": None, "rating": None, "reviews": None, "address": None, "photos": []}
+        rest_info = {"name": display_name, "slug": slug, "lat": None, "lng": None, "rating": None, "reviews": None, "address": None, "photos": [], "photo_url": None}
         if slug and slug in PLACES_DATA:
             pdata = PLACES_DATA[slug]
             if "error" not in pdata:
@@ -197,6 +277,11 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
 
         if slug:
             rest_info["photos"] = PHOTO_URLS.get(slug, [])
+            # Prefer static Foursquare image, fall back to Google Places proxy
+            if slug in PHOTO_MANIFEST:
+                rest_info["photo_url"] = f"/restaurant-images/{PHOTO_MANIFEST[slug]}"
+            elif slug in RESTAURANT_PHOTOS and RESTAURANT_PHOTOS[slug].get("photos"):
+                rest_info["photo_url"] = f"/restaurant-photo/{slug}"
 
         # Enrich with personalization if user profile is available
         if user_profile and slug:
@@ -254,6 +339,10 @@ def search_dishes(req: SearchRequest):
         if price is not None and isinstance(price, (int, float)):
             if req.price_min is not None and price < req.price_min: continue
             if req.price_max is not None and price > req.price_max: continue
+        else:
+            # Exclude items with unknown price when price filter is active
+            if req.price_min is not None or req.price_max is not None:
+                continue
             
         # Category
         cat = item.get("category", "")
@@ -687,6 +776,61 @@ def get_chat_history(restaurant_slug: str, x_user_id: str = Header(default="")):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to get chat history: {e}")
 
+
+# ─── Restaurant photo proxy (Google Places) ───
+import httpx
+
+_photo_cache: dict[str, bytes] = {}
+
+@app.get("/restaurant-photo/{slug}")
+async def get_restaurant_photo(slug: str):
+    """Proxy a Google Places photo for a restaurant.
+    Uses the photo_reference from restaurant_photos.json and the
+    GOOGLE_MAPS_API_KEY env var to fetch the image server-side.
+    """
+    from fastapi.responses import Response
+
+    # Serve from in-memory cache if available
+    if slug in _photo_cache:
+        return Response(content=_photo_cache[slug], media_type="image/jpeg",
+                        headers={"Cache-Control": "public, max-age=86400"})
+
+    # Check for static file first
+    static_path = os.path.join(IMAGES_DIR, f"{slug}.jpg")
+    if os.path.isfile(static_path):
+        from fastapi.responses import FileResponse
+        return FileResponse(static_path, media_type="image/jpeg",
+                            headers={"Cache-Control": "public, max-age=86400"})
+
+    # Look up photo reference
+    photo_data = RESTAURANT_PHOTOS.get(slug)
+    if not photo_data or not photo_data.get("photos"):
+        raise HTTPException(status_code=404, detail="No photo available")
+
+    api_key = os.environ.get("GOOGLE_MAPS_API_KEY")
+    if not api_key:
+        raise HTTPException(status_code=503, detail="Photo service unavailable")
+
+    photo_ref = photo_data["photos"][0]["photo_reference"]
+    url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference={photo_ref}&key={api_key}"
+
+    try:
+        async with httpx.AsyncClient(follow_redirects=True, timeout=10) as client_http:
+            resp = await client_http.get(url)
+            resp.raise_for_status()
+            img_bytes = resp.content
+            # Cache in memory (limit to ~50MB)
+            if len(_photo_cache) < 500:
+                _photo_cache[slug] = img_bytes
+            return Response(content=img_bytes, media_type="image/jpeg",
+                            headers={"Cache-Control": "public, max-age=86400"})
+    except Exception:
+        raise HTTPException(status_code=502, detail="Failed to fetch photo")
+
+# ─── Serve static restaurant images ───
+if os.path.isdir(IMAGES_DIR):
+    from fastapi.staticfiles import StaticFiles as _StaticFiles
+    app.mount("/restaurant-images", _StaticFiles(directory=IMAGES_DIR), name="restaurant-images")
 
 # ─── Serve web frontend (static files) ───
 from fastapi.staticfiles import StaticFiles

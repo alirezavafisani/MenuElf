@@ -27,6 +27,14 @@ body {
   background: #A8A29E;
 }
 
+/* Leaflet z-index containment */
+.leaflet-container {
+  z-index: 1 !important;
+}
+.leaflet-pane {
+  z-index: 1 !important;
+}
+
 /* Leaflet popup overrides */
 .leaflet-popup-content-wrapper {
   border-radius: 12px !important;

@@ -3,7 +3,6 @@ export default function Footer() {
     <footer id="about" className="bg-white border-t border-stone-200 py-16 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <div className="flex items-center justify-center gap-2 mb-4">
-          <span className="text-3xl">🧝</span>
           <span className="text-2xl font-bold text-accent">MenuElf</span>
         </div>
         <p className="text-stone-500 max-w-xl mx-auto mb-8">

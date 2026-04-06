@@ -85,12 +85,12 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
     <>
       {/* Backdrop */}
       <div
-        className="fixed inset-0 bg-black/20 backdrop-blur-sm z-50 md:bg-transparent md:backdrop-blur-none"
+        className="fixed inset-0 bg-black/20 backdrop-blur-sm z-[100] md:bg-transparent md:backdrop-blur-none"
         onClick={onClose}
       />
 
       {/* Panel */}
-      <div className="fixed right-0 top-0 bottom-0 w-full md:w-[400px] bg-white shadow-2xl z-50 flex flex-col animate-slide-in">
+      <div className="fixed right-0 top-0 bottom-0 w-full md:w-[400px] bg-white shadow-2xl z-[101] flex flex-col animate-slide-in">
         {/* Header */}
         <div className="flex items-center justify-between px-5 py-4 border-b border-stone-200 bg-white">
           <div className="min-w-0">
