@@ -31,3 +31,7 @@ backend/menu_embeddings.npy
 
 # Legacy uncompressed embeddings
 backend/menu_embeddings.npy
+
+# Web frontend
+web/node_modules/
+web/dist/
