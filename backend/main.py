@@ -3,7 +3,8 @@ import json
 import time
 import glob
 import re
-from fastapi import BackgroundTasks, FastAPI, Header, HTTPException
+from collections import defaultdict
+from fastapi import BackgroundTasks, FastAPI, Header, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
@@ -16,6 +17,19 @@ MENUS_DIR = os.environ.get("MENUS_DIR", os.path.join(BASE_DIR, "menus"))
 from dotenv import load_dotenv
 load_dotenv(os.path.join(BASE_DIR, ".env"), override=True)
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
+# ─── Simple IP-based rate limiter for /chat ───
+_chat_rate_limits: dict[str, list[float]] = defaultdict(list)
+CHAT_RATE_LIMIT = 30  # requests per hour
+CHAT_RATE_WINDOW = 3600  # 1 hour in seconds
+
+def check_chat_rate_limit(request: Request):
+    ip = request.client.host if request.client else "unknown"
+    now = time.time()
+    _chat_rate_limits[ip] = [t for t in _chat_rate_limits[ip] if now - t < CHAT_RATE_WINDOW]
+    if len(_chat_rate_limits[ip]) >= CHAT_RATE_LIMIT:
+        raise HTTPException(status_code=429, detail="Rate limit exceeded. Try again later.")
+    _chat_rate_limits[ip].append(now)
 
 app = FastAPI()
 app.add_middleware(
@@ -586,9 +600,11 @@ def chat_start(req: ChatStartRequest, x_user_id: str = Header(default="")):
 @app.post("/chat")
 def chat_with_menu(
     req: ChatRequest,
+    request: Request,
     background_tasks: BackgroundTasks,
     x_user_id: str = Header(default=""),
 ):
+    check_chat_rate_limit(request)
     # Try both slug and display name for menu loading
     menu_json = load_menu(req.restaurant)
     if menu_json is None:
@@ -670,5 +686,25 @@ def get_chat_history(restaurant_slug: str, x_user_id: str = Header(default="")):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to get chat history: {e}")
+
+
+# ─── Serve web frontend (static files) ───
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse, RedirectResponse
+
+WEB_DIR = os.path.join(BASE_DIR, "web_dist")
+if os.path.isdir(WEB_DIR):
+    @app.get("/app/{full_path:path}")
+    async def serve_spa(full_path: str):
+        file_path = os.path.join(WEB_DIR, full_path)
+        if os.path.isfile(file_path):
+            return FileResponse(file_path)
+        return FileResponse(os.path.join(WEB_DIR, "index.html"))
+
+    app.mount("/app", StaticFiles(directory=WEB_DIR, html=True), name="web")
+
+    @app.get("/")
+    async def root_redirect():
+        return RedirectResponse(url="/app")
 
 
