@@ -35,3 +35,4 @@ backend/menu_embeddings.npy
 # Web frontend
 web/node_modules/
 web/dist/
+web/*.tsbuildinfo
