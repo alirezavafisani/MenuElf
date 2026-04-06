@@ -210,6 +210,28 @@ def load_photo_urls():
 
 load_photo_urls()
 
+# ─── Restaurant Photos (Google Places references + Foursquare static) ───
+RESTAURANT_PHOTOS_FILE = os.path.join(BASE_DIR, "restaurant_photos.json")
+RESTAURANT_PHOTOS: dict[str, dict] = {}
+
+def load_restaurant_photos():
+    global RESTAURANT_PHOTOS
+    if os.path.isfile(RESTAURANT_PHOTOS_FILE):
+        with open(RESTAURANT_PHOTOS_FILE, "r", encoding="utf-8") as f:
+            RESTAURANT_PHOTOS = json.load(f)
+        print(f"Loaded photo references for {len(RESTAURANT_PHOTOS)} restaurants", flush=True)
+
+load_restaurant_photos()
+
+# Static images directory (for Foursquare-scraped photos)
+IMAGES_DIR = os.path.join(BASE_DIR, "restaurant_images")
+PHOTO_MANIFEST_FILE = os.path.join(BASE_DIR, "restaurant_images_manifest.json")
+PHOTO_MANIFEST: dict[str, str] = {}
+if os.path.isfile(PHOTO_MANIFEST_FILE):
+    with open(PHOTO_MANIFEST_FILE, "r") as f:
+        PHOTO_MANIFEST = json.load(f)
+    print(f"Loaded photo manifest with {len(PHOTO_MANIFEST)} entries", flush=True)
+
 # ─── Endpoints ───
 @app.get("/health")
 def health_check():
@@ -243,7 +265,7 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
         if q and q not in display_name.lower():
             continue
         slug = REVERSE_MAPPING.get(display_name.lower())
-        rest_info = {"name": display_name, "slug": slug, "lat": None, "lng": None, "rating": None, "reviews": None, "address": None, "photos": []}
+        rest_info = {"name": display_name, "slug": slug, "lat": None, "lng": None, "rating": None, "reviews": None, "address": None, "photos": [], "photo_url": None}
         if slug and slug in PLACES_DATA:
             pdata = PLACES_DATA[slug]
             if "error" not in pdata:
@@ -255,6 +277,11 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
 
         if slug:
             rest_info["photos"] = PHOTO_URLS.get(slug, [])
+            # Prefer static Foursquare image, fall back to Google Places proxy
+            if slug in PHOTO_MANIFEST:
+                rest_info["photo_url"] = f"/restaurant-images/{PHOTO_MANIFEST[slug]}"
+            elif slug in RESTAURANT_PHOTOS and RESTAURANT_PHOTOS[slug].get("photos"):
+                rest_info["photo_url"] = f"/restaurant-photo/{slug}"
 
         # Enrich with personalization if user profile is available
         if user_profile and slug:
@@ -749,6 +776,61 @@ def get_chat_history(restaurant_slug: str, x_user_id: str = Header(default="")):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to get chat history: {e}")
 
+
+# ─── Restaurant photo proxy (Google Places) ───
+import httpx
+
+_photo_cache: dict[str, bytes] = {}
+
+@app.get("/restaurant-photo/{slug}")
+async def get_restaurant_photo(slug: str):
+    """Proxy a Google Places photo for a restaurant.
+    Uses the photo_reference from restaurant_photos.json and the
+    GOOGLE_MAPS_API_KEY env var to fetch the image server-side.
+    """
+    from fastapi.responses import Response
+
+    # Serve from in-memory cache if available
+    if slug in _photo_cache:
+        return Response(content=_photo_cache[slug], media_type="image/jpeg",
+                        headers={"Cache-Control": "public, max-age=86400"})
+
+    # Check for static file first
+    static_path = os.path.join(IMAGES_DIR, f"{slug}.jpg")
+    if os.path.isfile(static_path):
+        from fastapi.responses import FileResponse
+        return FileResponse(static_path, media_type="image/jpeg",
+                            headers={"Cache-Control": "public, max-age=86400"})
+
+    # Look up photo reference
+    photo_data = RESTAURANT_PHOTOS.get(slug)
+    if not photo_data or not photo_data.get("photos"):
+        raise HTTPException(status_code=404, detail="No photo available")
+
+    api_key = os.environ.get("GOOGLE_MAPS_API_KEY")
+    if not api_key:
+        raise HTTPException(status_code=503, detail="Photo service unavailable")
+
+    photo_ref = photo_data["photos"][0]["photo_reference"]
+    url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference={photo_ref}&key={api_key}"
+
+    try:
+        async with httpx.AsyncClient(follow_redirects=True, timeout=10) as client_http:
+            resp = await client_http.get(url)
+            resp.raise_for_status()
+            img_bytes = resp.content
+            # Cache in memory (limit to ~50MB)
+            if len(_photo_cache) < 500:
+                _photo_cache[slug] = img_bytes
+            return Response(content=img_bytes, media_type="image/jpeg",
+                            headers={"Cache-Control": "public, max-age=86400"})
+    except Exception:
+        raise HTTPException(status_code=502, detail="Failed to fetch photo")
+
+# ─── Serve static restaurant images ───
+if os.path.isdir(IMAGES_DIR):
+    from fastapi.staticfiles import StaticFiles as _StaticFiles
+    app.mount("/restaurant-images", _StaticFiles(directory=IMAGES_DIR), name="restaurant-images")
 
 # ─── Serve web frontend (static files) ───
 from fastapi.staticfiles import StaticFiles

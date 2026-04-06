@@ -1,4 +1,6 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useEffect, useMemo } from 'react';
+import { getRestaurants } from './api';
+import type { Restaurant } from './types';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import DishSearch from './components/DishSearch';
@@ -12,6 +14,22 @@ export default function App() {
     name: string;
   } | null>(null);
 
+  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+
+  useEffect(() => {
+    getRestaurants()
+      .then((data) => setRestaurants(data.restaurants))
+      .catch(() => {});
+  }, []);
+
+  const restaurantPhotoMap = useMemo(() => {
+    const map: Record<string, string> = {};
+    restaurants.forEach((r) => {
+      if (r.photo_url) map[r.slug] = r.photo_url;
+    });
+    return map;
+  }, [restaurants]);
+
   const openChat = useCallback((slug: string, name: string) => {
     setChatRestaurant({ slug, name });
   }, []);
@@ -24,8 +42,8 @@ export default function App() {
     <div className="min-h-screen bg-bg">
       <Navbar />
       <Hero />
-      <DishSearch onOpenChat={openChat} />
-      <RestaurantMap onOpenChat={openChat} />
+      <DishSearch onOpenChat={openChat} restaurantPhotoMap={restaurantPhotoMap} />
+      <RestaurantMap onOpenChat={openChat} restaurants={restaurants} />
       <Footer />
       {chatRestaurant && (
         <ChatPanel

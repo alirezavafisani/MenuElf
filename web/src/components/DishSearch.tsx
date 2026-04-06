@@ -7,9 +7,10 @@ import { DishGridSkeleton } from './LoadingSkeleton';
 
 interface DishSearchProps {
   onOpenChat: (slug: string, name: string) => void;
+  restaurantPhotoMap: Record<string, string>;
 }
 
-export default function DishSearch({ onOpenChat }: DishSearchProps) {
+export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearchProps) {
   const [query, setQuery] = useState('');
   const [dishes, setDishes] = useState<Dish[]>([]);
   const [loading, setLoading] = useState(false);
@@ -147,6 +148,7 @@ export default function DishSearch({ onOpenChat }: DishSearchProps) {
                       dish={dish}
                       index={i}
                       onOpenChat={onOpenChat}
+                      photoUrl={restaurantPhotoMap[dish.restaurant_slug]}
                     />
                   ))}
                 </div>

@@ -12,9 +12,10 @@ interface DishCardProps {
   dish: Dish;
   index: number;
   onOpenChat: (slug: string, name: string) => void;
+  photoUrl?: string;
 }
 
-export default function DishCard({ dish, index, onOpenChat }: DishCardProps) {
+export default function DishCard({ dish, index, onOpenChat, photoUrl }: DishCardProps) {
   const price = formatPrice(dish.price);
 
   return (
@@ -35,8 +36,16 @@ export default function DishCard({ dish, index, onOpenChat }: DishCardProps) {
 
       <button
         onClick={() => onOpenChat(dish.restaurant_slug, dish.restaurant_name)}
-        className="text-xs text-stone-500 hover:text-accent transition-colors mb-2 text-left"
+        className="flex items-center gap-2 text-xs text-stone-500 hover:text-accent transition-colors mb-2 text-left"
       >
+        {photoUrl && (
+          <img
+            src={photoUrl}
+            alt=""
+            className="w-6 h-6 rounded-full object-cover flex-shrink-0"
+            onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+          />
+        )}
         {dish.restaurant_name} →
       </button>
 

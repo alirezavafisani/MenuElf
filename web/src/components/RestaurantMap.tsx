@@ -1,7 +1,6 @@
-import { useEffect, useState, useMemo } from 'react';
+import { useMemo } from 'react';
 import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import L from 'leaflet';
-import { getRestaurants } from '../api';
 import type { Restaurant } from '../types';
 
 // Fix Leaflet default marker icon issue with bundlers
@@ -44,23 +43,16 @@ function StarRating({ rating }: { rating: number }) {
 
 interface RestaurantMapProps {
   onOpenChat: (slug: string, name: string) => void;
+  restaurants: Restaurant[];
 }
 
-export default function RestaurantMap({ onOpenChat }: RestaurantMapProps) {
-  const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    getRestaurants()
-      .then((data) => setRestaurants(data.restaurants))
-      .catch(() => {})
-      .finally(() => setLoading(false));
-  }, []);
-
+export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMapProps) {
   const geoRestaurants = useMemo(
     () => restaurants.filter((r) => r.lat !== null && r.lng !== null),
     [restaurants]
   );
+
+  const loading = restaurants.length === 0;
 
   return (
     <section id="map" className="py-16 px-4">
@@ -99,27 +91,46 @@ export default function RestaurantMap({ onOpenChat }: RestaurantMapProps) {
                   }}
                 >
                   <Popup>
-                    <div className="p-3 min-w-[200px]">
-                      <h3 className="font-semibold text-stone-900 text-sm mb-1">
-                        {restaurant.name}
-                      </h3>
-                      {restaurant.rating && (
-                        <div className="flex items-center gap-1.5 mb-1">
-                          <StarRating rating={restaurant.rating} />
-                          <span className="text-xs text-stone-500">
-                            ({restaurant.reviews ?? 0})
-                          </span>
-                        </div>
+                    <div className="font-sans" style={{ minWidth: 240 }}>
+                      {restaurant.photo_url && (
+                        <img
+                          src={restaurant.photo_url}
+                          alt={restaurant.name}
+                          style={{
+                            width: '100%',
+                            height: 140,
+                            objectFit: 'cover',
+                            borderTopLeftRadius: 12,
+                            borderTopRightRadius: 12,
+                            display: 'block',
+                          }}
+                          onError={(e) => {
+                            (e.target as HTMLImageElement).style.display = 'none';
+                          }}
+                        />
                       )}
-                      {restaurant.address && (
-                        <p className="text-xs text-stone-500 mb-2">{restaurant.address}</p>
-                      )}
-                      <button
-                        onClick={() => onOpenChat(restaurant.slug, restaurant.name)}
-                        className="w-full text-center text-xs font-semibold text-accent hover:text-accent-hover transition-colors"
-                      >
-                        Chat about this menu →
-                      </button>
+                      <div style={{ padding: 14 }}>
+                        <h3 className="font-semibold text-stone-900 text-sm mb-1">
+                          {restaurant.name}
+                        </h3>
+                        {restaurant.rating && (
+                          <div className="flex items-center gap-1.5 mb-1">
+                            <StarRating rating={restaurant.rating} />
+                            <span className="text-xs text-stone-500">
+                              ({restaurant.reviews ?? 0})
+                            </span>
+                          </div>
+                        )}
+                        {restaurant.address && (
+                          <p className="text-xs text-stone-500 mb-2">{restaurant.address}</p>
+                        )}
+                        <button
+                          onClick={() => onOpenChat(restaurant.slug, restaurant.name)}
+                          className="w-full text-center text-xs font-semibold text-accent hover:text-accent-hover transition-colors"
+                        >
+                          Chat about this menu →
+                        </button>
+                      </div>
                     </div>
                   </Popup>
                 </Marker>
