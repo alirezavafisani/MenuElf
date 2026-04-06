@@ -694,17 +694,24 @@ from fastapi.responses import FileResponse, RedirectResponse
 
 WEB_DIR = os.path.join(BASE_DIR, "web_dist")
 if os.path.isdir(WEB_DIR):
+    # Redirect root to /app/
+    @app.get("/")
+    async def root_redirect():
+        return RedirectResponse(url="/app/")
+
+    # Serve static assets (JS, CSS, images)
+    app.mount("/app/assets", StaticFiles(directory=os.path.join(WEB_DIR, "assets")), name="web-assets")
+
+    # Catch-all for SPA routes under /app
     @app.get("/app/{full_path:path}")
     async def serve_spa(full_path: str):
         file_path = os.path.join(WEB_DIR, full_path)
-        if os.path.isfile(file_path):
+        if full_path and os.path.isfile(file_path):
             return FileResponse(file_path)
         return FileResponse(os.path.join(WEB_DIR, "index.html"))
 
-    app.mount("/app", StaticFiles(directory=WEB_DIR, html=True), name="web")
-
-    @app.get("/")
-    async def root_redirect():
-        return RedirectResponse(url="/app")
+    @app.get("/app")
+    async def serve_app_root():
+        return FileResponse(os.path.join(WEB_DIR, "index.html"))
 
 
