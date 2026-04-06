@@ -95,7 +95,63 @@ def load_menu(display_name: str):
                     return json.load(f)
     return None
 
-# ─── Flat menu index ───
+# ─── Data cleaning ───
+# Category normalization map: raw -> clean
+_CATEGORY_RENAME = {
+    "SEXY SANDWICHES": "Sandwiches",
+    "FRICKEN MENU": "Chicken",
+    "FRICKEN BY THE PIECE": "Chicken",
+    "CHICKEN SINGLES": "Chicken",
+    "CHICKEN PACK": "Chicken",
+    "KETO PITA WRAP": "Wraps",
+    "BAKED LASAGNA": "Pasta",
+    "PASTA ME": "Pasta",
+    "BŌLS": "Bowls",
+    "GUS'S FAVES": "Specials",
+    "SHISHA ACCESSORIES": "Other",
+    "UNCATEGORIZED": "Other",
+    "Uncategorized": "Other",
+    "Menu": "Food",
+    "Food Menu": "Food",
+    "General Menu Items": "Other",
+    "OTHER": "Other",
+}
+
+def _clean_category(cat: str | None) -> str:
+    if not cat:
+        return ""
+    # Check rename map first
+    if cat in _CATEGORY_RENAME:
+        return _CATEGORY_RENAME[cat]
+    # If ALL-CAPS (and more than 1 word or known short ones), title-case it
+    if cat.isupper() and len(cat) > 1:
+        return cat.title()
+    return cat
+
+def _clean_description(desc: str | None, name: str | None) -> str:
+    if not desc or desc in ("None", "null", "none"):
+        return ""
+    desc = desc.strip()
+    # Remove if description is just the name repeated
+    if name and desc == name.strip():
+        return ""
+    # Remove if description is just a price number
+    try:
+        float(desc.replace("$", "").replace(",", "").strip())
+        return ""
+    except ValueError:
+        pass
+    return desc
+
+def clean_menu_index(items: list[dict]) -> list[dict]:
+    """Clean categories and descriptions in menu index in-place."""
+    for item in items:
+        item["category"] = _clean_category(item.get("category"))
+        item["description"] = _clean_description(
+            item.get("description"), item.get("name")
+        )
+    return items
+
 # ─── Flat menu index ───
 import numpy as np
 
@@ -111,6 +167,8 @@ def load_menu_index():
         if os.path.isfile(MENU_DB_FILE):
             with open(MENU_DB_FILE, "r") as f:
                 MENU_INDEX = json.load(f)
+            clean_menu_index(MENU_INDEX)
+            print(f"Loaded and cleaned {len(MENU_INDEX)} menu items", flush=True)
         else:
             MENU_INDEX = []
 
@@ -254,6 +312,10 @@ def search_dishes(req: SearchRequest):
         if price is not None and isinstance(price, (int, float)):
             if req.price_min is not None and price < req.price_min: continue
             if req.price_max is not None and price > req.price_max: continue
+        else:
+            # Exclude items with unknown price when price filter is active
+            if req.price_min is not None or req.price_max is not None:
+                continue
             
         # Category
         cat = item.get("category", "")

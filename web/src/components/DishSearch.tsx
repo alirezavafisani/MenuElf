@@ -52,10 +52,14 @@ export default function DishSearch({ onOpenChat }: DishSearchProps) {
   // Listen for hero search events
   useEffect(() => {
     const handler = (e: Event) => {
-      const detail = (e as CustomEvent).detail as string;
-      setQuery(detail);
-      if (inputRef.current) inputRef.current.value = detail;
-      doSearch(detail);
+      const detail = (e as CustomEvent).detail as { query: string; priceMax?: number };
+      const q = detail.query ?? '';
+      setQuery(q);
+      if (inputRef.current) inputRef.current.value = q;
+      if (detail.priceMax !== undefined) {
+        setPriceMax(detail.priceMax);
+      }
+      doSearch(q);
     };
     window.addEventListener('menuelf:search', handler);
     return () => window.removeEventListener('menuelf:search', handler);

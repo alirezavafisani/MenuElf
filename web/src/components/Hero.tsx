@@ -5,8 +5,19 @@ export default function Hero() {
     const searchSection = document.getElementById('search');
     if (searchSection) {
       searchSection.scrollIntoView({ behavior: 'smooth' });
-      // Dispatch a custom event so DishSearch picks up the query
-      window.dispatchEvent(new CustomEvent('menuelf:search', { detail: query }));
+      // Parse "Under $X" style queries into price filter
+      const underMatch = query.match(/^Under \$(\d+)$/i);
+      if (underMatch) {
+        window.dispatchEvent(
+          new CustomEvent('menuelf:search', {
+            detail: { query: '', priceMax: Number(underMatch[1]) },
+          })
+        );
+      } else {
+        window.dispatchEvent(
+          new CustomEvent('menuelf:search', { detail: { query } })
+        );
+      }
     }
   };
 
