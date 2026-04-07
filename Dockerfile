@@ -17,7 +17,8 @@ COPY --from=web-builder /web/dist ./web_dist/
 
 # Decrypt restaurant data at build time
 ARG DATA_ENCRYPTION_KEY
-RUN if [ -f data_bundle.tar.gz.enc ] && [ -n "$DATA_ENCRYPTION_KEY" ]; then \
+RUN if [ -n "$DATA_ENCRYPTION_KEY" ] && \
+      ( [ -f data_bundle.tar.gz.enc ] || ls data_bundle.tar.gz.enc.part_* >/dev/null 2>&1 ); then \
       bash scripts/decrypt_data.sh; \
     fi
 
