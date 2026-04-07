@@ -1,5 +1,6 @@
 [build]
 dockerfilePath = "Dockerfile"
+dockerBuildArgs = ["DATA_ENCRYPTION_KEY"]
 
 [deploy]
 healthcheckPath = "/health"

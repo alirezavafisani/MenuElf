@@ -27,12 +27,20 @@ Thumbs.db
 .idea/
 BS_and_Crawl4ai_combined_menu_JSONS/
 MenuElfApp/dist/
-backend/menu_embeddings.npy
-
-# Legacy uncompressed embeddings
-backend/menu_embeddings.npy
 
 # Web frontend
 web/node_modules/
 web/dist/
 web/*.tsbuildinfo
+
+# Restaurant data (encrypted in data_bundle.tar.gz.enc)
+backend/menus/
+backend/menu_db.json
+backend/menu_embeddings.npz
+backend/menu_embeddings.npy
+backend/restaurant_places_data.json
+backend/restaurant_photos.json
+backend/restaurant_photo_urls.json
+backend/name_mapping.json
+backend/data_bundle.tar.gz
+backend/data_bundle.tar.gz.enc
