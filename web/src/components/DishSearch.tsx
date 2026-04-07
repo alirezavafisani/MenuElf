@@ -24,7 +24,6 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
   const [dietary, setDietary] = useState<string[]>([]);
 
   const debounceRef = useRef<ReturnType<typeof setTimeout>>();
-  const inputRef = useRef<HTMLInputElement>(null);
 
   const doSearch = useCallback(
     async (q: string) => {
@@ -56,7 +55,6 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
       const detail = (e as CustomEvent).detail as { query: string; priceMax?: number };
       const q = detail.query ?? '';
       setQuery(q);
-      if (inputRef.current) inputRef.current.value = q;
       if (detail.priceMax !== undefined) {
         setPriceMax(detail.priceMax);
       }
@@ -90,23 +88,6 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
   return (
     <section id="search" className="py-16 px-4">
       <div className="max-w-7xl mx-auto">
-        {/* Search input */}
-        <div className="max-w-2xl mx-auto mb-8">
-          <div className="relative">
-            <svg className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-stone-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-            </svg>
-            <input
-              ref={inputRef}
-              type="text"
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder="Search dishes..."
-              className="w-full pl-12 pr-4 py-3.5 bg-white border border-stone-200 rounded-full text-stone-900 placeholder-stone-400 focus:outline-none focus:border-accent focus:ring-2 focus:ring-accent/10 transition-all duration-200"
-            />
-          </div>
-        </div>
-
         {hasSearched && (
           <>
             <FilterPanel
