@@ -10,20 +10,6 @@ export default function Footer() {
           FastAPI, React, OpenAI embeddings, and GPT-4o-mini.
         </p>
 
-        {/* Tech stack */}
-        <div className="flex flex-wrap justify-center gap-2 mb-8">
-          {['React', 'TypeScript', 'Tailwind CSS', 'FastAPI', 'OpenAI', 'Leaflet', 'Railway'].map(
-            (tech) => (
-              <span
-                key={tech}
-                className="px-3 py-1 text-xs font-medium bg-stone-100 text-stone-600 rounded-full"
-              >
-                {tech}
-              </span>
-            )
-          )}
-        </div>
-
         {/* Links */}
         <div className="flex justify-center gap-6 mb-8">
           <a
