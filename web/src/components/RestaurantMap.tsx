@@ -87,7 +87,6 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
                   icon={orangeIcon}
                   eventHandlers={{
                     mouseover: (e) => { e.target.openPopup(); },
-                    mouseout: (e) => { e.target.closePopup(); },
                   }}
                 >
                   <Popup>
