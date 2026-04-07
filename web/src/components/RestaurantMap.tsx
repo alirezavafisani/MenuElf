@@ -61,7 +61,7 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
           Explore {restaurants.length || 487} Calgary Restaurants
         </h2>
         <p className="text-stone-500 text-center mb-8">
-          Hover over any pin to learn more and chat about the menu
+          Click any pin to learn more and chat about the menu
         </p>
 
         <div className="rounded-2xl overflow-hidden border border-stone-200 shadow-sm bg-white">
@@ -85,9 +85,6 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
                   key={restaurant.slug}
                   position={[restaurant.lat!, restaurant.lng!]}
                   icon={orangeIcon}
-                  eventHandlers={{
-                    mouseover: (e) => { e.target.openPopup(); },
-                  }}
                 >
                   <Popup>
                     <div className="font-sans" style={{ minWidth: 240 }}>
