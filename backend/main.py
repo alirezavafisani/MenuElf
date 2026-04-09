@@ -6,6 +6,9 @@ import re
 from collections import defaultdict
 from fastapi import BackgroundTasks, FastAPI, Header, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.middleware.base import BaseHTTPMiddleware
+from starlette.requests import Request as StarletteRequest
+from analytics import log_event, get_stats
 from pydantic import BaseModel
 from openai import OpenAI
 from typing import List, Optional
@@ -37,6 +40,22 @@ app.add_middleware(
     allow_origins=["*"], allow_credentials=True,
     allow_methods=["*"], allow_headers=["*"],
 )
+
+
+class AnalyticsMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request: StarletteRequest, call_next):
+        response = await call_next(request)
+        try:
+            path = request.url.path
+            if path == "/" or path == "/app" or path == "/app/":
+                ip = request.client.host if request.client else "unknown"
+                log_event("page_view", ip, path)
+        except Exception:
+            pass
+        return response
+
+
+app.add_middleware(AnalyticsMiddleware)
 
 # ─── User Intelligence router ───
 from routers.user_intelligence import router as user_intelligence_router
@@ -320,7 +339,7 @@ def get_filter_options():
     }
 
 @app.post("/search-dishes")
-def search_dishes(req: SearchRequest):
+def search_dishes(req: SearchRequest, request: Request):
     candidates = []
     candidate_indices = []
     
@@ -445,8 +464,19 @@ def search_dishes(req: SearchRequest):
             return float('inf')
 
     response_dishes.sort(key=sort_key)
-    
+
+    try:
+        ip = request.client.host if request.client else "unknown"
+        log_event("search", ip, "/search-dishes", {"query": req.query or "", "has_filters": bool(req.categories or req.dietary or req.price_max or req.price_min)})
+    except Exception:
+        pass
+
     return {"dishes": response_dishes}
+
+# ─── Stats ───
+@app.get("/stats")
+def stats_endpoint():
+    return get_stats()
 
 # ─── Chat ───
 class ChatMessage(BaseModel):
@@ -734,6 +764,12 @@ def chat_with_menu(
     except Exception as e:
         print(f"OpenAI error: {e}", flush=True)
         raise HTTPException(status_code=500, detail="Error communicating with OpenAI")
+
+    try:
+        client_ip = request.client.host if request.client else "unknown"
+        log_event("chat", client_ip, "/chat", {"restaurant": req.restaurant})
+    except Exception:
+        pass
 
     # Store messages in session and trigger extraction if needed
     session_id = req.session_id

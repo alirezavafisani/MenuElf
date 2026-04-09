@@ -44,3 +44,7 @@ backend/restaurant_photo_urls.json
 backend/name_mapping.json
 backend/data_bundle.tar.gz
 backend/data_bundle.tar.gz.enc
+
+# Analytics
+backend/analytics.db
+backend/*.db-journal
