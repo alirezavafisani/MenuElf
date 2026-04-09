@@ -48,3 +48,6 @@ backend/data_bundle.tar.gz.enc
 # Analytics
 backend/analytics.db
 backend/*.db-journal
+
+# Playwright
+web/test-results/
