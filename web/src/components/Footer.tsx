@@ -1,7 +1,10 @@
+import StatsCounter from './StatsCounter';
+
 export default function Footer() {
   return (
     <footer id="about" className="bg-white border-t border-stone-200 py-16 px-4">
       <div className="max-w-4xl mx-auto text-center">
+        <StatsCounter />
         <div className="flex items-center justify-center gap-2 mb-4">
           <span className="text-2xl font-bold text-accent">MenuElf</span>
         </div>
