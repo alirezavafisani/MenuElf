@@ -33,8 +33,7 @@ jobs:
           ANALYTICS_SALT: smoketest-salt
         run: |
           cd backend
-          # Create a fake menus/ dir so main.py's os.listdir call doesn't
-          # crash in CI. In production the real dir is extracted from the
-          # encrypted data bundle during the Docker build.
-          mkdir -p menus
+          # As of chunk 4, all data loaders run inside @app.on_event("startup"),
+          # so module import has zero filesystem dependencies. The mkdir -p
+          # menus workaround is no longer needed.
           python -c "from main import app; print('OK: app imported successfully')"

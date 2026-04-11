@@ -81,7 +81,7 @@ const CATEGORY_TILES: Array<{
     label: 'Korean',
     query: 'korean',
     photo:
-      'https://images.unsplash.com/photo-1583224994076-ae7e1a0cc96a?auto=format&fit=crop&w=400&q=80',
+      'https://images.unsplash.com/photo-1553163147-622ab57be1c7?auto=format&fit=crop&w=400&q=80',
   },
 ];
 
