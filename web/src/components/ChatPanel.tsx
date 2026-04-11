@@ -18,12 +18,10 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
   const inputRef = useRef<HTMLInputElement>(null);
   const initializedRef = useRef(false);
 
-  // Auto-scroll to bottom
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, loading]);
 
-  // Send initial greeting
   useEffect(() => {
     if (initializedRef.current) return;
     initializedRef.current = true;
@@ -37,7 +35,7 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
         setMessages([
           {
             role: 'assistant',
-            content: `Welcome! I know everything about ${name}'s menu. What are you in the mood for?`,
+            content: `Welcome! I know every dish on ${name}'s menu. What are you in the mood for?`,
           },
         ]);
       } finally {
@@ -83,33 +81,41 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
 
   return (
     <>
-      {/* Backdrop */}
       <div
-        className="fixed inset-0 bg-black/20 backdrop-blur-sm z-[100] md:bg-transparent md:backdrop-blur-none"
+        className="fixed inset-0 bg-ink/20 backdrop-blur-sm z-[100] md:bg-transparent md:backdrop-blur-none"
         onClick={onClose}
       />
 
-      {/* Panel */}
-      <div className="fixed right-0 top-0 bottom-0 w-full md:w-[400px] bg-white shadow-2xl z-[101] flex flex-col animate-slide-in">
+      <div className="fixed right-0 top-0 bottom-0 w-full md:w-[420px] bg-cream shadow-2xl z-[101] flex flex-col animate-slide-in border-l border-border-warm">
         {/* Header */}
-        <div className="flex items-center justify-between px-5 py-4 border-b border-stone-200 bg-white">
+        <div className="flex items-center justify-between px-6 py-5 border-b border-border-warm bg-cream">
           <div className="min-w-0">
-            <h3 className="font-semibold text-stone-900 truncate">{name}</h3>
-            <p className="text-xs text-stone-500">AI Menu Assistant</p>
+            <h3 className="font-display text-xl font-semibold text-ink truncate">{name}</h3>
+            <p className="font-serif italic text-xs text-sand">Menu assistant</p>
           </div>
           <button
             onClick={onClose}
-            className="p-2 rounded-lg hover:bg-stone-100 transition-colors flex-shrink-0"
+            className="p-2 rounded-lg hover:bg-paper transition-colors flex-shrink-0"
             aria-label="Close chat"
           >
-            <svg className="w-5 h-5 text-stone-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            <svg
+              className="w-5 h-5 text-ink"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M6 18L18 6M6 6l12 12"
+              />
             </svg>
           </button>
         </div>
 
         {/* Messages */}
-        <div className="flex-1 overflow-y-auto px-5 py-4 space-y-4">
+        <div className="flex-1 overflow-y-auto px-6 py-5 space-y-4">
           {messages.map((msg, i) => (
             <div
               key={i}
@@ -120,8 +126,8 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
               <div
                 className={`max-w-[85%] px-4 py-2.5 rounded-2xl text-sm leading-relaxed ${
                   msg.role === 'user'
-                    ? 'bg-accent text-white rounded-br-md'
-                    : 'bg-stone-100 text-stone-800 rounded-bl-md'
+                    ? 'bg-terracotta text-cream rounded-br-md'
+                    : 'bg-paper text-ink rounded-bl-md border border-border-warm'
                 }`}
               >
                 {msg.content}
@@ -131,11 +137,17 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
 
           {loading && (
             <div className="flex justify-start">
-              <div className="bg-stone-100 text-stone-500 px-4 py-2.5 rounded-2xl rounded-bl-md text-sm">
+              <div className="bg-paper text-sand px-4 py-2.5 rounded-2xl rounded-bl-md text-sm border border-border-warm">
                 <span className="inline-flex gap-1">
-                  <span className="animate-bounce" style={{ animationDelay: '0ms' }}>·</span>
-                  <span className="animate-bounce" style={{ animationDelay: '150ms' }}>·</span>
-                  <span className="animate-bounce" style={{ animationDelay: '300ms' }}>·</span>
+                  <span className="animate-bounce" style={{ animationDelay: '0ms' }}>
+                    ·
+                  </span>
+                  <span className="animate-bounce" style={{ animationDelay: '150ms' }}>
+                    ·
+                  </span>
+                  <span className="animate-bounce" style={{ animationDelay: '300ms' }}>
+                    ·
+                  </span>
                 </span>
               </div>
             </div>
@@ -143,7 +155,7 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
 
           {error && (
             <div className="text-center">
-              <p className="text-xs text-red-500">{error}</p>
+              <p className="font-serif italic text-xs text-burgundy">{error}</p>
             </div>
           )}
 
@@ -151,7 +163,7 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
         </div>
 
         {/* Input */}
-        <div className="border-t border-stone-200 px-4 py-3 bg-white">
+        <div className="border-t border-border-warm px-5 py-4 bg-cream">
           <div className="flex items-center gap-2">
             <input
               ref={inputRef}
@@ -161,20 +173,30 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
               onKeyDown={handleKeyDown}
               placeholder={rateLimited ? 'Rate limit reached...' : 'Ask about the menu...'}
               disabled={rateLimited}
-              className="flex-1 px-4 py-2.5 text-sm bg-stone-50 border border-stone-200 rounded-full focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent/20 disabled:opacity-50 transition-all"
+              className="flex-1 px-4 py-2.5 text-sm bg-paper border border-border-warm rounded-full focus:outline-none focus:border-terracotta disabled:opacity-50 transition-all"
             />
             <button
               onClick={sendMessage}
               disabled={!input.trim() || loading || rateLimited}
-              className="p-2.5 bg-accent hover:bg-accent-hover disabled:opacity-40 text-white rounded-full transition-colors flex-shrink-0"
+              className="p-2.5 bg-terracotta hover:bg-terracotta-dark disabled:opacity-40 text-cream rounded-full transition-colors flex-shrink-0"
               aria-label="Send message"
             >
-              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
+              <svg
+                className="w-4 h-4"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8"
+                />
               </svg>
             </button>
           </div>
-          <p className="text-[10px] text-stone-400 text-center mt-2">
+          <p className="font-serif italic text-xs text-sand text-center mt-2">
             Free preview · 30 messages per hour
           </p>
         </div>

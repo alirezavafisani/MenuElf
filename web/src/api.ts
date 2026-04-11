@@ -12,6 +12,23 @@ export async function searchDishes(params: SearchParams): Promise<{ dishes: Dish
   return res.json();
 }
 
+export async function categoryDishes(params: SearchParams): Promise<{ dishes: Dish[] }> {
+  const res = await fetch(`${API_BASE}/category-dishes`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(params),
+  });
+  if (!res.ok) throw new Error('Category search failed');
+  return res.json();
+}
+
+export async function getRandomDish(maxPrice?: number): Promise<Dish> {
+  const qs = maxPrice ? `?max_price=${maxPrice}` : '';
+  const res = await fetch(`${API_BASE}/random-dish${qs}`);
+  if (!res.ok) throw new Error('No dish found');
+  return res.json();
+}
+
 export async function getRestaurants(): Promise<{ restaurants: Restaurant[] }> {
   const res = await fetch(`${API_BASE}/restaurants`, {
     headers: { 'x-user-id': 'web-visitor' },

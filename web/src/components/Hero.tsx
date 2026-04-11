@@ -1,92 +1,126 @@
-export default function Hero() {
-  const quickSearches = ['Pizza', 'Sushi', 'Vegan', 'Under $10', 'Spicy'];
+import { useState } from 'react';
 
-  const handleSearch = (query: string) => {
-    const searchSection = document.getElementById('search');
-    if (searchSection) {
-      searchSection.scrollIntoView({ behavior: 'smooth' });
-      // Parse "Under $X" style queries into price filter
-      const underMatch = query.match(/^Under \$(\d+)$/i);
-      if (underMatch) {
-        window.dispatchEvent(
-          new CustomEvent('menuelf:search', {
-            detail: { query: '', priceMax: Number(underMatch[1]) },
-          })
-        );
-      } else {
-        window.dispatchEvent(
-          new CustomEvent('menuelf:search', { detail: { query } })
-        );
-      }
+const EDITOR_SUGGESTIONS = [
+  'spicy ramen under $15',
+  'a plate of handmade pasta',
+  'Korean fried chicken',
+  "brunch that isn't boring",
+  'dessert worth leaving the house for',
+];
+
+export default function Hero() {
+  const [value, setValue] = useState('');
+
+  const fireSearch = (q: string) => {
+    const section = document.getElementById('search');
+    if (section) section.scrollIntoView({ behavior: 'smooth' });
+    const underMatch = q.match(/^under \$(\d+)/i);
+    if (underMatch) {
+      window.dispatchEvent(
+        new CustomEvent('menuelf:search', {
+          detail: { query: '', priceMax: Number(underMatch[1]) },
+        })
+      );
+    } else {
+      window.dispatchEvent(new CustomEvent('menuelf:search', { detail: { query: q } }));
     }
   };
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+  const onSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    const input = e.currentTarget.querySelector('input') as HTMLInputElement;
-    if (input.value.trim()) {
-      handleSearch(input.value.trim());
-      input.value = '';
+    const q = value.trim();
+    if (q) {
+      fireSearch(q);
+      setValue('');
     }
   };
 
   return (
-    <section className="relative pt-32 pb-20 px-4 overflow-hidden">
-      {/* Background photo with overlay */}
-      <div
-        className="absolute inset-0 -z-20"
-        style={{
-          backgroundImage: 'url(https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=2000&q=80)',
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-        }}
-      />
-      <div className="absolute inset-0 -z-10 bg-bg/[0.92]" />
-      {/* Subtle accent blobs */}
-      <div className="absolute top-20 right-1/4 w-96 h-96 bg-accent/5 rounded-full blur-3xl pointer-events-none" />
-      <div className="absolute bottom-0 left-1/4 w-80 h-80 bg-amber-200/20 rounded-full blur-3xl pointer-events-none" />
+    <section className="relative pt-32 pb-16 md:pt-40 md:pb-24 px-4">
+      <div className="relative max-w-7xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-10 md:gap-16 items-center">
+          {/* Left — 60% */}
+          <div className="md:col-span-3">
+            <h1 className="font-display text-6xl sm:text-7xl md:text-8xl font-medium leading-[0.95] tracking-tight text-ink">
+              Eat better
+              <br />
+              <span
+                className="italic font-normal"
+                style={{ fontVariationSettings: '"opsz" 144' }}
+              >
+                tonight.
+              </span>
+            </h1>
 
-      <div className="relative max-w-4xl mx-auto text-center">
-        <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-stone-900 tracking-tight leading-tight">
-          Discover your next favorite
-          <span className="text-accent"> dish</span> in Calgary
-        </h1>
-        <p className="mt-5 text-lg sm:text-xl text-stone-500 max-w-2xl mx-auto">
-          AI-powered search across 487 restaurants and 18,000+ menu items
-        </p>
+            <p className="mt-6 md:mt-8 font-serif italic text-xl md:text-2xl text-sand leading-snug max-w-xl">
+              an AI that actually knows every menu in Calgary
+            </p>
 
-        {/* Search bar */}
-        <form
-          onSubmit={handleSubmit}
-          className="mt-10 max-w-2xl mx-auto flex items-center bg-white rounded-full shadow-lg shadow-stone-200/50 border border-stone-200 hover:shadow-xl hover:border-stone-300 transition-all duration-300 focus-within:shadow-xl focus-within:border-accent/40 focus-within:ring-2 focus-within:ring-accent/10"
-        >
-          <svg className="ml-5 w-5 h-5 text-stone-400 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-          </svg>
-          <input
-            type="text"
-            placeholder="What are you craving? Try 'spicy ramen under $15'"
-            className="flex-1 px-4 py-4 bg-transparent text-stone-900 placeholder-stone-400 outline-none text-base sm:text-lg"
-          />
-          <button
-            type="submit"
-            className="mr-2 px-6 py-2.5 bg-accent hover:bg-accent-hover text-white font-semibold rounded-full transition-colors duration-200 flex-shrink-0"
-          >
-            Search
-          </button>
-        </form>
+            {/* Minimal search — bottom-border only */}
+            <form onSubmit={onSubmit} className="mt-10 max-w-xl">
+              <div className="flex items-center gap-3 border-b-2 border-ink py-3 focus-within:border-terracotta transition-colors">
+                <svg
+                  className="w-5 h-5 text-ink flex-shrink-0"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+                  />
+                </svg>
+                <input
+                  type="text"
+                  value={value}
+                  onChange={(e) => setValue(e.target.value)}
+                  placeholder="What are you in the mood for?"
+                  className="flex-1 bg-transparent text-lg md:text-xl text-ink placeholder-sand/70 outline-none font-sans"
+                />
+                <button
+                  type="submit"
+                  className="text-sm uppercase tracking-widest text-ink hover:text-terracotta transition-colors font-semibold"
+                >
+                  Search
+                </button>
+              </div>
+            </form>
 
-        {/* Quick filters */}
-        <div className="mt-6 flex flex-wrap justify-center gap-2">
-          {quickSearches.map((q) => (
-            <button
-              key={q}
-              onClick={() => handleSearch(q)}
-              className="px-4 py-1.5 text-sm font-medium text-stone-600 bg-white border border-stone-200 rounded-full hover:border-accent hover:text-accent hover:bg-orange-50 transition-all duration-200"
-            >
-              {q}
-            </button>
-          ))}
+            <p className="mt-6 font-serif italic text-base text-sand">
+              editor's picks:{' '}
+              {EDITOR_SUGGESTIONS.map((s, i) => (
+                <span key={s}>
+                  <button
+                    onClick={() => fireSearch(s)}
+                    className="underline underline-offset-4 decoration-sand/40 hover:decoration-terracotta hover:text-terracotta transition-colors"
+                  >
+                    {s}
+                  </button>
+                  {i < EDITOR_SUGGESTIONS.length - 1 && (
+                    <span className="text-sand/50"> · </span>
+                  )}
+                </span>
+              ))}
+            </p>
+          </div>
+
+          {/* Right — 40% editorial photo */}
+          <div className="hidden md:block md:col-span-2">
+            <figure className="relative">
+              <div className="overflow-hidden">
+                <img
+                  src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85"
+                  alt="A beautifully plated dish"
+                  className="w-full h-[520px] object-cover grayscale-[15%] contrast-[1.05]"
+                />
+              </div>
+              <figcaption className="mt-4 font-serif italic text-sm text-sand leading-relaxed">
+                A quiet table, a good dish, a reason to put your phone down.
+              </figcaption>
+            </figure>
+          </div>
         </div>
       </div>
     </section>

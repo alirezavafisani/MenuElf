@@ -16,12 +16,14 @@ L.Icon.Default.mergeOptions({
   shadowUrl: markerShadow,
 });
 
-// Custom orange marker
-const orangeIcon = new L.Icon({
-  iconUrl: 'data:image/svg+xml;base64,' + btoa(`
+// Custom terracotta marker (matches new editorial palette)
+const terracottaIcon = new L.Icon({
+  iconUrl:
+    'data:image/svg+xml;base64,' +
+    btoa(`
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 36" width="24" height="36">
-      <path d="M12 0C5.4 0 0 5.4 0 12c0 9 12 24 12 24s12-15 12-24C24 5.4 18.6 0 12 0z" fill="#E85D3A"/>
-      <circle cx="12" cy="12" r="5" fill="white"/>
+      <path d="M12 0C5.4 0 0 5.4 0 12c0 9 12 24 12 24s12-15 12-24C24 5.4 18.6 0 12 0z" fill="#C94B1F"/>
+      <circle cx="12" cy="12" r="5" fill="#FAF6F0"/>
     </svg>
   `),
   iconSize: [24, 36],
@@ -33,7 +35,10 @@ function StarRating({ rating }: { rating: number }) {
   const stars = [];
   for (let i = 1; i <= 5; i++) {
     stars.push(
-      <span key={i} className={i <= Math.round(rating) ? 'text-amber-400' : 'text-stone-300'}>
+      <span
+        key={i}
+        className={i <= Math.round(rating) ? 'text-mustard' : 'text-border-warm'}
+      >
         ★
       </span>
     );
@@ -55,16 +60,19 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
   const loading = restaurants.length === 0;
 
   return (
-    <section id="map" className="py-16 px-4">
+    <section id="map" className="py-16 md:py-24 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
-        <h2 className="text-3xl font-bold text-stone-900 mb-2 text-center">
-          Explore {restaurants.length || 487} Calgary Restaurants
-        </h2>
-        <p className="text-stone-500 text-center mb-8">
-          Click any pin to learn more and chat about the menu
-        </p>
+        <div className="mb-8 flex items-baseline justify-between flex-wrap gap-3">
+          <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
+            {restaurants.length || 487} restaurants.{' '}
+            <span className="italic" style={{ fontVariationSettings: '"opsz" 144' }}>
+              one map.
+            </span>
+          </h2>
+          <p className="font-serif italic text-sand">tap a pin to chat</p>
+        </div>
 
-        <div className="rounded-2xl overflow-hidden border border-stone-200 shadow-sm bg-white">
+        <div className="overflow-hidden border border-border-warm bg-cream">
           {loading ? (
             <div className="h-[500px] flex items-center justify-center">
               <div className="skeleton w-full h-full" />
@@ -84,7 +92,7 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
                 <Marker
                   key={restaurant.slug}
                   position={[restaurant.lat!, restaurant.lng!]}
-                  icon={orangeIcon}
+                  icon={terracottaIcon}
                 >
                   <Popup>
                     <div className="font-sans" style={{ minWidth: 240 }}>
@@ -106,23 +114,23 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
                         />
                       )}
                       <div style={{ padding: 14 }}>
-                        <h3 className="font-semibold text-stone-900 text-sm mb-1">
+                        <h3 className="font-display font-semibold text-ink text-base mb-1">
                           {restaurant.name}
                         </h3>
                         {restaurant.rating && (
                           <div className="flex items-center gap-1.5 mb-1">
                             <StarRating rating={restaurant.rating} />
-                            <span className="text-xs text-stone-500">
+                            <span className="text-xs text-sand">
                               ({restaurant.reviews ?? 0})
                             </span>
                           </div>
                         )}
                         {restaurant.address && (
-                          <p className="text-xs text-stone-500 mb-2">{restaurant.address}</p>
+                          <p className="text-xs text-sand mb-2">{restaurant.address}</p>
                         )}
                         <button
                           onClick={() => onOpenChat(restaurant.slug, restaurant.name)}
-                          className="w-full text-center text-xs font-semibold text-accent hover:text-accent-hover transition-colors"
+                          className="w-full text-center text-xs uppercase tracking-widest font-semibold text-terracotta hover:text-terracotta-dark transition-colors"
                         >
                           Chat about this menu →
                         </button>
