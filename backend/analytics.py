@@ -8,9 +8,19 @@ from contextlib import contextmanager
 DB_PATH = os.environ.get("ANALYTICS_DB_PATH", os.path.join(os.path.dirname(__file__), "analytics.db"))
 HASH_SALT = os.environ.get("ANALYTICS_SALT", "menuelf-default-salt-change-me")
 
+# Ensure the parent directory for DB_PATH exists (e.g. Railway volume at /data)
+try:
+    os.makedirs(os.path.dirname(DB_PATH) or ".", exist_ok=True)
+except Exception as e:
+    print(f"Analytics dir setup failed: {e}", flush=True)
+
 
 @contextmanager
 def get_db():
+    try:
+        os.makedirs(os.path.dirname(DB_PATH) or ".", exist_ok=True)
+    except Exception:
+        pass
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     try:
@@ -96,4 +106,7 @@ def get_stats() -> dict:
         return {"total_visitors": 0, "total_searches": 0, "total_chats": 0, "weekly_visitors": 0, "daily_breakdown": []}
 
 
-init_db()
+try:
+    init_db()
+except Exception as e:
+    print(f"Analytics init failed: {e}", flush=True)

@@ -13,6 +13,18 @@ from pydantic import BaseModel
 from openai import OpenAI
 from typing import List, Optional
 
+
+def get_real_ip(request) -> str:
+    """Extract real client IP from X-Forwarded-For header, falling back to request.client.
+
+    Railway (and most PaaS) run behind a reverse proxy, so request.client.host is the
+    proxy IP. The original client IP is in the first entry of X-Forwarded-For.
+    """
+    forwarded = request.headers.get("x-forwarded-for", "")
+    if forwarded:
+        return forwarded.split(",")[0].strip()
+    return request.client.host if request.client else "unknown"
+
 # Resolve paths
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MENUS_DIR = os.environ.get("MENUS_DIR", os.path.join(BASE_DIR, "menus"))
@@ -48,7 +60,7 @@ class AnalyticsMiddleware(BaseHTTPMiddleware):
         try:
             path = request.url.path
             if path == "/" or path == "/app" or path == "/app/":
-                ip = request.client.host if request.client else "unknown"
+                ip = get_real_ip(request)
                 log_event("page_view", ip, path)
         except Exception:
             pass
@@ -466,7 +478,7 @@ def search_dishes(req: SearchRequest, request: Request):
     response_dishes.sort(key=sort_key)
 
     try:
-        ip = request.client.host if request.client else "unknown"
+        ip = get_real_ip(request)
         log_event("search", ip, "/search-dishes", {"query": req.query or "", "has_filters": bool(req.categories or req.dietary or req.price_max or req.price_min)})
     except Exception:
         pass
@@ -766,7 +778,7 @@ def chat_with_menu(
         raise HTTPException(status_code=500, detail="Error communicating with OpenAI")
 
     try:
-        client_ip = request.client.host if request.client else "unknown"
+        client_ip = get_real_ip(request)
         log_event("chat", client_ip, "/chat", {"restaurant": req.restaurant})
     except Exception:
         pass
