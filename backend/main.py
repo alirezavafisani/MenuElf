@@ -94,14 +94,29 @@ def get_restaurant_names():
             NAME_MAPPING = json.load(f)
         print(f"Loaded name mapping with {len(NAME_MAPPING)} entries", flush=True)
     else:
-        filenames = [f.replace(".json", "") for f in os.listdir(MENUS_DIR) 
-                     if f.endswith(".json") and f != "_conversion_log.json"]
-        for slug in filenames:
-            NAME_MAPPING[slug] = slug.replace("-", " ").replace("_", " ").title()
+        try:
+            filenames = [f.replace(".json", "") for f in os.listdir(MENUS_DIR)
+                         if f.endswith(".json") and f != "_conversion_log.json"]
+            for slug in filenames:
+                NAME_MAPPING[slug] = slug.replace("-", " ").replace("_", " ").title()
+        except FileNotFoundError:
+            print(
+                f"WARNING: MENUS_DIR {MENUS_DIR} not found. "
+                "App will start with no restaurants (expected in CI / fresh checkouts).",
+                flush=True,
+            )
+            NAME_MAPPING = {}
+        except Exception as e:
+            print(f"WARNING: failed to list MENUS_DIR: {e}", flush=True)
+            NAME_MAPPING = {}
     REVERSE_MAPPING = {v.lower(): k for k, v in NAME_MAPPING.items()}
     return sorted(NAME_MAPPING.values())
 
-RESTAURANT_LIST = get_restaurant_names()
+try:
+    RESTAURANT_LIST = get_restaurant_names()
+except Exception as e:
+    print(f"WARNING: get_restaurant_names crashed: {e}", flush=True)
+    RESTAURANT_LIST = []
 print(f"Found {len(RESTAURANT_LIST)} restaurants", flush=True)
 
 # ─── Menu loader ───

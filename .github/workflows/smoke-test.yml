@@ -33,4 +33,8 @@ jobs:
           ANALYTICS_SALT: smoketest-salt
         run: |
           cd backend
+          # Create a fake menus/ dir so main.py's os.listdir call doesn't
+          # crash in CI. In production the real dir is extracted from the
+          # encrypted data bundle during the Docker build.
+          mkdir -p menus
           python -c "from main import app; print('OK: app imported successfully')"
