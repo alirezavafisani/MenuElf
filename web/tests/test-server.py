@@ -323,22 +323,26 @@ def chat(req: ChatRequest, request: Request):
 
 
 # ─── Serve the React app from web/dist if it was built ───
+# Mirrors the production backend/main.py layout so tests exercise the same
+# routing: SPA at root, legacy /app/* mount, API routes excluded from catch-all.
 if os.path.isdir(WEB_DIST_DIR):
     assets_dir = os.path.join(WEB_DIST_DIR, "assets")
     if os.path.isdir(assets_dir):
-        app.mount("/app/assets", StaticFiles(directory=assets_dir), name="assets")
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
 
-    @app.get("/")
-    def root_redirect():
-        return RedirectResponse(url="/app/")
+    # Legacy /app/* — backward-compat for old bookmarks
+    app.mount("/app", StaticFiles(directory=WEB_DIST_DIR, html=True), name="app-legacy")
 
-    @app.get("/app")
-    @app.get("/app/")
-    def serve_app():
-        return FileResponse(os.path.join(WEB_DIST_DIR, "index.html"))
+    _TEST_API_PREFIXES = (
+        "search-dishes", "random-dish", "category-dishes",
+        "chat", "restaurants", "filter-options", "stats",
+        "health", "assets",
+    )
 
-    @app.get("/app/{full_path:path}")
+    @app.api_route("/{full_path:path}", methods=["GET", "HEAD"])
     def serve_spa(full_path: str):
+        if full_path.startswith(_TEST_API_PREFIXES):
+            raise HTTPException(status_code=404, detail="Not found")
         file_path = os.path.join(WEB_DIST_DIR, full_path)
         if full_path and os.path.isfile(file_path):
             return FileResponse(file_path)

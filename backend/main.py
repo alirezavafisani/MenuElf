@@ -1128,28 +1128,40 @@ if os.path.isdir(IMAGES_DIR):
 
 # ─── Serve web frontend (static files) ───
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse, RedirectResponse
+from fastapi.responses import FileResponse
 
 WEB_DIR = os.path.join(BASE_DIR, "web_dist")
 if os.path.isdir(WEB_DIR):
-    # Redirect root to /app/
-    @app.get("/")
-    async def root_redirect():
-        return RedirectResponse(url="/app/")
+    # Mount assets directly at /assets so the built HTML's /assets/*.js
+    # references work when the SPA is served from the site root.
+    assets_dir = os.path.join(WEB_DIR, "assets")
+    if os.path.isdir(assets_dir):
+        app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
 
-    # Serve static assets (JS, CSS, images)
-    app.mount("/app/assets", StaticFiles(directory=os.path.join(WEB_DIR, "assets")), name="web-assets")
+    # Keep /app/* working for backward compatibility (old screenshots,
+    # bookmarks, social share links). StaticFiles(html=True) serves
+    # index.html for the mount root.
+    app.mount("/app", StaticFiles(directory=WEB_DIR, html=True), name="app-legacy")
 
-    # Catch-all for SPA routes under /app
-    @app.get("/app/{full_path:path}")
+    # Serve index.html at root and for any unknown path (SPA catch-all).
+    # Defined LAST so earlier exact API routes win.
+    # Accepts both GET and HEAD so `curl -sI /` returns 200 (health-check
+    # style pings and some monitors use HEAD).
+    _API_PREFIXES = (
+        "search-dishes", "random-dish", "category-dishes",
+        "chat", "restaurants", "filter-options", "stats",
+        "restaurant-images", "restaurant-photo", "health",
+        "assets", "api",
+    )
+
+    @app.api_route("/{full_path:path}", methods=["GET", "HEAD"])
     async def serve_spa(full_path: str):
+        # Don't intercept API routes — let FastAPI's 404 handler handle them.
+        if full_path.startswith(_API_PREFIXES):
+            raise HTTPException(status_code=404, detail="Not found")
         file_path = os.path.join(WEB_DIR, full_path)
         if full_path and os.path.isfile(file_path):
             return FileResponse(file_path)
-        return FileResponse(os.path.join(WEB_DIR, "index.html"))
-
-    @app.get("/app")
-    async def serve_app_root():
         return FileResponse(os.path.join(WEB_DIR, "index.html"))
 
 
