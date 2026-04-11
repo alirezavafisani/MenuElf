@@ -112,12 +112,10 @@ def get_restaurant_names():
     REVERSE_MAPPING = {v.lower(): k for k, v in NAME_MAPPING.items()}
     return sorted(NAME_MAPPING.values())
 
-try:
-    RESTAURANT_LIST = get_restaurant_names()
-except Exception as e:
-    print(f"WARNING: get_restaurant_names crashed: {e}", flush=True)
-    RESTAURANT_LIST = []
-print(f"Found {len(RESTAURANT_LIST)} restaurants", flush=True)
+# Data loaders run inside @app.on_event("startup") (see bottom of file).
+# At import time we only declare empty defaults so the app can ALWAYS import
+# cleanly, even in CI or fresh checkouts with no data files.
+RESTAURANT_LIST: list[str] = []
 
 # ─── Menu loader ───
 def load_menu(display_name: str):
@@ -229,7 +227,6 @@ def load_menu_index():
     except Exception as e:
         print(f"Error loading menu DB: {e}", flush=True)
 
-load_menu_index()
 
 # ─── Places Data ───
 PLACES_DATA_FILE = os.path.join(BASE_DIR, "restaurant_places_data.json")
@@ -242,7 +239,6 @@ def load_places_data():
             PLACES_DATA = json.load(f)
         print(f"Loaded places data for {len(PLACES_DATA)} restaurants", flush=True)
 
-load_places_data()
 
 # ─── Photo URLs ───
 PHOTO_URLS_FILE = os.path.join(BASE_DIR, "restaurant_photo_urls.json")
@@ -255,7 +251,6 @@ def load_photo_urls():
             PHOTO_URLS = json.load(f)
         print(f"Loaded photo URLs for {len(PHOTO_URLS)} restaurants", flush=True)
 
-load_photo_urls()
 
 # ─── Restaurant Photos (Google Places references + Foursquare static) ───
 RESTAURANT_PHOTOS_FILE = os.path.join(BASE_DIR, "restaurant_photos.json")
@@ -268,16 +263,56 @@ def load_restaurant_photos():
             RESTAURANT_PHOTOS = json.load(f)
         print(f"Loaded photo references for {len(RESTAURANT_PHOTOS)} restaurants", flush=True)
 
-load_restaurant_photos()
 
 # Static images directory (for Foursquare-scraped photos)
 IMAGES_DIR = os.path.join(BASE_DIR, "restaurant_images")
 PHOTO_MANIFEST_FILE = os.path.join(BASE_DIR, "restaurant_images_manifest.json")
 PHOTO_MANIFEST: dict[str, str] = {}
-if os.path.isfile(PHOTO_MANIFEST_FILE):
-    with open(PHOTO_MANIFEST_FILE, "r") as f:
-        PHOTO_MANIFEST = json.load(f)
-    print(f"Loaded photo manifest with {len(PHOTO_MANIFEST)} entries", flush=True)
+
+
+def load_photo_manifest():
+    global PHOTO_MANIFEST
+    if os.path.isfile(PHOTO_MANIFEST_FILE):
+        with open(PHOTO_MANIFEST_FILE, "r") as f:
+            PHOTO_MANIFEST = json.load(f)
+        print(f"Loaded photo manifest with {len(PHOTO_MANIFEST)} entries", flush=True)
+
+
+# ─── Startup: load all data AFTER app object exists, so module import
+# ─── itself can NEVER crash on missing files, bad JSON, or broken
+# ─── filesystems. This is the structural fix for the chunk 1/2/3.1 bug class.
+@app.on_event("startup")
+async def load_all_data():
+    global RESTAURANT_LIST
+    try:
+        RESTAURANT_LIST = get_restaurant_names()
+    except Exception as e:
+        print(f"Failed to load restaurant names: {e}", flush=True)
+    try:
+        load_menu_index()
+    except Exception as e:
+        print(f"Failed to load menu index: {e}", flush=True)
+    try:
+        load_places_data()
+    except Exception as e:
+        print(f"Failed to load places data: {e}", flush=True)
+    try:
+        load_photo_urls()
+    except Exception as e:
+        print(f"Failed to load photo URLs: {e}", flush=True)
+    try:
+        load_restaurant_photos()
+    except Exception as e:
+        print(f"Failed to load restaurant photos: {e}", flush=True)
+    try:
+        load_photo_manifest()
+    except Exception as e:
+        print(f"Failed to load photo manifest: {e}", flush=True)
+    print(
+        f"Startup complete: {len(RESTAURANT_LIST)} restaurants, "
+        f"{len(MENU_INDEX)} dishes indexed",
+        flush=True,
+    )
 
 # ─── Endpoints ───
 @app.get("/health")
@@ -509,6 +544,73 @@ def search_dishes(req: SearchRequest, request: Request):
 
 
 # ─── Random dish (Hungry mode) ───
+NON_FOOD_CATEGORY_KEYWORDS = [
+    "drink", "beverage", "wine", "beer", "cocktail",
+    "liquor", "alcohol", "spirits", "juice", "soda",
+    "coffee", "tea",
+]
+NON_FOOD_NAME_KEYWORDS = [
+    "cabernet", "merlot", "pinot", "chardonnay", "sauvignon",
+    "riesling", "malbec", "lager", "ipa", "pilsner", "stout", "ale",
+    "rosé", "rose wine", "prosecco", "champagne",
+    "tequila", "whiskey", "vodka", "gin", "rum", "bourbon",
+]
+
+
+def is_food_dish(dish: dict) -> bool:
+    """Return False for drinks / alcohol / other non-food items.
+
+    Used by the Hungry button so it never recommends wine or beer as "dinner".
+    Keyword match is substring-based and case-insensitive.
+    """
+    cat = (dish.get("category") or "").lower()
+    name = (dish.get("name") or "").lower()
+    if any(k in cat for k in NON_FOOD_CATEGORY_KEYWORDS):
+        return False
+    # Name-based check uses word-ish boundaries so "gin" doesn't match "ginger"
+    # but "pinot noir" and "ipa pale ale" still match.
+    import re as _re
+    for k in NON_FOOD_NAME_KEYWORDS:
+        if _re.search(rf"\b{_re.escape(k)}\b", name):
+            return False
+    return True
+
+
+def _count_dishes_for_restaurant(slug: Optional[str]) -> int:
+    """Count how many dishes in MENU_INDEX belong to the given restaurant slug.
+
+    Used for honest fallback when chat opens a restaurant with no menu data.
+    """
+    if not slug:
+        return 0
+    return sum(1 for d in MENU_INDEX if d.get("restaurant_slug") == slug)
+
+
+def _menu_is_empty(menu_json, slug: Optional[str] = None) -> bool:
+    """True if the loaded menu has no usable dishes.
+
+    Accepts the many shapes real menu files take: bare list, dict with
+    'items'/'menu'/'dishes' key, or category-keyed dict of lists. Falls back
+    to checking MENU_INDEX for the slug as a last resort.
+    """
+    if menu_json:
+        if isinstance(menu_json, list):
+            if len(menu_json) > 0:
+                return False
+        elif isinstance(menu_json, dict):
+            for key in ("items", "menu", "dishes"):
+                val = menu_json.get(key)
+                if isinstance(val, list) and len(val) > 0:
+                    return False
+            for v in menu_json.values():
+                if isinstance(v, list) and len(v) > 0:
+                    return False
+                if isinstance(v, dict) and v:
+                    return False
+    # Last resort: ask the flat dish index
+    return _count_dishes_for_restaurant(slug) == 0
+
+
 def _parse_price(val) -> Optional[float]:
     if val is None or val == "":
         return None
@@ -544,19 +646,25 @@ def _clean_dish_text(d: dict) -> dict:
 
 @app.get("/random-dish")
 def random_dish(request: Request, max_price: Optional[float] = None):
-    """Return a random dish, optionally filtered by max price."""
+    """Return a random FOOD dish, optionally filtered by max price.
+
+    Excludes drinks, alcohol, wine, beer, and other non-food items so the
+    Hungry button never recommends a glass of cabernet as "dinner".
+    """
     try:
         if not MENU_INDEX:
             raise HTTPException(status_code=404, detail="No dishes available")
 
-        if max_price is not None:
-            candidates = []
-            for d in MENU_INDEX:
-                p = _parse_price(d.get("price"))
-                if p is not None and p <= max_price:
-                    candidates.append(d)
-        else:
-            candidates = [d for d in MENU_INDEX if _parse_price(d.get("price")) is not None]
+        candidates = []
+        for d in MENU_INDEX:
+            p = _parse_price(d.get("price"))
+            if p is None:
+                continue
+            if max_price is not None and p > max_price:
+                continue
+            if not is_food_dish(d):
+                continue
+            candidates.append(d)
 
         if not candidates:
             raise HTTPException(status_code=404, detail="No dishes found for that price")
@@ -637,6 +745,15 @@ def _build_generic_system_prompt(display_name: str, menu_json) -> str:
         "- NEVER invent a dish name that isn't on this menu.\n"
         "- Be concise (2-3 sentences) unless the user asks for more detail.\n"
         "- Only decline questions completely unrelated to food or dining.\n"
+        "- Respond in plain conversational English. NEVER use markdown formatting.\n"
+        "- NEVER wrap dish names in asterisks (**), quotes (\"\"), or any other formatting.\n"
+        "- Write dish names in Title Case as they appear on the menu "
+        "(e.g., Meat Lovers Pizza not **MEAT LOVERS** or MEAT LOVERS).\n"
+        "- Use simple sentences and paragraph breaks, not bullet points or numbered lists, "
+        "unless the user specifically asks for a list.\n"
+        "- When listing multiple items, separate them naturally in prose "
+        "(e.g., You could try the Hawaiian Pizza for $18, the Vegetarian Pizza for $21, "
+        "or the Greek Pizza for $22.).\n"
     )
 
 
@@ -665,6 +782,15 @@ def _build_personalized_system_prompt(
         "- Keep responses concise (2-3 sentences for simple questions, more for comparisons)\n"
         "- Do NOT mention that you have their \"taste profile\" or \"data\" — just naturally know their preferences like a friend would\n"
         "- NEVER invent a dish name that isn't on this menu\n"
+        "- Respond in plain conversational English. NEVER use markdown formatting.\n"
+        "- NEVER wrap dish names in asterisks (**), quotes (\"\"), or any other formatting.\n"
+        "- Write dish names in Title Case as they appear on the menu "
+        "(e.g., Meat Lovers Pizza not **MEAT LOVERS** or MEAT LOVERS).\n"
+        "- Use simple sentences and paragraph breaks, not bullet points or numbered lists, "
+        "unless the user specifically asks for a list.\n"
+        "- When listing multiple items, separate them naturally in prose "
+        "(e.g., You could try the Hawaiian Pizza for $18, the Vegetarian Pizza for $21, "
+        "or the Greek Pizza for $22.).\n"
     )
     return "".join(parts)
 
@@ -757,6 +883,17 @@ def chat_start(req: ChatStartRequest, x_user_id: str = Header(default="")):
     if menu_json is None:
         menu_json = load_menu(slug)
 
+    # Honest fallback: if we have no menu data for this restaurant, say so
+    # instead of letting the AI hallucinate prices and dishes.
+    if _menu_is_empty(menu_json, slug):
+        return {
+            "reply": (
+                f"I don't have {display_name}'s menu loaded yet. "
+                "Try searching for dishes on the main page, or check back soon."
+            ),
+            "session_id": None,
+        }
+
     session_id = None
     personalization = None
 
@@ -841,11 +978,20 @@ def chat_with_menu(
     if menu_json is None:
         display = resolve_display_name(req.restaurant)
         menu_json = load_menu(display)
-    if menu_json is None:
-        raise HTTPException(status_code=404, detail=f"Restaurant '{req.restaurant}' not found")
 
     display_name = resolve_display_name(req.restaurant)
     slug = _slug_for_restaurant(req.restaurant)
+
+    # Honest fallback: if we have no menu data for this restaurant, tell the
+    # user instead of letting the AI invent dishes and prices out of thin air.
+    if _menu_is_empty(menu_json, slug):
+        return {
+            "reply": (
+                f"I don't have {display_name}'s menu loaded yet. "
+                "Try searching for dishes on the main page, or check back soon."
+            ),
+            "session_id": req.session_id,
+        }
 
     # Build system prompt — personalized if user_id present
     personalization = None

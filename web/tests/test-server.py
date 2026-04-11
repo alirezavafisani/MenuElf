@@ -70,11 +70,48 @@ app.add_middleware(AnalyticsMiddleware)
 
 MAX_SEARCH_RESULTS = 8
 
+# --- Chunk 4 helpers: mirror the production food / empty-menu logic ---
+NON_FOOD_CATEGORY_KEYWORDS = [
+    "drink", "beverage", "wine", "beer", "cocktail",
+    "liquor", "alcohol", "spirits", "juice", "soda",
+    "coffee", "tea",
+]
+NON_FOOD_NAME_KEYWORDS = [
+    "cabernet", "merlot", "pinot", "chardonnay", "sauvignon",
+    "riesling", "malbec", "lager", "ipa", "pilsner", "stout", "ale",
+    "rosé", "prosecco", "champagne",
+    "tequila", "whiskey", "vodka", "gin", "rum", "bourbon",
+]
+
+
+def is_food_dish(dish: dict) -> bool:
+    import re as _re
+    cat = (dish.get("category") or "").lower()
+    name = (dish.get("name") or "").lower()
+    if any(k in cat for k in NON_FOOD_CATEGORY_KEYWORDS):
+        return False
+    for k in NON_FOOD_NAME_KEYWORDS:
+        if _re.search(rf"\b{_re.escape(k)}\b", name):
+            return False
+    return True
+
+
 # --- Mock data ---
+# Includes deliberately non-food rows so the food-only filter can be tested.
 MOCK_DISHES = [
     {"name": "Margherita Pizza", "price": 14.99, "description": "Classic tomato and mozzarella pizza with fresh basil.",
      "category": "Pizza", "restaurant_slug": "pizza-place", "restaurant_name": "Pizza Place",
      "dietary_info": ["vegetarian"]},
+    # Non-food rows — should be rejected by is_food_dish (category match)
+    {"name": "Glass of Cabernet", "price": 12.00, "description": "House red wine.",
+     "category": "Wine", "restaurant_slug": "pizza-place", "restaurant_name": "Pizza Place",
+     "dietary_info": []},
+    {"name": "Pilsner Draft", "price": 8.00, "description": "Local pilsner on tap.",
+     "category": "Beer", "restaurant_slug": "burger-joint", "restaurant_name": "Burger Joint",
+     "dietary_info": []},
+    {"name": "Iced Coffee", "price": 5.50, "description": "Cold brew with milk.",
+     "category": "Beverage", "restaurant_slug": "burger-joint", "restaurant_name": "Burger Joint",
+     "dietary_info": []},
     {"name": "Pepperoni Pizza", "price": 16.99, "description": "Loaded with spicy pepperoni.",
      "category": "Pizza", "restaurant_slug": "pizza-place", "restaurant_name": "Pizza Place",
      "dietary_info": []},
@@ -234,7 +271,11 @@ def category_dishes(req: SearchRequest, request: Request):
 
 @app.get("/random-dish")
 def random_dish(request: Request, max_price: Optional[float] = None):
-    candidates = [d for d in MOCK_DISHES if d.get("price") is not None]
+    # Food-only filter (chunk 4): drop wine, beer, coffee, etc.
+    candidates = [
+        d for d in MOCK_DISHES
+        if d.get("price") is not None and is_food_dish(d)
+    ]
     if max_price is not None:
         candidates = [d for d in candidates if d["price"] <= max_price]
     if not candidates:
@@ -247,14 +288,36 @@ def random_dish(request: Request, max_price: Optional[float] = None):
     return dish
 
 
+# Set of restaurant slugs that "exist" but have no menu data — used to
+# exercise the chunk 4 empty-menu fallback in chat.
+EMPTY_MENU_SLUGS = {"ghost-restaurant"}
+
+
 @app.post("/chat")
 def chat(req: ChatRequest, request: Request):
     try:
         log_event("chat", get_real_ip(request), "/chat", {"restaurant": req.restaurant})
     except Exception:
         pass
+
+    # Empty-menu fallback (chunk 4) — mirrors backend/main.py behaviour.
+    if req.restaurant in EMPTY_MENU_SLUGS:
+        return {
+            "reply": (
+                f"I don't have {req.restaurant}'s menu loaded yet. "
+                "Try searching for dishes on the main page, or check back soon."
+            ),
+            "session_id": None,
+        }
+
+    # Happy-path reply is intentionally plain text (no markdown) to validate
+    # the chunk 4 A1 prompt rules in tests.
     return {
-        "reply": f"I recommend the Margherita Pizza ($14.99) — it's one of our most popular dishes at {req.restaurant}.",
+        "reply": (
+            f"I recommend the Margherita Pizza for 14.99 — it's one of our "
+            f"most popular dishes at {req.restaurant}. You could also try "
+            f"the Pepperoni Pizza for 16.99 if you want something meatier."
+        ),
         "session_id": None,
     }
 
