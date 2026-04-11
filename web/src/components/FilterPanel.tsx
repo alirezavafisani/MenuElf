@@ -50,30 +50,36 @@ export default function FilterPanel({
 
   const toggleDietary = (tag: string) => {
     onDietaryChange(
-      dietary.includes(tag)
-        ? dietary.filter((d) => d !== tag)
-        : [...dietary, tag]
+      dietary.includes(tag) ? dietary.filter((d) => d !== tag) : [...dietary, tag]
     );
   };
 
   return (
-    <div className="mb-4">
-      <div className="flex items-center gap-3 flex-wrap">
+    <div className="mb-6">
+      <div className="flex items-center gap-4 flex-wrap">
         <button
           onClick={() => setOpen(!open)}
-          className={`flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-full border transition-all duration-200 ${
+          className={`flex items-center gap-2 px-4 py-2 text-sm uppercase tracking-widest font-semibold border transition-all duration-200 ${
             hasFilters
-              ? 'border-accent text-accent bg-orange-50'
-              : 'border-stone-200 text-stone-600 hover:border-stone-300'
+              ? 'border-terracotta text-terracotta bg-terracotta/5'
+              : 'border-border-warm text-ink hover:border-sand'
           }`}
         >
           <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"
+            />
           </svg>
           Filters
           {hasFilters && (
-            <span className="bg-accent text-white text-xs w-5 h-5 rounded-full flex items-center justify-center">
-              {categories.length + dietary.length + (priceMin !== undefined ? 1 : 0) + (priceMax !== undefined ? 1 : 0)}
+            <span className="bg-terracotta text-cream text-xs w-5 h-5 rounded-full flex items-center justify-center">
+              {categories.length +
+                dietary.length +
+                (priceMin !== undefined ? 1 : 0) +
+                (priceMax !== undefined ? 1 : 0)}
             </span>
           )}
         </button>
@@ -81,19 +87,20 @@ export default function FilterPanel({
         {hasFilters && (
           <button
             onClick={onClear}
-            className="text-sm text-stone-500 hover:text-accent transition-colors"
+            className="font-serif italic text-sm text-sand hover:text-terracotta transition-colors"
           >
-            Clear all
+            clear all
           </button>
         )}
       </div>
 
       {open && (
-        <div className="mt-3 p-5 bg-white rounded-xl border border-stone-200 shadow-sm">
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {/* Price range */}
+        <div className="mt-4 p-6 bg-paper border border-border-warm">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h4 className="text-sm font-semibold text-stone-700 mb-3">Price Range</h4>
+              <h4 className="font-display text-base font-semibold text-ink mb-3">
+                Price Range
+              </h4>
               <div className="flex items-center gap-2">
                 <input
                   type="number"
@@ -102,9 +109,9 @@ export default function FilterPanel({
                   onChange={(e) =>
                     onPriceMinChange(e.target.value ? Number(e.target.value) : undefined)
                   }
-                  className="w-full px-3 py-2 text-sm border border-stone-200 rounded-lg focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent/20"
+                  className="w-full px-3 py-2 text-sm bg-cream border border-border-warm focus:outline-none focus:border-terracotta"
                 />
-                <span className="text-stone-400">—</span>
+                <span className="text-sand">—</span>
                 <input
                   type="number"
                   placeholder="Max"
@@ -112,14 +119,13 @@ export default function FilterPanel({
                   onChange={(e) =>
                     onPriceMaxChange(e.target.value ? Number(e.target.value) : undefined)
                   }
-                  className="w-full px-3 py-2 text-sm border border-stone-200 rounded-lg focus:outline-none focus:border-accent focus:ring-1 focus:ring-accent/20"
+                  className="w-full px-3 py-2 text-sm bg-cream border border-border-warm focus:outline-none focus:border-terracotta"
                 />
               </div>
             </div>
 
-            {/* Categories */}
             <div>
-              <h4 className="text-sm font-semibold text-stone-700 mb-3">Category</h4>
+              <h4 className="font-display text-base font-semibold text-ink mb-3">Category</h4>
               <div className="flex flex-wrap gap-1.5">
                 {options.categories.map((cat) => (
                   <button
@@ -127,8 +133,8 @@ export default function FilterPanel({
                     onClick={() => toggleCategory(cat)}
                     className={`px-3 py-1 text-xs font-medium rounded-full border transition-all duration-200 ${
                       categories.includes(cat)
-                        ? 'border-accent bg-accent text-white'
-                        : 'border-stone-200 text-stone-600 hover:border-stone-300'
+                        ? 'border-terracotta bg-terracotta text-cream'
+                        : 'border-border-warm text-ink hover:border-sand'
                     }`}
                   >
                     {cat}
@@ -137,9 +143,8 @@ export default function FilterPanel({
               </div>
             </div>
 
-            {/* Dietary */}
             <div>
-              <h4 className="text-sm font-semibold text-stone-700 mb-3">Dietary</h4>
+              <h4 className="font-display text-base font-semibold text-ink mb-3">Dietary</h4>
               <div className="flex flex-wrap gap-1.5">
                 {options.dietary_tags.map((tag) => (
                   <button
@@ -147,8 +152,8 @@ export default function FilterPanel({
                     onClick={() => toggleDietary(tag)}
                     className={`px-3 py-1 text-xs font-medium rounded-full border transition-all duration-200 ${
                       dietary.includes(tag)
-                        ? 'border-green-600 bg-green-600 text-white'
-                        : 'border-stone-200 text-stone-600 hover:border-stone-300'
+                        ? 'border-forest bg-forest text-cream'
+                        : 'border-border-warm text-ink hover:border-sand'
                     }`}
                   >
                     {tag}

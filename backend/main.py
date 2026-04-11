@@ -3,6 +3,7 @@ import json
 import time
 import glob
 import re
+import random
 from collections import defaultdict
 from fastapi import BackgroundTasks, FastAPI, Header, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
@@ -39,7 +40,7 @@ CHAT_RATE_LIMIT = 30  # requests per hour
 CHAT_RATE_WINDOW = 3600  # 1 hour in seconds
 
 def check_chat_rate_limit(request: Request):
-    ip = request.client.host if request.client else "unknown"
+    ip = get_real_ip(request)
     now = time.time()
     _chat_rate_limits[ip] = [t for t in _chat_rate_limits[ip] if now - t < CHAT_RATE_WINDOW]
     if len(_chat_rate_limits[ip]) >= CHAT_RATE_LIMIT:
@@ -350,8 +351,14 @@ def get_filter_options():
         "price_max": 200
     }
 
+MAX_SEARCH_RESULTS = 8
+
 @app.post("/search-dishes")
 def search_dishes(req: SearchRequest, request: Request):
+    # Quality over quantity: cap at MAX_SEARCH_RESULTS
+    if req.limit is None or req.limit > MAX_SEARCH_RESULTS:
+        req.limit = MAX_SEARCH_RESULTS
+
     candidates = []
     candidate_indices = []
     
@@ -484,6 +491,84 @@ def search_dishes(req: SearchRequest, request: Request):
         pass
 
     return {"dishes": response_dishes}
+
+
+# ─── Random dish (Hungry mode) ───
+def _parse_price(val) -> Optional[float]:
+    if val is None or val == "":
+        return None
+    if isinstance(val, (int, float)):
+        return float(val) if val > 0 else None
+    try:
+        s = str(val).replace("$", "").replace(",", "").strip()
+        if "-" in s:
+            s = s.split("-")[0].strip()
+        p = float(s)
+        return p if p > 0 else None
+    except Exception:
+        return None
+
+
+def _clean_dish_text(d: dict) -> dict:
+    """Strip markdown/links/numbering from dish name and description."""
+    out = dict(d)
+    for key in ("name", "description"):
+        v = out.get(key, "") or ""
+        if not v:
+            continue
+        v = re.sub(r"^\d+[\.\)\-]\s*", "", v)
+        v = re.sub(r"\[([^\]]*)\]\([^\)]*\)", r"\1", v)
+        v = re.sub(r"#+\s*", "", v)
+        v = re.sub(r"\*{1,2}([^\*]*)\*{1,2}", r"\1", v)
+        v = re.sub(r"_([^_]*)_", r"\1", v)
+        v = re.sub(r"https?://\S+", "", v)
+        v = re.sub(r"\[\$[\d\.]+\]", "", v)
+        out[key] = re.sub(r"\s+", " ", v).strip()
+    return out
+
+
+@app.get("/random-dish")
+def random_dish(request: Request, max_price: Optional[float] = None):
+    """Return a random dish, optionally filtered by max price."""
+    try:
+        if not MENU_INDEX:
+            raise HTTPException(status_code=404, detail="No dishes available")
+
+        if max_price is not None:
+            candidates = []
+            for d in MENU_INDEX:
+                p = _parse_price(d.get("price"))
+                if p is not None and p <= max_price:
+                    candidates.append(d)
+        else:
+            candidates = [d for d in MENU_INDEX if _parse_price(d.get("price")) is not None]
+
+        if not candidates:
+            raise HTTPException(status_code=404, detail="No dishes found for that price")
+
+        dish = _clean_dish_text(random.choice(candidates))
+
+        try:
+            ip = get_real_ip(request)
+            log_event("random_dish", ip, "/random-dish", {"max_price": max_price})
+        except Exception:
+            pass
+
+        return dish
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"Random dish error: {e}", flush=True)
+        raise HTTPException(status_code=500, detail="Something went wrong")
+
+
+# ─── Category dishes (visual tile search) ───
+@app.post("/category-dishes")
+def category_dishes(req: SearchRequest, request: Request):
+    """Semantic search by category name — thin wrapper around search_dishes."""
+    req.limit = MAX_SEARCH_RESULTS
+    return search_dishes(req, request)
+
 
 # ─── Stats ───
 @app.get("/stats")

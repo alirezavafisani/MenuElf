@@ -3,6 +3,7 @@ import { getRestaurants } from './api';
 import type { Restaurant } from './types';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import DiscoveryModes from './components/DiscoveryModes';
 import DishSearch from './components/DishSearch';
 import RestaurantMap from './components/RestaurantMap';
 import ChatPanel from './components/ChatPanel';
@@ -39,9 +40,10 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-bg">
+    <div className="min-h-screen bg-cream text-ink">
       <Navbar />
       <Hero />
+      <DiscoveryModes onOpenChat={openChat} />
       <DishSearch onOpenChat={openChat} restaurantPhotoMap={restaurantPhotoMap} />
       <RestaurantMap onOpenChat={openChat} restaurants={restaurants} />
       <Footer />

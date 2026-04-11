@@ -20,15 +20,16 @@ export default function DishCard({ dish, index, onOpenChat, photoUrl }: DishCard
 
   return (
     <div
-      className="card-enter bg-white rounded-xl border border-stone-200 p-5 hover:-translate-y-0.5 hover:shadow-md transition-all duration-200 flex flex-col"
+      className="card-enter bg-paper border border-border-warm p-6 md:p-7 hover:-translate-y-0.5 hover:border-terracotta transition-all duration-200 flex flex-col"
       style={{ animationDelay: `${index * 60}ms` }}
+      data-testid="dish-card"
     >
-      <div className="flex items-start justify-between gap-3 mb-2">
-        <h3 className="font-semibold text-stone-900 leading-snug line-clamp-2">
+      <div className="flex items-start justify-between gap-4 mb-3">
+        <h3 className="font-display text-xl md:text-2xl font-medium text-ink leading-snug">
           {dish.name}
         </h3>
         {price && (
-          <span className="text-accent font-bold text-sm whitespace-nowrap">
+          <span className="font-display text-lg md:text-xl font-semibold text-terracotta whitespace-nowrap">
             {price}
           </span>
         )}
@@ -36,35 +37,37 @@ export default function DishCard({ dish, index, onOpenChat, photoUrl }: DishCard
 
       <button
         onClick={() => onOpenChat(dish.restaurant_slug, dish.restaurant_name)}
-        className="flex items-center gap-2 text-xs text-stone-500 hover:text-accent transition-colors mb-2 text-left"
+        className="flex items-center gap-2 font-serif italic text-sm text-sand hover:text-terracotta transition-colors mb-3 text-left"
       >
         {photoUrl && (
           <img
             src={photoUrl}
             alt=""
             className="w-6 h-6 rounded-full object-cover flex-shrink-0"
-            onError={(e) => { (e.target as HTMLImageElement).style.display = 'none'; }}
+            onError={(e) => {
+              (e.target as HTMLImageElement).style.display = 'none';
+            }}
           />
         )}
-        {dish.restaurant_name} →
+        at {dish.restaurant_name} →
       </button>
 
       {dish.description && (
-        <p className="text-sm text-stone-500 line-clamp-2 mb-3 flex-1">
+        <p className="text-sm md:text-base text-ink/75 leading-relaxed line-clamp-3 mb-4 flex-1">
           {dish.description}
         </p>
       )}
 
-      <div className="flex flex-wrap gap-1.5 mt-auto">
+      <div className="flex flex-wrap gap-2 mt-auto">
         {dish.category && (
-          <span className="px-2 py-0.5 text-xs font-medium bg-stone-100 text-stone-600 rounded-full">
+          <span className="px-2.5 py-0.5 text-xs font-medium bg-border-warm/60 text-ink rounded-full">
             {dish.category}
           </span>
         )}
         {dish.dietary_info?.map((tag) => (
           <span
             key={tag}
-            className="px-2 py-0.5 text-xs font-medium bg-green-50 text-green-700 rounded-full"
+            className="px-2.5 py-0.5 text-xs font-medium bg-forest/10 text-forest rounded-full"
           >
             {tag}
           </span>

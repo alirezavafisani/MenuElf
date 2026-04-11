@@ -2,24 +2,25 @@ import StatsCounter from './StatsCounter';
 
 export default function Footer() {
   return (
-    <footer id="about" className="bg-white border-t border-stone-200 py-16 px-4">
+    <footer id="about" className="bg-paper border-t border-border-warm py-16 md:py-20 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <StatsCounter />
-        <div className="flex items-center justify-center gap-2 mb-4">
-          <span className="text-2xl font-bold text-accent">MenuElf</span>
+        <div className="flex items-center justify-center gap-2 mb-6">
+          <span className="font-display text-3xl font-semibold text-terracotta">
+            MenuElf
+          </span>
         </div>
-        <p className="text-stone-500 max-w-xl mx-auto mb-8">
-          MenuElf is an AI-powered restaurant discovery engine for Calgary, built with
-          FastAPI, React, OpenAI embeddings, and GPT-4o-mini.
+        <p className="font-serif italic text-lg text-sand max-w-xl mx-auto mb-10 leading-relaxed">
+          built with care in Calgary. powered by FastAPI, React, and too much OpenAI.
         </p>
 
         {/* Links */}
-        <div className="flex justify-center gap-6 mb-8">
+        <div className="flex justify-center gap-8 mb-10">
           <a
             href="https://github.com/alirezavafisani/MenuElf"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-stone-500 hover:text-accent transition-colors"
+            className="text-sm uppercase tracking-widest font-semibold text-ink hover:text-terracotta transition-colors"
           >
             GitHub
           </a>
@@ -27,13 +28,13 @@ export default function Footer() {
             href="https://linkedin.com/in/alireza-vafisani"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm text-stone-500 hover:text-accent transition-colors"
+            className="text-sm uppercase tracking-widest font-semibold text-ink hover:text-terracotta transition-colors"
           >
             LinkedIn
           </a>
         </div>
 
-        <div className="text-xs text-stone-400">
+        <div className="font-serif italic text-xs text-sand">
           Built by Alireza Vafisani · © 2025–2026
         </div>
       </div>

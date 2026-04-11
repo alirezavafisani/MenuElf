@@ -1,0 +1,36 @@
+name: Smoke Test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  smoke-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install backend dependencies
+        run: |
+          cd backend
+          pip install -r requirements.txt
+
+      - name: Verify main.py imports cleanly
+        env:
+          # Dummy env vars so import-time code paths don't crash.
+          # The point of the smoke test is to catch syntax / import errors,
+          # not runtime behavior, so these are intentionally fake.
+          OPENAI_API_KEY: sk-smoketest-dummy
+          SUPABASE_URL: https://smoketest.supabase.co
+          SUPABASE_KEY: smoketest-dummy-key
+          ANALYTICS_DB_PATH: /tmp/smoketest/analytics.db
+          ANALYTICS_SALT: smoketest-salt
+        run: |
+          cd backend
+          python -c "from main import app; print('OK: app imported successfully')"
