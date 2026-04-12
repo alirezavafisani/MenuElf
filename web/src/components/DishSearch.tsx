@@ -87,12 +87,12 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
     setDietary([]);
   };
 
+  if (!hasSearched) return <div id="search" />;
+
   return (
     <section id="search" className="py-16 md:py-24 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
-        {hasSearched && (
-          <>
-            <div className="mb-6 flex items-baseline justify-between flex-wrap gap-3">
+        <div className="mb-6 flex items-baseline justify-between flex-wrap gap-3">
               <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
                 {query ? (
                   <>
@@ -158,8 +158,6 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
                 </div>
               </>
             )}
-          </>
-        )}
       </div>
     </section>
   );
