@@ -314,6 +314,25 @@ async def load_all_data():
         flush=True,
     )
 
+# ─── Helpers ───
+def _get_local_photo_url(slug: str) -> str | None:
+    """Return a URL path if a local restaurant photo exists on disk, else None.
+
+    Checks three patterns against the restaurant_images/ directory:
+      {slug}/0.jpg  (subdir with numbered files — Foursquare scrape format)
+      {slug}/1.jpg  (alternate index)
+      {slug}.jpg    (flat file)
+    """
+    for rel in (
+        os.path.join(slug, "0.jpg"),
+        os.path.join(slug, "1.jpg"),
+        f"{slug}.jpg",
+    ):
+        if os.path.isfile(os.path.join(IMAGES_DIR, rel)):
+            return f"/restaurant-images/{rel}"
+    return None
+
+
 # ─── Endpoints ───
 @app.get("/health")
 def health_check():
@@ -358,33 +377,15 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
                 rest_info["address"] = pdata.get("address")
 
         if slug:
-            rest_info["photos"] = PHOTO_URLS.get(slug, [])
+            # Clear the photos array — it contained Supabase CDN URLs from a
+            # now-deleted Supabase project. All those URLs 403.
+            rest_info["photos"] = []
 
-            # Resolve photo_url — try each source in order of reliability.
-            # Priority 1: Static image from restaurant_images/ on disk.
-            #   Check {slug}/0.jpg and {slug}.jpg patterns.
-            for candidate in (
-                os.path.join(IMAGES_DIR, slug, "0.jpg"),
-                os.path.join(IMAGES_DIR, f"{slug}.jpg"),
-            ):
-                if os.path.isfile(candidate):
-                    rel = os.path.relpath(candidate, IMAGES_DIR)
-                    rest_info["photo_url"] = f"/restaurant-images/{rel}"
-                    break
-
-            # Priority 2: Manifest-mapped local image (same dir, filename from JSON).
-            if not rest_info["photo_url"] and slug in PHOTO_MANIFEST:
-                manifest_path = os.path.join(IMAGES_DIR, PHOTO_MANIFEST[slug])
-                if os.path.isfile(manifest_path):
-                    rest_info["photo_url"] = f"/restaurant-images/{PHOTO_MANIFEST[slug]}"
-
-            # Priority 3: First CDN URL from the photos array (Supabase/external).
-            if not rest_info["photo_url"] and rest_info["photos"]:
-                rest_info["photo_url"] = rest_info["photos"][0]
-
-            # Priority 4: Google Places proxy (requires GOOGLE_MAPS_API_KEY).
-            if not rest_info["photo_url"] and slug in RESTAURANT_PHOTOS and RESTAURANT_PHOTOS[slug].get("photos"):
-                rest_info["photo_url"] = f"/restaurant-photo/{slug}"
+            # Resolve photo_url from local static files ONLY.
+            # Checks restaurant_images/{slug}/0.jpg, /1.jpg, and {slug}.jpg.
+            # Returns None (no photo) if nothing exists on disk. The frontend
+            # handles None gracefully (hides the image element via onError).
+            rest_info["photo_url"] = _get_local_photo_url(slug)
 
         # Enrich with personalization if user profile is available
         if user_profile and slug:
