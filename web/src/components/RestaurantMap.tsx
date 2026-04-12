@@ -60,7 +60,7 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
   const loading = restaurants.length === 0;
 
   return (
-    <section id="map" className="py-16 md:py-24 px-4 border-t border-border-warm">
+    <section id="map" className="pt-16 pb-4 md:pt-24 md:pb-6 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
         <div className="mb-8 flex items-baseline justify-between flex-wrap gap-3">
           <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
