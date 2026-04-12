@@ -128,7 +128,7 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
   const price = dish ? formatPrice(dish.price) : '';
 
   return (
-    <section className="relative py-16 md:py-24 px-4 border-t border-border-warm">
+    <section className="relative pt-16 pb-8 md:pt-24 md:pb-10 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
         {/* ─── Hungry mode ─── */}
         <div className="text-center mb-8">
