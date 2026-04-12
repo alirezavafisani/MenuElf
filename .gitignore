@@ -47,6 +47,9 @@ backend/data_bundle.tar.gz.enc
 
 # Analytics
 backend/analytics.db
+
+# Scenario test output
+scenario_test_raw.json
 backend/*.db-journal
 
 # Playwright
