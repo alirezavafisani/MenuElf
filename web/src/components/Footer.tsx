@@ -2,7 +2,7 @@ import StatsCounter from './StatsCounter';
 
 export default function Footer() {
   return (
-    <footer id="about" className="bg-paper border-t border-border-warm py-16 md:py-20 px-4">
+    <footer id="about" className="bg-paper border-t border-border-warm pt-6 pb-16 md:pt-8 md:pb-20 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <StatsCounter />
         <div className="flex items-center justify-center gap-2 mb-6">
