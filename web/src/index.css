@@ -44,6 +44,14 @@ h1, h2, h3, h4 {
   z-index: 1 !important;
 }
 
+/* Terracotta marker cluster badges */
+.marker-cluster-small { background-color: rgba(201, 75, 31, 0.4) !important; }
+.marker-cluster-small div { background-color: rgba(201, 75, 31, 0.8) !important; color: white; }
+.marker-cluster-medium { background-color: rgba(201, 75, 31, 0.4) !important; }
+.marker-cluster-medium div { background-color: rgba(201, 75, 31, 0.8) !important; color: white; }
+.marker-cluster-large { background-color: rgba(201, 75, 31, 0.4) !important; }
+.marker-cluster-large div { background-color: rgba(201, 75, 31, 0.8) !important; color: white; }
+
 /* Leaflet popup overrides */
 .leaflet-popup-content-wrapper {
   border-radius: 12px !important;

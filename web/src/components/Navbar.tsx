@@ -3,8 +3,8 @@ import { useState, useEffect } from 'react';
 const navLinks = [
   { label: 'SEARCH', href: '#search' },
   { label: 'SURPRISE', href: '#surprise' },
-  { label: 'MAP', href: '#map' },
   { label: 'BROWSE', href: '#browse' },
+  { label: 'MAP', href: '#map' },
 ];
 
 export default function Navbar() {
