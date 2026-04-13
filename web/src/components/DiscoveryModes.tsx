@@ -144,7 +144,7 @@ function PillSelect<T>({
         </svg>
       </button>
       {open && (
-        <div className="absolute top-full mt-1 left-0 z-50 bg-ink border border-cream/20 rounded-lg shadow-xl min-w-[120px] py-1">
+        <div className="absolute top-full mt-1 left-0 z-50 bg-cream rounded-xl shadow-lg min-w-[120px] py-1">
           {options.map((opt) => (
             <button
               key={opt.label}
@@ -152,10 +152,10 @@ function PillSelect<T>({
                 onChange(opt.value);
                 setOpen(false);
               }}
-              className={`block w-full text-left px-4 py-2 text-sm transition-colors ${
+              className={`block w-full text-left px-5 py-3 text-base transition-colors ${
                 value === opt.value
-                  ? 'text-terracotta font-semibold'
-                  : 'text-cream/80 hover:text-cream hover:bg-cream/5'
+                  ? 'text-terracotta font-semibold bg-cream'
+                  : 'text-ink hover:bg-paper'
               }`}
             >
               {opt.label}
@@ -191,7 +191,7 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
   };
 
   const pickCategory = (q: string) => {
-    const section = document.getElementById('search');
+    const section = document.getElementById('search-results');
     if (section) section.scrollIntoView({ behavior: 'smooth' });
     window.dispatchEvent(
       new CustomEvent('menuelf:search', {
@@ -208,6 +208,7 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
     <>
       {/* ─── Dark luxe "Surprise me" section ─── */}
       <section
+        id="surprise"
         className="relative overflow-hidden"
         style={{
           background: 'linear-gradient(to bottom, #1A1511, #2A2521)',
@@ -349,7 +350,7 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
       </section>
 
       {/* ─── Category tiles — back on cream ─── */}
-      <section className="relative pt-16 pb-8 md:pt-24 md:pb-10 px-4">
+      <section id="browse" className="relative pt-16 pb-8 md:pt-24 md:pb-10 px-4">
         <div className="max-w-7xl mx-auto">
           <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight mb-8">
             Browse by craving
