@@ -1,6 +1,9 @@
 import { useMemo, useState, useCallback } from 'react';
 import { MapContainer, TileLayer, Marker, Popup, CircleMarker } from 'react-leaflet';
+import MarkerClusterGroup from 'react-leaflet-cluster';
 import L from 'leaflet';
+import 'leaflet.markercluster/dist/MarkerCluster.css';
+import 'leaflet.markercluster/dist/MarkerCluster.Default.css';
 import type { Restaurant } from '../types';
 
 // Fix Leaflet default marker icon issue with bundlers
@@ -21,14 +24,14 @@ const terracottaIcon = new L.Icon({
   iconUrl:
     'data:image/svg+xml;base64,' +
     btoa(`
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 36" width="24" height="36">
-      <path d="M12 0C5.4 0 0 5.4 0 12c0 9 12 24 12 24s12-15 12-24C24 5.4 18.6 0 12 0z" fill="#C94B1F"/>
-      <circle cx="12" cy="12" r="5" fill="#FAF6F0"/>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 32" width="24" height="32">
+      <path d="M12 0C5.4 0 0 5.4 0 12c0 8 12 20 12 20s12-12 12-20C24 5.4 18.6 0 12 0z" fill="#C94B1F"/>
+      <circle cx="12" cy="11" r="4.5" fill="#FAF6F0"/>
     </svg>
   `),
-  iconSize: [24, 36],
-  iconAnchor: [12, 36],
-  popupAnchor: [0, -36],
+  iconSize: [24, 32],
+  iconAnchor: [12, 32],
+  popupAnchor: [0, -32],
 });
 
 // Calgary bounding box
@@ -118,7 +121,7 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
             <button
               onClick={handleLocate}
               aria-label="Show my location"
-              className="absolute top-3 left-3 z-[1000] w-9 h-9 rounded-full bg-terracotta text-cream flex items-center justify-center shadow-md hover:bg-terracotta-dark transition-colors"
+              className="absolute bottom-10 right-4 z-[1000] w-10 h-10 rounded-full bg-terracotta text-cream flex items-center justify-center shadow-md hover:bg-terracotta-dark hover:scale-105 hover:shadow-lg transition-all"
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <circle cx="12" cy="12" r="4" />
@@ -157,61 +160,63 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
                   }}
                 />
               )}
-              {geoRestaurants.map((restaurant) => (
-                <Marker
-                  key={restaurant.slug}
-                  position={[restaurant.lat!, restaurant.lng!]}
-                  icon={terracottaIcon}
-                >
-                  <Popup>
-                    <div className="font-sans" style={{ minWidth: 240 }}>
-                      {restaurant.photo_url && (
-                        <img
-                          src={restaurant.photo_url}
-                          alt={restaurant.name}
-                          style={{
-                            width: '100%',
-                            height: 140,
-                            objectFit: 'cover',
-                            borderTopLeftRadius: 12,
-                            borderTopRightRadius: 12,
-                            display: 'block',
-                          }}
-                          onError={(e) => {
-                            (e.target as HTMLImageElement).style.display = 'none';
-                          }}
-                        />
-                      )}
-                      <div style={{ padding: 14 }}>
-                        <h3 className="font-display font-semibold text-ink text-base mb-1">
-                          {restaurant.name}
-                        </h3>
-                        {restaurant.rating ? (
-                          <div className="flex items-center gap-1.5 mb-1">
-                            <StarRating rating={restaurant.rating} />
-                            <span className="text-xs text-sand">
-                              ({restaurant.reviews} reviews)
-                            </span>
-                          </div>
-                        ) : (
-                          <p className="font-serif italic text-xs text-sand/70 mb-1">
-                            No ratings yet
-                          </p>
+              <MarkerClusterGroup chunkedLoading>
+                {geoRestaurants.map((restaurant) => (
+                  <Marker
+                    key={restaurant.slug}
+                    position={[restaurant.lat!, restaurant.lng!]}
+                    icon={terracottaIcon}
+                  >
+                    <Popup>
+                      <div className="font-sans" style={{ minWidth: 240 }}>
+                        {restaurant.photo_url && (
+                          <img
+                            src={restaurant.photo_url}
+                            alt={restaurant.name}
+                            style={{
+                              width: '100%',
+                              height: 140,
+                              objectFit: 'cover',
+                              borderTopLeftRadius: 12,
+                              borderTopRightRadius: 12,
+                              display: 'block',
+                            }}
+                            onError={(e) => {
+                              (e.target as HTMLImageElement).style.display = 'none';
+                            }}
+                          />
                         )}
-                        {restaurant.address && (
-                          <p className="text-xs text-sand mb-2">{restaurant.address}</p>
-                        )}
-                        <button
-                          onClick={() => onOpenChat(restaurant.slug, restaurant.name)}
-                          className="w-full text-center text-xs uppercase tracking-widest font-semibold text-terracotta hover:text-terracotta-dark transition-colors"
-                        >
-                          Chat about this menu →
-                        </button>
+                        <div style={{ padding: 14 }}>
+                          <h3 className="font-display font-semibold text-ink text-base mb-1">
+                            {restaurant.name}
+                          </h3>
+                          {restaurant.rating ? (
+                            <div className="flex items-center gap-1.5 mb-1">
+                              <StarRating rating={restaurant.rating} />
+                              <span className="text-xs text-sand">
+                                ({restaurant.reviews} reviews)
+                              </span>
+                            </div>
+                          ) : (
+                            <p className="font-serif italic text-xs text-sand/70 mb-1">
+                              No ratings yet
+                            </p>
+                          )}
+                          {restaurant.address && (
+                            <p className="text-xs text-sand mb-2">{restaurant.address}</p>
+                          )}
+                          <button
+                            onClick={() => onOpenChat(restaurant.slug, restaurant.name)}
+                            className="w-full text-center text-xs uppercase tracking-widest font-semibold text-terracotta hover:text-terracotta-dark transition-colors"
+                          >
+                            Chat about this menu →
+                          </button>
+                        </div>
                       </div>
-                    </div>
-                  </Popup>
-                </Marker>
-              ))}
+                    </Popup>
+                  </Marker>
+                ))}
+              </MarkerClusterGroup>
             </MapContainer>
           )}
         </div>
