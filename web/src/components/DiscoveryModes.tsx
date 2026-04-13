@@ -128,130 +128,165 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
   const price = dish ? formatPrice(dish.price) : '';
 
   return (
-    <section className="relative pt-16 pb-8 md:pt-24 md:pb-10 px-4 border-t border-border-warm">
-      <div className="max-w-7xl mx-auto">
-        {/* ─── Hungry mode ─── */}
-        <div className="text-center mb-8">
-          <p className="font-serif italic text-base text-sand mb-3">can't decide?</p>
-          <h2 className="font-display text-4xl md:text-6xl font-medium text-ink tracking-tight">
-            Let the elf pick.
-          </h2>
-        </div>
+    <>
+      {/* ─── Dark luxe "Surprise me" section ─── */}
+      <section
+        className="relative overflow-hidden"
+        style={{
+          background:
+            'linear-gradient(to bottom, #1A1511, #2A2521)',
+        }}
+      >
+        {/* Moody background photo with heavy dark overlay */}
+        <div
+          className="absolute inset-0 opacity-[0.15]"
+          style={{
+            backgroundImage:
+              'url(https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=2000&q=80)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            mixBlendMode: 'luminosity',
+          }}
+        />
 
-        <div className="max-w-3xl mx-auto">
-          {/* Price selector */}
-          <div className="flex items-center justify-center gap-3 mb-6 flex-wrap">
-            <span className="font-serif italic text-sm text-sand">budget:</span>
-            {[
-              { label: '$10', v: 10 },
-              { label: '$15', v: 15 },
-              { label: '$20', v: 20 },
-              { label: '$30', v: 30 },
-              { label: 'any', v: undefined },
-            ].map((opt) => (
-              <button
-                key={opt.label}
-                onClick={() => setMaxPrice(opt.v)}
-                className={`px-4 py-1.5 text-sm font-medium rounded-full border transition-all ${
-                  maxPrice === opt.v
-                    ? 'border-terracotta bg-terracotta text-cream'
-                    : 'border-border-warm text-ink hover:border-sand'
-                }`}
-                data-testid={`budget-${opt.label}`}
-              >
-                {opt.label}
-              </button>
-            ))}
-          </div>
-
-          {/* Result card or CTA */}
-          {!dish && !loading && (
-            <button
-              onClick={roll}
-              data-testid="hungry-button"
-              className="w-full bg-terracotta hover:bg-terracotta-dark text-cream font-display text-2xl md:text-4xl font-medium py-10 md:py-14 rounded-sm transition-colors shadow-[0_8px_30px_-8px_rgba(201,75,31,0.5)] hover:shadow-[0_12px_40px_-8px_rgba(201,75,31,0.6)]"
-            >
-              Feed me something random
-            </button>
-          )}
-
-          {loading && (
-            <div className="bg-paper border border-border-warm rounded-sm p-12 text-center">
-              <p className="font-serif italic text-xl text-sand">the elf is thinking...</p>
-            </div>
-          )}
-
-          {error && !loading && (
-            <div className="text-center py-6">
-              <p className="font-serif italic text-burgundy">{error}</p>
-              <button
-                onClick={roll}
-                className="mt-4 text-sm uppercase tracking-widest text-ink hover:text-terracotta underline underline-offset-4"
-              >
-                Try again
-              </button>
-            </div>
-          )}
-
-          {dish && !loading && (
-            <div
-              key={rollId}
-              data-testid="random-dish-card"
-              className="pop-in bg-paper border border-border-warm rounded-sm p-8 md:p-12"
-            >
-              <p className="font-serif italic text-sm text-sand mb-3">tonight, try</p>
-              <h3
-                className="font-display text-3xl md:text-5xl font-medium text-ink leading-tight mb-3"
-                data-testid="random-dish-name"
-              >
-                {dish.name}
-              </h3>
-              {price && (
-                <p className="font-display text-2xl md:text-3xl text-terracotta font-semibold mb-4">
-                  {price}
-                </p>
-              )}
-              {dish.description && (
-                <p className="text-base md:text-lg text-ink/80 leading-relaxed mb-6 max-w-2xl">
-                  {dish.description}
-                </p>
-              )}
-              <p className="font-serif italic text-sand mb-6">
-                at{' '}
-                <button
-                  onClick={() => onOpenChat(dish.restaurant_slug, dish.restaurant_name)}
-                  className="not-italic font-sans font-semibold text-ink underline underline-offset-4 decoration-terracotta hover:text-terracotta transition-colors"
+        <div className="relative z-10 px-4 pt-16 pb-10 md:pt-24 md:pb-14">
+          <div className="max-w-7xl mx-auto">
+            <div className="text-center mb-8">
+              <h2 className="font-display text-4xl md:text-6xl font-medium text-cream tracking-tight">
+                Can't decide?{' '}
+                <span
+                  className="italic"
+                  style={{ fontVariationSettings: '"opsz" 144' }}
                 >
-                  {dish.restaurant_name}
-                </button>
-              </p>
-              <div className="flex items-center gap-4 flex-wrap">
+                  Pick for me.
+                </span>
+              </h2>
+            </div>
+
+            <div className="max-w-3xl mx-auto">
+              {/* Price selector — cream outlined chips on dark */}
+              <div className="flex items-center justify-center gap-3 mb-6 flex-wrap">
+                <span className="font-serif italic text-sm text-cream/60">budget:</span>
+                {[
+                  { label: '$10', v: 10 },
+                  { label: '$15', v: 15 },
+                  { label: '$20', v: 20 },
+                  { label: '$30', v: 30 },
+                  { label: 'any', v: undefined },
+                ].map((opt) => (
+                  <button
+                    key={opt.label}
+                    onClick={() => setMaxPrice(opt.v)}
+                    className={`px-4 py-1.5 text-sm font-medium rounded-full border transition-all ${
+                      maxPrice === opt.v
+                        ? 'border-terracotta bg-terracotta text-cream'
+                        : 'border-cream/30 text-cream/80 hover:border-cream/60 bg-transparent'
+                    }`}
+                    data-testid={`budget-${opt.label}`}
+                  >
+                    {opt.label}
+                  </button>
+                ))}
+              </div>
+
+              {/* CTA button */}
+              {!dish && !loading && (
                 <button
                   onClick={roll}
-                  data-testid="try-another"
-                  className="px-6 py-3 bg-ink hover:bg-terracotta text-cream text-sm uppercase tracking-widest font-semibold transition-colors"
+                  data-testid="hungry-button"
+                  className="w-full bg-terracotta hover:bg-terracotta-dark text-cream font-display text-2xl md:text-4xl font-medium py-10 md:py-14 rounded-sm transition-colors shadow-[0_8px_40px_-8px_rgba(201,75,31,0.6)] hover:shadow-[0_12px_50px_-8px_rgba(201,75,31,0.7)]"
                 >
-                  Try another
+                  Surprise me
                 </button>
-                <button
-                  onClick={() => onOpenChat(dish.restaurant_slug, dish.restaurant_name)}
-                  className="px-6 py-3 border border-ink text-ink hover:bg-ink hover:text-cream text-sm uppercase tracking-widest font-semibold transition-colors"
-                >
-                  Ask the menu
-                </button>
-              </div>
-            </div>
-          )}
-        </div>
+              )}
 
-        {/* ─── Category tiles ─── */}
-        <div className="mt-24 md:mt-32">
-          <div className="flex items-baseline justify-between mb-8 flex-wrap gap-3">
-            <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
-              or browse by craving
-            </h2>
-            <p className="font-serif italic text-sand">twelve ways to start</p>
+              {loading && (
+                <div className="rounded-sm p-12 text-center border border-cream/10">
+                  <p className="font-serif italic text-xl text-cream/60">
+                    finding something good...
+                  </p>
+                </div>
+              )}
+
+              {error && !loading && (
+                <div className="text-center py-6">
+                  <p className="font-serif italic text-terracotta">{error}</p>
+                  <button
+                    onClick={roll}
+                    className="mt-4 text-sm uppercase tracking-widest text-cream/80 hover:text-terracotta underline underline-offset-4"
+                  >
+                    Try again
+                  </button>
+                </div>
+              )}
+
+              {/* Result card — cream paper floating on dark */}
+              {dish && !loading && (
+                <div
+                  key={rollId}
+                  data-testid="random-dish-card"
+                  className="pop-in bg-paper rounded-sm p-8 md:p-12 shadow-[0_8px_40px_rgba(0,0,0,0.4)]"
+                >
+                  <p className="font-serif italic text-sm text-sand mb-3">
+                    tonight, try
+                  </p>
+                  <h3
+                    className="font-display text-3xl md:text-5xl font-medium text-ink leading-tight mb-3"
+                    data-testid="random-dish-name"
+                  >
+                    {dish.name}
+                  </h3>
+                  {price && (
+                    <p className="font-display text-2xl md:text-3xl text-terracotta font-semibold mb-4">
+                      {price}
+                    </p>
+                  )}
+                  {dish.description && (
+                    <p className="text-base md:text-lg text-ink/80 leading-relaxed mb-6 max-w-2xl">
+                      {dish.description}
+                    </p>
+                  )}
+                  <p className="font-serif italic text-sand mb-6">
+                    at{' '}
+                    <button
+                      onClick={() =>
+                        onOpenChat(dish.restaurant_slug, dish.restaurant_name)
+                      }
+                      className="not-italic font-sans font-semibold text-ink underline underline-offset-4 decoration-terracotta hover:text-terracotta transition-colors"
+                    >
+                      {dish.restaurant_name}
+                    </button>
+                  </p>
+                  <div className="flex items-center gap-4 flex-wrap">
+                    <button
+                      onClick={roll}
+                      data-testid="try-another"
+                      className="px-6 py-3 bg-ink hover:bg-terracotta text-cream text-sm uppercase tracking-widest font-semibold transition-colors"
+                    >
+                      Try another
+                    </button>
+                    <button
+                      onClick={() =>
+                        onOpenChat(dish.restaurant_slug, dish.restaurant_name)
+                      }
+                      className="px-6 py-3 border border-ink text-ink hover:bg-ink hover:text-cream text-sm uppercase tracking-widest font-semibold transition-colors"
+                    >
+                      Ask the menu
+                    </button>
+                  </div>
+                </div>
+              )}
+            </div>
           </div>
+        </div>
+      </section>
+
+      {/* ─── Category tiles — back on cream ─── */}
+      <section className="relative pt-16 pb-8 md:pt-24 md:pb-10 px-4">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight mb-8">
+            Browse by craving
+          </h2>
 
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3 md:gap-4">
             {CATEGORY_TILES.map((tile) => (
@@ -277,7 +312,7 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
             ))}
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </>
   );
 }

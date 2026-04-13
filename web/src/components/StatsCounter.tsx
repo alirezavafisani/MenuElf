@@ -17,7 +17,7 @@ export default function StatsCounter() {
       .catch(() => {});
   }, []);
 
-  if (!stats || stats.total_visitors === 0) return null;
+  if (!stats || stats.total_searches < 20) return null;
 
   return (
     <div
