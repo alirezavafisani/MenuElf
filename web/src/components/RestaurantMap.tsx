@@ -113,13 +113,17 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
                         <h3 className="font-display font-semibold text-ink text-base mb-1">
                           {restaurant.name}
                         </h3>
-                        {restaurant.rating && (
+                        {restaurant.rating ? (
                           <div className="flex items-center gap-1.5 mb-1">
                             <StarRating rating={restaurant.rating} />
                             <span className="text-xs text-sand">
-                              ({restaurant.reviews ?? 0})
+                              ({restaurant.reviews} reviews)
                             </span>
                           </div>
+                        ) : (
+                          <p className="font-serif italic text-xs text-sand/70 mb-1">
+                            No ratings yet
+                          </p>
                         )}
                         {restaurant.address && (
                           <p className="text-xs text-sand mb-2">{restaurant.address}</p>

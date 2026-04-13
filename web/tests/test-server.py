@@ -84,8 +84,12 @@ NON_FOOD_NAME_KEYWORDS = [
 ]
 
 
+DESSERT_KEYWORDS = ["dessert", "cake", "ice cream", "sweet", "tiramisu"]
+SIDE_KEYWORDS = ["side", "appetizer", "salad", "fries"]
+
+import re as _re
+
 def is_food_dish(dish: dict) -> bool:
-    import re as _re
     cat = (dish.get("category") or "").lower()
     name = (dish.get("name") or "").lower()
     if any(k in cat for k in NON_FOOD_CATEGORY_KEYWORDS):
@@ -94,6 +98,23 @@ def is_food_dish(dish: dict) -> bool:
         if _re.search(rf"\b{_re.escape(k)}\b", name):
             return False
     return True
+
+def matches_dish_type(dish: dict, dish_type: str) -> bool:
+    if dish_type == "any":
+        return is_food_dish(dish)
+    cat = (dish.get("category") or "").lower()
+    name = (dish.get("name") or "").lower()
+    if dish_type == "main":
+        return (is_food_dish(dish)
+                and not any(k in cat or k in name for k in DESSERT_KEYWORDS)
+                and not any(k in cat for k in SIDE_KEYWORDS))
+    if dish_type == "dessert":
+        return any(k in cat or k in name for k in DESSERT_KEYWORDS)
+    if dish_type == "drink":
+        return not is_food_dish(dish)
+    if dish_type == "side":
+        return any(k in cat for k in SIDE_KEYWORDS)
+    return is_food_dish(dish)
 
 
 # --- Mock data ---
@@ -270,11 +291,10 @@ def category_dishes(req: SearchRequest, request: Request):
 
 
 @app.get("/random-dish")
-def random_dish(request: Request, max_price: Optional[float] = None):
-    # Food-only filter (chunk 4): drop wine, beer, coffee, etc.
+def random_dish(request: Request, max_price: Optional[float] = None, dish_type: str = "any"):
     candidates = [
         d for d in MOCK_DISHES
-        if d.get("price") is not None and is_food_dish(d)
+        if d.get("price") is not None and matches_dish_type(d, dish_type)
     ]
     if max_price is not None:
         candidates = [d for d in candidates if d["price"] <= max_price]

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { getRandomDish } from '../api';
 import type { Dish } from '../types';
 
@@ -93,22 +93,97 @@ function formatPrice(price: number | string | null | undefined): string {
   return !isNaN(num) && num > 0 ? `$${num.toFixed(2)}` : '';
 }
 
+// ─── Inline pill dropdown ───
+const DISH_TYPES = [
+  { label: 'any dish', value: 'any' },
+  { label: 'main', value: 'main' },
+  { label: 'dessert', value: 'dessert' },
+  { label: 'drink', value: 'drink' },
+  { label: 'side', value: 'side' },
+];
+
+const BUDGETS = [
+  { label: 'any price', value: undefined as number | undefined },
+  { label: '$10', value: 10 },
+  { label: '$15', value: 15 },
+  { label: '$20', value: 20 },
+  { label: '$30', value: 30 },
+];
+
+function PillSelect<T>({
+  options,
+  value,
+  onChange,
+  display,
+}: {
+  options: Array<{ label: string; value: T }>;
+  value: T;
+  onChange: (v: T) => void;
+  display: string;
+}) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false);
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, []);
+
+  return (
+    <div ref={ref} className="relative inline-block">
+      <button
+        onClick={() => setOpen(!open)}
+        className="inline-flex items-center gap-1 px-3 py-1 rounded-full border border-cream/40 text-cream font-semibold text-base md:text-lg hover:border-terracotta transition-colors"
+      >
+        {display}
+        <svg className="w-3.5 h-3.5 ml-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      {open && (
+        <div className="absolute top-full mt-1 left-0 z-50 bg-ink border border-cream/20 rounded-lg shadow-xl min-w-[120px] py-1">
+          {options.map((opt) => (
+            <button
+              key={opt.label}
+              onClick={() => {
+                onChange(opt.value);
+                setOpen(false);
+              }}
+              className={`block w-full text-left px-4 py-2 text-sm transition-colors ${
+                value === opt.value
+                  ? 'text-terracotta font-semibold'
+                  : 'text-cream/80 hover:text-cream hover:bg-cream/5'
+              }`}
+            >
+              {opt.label}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
   const [dish, setDish] = useState<Dish | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
   const [maxPrice, setMaxPrice] = useState<number | undefined>(undefined);
+  const [dishType, setDishType] = useState('any');
   const [rollId, setRollId] = useState(0);
 
   const roll = async () => {
     setLoading(true);
     setError('');
     try {
-      const d = await getRandomDish(maxPrice);
+      const d = await getRandomDish(maxPrice, dishType);
       setDish(d);
       setRollId((n) => n + 1);
     } catch {
-      setError('No dishes matched that budget. Try a higher max.');
+      setError('No matches at that price. Try a higher budget.');
       setDish(null);
     } finally {
       setLoading(false);
@@ -126,6 +201,8 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
   };
 
   const price = dish ? formatPrice(dish.price) : '';
+  const typeLabel = DISH_TYPES.find((t) => t.value === dishType)?.label ?? 'any dish';
+  const budgetLabel = BUDGETS.find((b) => b.value === maxPrice)?.label ?? 'any price';
 
   return (
     <>
@@ -133,11 +210,9 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
       <section
         className="relative overflow-hidden"
         style={{
-          background:
-            'linear-gradient(to bottom, #1A1511, #2A2521)',
+          background: 'linear-gradient(to bottom, #1A1511, #2A2521)',
         }}
       >
-        {/* Moody background photo with heavy dark overlay */}
         <div
           className="absolute inset-0 opacity-[0.15]"
           style={{
@@ -164,29 +239,22 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
             </div>
 
             <div className="max-w-3xl mx-auto">
-              {/* Price selector — cream outlined chips on dark */}
-              <div className="flex items-center justify-center gap-3 mb-6 flex-wrap">
-                <span className="font-serif italic text-sm text-cream/60">budget:</span>
-                {[
-                  { label: '$10', v: 10 },
-                  { label: '$15', v: 15 },
-                  { label: '$20', v: 20 },
-                  { label: '$30', v: 30 },
-                  { label: 'any', v: undefined },
-                ].map((opt) => (
-                  <button
-                    key={opt.label}
-                    onClick={() => setMaxPrice(opt.v)}
-                    className={`px-4 py-1.5 text-sm font-medium rounded-full border transition-all ${
-                      maxPrice === opt.v
-                        ? 'border-terracotta bg-terracotta text-cream'
-                        : 'border-cream/30 text-cream/80 hover:border-cream/60 bg-transparent'
-                    }`}
-                    data-testid={`budget-${opt.label}`}
-                  >
-                    {opt.label}
-                  </button>
-                ))}
+              {/* Inline sentence with pill dropdowns */}
+              <div className="flex items-center justify-center gap-2 mb-8 flex-wrap text-cream text-base md:text-lg font-serif italic">
+                <span>Surprise me with</span>
+                <PillSelect
+                  options={DISH_TYPES}
+                  value={dishType}
+                  onChange={setDishType}
+                  display={typeLabel}
+                />
+                <span>under</span>
+                <PillSelect
+                  options={BUDGETS}
+                  value={maxPrice}
+                  onChange={setMaxPrice}
+                  display={budgetLabel}
+                />
               </div>
 
               {/* CTA button */}
@@ -220,7 +288,6 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
                 </div>
               )}
 
-              {/* Result card — cream paper floating on dark */}
               {dish && !loading && (
                 <div
                   key={rollId}
