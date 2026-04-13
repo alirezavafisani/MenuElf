@@ -372,9 +372,13 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
             if "error" not in pdata:
                 rest_info["lat"] = pdata.get("lat")
                 rest_info["lng"] = pdata.get("lng")
-                rest_info["rating"] = pdata.get("rating")
-                rest_info["reviews"] = pdata.get("user_ratings_total")
                 rest_info["address"] = pdata.get("address")
+                # Only expose rating when backed by real reviews (>= 3).
+                # Google Places returns rating=5 for unrated businesses.
+                review_count = pdata.get("user_ratings_total") or 0
+                if review_count >= 3 and pdata.get("rating"):
+                    rest_info["rating"] = pdata["rating"]
+                    rest_info["reviews"] = review_count
 
         if slug:
             # Clear the photos array — it contained Supabase CDN URLs from a
@@ -579,23 +583,49 @@ NON_FOOD_NAME_KEYWORDS = [
 ]
 
 
-def is_food_dish(dish: dict) -> bool:
-    """Return False for drinks / alcohol / other non-food items.
+DESSERT_KEYWORDS = [
+    "dessert", "cake", "ice cream", "sweet", "pastry", "gelato",
+    "sorbet", "pudding", "brownie", "tiramisu", "cheesecake", "cookie",
+]
+SIDE_KEYWORDS = ["side", "appetizer", "app", "starter", "salad", "fries"]
 
-    Used by the Hungry button so it never recommends wine or beer as "dinner".
-    Keyword match is substring-based and case-insensitive.
-    """
+
+def is_food_dish(dish: dict) -> bool:
+    """Return False for drinks / alcohol / other non-food items."""
     cat = (dish.get("category") or "").lower()
     name = (dish.get("name") or "").lower()
     if any(k in cat for k in NON_FOOD_CATEGORY_KEYWORDS):
         return False
-    # Name-based check uses word-ish boundaries so "gin" doesn't match "ginger"
-    # but "pinot noir" and "ipa pale ale" still match.
-    import re as _re
     for k in NON_FOOD_NAME_KEYWORDS:
-        if _re.search(rf"\b{_re.escape(k)}\b", name):
+        if re.search(rf"\b{re.escape(k)}\b", name):
             return False
     return True
+
+
+def is_drink_dish(dish: dict) -> bool:
+    """Return True for drinks / beverages / alcohol."""
+    return not is_food_dish(dish)
+
+
+def matches_dish_type(dish: dict, dish_type: str) -> bool:
+    """Filter a dish by the requested type (any, main, dessert, drink, side)."""
+    if dish_type == "any":
+        return is_food_dish(dish)
+    cat = (dish.get("category") or "").lower()
+    name = (dish.get("name") or "").lower()
+    if dish_type == "main":
+        return (
+            is_food_dish(dish)
+            and not any(k in cat or k in name for k in DESSERT_KEYWORDS)
+            and not any(k in cat for k in SIDE_KEYWORDS)
+        )
+    if dish_type == "dessert":
+        return any(k in cat or k in name for k in DESSERT_KEYWORDS)
+    if dish_type == "drink":
+        return is_drink_dish(dish)
+    if dish_type == "side":
+        return any(k in cat for k in SIDE_KEYWORDS)
+    return is_food_dish(dish)
 
 
 def _count_dishes_for_restaurant(slug: Optional[str]) -> int:
@@ -667,11 +697,14 @@ def _clean_dish_text(d: dict) -> dict:
 
 
 @app.get("/random-dish")
-def random_dish(request: Request, max_price: Optional[float] = None):
-    """Return a random FOOD dish, optionally filtered by max price.
+def random_dish(
+    request: Request,
+    max_price: Optional[float] = None,
+    dish_type: str = "any",
+):
+    """Return a random dish filtered by type and optional max price.
 
-    Excludes drinks, alcohol, wine, beer, and other non-food items so the
-    Hungry button never recommends a glass of cabernet as "dinner".
+    dish_type: any | main | dessert | drink | side
     """
     try:
         if not MENU_INDEX:
@@ -684,7 +717,7 @@ def random_dish(request: Request, max_price: Optional[float] = None):
                 continue
             if max_price is not None and p > max_price:
                 continue
-            if not is_food_dish(d):
+            if not matches_dish_type(d, dish_type):
                 continue
             candidates.append(d)
 

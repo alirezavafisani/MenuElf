@@ -22,9 +22,15 @@ export async function categoryDishes(params: SearchParams): Promise<{ dishes: Di
   return res.json();
 }
 
-export async function getRandomDish(maxPrice?: number): Promise<Dish> {
-  const qs = maxPrice ? `?max_price=${maxPrice}` : '';
-  const res = await fetch(`${API_BASE}/random-dish${qs}`);
+export async function getRandomDish(
+  maxPrice?: number,
+  dishType?: string
+): Promise<Dish> {
+  const params = new URLSearchParams();
+  if (maxPrice) params.set('max_price', String(maxPrice));
+  if (dishType && dishType !== 'any') params.set('dish_type', dishType);
+  const qs = params.toString();
+  const res = await fetch(`${API_BASE}/random-dish${qs ? '?' + qs : ''}`);
   if (!res.ok) throw new Error('No dish found');
   return res.json();
 }
