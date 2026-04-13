@@ -8,11 +8,17 @@ const SUGGESTIONS = [
   'a dessert worth the trip',
 ];
 
+function getTimeWord(): string {
+  const hour = new Date().getHours();
+  return hour >= 5 && hour < 15 ? 'today' : 'tonight';
+}
+
 export default function Hero() {
   const [value, setValue] = useState('');
+  const [timeWord] = useState(getTimeWord);
 
   const fireSearch = (q: string) => {
-    const section = document.getElementById('search');
+    const section = document.getElementById('search-results');
     if (section) section.scrollIntoView({ behavior: 'smooth' });
     const underMatch = q.match(/^under \$(\d+)/i);
     if (underMatch) {
@@ -36,7 +42,7 @@ export default function Hero() {
   };
 
   return (
-    <section className="relative pt-32 pb-16 md:pt-40 md:pb-24 px-4">
+    <section id="search" className="relative pt-32 pb-16 md:pt-40 md:pb-24 px-4">
       <div className="relative max-w-7xl mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-5 gap-10 md:gap-16 items-center">
           {/* Left — 60% */}
@@ -48,12 +54,12 @@ export default function Hero() {
                 className="italic font-normal"
                 style={{ fontVariationSettings: '"opsz" 144' }}
               >
-                tonight.
+                {timeWord}.
               </span>
             </h1>
 
             <p className="mt-6 md:mt-8 font-serif italic text-xl md:text-2xl text-sand leading-snug max-w-xl">
-              Every menu in Calgary, searchable.
+              Most menus in Calgary, searchable.
             </p>
 
             {/* Minimal search — bottom-border only */}

@@ -1,9 +1,10 @@
 import { useState, useEffect } from 'react';
 
 const navLinks = [
-  { label: 'Search', href: '#search' },
-  { label: 'Map', href: '#map' },
-  { label: 'About', href: '#about' },
+  { label: 'SEARCH', href: '#search' },
+  { label: 'SURPRISE', href: '#surprise' },
+  { label: 'MAP', href: '#map' },
+  { label: 'BROWSE', href: '#browse' },
 ];
 
 export default function Navbar() {
@@ -28,16 +29,16 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 group">
-            <svg className="w-7 h-7 text-terracotta" viewBox="0 0 24 24" fill="none">
-              <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="1.5" />
-              <path
-                d="M8 14c0 2.2 1.8 4 4 4s4-1.8 4-4"
-                stroke="currentColor"
-                strokeWidth="1.5"
-                strokeLinecap="round"
-              />
-              <circle cx="9" cy="10" r="1.2" fill="currentColor" />
-              <circle cx="15" cy="10" r="1.2" fill="currentColor" />
+            {/* speech bubble + fork icon */}
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+              {/* speech bubble */}
+              <path d="M3 5 Q3 3, 5 3 L19 3 Q21 3, 21 5 L21 15 Q21 17, 19 17 L9 17 L5 20 L5 17 L5 17 Q3 17, 3 15 Z" fill="#C94B1F"/>
+              {/* fork tines (3 small vertical lines inside the bubble) */}
+              <rect x="10" y="7" width="1" height="5" fill="#FAF6F0"/>
+              <rect x="12" y="7" width="1" height="5" fill="#FAF6F0"/>
+              <rect x="14" y="7" width="1" height="5" fill="#FAF6F0"/>
+              {/* fork handle */}
+              <rect x="11" y="10" width="3" height="1" fill="#FAF6F0"/>
             </svg>
             <span className="font-display text-2xl font-semibold text-ink tracking-tight">
               MenuElf
