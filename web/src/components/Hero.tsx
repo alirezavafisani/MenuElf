@@ -1,11 +1,11 @@
 import { useState } from 'react';
 
-const EDITOR_SUGGESTIONS = [
+const SUGGESTIONS = [
   'spicy ramen under $15',
-  'a plate of handmade pasta',
+  'handmade pasta',
   'Korean fried chicken',
-  "brunch that isn't boring",
-  'dessert worth leaving the house for',
+  'bright morning brunch',
+  'a dessert worth the trip',
 ];
 
 export default function Hero() {
@@ -53,7 +53,7 @@ export default function Hero() {
             </h1>
 
             <p className="mt-6 md:mt-8 font-serif italic text-xl md:text-2xl text-sand leading-snug max-w-xl">
-              an AI that actually knows every menu in Calgary
+              Every menu in Calgary, searchable.
             </p>
 
             {/* Minimal search — bottom-border only */}
@@ -76,7 +76,7 @@ export default function Hero() {
                   type="text"
                   value={value}
                   onChange={(e) => setValue(e.target.value)}
-                  placeholder="What are you in the mood for?"
+                  placeholder="Try: spicy ramen under $15"
                   className="flex-1 bg-transparent text-lg md:text-xl text-ink placeholder-sand/70 outline-none font-sans"
                 />
                 <button
@@ -89,8 +89,8 @@ export default function Hero() {
             </form>
 
             <p className="mt-6 font-serif italic text-base text-sand">
-              editor's picks:{' '}
-              {EDITOR_SUGGESTIONS.map((s, i) => (
+              Try asking:{' '}
+              {SUGGESTIONS.map((s, i) => (
                 <span key={s}>
                   <button
                     onClick={() => fireSearch(s)}
@@ -98,7 +98,7 @@ export default function Hero() {
                   >
                     {s}
                   </button>
-                  {i < EDITOR_SUGGESTIONS.length - 1 && (
+                  {i < SUGGESTIONS.length - 1 && (
                     <span className="text-sand/50"> · </span>
                   )}
                 </span>
@@ -108,18 +108,13 @@ export default function Hero() {
 
           {/* Right — 40% editorial photo */}
           <div className="hidden md:block md:col-span-2">
-            <figure className="relative">
-              <div className="overflow-hidden">
-                <img
-                  src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85"
-                  alt="A beautifully plated dish"
-                  className="w-full h-[520px] object-cover grayscale-[15%] contrast-[1.05]"
-                />
-              </div>
-              <figcaption className="mt-4 font-serif italic text-sm text-sand leading-relaxed">
-                A quiet table, a good dish, a reason to put your phone down.
-              </figcaption>
-            </figure>
+            <div className="overflow-hidden">
+              <img
+                src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85"
+                alt="A beautifully plated dish"
+                className="w-full h-[520px] object-cover grayscale-[15%] contrast-[1.05]"
+              />
+            </div>
           </div>
         </div>
       </div>

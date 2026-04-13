@@ -62,14 +62,10 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
   return (
     <section id="map" className="pt-16 pb-4 md:pt-24 md:pb-6 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
-        <div className="mb-8 flex items-baseline justify-between flex-wrap gap-3">
+        <div className="mb-8">
           <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
-            {restaurants.length || 487} restaurants.{' '}
-            <span className="italic" style={{ fontVariationSettings: '"opsz" 144' }}>
-              one map.
-            </span>
+            {restaurants.length || 487} restaurants. One map. Tap a pin to explore the menu.
           </h2>
-          <p className="font-serif italic text-sand">tap a pin to chat</p>
         </div>
 
         <div className="overflow-hidden border border-border-warm bg-cream">
