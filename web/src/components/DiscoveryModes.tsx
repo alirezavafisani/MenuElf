@@ -228,6 +228,9 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
         <div className="relative z-10 px-4 pt-16 pb-10 md:pt-24 md:pb-14">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-8">
+              <p className="font-serif italic text-base md:text-lg text-cream/70 mb-2 md:mb-3">
+                when nothing sounds good, let us pick.
+              </p>
               <h2 className="font-display text-4xl md:text-6xl font-medium text-cream tracking-tight">
                 Can't decide?{' '}
                 <span
@@ -268,6 +271,10 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
                   Surprise me
                 </button>
               )}
+
+              <p className="font-serif italic text-sm text-cream/60 text-center mt-4">
+                a real dish from a real Calgary kitchen — not a guess.
+              </p>
 
               {loading && (
                 <div className="rounded-sm p-12 text-center border border-cream/10">
@@ -352,6 +359,9 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
       {/* ─── Category tiles — back on cream ─── */}
       <section id="browse" className="relative pt-16 pb-8 md:pt-24 md:pb-10 px-4">
         <div className="max-w-7xl mx-auto">
+          <p className="font-serif italic text-base md:text-lg text-sand mb-2 md:mb-3">
+            already in the mood for something? start here.
+          </p>
           <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight mb-8">
             Browse by craving
           </h2>

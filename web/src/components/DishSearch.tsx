@@ -93,7 +93,11 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
     <section id="search-results" className="py-16 md:py-24 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
         <div className="mb-6 flex items-baseline justify-between flex-wrap gap-3">
-              <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
+              <div>
+                <p className="font-serif italic text-base md:text-lg text-sand mb-2 md:mb-3">
+                  real dishes, real Calgary menus. tap a card to chat with that kitchen.
+                </p>
+                <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
                 {query ? (
                   <>
                     for{' '}
@@ -105,6 +109,7 @@ export default function DishSearch({ onOpenChat, restaurantPhotoMap }: DishSearc
                   'handpicked for you'
                 )}
               </h2>
+              </div>
               <p className="font-serif italic text-sand">up to {MAX_RESULTS} dishes</p>
             </div>
 
