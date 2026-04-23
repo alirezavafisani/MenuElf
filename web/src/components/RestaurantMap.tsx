@@ -106,6 +106,9 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
     <section id="map" className="pt-16 pb-4 md:pt-24 md:pb-6 px-4 border-t border-border-warm">
       <div className="max-w-7xl mx-auto">
         <div className="mb-8">
+          <p className="font-serif italic text-base md:text-lg text-sand mb-2 md:mb-3">
+            know the menu before you go.
+          </p>
           <h2 className="font-display text-3xl md:text-5xl font-medium text-ink tracking-tight">
             Tap a restaurant pin to dig into the menu.
           </h2>
