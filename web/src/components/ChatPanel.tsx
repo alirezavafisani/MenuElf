@@ -171,7 +171,7 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={handleKeyDown}
-              placeholder={rateLimited ? 'Rate limit reached...' : 'Ask anything — prices, spice level, what\'s popular...'}
+              placeholder={rateLimited ? 'Rate limit reached...' : 'Ask anything: prices, spice level, what\'s popular...'}
               disabled={rateLimited}
               className="flex-1 px-4 py-2.5 text-sm bg-paper border border-border-warm rounded-full focus:outline-none focus:border-terracotta disabled:opacity-50 transition-all"
             />

@@ -273,7 +273,7 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
               )}
 
               <p className="font-serif italic text-sm text-cream/60 text-center mt-4">
-                a real dish from a real Calgary kitchen — not a guess.
+                a real dish from a real Calgary kitchen, not a guess.
               </p>
 
               {loading && (

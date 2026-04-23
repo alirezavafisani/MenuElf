@@ -111,7 +111,7 @@ export default function FilterPanel({
                   }
                   className="w-full px-3 py-2 text-sm bg-cream border border-border-warm focus:outline-none focus:border-terracotta"
                 />
-                <span className="text-sand">—</span>
+                <span className="text-sand">to</span>
                 <input
                   type="number"
                   placeholder="Max"

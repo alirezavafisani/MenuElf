@@ -59,7 +59,7 @@ export default function Hero() {
             </h1>
 
             <p className="mt-6 md:mt-8 font-serif italic text-xl md:text-2xl text-sand leading-snug max-w-xl">
-              Type what you're craving — we'll find it on a real menu near you.
+              Type what you're craving. We'll find it on a real menu near you.
             </p>
 
             {/* Minimal search — bottom-border only */}

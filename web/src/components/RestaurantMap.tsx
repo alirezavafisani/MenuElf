@@ -92,7 +92,7 @@ export default function RestaurantMap({ onOpenChat, restaurants }: RestaurantMap
           setUserPos([latitude, longitude]);
           setToast('');
         } else {
-          setToast("Looks like you're not in Calgary — map stays centered on the city.");
+          setToast("Looks like you're not in Calgary. Map stays centered on the city.");
           setTimeout(() => setToast(''), 4000);
         }
       },
