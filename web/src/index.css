@@ -21,6 +21,25 @@ h1, h2, h3, h4 {
   letter-spacing: -0.01em;
 }
 
+/* Keyboard users get a clear, on-brand focus ring everywhere. */
+:focus-visible {
+  outline: 2px solid #C94B1F;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Motion is decoration here, never information, so it all yields. */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
 /* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 6px;

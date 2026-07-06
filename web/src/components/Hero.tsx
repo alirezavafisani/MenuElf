@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 const SUGGESTIONS = [
   'spicy ramen under $15',
@@ -8,6 +8,27 @@ const SUGGESTIONS = [
   'a dessert worth the trip',
 ];
 
+const RECENTS_KEY = 'menuelf:recent';
+
+export function readRecents(): string[] {
+  try {
+    const raw = localStorage.getItem(RECENTS_KEY);
+    const arr = raw ? JSON.parse(raw) : [];
+    return Array.isArray(arr) ? arr.filter((s) => typeof s === 'string').slice(0, 4) : [];
+  } catch {
+    return [];
+  }
+}
+
+export function saveRecent(q: string) {
+  try {
+    const next = [q, ...readRecents().filter((r) => r.toLowerCase() !== q.toLowerCase())].slice(0, 4);
+    localStorage.setItem(RECENTS_KEY, JSON.stringify(next));
+  } catch {
+    /* private mode, fine */
+  }
+}
+
 function getTimeWord(): string {
   const hour = new Date().getHours();
   return hour >= 5 && hour < 15 ? 'today' : 'tonight';
@@ -16,6 +37,41 @@ function getTimeWord(): string {
 export default function Hero() {
   const [value, setValue] = useState('');
   const [timeWord] = useState(getTimeWord);
+  const [recents, setRecents] = useState<string[]>(readRecents);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // "/" anywhere focuses the search, the way people expect from tools they
+  // actually live in. Ignored while already typing somewhere.
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key !== '/' || e.metaKey || e.ctrlKey || e.altKey) return;
+      const el = document.activeElement;
+      if (el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA')) return;
+      e.preventDefault();
+      inputRef.current?.focus();
+      inputRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, []);
+
+  // Lets any part of the app (results header, navbar) send the visitor back
+  // here with the cursor already in the box.
+  useEffect(() => {
+    const handler = () => {
+      inputRef.current?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      inputRef.current?.focus();
+    };
+    window.addEventListener('menuelf:focus-search', handler);
+    return () => window.removeEventListener('menuelf:focus-search', handler);
+  }, []);
+
+  // Refresh the recents row after any search, wherever it started.
+  useEffect(() => {
+    const handler = () => setRecents(readRecents());
+    window.addEventListener('menuelf:search', handler);
+    return () => window.removeEventListener('menuelf:search', handler);
+  }, []);
 
   const fireSearch = (q: string) => {
     const section = document.getElementById('search-results');
@@ -35,10 +91,7 @@ export default function Hero() {
   const onSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const q = value.trim();
-    if (q) {
-      fireSearch(q);
-      setValue('');
-    }
+    if (q) fireSearch(q);
   };
 
   return (
@@ -63,13 +116,14 @@ export default function Hero() {
             </p>
 
             {/* Minimal search — bottom-border only */}
-            <form onSubmit={onSubmit} className="mt-10 max-w-xl">
+            <form onSubmit={onSubmit} className="mt-10 max-w-xl" role="search">
               <div className="flex items-center gap-3 border-b-2 border-ink py-3 focus-within:border-terracotta transition-colors">
                 <svg
                   className="w-5 h-5 text-ink flex-shrink-0"
                   fill="none"
                   viewBox="0 0 24 24"
                   stroke="currentColor"
+                  aria-hidden="true"
                 >
                   <path
                     strokeLinecap="round"
@@ -79,10 +133,13 @@ export default function Hero() {
                   />
                 </svg>
                 <input
+                  ref={inputRef}
                   type="text"
                   value={value}
                   onChange={(e) => setValue(e.target.value)}
                   placeholder="Try: spicy ramen under $15"
+                  aria-label="Search dishes across Calgary menus"
+                  enterKeyHint="search"
                   className="flex-1 bg-transparent text-lg md:text-xl text-ink placeholder-sand/70 outline-none font-sans"
                 />
                 <button
@@ -110,6 +167,26 @@ export default function Hero() {
                 </span>
               ))}
             </p>
+
+            {recents.length > 0 && (
+              <p className="mt-2 font-serif italic text-base text-sand" data-testid="recent-searches">
+                Recent:{' '}
+                {recents.map((s, i) => (
+                  <span key={s}>
+                    <button
+                      onClick={() => {
+                        setValue(s);
+                        fireSearch(s);
+                      }}
+                      className="underline underline-offset-4 decoration-sand/40 hover:decoration-terracotta hover:text-terracotta transition-colors"
+                    >
+                      {s}
+                    </button>
+                    {i < recents.length - 1 && <span className="text-sand/50"> · </span>}
+                  </span>
+                ))}
+              </p>
+            )}
           </div>
 
           {/* Right — 40% editorial photo */}
@@ -118,6 +195,7 @@ export default function Hero() {
               <img
                 src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=85"
                 alt="A beautifully plated dish"
+                fetchPriority="high"
                 className="w-full h-[520px] object-cover grayscale-[15%] contrast-[1.05]"
               />
             </div>

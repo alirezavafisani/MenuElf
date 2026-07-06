@@ -8,6 +8,13 @@ interface ChatPanelProps {
   onClose: () => void;
 }
 
+const QUICK_PROMPTS = [
+  'best thing under $20?',
+  'anything vegetarian?',
+  "what's the spiciest dish?",
+  'what should a first timer order?',
+];
+
 export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState('');
@@ -21,6 +28,15 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, loading]);
+
+  // Esc closes, standard dialog behaviour.
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') onClose();
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [onClose]);
 
   useEffect(() => {
     if (initializedRef.current) return;
@@ -46,8 +62,8 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
     initChat();
   }, [slug, name]);
 
-  const sendMessage = async () => {
-    const text = input.trim();
+  const sendMessage = async (preset?: string) => {
+    const text = (preset ?? input).trim();
     if (!text || loading || rateLimited) return;
 
     setInput('');
@@ -86,7 +102,12 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
         onClick={onClose}
       />
 
-      <div className="fixed right-0 top-0 bottom-0 w-full md:w-[420px] bg-cream shadow-2xl z-[101] flex flex-col animate-slide-in border-l border-border-warm">
+      <div
+        role="dialog"
+        aria-modal="true"
+        aria-label={`Menu assistant for ${name}`}
+        className="fixed right-0 top-0 bottom-0 w-full md:w-[420px] bg-cream shadow-2xl z-[101] flex flex-col animate-slide-in border-l border-border-warm"
+      >
         {/* Header */}
         <div className="flex items-center justify-between px-6 py-5 border-b border-border-warm bg-cream">
           <div className="min-w-0">
@@ -159,6 +180,21 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
             </div>
           )}
 
+          {/* One tap gets a first-time visitor a real answer without typing. */}
+          {messages.length <= 1 && !loading && !rateLimited && (
+            <div className="flex flex-wrap gap-2 pt-1" data-testid="quick-prompts">
+              {QUICK_PROMPTS.map((p) => (
+                <button
+                  key={p}
+                  onClick={() => sendMessage(p)}
+                  className="px-3 py-1.5 text-xs font-medium border border-border-warm text-ink rounded-full hover:border-terracotta hover:text-terracotta transition-colors"
+                >
+                  {p}
+                </button>
+              ))}
+            </div>
+          )}
+
           <div ref={messagesEndRef} />
         </div>
 
@@ -171,12 +207,12 @@ export default function ChatPanel({ slug, name, onClose }: ChatPanelProps) {
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={handleKeyDown}
-              placeholder={rateLimited ? 'Rate limit reached...' : 'Ask anything: prices, spice level, what\'s popular...'}
+              placeholder={rateLimited ? 'Rate limit reached...' : 'Ask about prices, spice level, what\'s popular...'}
               disabled={rateLimited}
               className="flex-1 px-4 py-2.5 text-sm bg-paper border border-border-warm rounded-full focus:outline-none focus:border-terracotta disabled:opacity-50 transition-all"
             />
             <button
-              onClick={sendMessage}
+              onClick={() => sendMessage()}
               disabled={!input.trim() || loading || rateLimited}
               className="p-2.5 bg-terracotta hover:bg-terracotta-dark disabled:opacity-40 text-cream rounded-full transition-colors flex-shrink-0"
               aria-label="Send message"
