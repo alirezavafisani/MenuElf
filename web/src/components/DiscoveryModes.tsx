@@ -1,9 +1,12 @@
 import { useState, useRef, useEffect } from 'react';
 import { getRandomDish } from '../api';
 import type { Dish } from '../types';
+import type { RestaurantGeo } from '../geo';
+import { googleMapsUrl } from '../geo';
 
 interface DiscoveryModesProps {
   onOpenChat: (slug: string, name: string) => void;
+  restaurantGeoMap: Record<string, RestaurantGeo>;
 }
 
 const CATEGORY_TILES: Array<{
@@ -167,7 +170,7 @@ function PillSelect<T>({
   );
 }
 
-export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
+export default function DiscoveryModes({ onOpenChat, restaurantGeoMap }: DiscoveryModesProps) {
   const [dish, setDish] = useState<Dish | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
@@ -348,6 +351,17 @@ export default function DiscoveryModes({ onOpenChat }: DiscoveryModesProps) {
                     >
                       Ask the menu
                     </button>
+                    <a
+                      href={googleMapsUrl(
+                        dish.restaurant_name,
+                        restaurantGeoMap[dish.restaurant_slug]?.address
+                      )}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="px-6 py-3 border border-ink text-ink hover:bg-ink hover:text-cream text-sm uppercase tracking-widest font-semibold transition-colors"
+                    >
+                      Google Maps ↗
+                    </a>
                   </div>
                 </div>
               )}

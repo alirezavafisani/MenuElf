@@ -5,6 +5,9 @@ export default function Footer() {
     <footer id="about" className="bg-paper border-t border-border-warm pt-6 pb-10 md:pt-8 md:pb-12 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <StatsCounter />
+        <p className="font-serif italic text-sm text-sand mb-3">
+          menus collected April 2026. kitchens change, so a price may have shifted since.
+        </p>
         <p className="text-sm text-sand">
           Built by Alireza Vafisani · © 2025–2026 ·{' '}
           <a
