@@ -21,7 +21,7 @@ DISCOVERED_PATH = DATA_DIR / "discovered_restaurants.json"
 NAME_MAPPING_PATH = Path(__file__).parent.parent / "name_mapping.json"
 PLACES_DATA_PATH = Path(__file__).parent.parent / "restaurant_places_data.json"
 
-BATCH_SIZE = 15
+BATCH_SIZE = int(os.environ.get("SCRAPE_BATCH", "15"))
 MIN_ITEMS = 3
 REQUEST_DELAY = 2
 REQUEST_TIMEOUT = 5

@@ -1,196 +1,1255 @@
 {
-  "total_discovered": 1098,
-  "scraped_success": 24,
-  "scraped_failed": 6,
-  "skipped": 0,
-  "remaining": 858,
-  "last_batch": "15c",
+  "total_discovered": 1040,
+  "scraped_success": 155,
+  "scraped_failed": 27,
+  "skipped": 18,
+  "remaining": 658,
+  "last_batch": "15b",
   "restaurants": [
     {
-      "name": "4th Spot Kitchen & Bar",
-      "slug": "4th-spot-kitchen-bar",
-      "status": "failed",
-      "items_count": 0,
-      "reason": "no menu found"
-    },
-    {
-      "name": "5 Senses Ramen & Bistro",
-      "slug": "5-senses-ramen-bistro",
-      "status": "success",
-      "items_count": 26
-    },
-    {
-      "name": "A Boonsik Downtown",
-      "slug": "a-boonsik-downtown",
-      "status": "success",
-      "items_count": 28
-    },
-    {
-      "name": "A Touch of India",
-      "slug": "a-touch-of-india",
-      "status": "success",
-      "items_count": 25
-    },
-    {
-      "name": "AGNI- CALGARY INDIAN RESTAURANT",
-      "slug": "agni-calgary-indian-restaurant",
-      "status": "success",
-      "items_count": 25
-    },
-    {
-      "name": "AURORA ITALIANA",
-      "slug": "aurora-italiana",
-      "status": "failed",
-      "items_count": 0,
-      "reason": "no menu found"
-    },
-    {
-      "name": "AYCE K BBQ",
-      "slug": "ayce-k-bbq",
-      "status": "failed",
-      "items_count": 0,
-      "reason": "no menu found"
-    },
-    {
-      "name": "Acme Pizza & Pasta Co.",
-      "slug": "acme-pizza-pasta-co",
-      "status": "success",
-      "items_count": 38
-    },
-    {
-      "name": "Acme Pizza Co. - In Sunalta",
-      "slug": "acme-pizza-co-in-sunalta",
+      "name": "Aroma Caf\u00e9 Bar at cSpace Marda Loop",
+      "slug": "aroma-caf-bar-at-cspace-marda-loop",
       "status": "success",
       "items_count": 27
     },
     {
-      "name": "Actually Pretty Good - Bankview",
-      "slug": "actually-pretty-good-bankview",
-      "status": "success",
-      "items_count": 25
-    },
-    {
-      "name": "Actually Pretty Good - Victoria Park",
-      "slug": "actually-pretty-good-victoria-park",
+      "name": "Aroma Caf\u00e9 Bar on 33 Ave",
+      "slug": "aroma-caf-bar-on-33-ave",
       "status": "success",
       "items_count": 27
     },
     {
-      "name": "Aida's Bistro",
-      "slug": "aida-s-bistro",
-      "status": "success",
-      "items_count": 18
-    },
-    {
-      "name": "Ajito",
-      "slug": "ajito",
+      "name": "Asadal Korean Cuisine",
+      "slug": "asadal-korean-cuisine",
       "status": "success",
       "items_count": 27
     },
     {
-      "name": "Aladdin's Casbah",
-      "slug": "aladdin-s-casbah",
-      "status": "success",
-      "items_count": 28
-    },
-    {
-      "name": "Alforno Bakery & Cafe",
-      "slug": "alforno-bakery-cafe",
-      "status": "success",
-      "items_count": 27
-    },
-    {
-      "name": "Alloy",
-      "slug": "alloy",
-      "status": "success",
-      "items_count": 24
-    },
-    {
-      "name": "Alo Viet Kitchen",
-      "slug": "alo-viet-kitchen",
-      "status": "success",
-      "items_count": 22
-    },
-    {
-      "name": "Aloha Modern Kitchen",
-      "slug": "aloha-modern-kitchen",
-      "status": "success",
-      "items_count": 23
-    },
-    {
-      "name": "Alpha Bar & Restaurant",
-      "slug": "alpha-bar-restaurant",
-      "status": "success",
-      "items_count": 28
-    },
-    {
-      "name": "Amato Gelato Kensington",
-      "slug": "amato-gelato-kensington",
+      "name": "Auntie's Chinese Burger",
+      "slug": "auntie-s-chinese-burger",
       "status": "failed",
       "items_count": 0,
       "reason": "no menu found"
     },
     {
-      "name": "Ambarsariya kitchen + Grill",
-      "slug": "ambarsariya-kitchen-grill",
-      "status": "success",
-      "items_count": 27
-    },
-    {
-      "name": "An An Kitchen & Bar",
-      "slug": "an-an-kitchen-bar",
-      "status": "success",
-      "items_count": 84
-    },
-    {
-      "name": "Analog Coffee 17 Ave",
-      "slug": "analog-coffee-17-ave",
-      "status": "failed",
-      "items_count": 0,
-      "reason": "no menu found"
-    },
-    {
-      "name": "Analog Coffee Inglewood",
-      "slug": "analog-coffee-inglewood",
-      "status": "failed",
-      "items_count": 0,
-      "reason": "no menu found"
-    },
-    {
-      "name": "Anatolia Turkish Foods - Calgary Main Location",
-      "slug": "anatolia-turkish-foods-calgary-main-location",
+      "name": "Awesome Kitchen",
+      "slug": "awesome-kitchen",
       "status": "success",
       "items_count": 30
     },
     {
-      "name": "Anh Tu's Kitchen",
-      "slug": "anh-tu-s-kitchen",
+      "name": "A\u00f1ejo Restaurant",
+      "slug": "a-ejo-restaurant",
       "status": "success",
-      "items_count": 203
+      "items_count": 27
     },
     {
-      "name": "Annabelle's Kitchen Downtown",
-      "slug": "annabelle-s-kitchen-downtown",
-      "status": "success",
-      "items_count": 25
+      "name": "BBQ Express - Tiem Heo Quay Tran Minh",
+      "slug": "bbq-express-tiem-heo-quay-tran-minh",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
     },
     {
-      "name": "Annabelle\u2019s Kitchen Marda Loop",
-      "slug": "annabelle-s-kitchen-marda-loop",
+      "name": "BBQ Land",
+      "slug": "bbq-land",
       "status": "success",
-      "items_count": 9
+      "items_count": 63
     },
     {
-      "name": "Apple Eatery",
-      "slug": "apple-eatery",
+      "name": "BIG John's Pizza & Donair",
+      "slug": "big-john-s-pizza-donair",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "BODEGA by Sabor on 4th Street",
+      "slug": "bodega-by-sabor-on-4th-street",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "BUSAN",
+      "slug": "busan",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "BUSSIN BURGER",
+      "slug": "bussin-burger",
+      "status": "success",
+      "items_count": 89
+    },
+    {
+      "name": "BUSSIN BURGER",
+      "slug": "bussin-burger",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Baekban 1988",
+      "slug": "baekban-1988",
+      "status": "success",
+      "items_count": 31
+    },
+    {
+      "name": "Bagolac Saigon Restaurant",
+      "slug": "bagolac-saigon-restaurant",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Bahubali Indian Cuisine | 36 ST NE Calgary",
+      "slug": "bahubali-indian-cuisine-36-st-ne-calgary",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Bangkok Street Food",
+      "slug": "bangkok-street-food",
+      "status": "success",
+      "items_count": 62
+    },
+    {
+      "name": "Bank & Baron P.U.B",
+      "slug": "bank-baron-p-u-b",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Banzai Sushi & Teriyaki House",
+      "slug": "banzai-sushi-teriyaki-house",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Banzai Sushi & Teriyaki House",
+      "slug": "banzai-sushi-teriyaki-house",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Bar Chouette",
+      "slug": "bar-chouette",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Bar Rocca",
+      "slug": "bar-rocca",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Barbarella Bar",
+      "slug": "barbarella-bar",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Barcelona Tavern",
+      "slug": "barcelona-tavern",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Basil Ultimate Pho",
+      "slug": "basil-ultimate-pho",
+      "status": "success",
+      "items_count": 37
+    },
+    {
+      "name": "Beckham's Pub & Eatery",
+      "slug": "beckham-s-pub-eatery",
+      "status": "success",
+      "items_count": 122
+    },
+    {
+      "name": "Bella's Italiana",
+      "slug": "bella-s-italiana",
+      "status": "success",
+      "items_count": 19
+    },
+    {
+      "name": "Belmont Diner Marda Loop",
+      "slug": "belmont-diner-marda-loop",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Belmont Diner Willow Park",
+      "slug": "belmont-diner-willow-park",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Bereket Kebab House",
+      "slug": "bereket-kebab-house",
+      "status": "success",
+      "items_count": 167
+    },
+    {
+      "name": "BiRA 17 | Craft Indian Bistro",
+      "slug": "bira-17-craft-indian-bistro",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Big Catch Sushi Bar",
+      "slug": "big-catch-sushi-bar",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Big Fish & Open Range - Marda Loop",
+      "slug": "big-fish-open-range-marda-loop",
+      "status": "success",
+      "items_count": 313
+    },
+    {
+      "name": "Big Fish & Open Range - Renfrew",
+      "slug": "big-fish-open-range-renfrew",
+      "status": "success",
+      "items_count": 313
+    },
+    {
+      "name": "Big Rock Brewery",
+      "slug": "big-rock-brewery",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Big Sky BBQ - Big Rock Brewery",
+      "slug": "big-sky-bbq-big-rock-brewery",
+      "status": "success",
+      "items_count": 104
+    },
+    {
+      "name": "Big Sky BBQ Pit",
+      "slug": "big-sky-bbq-pit",
+      "status": "success",
+      "items_count": 104
+    },
+    {
+      "name": "Big T's BBQ & Smokehouse",
+      "slug": "big-t-s-bbq-smokehouse",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Big T's BBQ & Smokehouse",
+      "slug": "big-t-s-bbq-smokehouse",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Big T's BBQ & Smokehouse",
+      "slug": "big-t-s-bbq-smokehouse",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Big T's BBQ & Smokehouse Mahogany",
+      "slug": "big-t-s-bbq-smokehouse-mahogany",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Bill's Peking House",
+      "slug": "bill-s-peking-house",
+      "status": "success",
+      "items_count": 4
+    },
+    {
+      "name": "Birdie (The District at Beltline)",
+      "slug": "birdie-the-district-at-beltline",
+      "status": "success",
+      "items_count": 42
+    },
+    {
+      "name": "Birria Cantina",
+      "slug": "birria-cantina",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Blanco Cantina",
+      "slug": "blanco-cantina",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Blanco Cantina",
+      "slug": "blanco-cantina",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Blaze Pizza",
+      "slug": "blaze-pizza",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Blowers & Grafton (Mission)",
+      "slug": "blowers-grafton-mission",
+      "status": "success",
+      "items_count": 48
+    },
+    {
+      "name": "Blue Ocean Vietnamese Restaurant",
+      "slug": "blue-ocean-vietnamese-restaurant",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "BoRi Korean Restaurant",
+      "slug": "bori-korean-restaurant",
+      "status": "success",
+      "items_count": 4
+    },
+    {
+      "name": "Bodega Mexican Restaurant",
+      "slug": "bodega-mexican-restaurant",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Bolero",
+      "slug": "bolero",
+      "status": "success",
+      "items_count": 58
+    },
+    {
+      "name": "Bolsa Restaurant",
+      "slug": "bolsa-restaurant",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Bona Roma Little Italian Eatery",
+      "slug": "bona-roma-little-italian-eatery",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Bonjour Shops Inc.",
+      "slug": "bonjour-shops-inc",
       "status": "success",
       "items_count": 23
     },
     {
-      "name": "Arada Bar & Restaurant",
-      "slug": "arada-bar-restaurant",
+      "name": "Bono Coffee Roasters",
+      "slug": "bono-coffee-roasters",
+      "status": "success",
+      "items_count": 14
+    },
+    {
+      "name": "Bonterra Trattoria",
+      "slug": "bonterra-trattoria",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Boogie\u2019s Burgers Marda Loop",
+      "slug": "boogie-s-burgers-marda-loop",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Borough Bar & Grill",
+      "slug": "borough-bar-grill",
+      "status": "success",
+      "items_count": 5
+    },
+    {
+      "name": "Bow Bulgogi House",
+      "slug": "bow-bulgogi-house",
+      "status": "success",
+      "items_count": 52
+    },
+    {
+      "name": "Bow Valley Ranche Restaurant",
+      "slug": "bow-valley-ranche-restaurant",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Bowls Korean BBQ",
+      "slug": "bowls-korean-bbq",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Brar Fine Indian Cuisine",
+      "slug": "brar-fine-indian-cuisine",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Brass Wok Thai Restaurant",
+      "slug": "brass-wok-thai-restaurant",
+      "status": "success",
+      "items_count": 35
+    },
+    {
+      "name": "Bravo Restaurant",
+      "slug": "bravo-restaurant",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Brekkie",
+      "slug": "brekkie",
+      "status": "success",
+      "items_count": 45
+    },
+    {
+      "name": "Brewsters Brewing Company and Restaurant - Crowfoot",
+      "slug": "brewsters-brewing-company-and-restaurant-crowfoot",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Brewsters Brewing Company and Restaurant - McKenzie Towne",
+      "slug": "brewsters-brewing-company-and-restaurant-mckenzie-towne",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Bridgeland Market",
+      "slug": "bridgeland-market",
+      "status": "success",
+      "items_count": 8
+    },
+    {
+      "name": "Bridgette Bar",
+      "slug": "bridgette-bar",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Bro'Kin Yolk Express",
+      "slug": "bro-kin-yolk-express",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Broken Plate Greek Restaurant YYC",
+      "slug": "broken-plate-greek-restaurant-yyc",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Brooklyn Dumpling Shop | 17th Ave",
+      "slug": "brooklyn-dumpling-shop-17th-ave",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Brooklyn Dumpling Shop | Inglewood",
+      "slug": "brooklyn-dumpling-shop-inglewood",
       "status": "success",
       "items_count": 25
+    },
+    {
+      "name": "Brooklyn Dumpling Shop | Marda Loop",
+      "slug": "brooklyn-dumpling-shop-marda-loop",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "Browns Socialhouse Mount Royal Village",
+      "slug": "browns-socialhouse-mount-royal-village",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Brunch Glory & Calypso\u2019s Greek Taverna",
+      "slug": "brunch-glory-calypso-s-greek-taverna",
+      "status": "success",
+      "items_count": 64
+    },
+    {
+      "name": "Buchanan's Chop House",
+      "slug": "buchanan-s-chop-house",
+      "status": "success",
+      "items_count": 32
+    },
+    {
+      "name": "Buon Giorno Ristorante Italiano",
+      "slug": "buon-giorno-ristorante-italiano",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Burnin Bird",
+      "slug": "burnin-bird",
+      "status": "success",
+      "items_count": 45
+    },
+    {
+      "name": "Business & Pleasure",
+      "slug": "business-pleasure",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "CHARCUT",
+      "slug": "charcut",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "CRAFT Beer Market Calgary Downtown",
+      "slug": "craft-beer-market-calgary-downtown",
+      "status": "success",
+      "items_count": 25
+    },
+    {
+      "name": "Ca-Town Halal House",
+      "slug": "ca-town-halal-house",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Cactus Club Cafe",
+      "slug": "cactus-club-cafe",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Cactus Club Cafe",
+      "slug": "cactus-club-cafe",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Cactus Club Cafe",
+      "slug": "cactus-club-cafe",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Cactus Club Cafe",
+      "slug": "cactus-club-cafe",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Caesar's Steak House & Lounge",
+      "slug": "caesar-s-steak-house-lounge",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Caesar's Steak House & SPQR Lounge",
+      "slug": "caesar-s-steak-house-spqr-lounge",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Cafe Gravity",
+      "slug": "cafe-gravity",
+      "status": "success",
+      "items_count": 11
+    },
+    {
+      "name": "Cafe Le Matin",
+      "slug": "cafe-le-matin",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Cafe Med Restaurant & Shisha Lounge",
+      "slug": "cafe-med-restaurant-shisha-lounge",
+      "status": "success",
+      "items_count": 43
+    },
+    {
+      "name": "Calan Beef Noodle(Halal)",
+      "slug": "calan-beef-noodle-halal",
+      "status": "success",
+      "items_count": 41
+    },
+    {
+      "name": "Calcutta Cricket Club",
+      "slug": "calcutta-cricket-club",
+      "status": "success",
+      "items_count": 134
+    },
+    {
+      "name": "Calgary Court Restaurant",
+      "slug": "calgary-court-restaurant",
+      "status": "success",
+      "items_count": 608
+    },
+    {
+      "name": "Calgary Farmers' Market West",
+      "slug": "calgary-farmers-market-west",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Calgary Momo House NW",
+      "slug": "calgary-momo-house-nw",
+      "status": "success",
+      "items_count": 60
+    },
+    {
+      "name": "Calgary The Namaste India Buffet & Chaat House",
+      "slug": "calgary-the-namaste-india-buffet-chaat-house",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "California Thai (Beacon Hill)",
+      "slug": "california-thai-beacon-hill",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Canadian Pizza Unlimited & Fritou 3804 17 Avenue SW Calgary AB.",
+      "slug": "canadian-pizza-unlimited-fritou-3804-17-avenue-sw-calgary-ab",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Canadian Pizza Unlimited - East Village",
+      "slug": "canadian-pizza-unlimited-east-village",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Canela Vegan Bakery & Cafe",
+      "slug": "canela-vegan-bakery-cafe",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Capri Steak & Pizza House",
+      "slug": "capri-steak-pizza-house",
+      "status": "success",
+      "items_count": 124
+    },
+    {
+      "name": "Cardinale",
+      "slug": "cardinale",
+      "status": "success",
+      "items_count": 32
+    },
+    {
+      "name": "Carino \"Japanese Italian Kitchen\"",
+      "slug": "carino-japanese-italian-kitchen",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Cassis Bistro",
+      "slug": "cassis-bistro",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "CattleBaron",
+      "slug": "cattlebaron",
+      "status": "success",
+      "items_count": 214
+    },
+    {
+      "name": "CattleBaron Steakhouse NE - Airport",
+      "slug": "cattlebaron-steakhouse-ne-airport",
+      "status": "success",
+      "items_count": 214
+    },
+    {
+      "name": "Centini",
+      "slug": "centini",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Central Restaurants - Calgary Beltline",
+      "slug": "central-restaurants-calgary-beltline",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Chaihong \ucc28\uc774\ud64d",
+      "slug": "chaihong",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Chairman's Steakhouse",
+      "slug": "chairman-s-steakhouse",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Chandigarh Curry House",
+      "slug": "chandigarh-curry-house",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Charcut University District",
+      "slug": "charcut-university-district",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Chawlas 2 Sweets & Restaurant Calgary - Indian Restaurant in Calgary| Indian Sweet Shop| Indo Chinese Food in Calgary",
+      "slug": "chawlas-2-sweets-restaurant-calgary-indian-restaurant-in-calgary-indian-sweet-shop-indo-chinese-food-in-calgary",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Cherry Inn Restaurant",
+      "slug": "cherry-inn-restaurant",
+      "status": "success",
+      "items_count": 188
+    },
+    {
+      "name": "Chez Nguy\u1ec5n- Authentic Vietnamese Kitchen & Bar",
+      "slug": "chez-nguy-n-authentic-vietnamese-kitchen-bar",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Chianti Caf\u00e9 & Restaurant",
+      "slug": "chianti-caf-restaurant",
+      "status": "success",
+      "items_count": 7
+    },
+    {
+      "name": "Chicken Omnibus",
+      "slug": "chicken-omnibus",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Chicking.YYC RAMEN & ONIGIRI SHOP (formerly Boom-Boom Ramen House)",
+      "slug": "chicking-yyc-ramen-onigiri-shop-formerly-boom-boom-ramen-house",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Chili Club Thai House",
+      "slug": "chili-club-thai-house",
+      "status": "success",
+      "items_count": 136
+    },
+    {
+      "name": "Chili Hut",
+      "slug": "chili-hut",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "Chili Island Chinese & Thai",
+      "slug": "chili-island-chinese-thai",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Chilitos Taberna",
+      "slug": "chilitos-taberna",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "China Palace Restaurant",
+      "slug": "china-palace-restaurant",
+      "status": "success",
+      "items_count": 26
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "slug": "chipotle-mexican-grill",
+      "status": "success",
+      "items_count": 101
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "slug": "chipotle-mexican-grill",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Chop Steakhouse & Bar",
+      "slug": "chop-steakhouse-bar",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Cinnamon Indian Cuisine & Bar",
+      "slug": "cinnamon-indian-cuisine-bar",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Cinnamon Indian Cuisine & Bar I Authentic Indian Restaurant",
+      "slug": "cinnamon-indian-cuisine-bar-i-authentic-indian-restaurant",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Class Clown Hamburgers",
+      "slug": "class-clown-hamburgers",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Claypot Asian Food Kitchen (McMahon)",
+      "slug": "claypot-asian-food-kitchen-mcmahon",
+      "status": "success",
+      "items_count": 96
+    },
+    {
+      "name": "Cleaver on 17th",
+      "slug": "cleaver-on-17th",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Cloud Naan 17 Ave",
+      "slug": "cloud-naan-17-ave",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Cold Beer & Pizza",
+      "slug": "cold-beer-pizza",
+      "status": "success",
+      "items_count": 47
+    },
+    {
+      "name": "Comery Block Barbecue",
+      "slug": "comery-block-barbecue",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Connie & John's Pizza",
+      "slug": "connie-john-s-pizza",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Container Bar",
+      "slug": "container-bar",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Cora Breakfast and Lunch",
+      "slug": "cora-breakfast-and-lunch",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Costa Fresh Mexican Grill",
+      "slug": "costa-fresh-mexican-grill",
+      "status": "success",
+      "items_count": 26
+    },
+    {
+      "name": "Costa Fresh Mexican Grill",
+      "slug": "costa-fresh-mexican-grill",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Cowboys Taphouse",
+      "slug": "cowboys-taphouse",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Crispy Town",
+      "slug": "crispy-town",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "Cucina Market & Bistro",
+      "slug": "cucina-market-bistro",
+      "status": "success",
+      "items_count": 53
+    },
+    {
+      "name": "Cuty Restaurant",
+      "slug": "cuty-restaurant",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "D Spot Dessert Cafe Calgary 17th Ave",
+      "slug": "d-spot-dessert-cafe-calgary-17th-ave",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "D Spot Dessert Cafe Calgary North East",
+      "slug": "d-spot-dessert-cafe-calgary-north-east",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "DEDICATE Healthy Kitchen | Meal Prep - Marda Loop",
+      "slug": "dedicate-healthy-kitchen-meal-prep-marda-loop",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "DONKARI YYC - Donburi in Calgary",
+      "slug": "donkari-yyc-donburi-in-calgary",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "DOPO",
+      "slug": "dopo",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Dairy Lane Cafe",
+      "slug": "dairy-lane-cafe",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "Damascus Fine Mediterranean Foods",
+      "slug": "damascus-fine-mediterranean-foods",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "De Thai Cuisine",
+      "slug": "de-thai-cuisine",
+      "status": "success",
+      "items_count": 85
+    },
+    {
+      "name": "Deepak's Dhaba Indian Food & Market",
+      "slug": "deepak-s-dhaba-indian-food-market",
+      "status": "success",
+      "items_count": 6
+    },
+    {
+      "name": "Deng\u2019s Dumpling",
+      "slug": "deng-s-dumpling",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Denny's Restaurant",
+      "slug": "denny-s-restaurant",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Denny's Restaurant",
+      "slug": "denny-s-restaurant",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Denny's Restaurant",
+      "slug": "denny-s-restaurant",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Deville Coffee",
+      "slug": "deville-coffee",
+      "status": "success",
+      "items_count": 14
+    },
+    {
+      "name": "Deville Coffee",
+      "slug": "deville-coffee",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Dickey's Barbecue Pit",
+      "slug": "dickey-s-barbecue-pit",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Dickey's Barbecue Pit",
+      "slug": "dickey-s-barbecue-pit",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Distilled Beauty Bar and Social House",
+      "slug": "distilled-beauty-bar-and-social-house",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Dixon's Public House",
+      "slug": "dixon-s-public-house",
+      "status": "success",
+      "items_count": 176
+    },
+    {
+      "name": "Don taco",
+      "slug": "don-taco",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Dosa Garden NE",
+      "slug": "dosa-garden-ne",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Dosa and Co Restaurant",
+      "slug": "dosa-and-co-restaurant",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Dragon Pearl Restaurant",
+      "slug": "dragon-pearl-restaurant",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Drip N Dip",
+      "slug": "drip-n-dip",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Dumka Hyderabadi Biryani & Indian Kitchen",
+      "slug": "dumka-hyderabadi-biryani-indian-kitchen",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "EC Fusion & Lounge + Authentic Ethiopian and Eritrean cuisine",
+      "slug": "ec-fusion-lounge-authentic-ethiopian-and-eritrean-cuisine",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Earls Kitchen + Bar",
+      "slug": "earls-kitchen-bar",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Earls Kitchen + Bar",
+      "slug": "earls-kitchen-bar",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Earls Kitchen + Bar",
+      "slug": "earls-kitchen-bar",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Earls Kitchen + Bar",
+      "slug": "earls-kitchen-bar",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "Earls Kitchen + Bar",
+      "slug": "earls-kitchen-bar",
+      "status": "exists",
+      "items_count": 0,
+      "reason": "already exists"
+    },
+    {
+      "name": "East Side Mario's",
+      "slug": "east-side-mario-s",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Eastern Fortune Restaurant",
+      "slug": "eastern-fortune-restaurant",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Egg & Spoon",
+      "slug": "egg-spoon",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Eggs & More",
+      "slug": "eggs-more",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Eighty-Eight Brewing Co.",
+      "slug": "eighty-eight-brewing-co",
+      "status": "success",
+      "items_count": 62
+    },
+    {
+      "name": "El Padrino Restaurant",
+      "slug": "el-padrino-restaurant",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Elbow River Casino",
+      "slug": "elbow-river-casino",
+      "status": "success",
+      "items_count": 20
+    },
+    {
+      "name": "Element Cafe",
+      "slug": "element-cafe",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Elephant & Castle",
+      "slug": "elephant-castle",
+      "status": "success",
+      "items_count": 24
+    },
+    {
+      "name": "Emerald Garden",
+      "slug": "emerald-garden",
+      "status": "success",
+      "items_count": 23
+    },
+    {
+      "name": "Essence of Saigon - Northland | Bistro - Vietnamese Pho Restaurant",
+      "slug": "essence-of-saigon-northland-bistro-vietnamese-pho-restaurant",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Euphoria Cafe",
+      "slug": "euphoria-cafe",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Eve Lounge",
+      "slug": "eve-lounge",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Everest Momo and Pizza",
+      "slug": "everest-momo-and-pizza",
+      "status": "failed",
+      "items_count": 0,
+      "reason": "no menu found"
+    },
+    {
+      "name": "Famoso Italian Pizzeria - Country Hills",
+      "slug": "famoso-italian-pizzeria-country-hills",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Famoso Italian Pizzeria - McKenzie Towne",
+      "slug": "famoso-italian-pizzeria-mckenzie-towne",
+      "status": "success",
+      "items_count": 29
+    },
+    {
+      "name": "Fat Kee Noodle House",
+      "slug": "fat-kee-noodle-house",
+      "status": "success",
+      "items_count": 28
+    },
+    {
+      "name": "Fiesta Market & Restaurant",
+      "slug": "fiesta-market-restaurant",
+      "status": "success",
+      "items_count": 53
+    },
+    {
+      "name": "Filos Restaurant & Lounge",
+      "slug": "filos-restaurant-lounge",
+      "status": "success",
+      "items_count": 30
+    },
+    {
+      "name": "FinePrint",
+      "slug": "fineprint",
+      "status": "success",
+      "items_count": 42
+    },
+    {
+      "name": "First Street Market: Food Hall & Bar",
+      "slug": "first-street-market-food-hall-bar",
+      "status": "success",
+      "items_count": 27
+    },
+    {
+      "name": "Fleetwood Lounge",
+      "slug": "fleetwood-lounge",
+      "status": "success",
+      "items_count": 3
+    },
+    {
+      "name": "Fleur de Sel Brasserie",
+      "slug": "fleur-de-sel-brasserie",
+      "status": "success",
+      "items_count": 26
     }
   ]
 }
