@@ -574,12 +574,31 @@ NON_FOOD_CATEGORY_KEYWORDS = [
     "drink", "beverage", "wine", "beer", "cocktail",
     "liquor", "alcohol", "spirits", "juice", "soda",
     "coffee", "tea",
+    # A menu often declares the spirit in the category and names only the
+    # brand, so "Johnny Walker Black" under "Scotch & Whiskey" matched
+    # nothing and was served as a main. The name list cannot catch these
+    # without holding every brand on every bar menu in Calgary.
+    "scotch", "whiskey", "whisky", "bourbon", "vodka", "gin", "rum",
+    "tequila", "sake", "cider", "seltzer", "espresso", "latte", "smoothie",
 ]
 NON_FOOD_NAME_KEYWORDS = [
     "cabernet", "merlot", "pinot", "chardonnay", "sauvignon",
     "riesling", "malbec", "lager", "ipa", "pilsner", "stout", "ale",
     "rosé", "rose wine", "prosecco", "champagne",
     "tequila", "whiskey", "vodka", "gin", "rum", "bourbon",
+    # Spirits the list already knew about, spelled the other way, plus the
+    # ones that hide behind a brand. "Johnny Walker Black" sits in a
+    # "Scotch & Whiskey" category that matches no category keyword, and the
+    # name carries no spirit word either, so it used to pass as a main.
+    "whisky", "scotch", "cognac", "brandy", "vermouth", "aperol", "campari",
+    # Coffee and tea drinks. The category list has "coffee" and "tea", but a
+    # pub files its espresso under a food category, so "Van Gogh Double
+    # Espresso" was served as a main under $10. Only unambiguous drink words
+    # go here: "chai" and "matcha" are left out on purpose because they also
+    # name cakes and cheesecakes, and excluding those would be worse.
+    "espresso", "cappuccino", "americano", "macchiato", "cortado",
+    "flat white", "latte", "affogato", "frappuccino",
+    "smoothie", "milkshake", "kombucha", "seltzer", "cider",
 ]
 
 
