@@ -5,11 +5,11 @@ import glob
 import re
 import random
 from collections import defaultdict
-from fastapi import BackgroundTasks, FastAPI, Header, HTTPException, Request
+from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.requests import Request as StarletteRequest
-from analytics import log_event, get_stats
+from analytics import log_event
 from pydantic import BaseModel
 from openai import OpenAI
 from typing import List, Optional
@@ -34,18 +34,19 @@ from dotenv import load_dotenv
 load_dotenv(os.path.join(BASE_DIR, ".env"), override=True)
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
 
-# ─── Simple IP-based rate limiter for /chat ───
-_chat_rate_limits: dict[str, list[float]] = defaultdict(list)
-CHAT_RATE_LIMIT = 30  # requests per hour
-CHAT_RATE_WINDOW = 3600  # 1 hour in seconds
+# ─── Simple IP-based rate limiter for the search endpoints ───
+# Search hits OpenAI for one embedding per query, so it is worth capping per IP.
+_search_rate_limits: dict[str, list[float]] = defaultdict(list)
+SEARCH_RATE_LIMIT = 120  # requests per hour
+SEARCH_RATE_WINDOW = 3600
 
-def check_chat_rate_limit(request: Request):
+def check_search_rate_limit(request: Request):
     ip = get_real_ip(request)
     now = time.time()
-    _chat_rate_limits[ip] = [t for t in _chat_rate_limits[ip] if now - t < CHAT_RATE_WINDOW]
-    if len(_chat_rate_limits[ip]) >= CHAT_RATE_LIMIT:
+    _search_rate_limits[ip] = [t for t in _search_rate_limits[ip] if now - t < SEARCH_RATE_WINDOW]
+    if len(_search_rate_limits[ip]) >= SEARCH_RATE_LIMIT:
         raise HTTPException(status_code=429, detail="Rate limit exceeded. Try again later.")
-    _chat_rate_limits[ip].append(now)
+    _search_rate_limits[ip].append(now)
 
 app = FastAPI()
 app.add_middleware(
@@ -69,18 +70,6 @@ class AnalyticsMiddleware(BaseHTTPMiddleware):
 
 
 app.add_middleware(AnalyticsMiddleware)
-
-# ─── User Intelligence router ───
-from routers.user_intelligence import router as user_intelligence_router
-app.include_router(user_intelligence_router)
-
-# ─── Friends router ───
-from routers.friends import router as friends_router
-app.include_router(friends_router)
-
-# ─── Group Dining router ───
-from routers.group_dining import router as group_dining_router
-app.include_router(group_dining_router)
 
 # ─── Restaurant name list ───
 NAME_MAPPING_FILE = os.path.join(BASE_DIR, "name_mapping.json")
@@ -339,27 +328,9 @@ def health_check():
     return {"status": "ok", "restaurants_loaded": len(RESTAURANT_LIST), "menu_items_indexed": len(MENU_INDEX)}
 
 @app.get("/restaurants")
-def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
+def get_restaurants(q: str = ""):
     q = q.lower().strip()
     load_places_data()
-
-    # If a user ID is provided, try to load their taste profile for personalization
-    user_profile = None
-    items_by_slug: dict = {}
-    if x_user_id:
-        try:
-            from routers.user_intelligence import _get_supabase
-            sb = _get_supabase()
-            profile_result = sb.table("user_taste_profiles").select("*").eq("id", x_user_id).execute()
-            if profile_result.data:
-                user_profile = profile_result.data[0]
-                # Pre-group menu items by slug for O(n) lookup
-                for item in MENU_INDEX:
-                    s = item.get("restaurant_slug")
-                    if s:
-                        items_by_slug.setdefault(s, []).append(item)
-        except Exception:
-            pass  # Silently fall back to anonymous mode
 
     results = []
     for display_name in RESTAURANT_LIST:
@@ -391,21 +362,6 @@ def get_restaurants(q: str = "", x_user_id: str = Header(default="")):
             # handles None gracefully (hides the image element via onError).
             rest_info["photo_url"] = _get_local_photo_url(slug)
 
-        # Enrich with personalization if user profile is available
-        if user_profile and slug:
-            try:
-                from engines.restaurant_scorer import (
-                    get_cached_signature,
-                    score_restaurant_for_user,
-                    find_top_dish_for_user,
-                )
-                menu_items = items_by_slug.get(slug, [])
-                sig = get_cached_signature(slug, menu_items)
-                rest_info["match_score"] = score_restaurant_for_user(user_profile, sig)
-                rest_info["top_dish"] = find_top_dish_for_user(user_profile, menu_items, sig)
-            except Exception:
-                pass  # Skip personalization on error
-
         results.append(rest_info)
     return {"restaurants": results}
 
@@ -417,6 +373,54 @@ class SearchRequest(BaseModel):
     dietary: Optional[List[str]] = None
     query: Optional[str] = None
     limit: Optional[int] = 20
+    # Caller's coordinates, used to rank by how far away the dish is.
+    lat: Optional[float] = None
+    lng: Optional[float] = None
+    # "relevance" (semantic order), "price" (cheapest first), "distance" (nearest first).
+    sort: Optional[str] = None
+
+
+EARTH_RADIUS_KM = 6371.0
+
+
+def haversine_km(lat1: float, lng1: float, lat2: float, lng2: float) -> float:
+    """Great circle distance in kilometres between two points.
+
+    Calgary is flat and small enough that a planar approximation would do, but
+    haversine costs nothing here and does not break if the index ever covers
+    another city.
+    """
+    from math import radians, sin, cos, asin, sqrt
+    dlat = radians(lat2 - lat1)
+    dlng = radians(lng2 - lng1)
+    a = sin(dlat / 2) ** 2 + cos(radians(lat1)) * cos(radians(lat2)) * sin(dlng / 2) ** 2
+    return 2 * EARTH_RADIUS_KM * asin(sqrt(a))
+
+
+def _restaurant_context(slug: Optional[str]) -> dict:
+    """Name, address and coordinates for a restaurant slug.
+
+    Every dish row carries this so a result can stand on its own, which is what
+    lets a single dish be shared as a link.
+    """
+    if not slug:
+        return {}
+    place = PLACES_DATA.get(slug) or {}
+    name = NAME_MAPPING.get(slug) or slug.replace("-", " ").replace("_", " ").title()
+    ctx = {
+        "restaurant": name,
+        "restaurant_slug": slug,
+        "address": place.get("address"),
+        "lat": place.get("lat"),
+        "lng": place.get("lng"),
+    }
+    if place.get("lat") is not None and place.get("lng") is not None:
+        # Directions belong to Google Maps. Link out rather than rebuild a map.
+        ctx["directions_url"] = (
+            f"https://www.google.com/maps/dir/?api=1&destination={place['lat']},{place['lng']}"
+        )
+    return ctx
+
 
 @app.get("/filter-options")
 def get_filter_options():
@@ -427,11 +431,14 @@ def get_filter_options():
         "price_max": 200
     }
 
-MAX_SEARCH_RESULTS = 8
+# The whole point of the product is comparing the same dish across restaurants,
+# so a result set has to be long enough to read as a comparison rather than a
+# single suggestion. Eight was too few to see a price spread.
+MAX_SEARCH_RESULTS = 25
 
 @app.post("/search-dishes")
 def search_dishes(req: SearchRequest, request: Request):
-    # Quality over quantity: cap at MAX_SEARCH_RESULTS
+    check_search_rate_limit(request)
     if req.limit is None or req.limit > MAX_SEARCH_RESULTS:
         req.limit = MAX_SEARCH_RESULTS
 
@@ -540,25 +547,42 @@ def search_dishes(req: SearchRequest, request: Request):
             desc = re.sub(r'\[\$[\d\.]+\]', '', desc)
             d_copy['description'] = re.sub(r'\s+', ' ', desc).strip()
             
-        response_dishes.append(d_copy)
-        
-    def sort_key(d):
-        val = d.get('price')
-        if val is None or val == "":
-            return float('inf')
-        try:
-            if isinstance(val, str):
-                p_str = val.replace('$', '').replace(',', '').strip()
-                if '-' in p_str: p_str = p_str.split('-')[0].strip()
-                p = float(p_str)
-            else:
-                p = float(val)
-            if p <= 0: return float('inf')
-            return p
-        except:
-            return float('inf')
+        # Each row carries its own restaurant, so a single dish can be read,
+        # compared and shared without the surrounding list.
+        d_copy.update(_restaurant_context(d_copy.get("restaurant_slug")))
 
-    response_dishes.sort(key=sort_key)
+        if req.lat is not None and req.lng is not None:
+            r_lat, r_lng = d_copy.get("lat"), d_copy.get("lng")
+            if r_lat is not None and r_lng is not None:
+                d_copy["distance_km"] = round(
+                    haversine_km(req.lat, req.lng, float(r_lat), float(r_lng)), 2
+                )
+
+        response_dishes.append(d_copy)
+
+    def price_key(d):
+        p = _parse_price(d.get('price'))
+        if p is None or p <= 0:
+            return float('inf')
+        return p
+
+    def distance_key(d):
+        val = d.get('distance_km')
+        return float('inf') if val is None else val
+
+    sort = (req.sort or "").lower()
+    if sort == "distance" and req.lat is not None and req.lng is not None:
+        response_dishes.sort(key=distance_key)
+    elif sort == "price":
+        response_dishes.sort(key=price_key)
+    elif sort == "relevance" and req.query:
+        # Semantic order is whatever the embedding scoring produced, so leave it.
+        pass
+    else:
+        # No query means no meaningful relevance order, so cheapest first is the
+        # only ranking that helps. With a query, the caller asked for nothing in
+        # particular, so keep the price ranking the app has always had.
+        response_dishes.sort(key=price_key)
 
     try:
         ip = get_real_ip(request)
@@ -566,20 +590,47 @@ def search_dishes(req: SearchRequest, request: Request):
     except Exception:
         pass
 
-    return {"dishes": response_dishes}
+    return {"dishes": response_dishes, "count": len(response_dishes), "sort": sort or "price"}
+
+
+@app.get("/dish/{dish_id}")
+def get_dish(dish_id: str, request: Request):
+    """One dish, addressable by id, with no account and no app.
+
+    This is what makes a result shareable. The person holding the phone sends a
+    link and everyone else sees the dish, the price and where it is.
+    """
+    for item in MENU_INDEX:
+        if item.get("id") == dish_id:
+            dish = _clean_dish_text(dict(item))
+            dish.update(_restaurant_context(dish.get("restaurant_slug")))
+            try:
+                log_event("dish_view", get_real_ip(request), "/dish", {"id": dish_id})
+            except Exception:
+                pass
+            return {"dish": dish}
+    raise HTTPException(status_code=404, detail="Dish not found")
 
 
 # ─── Random dish (Hungry mode) ───
+# A bar names only the brand and puts the spirit in the category, so
+# "Johnny Walker Black" under "Scotch & Whiskey" matches no name keyword. The
+# spirit words therefore have to live in the category list too.
 NON_FOOD_CATEGORY_KEYWORDS = [
     "drink", "beverage", "wine", "beer", "cocktail",
     "liquor", "alcohol", "spirits", "juice", "soda",
     "coffee", "tea",
+    "scotch", "whiskey", "whisky", "bourbon", "vodka", "gin", "rum",
+    "tequila", "sake", "cider", "seltzer", "espresso", "latte", "smoothie",
 ]
+# A pub files its espresso under a food category, so the name list has to carry
+# the coffee words as well as the brands.
 NON_FOOD_NAME_KEYWORDS = [
     "cabernet", "merlot", "pinot", "chardonnay", "sauvignon",
     "riesling", "malbec", "lager", "ipa", "pilsner", "stout", "ale",
     "rosé", "rose wine", "prosecco", "champagne",
-    "tequila", "whiskey", "vodka", "gin", "rum", "bourbon",
+    "tequila", "whiskey", "whisky", "vodka", "gin", "rum", "bourbon",
+    "scotch", "espresso", "americano", "cappuccino", "latte", "macchiato",
 ]
 
 
@@ -749,23 +800,13 @@ def category_dishes(req: SearchRequest, request: Request):
 
 
 # ─── Stats ───
-@app.get("/stats")
-def stats_endpoint():
-    return get_stats()
 
 # ─── Chat ───
 class ChatMessage(BaseModel):
     role: str
     content: str
 
-class ChatRequest(BaseModel):
-    restaurant: str
-    message: str
-    history: List[ChatMessage] = []
-    session_id: Optional[str] = None
 
-class ChatStartRequest(BaseModel):
-    restaurant_slug: str
 
 def resolve_display_name(slug_or_name: str) -> str:
     """Convert slug to display name."""
@@ -786,344 +827,26 @@ def _slug_for_restaurant(name_or_slug: str) -> str | None:
     return REVERSE_MAPPING.get(name_or_slug.lower())
 
 
-def _build_generic_system_prompt(display_name: str, menu_json) -> str:
-    return (
-        f"You are a warm, knowledgeable food assistant for {display_name}. "
-        f"Below is the restaurant's FULL MENU in JSON.\n\n"
-        f"MENU JSON:\n{json.dumps(menu_json)}\n\n"
-        "YOUR GUIDELINES:\n"
-        "- You should answer ANY food-related question: ingredients, sauces, spiciness levels, "
-        "dietary info, cuisine style, cooking methods, pairing suggestions, allergens, "
-        "what's good for kids, what's vegetarian, comparisons between dishes, etc.\n"
-        "- Use general culinary knowledge to fill in gaps.\n"
-        "- When recommending or mentioning a specific menu item, ALWAYS include its price.\n"
-        "- NEVER invent a dish name that isn't on this menu.\n"
-        "- Be concise (2-3 sentences) unless the user asks for more detail.\n"
-        "- Only decline questions completely unrelated to food or dining.\n"
-        "- Respond in plain conversational English. NEVER use markdown formatting.\n"
-        "- NEVER wrap dish names in asterisks (**), quotes (\"\"), or any other formatting.\n"
-        "- Write dish names in Title Case as they appear on the menu "
-        "(e.g., Meat Lovers Pizza not **MEAT LOVERS** or MEAT LOVERS).\n"
-        "- Use simple sentences and paragraph breaks, not bullet points or numbered lists, "
-        "unless the user specifically asks for a list.\n"
-        "- When listing multiple items, separate them naturally in prose "
-        "(e.g., You could try the Hawaiian Pizza for $18, the Vegetarian Pizza for $21, "
-        "or the Greek Pizza for $22.).\n"
-    )
 
 
-def _build_personalized_system_prompt(
-    display_name: str,
-    menu_json,
-    profile_narration: str,
-    recommendations_text: str,
-    avoid_text: str,
-) -> str:
-    parts = [
-        f"You are MenuElf, a knowledgeable and friendly dining concierge for {display_name}.\n\n",
-        f"MENU:\n{json.dumps(menu_json)}\n\n",
-        f"ABOUT THIS DINER:\n{profile_narration}\n\n",
-        f"YOUR TOP RECOMMENDATIONS FOR THEM:\n{recommendations_text}\n\n",
-    ]
-    if avoid_text:
-        parts.append(f"DISHES TO AVOID SUGGESTING:\n{avoid_text}\n\n")
-    parts.append(
-        "GUIDELINES:\n"
-        "- Be warm, enthusiastic, and conversational\n"
-        "- Lead with your recommendations if this is the start of the conversation\n"
-        "- If they ask for something different, adapt but keep their preferences in mind\n"
-        "- Never suggest dishes that conflict with their dietary restrictions\n"
-        "- When mentioning a dish, include its price naturally\n"
-        "- Keep responses concise (2-3 sentences for simple questions, more for comparisons)\n"
-        "- Do NOT mention that you have their \"taste profile\" or \"data\" — just naturally know their preferences like a friend would\n"
-        "- NEVER invent a dish name that isn't on this menu\n"
-        "- Respond in plain conversational English. NEVER use markdown formatting.\n"
-        "- NEVER wrap dish names in asterisks (**), quotes (\"\"), or any other formatting.\n"
-        "- Write dish names in Title Case as they appear on the menu "
-        "(e.g., Meat Lovers Pizza not **MEAT LOVERS** or MEAT LOVERS).\n"
-        "- Use simple sentences and paragraph breaks, not bullet points or numbered lists, "
-        "unless the user specifically asks for a list.\n"
-        "- When listing multiple items, separate them naturally in prose "
-        "(e.g., You could try the Hawaiian Pizza for $18, the Vegetarian Pizza for $21, "
-        "or the Greek Pizza for $22.).\n"
-    )
-    return "".join(parts)
 
 
-def _get_personalization_context(user_id: str, restaurant_slug: str) -> dict | None:
-    """Fetch taste profile and compute recommendations for a user + restaurant.
-
-    Returns a dict with keys: narration, recommendations_text, avoid_text, top_dishes.
-    Returns None if no profile is found.
-    """
-    try:
-        from routers.user_intelligence import _get_supabase
-        from engines.restaurant_scorer import (
-            get_cached_signature,
-            find_top_n_dishes_for_user,
-            find_avoid_dishes,
-        )
-        from engines.profile_narrator import (
-            narrate_profile,
-            format_recommendations,
-            format_avoid_list,
-        )
-
-        sb = _get_supabase()
-        result = sb.table("user_taste_profiles").select("*").eq("id", user_id).execute()
-        if not result.data:
-            return None
-        profile = result.data[0]
-
-        menu_items = [item for item in MENU_INDEX if item.get("restaurant_slug") == restaurant_slug]
-        sig = get_cached_signature(restaurant_slug, menu_items)
-
-        top_dishes = find_top_n_dishes_for_user(profile, menu_items, n=3)
-        avoid_dishes = find_avoid_dishes(profile, menu_items)
-
-        return {
-            "narration": narrate_profile(profile),
-            "recommendations_text": format_recommendations(top_dishes, profile),
-            "avoid_text": format_avoid_list(avoid_dishes),
-            "top_dishes": top_dishes,
-            "profile": profile,
-        }
-    except Exception:
-        return None
 
 
-def _run_chat_extraction_if_needed(user_id: str, session_messages: list[dict], supabase_client):
-    """Trigger preference engine chat extraction if 3+ user messages."""
-    user_count = sum(1 for m in session_messages if m.get("role") == "user")
-    if user_count >= 3:
-        try:
-            from engines.preference_engine import process_and_update_profile
-            process_and_update_profile(
-                user_id,
-                "chat_message",
-                {"messages": session_messages, "session_ended": False},
-                supabase_client,
-            )
-        except Exception:
-            pass
 
 
-def _store_session_message(session_id: str, role: str, content: str, supabase_client) -> list[dict]:
-    """Append a message to a chat session and return the updated messages list."""
-    try:
-        result = supabase_client.table("chat_sessions").select("messages").eq("id", session_id).execute()
-        if not result.data:
-            return []
-        messages = result.data[0].get("messages", [])
-        if not isinstance(messages, list):
-            messages = []
-        messages.append({"role": role, "content": content})
-        supabase_client.table("chat_sessions").upsert({
-            "id": session_id,
-            "messages": messages,
-        }).execute()
-        return messages
-    except Exception:
-        return []
 
 
 # ─── POST /chat/start ───
 
-@app.post("/chat/start")
-def chat_start(req: ChatStartRequest, x_user_id: str = Header(default="")):
-    slug = req.restaurant_slug
-    display_name = NAME_MAPPING.get(slug, slug.replace("-", " ").title())
-
-    menu_json = load_menu(display_name)
-    if menu_json is None:
-        menu_json = load_menu(slug)
-
-    # Honest fallback: if we have no menu data for this restaurant, say so
-    # instead of letting the AI hallucinate prices and dishes.
-    if _menu_is_empty(menu_json, slug):
-        return {
-            "reply": (
-                f"I don't have {display_name}'s menu loaded yet. "
-                "Try searching for dishes on the main page, or check back soon."
-            ),
-            "session_id": None,
-        }
-
-    session_id = None
-    personalization = None
-
-    if x_user_id:
-        personalization = _get_personalization_context(x_user_id, slug)
-
-        # Create a chat session
-        try:
-            from routers.user_intelligence import _get_supabase
-            sb = _get_supabase()
-            session_result = sb.table("chat_sessions").insert({
-                "user_id": x_user_id,
-                "restaurant_slug": slug,
-                "messages": [],
-            }).execute()
-            if session_result.data:
-                session_id = session_result.data[0]["id"]
-        except Exception:
-            pass
-
-    if personalization and menu_json:
-        system_prompt = _build_personalized_system_prompt(
-            display_name,
-            menu_json,
-            personalization["narration"],
-            personalization["recommendations_text"],
-            personalization["avoid_text"],
-        )
-        user_prompt = "Hi! I just opened the menu. What do you recommend for me?"
-        messages = [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ]
-        try:
-            response = client.chat.completions.create(
-                model="gpt-4o-mini", messages=messages, temperature=0.4, max_tokens=500
-            )
-            reply = response.choices[0].message.content
-
-            # Store the assistant greeting in the session
-            if session_id:
-                try:
-                    from routers.user_intelligence import _get_supabase
-                    sb = _get_supabase()
-                    _store_session_message(session_id, "assistant", reply, sb)
-                except Exception:
-                    pass
-
-            return {"reply": reply, "session_id": session_id}
-        except Exception as e:
-            print(f"OpenAI error: {e}", flush=True)
-
-    # Fallback: generic welcome
-    generic_reply = (
-        f"Welcome to {display_name}! I know every dish on this menu. "
-        "What are you in the mood for?"
-    )
-
-    if session_id:
-        try:
-            from routers.user_intelligence import _get_supabase
-            sb = _get_supabase()
-            _store_session_message(session_id, "assistant", generic_reply, sb)
-        except Exception:
-            pass
-
-    return {"reply": generic_reply, "session_id": session_id}
 
 
 # ─── POST /chat (upgraded) ───
 
-@app.post("/chat")
-def chat_with_menu(
-    req: ChatRequest,
-    request: Request,
-    background_tasks: BackgroundTasks,
-    x_user_id: str = Header(default=""),
-):
-    check_chat_rate_limit(request)
-    # Try both slug and display name for menu loading
-    menu_json = load_menu(req.restaurant)
-    if menu_json is None:
-        display = resolve_display_name(req.restaurant)
-        menu_json = load_menu(display)
-
-    display_name = resolve_display_name(req.restaurant)
-    slug = _slug_for_restaurant(req.restaurant)
-
-    # Honest fallback: if we have no menu data for this restaurant, tell the
-    # user instead of letting the AI invent dishes and prices out of thin air.
-    if _menu_is_empty(menu_json, slug):
-        return {
-            "reply": (
-                f"I don't have {display_name}'s menu loaded yet. "
-                "Try searching for dishes on the main page, or check back soon."
-            ),
-            "session_id": req.session_id,
-        }
-
-    # Build system prompt — personalized if user_id present
-    personalization = None
-    if x_user_id and slug:
-        personalization = _get_personalization_context(x_user_id, slug)
-
-    if personalization:
-        system_prompt = _build_personalized_system_prompt(
-            display_name,
-            menu_json,
-            personalization["narration"],
-            personalization["recommendations_text"],
-            personalization["avoid_text"],
-        )
-    else:
-        system_prompt = _build_generic_system_prompt(display_name, menu_json)
-
-    messages = [{"role": "system", "content": system_prompt}]
-    for msg in req.history:
-        messages.append({"role": msg.role, "content": msg.content})
-    messages.append({"role": "user", "content": req.message})
-
-    try:
-        response = client.chat.completions.create(
-            model="gpt-4o-mini", messages=messages, temperature=0.4, max_tokens=500
-        )
-        reply = response.choices[0].message.content
-    except Exception as e:
-        print(f"OpenAI error: {e}", flush=True)
-        raise HTTPException(status_code=500, detail="Error communicating with OpenAI")
-
-    try:
-        client_ip = get_real_ip(request)
-        log_event("chat", client_ip, "/chat", {"restaurant": req.restaurant})
-    except Exception:
-        pass
-
-    # Store messages in session and trigger extraction if needed
-    session_id = req.session_id
-    if x_user_id and session_id:
-        try:
-            from routers.user_intelligence import _get_supabase
-            sb = _get_supabase()
-            _store_session_message(session_id, "user", req.message, sb)
-            updated_msgs = _store_session_message(session_id, "assistant", reply, sb)
-
-            background_tasks.add_task(
-                _run_chat_extraction_if_needed, x_user_id, updated_msgs, sb,
-            )
-        except Exception:
-            pass
-
-    return {"reply": reply, "session_id": session_id}
 
 
 # ─── GET /chat/history ───
 
-@app.get("/chat/history/{restaurant_slug}")
-def get_chat_history(restaurant_slug: str, x_user_id: str = Header(default="")):
-    if not x_user_id:
-        raise HTTPException(status_code=401, detail="Missing x-user-id header")
-    try:
-        from routers.user_intelligence import _get_supabase
-        sb = _get_supabase()
-        result = (
-            sb.table("chat_sessions")
-            .select("*")
-            .eq("user_id", x_user_id)
-            .eq("restaurant_slug", restaurant_slug)
-            .order("created_at", desc=True)
-            .execute()
-        )
-        return {"sessions": result.data}
-    except HTTPException:
-        raise
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Failed to get chat history: {e}")
 
 
 # ─── Restaurant photo proxy (Google Places) ───
@@ -1185,6 +908,22 @@ if os.path.isdir(IMAGES_DIR):
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 
+# ─── Dish search front door ───
+# The first thing a stranger sees is the search, with a real result already on
+# screen and no account asked for. The Expo build stays reachable at /app.
+FRONT_DIR = os.path.join(BASE_DIR, "front")
+FRONT_INDEX = os.path.join(FRONT_DIR, "index.html")
+
+if os.path.isfile(FRONT_INDEX):
+    @app.get("/")
+    def front_door():
+        return FileResponse(FRONT_INDEX)
+
+    @app.get("/d/{dish_id}")
+    def shared_dish_page(dish_id: str):
+        # Same page. It reads the id out of the path and opens on that dish.
+        return FileResponse(FRONT_INDEX)
+
 WEB_DIR = os.path.join(BASE_DIR, "web_dist")
 if os.path.isdir(WEB_DIR):
     # Mount assets directly at /assets so the built HTML's /assets/*.js
@@ -1203,8 +942,8 @@ if os.path.isdir(WEB_DIR):
     # Accepts both GET and HEAD so `curl -sI /` returns 200 (health-check
     # style pings and some monitors use HEAD).
     _API_PREFIXES = (
-        "search-dishes", "random-dish", "category-dishes",
-        "chat", "restaurants", "filter-options", "stats",
+        "search-dishes", "random-dish", "category-dishes", "dish",
+        "restaurants", "filter-options",
         "restaurant-images", "restaurant-photo", "health",
         "assets", "api",
     )

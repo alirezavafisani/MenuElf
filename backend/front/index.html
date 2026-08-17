@@ -1,0 +1,591 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MenuElf, search Calgary menus by the dish</title>
+<meta name="description" content="Search 18,000 real menu items across 487 Calgary restaurants by what you are craving, and compare prices across every kitchen in the city.">
+<meta property="og:title" content="MenuElf">
+<meta property="og:description" content="Search Calgary menus by the dish, not the restaurant.">
+<style>
+/* ── Tokens ───────────────────────────────────────────────────────────────
+   Two colours carry meaning and nothing else is allowed to. Orange is money.
+   Green is your location being known. Everything else is chalk or lichen. */
+:root {
+  --spruce:  #101F1C;
+  --slab:    #172B27;
+  --edge:    #233A34;
+  --chalk:   #EDEAE3;
+  --lichen:  #7E8F8A;
+  --price:   #F0873E;
+  --located: #5FD08A;
+
+  --display: ui-sans-serif, "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body:    ui-sans-serif, system-ui, "Public Sans", "Segoe UI", Roboto, sans-serif;
+  --data:    ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
+
+  --gutter: clamp(1rem, 4vw, 3rem);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--spruce);
+  color: var(--chalk);
+  font-family: var(--body);
+  font-size: 16px;
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+}
+
+:focus-visible {
+  outline: 2px solid var(--price);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.wrap { max-width: 62rem; margin: 0 auto; padding: 0 var(--gutter); }
+
+/* ── Masthead ─────────────────────────────────────────────────────────── */
+.masthead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.5rem 0 0;
+}
+.wordmark {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: 1.05rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin: 0;
+}
+.city {
+  font-family: var(--data);
+  font-size: 0.78rem;
+  color: var(--lichen);
+  letter-spacing: 0.08em;
+}
+
+/* ── Ask ──────────────────────────────────────────────────────────────── */
+.ask { padding: clamp(2rem, 7vw, 4.5rem) 0 1.5rem; }
+
+.ask h1 {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: clamp(2rem, 6.5vw, 3.6rem);
+  font-stretch: expanded;
+  letter-spacing: -0.015em;
+  line-height: 1.02;
+  margin: 0 0 1.5rem;
+  text-wrap: balance;
+}
+
+.field {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  background: var(--slab);
+  border: 1px solid var(--edge);
+  border-radius: 4px;
+  padding: 0.9rem 1rem;
+}
+.field:focus-within { border-color: var(--price); }
+
+.field input {
+  flex: 1;
+  min-width: 0;
+  background: none;
+  border: 0;
+  color: var(--chalk);
+  font-family: var(--body);
+  font-size: 1.05rem;
+}
+.field input::placeholder { color: var(--lichen); }
+.field input:focus { outline: none; }
+
+.go {
+  flex: none;
+  background: var(--price);
+  color: #1A0E05;
+  border: 0;
+  border-radius: 3px;
+  padding: 0.5rem 1.1rem;
+  font-family: var(--body);
+  font-weight: 700;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+.go:hover { filter: brightness(1.08); }
+
+/* ── Chips ────────────────────────────────────────────────────────────── */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.9rem;
+}
+.chip {
+  background: none;
+  border: 1px solid var(--edge);
+  border-radius: 999px;
+  color: var(--lichen);
+  cursor: pointer;
+  font-family: var(--body);
+  font-size: 0.85rem;
+  padding: 0.35rem 0.85rem;
+}
+.chip:hover { color: var(--chalk); border-color: var(--lichen); }
+.chip[aria-pressed="true"] {
+  color: var(--chalk);
+  border-color: var(--chalk);
+}
+.chip[data-role="near"][aria-pressed="true"] {
+  color: var(--located);
+  border-color: var(--located);
+}
+
+/* ── Result meta ──────────────────────────────────────────────────────── */
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem 1rem;
+  border-bottom: 1px solid var(--edge);
+  padding-bottom: 0.6rem;
+  margin: 2.5rem 0 0.25rem;
+  font-family: var(--data);
+  font-size: 0.78rem;
+  color: var(--lichen);
+  letter-spacing: 0.04em;
+}
+.sorts { display: flex; gap: 0.9rem; }
+.sort {
+  background: none; border: 0; padding: 0; cursor: pointer;
+  font: inherit; color: var(--lichen); letter-spacing: inherit;
+}
+.sort[aria-pressed="true"] { color: var(--chalk); }
+.sort:hover { color: var(--chalk); }
+
+/* ── The menu ─────────────────────────────────────────────────────────── */
+.menu { list-style: none; margin: 0; padding: 0; }
+
+.row {
+  border-bottom: 1px solid var(--edge);
+  padding: 1rem 0;
+}
+
+/* The dot leader is the signature. It says "menu" without a photograph and it
+   drags the eye from the dish straight to the price, which is the comparison
+   the whole product exists to make. */
+.line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  width: 100%;
+  background: none;
+  border: 0;
+  padding: 0;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.dish { font-size: 1.05rem; }
+.leader {
+  flex: 1;
+  min-width: 1.5rem;
+  height: 0.85em;
+  border-bottom: 1px dotted var(--lichen);
+  opacity: 0.8;
+  transform-origin: left;
+}
+.amount {
+  font-family: var(--data);
+  font-size: 1.02rem;
+  color: var(--price);
+  white-space: nowrap;
+}
+
+.under {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 0.9rem;
+  margin-top: 0.3rem;
+  font-size: 0.87rem;
+  color: var(--lichen);
+}
+.where { color: var(--lichen); }
+.km { font-family: var(--data); font-size: 0.8rem; }
+.km[data-near="true"] { color: var(--located); }
+
+.acts { display: flex; gap: 0.9rem; margin-left: auto; }
+.act {
+  background: none; border: 0; padding: 0; cursor: pointer;
+  color: var(--lichen); font: inherit; font-size: 0.83rem;
+  text-decoration: underline; text-underline-offset: 3px;
+}
+.act:hover { color: var(--chalk); }
+
+.note {
+  margin-top: 0.45rem;
+  font-size: 0.87rem;
+  color: var(--lichen);
+  max-width: 60ch;
+}
+
+/* ── States ───────────────────────────────────────────────────────────── */
+.state {
+  padding: 2.5rem 0;
+  color: var(--lichen);
+  max-width: 52ch;
+}
+/* Nothing to say means no space taken. Without this the empty element leaves a
+   dead band between the sort row and the first dish. */
+.state:empty { padding: 0; }
+.state strong { color: var(--chalk); font-weight: 600; }
+
+.foot {
+  border-top: 1px solid var(--edge);
+  margin-top: 3rem;
+  padding: 1.25rem 0 3rem;
+  font-size: 0.83rem;
+  color: var(--lichen);
+}
+.foot a { color: var(--lichen); }
+
+/* ── Motion ───────────────────────────────────────────────────────────── */
+/* One orchestrated moment: the leaders draw left to right as rows land, as
+   though the menu is being typed. Nothing else moves. */
+@keyframes draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.row .leader { animation: draw 220ms ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .row .leader { animation: none; }
+  * { transition: none !important; }
+}
+
+@media (max-width: 34rem) {
+  .acts { width: 100%; margin-left: 0; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <p class="wordmark">MenuElf</p>
+    <span class="city">Calgary</span>
+  </header>
+
+  <section class="ask">
+    <h1>What are you craving?</h1>
+
+    <form class="field" id="form" role="search">
+      <label class="sr" for="q" hidden>Search dishes</label>
+      <input id="q" name="q" type="search" autocomplete="off"
+             placeholder="spicy noodles under $18" value="spicy noodles">
+      <button class="go" type="submit">Find it</button>
+    </form>
+
+    <div class="chips" id="chips">
+      <button class="chip" type="button" data-role="price" data-max="15" aria-pressed="false">under $15</button>
+      <button class="chip" type="button" data-role="price" data-max="20" aria-pressed="false">under $20</button>
+      <button class="chip" type="button" data-role="diet" data-tag="vegetarian" aria-pressed="false">vegetarian</button>
+      <button class="chip" type="button" data-role="diet" data-tag="vegan" aria-pressed="false">vegan</button>
+      <button class="chip" type="button" data-role="diet" data-tag="gluten-free" aria-pressed="false">gluten free</button>
+      <button class="chip" type="button" data-role="near" aria-pressed="false">near me</button>
+    </div>
+  </section>
+
+  <div class="meta" id="meta" hidden>
+    <span id="count"></span>
+    <span class="sorts">
+      <button class="sort" type="button" data-sort="relevance" aria-pressed="true">closest match</button>
+      <button class="sort" type="button" data-sort="price" aria-pressed="false">cheapest</button>
+      <button class="sort" type="button" data-sort="distance" aria-pressed="false">nearest</button>
+    </span>
+  </div>
+
+  <div id="state" class="state"></div>
+  <ul class="menu" id="menu"></ul>
+
+  <footer class="foot">
+    <p>18,000 menu items from 487 Calgary restaurants. Prices come from each
+       restaurant's own menu and can be out of date, so treat them as a guide.
+       Opening hours are not in the data yet, so nothing here says whether a
+       kitchen is open right now.</p>
+  </footer>
+
+</div>
+
+<script>
+(() => {
+  "use strict";
+
+  const $ = (id) => document.getElementById(id);
+  const form = $("form"), input = $("q"), menu = $("menu");
+  const state = $("state"), meta = $("meta"), count = $("count");
+
+  const filters = { priceMax: null, diet: new Set(), sort: "relevance" };
+  let coords = null;
+
+  // ── Rendering ──────────────────────────────────────────────────────────
+  const money = (v) => {
+    if (v === null || v === undefined || v === "") return null;
+    const n = typeof v === "number" ? v : parseFloat(String(v).replace(/[^0-9.]/g, ""));
+    return Number.isFinite(n) && n > 0 ? "$" + n.toFixed(2) : null;
+  };
+
+  function row(d, i) {
+    const li = document.createElement("li");
+    li.className = "row";
+    li.style.setProperty("animation-delay", Math.min(i, 12) * 40 + "ms");
+
+    const line = document.createElement("button");
+    line.className = "line";
+    line.type = "button";
+
+    const dish = document.createElement("span");
+    dish.className = "dish";
+    dish.textContent = d.name || "Unnamed dish";
+
+    const leader = document.createElement("span");
+    leader.className = "leader";
+    leader.style.animationDelay = Math.min(i, 12) * 40 + "ms";
+
+    const amount = document.createElement("span");
+    amount.className = "amount";
+    amount.textContent = money(d.price) || "no price";
+
+    line.append(dish, leader, amount);
+
+    const under = document.createElement("div");
+    under.className = "under";
+
+    const where = document.createElement("span");
+    where.className = "where";
+    where.textContent = d.restaurant || "Unknown restaurant";
+    under.append(where);
+
+    if (typeof d.distance_km === "number") {
+      const km = document.createElement("span");
+      km.className = "km";
+      km.dataset.near = String(d.distance_km <= 2);
+      km.textContent = d.distance_km < 1
+        ? Math.round(d.distance_km * 1000) + " m"
+        : d.distance_km.toFixed(1) + " km";
+      under.append(km);
+    }
+
+    const acts = document.createElement("span");
+    acts.className = "acts";
+
+    if (d.directions_url) {
+      const dir = document.createElement("a");
+      dir.className = "act";
+      dir.href = d.directions_url;
+      dir.target = "_blank";
+      dir.rel = "noopener";
+      dir.textContent = "directions";
+      acts.append(dir);
+    }
+
+    if (d.id) {
+      const share = document.createElement("button");
+      share.className = "act";
+      share.type = "button";
+      share.textContent = "copy link";
+      share.addEventListener("click", async () => {
+        const url = location.origin + "/d/" + encodeURIComponent(d.id);
+        try {
+          if (navigator.share) {
+            await navigator.share({ title: d.name, url });
+          } else {
+            await navigator.clipboard.writeText(url);
+            share.textContent = "copied";
+            setTimeout(() => { share.textContent = "copy link"; }, 1600);
+          }
+        } catch (_) { /* the person cancelled the share sheet */ }
+      });
+      acts.append(share);
+    }
+
+    under.append(acts);
+    li.append(line, under);
+
+    if (d.description) {
+      const note = document.createElement("p");
+      note.className = "note";
+      note.textContent = d.description;
+      note.hidden = true;
+      li.append(note);
+      line.addEventListener("click", () => { note.hidden = !note.hidden; });
+    }
+
+    return li;
+  }
+
+  function render(dishes) {
+    menu.replaceChildren();
+    dishes.forEach((d, i) => menu.append(row(d, i)));
+  }
+
+  // ── Searching ──────────────────────────────────────────────────────────
+  async function search() {
+    const query = input.value.trim();
+    state.textContent = "Searching…";
+    menu.replaceChildren();
+    meta.hidden = true;
+
+    const body = {
+      query: query || null,
+      price_max: filters.priceMax,
+      dietary: filters.diet.size ? [...filters.diet] : null,
+      sort: filters.sort,
+      limit: 25,
+    };
+    if (coords) { body.lat = coords.lat; body.lng = coords.lng; }
+
+    let data;
+    try {
+      const res = await fetch("/search-dishes", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(body),
+      });
+      if (res.status === 429) {
+        state.innerHTML = "<strong>Too many searches.</strong> Wait a minute and try again.";
+        return;
+      }
+      if (!res.ok) throw new Error(res.status);
+      data = await res.json();
+    } catch (_) {
+      state.innerHTML = "<strong>The search did not come back.</strong> Check your connection and try again.";
+      return;
+    }
+
+    const dishes = data.dishes || [];
+    if (!dishes.length) {
+      const relax = filters.priceMax ? "raise the price" : "try fewer words";
+      state.innerHTML = "<strong>Nothing matched that.</strong> " +
+        "Either " + relax + ", or drop a filter.";
+      return;
+    }
+
+    state.textContent = "";
+    count.textContent = dishes.length + (dishes.length === 1 ? " dish" : " dishes")
+      + " across " + new Set(dishes.map((d) => d.restaurant)).size + " restaurants";
+    // The server decides the order it could actually honour, so show that
+    // rather than what was asked for. Relevance needs a query to mean anything.
+    markSort(data.sort || filters.sort);
+    meta.hidden = false;
+    render(dishes);
+  }
+
+  // ── Controls ───────────────────────────────────────────────────────────
+  form.addEventListener("submit", (e) => { e.preventDefault(); search(); });
+
+  $("chips").addEventListener("click", (e) => {
+    const chip = e.target.closest(".chip");
+    if (!chip) return;
+    const on = chip.getAttribute("aria-pressed") === "true";
+
+    if (chip.dataset.role === "price") {
+      document.querySelectorAll('.chip[data-role="price"]')
+        .forEach((c) => c.setAttribute("aria-pressed", "false"));
+      chip.setAttribute("aria-pressed", String(!on));
+      filters.priceMax = on ? null : Number(chip.dataset.max);
+      return search();
+    }
+
+    if (chip.dataset.role === "diet") {
+      chip.setAttribute("aria-pressed", String(!on));
+      on ? filters.diet.delete(chip.dataset.tag) : filters.diet.add(chip.dataset.tag);
+      return search();
+    }
+
+    if (chip.dataset.role === "near") {
+      if (on) {
+        chip.setAttribute("aria-pressed", "false");
+        coords = null;
+        if (filters.sort === "distance") setSort("relevance");
+        return search();
+      }
+      if (!navigator.geolocation) {
+        state.innerHTML = "<strong>This browser will not share a location.</strong> Distances stay hidden.";
+        return;
+      }
+      chip.textContent = "locating…";
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          coords = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+          chip.textContent = "near me";
+          chip.setAttribute("aria-pressed", "true");
+          search();
+        },
+        () => {
+          chip.textContent = "near me";
+          state.innerHTML = "<strong>Location was declined.</strong> Everything still works, distances just stay hidden.";
+        },
+        { timeout: 8000 }
+      );
+    }
+  });
+
+  function markSort(active) {
+    document.querySelectorAll(".sort").forEach((b) =>
+      b.setAttribute("aria-pressed", String(b.dataset.sort === active)));
+  }
+
+  function setSort(next) {
+    filters.sort = next;
+    markSort(next);
+  }
+
+  document.querySelector(".sorts").addEventListener("click", (e) => {
+    const btn = e.target.closest(".sort");
+    if (!btn) return;
+    if (btn.dataset.sort === "distance" && !coords) {
+      state.innerHTML = "<strong>Turn on near me first.</strong> Nearest needs your location.";
+      return;
+    }
+    setSort(btn.dataset.sort);
+    search();
+  });
+
+  // ── A shared link opens on the dish itself ─────────────────────────────
+  async function openSharedDish(id) {
+    try {
+      const res = await fetch("/dish/" + encodeURIComponent(id));
+      if (!res.ok) throw new Error(res.status);
+      const { dish } = await res.json();
+      input.value = dish.name || "";
+      state.textContent = "";
+      count.textContent = "shared with you";
+      meta.hidden = false;
+      render([dish]);
+      return true;
+    } catch (_) {
+      return false;
+    }
+  }
+
+  const shared = location.pathname.match(/^\/d\/(.+)$/);
+  if (shared) {
+    openSharedDish(decodeURIComponent(shared[1])).then((ok) => { if (!ok) search(); });
+  } else {
+    // A stranger sees a real answer before being asked for anything.
+    search();
+  }
+})();
+</script>
+</body>
+</html>
