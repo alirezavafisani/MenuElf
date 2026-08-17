@@ -51,8 +51,11 @@ def check_search_rate_limit(request: Request):
 app = FastAPI()
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], allow_credentials=True,
-    allow_methods=["*"], allow_headers=["*"],
+    # Nothing here is authenticated and no cookie is ever read, so credentials
+    # stay off. A wildcard origin with credentials enabled is a misconfiguration
+    # browsers reject anyway.
+    allow_origins=["*"], allow_credentials=False,
+    allow_methods=["GET", "POST"], allow_headers=["Content-Type"],
 )
 
 
@@ -776,6 +779,8 @@ def random_dish(
             raise HTTPException(status_code=404, detail="No dishes found for that price")
 
         dish = _clean_dish_text(random.choice(candidates))
+        # Same shape as a search row, so one picked dish renders like any other.
+        dish.update(_restaurant_context(dish.get("restaurant_slug")))
 
         try:
             ip = get_real_ip(request)
@@ -825,6 +830,104 @@ def _slug_for_restaurant(name_or_slug: str) -> str | None:
     if name_or_slug in NAME_MAPPING:
         return name_or_slug
     return REVERSE_MAPPING.get(name_or_slug.lower())
+
+
+class ChatRequest(BaseModel):
+    restaurant: str
+    message: str
+    history: List[ChatMessage] = []
+
+
+CHAT_RATE_LIMIT = 30  # per IP per hour
+_chat_rate_limits: dict[str, list[float]] = defaultdict(list)
+
+
+def check_chat_rate_limit(request: Request):
+    ip = get_real_ip(request)
+    now = time.time()
+    _chat_rate_limits[ip] = [t for t in _chat_rate_limits[ip] if now - t < 3600]
+    if len(_chat_rate_limits[ip]) >= CHAT_RATE_LIMIT:
+        raise HTTPException(status_code=429, detail="Rate limit exceeded. Try again later.")
+    _chat_rate_limits[ip].append(now)
+
+
+def _build_menu_system_prompt(display_name: str, menu_json) -> str:
+    return (
+        f"You are a warm, knowledgeable food assistant for {display_name}. "
+        f"Below is the restaurant's FULL MENU in JSON.\n\n"
+        f"MENU JSON:\n{json.dumps(menu_json)}\n\n"
+        "YOUR GUIDELINES:\n"
+        "- Answer any food related question: ingredients, sauces, spiciness, dietary "
+        "information, cuisine style, cooking methods, pairings, allergens, what is good "
+        "for kids, what is vegetarian, comparisons between dishes.\n"
+        "- Use general culinary knowledge to fill gaps.\n"
+        "- When you mention a menu item, always include its price.\n"
+        "- NEVER invent a dish that is not on this menu.\n"
+        "- Be concise, two or three sentences, unless asked for more.\n"
+        "- Only decline questions completely unrelated to food or dining.\n"
+        "- Reply in plain conversational English with no markdown, no asterisks and no "
+        "bullet lists unless the person asks for a list.\n"
+        "- Write dish names in Title Case exactly as they appear on the menu.\n"
+    )
+
+
+@app.post("/chat")
+def chat_with_menu(req: ChatRequest, request: Request):
+    """Ask a question about one restaurant's menu.
+
+    Stateless on purpose. The client holds the conversation and sends it back,
+    so there is no account, no stored history and nothing to log in to.
+    """
+    check_chat_rate_limit(request)
+
+    menu_json = load_menu(req.restaurant)
+    if menu_json is None:
+        menu_json = load_menu(resolve_display_name(req.restaurant))
+
+    display_name = resolve_display_name(req.restaurant)
+    slug = _slug_for_restaurant(req.restaurant)
+
+    # Say so rather than letting the model invent dishes and prices.
+    if _menu_is_empty(menu_json, slug):
+        return {
+            "reply": (
+                f"I do not have {display_name}'s menu loaded yet. "
+                "Search for dishes on the main page instead."
+            )
+        }
+
+    messages = [{"role": "system", "content": _build_menu_system_prompt(display_name, menu_json)}]
+    for msg in req.history[-10:]:
+        messages.append({"role": msg.role, "content": msg.content})
+    messages.append({"role": "user", "content": req.message})
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini", messages=messages, temperature=0.4, max_tokens=500
+        )
+        reply = response.choices[0].message.content
+    except Exception as e:
+        print(f"OpenAI error: {e}", flush=True)
+        raise HTTPException(status_code=502, detail="The kitchen did not answer. Try again.")
+
+    try:
+        log_event("chat", get_real_ip(request), "/chat", {"restaurant": req.restaurant})
+    except Exception:
+        pass
+
+    return {"reply": reply}
+
+
+@app.get("/menu/{slug}")
+def get_restaurant_menu(slug: str):
+    """Every dish at one restaurant, for the panel behind a result row."""
+    items = [_clean_dish_text(dict(d)) for d in MENU_INDEX if d.get("restaurant_slug") == slug]
+    if not items:
+        raise HTTPException(status_code=404, detail="No menu for that restaurant")
+    # _restaurant_context is the single source of the restaurant's name, address
+    # and directions link. Computing any of them a second time here would let
+    # two answers disagree.
+    return {"slug": slug, "dishes": items, **_restaurant_context(slug)}
 
 
 
@@ -915,6 +1018,9 @@ FRONT_DIR = os.path.join(BASE_DIR, "front")
 FRONT_INDEX = os.path.join(FRONT_DIR, "index.html")
 
 if os.path.isfile(FRONT_INDEX):
+    # Fonts are self hosted, so they are served from here rather than a CDN.
+    app.mount("/front", StaticFiles(directory=FRONT_DIR), name="front")
+
     @app.get("/")
     def front_door():
         return FileResponse(FRONT_INDEX)
@@ -943,7 +1049,7 @@ if os.path.isdir(WEB_DIR):
     # style pings and some monitors use HEAD).
     _API_PREFIXES = (
         "search-dishes", "random-dish", "category-dishes", "dish",
-        "restaurants", "filter-options",
+        "restaurants", "filter-options", "chat", "menu",
         "restaurant-images", "restaurant-photo", "health",
         "assets", "api",
     )

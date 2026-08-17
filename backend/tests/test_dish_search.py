@@ -118,3 +118,67 @@ def test_restaurant_context_without_coordinates_has_no_directions(monkeypatch):
 
 def test_restaurant_context_is_empty_for_a_missing_slug():
     assert _restaurant_context(None) == {}
+
+
+# ─── Ask the kitchen ───
+
+def test_chat_says_so_when_a_menu_is_missing(monkeypatch):
+    """The honest fallback. Better to admit the gap than invent dishes."""
+    from fastapi.testclient import TestClient
+
+    monkeypatch.setattr(main, "MENU_INDEX", [])
+    monkeypatch.setattr(main, "load_menu", lambda name: None)
+
+    with TestClient(main.app) as c:
+        r = c.post("/chat", json={"restaurant": "nowhere-cafe", "message": "what is good?"})
+
+    assert r.status_code == 200
+    assert "do not have" in r.json()["reply"]
+
+
+def test_chat_history_is_capped(monkeypatch):
+    """History comes from the client, so it has to be bounded server side."""
+    from fastapi.testclient import TestClient
+
+    sent = {}
+
+    class FakeCompletions:
+        def create(self, **kwargs):
+            sent["messages"] = kwargs["messages"]
+            class M: content = "It is mild."
+            class C: message = M()
+            class R: choices = [C()]
+            return R()
+
+    monkeypatch.setattr(main, "MENU_INDEX", [{"restaurant_slug": "x", "name": "Pho", "price": "12"}])
+    monkeypatch.setattr(main, "load_menu", lambda name: [{"name": "Pho", "price": "12"}])
+    monkeypatch.setattr(main.client, "chat", type("Chat", (), {"completions": FakeCompletions()})())
+
+    history = [{"role": "user", "content": f"q{i}"} for i in range(30)]
+    with TestClient(main.app) as c:
+        r = c.post("/chat", json={"restaurant": "x", "message": "is it spicy?", "history": history})
+
+    assert r.status_code == 200
+    # one system prompt, at most ten carried turns, one new question
+    assert len(sent["messages"]) <= 12
+
+
+def test_menu_endpoint_returns_one_restaurants_dishes(monkeypatch):
+    from fastapi.testclient import TestClient
+
+    with TestClient(main.app) as c:
+        # The startup event reloads the index and the name mapping from disk, so
+        # fixtures have to be installed after the client has started.
+        monkeypatch.setattr(main, "MENU_INDEX", [
+            {"id": "a_0", "restaurant_slug": "a", "name": "Pho", "price": "12", "description": ""},
+            {"id": "b_0", "restaurant_slug": "b", "name": "Ramen", "price": "16", "description": ""},
+        ])
+        monkeypatch.setitem(main.NAME_MAPPING, "a", "A Kitchen")
+        r = c.get("/menu/a")
+        missing = c.get("/menu/zzz")
+
+    assert r.status_code == 200
+    body = r.json()
+    assert body["restaurant"] == "A Kitchen"
+    assert [d["name"] for d in body["dishes"]] == ["Pho"]
+    assert missing.status_code == 404
