@@ -851,6 +851,34 @@ def check_chat_rate_limit(request: Request):
     _chat_rate_limits[ip].append(now)
 
 
+PROMPT_MENU_CAP = 250
+
+
+def _menu_for_prompt(slug, display_name: str):
+    """The dishes the model is allowed to talk about.
+
+    MENU_INDEX is the same source that /menu/{slug} and search read, so the
+    chat cannot disagree with the list the person is looking at.
+
+    This used to call load_menu, which reads a per restaurant JSON file off
+    disk. Those files are not present on this deployment, so it returned None
+    for every restaurant. _menu_is_empty consults MENU_INDEX rather than the
+    file, so the guard never fired, and the prompt was built with the literal
+    string null in place of a menu. The model then told people it could not
+    see the menu, on a restaurant with 124 dishes in the index.
+    """
+    if slug:
+        rows = [d for d in MENU_INDEX if d.get("restaurant_slug") == slug]
+        if rows:
+            keep = ("name", "price", "description", "category", "dietary_info")
+            return [
+                {k: v for k, v in _clean_dish_text(dict(d)).items() if k in keep and v}
+                for d in rows[:PROMPT_MENU_CAP]
+            ]
+    # Fallback for any deployment that still ships the old menu files.
+    return load_menu(display_name)
+
+
 def _build_menu_system_prompt(display_name: str, menu_json) -> str:
     return (
         f"You are a warm, knowledgeable food assistant for {display_name}. "
@@ -880,12 +908,9 @@ def chat_with_menu(req: ChatRequest, request: Request):
     """
     check_chat_rate_limit(request)
 
-    menu_json = load_menu(req.restaurant)
-    if menu_json is None:
-        menu_json = load_menu(resolve_display_name(req.restaurant))
-
     display_name = resolve_display_name(req.restaurant)
-    slug = _slug_for_restaurant(req.restaurant)
+    slug = _slug_for_restaurant(req.restaurant) or req.restaurant
+    menu_json = _menu_for_prompt(slug, display_name)
 
     # Say so rather than letting the model invent dishes and prices.
     if _menu_is_empty(menu_json, slug):
