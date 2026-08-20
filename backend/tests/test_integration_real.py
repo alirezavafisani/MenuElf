@@ -4,7 +4,7 @@ Usage:
     python -m pytest backend/tests/test_integration_real.py -v -m integration
 
 These are NOT part of the regular test suite. They need network access to
-https://menuelf-production.up.railway.app and the `requests` package.
+https://menuelfapp.com and the `requests` package.
 
 Everything here checks the dish path, because that is now the whole product.
 The onboarding, taste profile, friends, group dining and chat tests that used
@@ -13,7 +13,7 @@ to live in this file were removed with the endpoints they covered.
 import pytest
 import requests
 
-BASE_URL = "https://menuelf-production.up.railway.app"
+BASE_URL = "https://menuelfapp.com"
 
 pytestmark = pytest.mark.integration
 
