@@ -851,6 +851,56 @@ def check_chat_rate_limit(request: Request):
     _chat_rate_limits[ip].append(now)
 
 
+def _price_of(d):
+    p = d.get("price")
+    return p if isinstance(p, (int, float)) and p > 0 else None
+
+
+def _cheapest(rows, limit=3):
+    """Every name tied at the lowest price, not just the first one seen."""
+    priced = [(p, d.get("name")) for d in rows if (p := _price_of(d)) is not None]
+    if not priced:
+        return None
+    low = min(p for p, _ in priced)
+    names = [n for p, n in priced if p == low and n][:limit]
+    return {"price": low, "names": names}
+
+
+def _menu_facts(rows) -> str:
+    """Arithmetic over the menu, done in code.
+
+    A model asked for the cheapest item scans a JSON blob and guesses. On Sen
+    Vietnamese Kitchen it answered $9.50 for the cheapest item and $2.95 for
+    the cheapest drink two turns later, which cannot both be true, and it put
+    the cheapest food at $9.50 when a $8.50 dessert was sitting in the list.
+    Min and max are not a language problem, so they are computed here and the
+    model is told to read them rather than work them out.
+    """
+    priced = [d for d in rows if _price_of(d) is not None]
+    if not priced:
+        return ""
+    food = [d for d in priced if is_food_dish(d)]
+    drink = [d for d in priced if is_drink_dish(d)]
+    dear = max(priced, key=_price_of)
+
+    def line(label, got):
+        if not got:
+            return None
+        names = ", ".join(got["names"])
+        tie = " (tied)" if len(got["names"]) > 1 else ""
+        return f"- {label}: {names} at ${got['price']:.2f}{tie}"
+
+    lines = [
+        line("Cheapest item on the whole menu, food or drink", _cheapest(priced)),
+        line("Cheapest food", _cheapest(food)),
+        line("Cheapest drink", _cheapest(drink)),
+        f"- Most expensive item: {dear.get('name')} at ${_price_of(dear):.2f}",
+        f"- {len(priced)} items carry a price, from ${min(map(_price_of, priced)):.2f} "
+        f"to ${_price_of(dear):.2f}",
+    ]
+    return "\n".join(l for l in lines if l)
+
+
 PROMPT_MENU_CAP = 250
 
 
@@ -879,12 +929,19 @@ def _menu_for_prompt(slug, display_name: str):
     return load_menu(display_name)
 
 
-def _build_menu_system_prompt(display_name: str, menu_json) -> str:
+def _build_menu_system_prompt(display_name: str, menu_json, facts: str = "") -> str:
+    computed = (
+        f"COUNTED FROM THE MENU, USE THESE VERBATIM:\n{facts}\n\n" if facts else ""
+    )
     return (
         f"You are a warm, knowledgeable food assistant for {display_name}. "
         f"Below is the restaurant's FULL MENU in JSON.\n\n"
         f"MENU JSON:\n{json.dumps(menu_json)}\n\n"
+        f"{computed}"
         "YOUR GUIDELINES:\n"
+        "- For anything about cheapest, most expensive, price range or how many "
+        "items there are, read the counted lines above and use them exactly. Do "
+        "not work it out from the JSON yourself, and say when prices are tied.\n"
         "- Answer any food related question: ingredients, sauces, spiciness, dietary "
         "information, cuisine style, cooking methods, pairings, allergens, what is good "
         "for kids, what is vegetarian, comparisons between dishes.\n"
@@ -921,7 +978,10 @@ def chat_with_menu(req: ChatRequest, request: Request):
             )
         }
 
-    messages = [{"role": "system", "content": _build_menu_system_prompt(display_name, menu_json)}]
+    facts = _menu_facts([d for d in MENU_INDEX if d.get("restaurant_slug") == slug])
+    messages = [
+        {"role": "system", "content": _build_menu_system_prompt(display_name, menu_json, facts)}
+    ]
     for msg in req.history[-10:]:
         messages.append({"role": msg.role, "content": msg.content})
     messages.append({"role": "user", "content": req.message})
