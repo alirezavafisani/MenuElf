@@ -578,9 +578,15 @@ finish review, the verdict, and DESIGN.md
       const walk = document.createElement("span");
       walk.className = "walk";
       walk.dataset.close = String(d.distance_km <= 2);
-      walk.textContent = d.distance_km < 1
+      // Straight line, not road distance. Google routes the Cat N Fiddle at
+      // 7.3km where this reads 5.1km, because the river has few crossings. A
+      // bare number reads as travel distance and would have people comparing
+      // dishes on the wrong one. "direct" is the cheap honest fix; the
+      // directions link already hands the real route to Google.
+      walk.textContent = (d.distance_km < 1
         ? Math.round(d.distance_km * 1000) + " m"
-        : d.distance_km.toFixed(1) + " km";
+        : d.distance_km.toFixed(1) + " km") + " direct";
+      walk.title = "Straight line distance. Tap directions for the road route.";
       beneath.append(walk);
     }
 
